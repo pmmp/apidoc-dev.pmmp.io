@@ -26,7 +26,7 @@ jobs:
 
       - name: Build Doxygen
         if: steps.doxygen-cache.outputs.cache-hit != 'true'
-        run:
+        run: |
           curl -L https://github.com/doxygen/doxygen/archive/Release_${{ matrix.doxygen_version }}.tar.gz | tar -zx
           mv doxygen-Release_${{ matrix.doxygen_version }} doxygen-src
           mkdir doxygen-src/build && cd doxygen-src/build
