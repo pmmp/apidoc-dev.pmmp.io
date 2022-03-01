@@ -27,8 +27,8 @@ jobs:
         id: doxygen-cache
         uses: actions/cache@v2
         with:
-          path: ${{ github.workspace }}/doxygen-src/build
-          key: doxygen-src-${{ matrix.doxygen_version }}
+          path: ${{ github.workspace }}/doxygen-src
+          key: doxygen-src-${{ matrix.doxygen_version }}-2
 
       - name: Build Doxygen
         if: steps.doxygen-cache.outputs.cache-hit != 'true'
