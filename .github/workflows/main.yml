@@ -87,7 +87,7 @@ jobs:
           rm -rf ./Documentation
           mkdir ./Documentation
 
-          cat doxygen.conf | sed "s#PM_VERSION#${{ steps.get-pm-version.outputs.PM_VERSION }} git-${GIT_COMMIT}#g" > Doxyfile
+          cat doxygen.conf | sed "s#PM_VERSION#${{ steps.get-pm-version.outputs.PM_VERSION }} git-${GITHUB_SHA}#g" > Doxyfile
 
       - name: Run Doxygen
         working-directory: ${{ github.workspace }}/pocketmine-mp/doxygen
