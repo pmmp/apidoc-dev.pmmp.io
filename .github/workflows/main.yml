@@ -80,6 +80,7 @@ jobs:
         working-directory: ${{ github.workspace }}/pocketmine-mp
         run: |
           echo ::set-output name=PM_VERSION::$(php -r 'require "vendor/autoload.php"; echo \pocketmine\VersionInfo::BASE_VERSION;')
+          echo ::set-output name=PM_GIT_HASH::$(git rev-parse HEAD)
 
       - name: Generate Doxygen directory and configuration
         working-directory: ${{ github.workspace }}/pocketmine-mp/doxygen
@@ -87,7 +88,7 @@ jobs:
           rm -rf ./Documentation
           mkdir ./Documentation
 
-          cat doxygen.conf | sed "s#PM_VERSION#${{ steps.get-pm-version.outputs.PM_VERSION }} git-${GITHUB_SHA}#g" > Doxyfile
+          cat doxygen.conf | sed "s#PM_VERSION#${{ steps.get-pm-version.outputs.PM_VERSION }} git-${{ steps.get-pm-version.outputs.PM_GIT_HASH }}#g" > Doxyfile
 
       - name: Run Doxygen
         working-directory: ${{ github.workspace }}/pocketmine-mp/doxygen
@@ -103,7 +104,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add ./docs
-          git diff-index --quiet HEAD || git commit -m "Update API docs for pmmp/PocketMine-MP@${{ github.sha }}"
+          git diff-index --quiet HEAD || git commit -m "Update API docs for pmmp/PocketMine-MP@${{ steps.get-pm-version.outputs.PM_GIT_HASH }}"
 
       - name: Push changes
         run: git push
