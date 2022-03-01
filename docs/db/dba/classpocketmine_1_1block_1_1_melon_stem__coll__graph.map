@@ -1,0 +1,13 @@
+<map id="pocketmine\block\MelonStem" name="pocketmine\block\MelonStem">
+<area shape="rect" id="node1" title=" " alt="" coords="11,1739,226,1816"/>
+<area shape="rect" id="node2" href="$dc/d0c/classpocketmine_1_1block_1_1_stem.html" title=" " alt="" coords="5,1583,232,1689"/>
+<area shape="rect" id="node3" href="$d2/d70/classpocketmine_1_1block_1_1_crops.html" title=" " alt="" coords="21,1324,216,1533"/>
+<area shape="rect" id="node4" href="$d3/d1e/classpocketmine_1_1block_1_1_flowable.html" title=" " alt="" coords="161,1168,375,1275"/>
+<area shape="rect" id="node5" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="225,1041,442,1119"/>
+<area shape="rect" id="node6" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="355,681,570,979"/>
+<area shape="rect" id="node7" title=" " alt="" coords="91,123,149,200"/>
+<area shape="rect" id="node9" href="$d3/d10/classpocketmine_1_1block_1_1_block_break_info.html" title=" " alt="" coords="343,395,583,619"/>
+<area shape="rect" id="node8" href="$dd/d18/classpocketmine_1_1block_1_1_block_identifier.html" title=" " alt="" coords="607,431,841,582"/>
+<area shape="rect" id="node10" href="$d5/dd2/classpocketmine_1_1world_1_1_position.html" title=" " alt="" coords="865,417,1060,597"/>
+<area shape="rect" id="node11" href="$d2/d90/classpocketmine_1_1math_1_1_vector3.html" title=" " alt="" coords="868,5,1057,317"/>
+</map>
