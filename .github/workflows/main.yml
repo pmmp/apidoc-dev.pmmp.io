@@ -95,14 +95,14 @@ jobs:
 
       - name: Copy Doxygen files
         run: |
-          rm -rf ${{ github.workspace }}/Documentation
-          cp -r ${{ github.workspace }}/pocketmine-mp/doxygen/Documentation ${{ github.workspace }}
-      
+          rm -rf ${{ github.workspace }}/docs
+          cp -r ${{ github.workspace }}/pocketmine-mp/doxygen/Documentation ${{ github.workspace }}/docs
+
       - name: Commit updated documentation
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add ./Documentation
+          git add ./docs
           git diff-index --quiet HEAD || git commit -m "Update API docs for pmmp/PocketMine-MP@${{ github.sha }}"
 
       - name: Push changes
