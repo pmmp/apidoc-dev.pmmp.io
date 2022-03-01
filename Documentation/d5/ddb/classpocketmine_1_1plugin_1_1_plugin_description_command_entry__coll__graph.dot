@@ -1,8 +1,0 @@
-digraph "pocketmine\plugin\PluginDescriptionCommandEntry"
-{
- // INTERACTIVE_SVG=YES
- // LATEX_PDF_SIZE
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  Node1 [label="{pocketmine\\plugin\\Plugin\lDescriptionCommandEntry\n||+ __construct()\l+ getAliases()\l+ getDescription()\l+ getPermission()\l+ getPermissionDeniedMessage()\l+ getUsageMessage()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
-}

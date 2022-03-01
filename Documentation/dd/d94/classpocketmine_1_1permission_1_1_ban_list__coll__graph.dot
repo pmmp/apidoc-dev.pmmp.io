@@ -1,8 +1,0 @@
-digraph "pocketmine\permission\BanList"
-{
- // INTERACTIVE_SVG=YES
- // LATEX_PDF_SIZE
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  Node1 [label="{pocketmine\\permission\l\\BanList\n||+ __construct()\l+ add()\l+ addBan()\l+ getEntries()\l+ getEntry()\l+ isBanned()\l+ isEnabled()\l+ load()\l+ remove()\l+ removeExpired()\l+ save()\l+ setEnabled()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
-}

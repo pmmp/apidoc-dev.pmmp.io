@@ -1,8 +1,0 @@
-digraph "pocketmine\permission\PermissionAttachment"
-{
- // INTERACTIVE_SVG=YES
- // LATEX_PDF_SIZE
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  Node1 [label="{pocketmine\\permission\l\\PermissionAttachment\n||+ __construct()\l+ clearPermissions()\l+ getPermissions()\l+ getPlugin()\l+ getSubscribers()\l+ setPermission()\l+ setPermissions()\l+ subscribePermissible()\l+ unsetPermission()\l+ unsetPermissions()\l+ unsubscribePermissible()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
-}

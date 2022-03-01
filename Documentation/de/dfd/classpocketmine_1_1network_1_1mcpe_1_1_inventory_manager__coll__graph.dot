@@ -1,8 +1,0 @@
-digraph "pocketmine\network\mcpe\InventoryManager"
-{
- // INTERACTIVE_SVG=YES
- // LATEX_PDF_SIZE
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  Node1 [label="{pocketmine\\network\l\\mcpe\\InventoryManager\n|# $openHardcodedWindows\l|+ __construct()\l+ getContainerOpenCallbacks()\l+ getCurrentWindowId()\l+ getWindow()\l+ getWindowId()\l+ onClientOpenMainInventory()\l+ onClientRemoveWindow()\l+ onClientSelectHotbarSlot()\l+ onCurrentWindowChange()\l+ onCurrentWindowRemove()\land 7 more...\l# createContainerOpen()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
-}

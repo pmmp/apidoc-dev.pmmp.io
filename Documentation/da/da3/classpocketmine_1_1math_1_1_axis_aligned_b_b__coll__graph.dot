@@ -1,8 +1,0 @@
-digraph "pocketmine\math\AxisAlignedBB"
-{
- // INTERACTIVE_SVG=YES
- // LATEX_PDF_SIZE
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  Node1 [label="{pocketmine\\math\\AxisAlignedBB\n|+ $maxX\l+ $maxY\l+ $maxZ\l+ $minX\l+ $minY\l+ $minZ\l|+ __construct()\l+ __toString()\l+ addCoord()\l+ calculateIntercept()\l+ calculateXOffset()\l+ calculateYOffset()\l+ calculateZOffset()\l+ contract()\l+ contractedCopy()\l+ expand()\land 22 more...\l+ one()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
-}
