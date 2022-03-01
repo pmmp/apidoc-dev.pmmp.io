@@ -100,7 +100,7 @@ jobs:
           rm -rf ${{ github.workspace }}/docs
           cp -r ${{ github.workspace }}/pocketmine-mp/doxygen/Documentation ${{ github.workspace }}/docs
           cp ./CNAME_tmp ${{ github.workspace }}/docs/CNAME
-          touch ${{ github.workspace }}/.nojekyll
+          touch ${{ github.workspace }}/docs/.nojekyll
 
       - name: Commit updated documentation
         run: |
