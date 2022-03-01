@@ -96,8 +96,10 @@ jobs:
 
       - name: Copy Doxygen files
         run: |
+          cp ${{ github.workspace }}/docs/CNAME ./CNAME_tmp
           rm -rf ${{ github.workspace }}/docs
           cp -r ${{ github.workspace }}/pocketmine-mp/doxygen/Documentation ${{ github.workspace }}/docs
+          cp ./CNAME_tmp ${{ github.workspace }}/docs/CNAME
 
       - name: Commit updated documentation
         run: |
