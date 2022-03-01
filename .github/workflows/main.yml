@@ -15,7 +15,8 @@ jobs:
         doxygen_version: [1_9_3]
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Clone repository
+        uses: actions/checkout@v3
 
       - name: Doxygen cache
         id: doxygen-cache
@@ -37,7 +38,8 @@ jobs:
         working-directory: ${{ github.workspace }}/doxygen-src/build
         run: make install
 
-      - uses: actions/checkout@v3
+      - name: Clone PocketMine-MP git repository
+        uses: actions/checkout@v3
         with:
           repository: pmmp/PocketMine-MP
           ref: next-major
