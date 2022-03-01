@@ -1,0 +1,102 @@
+name: Weekly API docs build
+
+on:
+  schedule:
+    - cron: 0 0 * * MON
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+    concurrency: api-docs
+
+    strategy:
+      matrix:
+        doxygen_version: [1_9_3]
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Doxygen cache
+        id: doxygen-cache
+        uses: actions/cache@v2
+        with:
+          path: ${{ github.workspace }}/doxygen-src/build
+          key: doxygen-src-${{ matrix.doxygen_version }}
+
+      - name: Build Doxygen
+        if: steps.doxygen-cache.outputs.cache-hit != 'true'
+        run:
+          curl -L https://github.com/doxygen/doxygen/archive/Release_${{ matrix.doxygen_version }}.tar.gz | tar -zx
+          mv doxygen-Release_${{ matrix.doxygen_version }} doxygen-src
+          mkdir doxygen-src/build && cd doxygen-src/build
+          cmake -G "Unix Makefiles" ..
+          make -j8
+
+      - name: Install Doxygen
+        working-directory: ${{ github.workspace }}/doxygen-src/build
+        run: make install
+
+      - uses: actions/checkout@v3
+        with:
+          repository: pmmp/PocketMine-MP
+          ref: next-major
+          depth: 1
+          path: pocketmine-mp
+
+      - name: Build and prepare PHP cache
+        uses: pmmp/setup-php-action@aa636a4fe0c1c035fd9a3f05e360eadd86e06440
+        with:
+          php-version: 8.0.16
+          install-path: "./bin"
+
+      #TODO: this composer stuff really needs to be de-duplicated :(
+      - name: Install Composer
+        run: curl -sS https://getcomposer.org/installer | php
+
+      - name: Restore Composer package cache
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/.cache/composer/files
+            ~/.cache/composer/vcs
+          key: "composer-v2-cache-${{ matrix.php }}-${{ hashFiles('./composer.lock') }}"
+          restore-keys: |
+            composer-v2-cache-
+
+      - name: Install Composer dependencies
+        working-directory: ${{ github.workspace }}/pocketmine-mp
+        run: php composer.phar install --prefer-dist --no-interaction
+
+      - name: Get PocketMine-MP release version
+        id: get-pm-version
+        working-directory: ${{ github.workspace }}/pocketmine-mp
+        run: |
+          echo ::set-output name=PM_VERSION::$(php -r 'require "vendor/autoload.php"; echo \pocketmine\VersionInfo::BASE_VERSION;')
+
+      - name: Generate Doxygen directory and configuration
+        working-directory: ${{ github.workspace }}/pocketmine-mp/doxygen
+        run: |
+          rm -rf ./Documentation
+          mkdir ./Documentation
+
+          cat doxygen.conf | sed "s#PM_VERSION#${{ steps.get-pm-version.outputs.PM_VERSION }} git-${GIT_COMMIT}#g" > Doxyfile
+
+      - name: Run Doxygen
+        working-directory: ${{ github.workspace }}/pocketmine-mp/doxygen
+        run: doxygen Doxyfile
+
+      - name: Copy Doxygen files
+        run: |
+          rm -rf ${{ github.workspace }}/Documentation
+          cp -r ${{ github.workspace }}/pocketmine-mp/doxygen/Documentation ${{ github.workspace }}
+      
+      - name: Commit updated documentation
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add ./Documentation
+          git diff-index --quiet HEAD || git commit -m "Update API docs for pmmp/PocketMine-MP@${{ github.sha }}"
+
+      - name: Push changes
+        run: git push
