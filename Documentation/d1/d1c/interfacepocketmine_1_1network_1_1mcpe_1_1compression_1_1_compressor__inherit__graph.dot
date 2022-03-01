@@ -1,0 +1,10 @@
+digraph "pocketmine\network\mcpe\compression\Compressor"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\network\l\\mcpe\\compression\\Compressor\n||+ compress()\l+ decompress()\l+ willCompress()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node2 [label="{pocketmine\\network\l\\mcpe\\compression\\ZlibCompressor\n|+ DEFAULT_LEVEL\l+ DEFAULT_MAX_DECOMPRESSION_SIZE\l+ DEFAULT_THRESHOLD\l|+ __construct()\l+ compress()\l+ decompress()\l+ willCompress()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d2/db8/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_zlib_compressor.html",tooltip=" "];
+}

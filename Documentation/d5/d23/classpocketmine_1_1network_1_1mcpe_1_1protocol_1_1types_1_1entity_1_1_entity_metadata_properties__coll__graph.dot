@@ -1,0 +1,10 @@
+digraph "pocketmine\network\mcpe\protocol\types\entity\EntityMetadataProperties"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\entity\\EntityMetadataProperties\n|+ AREA_EFFECT_CLOUD_RADIUS\l_PER_TICK\l+ AREA_EFFECT_CLOUD_SPAWN_TIME\l+ AREA_EFFECT_CLOUD_WAITING\l+ ARMOR_STAND_POSE_INDEX\l+ BALLOON_ATTACHED_ENTITY\l+ BLOCK_TARGET\l+ BOAT_BUBBLE_TIME\l+ BOUNDING_BOX_HEIGHT\l+ BOUNDING_BOX_WIDTH\l+ CHARGE_AMOUNT\land 73 more...\l|}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +AIR\n+ALWAYS_SHOW_NAMETAG\n+AMBIENT_SOUND_EVENT\n+AMBIENT_SOUND_INTERVAL\l_MIN\n+AMBIENT_SOUND_INTERVAL\l_RANGE\n+AREA_EFFECT_CLOUD\l_DURATION\n+AREA_EFFECT_CLOUD\l_PARTICLE_ID\n+AREA_EFFECT_CLOUD\l_PICKUP_COUNT\n+AREA_EFFECT_CLOUD\l_RADIUS\n+AREA_EFFECT_CLOUD\l_RADIUS_CHANGE_ON_PICKUP\n..." ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{const\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+}

@@ -1,0 +1,8 @@
+digraph "pocketmine\permission\BanEntry"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\permission\l\\BanEntry\n|+ $format\l|+ __construct()\l+ getCreated()\l+ getExpires()\l+ getName()\l+ getReason()\l+ getSource()\l+ getString()\l+ hasExpired()\l+ setCreated()\l+ setExpires()\l+ setReason()\l+ setSource()\l+ fromString()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+}

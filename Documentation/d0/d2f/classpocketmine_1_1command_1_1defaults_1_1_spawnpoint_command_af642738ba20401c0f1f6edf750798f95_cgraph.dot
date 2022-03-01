@@ -1,0 +1,11 @@
+digraph "pocketmine\command\defaults\SpawnpointCommand\execute"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pocketmine\\command\l\\defaults\\SpawnpointCommand\l\\execute",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pocketmine\\world\\Position\l\\fromObject",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dd2/classpocketmine_1_1world_1_1_position.html#a93345dd3bfc4cb57a4e94d6d2462eed4",tooltip=" "];
+}

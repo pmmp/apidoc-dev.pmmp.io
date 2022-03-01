@@ -1,0 +1,10 @@
+digraph "pocketmine\network\mcpe\protocol\types\DeviceOS"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\DeviceOS\n|+ UNKNOWN\l+ WIN32\l+ WINDOWS_10\l+ WINDOWS_PHONE\l+ XBOX\l|}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +AMAZON\n+ANDROID\n+DEDICATED\n+GEAR_VR\n+HOLOLENS\n+IOS\n+NINTENDO\n+OSX\n+PLAYSTATION\n+TVOS\n..." ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{const\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+}

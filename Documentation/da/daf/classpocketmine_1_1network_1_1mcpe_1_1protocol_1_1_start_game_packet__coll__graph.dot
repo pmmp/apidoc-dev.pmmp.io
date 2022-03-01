@@ -1,0 +1,33 @@
+digraph "pocketmine\network\mcpe\protocol\StartGamePacket"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\network\l\\mcpe\\protocol\\StartGamePacket\n|+ $actorRuntimeId\l+ $actorUniqueId\l+ $blockPalette\l+ $blockPaletteChecksum\l+ $currentTick\l+ $enableNewInventorySystem\l+ $enchantmentSeed\l+ $isTrial\l+ $itemTable\l+ $levelId\land 7 more...\l|+ handle()\l+ create()\l# decodePayload()\l# encodePayload()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node2 [label="{pocketmine\\network\l\\mcpe\\protocol\\DataPacket\n|+ $recipientSubId\l+ $senderSubId\l|+ __get()\l+ __set()\l+ canBeSentBeforeLogin()\l+ decode()\l+ encode()\l+ getName()\l+ pid()\l# decodeHeader()\l# decodePayload()\l# encodeHeader()\l# encodePayload()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d1/ddb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_data_packet.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node3 [label="{pocketmine\\network\l\\mcpe\\protocol\\Packet\n||+ canBeSentBeforeLogin()\l+ decode()\l+ encode()\l+ getName()\l+ handle()\l+ pid()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d4/d5d/interfacepocketmine_1_1network_1_1mcpe_1_1protocol_1_1_packet.html",tooltip=" "];
+  Node4 -> Node2 [color="grey25",fontsize="10",style="solid",label=" +NETWORK_ID\n+PID_MASK" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node4 [label="{const\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node5 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node5 [label="{pocketmine\\network\l\\mcpe\\protocol\\Clientbound\lPacket\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$da/d77/interfacepocketmine_1_1network_1_1mcpe_1_1protocol_1_1_clientbound_packet.html",tooltip=" "];
+  Node3 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node4 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +NETWORK_ID" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node6 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +$playerPosition" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node6 [label="{pocketmine\\math\\Vector3\n|+ $x\l+ $y\l+ $z\l|+ __construct()\l+ __toString()\l+ abs()\l+ add()\l+ addVector()\l+ asVector3()\l+ ceil()\l+ cross()\l+ distance()\l+ distanceSquared()\land 32 more...\l+ maxComponents()\l+ minComponents()\l+ sum()\l+ zero()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d2/d90/classpocketmine_1_1math_1_1_vector3.html",tooltip=" "];
+  Node7 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +$levelSettings" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node7 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\LevelSettings\n|+ $commandsEnabled\l+ $defaultPlayerPermission\l+ $difficulty\l+ $eduEditionOffer\l+ $eduProductUUID\l+ $experimentalGameplayOverride\l+ $gameRules\l+ $generator\l+ $hasAchievementsDisabled\l+ $hasBonusChestEnabled\land 25 more...\l|+ write()\l+ read()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$de/dea/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_level_settings.html",tooltip=" "];
+  Node8 -> Node7 [color="grey25",fontsize="10",style="solid",label=" +$spawnSettings" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node8 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\SpawnSettings\n||+ __construct()\l+ getBiomeName()\l+ getBiomeType()\l+ getDimension()\l+ write()\l+ read()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d9/d71/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_spawn_settings.html",tooltip=" "];
+  Node4 -> Node8 [color="grey25",fontsize="10",style="solid",label=" +BIOME_TYPE_DEFAULT\n+BIOME_TYPE_USER_DEFINED" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node9 -> Node7 [color="grey25",fontsize="10",style="solid",label=" +$spawnPosition" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node9 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\BlockPosition\n||+ __construct()\l+ equals()\l+ getX()\l+ getY()\l+ getZ()\l+ fromVector3()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d1/d5f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_block_position.html",tooltip=" "];
+  Node10 -> Node7 [color="grey25",fontsize="10",style="solid",label=" +$experiments" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node10 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\Experiments\n||+ __construct()\l+ getExperiments()\l+ hasPreviouslyUsedExperiments()\l+ write()\l+ read()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$db/d33/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_experiments.html",tooltip=" "];
+  Node11 -> Node7 [color="grey25",fontsize="10",style="solid",label=" +$eduSharedUriResource" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node11 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\EducationUriResource\n||+ __construct()\l+ getButtonName()\l+ getLinkUri()\l+ write()\l+ read()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d4/d9b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_education_uri_resource.html",tooltip=" "];
+  Node12 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +$playerMovementSettings" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node12 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\PlayerMovementSettings\n||+ __construct()\l+ getMovementType()\l+ getRewindHistorySize()\l+ isServerAuthoritativeBlock\lBreaking()\l+ write()\l+ read()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d1/df0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_player_movement_settings.html",tooltip=" "];
+}

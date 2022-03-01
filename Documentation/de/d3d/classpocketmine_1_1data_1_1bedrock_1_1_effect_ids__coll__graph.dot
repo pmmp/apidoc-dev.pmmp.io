@@ -1,0 +1,10 @@
+digraph "pocketmine\data\bedrock\EffectIds"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\data\\bedrock\l\\EffectIds\n|+ INSTANT_HEALTH\l+ INVISIBILITY\l+ JUMP_BOOST\l+ LEVITATION\l+ MINING_FATIGUE\l+ NAUSEA\l+ NIGHT_VISION\l+ POISON\l+ REGENERATION\l+ RESISTANCE\land 9 more...\l|}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +ABSORPTION\n+BAD_OMEN\n+BLINDNESS\n+CONDUIT_POWER\n+FATAL_POISON\n+FIRE_RESISTANCE\n+HASTE\n+HEALTH_BOOST\n+HUNGER\n+INSTANT_DAMAGE\n..." ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{const\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+}

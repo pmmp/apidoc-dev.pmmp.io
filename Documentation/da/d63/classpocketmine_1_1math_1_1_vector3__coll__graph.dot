@@ -1,0 +1,8 @@
+digraph "pocketmine\math\Vector3"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\math\\Vector3\n|+ $x\l+ $y\l+ $z\l|+ __construct()\l+ __toString()\l+ abs()\l+ add()\l+ addVector()\l+ asVector3()\l+ ceil()\l+ cross()\l+ distance()\l+ distanceSquared()\land 32 more...\l+ maxComponents()\l+ minComponents()\l+ sum()\l+ zero()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+}

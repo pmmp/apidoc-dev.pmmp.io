@@ -1,0 +1,12 @@
+digraph "raklib\protocol\NewIncomingConnection"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{raklib\\protocol\\NewIncoming\lConnection\n|+ $address\l+ $sendPingTime\l+ $sendPongTime\l+ $systemAddresses\l+ $ID\l|# decodePayload()\l# encodePayload()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node2 [label="{raklib\\protocol\\Connected\lPacket\n||}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/dd4/classraklib_1_1protocol_1_1_connected_packet.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node3 [label="{raklib\\protocol\\Packet\n|+ $ID\l|+ decode()\l+ encode()\l# decodeHeader()\l# decodePayload()\l# encodeHeader()\l# encodePayload()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d6/d53/classraklib_1_1protocol_1_1_packet.html",tooltip=" "];
+}

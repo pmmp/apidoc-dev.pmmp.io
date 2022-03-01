@@ -1,0 +1,18 @@
+digraph "pocketmine\event\entity\EntityDamageByChildEntityEvent"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\event\\entity\l\\EntityDamageByChildEntityEvent\n||+ __construct()\l+ getChild()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node2 [label="{pocketmine\\event\\entity\l\\EntityDamageByEntityEvent\n||+ __construct()\l+ getDamager()\l+ getKnockBack()\l+ setKnockBack()\l# addAttackerModifiers()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d34/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_entity_event.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node3 [label="{pocketmine\\event\\entity\l\\EntityDamageEvent\n|+ CAUSE_BLOCK_EXPLOSION\l+ CAUSE_CONTACT\l+ CAUSE_CUSTOM\l+ CAUSE_DROWNING\l+ CAUSE_ENTITY_ATTACK\l+ CAUSE_ENTITY_EXPLOSION\l+ CAUSE_FALL\l+ CAUSE_FIRE\l+ CAUSE_FIRE_TICK\l+ CAUSE_LAVA\land 16 more...\l|+ __construct()\l+ canBeReducedByArmor()\l+ getAttackCooldown()\l+ getBaseDamage()\l+ getCause()\l+ getFinalDamage()\l+ getModifier()\l+ getModifiers()\l+ getOriginalBaseDamage()\l+ getOriginalModifier()\l+ getOriginalModifiers()\l+ isApplicable()\l+ setAttackCooldown()\l+ setBaseDamage()\l+ setModifier()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/de3/classpocketmine_1_1event_1_1entity_1_1_entity_damage_event.html",tooltip=" "];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node4 [label="{pocketmine\\event\\entity\l\\EntityEvent\n|# $entity\l|+ getEntity()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d84/classpocketmine_1_1event_1_1entity_1_1_entity_event.html",tooltip=" "];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node5 [label="{pocketmine\\event\\Event\n|# $eventName\l|+ call()\l+ getEventName()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d1/d2f/classpocketmine_1_1event_1_1_event.html",tooltip=" "];
+  Node6 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node6 [label="{pocketmine\\event\\Cancellable\n||+ isCancelled()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d62/interfacepocketmine_1_1event_1_1_cancellable.html",tooltip=" "];
+}

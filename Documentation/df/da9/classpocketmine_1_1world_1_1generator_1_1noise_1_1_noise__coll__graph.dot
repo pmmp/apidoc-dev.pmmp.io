@@ -1,0 +1,8 @@
+digraph "pocketmine\world\generator\noise\Noise"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\world\\generator\l\\noise\\Noise\n|# $expansion\l# $octaves\l# $persistence\l|+ __construct()\l+ getFastNoise1D()\l+ getFastNoise2D()\l+ getFastNoise3D()\l+ getNoise2D()\l+ getNoise3D()\l+ noise2D()\l+ noise3D()\l+ bilinearLerp()\l+ linearLerp()\l+ trilinearLerp()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+}

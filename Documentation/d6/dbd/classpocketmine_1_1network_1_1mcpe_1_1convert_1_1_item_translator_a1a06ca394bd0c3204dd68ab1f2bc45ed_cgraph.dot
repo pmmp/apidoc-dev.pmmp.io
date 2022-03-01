@@ -1,0 +1,11 @@
+digraph "pocketmine\network\mcpe\convert\ItemTranslator\__construct"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pocketmine\\network\l\\mcpe\\convert\\ItemTranslator\l\\__construct",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pocketmine\\network\l\\mcpe\\protocol\\serializer\l\\ItemTypeDictionary\\getEntries",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_item_type_dictionary.html#a1ad4ad3c335214e63ccf19e0a7cf83af",tooltip=" "];
+}

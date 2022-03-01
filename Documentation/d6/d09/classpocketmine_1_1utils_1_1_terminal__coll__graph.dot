@@ -1,0 +1,8 @@
+digraph "pocketmine\utils\Terminal"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\utils\\Terminal\n|+ $COLOR_AQUA\l+ $COLOR_BLACK\l+ $COLOR_BLUE\l+ $COLOR_DARK_AQUA\l+ $COLOR_DARK_BLUE\l+ $COLOR_DARK_GRAY\l+ $COLOR_DARK_GREEN\l+ $COLOR_DARK_RED\l+ $COLOR_GOLD\l+ $COLOR_GRAY\land 13 more...\l|+ hasFormattingCodes()\l+ init()\l+ isInit()\l+ toANSI()\l+ write()\l+ writeLine()\l# getEscapeCodes()\l# getFallbackEscapeCodes()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+}

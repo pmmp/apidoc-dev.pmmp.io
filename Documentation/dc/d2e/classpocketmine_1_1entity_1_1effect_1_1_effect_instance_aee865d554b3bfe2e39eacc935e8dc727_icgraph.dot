@@ -1,0 +1,15 @@
+digraph "pocketmine\entity\effect\EffectInstance\getDuration"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="pocketmine\\entity\\effect\l\\EffectInstance\\getDuration",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pocketmine\\entity\\effect\l\\PoisonEffect\\canTick",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d23/classpocketmine_1_1entity_1_1effect_1_1_poison_effect.html#add066ad4bb08d8d30cffc111e1854b15",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pocketmine\\entity\\effect\l\\RegenerationEffect\\canTick",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d26/classpocketmine_1_1entity_1_1effect_1_1_regeneration_effect.html#a69015c65f2aba533b51af67f3a7d3b51",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pocketmine\\entity\\effect\l\\WitherEffect\\canTick",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dae/classpocketmine_1_1entity_1_1effect_1_1_wither_effect.html#aa407cafc8c1a13a2b7dae07155c89f99",tooltip=" "];
+}

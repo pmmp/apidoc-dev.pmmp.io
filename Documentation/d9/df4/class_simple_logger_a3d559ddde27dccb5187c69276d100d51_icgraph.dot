@@ -1,0 +1,27 @@
+digraph "SimpleLogger\log"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="SimpleLogger\\log",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="SimpleLogger\\alert",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/df4/class_simple_logger.html#a18c9c3477da9371850189ce16f526702",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="SimpleLogger\\critical",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/df4/class_simple_logger.html#a025da7129259570211e72094ea4c9944",tooltip=" "];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="SimpleLogger\\logException",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/df4/class_simple_logger.html#ab89ae4454c3912980ace2d01fdf9b102",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="SimpleLogger\\debug",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/df4/class_simple_logger.html#af481321b150b700b751722731a1100ac",tooltip=" "];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="SimpleLogger\\emergency",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/df4/class_simple_logger.html#afd90b06678e950d3df1fa3040ec2e39b",tooltip=" "];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="SimpleLogger\\error",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/df4/class_simple_logger.html#a3f97cf8197331c69b234d20739ab1351",tooltip=" "];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="SimpleLogger\\info",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/df4/class_simple_logger.html#aed7a354e34ecefc1e06093be3b840453",tooltip=" "];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="SimpleLogger\\notice",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/df4/class_simple_logger.html#a7ac1aa95a08676d825b73abb4ea2d235",tooltip=" "];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="SimpleLogger\\warning",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/df4/class_simple_logger.html#a90d56758056875ee454cc49da1eda0e0",tooltip=" "];
+}

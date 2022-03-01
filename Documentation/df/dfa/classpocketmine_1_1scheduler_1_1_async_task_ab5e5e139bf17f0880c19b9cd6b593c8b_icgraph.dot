@@ -1,0 +1,21 @@
+digraph "pocketmine\scheduler\AsyncTask\storeLocal"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="pocketmine\\scheduler\l\\AsyncTask\\storeLocal",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pocketmine\\network\l\\mcpe\\auth\\ProcessLoginTask\l\\__construct",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/df7/classpocketmine_1_1network_1_1mcpe_1_1auth_1_1_process_login_task.html#a531cbb9ef417982c493c618c5da6d19f",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pocketmine\\scheduler\l\\BulkCurlTask\\__construct",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d18/classpocketmine_1_1scheduler_1_1_bulk_curl_task.html#abab1f348bbf2a91996a51890e137c3f8",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pocketmine\\world\\light\l\\LightPopulationTask\\\l__construct",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d7c/classpocketmine_1_1world_1_1light_1_1_light_population_task.html#a9039acb7a57973b64b732ae79458bdc2",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pocketmine\\network\l\\mcpe\\ChunkRequestTask\l\\__construct",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d46/classpocketmine_1_1network_1_1mcpe_1_1_chunk_request_task.html#a70695495c5727438bb1ad6f45b478808",tooltip=" "];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pocketmine\\world\\generator\l\\PopulationTask\\__construct",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d4a/classpocketmine_1_1world_1_1generator_1_1_population_task.html#a463c3e28ef0d6b378a63b14125264e89",tooltip=" "];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pocketmine\\network\l\\mcpe\\encryption\\PrepareEncryption\lTask\\__construct",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d18/classpocketmine_1_1network_1_1mcpe_1_1encryption_1_1_prepare_encryption_task.html#a1b9384f636ceed69c6e4c8923b1e6e81",tooltip=" "];
+}

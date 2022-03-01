@@ -1,0 +1,8 @@
+digraph "pocketmine\lang\KnownTranslationFactory"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\lang\\KnownTranslation\lFactory\n||+ ability_flight()\l+ ability_noclip()\l+ accept_license()\l+ chat_type_achievement()\l+ chat_type_admin()\l+ chat_type_announcement()\l+ chat_type_emote()\l+ chat_type_text()\l+ commands_ban_success()\l+ commands_ban_usage()\land 421 more...\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+}

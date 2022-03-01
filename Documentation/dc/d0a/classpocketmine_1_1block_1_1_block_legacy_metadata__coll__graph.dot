@@ -1,0 +1,10 @@
+digraph "pocketmine\block\BlockLegacyMetadata"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\block\\BlockLegacy\lMetadata\n|+ BED_FLAG_HEAD\l+ BED_FLAG_OCCUPIED\l+ BELL_ATTACHMENT_CEILING\l+ BELL_ATTACHMENT_FLOOR\l+ BELL_ATTACHMENT_ONE_WALL\l+ BELL_ATTACHMENT_TWO\l_WALLS\l+ BREWING_STAND_FLAG_EAST\l+ BREWING_STAND_FLAG\l_NORTHWEST\l+ BREWING_STAND_FLAG\l_SOUTHWEST\l+ BUTTON_FLAG_POWERED\land 187 more...\l|}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +ANVIL_NORMAL\n+ANVIL_SLIGHTLY_DAMAGED\n+ANVIL_VERY_DAMAGED\n+BAMBOO_FLAG_READY\n+BAMBOO_FLAG_THICK\n+BAMBOO_LEAF_SIZE_MASK\n+BAMBOO_LEAF_SIZE_SHIFT\n+BAMBOO_SAPLING_FLAG_READY\n+BARREL_FLAG_OPEN\n+BEDROCK_FLAG_INFINIBURN\n..." ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{const\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+}

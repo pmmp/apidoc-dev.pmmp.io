@@ -1,0 +1,26 @@
+digraph "pocketmine\world\format\io\WorldProvider"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\world\\format\l\\io\\WorldProvider\n||+ calculateChunkCount()\l+ close()\l+ doGarbageCollection()\l+ getAllChunks()\l+ getPath()\l+ getWorldData()\l+ getWorldMaxY()\l+ getWorldMinY()\l+ loadChunk()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node2 [label="{pocketmine\\world\\format\l\\io\\BaseWorldProvider\n|# $path\l# $worldData\l|+ __construct()\l+ getPath()\l+ getWorldData()\l# loadLevelData()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d6/dfa/classpocketmine_1_1world_1_1format_1_1io_1_1_base_world_provider.html",tooltip=" "];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node3 [label="{pocketmine\\world\\format\l\\io\\leveldb\\LevelDB\n|# $db\l# CURRENT_LEVEL_CHUNK\l_VERSION\l# CURRENT_LEVEL_SUBCHUNK\l_VERSION\l# ENTRY_FLAT_WORLD_LAYERS\l# FINALISATION_DONE\l# FINALISATION_NEEDS\l_INSTATICKING\l# FINALISATION_NEEDS\l_POPULATION\l# TAG_BIOME_STATE\l# TAG_BLOCK_ENTITY\l# TAG_BLOCK_EXTRA_DATA\land 10 more...\l|+ __construct()\l+ calculateChunkCount()\l+ close()\l+ doGarbageCollection()\l+ getAllChunks()\l+ getDatabase()\l+ getWorldMaxY()\l+ getWorldMinY()\l+ loadChunk()\l+ saveChunk()\l+ chunkIndex()\l+ generate()\l+ isValid()\l# deserializeLegacyExtraData()\l# deserializePaletted()\l# loadLevelData()\l# deserializeExtraDataKey()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$df/d4c/classpocketmine_1_1world_1_1format_1_1io_1_1leveldb_1_1_level_d_b.html",tooltip=" "];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node4 [label="{pocketmine\\world\\format\l\\io\\region\\RegionWorldProvider\n|# $regions\l|+ calculateChunkCount()\l+ close()\l+ doGarbageCollection()\l+ getAllChunks()\l+ loadChunk()\l+ getRegionIndex()\l+ isValid()\l# deserializeChunk()\l# getRegion()\l# loadLevelData()\l# loadRegion()\l# pathToRegion()\l# unloadRegion()\l# getCompoundList()\l# getPcWorldFormatVersion()\l# getRegionFileExtension()\l# readFixedSizeByteArray()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d6/d16/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_region_world_provider.html",tooltip=" "];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node5 [label="{pocketmine\\world\\format\l\\io\\region\\Anvil\n||+ getWorldMaxY()\l+ getWorldMinY()\l# deserializeSubChunk()\l# getPcWorldFormatVersion()\l# getRegionFileExtension()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d9/d75/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_anvil.html",tooltip=" "];
+  Node4 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node6 [label="{pocketmine\\world\\format\l\\io\\region\\McRegion\n||+ getWorldMaxY()\l+ getWorldMinY()\l# deserializeChunk()\l# getPcWorldFormatVersion()\l# getRegionFileExtension()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$da/d3f/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_mc_region.html",tooltip=" "];
+  Node4 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node7 [label="{pocketmine\\world\\format\l\\io\\region\\PMAnvil\n||+ getWorldMaxY()\l+ getWorldMinY()\l# deserializeSubChunk()\l# getPcWorldFormatVersion()\l# getRegionFileExtension()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/df1/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_p_m_anvil.html",tooltip=" "];
+  Node4 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node8 [label="{pocketmine\\world\\format\l\\io\\region\\WritableRegionWorld\lProvider\n||+ saveChunk()\l+ generate()\l# serializeChunk()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/da7/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_writable_region_world_provider.html",tooltip=" "];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node9 [label="{pocketmine\\world\\format\l\\io\\WritableWorldProvider\n||+ saveChunk()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d1/d1b/interfacepocketmine_1_1world_1_1format_1_1io_1_1_writable_world_provider.html",tooltip=" "];
+  Node9 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node9 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+}

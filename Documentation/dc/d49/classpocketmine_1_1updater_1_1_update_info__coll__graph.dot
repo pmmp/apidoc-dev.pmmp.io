@@ -1,0 +1,8 @@
+digraph "pocketmine\updater\UpdateInfo"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\updater\l\\UpdateInfo\n|+ $base_version\l+ $build\l+ $channel\l+ $date\l+ $details_url\l+ $download_url\l+ $git_commit\l+ $is_dev\l+ $mcpe_version\l+ $php_version\l+ $source_url\l|}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+}

@@ -1,0 +1,10 @@
+digraph "pocketmine\network\mcpe\protocol\types\login\JwtBodyRfc7519"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\login\\JwtBodyRfc7519\n|+ $aud\l+ $exp\l+ $iat\l+ $iss\l+ $jti\l+ $nbf\l+ $sub\l|}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node2 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\login\\JwtChainLinkBody\n|+ $identityPublicKey\l|}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d48/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_jwt_chain_link_body.html",tooltip=" "];
+}

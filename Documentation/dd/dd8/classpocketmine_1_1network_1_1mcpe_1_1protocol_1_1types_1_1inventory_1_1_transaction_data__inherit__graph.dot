@@ -1,0 +1,18 @@
+digraph "pocketmine\network\mcpe\protocol\types\inventory\TransactionData"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\TransactionData\n|# $actions\l|+ decode()\l+ encode()\l+ getActions()\l+ getTypeId()\l# decodeData()\l# encodeData()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node2 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\MismatchTransactionData\n|+ ID\l|+ new()\l# decodeData()\l# encodeData()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d7/da6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_mismatch_transaction_data.html",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node3 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\NormalTransactionData\n|+ ID\l|+ new()\l# decodeData()\l# encodeData()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$de/da9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_normal_transaction_data.html",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node4 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\ReleaseItemTransactionData\n|+ ACTION_CONSUME\l+ ACTION_RELEASE\l+ ID\l|+ getActionType()\l+ getHeadPosition()\l+ getHotbarSlot()\l+ getItemInHand()\l+ new()\l# decodeData()\l# encodeData()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d3/d35/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_release_item_transaction_data.html",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node5 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\UseItemOnEntityTransactionData\n|+ ACTION_ATTACK\l+ ACTION_INTERACT\l+ ACTION_ITEM_INTERACT\l+ ID\l|+ getActionType()\l+ getActorRuntimeId()\l+ getClickPosition()\l+ getHotbarSlot()\l+ getItemInHand()\l+ getPlayerPosition()\l+ new()\l# decodeData()\l# encodeData()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d7/dfa/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_use_item_on_entity_transaction_data.html",tooltip=" "];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node6 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\UseItemTransactionData\n|+ ACTION_BREAK_BLOCK\l+ ACTION_CLICK_AIR\l+ ACTION_CLICK_BLOCK\l+ ID\l|+ getActionType()\l+ getBlockPosition()\l+ getBlockRuntimeId()\l+ getClickPosition()\l+ getFace()\l+ getHotbarSlot()\l+ getItemInHand()\l+ getPlayerPosition()\l+ new()\l# decodeData()\l# encodeData()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$dd/d91/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_use_item_transaction_data.html",tooltip=" "];
+}

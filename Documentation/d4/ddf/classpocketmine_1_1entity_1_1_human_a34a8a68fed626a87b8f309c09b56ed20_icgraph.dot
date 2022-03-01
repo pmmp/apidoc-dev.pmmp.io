@@ -1,0 +1,15 @@
+digraph "pocketmine\entity\Human\getInventory"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="pocketmine\\entity\\Human\l\\getInventory",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pocketmine\\item\\Armor\l\\onClickAir",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d85/classpocketmine_1_1item_1_1_armor.html#abe86e2227ea1ab9e89ee3bc5d4f02c63",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pocketmine\\item\\Bucket\l\\onInteractBlock",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d64/classpocketmine_1_1item_1_1_bucket.html#a64333f19c280e3b26d08dd014c441f53",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pocketmine\\item\\Bow\l\\onReleaseUsing",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dbc/classpocketmine_1_1item_1_1_bow.html#abbd454cb72d3a9625a4a77ccf00ed59f",tooltip=" "];
+}

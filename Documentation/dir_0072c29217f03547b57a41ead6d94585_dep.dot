@@ -1,0 +1,16 @@
+digraph "transaction"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  compound=true
+  subgraph clusterdir_8aa3e05b3c778144162028379a6046fd {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", style="filled,dashed,", label="inventory", fontname="Helvetica", fontsize="10", URL="dir_8aa3e05b3c778144162028379a6046fd.html"]
+  subgraph clusterdir_0072c29217f03547b57a41ead6d94585 {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", style="filled,bold,", label="", fontname="Helvetica", fontsize="10", URL="dir_0072c29217f03547b57a41ead6d94585.html"]
+    dir_0072c29217f03547b57a41ead6d94585 [shape=plaintext, label="transaction"];
+  dir_04034b0bd6d53aa53682255ddd0bdeff [shape=box, label="action", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_04034b0bd6d53aa53682255ddd0bdeff.html"];
+  }
+  }
+}

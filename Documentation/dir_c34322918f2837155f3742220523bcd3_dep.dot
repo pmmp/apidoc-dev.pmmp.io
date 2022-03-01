@@ -1,0 +1,23 @@
+digraph "mcpe"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  compound=true
+  subgraph clusterdir_fc4c7f03e1a69a98c370fae55a743828 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", style="filled,dashed,", label="network", fontname="Helvetica", fontsize="10", URL="dir_fc4c7f03e1a69a98c370fae55a743828.html"]
+  subgraph clusterdir_c34322918f2837155f3742220523bcd3 {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", style="filled,bold,", label="", fontname="Helvetica", fontsize="10", URL="dir_c34322918f2837155f3742220523bcd3.html"]
+    dir_c34322918f2837155f3742220523bcd3 [shape=plaintext, label="mcpe"];
+  dir_08b322ce36fe2e53b32e110ea1c405fc [shape=box, label="auth", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_08b322ce36fe2e53b32e110ea1c405fc.html"];
+  dir_1081d86d7bc8618f18d04d706401f85a [shape=box, label="cache", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_1081d86d7bc8618f18d04d706401f85a.html"];
+  dir_683bfb03cb8b4416933e2c7a29d84e85 [shape=box, label="compression", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_683bfb03cb8b4416933e2c7a29d84e85.html"];
+  dir_f51931b3e1d14c6283d131f1014f7041 [shape=box, label="convert", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_f51931b3e1d14c6283d131f1014f7041.html"];
+  dir_435a6b13fd6f4bd100989195e66a8f8b [shape=box, label="encryption", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_435a6b13fd6f4bd100989195e66a8f8b.html"];
+  dir_0003aa60d4a21aee354b5b2fa826bf4b [shape=box, label="handler", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_0003aa60d4a21aee354b5b2fa826bf4b.html"];
+  dir_f91dbc53a0f1c481f5610027a94c645b [shape=box, label="raklib", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_f91dbc53a0f1c481f5610027a94c645b.html"];
+  dir_995b3b02552e3af7a71ff5c03a7f60a4 [shape=box, label="serializer", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_995b3b02552e3af7a71ff5c03a7f60a4.html"];
+  }
+  }
+}

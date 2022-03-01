@@ -1,0 +1,10 @@
+digraph "pocketmine\world\format\io\leveldb\SubChunkVersion"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\world\\format\l\\io\\leveldb\\SubChunkVersion\n||}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +CLASSIC\n+CLASSIC_BUG_2\n+CLASSIC_BUG_3\n+CLASSIC_BUG_4\n+CLASSIC_BUG_5\n+CLASSIC_BUG_6\n+CLASSIC_BUG_7\n+PALETTED_MULTI\n+PALETTED_MULTI\l_WITH_OFFSET\n+PALETTED_SINGLE\n..." ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{const\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+}

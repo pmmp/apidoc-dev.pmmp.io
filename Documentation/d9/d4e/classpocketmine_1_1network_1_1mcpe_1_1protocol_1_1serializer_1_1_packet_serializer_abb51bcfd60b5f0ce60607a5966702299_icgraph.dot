@@ -1,0 +1,19 @@
+digraph "pocketmine\network\mcpe\protocol\serializer\PacketSerializer\getActorUniqueId"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="pocketmine\\network\l\\mcpe\\protocol\\serializer\l\\PacketSerializer\\getActorUniqueId",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pocketmine\\network\l\\mcpe\\protocol\\BossEventPacket\l\\decodePayload",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d87/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_boss_event_packet.html#a915e8dcc7b734e14ecae04df68ee1c49",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pocketmine\\network\l\\mcpe\\protocol\\Clientbound\lMapItemDataPacket\\decodePayload",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d0a/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_clientbound_map_item_data_packet.html#a6236d1194877ab01292b60a017d94ff4",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pocketmine\\network\l\\mcpe\\protocol\\PlayerListPacket\l\\decodePayload",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/dc3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_list_packet.html#a10143c280d4a33eadc501a116e4da874",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pocketmine\\network\l\\mcpe\\protocol\\SetScoreboard\lIdentityPacket\\decodePayload",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d45/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_scoreboard_identity_packet.html#a05098ac277415c03b9dae23cbdda63eb",tooltip=" "];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pocketmine\\network\l\\mcpe\\protocol\\SetScorePacket\l\\decodePayload",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dc6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_score_packet.html#a8d98ddf52613dacd5d2cf84010a6562f",tooltip=" "];
+}

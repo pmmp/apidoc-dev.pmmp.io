@@ -1,0 +1,8 @@
+digraph "pocketmine\entity\object\PaintingMotive"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\entity\\object\l\\PaintingMotive\n|# $height\l# $name\l# $width\l# $motives\l|+ __construct()\l+ __toString()\l+ getHeight()\l+ getName()\l+ getWidth()\l+ getAll()\l+ getMotiveByName()\l+ init()\l+ registerMotive()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+}

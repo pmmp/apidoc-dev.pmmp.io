@@ -1,0 +1,16 @@
+digraph "pocketmine\network\mcpe\protocol\types\StructureEditorData"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\StructureEditorData\n|+ $includePlayers\l+ $showBoundingBox\l+ $structureBlockType\l+ $structureDataField\l+ $structureName\l+ $structureRedstoneSaveMove\l|}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +TYPE_CORNER\n+TYPE_DATA\n+TYPE_EXPORT\n+TYPE_INVALID\n+TYPE_LOAD\n+TYPE_SAVE" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{const\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node3 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +$structureSettings" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node3 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\StructureSettings\n|+ $animationMode\l+ $animationSeconds\l+ $ignoreBlocks\l+ $ignoreEntities\l+ $integritySeed\l+ $integrityValue\l+ $lastTouchedByPlayerID\l+ $mirror\l+ $paletteName\l+ $rotation\l|}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d0/d65/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_structure_settings.html",tooltip=" "];
+  Node4 -> Node3 [color="grey25",fontsize="10",style="solid",label=" +$dimensions\n+$offset" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node4 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\BlockPosition\n||+ __construct()\l+ equals()\l+ getX()\l+ getY()\l+ getZ()\l+ fromVector3()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d1/d5f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_block_position.html",tooltip=" "];
+  Node5 -> Node3 [color="grey25",fontsize="10",style="solid",label=" +$pivot" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node5 [label="{pocketmine\\math\\Vector3\n|+ $x\l+ $y\l+ $z\l|+ __construct()\l+ __toString()\l+ abs()\l+ add()\l+ addVector()\l+ asVector3()\l+ ceil()\l+ cross()\l+ distance()\l+ distanceSquared()\land 32 more...\l+ maxComponents()\l+ minComponents()\l+ sum()\l+ zero()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d2/d90/classpocketmine_1_1math_1_1_vector3.html",tooltip=" "];
+}

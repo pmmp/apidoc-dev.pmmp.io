@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="raklib\\protocol\\Encapsulated\lPacket",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/df9/classraklib_1_1protocol_1_1_encapsulated_packet.html",tooltip=" "];
+}

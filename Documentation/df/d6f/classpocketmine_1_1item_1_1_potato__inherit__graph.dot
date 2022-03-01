@@ -1,0 +1,25 @@
+digraph "pocketmine\item\Potato"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\item\\Potato\n||+ getBlock()\l+ getFoodRestore()\l+ getSaturationRestore()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node2 [label="{pocketmine\\item\\Food\n||+ canStartUsingItem()\l+ getAdditionalEffects()\l+ getResidue()\l+ onConsume()\l+ requiresHunger()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$dc/de1/classpocketmine_1_1item_1_1_food.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node3 [label="{pocketmine\\item\\Item\n|+ TAG_BLOCK_ENTITY_TAG\l+ TAG_DISPLAY\l+ TAG_DISPLAY_LORE\l+ TAG_DISPLAY_NAME\l+ TAG_ENCH\l# $blockEntityTag\l# $canDestroy\l# $canPlaceOn\l# $count\l# $customName\l# $lore\l# $name\l|+ __construct()\l+ __clone()\l+ __toString()\l+ canBePlaced()\l+ canStackWith()\l+ clearCustomBlockData()\l+ clearCustomName()\l+ clearNamedTag()\l+ equals()\l+ equalsExact()\land 41 more...\l+ jsonDeserialize()\l+ nbtDeserialize()\l# deserializeCompoundTag()\l# serializeCompoundTag()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d5/d8a/classpocketmine_1_1item_1_1_item.html",tooltip=" "];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node4 [label="{JsonSerializable\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node5 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node5 [label="{pocketmine\\item\\FoodSourceItem\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$de/d44/interfacepocketmine_1_1item_1_1_food_source_item.html",tooltip=" "];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node6 [label="{pocketmine\\item\\ConsumableItem\n||+ getResidue()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/de2/interfacepocketmine_1_1item_1_1_consumable_item.html",tooltip=" "];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node7 [label="{pocketmine\\entity\\Consumable\n||+ getAdditionalEffects()\l+ onConsume()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d3f/interfacepocketmine_1_1entity_1_1_consumable.html",tooltip=" "];
+  Node8 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node8 [label="{pocketmine\\item\\Releasable\n||+ canStartUsingItem()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d35/interfacepocketmine_1_1item_1_1_releasable.html",tooltip=" "];
+  Node9 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node9 [label="{pocketmine\\entity\\FoodSource\n||+ getFoodRestore()\l+ getSaturationRestore()\l+ requiresHunger()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/dfd/interfacepocketmine_1_1entity_1_1_food_source.html",tooltip=" "];
+  Node7 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+}

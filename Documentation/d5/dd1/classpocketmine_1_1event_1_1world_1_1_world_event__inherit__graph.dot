@@ -1,0 +1,28 @@
+digraph "pocketmine\event\world\WorldEvent"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\event\\world\l\\WorldEvent\n||+ __construct()\l+ getWorld()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node2 [label="{pocketmine\\event\\Event\n|# $eventName\l|+ call()\l+ getEventName()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d1/d2f/classpocketmine_1_1event_1_1_event.html",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node3 [label="{pocketmine\\event\\world\l\\ChunkEvent\n||+ __construct()\l+ getChunk()\l+ getChunkX()\l+ getChunkZ()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d06/classpocketmine_1_1event_1_1world_1_1_chunk_event.html",tooltip=" "];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node4 [label="{pocketmine\\event\\world\l\\ChunkLoadEvent\n||+ __construct()\l+ isNewChunk()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/df4/classpocketmine_1_1event_1_1world_1_1_chunk_load_event.html",tooltip=" "];
+  Node3 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node5 [label="{pocketmine\\event\\world\l\\ChunkPopulateEvent\n||}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d9c/classpocketmine_1_1event_1_1world_1_1_chunk_populate_event.html",tooltip=" "];
+  Node3 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node6 [label="{pocketmine\\event\\world\l\\ChunkUnloadEvent\n||}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/df4/classpocketmine_1_1event_1_1world_1_1_chunk_unload_event.html",tooltip=" "];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node7 [label="{pocketmine\\event\\world\l\\SpawnChangeEvent\n||+ __construct()\l+ getPreviousSpawn()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d42/classpocketmine_1_1event_1_1world_1_1_spawn_change_event.html",tooltip=" "];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node8 [label="{pocketmine\\event\\world\l\\WorldInitEvent\n||}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d9d/classpocketmine_1_1event_1_1world_1_1_world_init_event.html",tooltip=" "];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node9 [label="{pocketmine\\event\\world\l\\WorldLoadEvent\n||}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d09/classpocketmine_1_1event_1_1world_1_1_world_load_event.html",tooltip=" "];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node10 [label="{pocketmine\\event\\world\l\\WorldSaveEvent\n||}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dcc/classpocketmine_1_1event_1_1world_1_1_world_save_event.html",tooltip=" "];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node11 [label="{pocketmine\\event\\world\l\\WorldUnloadEvent\n||}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d01/classpocketmine_1_1event_1_1world_1_1_world_unload_event.html",tooltip=" "];
+}

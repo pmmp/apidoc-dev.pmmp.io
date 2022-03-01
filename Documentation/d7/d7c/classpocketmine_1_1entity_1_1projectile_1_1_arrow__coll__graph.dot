@@ -1,0 +1,15 @@
+digraph "pocketmine\entity\projectile\Arrow"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\entity\\projectile\l\\Arrow\n|# $collideTicks\l# $critical\l# $damage\l# $drag\l# $gravity\l# $pickupMode\l# $punchKnockback\l|+ __construct()\l+ getPickupMode()\l+ getPunchKnockback()\l+ getResultDamage()\l+ isCritical()\l+ onCollideWithPlayer()\l+ saveNBT()\l+ setCritical()\l+ setPickupMode()\l+ setPunchKnockback()\l+ getNetworkTypeId()\l# entityBaseTick()\l# getInitialSizeInfo()\l# initEntity()\l# onHit()\l# onHitBlock()\l# onHitEntity()\l# syncNetworkData()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node2 [label="{pocketmine\\entity\\projectile\l\\Projectile\n|# $blockHit\l# $damage\l|+ __construct()\l+ attack()\l+ canBeCollidedWith()\l+ canCollideWith()\l+ getBaseDamage()\l+ getResultDamage()\l+ hasMovementUpdate()\l+ onNearbyBlockChange()\l+ saveNBT()\l+ setBaseDamage()\l# applyDragBeforeGravity()\l# calculateInterceptWithBlock()\l# initEntity()\l# move()\l# onHit()\l# onHitBlock()\l# onHitEntity()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node3 [label="{pocketmine\\entity\\Entity\n|+ $boundingBox\l+ $canCollide\l+ $fallDistance\l+ $isCollided\l+ $isCollidedHorizontally\l+ $isCollidedVertically\l+ $keepMovement\l+ $lastUpdate\l+ $noDamageTicks\l+ $onGround\l+ $size\l+ $ticksLived\l# $alwaysShowNameTag\l# $attributeMap\l# $blocksAround\l# $canClimb\l# $canClimbWalls\l# $closed\l# $drag\l# $fireTicks\l# $forceMovementUpdate\l# $gravity\land 24 more...\l|+ __construct()\l+ __destruct()\l+ __toString()\l+ addMotion()\l+ attack()\l+ broadcastAnimation()\l+ broadcastSound()\l+ canBeCollidedWith()\l+ canBeMovedByCurrents()\l+ canClimb()\land 89 more...\l+ getNetworkTypeId()\l+ nextRuntimeId()\l# addAttributes()\l# applyDragBeforeGravity()\l# broadcastMotion()\l# broadcastMovement()\l# checkBlockIntersections()\l# checkGroundState()\l# checkObstruction()\l# dealFireDamage()\l# destroyCycles()\l# doOnFireTick()\land 22 more...\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d2/d3c/classpocketmine_1_1entity_1_1_entity.html",tooltip=" "];
+  Node4 -> Node3 [color="grey25",fontsize="10",style="solid",label=" #STEP_CLIP_MULTIPLIER\n+MOTION_THRESHOLD" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node4 [label="{const\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node4 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +PICKUP_ANY\n+PICKUP_CREATIVE\n+PICKUP_NONE\n+TAG_CRIT" ,arrowhead="odiamond",fontname="Helvetica"];
+}

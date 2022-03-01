@@ -1,0 +1,10 @@
+digraph "pocketmine\utils\Random"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\utils\\Random\n|# $seed\l|+ __construct()\l+ getSeed()\l+ nextBoolean()\l+ nextBoundedInt()\l+ nextFloat()\l+ nextInt()\l+ nextRange()\l+ nextSignedFloat()\l+ nextSignedInt()\l+ setSeed()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +W\n+X\n+Y\n+Z" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{const\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+}

@@ -1,0 +1,10 @@
+digraph "pocketmine\network\mcpe\protocol\types\ParticleIds"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\ParticleIds\n|+ CARROT\l+ COLORED_FLAME\l+ CONDUIT\l+ CRITICAL\l+ DRAGON_BREATH_FIRE\l+ DRAGON_BREATH_TRAIL\l+ DRAGON_DESTROY_BLOCK\l+ DRAGONS_BREATH\l+ DRIP_HONEY\l+ DRIP_LAVA\land 63 more...\l|}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +BALLOON_GAS\n+BLEACH\n+BLOCK_FORCE_FIELD\n+BLUE_FLAME\n+BUBBLE\n+BUBBLE_COLUMN\l_DOWN\n+BUBBLE_COLUMN\l_UP\n+BUBBLE_MANUAL\n+CAMPFIRE_SMOKE\n+CANDLE_FLAME\n..." ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{const\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+}

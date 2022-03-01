@@ -1,0 +1,22 @@
+digraph "pocketmine\stats\SendUsageTask\__construct"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pocketmine\\stats\\SendUsage\lTask\\__construct",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pocketmine\\utils\\Process\l\\getAdvancedMemoryUsage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d9e/classpocketmine_1_1utils_1_1_process.html#abffaf0756ea0f94b647cc657d4a65d0f",tooltip=" "];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pocketmine\\utils\\Utils\l\\getOS",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a713aab61da011ccfcd4bea3e6349fc67",tooltip=" "];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pocketmine\\utils\\Utils\l\\getMachineUniqueId",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a5011dae1b141d5d2a263c794bb5e62d1",tooltip=" "];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pocketmine\\Server\\getOnline\lPlayers",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/df7/classpocketmine_1_1_server.html#ab173ee59d49782e9a9fd13a1cdc39cbf",tooltip=" "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pocketmine\\Server\\getTicks\lPerSecondAverage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/df7/classpocketmine_1_1_server.html#a7ceebd18b308f3c1b9bf561b6b70da82",tooltip=" "];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pocketmine\\Server\\getTick\lUsageAverage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/df7/classpocketmine_1_1_server.html#a74b92b75e35d3baee836fb9fd47d2e04",tooltip=" "];
+}

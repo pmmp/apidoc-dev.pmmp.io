@@ -1,0 +1,14 @@
+digraph "pocketmine\world\format\io\WritableWorldProvider"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\world\\format\l\\io\\WritableWorldProvider\n||+ saveChunk()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node2 [label="{pocketmine\\world\\format\l\\io\\WorldProvider\n||+ calculateChunkCount()\l+ close()\l+ doGarbageCollection()\l+ getAllChunks()\l+ getPath()\l+ getWorldData()\l+ getWorldMaxY()\l+ getWorldMinY()\l+ loadChunk()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d8/d94/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_provider.html",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node3 [label="{pocketmine\\world\\format\l\\io\\leveldb\\LevelDB\n|# $db\l# CURRENT_LEVEL_CHUNK\l_VERSION\l# CURRENT_LEVEL_SUBCHUNK\l_VERSION\l# ENTRY_FLAT_WORLD_LAYERS\l# FINALISATION_DONE\l# FINALISATION_NEEDS\l_INSTATICKING\l# FINALISATION_NEEDS\l_POPULATION\l# TAG_BIOME_STATE\l# TAG_BLOCK_ENTITY\l# TAG_BLOCK_EXTRA_DATA\land 10 more...\l|+ __construct()\l+ calculateChunkCount()\l+ close()\l+ doGarbageCollection()\l+ getAllChunks()\l+ getDatabase()\l+ getWorldMaxY()\l+ getWorldMinY()\l+ loadChunk()\l+ saveChunk()\l+ chunkIndex()\l+ generate()\l+ isValid()\l# deserializeLegacyExtraData()\l# deserializePaletted()\l# loadLevelData()\l# deserializeExtraDataKey()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$df/d4c/classpocketmine_1_1world_1_1format_1_1io_1_1leveldb_1_1_level_d_b.html",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node4 [label="{pocketmine\\world\\format\l\\io\\region\\WritableRegionWorld\lProvider\n||+ saveChunk()\l+ generate()\l# serializeChunk()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/da7/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_writable_region_world_provider.html",tooltip=" "];
+}

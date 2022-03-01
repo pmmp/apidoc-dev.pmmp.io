@@ -1,0 +1,14 @@
+digraph "pocketmine\network\mcpe\protocol\types\GameRule"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\GameRule\n||+ __construct()\l+ encode()\l+ getTypeId()\l+ isPlayerModifiable()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node2 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\BoolGameRule\n|+ ID\l|+ __construct()\l+ encode()\l+ getValue()\l+ decode()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d0/d17/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_bool_game_rule.html",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node3 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\FloatGameRule\n|+ ID\l|+ __construct()\l+ encode()\l+ getValue()\l+ decode()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d0/d39/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_float_game_rule.html",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node4 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\IntGameRule\n|+ ID\l|+ __construct()\l+ encode()\l+ getValue()\l+ decode()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d5/db4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_int_game_rule.html",tooltip=" "];
+}

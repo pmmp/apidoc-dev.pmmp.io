@@ -1,0 +1,15 @@
+digraph "pocketmine\utils\BinaryStream\getLLong"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="pocketmine\\utils\\BinaryStream\l\\getLLong",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pocketmine\\network\l\\mcpe\\protocol\\Clientbound\lDebugRendererPacket\\decodePayload",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/def/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_clientbound_debug_renderer_packet.html#a8d0929b5aca9f36242af4c80eb99026a",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pocketmine\\network\l\\mcpe\\protocol\\ClientCache\lBlobStatusPacket\\decodePayload",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d18/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_client_cache_blob_status_packet.html#ab211016a1699ebc6abe7589392ccb877",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pocketmine\\network\l\\mcpe\\protocol\\ClientCache\lMissResponsePacket\\decodePayload",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d19/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_client_cache_miss_response_packet.html#a958e26cee54c3a97a5765d209167a487",tooltip=" "];
+}

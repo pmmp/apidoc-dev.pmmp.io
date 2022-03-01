@@ -1,0 +1,21 @@
+digraph "pocketmine\nbt\tag\CompoundTag\setTag"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="pocketmine\\nbt\\tag\l\\CompoundTag\\setTag",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pocketmine\\block\\tile\l\\Jukebox\\addAdditionalSpawnData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d77/classpocketmine_1_1block_1_1tile_1_1_jukebox.html#a5e2e9f5d8228016ce9f04fd3ff2c62e6",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pocketmine\\block\\tile\l\\Lectern\\addAdditionalSpawnData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dc1/classpocketmine_1_1block_1_1tile_1_1_lectern.html#ac00f467ced69b610bd246a9262eac24b",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pocketmine\\nbt\\tag\l\\CompoundTag\\merge",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d67/classpocketmine_1_1nbt_1_1tag_1_1_compound_tag.html#a52af581f97f4bd8ccf924f2f1681baf4",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pocketmine\\block\\tile\l\\Jukebox\\writeSaveData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d77/classpocketmine_1_1block_1_1tile_1_1_jukebox.html#a5cdf6d4674d9a7d3bc038c0ff9b60374",tooltip=" "];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pocketmine\\block\\tile\l\\Lectern\\writeSaveData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dc1/classpocketmine_1_1block_1_1tile_1_1_lectern.html#a02d88d6cb332835e5a3049fe52f7f224",tooltip=" "];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pocketmine\\block\\tile\l\\MonsterSpawner\\writeSaveData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d8f/classpocketmine_1_1block_1_1tile_1_1_monster_spawner.html#afc393709a4fbdaa6381dd6606ef43fb0",tooltip=" "];
+}

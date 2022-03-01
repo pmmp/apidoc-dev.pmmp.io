@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="pocketmine\\network\l\\mcpe\\protocol\\types\l\\recipe\\CraftingRecipeBlockName",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dec/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1recipe_1_1_crafting_recipe_block_name.html",tooltip=" "];
+}

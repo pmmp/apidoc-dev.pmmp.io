@@ -1,0 +1,18 @@
+digraph "pocketmine\thread\Thread"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\thread\\Thread\n||+ quit()\l+ start()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node2 [label="{Thread\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node3 [label="{pocketmine\\console\l\\ConsoleReaderThread\n||+ __construct()\l+ getThreadName()\l# onRun()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$db/d0a/classpocketmine_1_1console_1_1_console_reader_thread.html",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node4 [label="{pocketmine\\network\l\\mcpe\\raklib\\RakLibServer\n|+ $crashInfo\l# $cleanShutdown\l# $logger\l# $mainPath\l# $mainThreadNotifier\l# $mainToThreadBuffer\l# $maxMtuSize\l# $ready\l# $serverId\l# $threadToMainBuffer\l|+ __construct()\l+ getCrashInfo()\l+ getThreadName()\l+ shutdownHandler()\l+ startAndWait()\l# onRun()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$de/dc9/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_server.html",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node5 [label="{pocketmine\\utils\\MainLogger\lThread\n||+ __construct()\l+ run()\l+ shutdown()\l+ syncFlushBuffer()\l+ write()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d7/d71/classpocketmine_1_1utils_1_1_main_logger_thread.html",tooltip=" "];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node6 [label="{pocketmine\\utils\\ServerKiller\n|+ $time\l|+ __construct()\l+ getThreadName()\l+ quit()\l# onRun()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d2/d87/classpocketmine_1_1utils_1_1_server_killer.html",tooltip=" "];
+}

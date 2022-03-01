@@ -1,0 +1,36 @@
+digraph "pocketmine\scheduler\AsyncTask"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\scheduler\l\\AsyncTask\n|+ $progressUpdates\l+ $worker\l|+ __destruct()\l+ cancelRun()\l+ checkProgressUpdates()\l+ getResult()\l+ hasCancelledRun()\l+ hasResult()\l+ isCrashed()\l+ isFinished()\l+ isSubmitted()\l+ onCompletion()\land 7 more...\l# fetchLocal()\l# reallyDestruct()\l# storeLocal()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node2 [label="{Threaded\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node3 [label="{pocketmine\\network\l\\mcpe\\ChunkRequestTask\n|# $chunk\l# $chunkX\l# $chunkZ\l# $compressor\l|+ __construct()\l+ onCompletion()\l+ onError()\l+ onRun()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d2/d46/classpocketmine_1_1network_1_1mcpe_1_1_chunk_request_task.html",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node4 [label="{pocketmine\\network\l\\mcpe\\auth\\ProcessLoginTask\n|+ MOJANG_ROOT_PUBLIC_KEY\l|+ __construct()\l+ onCompletion()\l+ onRun()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$df/df7/classpocketmine_1_1network_1_1mcpe_1_1auth_1_1_process_login_task.html",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node5 [label="{pocketmine\\network\l\\mcpe\\compression\\Compress\lBatchTask\n||+ __construct()\l+ onCompletion()\l+ onRun()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d6/dda/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_compress_batch_task.html",tooltip=" "];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node6 [label="{pocketmine\\network\l\\mcpe\\encryption\\PrepareEncryptionTask\n||+ __construct()\l+ onCompletion()\l+ onRun()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d7/d18/classpocketmine_1_1network_1_1mcpe_1_1encryption_1_1_prepare_encryption_task.html",tooltip=" "];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node7 [label="{pocketmine\\scheduler\l\\BulkCurlTask\n||+ __construct()\l+ onCompletion()\l+ onRun()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d18/classpocketmine_1_1scheduler_1_1_bulk_curl_task.html",tooltip=" "];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node8 [label="{pocketmine\\scheduler\l\\DumpWorkerMemoryTask\n||+ __construct()\l+ onRun()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d53/classpocketmine_1_1scheduler_1_1_dump_worker_memory_task.html",tooltip=" "];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node9 [label="{pocketmine\\scheduler\l\\GarbageCollectionTask\n||+ onRun()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d9/dae/classpocketmine_1_1scheduler_1_1_garbage_collection_task.html",tooltip=" "];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node10 [label="{pocketmine\\stats\\SendUsageTask\n|+ $data\l+ $endpoint\l+ TYPE_CLOSE\l+ TYPE_OPEN\l+ TYPE_STATUS\l|+ __construct()\l+ onRun()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$df/d2c/classpocketmine_1_1stats_1_1_send_usage_task.html",tooltip=" "];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node11 [label="{pocketmine\\updater\l\\UpdateCheckTask\n||+ __construct()\l+ onCompletion()\l+ onRun()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d7/d6f/classpocketmine_1_1updater_1_1_update_check_task.html",tooltip=" "];
+  Node1 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node12 [label="{pocketmine\\world\\generator\l\\GeneratorRegisterTask\n|+ $generatorClass\l+ $seed\l+ $settings\l+ $worldId\l+ $worldMaxY\l+ $worldMinY\l|+ __construct()\l+ onRun()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d2/d88/classpocketmine_1_1world_1_1generator_1_1_generator_register_task.html",tooltip=" "];
+  Node1 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node13 [label="{pocketmine\\world\\generator\l\\GeneratorUnregisterTask\n|+ $worldId\l|+ __construct()\l+ onRun()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d0/dac/classpocketmine_1_1world_1_1generator_1_1_generator_unregister_task.html",tooltip=" "];
+  Node1 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node14 [label="{pocketmine\\world\\generator\l\\PopulationTask\n||+ __construct()\l+ onCompletion()\l+ onRun()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d4a/classpocketmine_1_1world_1_1generator_1_1_population_task.html",tooltip=" "];
+  Node1 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node15 [label="{pocketmine\\world\\light\l\\LightPopulationTask\n|+ $chunk\l|+ __construct()\l+ onCompletion()\l+ onRun()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d9/d7c/classpocketmine_1_1world_1_1light_1_1_light_population_task.html",tooltip=" "];
+}

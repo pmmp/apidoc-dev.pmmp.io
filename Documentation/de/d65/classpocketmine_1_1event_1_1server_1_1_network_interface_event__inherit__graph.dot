@@ -1,0 +1,16 @@
+digraph "pocketmine\event\server\NetworkInterfaceEvent"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\event\\server\l\\NetworkInterfaceEvent\n|# $interface\l|+ __construct()\l+ getInterface()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node2 [label="{pocketmine\\event\\server\l\\ServerEvent\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d1/d77/classpocketmine_1_1event_1_1server_1_1_server_event.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node3 [label="{pocketmine\\event\\Event\n|# $eventName\l|+ call()\l+ getEventName()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d1/d2f/classpocketmine_1_1event_1_1_event.html",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node4 [label="{pocketmine\\event\\server\l\\NetworkInterfaceRegisterEvent\n||}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d02/classpocketmine_1_1event_1_1server_1_1_network_interface_register_event.html",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node5 [label="{pocketmine\\event\\server\l\\NetworkInterfaceUnregisterEvent\n||}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/db8/classpocketmine_1_1event_1_1server_1_1_network_interface_unregister_event.html",tooltip=" "];
+}

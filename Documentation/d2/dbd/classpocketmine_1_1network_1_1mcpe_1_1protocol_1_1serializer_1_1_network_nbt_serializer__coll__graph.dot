@@ -1,0 +1,14 @@
+digraph "pocketmine\network\mcpe\protocol\serializer\NetworkNbtSerializer"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\network\l\\mcpe\\protocol\\serializer\l\\NetworkNbtSerializer\n||+ readDouble()\l+ readFloat()\l+ readInt()\l+ readIntArray()\l+ readLong()\l+ readShort()\l+ readSignedShort()\l+ readString()\l+ writeDouble()\l+ writeFloat()\l+ writeInt()\l+ writeIntArray()\l+ writeLong()\l+ writeShort()\l+ writeString()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node2 [label="{pocketmine\\nbt\\BaseNbtSerializer\n|# $buffer\l|+ __construct()\l+ read()\l+ readByte()\l+ readByteArray()\l+ readMultiple()\l+ readSignedByte()\l+ readString()\l+ write()\l+ writeByte()\l+ writeByteArray()\l+ writeMultiple()\l+ writeString()\l# checkReadStringLength()\l# checkWriteStringLength()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dc3/classpocketmine_1_1nbt_1_1_base_nbt_serializer.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node3 [label="{pocketmine\\nbt\\NbtStream\lReader\n||+ readByte()\l+ readByteArray()\l+ readDouble()\l+ readFloat()\l+ readInt()\l+ readIntArray()\l+ readLong()\l+ readShort()\l+ readSignedByte()\l+ readSignedShort()\l+ readString()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d1/d97/interfacepocketmine_1_1nbt_1_1_nbt_stream_reader.html",tooltip=" "];
+  Node4 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node4 [label="{pocketmine\\nbt\\NbtStream\lWriter\n||+ writeByte()\l+ writeByteArray()\l+ writeDouble()\l+ writeFloat()\l+ writeInt()\l+ writeIntArray()\l+ writeLong()\l+ writeShort()\l+ writeString()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d7/d36/interfacepocketmine_1_1nbt_1_1_nbt_stream_writer.html",tooltip=" "];
+}

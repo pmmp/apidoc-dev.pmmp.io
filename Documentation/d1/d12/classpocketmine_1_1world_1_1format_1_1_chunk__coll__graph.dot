@@ -1,0 +1,10 @@
+digraph "pocketmine\world\format\Chunk"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\world\\format\l\\Chunk\n|# $biomeIds\l# $heightMap\l# $lightPopulated\l# $subChunks\l# $terrainPopulated\l# $tiles\l|+ __construct()\l+ __clone()\l+ addTile()\l+ clearTerrainDirtyFlags()\l+ collectGarbage()\l+ getBiomeId()\l+ getBiomeIdArray()\l+ getFullBlock()\l+ getHeight()\l+ getHeightMap()\land 22 more...\l+ blockHash()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +COORD_BIT_SIZE\n+COORD_MASK\n+DIRTY_FLAG_BIOMES\n+DIRTY_FLAG_BLOCKS\n+EDGE_LENGTH\n+MAX_SUBCHUNKS\n+MAX_SUBCHUNK_INDEX\n+MIN_SUBCHUNK_INDEX" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{const\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+}

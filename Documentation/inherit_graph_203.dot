@@ -1,0 +1,49 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\stackrequest\l\\ItemStackRequestAction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d3b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_item_stack_request_action.html",tooltip=" "];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\stackrequest\l\\BeaconPaymentStackRequestAction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d1d/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_beacon_payment_stack_request_action.html",tooltip=" "];
+  Node0 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\stackrequest\l\\CraftRecipeAutoStackRequestAction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d59/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_craft_recipe_auto_stack_request_action.html",tooltip=" "];
+  Node0 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\stackrequest\l\\CraftRecipeOptionalStackRequest\lAction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dce/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_craft_rf367e63daecf08c070ac15ec98918954.html",tooltip=" "];
+  Node0 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\stackrequest\l\\CraftRecipeStackRequestAction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/df5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_craft_recipe_stack_request_action.html",tooltip=" "];
+  Node0 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\stackrequest\l\\CraftingConsumeInputStackRequest\lAction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d53/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_craftin1edcfa9979fc5d75a39cf9f773292cdc.html",tooltip=" "];
+  Node0 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\stackrequest\l\\CraftingMarkSecondaryResultStack\lRequestAction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d0b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_craftine73260c2466389209c6775ffd2e2cd69.html",tooltip=" "];
+  Node0 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\stackrequest\l\\CreativeCreateStackRequestAction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/da4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_creative_create_stack_request_action.html",tooltip=" "];
+  Node0 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\stackrequest\l\\DeprecatedCraftingNonImplemented\lStackRequestAction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d0c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_deprecaefa0492a6ebcaf5ef294483e9302a020.html",tooltip=" "];
+  Node0 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\stackrequest\l\\DeprecatedCraftingResultsStack\lRequestAction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d31/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_depreca2d8988f2c81b79d79999716180585eb5.html",tooltip=" "];
+  Node0 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\stackrequest\l\\DestroyStackRequestAction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/dd5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_destroy_stack_request_action.html",tooltip=" "];
+  Node0 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\stackrequest\l\\DropStackRequestAction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d13/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_drop_stack_request_action.html",tooltip=" "];
+  Node0 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\stackrequest\l\\GrindstoneStackRequestAction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/ddc/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_grindstone_stack_request_action.html",tooltip=" "];
+  Node0 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\stackrequest\l\\LabTableCombineStackRequestAction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d9f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_lab_table_combine_stack_request_action.html",tooltip=" "];
+  Node0 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\stackrequest\l\\LoomStackRequestAction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d9a/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_loom_stack_request_action.html",tooltip=" "];
+  Node0 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\stackrequest\l\\MineBlockStackRequestAction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d4a/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_mine_block_stack_request_action.html",tooltip=" "];
+  Node0 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\stackrequest\l\\PlaceIntoBundleStackRequestAction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d46/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_place_into_bundle_stack_request_action.html",tooltip=" "];
+  Node0 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\stackrequest\l\\PlaceStackRequestAction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dbc/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_place_stack_request_action.html",tooltip=" "];
+  Node0 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\stackrequest\l\\SwapStackRequestAction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/db2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_swap_stack_request_action.html",tooltip=" "];
+  Node0 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\stackrequest\l\\TakeFromBundleStackRequestAction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_take_from_bundle_stack_request_action.html",tooltip=" "];
+  Node0 -> Node20 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node20 [label="pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\stackrequest\l\\TakeStackRequestAction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dbd/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_take_stack_request_action.html",tooltip=" "];
+}

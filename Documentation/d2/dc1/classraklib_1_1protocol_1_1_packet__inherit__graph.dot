@@ -1,0 +1,50 @@
+digraph "raklib\protocol\Packet"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{raklib\\protocol\\Packet\n|+ $ID\l|+ decode()\l+ encode()\l# decodeHeader()\l# decodePayload()\l# encodeHeader()\l# encodePayload()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node2 [label="{raklib\\protocol\\Acknowledge\lPacket\n|+ $packets\l|# decodePayload()\l# encodePayload()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d1/dac/classraklib_1_1protocol_1_1_acknowledge_packet.html",tooltip=" "];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node3 [label="{raklib\\protocol\\ACK\n|+ $ID\l|}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d9/d87/classraklib_1_1protocol_1_1_a_c_k.html",tooltip=" "];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node4 [label="{raklib\\protocol\\NACK\n|+ $ID\l|}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d4/d24/classraklib_1_1protocol_1_1_n_a_c_k.html",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node5 [label="{raklib\\protocol\\Advertise\lSystem\n|+ $serverName\l+ $ID\l|# decodePayload()\l# encodePayload()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d1/d72/classraklib_1_1protocol_1_1_advertise_system.html",tooltip=" "];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node6 [label="{raklib\\protocol\\Connected\lPacket\n||}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/dd4/classraklib_1_1protocol_1_1_connected_packet.html",tooltip=" "];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node7 [label="{raklib\\protocol\\ConnectedPing\n|+ $sendPingTime\l+ $ID\l|+ create()\l# decodePayload()\l# encodePayload()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d4/d54/classraklib_1_1protocol_1_1_connected_ping.html",tooltip=" "];
+  Node6 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node8 [label="{raklib\\protocol\\ConnectedPong\n|+ $sendPingTime\l+ $sendPongTime\l+ $ID\l|+ create()\l# decodePayload()\l# encodePayload()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d9/da5/classraklib_1_1protocol_1_1_connected_pong.html",tooltip=" "];
+  Node6 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node9 [label="{raklib\\protocol\\Connection\lRequest\n|+ $clientID\l+ $sendPingTime\l+ $useSecurity\l+ $ID\l|# decodePayload()\l# encodePayload()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d1/df6/classraklib_1_1protocol_1_1_connection_request.html",tooltip=" "];
+  Node6 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node10 [label="{raklib\\protocol\\Connection\lRequestAccepted\n|+ $address\l+ $sendPingTime\l+ $sendPongTime\l+ $systemAddresses\l+ $ID\l|+ __construct()\l+ create()\l# decodePayload()\l# encodePayload()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$dd/dc9/classraklib_1_1protocol_1_1_connection_request_accepted.html",tooltip=" "];
+  Node6 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node11 [label="{raklib\\protocol\\Disconnection\lNotification\n|+ $ID\l|# decodePayload()\l# encodePayload()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$dc/d79/classraklib_1_1protocol_1_1_disconnection_notification.html",tooltip=" "];
+  Node6 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node12 [label="{raklib\\protocol\\NewIncoming\lConnection\n|+ $address\l+ $sendPingTime\l+ $sendPongTime\l+ $systemAddresses\l+ $ID\l|# decodePayload()\l# encodePayload()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d6/db6/classraklib_1_1protocol_1_1_new_incoming_connection.html",tooltip=" "];
+  Node1 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node13 [label="{raklib\\protocol\\Datagram\n|+ $headerFlags\l+ $packets\l+ $seqNumber\l+ BITFLAG_ACK\l+ BITFLAG_CONTINUOUS_SEND\l+ BITFLAG_NAK\l+ BITFLAG_NEEDS_B_AND_AS\l+ BITFLAG_PACKET_PAIR\l+ BITFLAG_VALID\l+ HEADER_SIZE\l|+ length()\l# decodeHeader()\l# decodePayload()\l# encodeHeader()\l# encodePayload()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$da/d16/classraklib_1_1protocol_1_1_datagram.html",tooltip=" "];
+  Node1 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node14 [label="{raklib\\protocol\\OfflineMessage\n|# $magic\l|+ isValid()\l# readMagic()\l# writeMagic()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$dd/d14/classraklib_1_1protocol_1_1_offline_message.html",tooltip=" "];
+  Node14 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node15 [label="{raklib\\protocol\\Incompatible\lProtocolVersion\n|+ $protocolVersion\l+ $serverId\l+ $ID\l|+ create()\l# decodePayload()\l# encodePayload()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d2/da4/classraklib_1_1protocol_1_1_incompatible_protocol_version.html",tooltip=" "];
+  Node14 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node16 [label="{raklib\\protocol\\OpenConnection\lReply1\n|+ $mtuSize\l+ $serverID\l+ $serverSecurity\l+ $ID\l|+ create()\l# decodePayload()\l# encodePayload()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d1/d37/classraklib_1_1protocol_1_1_open_connection_reply1.html",tooltip=" "];
+  Node14 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node17 [label="{raklib\\protocol\\OpenConnection\lReply2\n|+ $clientAddress\l+ $mtuSize\l+ $serverID\l+ $serverSecurity\l+ $ID\l|+ create()\l# decodePayload()\l# encodePayload()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$da/d84/classraklib_1_1protocol_1_1_open_connection_reply2.html",tooltip=" "];
+  Node14 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node18 [label="{raklib\\protocol\\OpenConnection\lRequest1\n|+ $mtuSize\l+ $protocol\l+ $ID\l|# decodePayload()\l# encodePayload()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d2/dfe/classraklib_1_1protocol_1_1_open_connection_request1.html",tooltip=" "];
+  Node14 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node19 [label="{raklib\\protocol\\OpenConnection\lRequest2\n|+ $clientID\l+ $mtuSize\l+ $serverAddress\l+ $ID\l|# decodePayload()\l# encodePayload()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$de/df1/classraklib_1_1protocol_1_1_open_connection_request2.html",tooltip=" "];
+  Node14 -> Node20 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node20 [label="{raklib\\protocol\\UnconnectedPing\n|+ $clientId\l+ $sendPingTime\l+ $ID\l|# decodePayload()\l# encodePayload()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d7/d0d/classraklib_1_1protocol_1_1_unconnected_ping.html",tooltip=" "];
+  Node20 -> Node21 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node21 [label="{raklib\\protocol\\Unconnected\lPingOpenConnections\n|+ $ID\l|}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$df/d03/classraklib_1_1protocol_1_1_unconnected_ping_open_connections.html",tooltip=" "];
+  Node14 -> Node22 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node22 [label="{raklib\\protocol\\UnconnectedPong\n|+ $sendPingTime\l+ $serverId\l+ $serverName\l+ $ID\l|+ create()\l# decodePayload()\l# encodePayload()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$db/d77/classraklib_1_1protocol_1_1_unconnected_pong.html",tooltip=" "];
+}

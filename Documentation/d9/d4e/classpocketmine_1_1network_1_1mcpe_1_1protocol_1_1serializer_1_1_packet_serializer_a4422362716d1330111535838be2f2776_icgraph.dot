@@ -1,0 +1,13 @@
+digraph "pocketmine\network\mcpe\protocol\serializer\PacketSerializer\getUUID"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="pocketmine\\network\l\\mcpe\\protocol\\serializer\l\\PacketSerializer\\getUUID",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pocketmine\\network\l\\mcpe\\protocol\\EmoteListPacket\l\\decodePayload",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d0d/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_emote_list_packet.html#a521d339cc00c99885f228cca8eb76e9b",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pocketmine\\network\l\\mcpe\\protocol\\PlayerListPacket\l\\decodePayload",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/dc3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_list_packet.html#a10143c280d4a33eadc501a116e4da874",tooltip=" "];
+}

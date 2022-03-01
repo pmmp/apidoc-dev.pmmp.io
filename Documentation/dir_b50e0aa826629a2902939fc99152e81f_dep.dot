@@ -1,0 +1,19 @@
+digraph "io"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  compound=true
+  subgraph clusterdir_c0409fa73770119ae74d5e4933aae543 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", style="filled,dashed,", label="format", fontname="Helvetica", fontsize="10", URL="dir_c0409fa73770119ae74d5e4933aae543.html"]
+  subgraph clusterdir_b50e0aa826629a2902939fc99152e81f {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", style="filled,bold,", label="", fontname="Helvetica", fontsize="10", URL="dir_b50e0aa826629a2902939fc99152e81f.html"]
+    dir_b50e0aa826629a2902939fc99152e81f [shape=plaintext, label="io"];
+  dir_93fa0571c243da8732b17ca65d4ffb99 [shape=box, label="data", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_93fa0571c243da8732b17ca65d4ffb99.html"];
+  dir_373b52264409b40285d15f92a1d0bfb1 [shape=box, label="exception", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_373b52264409b40285d15f92a1d0bfb1.html"];
+  dir_b23f7e30ffaf025e4ca5533db5fc4780 [shape=box, label="leveldb", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_b23f7e30ffaf025e4ca5533db5fc4780.html"];
+  dir_31d7437b2278dd2d5d5a6f1d4480f952 [shape=box, label="region", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_31d7437b2278dd2d5d5a6f1d4480f952.html"];
+  }
+  }
+}

@@ -1,0 +1,8 @@
+digraph "pocketmine\scheduler\TaskHandler"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\scheduler\l\\TaskHandler\n|# $cancelled\l# $delay\l# $nextRun\l# $period\l# $task\l|+ __construct()\l+ cancel()\l+ getDelay()\l+ getNextRun()\l+ getOwnerName()\l+ getPeriod()\l+ getTask()\l+ getTaskName()\l+ isCancelled()\l+ isDelayed()\l+ isRepeating()\l+ remove()\l+ run()\l+ setNextRun()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+}

@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="pocketmine\\item\\enchantment\l\\VanillaEnchantments",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/dfc/classpocketmine_1_1item_1_1enchantment_1_1_vanilla_enchantments.html",tooltip=" "];
+}

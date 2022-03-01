@@ -1,0 +1,29 @@
+digraph "pocketmine"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  compound=true
+  subgraph clusterdir_c5da75fdc1d6c57999112ed830c87a3c {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", style="filled,dashed,", label="vendor", fontname="Helvetica", fontsize="10", URL="dir_c5da75fdc1d6c57999112ed830c87a3c.html"]
+  subgraph clusterdir_67ec95640dccd85af7425ce27c77136c {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", style="filled,bold,", label="", fontname="Helvetica", fontsize="10", URL="dir_67ec95640dccd85af7425ce27c77136c.html"]
+    dir_67ec95640dccd85af7425ce27c77136c [shape=plaintext, label="pocketmine"];
+  dir_376e7bdaa6d4a6cea7bb583dcbf64fc9 [shape=box, label="bedrock-data", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_376e7bdaa6d4a6cea7bb583dcbf64fc9.html"];
+  dir_35c25ee8b73bfc2a0e7ec3dc66e7b1c9 [shape=box, label="bedrock-protocol", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_35c25ee8b73bfc2a0e7ec3dc66e7b1c9.html"];
+  dir_20d97ab9eb4f51a93ceb36f1352bd8f0 [shape=box, label="binaryutils", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_20d97ab9eb4f51a93ceb36f1352bd8f0.html"];
+  dir_4d4b67f10f5c573de213794e1c34a860 [shape=box, label="callback-validator", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_4d4b67f10f5c573de213794e1c34a860.html"];
+  dir_f9be796ac29a8a491d5d247acb51b67e [shape=box, label="classloader", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_f9be796ac29a8a491d5d247acb51b67e.html"];
+  dir_a63ebcc2f7b1a63914b5dceb3f4b5e8b [shape=box, label="color", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_a63ebcc2f7b1a63914b5dceb3f4b5e8b.html"];
+  dir_582ef234c2298aaaef29e10a5ae7bbce [shape=box, label="errorhandler", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_582ef234c2298aaaef29e10a5ae7bbce.html"];
+  dir_efb60bdb276935829773856a552a996d [shape=box, label="log", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_efb60bdb276935829773856a552a996d.html"];
+  dir_155f5667b7d8c77864c92f17dd012376 [shape=box, label="log-pthreads", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_155f5667b7d8c77864c92f17dd012376.html"];
+  dir_6af29372318209bdbb325ad6a4576b13 [shape=box, label="math", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_6af29372318209bdbb325ad6a4576b13.html"];
+  dir_1a17901ef04850eab3788e99ea4fdab1 [shape=box, label="nbt", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_1a17901ef04850eab3788e99ea4fdab1.html"];
+  dir_b8c246ef830a7a3f40b614f5ad5d50aa [shape=box, label="raklib", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_b8c246ef830a7a3f40b614f5ad5d50aa.html"];
+  dir_b1b6a6773bf528619d8e5723c685dbd0 [shape=box, label="raklib-ipc", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_b1b6a6773bf528619d8e5723c685dbd0.html"];
+  dir_54570eb7b05a375cad27a3697bad1cc0 [shape=box, label="snooze", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_54570eb7b05a375cad27a3697bad1cc0.html"];
+  }
+  }
+}

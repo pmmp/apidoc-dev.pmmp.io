@@ -1,0 +1,15 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="pocketmine\\world\\format\l\\io\\WorldData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d4e/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_data.html",tooltip=" "];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="pocketmine\\world\\format\l\\io\\data\\BaseNbtWorldData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/def/classpocketmine_1_1world_1_1format_1_1io_1_1data_1_1_base_nbt_world_data.html",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pocketmine\\world\\format\l\\io\\data\\BedrockWorldData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dd1/classpocketmine_1_1world_1_1format_1_1io_1_1data_1_1_bedrock_world_data.html",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pocketmine\\world\\format\l\\io\\data\\JavaWorldData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d8c/classpocketmine_1_1world_1_1format_1_1io_1_1data_1_1_java_world_data.html",tooltip=" "];
+}

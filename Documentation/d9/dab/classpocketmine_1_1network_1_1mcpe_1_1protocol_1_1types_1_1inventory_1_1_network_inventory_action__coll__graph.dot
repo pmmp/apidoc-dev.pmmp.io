@@ -1,0 +1,12 @@
+digraph "pocketmine\network\mcpe\protocol\types\inventory\NetworkInventoryAction"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\NetworkInventory\lAction\n|+ $inventorySlot\l+ $sourceFlags\l+ $sourceType\l+ $windowId\l+ SOURCE_TYPE_CRAFTING\l_RESULT\l+ SOURCE_TYPE_CRAFTING\l_USE_INGREDIENT\l+ SOURCE_TYPE_ENCHANT\l_OUTPUT\l+ SOURCE_TYPE_TRADING\l_INPUT_1\l+ SOURCE_TYPE_TRADING\l_INPUT_2\l+ SOURCE_TYPE_TRADING\l_OUTPUT\l+ SOURCE_TYPE_TRADING\l_USE_INPUTS\l+ SOURCE_WORLD\l|+ read()\l+ write()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +ACTION_MAGIC_SLOT\l_CREATIVE_CREATE_ITEM\n+ACTION_MAGIC_SLOT_CREATIVE\l_DELETE_ITEM\n+ACTION_MAGIC_SLOT_DROP\l_ITEM\n+ACTION_MAGIC_SLOT_PICKUP\l_ITEM\n+SOURCE_CONTAINER\n+SOURCE_CREATIVE\n+SOURCE_TODO\n+SOURCE_TYPE_ANVIL\l_OUTPUT\n+SOURCE_TYPE_ANVIL\l_RESULT\n+SOURCE_TYPE_BEACON\n..." ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{const\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node3 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +$newItem\n+$oldItem" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node3 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\ItemStackWrapper\n||+ __construct()\l+ getItemStack()\l+ getStackId()\l+ write()\l+ legacy()\l+ read()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$dd/ded/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_item_stack_wrapper.html",tooltip=" "];
+}

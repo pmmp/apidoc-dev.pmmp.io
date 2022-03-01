@@ -1,0 +1,15 @@
+digraph "pocketmine\updater\UpdateChecker\checkUpdateCallback"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pocketmine\\updater\l\\UpdateChecker\\checkUpdate\lCallback",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pocketmine\\server",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674",tooltip=" "];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pocketmine\\critical\l_error",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d69/namespacepocketmine.html#a4917b9fbb96d9758f51845080b142b69",tooltip=" "];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pocketmine\\updater\l\\UpdateChecker\\showConsole\lUpdate",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d12/classpocketmine_1_1updater_1_1_update_checker.html#aad3ce90eebecb4c626d853fa1d190818",tooltip=" "];
+}

@@ -1,0 +1,17 @@
+digraph "src"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  compound=true
+  subgraph clusterdir_35c25ee8b73bfc2a0e7ec3dc66e7b1c9 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", style="filled,dashed,", label="bedrock-protocol", fontname="Helvetica", fontsize="10", URL="dir_35c25ee8b73bfc2a0e7ec3dc66e7b1c9.html"]
+  subgraph clusterdir_682c7921c367674b86e95b8a006ee2ec {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", style="filled,bold,", label="", fontname="Helvetica", fontsize="10", URL="dir_682c7921c367674b86e95b8a006ee2ec.html"]
+    dir_682c7921c367674b86e95b8a006ee2ec [shape=plaintext, label="src"];
+  dir_cb327027644beee81f3a3498f95e1a72 [shape=box, label="serializer", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_cb327027644beee81f3a3498f95e1a72.html"];
+  dir_55bc17615453bf062ec3fe223a89c893 [shape=box, label="types", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_55bc17615453bf062ec3fe223a89c893.html"];
+  }
+  }
+}

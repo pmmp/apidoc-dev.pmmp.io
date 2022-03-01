@@ -1,0 +1,10 @@
+digraph "pocketmine\lang\KnownTranslationKeys"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\lang\\KnownTranslationKeys\n|+ COMMANDS_BAN_SUCCESS\l+ COMMANDS_BAN_USAGE\l+ COMMANDS_BANIP_SUCCESS\l_PLAYERS\l+ COMMANDS_BANIP_USAGE\l+ COMMANDS_BANLIST_IPS\l+ COMMANDS_BANLIST_PLAYERS\l+ COMMANDS_BANLIST_USAGE\l+ COMMANDS_CLEAR_FAILURE\l_NO_ITEMS\l+ COMMANDS_CLEAR_SUCCESS\l+ COMMANDS_CLEAR_TESTING\land 411 more...\l|}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +ABILITY_FLIGHT\n+ABILITY_NOCLIP\n+ACCEPT_LICENSE\n+CHAT_TYPE_ACHIEVEMENT\n+CHAT_TYPE_ADMIN\n+CHAT_TYPE_ANNOUNCEMENT\n+CHAT_TYPE_EMOTE\n+CHAT_TYPE_TEXT\n+COMMANDS_BANIP_INVALID\n+COMMANDS_BANIP_SUCCESS\n..." ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{const\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+}

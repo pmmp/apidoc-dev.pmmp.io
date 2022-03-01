@@ -1,0 +1,37 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="pocketmine\\entity\\effect\l\\Effect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d37/classpocketmine_1_1entity_1_1effect_1_1_effect.html",tooltip=" "];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="pocketmine\\entity\\effect\l\\AbsorptionEffect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d72/classpocketmine_1_1entity_1_1effect_1_1_absorption_effect.html",tooltip=" "];
+  Node0 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pocketmine\\entity\\effect\l\\HealthBoostEffect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d8c/classpocketmine_1_1entity_1_1effect_1_1_health_boost_effect.html",tooltip=" "];
+  Node0 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pocketmine\\entity\\effect\l\\HungerEffect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d93/classpocketmine_1_1entity_1_1effect_1_1_hunger_effect.html",tooltip=" "];
+  Node0 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pocketmine\\entity\\effect\l\\InstantEffect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d59/classpocketmine_1_1entity_1_1effect_1_1_instant_effect.html",tooltip=" "];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pocketmine\\entity\\effect\l\\InstantDamageEffect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html",tooltip=" "];
+  Node4 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pocketmine\\entity\\effect\l\\InstantHealthEffect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d3e/classpocketmine_1_1entity_1_1effect_1_1_instant_health_effect.html",tooltip=" "];
+  Node4 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pocketmine\\entity\\effect\l\\SaturationEffect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d3b/classpocketmine_1_1entity_1_1effect_1_1_saturation_effect.html",tooltip=" "];
+  Node0 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pocketmine\\entity\\effect\l\\InvisibilityEffect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/df4/classpocketmine_1_1entity_1_1effect_1_1_invisibility_effect.html",tooltip=" "];
+  Node0 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pocketmine\\entity\\effect\l\\LevitationEffect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d43/classpocketmine_1_1entity_1_1effect_1_1_levitation_effect.html",tooltip=" "];
+  Node0 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="pocketmine\\entity\\effect\l\\PoisonEffect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d23/classpocketmine_1_1entity_1_1effect_1_1_poison_effect.html",tooltip=" "];
+  Node0 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="pocketmine\\entity\\effect\l\\RegenerationEffect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d26/classpocketmine_1_1entity_1_1effect_1_1_regeneration_effect.html",tooltip=" "];
+  Node0 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="pocketmine\\entity\\effect\l\\SlownessEffect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/dad/classpocketmine_1_1entity_1_1effect_1_1_slowness_effect.html",tooltip=" "];
+  Node0 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="pocketmine\\entity\\effect\l\\SpeedEffect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d60/classpocketmine_1_1entity_1_1effect_1_1_speed_effect.html",tooltip=" "];
+  Node0 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="pocketmine\\entity\\effect\l\\WitherEffect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dae/classpocketmine_1_1entity_1_1effect_1_1_wither_effect.html",tooltip=" "];
+}

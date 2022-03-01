@@ -1,0 +1,10 @@
+digraph "pocketmine\network\mcpe\protocol\types\LevelEvent"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\LevelEvent\n|+ CAULDRON_FILL_POTION\l+ CAULDRON_FILL_WATER\l+ CAULDRON_TAKE_POTION\l+ CAULDRON_TAKE_WATER\l+ COPPER_SCRAPE\l+ COPPER_WAX_OFF\l+ COPPER_WAX_ON\l+ GUARDIAN_CURSE\l+ NUMBER_OF_SLEEPING\l_PLAYERS\l+ PARTICLE_AGENT_SPAWN\land 82 more...\l|}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +ADD_PARTICLE_MASK\n+BLOCK_BREAK_SPEED\n+BLOCK_START_BREAK\n+BLOCK_STOP_BREAK\n+BONE_MEAL_USE\n+CAULDRON_ADD_DYE\n+CAULDRON_CLEAN_ARMOR\n+CAULDRON_CLEAN_BANNER\n+CAULDRON_DYE_ARMOR\n+CAULDRON_EXPLODE\n..." ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{const\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+}

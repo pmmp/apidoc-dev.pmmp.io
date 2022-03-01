@@ -1,0 +1,8 @@
+digraph "pocketmine\network\mcpe\compression\CompressBatchPromise"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\network\l\\mcpe\\compression\\Compress\lBatchPromise\n||+ cancel()\l+ getResolveCallbacks()\l+ getResult()\l+ hasResult()\l+ isCancelled()\l+ onResolve()\l+ resolve()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+}

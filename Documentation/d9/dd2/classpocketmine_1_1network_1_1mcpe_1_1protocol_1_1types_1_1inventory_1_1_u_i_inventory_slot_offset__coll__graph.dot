@@ -1,0 +1,10 @@
+digraph "pocketmine\network\mcpe\protocol\types\inventory\UIInventorySlotOffset"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\UIInventorySlotOffset\n|+ LOOM\l+ MATERIAL_REDUCER_INPUT\l+ MATERIAL_REDUCER_OUTPUT\l+ STONE_CUTTER_INPUT\l+ TRADE2_INGREDIENT\l+ TRADE_INGREDIENT\l|}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +ANVIL\n+BEACON_PAYMENT\n+CARTOGRAPHY_TABLE\n+COMPOUND_CREATOR\l_INPUT\n+CRAFTING2X2_INPUT\n+CRAFTING3X3_INPUT\n+CREATED_ITEM_OUTPUT\n+CURSOR\n+ENCHANTING_TABLE\n+GRINDSTONE\n..." ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{const\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+}

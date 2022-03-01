@@ -1,0 +1,8 @@
+digraph "pocketmine\math\Vector2"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\math\\Vector2\n|+ $x\l+ $y\l|+ __construct()\l+ __toString()\l+ abs()\l+ add()\l+ addVector()\l+ ceil()\l+ distance()\l+ distanceSquared()\l+ divide()\l+ dot()\land 12 more...\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+}

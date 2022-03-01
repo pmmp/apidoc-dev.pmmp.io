@@ -1,0 +1,12 @@
+digraph "pocketmine\event\server\LowMemoryEvent"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\event\\server\l\\LowMemoryEvent\n||+ __construct()\l+ getMemory()\l+ getMemoryFreed()\l+ getMemoryLimit()\l+ getTriggerCount()\l+ isGlobal()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node2 [label="{pocketmine\\event\\server\l\\ServerEvent\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d1/d77/classpocketmine_1_1event_1_1server_1_1_server_event.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node3 [label="{pocketmine\\event\\Event\n|# $eventName\l|+ call()\l+ getEventName()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d1/d2f/classpocketmine_1_1event_1_1_event.html",tooltip=" "];
+}

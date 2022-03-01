@@ -1,0 +1,10 @@
+digraph "pocketmine\network\mcpe\protocol\types\skin\SkinData"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\network\l\\mcpe\\protocol\\types\l\\skin\\SkinData\n||+ __construct()\l+ getAnimationData()\l+ getAnimations()\l+ getArmSize()\l+ getCapeId()\l+ getCapeImage()\l+ getFullSkinId()\l+ getGeometryData()\l+ getGeometryDataEngineVersion()\l+ getPersonaPieces()\land 12 more...\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +ARM_SIZE_SLIM\n+ARM_SIZE_WIDE" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{const\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+}

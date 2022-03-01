@@ -1,0 +1,23 @@
+digraph "pocketmine\math\Vector3\getSide"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="pocketmine\\math\\Vector3\l\\getSide",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pocketmine\\math\\Vector3\\down",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d90/classpocketmine_1_1math_1_1_vector3.html#afd5e49285140152c656023ff1abc0dd6",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pocketmine\\math\\Vector3\\east",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d90/classpocketmine_1_1math_1_1_vector3.html#a7a8563715edc718c2d92ab14d3c04f57",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pocketmine\\math\\Vector3\l\\north",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d90/classpocketmine_1_1math_1_1_vector3.html#a4a1fb0292bfdef06f9eaa2c7548cc527",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pocketmine\\math\\Vector3\l\\sides",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d90/classpocketmine_1_1math_1_1_vector3.html#a2c5e440af846d5fde49be5459fe2db8a",tooltip=" "];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pocketmine\\math\\Vector3\l\\south",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d90/classpocketmine_1_1math_1_1_vector3.html#aabf00a3bb113ce67b71445e24920d71e",tooltip=" "];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pocketmine\\math\\Vector3\\up",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d90/classpocketmine_1_1math_1_1_vector3.html#a84e61ccea823ddb5da55f9ca38c096ab",tooltip=" "];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pocketmine\\math\\Vector3\\west",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d90/classpocketmine_1_1math_1_1_vector3.html#ac5e17a9979507f7d3d8658ce164db8c3",tooltip=" "];
+}

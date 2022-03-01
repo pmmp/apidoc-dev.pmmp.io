@@ -1,0 +1,41 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="Countable",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="pocketmine\\nbt\\tag\l\\CompoundTag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d67/classpocketmine_1_1nbt_1_1tag_1_1_compound_tag.html",tooltip=" "];
+  Node0 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pocketmine\\nbt\\tag\l\\ListTag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/df4/classpocketmine_1_1nbt_1_1tag_1_1_list_tag.html",tooltip=" "];
+  Node2 [label="IteratorAggregate",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="pocketmine\\utils\\ObjectSet",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/de5/classpocketmine_1_1utils_1_1_object_set.html",tooltip=" "];
+  Node4 [label="pocketmine\\nbt\\tag\\Tag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d26/classpocketmine_1_1nbt_1_1tag_1_1_tag.html",tooltip=" "];
+  Node4 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pocketmine\\nbt\\tag\l\\ImmutableTag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/ddf/classpocketmine_1_1nbt_1_1tag_1_1_immutable_tag.html",tooltip=" "];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pocketmine\\nbt\\tag\l\\ByteArrayTag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/dec/classpocketmine_1_1nbt_1_1tag_1_1_byte_array_tag.html",tooltip=" "];
+  Node5 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pocketmine\\nbt\\tag\l\\ByteTag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d0a/classpocketmine_1_1nbt_1_1tag_1_1_byte_tag.html",tooltip=" "];
+  Node5 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pocketmine\\nbt\\tag\l\\DoubleTag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d4a/classpocketmine_1_1nbt_1_1tag_1_1_double_tag.html",tooltip=" "];
+  Node5 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pocketmine\\nbt\\tag\l\\FloatTag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d9e/classpocketmine_1_1nbt_1_1tag_1_1_float_tag.html",tooltip=" "];
+  Node5 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="pocketmine\\nbt\\tag\l\\IntArrayTag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/dc3/classpocketmine_1_1nbt_1_1tag_1_1_int_array_tag.html",tooltip=" "];
+  Node5 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="pocketmine\\nbt\\tag\l\\IntTag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/dca/classpocketmine_1_1nbt_1_1tag_1_1_int_tag.html",tooltip=" "];
+  Node5 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="pocketmine\\nbt\\tag\l\\LongTag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d29/classpocketmine_1_1nbt_1_1tag_1_1_long_tag.html",tooltip=" "];
+  Node5 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="pocketmine\\nbt\\tag\l\\ShortTag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d53/classpocketmine_1_1nbt_1_1tag_1_1_short_tag.html",tooltip=" "];
+  Node5 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="pocketmine\\nbt\\tag\l\\StringTag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d25/classpocketmine_1_1nbt_1_1tag_1_1_string_tag.html",tooltip=" "];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

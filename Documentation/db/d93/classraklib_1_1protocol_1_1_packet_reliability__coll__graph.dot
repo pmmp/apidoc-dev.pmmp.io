@@ -1,0 +1,10 @@
+digraph "raklib\protocol\PacketReliability"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{raklib\\protocol\\PacketReliability\n||+ isOrdered()\l+ isReliable()\l+ isSequenced()\l+ isSequencedOrOrdered()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +MAX_ORDER_CHANNELS\n+RELIABLE\n+RELIABLE_ORDERED\n+RELIABLE_ORDERED\l_WITH_ACK_RECEIPT\n+RELIABLE_SEQUENCED\n+RELIABLE_WITH_ACK_RECEIPT\n+UNRELIABLE\n+UNRELIABLE_SEQUENCED\n+UNRELIABLE_WITH_ACK\l_RECEIPT" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{const\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+}

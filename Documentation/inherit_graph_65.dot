@@ -1,0 +1,17 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="pocketmine\\data\\bedrock\l\\LegacyToStringBidirectionalIdMap",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/dc2/classpocketmine_1_1data_1_1bedrock_1_1_legacy_to_string_bidirectional_id_map.html",tooltip=" "];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="pocketmine\\data\\bedrock\l\\LegacyBiomeIdToStringIdMap",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d33/classpocketmine_1_1data_1_1bedrock_1_1_legacy_biome_id_to_string_id_map.html",tooltip=" "];
+  Node0 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pocketmine\\data\\bedrock\l\\LegacyBlockIdToStringIdMap",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/db4/classpocketmine_1_1data_1_1bedrock_1_1_legacy_block_id_to_string_id_map.html",tooltip=" "];
+  Node0 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pocketmine\\data\\bedrock\l\\LegacyEntityIdToStringIdMap",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d9b/classpocketmine_1_1data_1_1bedrock_1_1_legacy_entity_id_to_string_id_map.html",tooltip=" "];
+  Node0 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pocketmine\\data\\bedrock\l\\LegacyItemIdToStringIdMap",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d1a/classpocketmine_1_1data_1_1bedrock_1_1_legacy_item_id_to_string_id_map.html",tooltip=" "];
+}

@@ -1,0 +1,10 @@
+digraph "pocketmine\world\World"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\world\\World\n|+ $stopTime\l+ $tickRateTime\l+ $timings\l+ $updateEntities\l+ DEFAULT_TICKED_BLOCKS\l_PER_SUBCHUNK_PER_TICK\l+ DIFFICULTY_EASY\l+ DIFFICULTY_HARD\l+ DIFFICULTY_NORMAL\l+ DIFFICULTY_PEACEFUL\l+ TIME_DAY\land 8 more...\l|+ __construct()\l+ __debugInfo()\l+ addEntity()\l+ addOnUnloadCallback()\l+ addParticle()\l+ addRandomTickedBlock()\l+ addSound()\l+ addTile()\l+ broadcastPacketToViewers()\l+ cancelUnloadChunkRequest()\land 113 more...\l+ blockHash()\l+ chunkBlockHash()\l+ chunkHash()\l+ getBlockXYZ()\l+ getDifficultyFromString()\l+ getXZ()\l# actuallyDoTick()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node2 [label="{pocketmine\\world\\ChunkManager\n||+ getBlockAt()\l+ getChunk()\l+ getMaxY()\l+ getMinY()\l+ isInWorld()\l+ setBlockAt()\l+ setChunk()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html",tooltip=" "];
+}

@@ -1,0 +1,16 @@
+digraph "nbt"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  compound=true
+  subgraph clusterdir_67ec95640dccd85af7425ce27c77136c {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", style="filled,dashed,", label="pocketmine", fontname="Helvetica", fontsize="10", URL="dir_67ec95640dccd85af7425ce27c77136c.html"]
+  subgraph clusterdir_1a17901ef04850eab3788e99ea4fdab1 {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", style="filled,bold,", label="", fontname="Helvetica", fontsize="10", URL="dir_1a17901ef04850eab3788e99ea4fdab1.html"]
+    dir_1a17901ef04850eab3788e99ea4fdab1 [shape=plaintext, label="nbt"];
+  dir_b8361626dcd86efd7016c850a916ae44 [shape=box, label="src", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_b8361626dcd86efd7016c850a916ae44.html"];
+  }
+  }
+}

@@ -1,0 +1,36 @@
+digraph "pocketmine\entity\effect\Effect"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\entity\\effect\l\\Effect\n||+ __construct()\l+ add()\l+ applyEffect()\l+ canTick()\l+ getColor()\l+ getDefaultDuration()\l+ getName()\l+ hasBubbles()\l+ isBad()\l+ remove()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node2 [label="{pocketmine\\entity\\effect\l\\AbsorptionEffect\n||+ add()\l+ remove()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d3/d72/classpocketmine_1_1entity_1_1effect_1_1_absorption_effect.html",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node3 [label="{pocketmine\\entity\\effect\l\\HealthBoostEffect\n||+ add()\l+ remove()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$de/d8c/classpocketmine_1_1entity_1_1effect_1_1_health_boost_effect.html",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node4 [label="{pocketmine\\entity\\effect\l\\HungerEffect\n||+ applyEffect()\l+ canTick()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d2/d93/classpocketmine_1_1entity_1_1effect_1_1_hunger_effect.html",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node5 [label="{pocketmine\\entity\\effect\l\\InstantEffect\n||+ __construct()\l+ canTick()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d3/d59/classpocketmine_1_1entity_1_1effect_1_1_instant_effect.html",tooltip=" "];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node6 [label="{pocketmine\\entity\\effect\l\\InstantDamageEffect\n||+ applyEffect()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html",tooltip=" "];
+  Node5 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node7 [label="{pocketmine\\entity\\effect\l\\InstantHealthEffect\n||+ applyEffect()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d1/d3e/classpocketmine_1_1entity_1_1effect_1_1_instant_health_effect.html",tooltip=" "];
+  Node5 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node8 [label="{pocketmine\\entity\\effect\l\\SaturationEffect\n||+ applyEffect()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d2/d3b/classpocketmine_1_1entity_1_1effect_1_1_saturation_effect.html",tooltip=" "];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node9 [label="{pocketmine\\entity\\effect\l\\InvisibilityEffect\n||+ add()\l+ remove()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$dc/df4/classpocketmine_1_1entity_1_1effect_1_1_invisibility_effect.html",tooltip=" "];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node10 [label="{pocketmine\\entity\\effect\l\\LevitationEffect\n||+ add()\l+ applyEffect()\l+ canTick()\l+ remove()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$dd/d43/classpocketmine_1_1entity_1_1effect_1_1_levitation_effect.html",tooltip=" "];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node11 [label="{pocketmine\\entity\\effect\l\\PoisonEffect\n||+ __construct()\l+ applyEffect()\l+ canTick()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d9/d23/classpocketmine_1_1entity_1_1effect_1_1_poison_effect.html",tooltip=" "];
+  Node1 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node12 [label="{pocketmine\\entity\\effect\l\\RegenerationEffect\n||+ applyEffect()\l+ canTick()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$dd/d26/classpocketmine_1_1entity_1_1effect_1_1_regeneration_effect.html",tooltip=" "];
+  Node1 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node13 [label="{pocketmine\\entity\\effect\l\\SlownessEffect\n||+ add()\l+ remove()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$dd/dad/classpocketmine_1_1entity_1_1effect_1_1_slowness_effect.html",tooltip=" "];
+  Node1 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node14 [label="{pocketmine\\entity\\effect\l\\SpeedEffect\n||+ add()\l+ remove()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$d3/d60/classpocketmine_1_1entity_1_1effect_1_1_speed_effect.html",tooltip=" "];
+  Node1 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node15 [label="{pocketmine\\entity\\effect\l\\WitherEffect\n||+ applyEffect()\l+ canTick()\l}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",URL="$dc/dae/classpocketmine_1_1entity_1_1effect_1_1_wither_effect.html",tooltip=" "];
+}

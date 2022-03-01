@@ -1,0 +1,25 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="pocketmine\\network\l\\mcpe\\protocol\\PacketHandler\lInterface",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d7c/interfacepocketmine_1_1network_1_1mcpe_1_1protocol_1_1_packet_handler_interface.html",tooltip=" "];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="pocketmine\\network\l\\mcpe\\handler\\PacketHandler",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d23/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_packet_handler.html",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pocketmine\\network\l\\mcpe\\handler\\DeathPacketHandler",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dca/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_death_packet_handler.html",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pocketmine\\network\l\\mcpe\\handler\\HandshakePacket\lHandler",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d2e/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_handshake_packet_handler.html",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pocketmine\\network\l\\mcpe\\handler\\InGamePacket\lHandler",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/ded/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_in_game_packet_handler.html",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pocketmine\\network\l\\mcpe\\handler\\LoginPacketHandler",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d77/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_login_packet_handler.html",tooltip=" "];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pocketmine\\network\l\\mcpe\\handler\\PreSpawnPacket\lHandler",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d3c/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_pre_spawn_packet_handler.html",tooltip=" "];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pocketmine\\network\l\\mcpe\\handler\\ResourcePacks\lPacketHandler",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d06/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_resource_packs_packet_handler.html",tooltip=" "];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pocketmine\\network\l\\mcpe\\handler\\SpawnResponse\lPacketHandler",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dd8/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_spawn_response_packet_handler.html",tooltip=" "];
+}

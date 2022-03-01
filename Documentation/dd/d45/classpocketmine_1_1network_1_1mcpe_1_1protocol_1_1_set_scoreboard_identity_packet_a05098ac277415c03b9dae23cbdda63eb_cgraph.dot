@@ -1,0 +1,13 @@
+digraph "pocketmine\network\mcpe\protocol\SetScoreboardIdentityPacket\decodePayload"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pocketmine\\network\l\\mcpe\\protocol\\SetScoreboard\lIdentityPacket\\decodePayload",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pocketmine\\network\l\\mcpe\\protocol\\serializer\l\\PacketSerializer\\getActorUniqueId",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d4e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_serializer.html#abb51bcfd60b5f0ce60607a5966702299",tooltip=" "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pocketmine\\utils\\BinaryStream\l\\getVarLong",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dc6/classpocketmine_1_1utils_1_1_binary_stream.html#af545f4fe6d3d03b2ca93c58eea43d8e2",tooltip=" "];
+}

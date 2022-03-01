@@ -1,0 +1,10 @@
+digraph "raklib\protocol\MessageIdentifiers"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{raklib\\protocol\\MessageIdentifiers\n|+ ID_AUTOPATCHER_REPOSITORY\l_FATAL_ERROR\l+ ID_AUTOPATCHER_RESTART\l_APPLICATION\l+ ID_CLOUD_GET_REQUEST\l+ ID_CLOUD_GET_RESPONSE\l+ ID_CLOUD_POST_REQUEST\l+ ID_CLOUD_RELEASE_REQUEST\l+ ID_CLOUD_SERVER_TO\l_SERVER_COMMAND\l+ ID_CLOUD_SUBSCRIPTION\l_NOTIFICATION\l+ ID_CLOUD_UNSUBSCRIBE\l_REQUEST\l+ ID_CONNECTED_PING\land 115 more...\l|}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +ID_ADVERTISE_SYSTEM\n+ID_ALREADY_CONNECTED\n+ID_AUTOPATCHER_CANNOT\l_DOWNLOAD_ORIGINAL_UNMODIFIED\l_FILES\n+ID_AUTOPATCHER_CREATION\l_LIST\n+ID_AUTOPATCHER_DELETION\l_LIST\n+ID_AUTOPATCHER_FINISHED\n+ID_AUTOPATCHER_FINISHED\l_INTERNAL\n+ID_AUTOPATCHER_GET_CHANGELIST\l_SINCE_DATE\n+ID_AUTOPATCHER_GET_PATCH\n+ID_AUTOPATCHER_PATCH_LIST\n..." ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{const\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+}

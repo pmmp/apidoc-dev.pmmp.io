@@ -1,0 +1,13 @@
+digraph "pocketmine\network\mcpe\protocol\types\inventory\NetworkInventoryAction\read"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pocketmine\\network\l\\mcpe\\protocol\\types\l\\inventory\\NetworkInventory\lAction\\read",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pocketmine\\utils\\BinaryStream\l\\getUnsignedVarInt",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dc6/classpocketmine_1_1utils_1_1_binary_stream.html#ab51e507a9f4baec0713ff4007ce192b8",tooltip=" "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pocketmine\\utils\\BinaryStream\l\\getVarInt",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dc6/classpocketmine_1_1utils_1_1_binary_stream.html#ac5ff381ba808345e8ae8dcf0ec4e3da0",tooltip=" "];
+}

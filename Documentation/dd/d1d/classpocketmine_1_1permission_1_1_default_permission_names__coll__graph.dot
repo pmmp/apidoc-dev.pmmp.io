@@ -1,0 +1,10 @@
+digraph "pocketmine\permission\DefaultPermissionNames"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{pocketmine\\permission\l\\DefaultPermissionNames\n|+ COMMAND_EFFECT\l+ COMMAND_ENCHANT\l+ COMMAND_GAMEMODE\l+ COMMAND_GC\l+ COMMAND_GIVE\l+ COMMAND_HELP\l+ COMMAND_KICK\l+ COMMAND_KILL_OTHER\l+ COMMAND_KILL_SELF\l+ COMMAND_LIST\land 36 more...\l|}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +BROADCAST_ADMIN\n+BROADCAST_USER\n+COMMAND_BAN_IP\n+COMMAND_BAN_LIST\n+COMMAND_BAN_PLAYER\n+COMMAND_CLEAR_OTHER\n+COMMAND_CLEAR_SELF\n+COMMAND_DEFAULTGAMEMODE\n+COMMAND_DIFFICULTY\n+COMMAND_DUMPMEMORY\n..." ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{const\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+}

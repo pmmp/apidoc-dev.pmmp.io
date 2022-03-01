@@ -1,0 +1,15 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="pocketmine\\utils\\StringTo\lTParser",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d64/classpocketmine_1_1utils_1_1_string_to_t_parser.html",tooltip=" "];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="pocketmine\\entity\\effect\l\\StringToEffectParser",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/deb/classpocketmine_1_1entity_1_1effect_1_1_string_to_effect_parser.html",tooltip=" "];
+  Node0 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pocketmine\\item\\StringTo\lItemParser",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d75/classpocketmine_1_1item_1_1_string_to_item_parser.html",tooltip=" "];
+  Node0 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pocketmine\\item\\enchantment\l\\StringToEnchantmentParser",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/dbc/classpocketmine_1_1item_1_1enchantment_1_1_string_to_enchantment_parser.html",tooltip=" "];
+}
