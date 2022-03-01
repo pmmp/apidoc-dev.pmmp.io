@@ -68,7 +68,7 @@ jobs:
 
       - name: Install Composer dependencies
         working-directory: ${{ github.workspace }}/pocketmine-mp
-        run: php composer.phar install --prefer-dist --no-interaction
+        run: php ${{ github.workspace }}/composer.phar install --prefer-dist --no-interaction
 
       - name: Get PocketMine-MP release version
         id: get-pm-version
