@@ -41,7 +41,7 @@ jobs:
         with:
           repository: pmmp/PocketMine-MP
           ref: next-major
-          depth: 1
+          fetch-depth: 1
           path: pocketmine-mp
 
       - name: Build and prepare PHP cache
