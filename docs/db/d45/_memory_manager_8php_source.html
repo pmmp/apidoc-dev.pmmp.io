@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;4.3.0 git-3ed336fa0e5247cf142b70c52fd460e8d3391ed3</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;4.3.0 git-70f923714cd08b4520dedc15178ea242939f4b6b</span>
    </div>
   </td>
  </tr>
@@ -578,20 +578,25 @@ $(document).ready(function(){initNavTree('db/d45/_memory_manager_8php_source.htm
 <div class="line"><a id="l00508" name="l00508"></a><span class="lineno">  508</span>                <span class="keywordflow">return</span> <span class="stringliteral">&quot;(error) ARRAY RECURSION LIMIT REACHED&quot;</span>;</div>
 <div class="line"><a id="l00509" name="l00509"></a><span class="lineno">  509</span>            }</div>
 <div class="line"><a id="l00510" name="l00510"></a><span class="lineno">  510</span>            $data = [];</div>
-<div class="line"><a id="l00511" name="l00511"></a><span class="lineno">  511</span>            <span class="keywordflow">foreach</span>($from as $key =&gt; $value){</div>
-<div class="line"><a id="l00512" name="l00512"></a><span class="lineno">  512</span>                $data[$key] = self::continueDump($value, $objects, $refCounts, $recursion + 1, $maxNesting, $maxStringSize);</div>
-<div class="line"><a id="l00513" name="l00513"></a><span class="lineno">  513</span>            }</div>
-<div class="line"><a id="l00514" name="l00514"></a><span class="lineno">  514</span>        }elseif(is_string($from)){</div>
-<div class="line"><a id="l00515" name="l00515"></a><span class="lineno">  515</span>            $data = <span class="stringliteral">&quot;(string) len(&quot;</span> . strlen($from) . <span class="stringliteral">&quot;) &quot;</span> . substr(Utils::printable($from), 0, $maxStringSize);</div>
-<div class="line"><a id="l00516" name="l00516"></a><span class="lineno">  516</span>        }elseif(is_resource($from)){</div>
-<div class="line"><a id="l00517" name="l00517"></a><span class="lineno">  517</span>            $data = <span class="stringliteral">&quot;(resource) &quot;</span> . print_r($from, <span class="keyword">true</span>);</div>
-<div class="line"><a id="l00518" name="l00518"></a><span class="lineno">  518</span>        }<span class="keywordflow">else</span>{</div>
-<div class="line"><a id="l00519" name="l00519"></a><span class="lineno">  519</span>            $data = $from;</div>
-<div class="line"><a id="l00520" name="l00520"></a><span class="lineno">  520</span>        }</div>
-<div class="line"><a id="l00521" name="l00521"></a><span class="lineno">  521</span> </div>
-<div class="line"><a id="l00522" name="l00522"></a><span class="lineno">  522</span>        <span class="keywordflow">return</span> $data;</div>
-<div class="line"><a id="l00523" name="l00523"></a><span class="lineno">  523</span>    }</div>
-<div class="line"><a id="l00524" name="l00524"></a><span class="lineno">  524</span>}</div>
+<div class="line"><a id="l00511" name="l00511"></a><span class="lineno">  511</span>            $numeric = 0;</div>
+<div class="line"><a id="l00512" name="l00512"></a><span class="lineno">  512</span>            <span class="keywordflow">foreach</span>($from as $key =&gt; $value){</div>
+<div class="line"><a id="l00513" name="l00513"></a><span class="lineno">  513</span>                $data[$numeric] = [</div>
+<div class="line"><a id="l00514" name="l00514"></a><span class="lineno">  514</span>                    <span class="stringliteral">&quot;k&quot;</span> =&gt; self::continueDump($key, $objects, $refCounts, $recursion + 1, $maxNesting, $maxStringSize),</div>
+<div class="line"><a id="l00515" name="l00515"></a><span class="lineno">  515</span>                    <span class="stringliteral">&quot;v&quot;</span> =&gt; self::continueDump($value, $objects, $refCounts, $recursion + 1, $maxNesting, $maxStringSize),</div>
+<div class="line"><a id="l00516" name="l00516"></a><span class="lineno">  516</span>                ];</div>
+<div class="line"><a id="l00517" name="l00517"></a><span class="lineno">  517</span>                $numeric++;</div>
+<div class="line"><a id="l00518" name="l00518"></a><span class="lineno">  518</span>            }</div>
+<div class="line"><a id="l00519" name="l00519"></a><span class="lineno">  519</span>        }elseif(is_string($from)){</div>
+<div class="line"><a id="l00520" name="l00520"></a><span class="lineno">  520</span>            $data = <span class="stringliteral">&quot;(string) len(&quot;</span> . strlen($from) . <span class="stringliteral">&quot;) &quot;</span> . substr(Utils::printable($from), 0, $maxStringSize);</div>
+<div class="line"><a id="l00521" name="l00521"></a><span class="lineno">  521</span>        }elseif(is_resource($from)){</div>
+<div class="line"><a id="l00522" name="l00522"></a><span class="lineno">  522</span>            $data = <span class="stringliteral">&quot;(resource) &quot;</span> . print_r($from, <span class="keyword">true</span>);</div>
+<div class="line"><a id="l00523" name="l00523"></a><span class="lineno">  523</span>        }<span class="keywordflow">else</span>{</div>
+<div class="line"><a id="l00524" name="l00524"></a><span class="lineno">  524</span>            $data = $from;</div>
+<div class="line"><a id="l00525" name="l00525"></a><span class="lineno">  525</span>        }</div>
+<div class="line"><a id="l00526" name="l00526"></a><span class="lineno">  526</span> </div>
+<div class="line"><a id="l00527" name="l00527"></a><span class="lineno">  527</span>        <span class="keywordflow">return</span> $data;</div>
+<div class="line"><a id="l00528" name="l00528"></a><span class="lineno">  528</span>    }</div>
+<div class="line"><a id="l00529" name="l00529"></a><span class="lineno">  529</span>}</div>
 <div class="ttc" id="aclass_prefixed_logger_html"><div class="ttname"><a href="../../d9/d00/class_prefixed_logger.html">PrefixedLogger</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/dae/_prefixed_logger_8php_source.html#l00020">PrefixedLogger.php:20</a></div></div>
 <div class="ttc" id="aclass_simple_logger_html_a7ac1aa95a08676d825b73abb4ea2d235"><div class="ttname"><a href="../../d9/df4/class_simple_logger.html#a7ac1aa95a08676d825b73abb4ea2d235">SimpleLogger\notice</a></div><div class="ttdeci">notice($message)</div><div class="ttdef"><b>Definition:</b> <a href="../../d3/d85/_simple_logger_8php_source.html#l00041">SimpleLogger.php:41</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1_memory_manager_html"><div class="ttname"><a href="../../d3/df7/classpocketmine_1_1_memory_manager.html">pocketmine\MemoryManager</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d45/_memory_manager_8php_source.html#l00071">MemoryManager.php:71</a></div></div>
@@ -619,7 +624,7 @@ $(document).ready(function(){initNavTree('db/d45/_memory_manager_8php_source.htm
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><b>MemoryManager.php</b></li>
-    <li class="footer">Generated on Wed Mar 2 2022 18:40:36 for PocketMine-MP by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.3 </li>
+    <li class="footer">Generated by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.3 </li>
   </ul>
 </div>
 </body>
