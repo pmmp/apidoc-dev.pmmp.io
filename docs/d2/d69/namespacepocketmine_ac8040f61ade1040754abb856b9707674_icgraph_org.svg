@@ -5,10 +5,10 @@
  -->
 <!-- Title: pocketmine\server Pages: 1 -->
 <svg width="550pt" height="1106pt"
- viewBox="0.00 0.00 550.00 1105.50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1101.5)">
+ viewBox="0.00 0.00 550.00 1106.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1102)">
 <title>pocketmine\server</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-1101.5 546,-1101.5 546,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-1102 546,-1102 546,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
@@ -21,35 +21,35 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="../../d7/d77/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_login_packet_handler.html#a4fc4fa628655dad7c2e36417f55a2aae" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="214,-1056 214,-1097 399,-1097 399,-1056 214,-1056"/>
-<text text-anchor="start" x="222" y="-1085" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
-<text text-anchor="start" x="222" y="-1074" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\handler\LoginPacketHandler</text>
-<text text-anchor="middle" x="306.5" y="-1063" font-family="Helvetica,sans-Serif" font-size="10.00">\__construct</text>
+<g id="a_node2"><a xlink:href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html#a8b003390da4281b56c309c3c123b4c15" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="239.5,-1067.5 239.5,-1097.5 373.5,-1097.5 373.5,-1067.5 239.5,-1067.5"/>
+<text text-anchor="start" x="247.5" y="-1085.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\World</text>
+<text text-anchor="middle" x="306.5" y="-1074.5" font-family="Helvetica,sans-Serif" font-size="10.00">\__construct</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M486.67,-563.22C482.77,-646.92 463.61,-971.94 399,-1046.5 395.93,-1050.04 392.44,-1053.16 388.66,-1055.92"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="490.17,-563.21 487.12,-553.06 483.18,-562.89 490.17,-563.21"/>
+<path fill="none" stroke="midnightblue" d="M486.84,-563.47C483.62,-648.92 466.8,-982.84 399,-1057.5 392.14,-1065.06 383.23,-1070.42 373.67,-1074.21"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="490.34,-563.43 487.2,-553.31 483.35,-563.18 490.34,-563.43"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html#aae34caa8f2a4fbf6c1fd658f6b4494fd" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="239.5,-1006.5 239.5,-1036.5 373.5,-1036.5 373.5,-1006.5 239.5,-1006.5"/>
-<text text-anchor="start" x="247.5" y="-1024.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\World</text>
-<text text-anchor="middle" x="306.5" y="-1013.5" font-family="Helvetica,sans-Serif" font-size="10.00">\__construct</text>
+<g id="a_node3"><a xlink:href="../../d7/d77/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_login_packet_handler.html#a4fc4fa628655dad7c2e36417f55a2aae" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="214,-1007 214,-1048 399,-1048 399,-1007 214,-1007"/>
+<text text-anchor="start" x="222" y="-1036" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
+<text text-anchor="start" x="222" y="-1025" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\handler\LoginPacketHandler</text>
+<text text-anchor="middle" x="306.5" y="-1014" font-family="Helvetica,sans-Serif" font-size="10.00">\__construct</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M486.37,-563.38C481.48,-642.38 459.61,-932.88 399,-997.5 392.15,-1004.81 383.36,-1009.99 373.96,-1013.66"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="489.87,-563.51 486.97,-553.32 482.88,-563.09 489.87,-563.51"/>
+<path fill="none" stroke="midnightblue" d="M486.26,-563.28C480.94,-641.89 457.63,-931.08 399,-997.5 395.9,-1001.01 392.39,-1004.11 388.58,-1006.85"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="489.75,-563.47 486.91,-553.26 482.77,-563.01 489.75,-563.47"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">

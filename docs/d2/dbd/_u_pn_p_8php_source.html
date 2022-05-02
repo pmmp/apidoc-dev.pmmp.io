@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;4.3.0 git-ded7e24f67a915e59ac4d1814cf6d8ff8e47836a</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;4.4.0 git-5d39d7a1c8b350288cfde26b465026dd5b157630</span>
    </div>
   </td>
  </tr>
@@ -262,7 +262,7 @@ $(document).ready(function(){initNavTree('d2/dbd/_u_pn_p_8php_source.html','../.
 <div class="line"><a id="l00174" name="l00174"></a><span class="lineno">  174</span>            <span class="stringliteral">&#39;/upnp:controlURL&#39;</span></div>
 <div class="line"><a id="l00175" name="l00175"></a><span class="lineno">  175</span>        ), <span class="stringliteral">&quot;xpath query is borked&quot;</span>);</div>
 <div class="line"><a id="l00176" name="l00176"></a><span class="lineno">  176</span> </div>
-<div class="line"><a id="l00177" name="l00177"></a><span class="lineno">  177</span>        <span class="keywordflow">if</span>(count($xpathResult) === 0){</div>
+<div class="line"><a id="l00177" name="l00177"></a><span class="lineno">  177</span>        <span class="keywordflow">if</span>($xpathResult === <span class="keyword">null</span> || count($xpathResult) === 0){</div>
 <div class="line"><a id="l00178" name="l00178"></a><span class="lineno">  178</span>            <span class="keywordflow">throw</span> <span class="keyword">new</span> UPnPException(<span class="stringliteral">&quot;Your router does not support portforwarding&quot;</span>);</div>
 <div class="line"><a id="l00179" name="l00179"></a><span class="lineno">  179</span>        }</div>
 <div class="line"><a id="l00180" name="l00180"></a><span class="lineno">  180</span>        $controlURL = (string) $xpathResult[0];</div>
@@ -327,7 +327,7 @@ $(document).ready(function(){initNavTree('d2/dbd/_u_pn_p_8php_source.html','../.
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_internet_html_a63e8e989fb52afa7cf08e5ee8d24b9f1"><div class="ttname"><a href="../../df/d1b/classpocketmine_1_1utils_1_1_internet.html#a63e8e989fb52afa7cf08e5ee8d24b9f1">pocketmine\utils\Internet\getURL</a></div><div class="ttdeci">static getURL(string $page, int $timeout=10, array $extraHeaders=[], &amp;$err=null)</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/d4f/_internet_8php_source.html#l00147">Internet.php:147</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_internet_html_adce20ea05644f1a30316b95d69ebb3b3"><div class="ttname"><a href="../../df/d1b/classpocketmine_1_1utils_1_1_internet.html#adce20ea05644f1a30316b95d69ebb3b3">pocketmine\utils\Internet\postURL</a></div><div class="ttdeci">static postURL(string $page, $args, int $timeout=10, array $extraHeaders=[], &amp;$err=null)</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/d4f/_internet_8php_source.html#l00166">Internet.php:166</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html">pocketmine\utils\Utils</a></div><div class="ttdef"><b>Definition:</b> <a href="../../de/dca/_utils_8php_source.html#l00099">Utils.php:99</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_a292c99eeb9f5c7baac8531811ec237de"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a292c99eeb9f5c7baac8531811ec237de">pocketmine\utils\Utils\assumeNotFalse</a></div><div class="ttdeci">static assumeNotFalse(mixed $value, \Closure|string $context=&quot;This should never be false&quot;)</div><div class="ttdef"><b>Definition:</b> <a href="../../de/dca/_utils_8php_source.html#l00603">Utils.php:603</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_a292c99eeb9f5c7baac8531811ec237de"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a292c99eeb9f5c7baac8531811ec237de">pocketmine\utils\Utils\assumeNotFalse</a></div><div class="ttdeci">static assumeNotFalse(mixed $value, \Closure|string $context=&quot;This should never be false&quot;)</div><div class="ttdef"><b>Definition:</b> <a href="../../de/dca/_utils_8php_source.html#l00601">Utils.php:601</a></div></div>
 <div class="ttc" id="anamespacepocketmine_1_1network_1_1upnp_html"><div class="ttname"><a href="../../dd/db6/namespacepocketmine_1_1network_1_1upnp.html">pocketmine\network\upnp</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d2/dbd/_u_pn_p_8php_source.html#l00056">UPnP.php:56</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
