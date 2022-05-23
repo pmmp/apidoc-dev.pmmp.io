@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;4.4.0 git-12e4724b195ed1b3d8e227c9a501585a275b7672</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;4.4.0 git-179cac45f51179ac264dbd182a5c90e2e133dddb</span>
    </div>
   </td>
  </tr>
@@ -193,7 +193,7 @@ $(document).ready(function(){initNavTree('d7/d68/_give_command_8php_source.html'
 <div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span>        $player-&gt;getInventory()-&gt;addItem($item);</div>
 <div class="line"><a id="l00100" name="l00100"></a><span class="lineno">  100</span> </div>
 <div class="line"><a id="l00101" name="l00101"></a><span class="lineno">  101</span>        Command::broadcastCommandMessage($sender, KnownTranslationFactory::commands_give_success(</div>
-<div class="line"><a id="l00102" name="l00102"></a><span class="lineno">  102</span>            $item-&gt;getName() . <span class="stringliteral">&quot; (&quot;</span> . $item-&gt;getId() . <span class="stringliteral">&quot;:&quot;</span> . $item-&gt;getMeta() . <span class="stringliteral">&quot;)&quot;</span>,</div>
+<div class="line"><a id="l00102" name="l00102"></a><span class="lineno">  102</span>            $item-&gt;getName() . <span class="stringliteral">&quot; (&quot;</span> . $args[1] . <span class="stringliteral">&quot;)&quot;</span>,</div>
 <div class="line"><a id="l00103" name="l00103"></a><span class="lineno">  103</span>            (<span class="keywordtype">string</span>) $item-&gt;getCount(),</div>
 <div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span>            $player-&gt;getName()</div>
 <div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span>        ));</div>

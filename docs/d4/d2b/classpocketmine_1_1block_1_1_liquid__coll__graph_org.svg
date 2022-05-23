@@ -31,7 +31,7 @@
 <text text-anchor="start" x="96.38" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
 <text text-anchor="start" x="96.38" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlowDecayPerBlock()</text>
 <text text-anchor="start" x="96.38" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlowingForm()</text>
-<text text-anchor="start" x="96.38" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 19 more...</text>
+<text text-anchor="start" x="96.38" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 20 more...</text>
 <text text-anchor="start" x="96.38" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00"># canFlowInto()</text>
 <text text-anchor="start" x="96.38" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00"># checkForHarden()</text>
 <text text-anchor="start" x="96.38" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00"># flowIntoBlock()</text>
@@ -81,7 +81,7 @@
 <text text-anchor="start" x="239.88" y="-595.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ calculateIntercept()</text>
 <text text-anchor="start" x="239.88" y="-584.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
 <text text-anchor="start" x="239.88" y="-573.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
-<text text-anchor="start" x="239.88" y="-562.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 56 more...</text>
+<text text-anchor="start" x="239.88" y="-562.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 57 more...</text>
 <text text-anchor="start" x="239.88" y="-551.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getXpDropAmount()</text>
 <text text-anchor="start" x="239.88" y="-540.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 <text text-anchor="start" x="239.88" y="-529.5" font-family="Helvetica,sans-Serif" font-size="10.00"># writeStateToItemMeta()</text>

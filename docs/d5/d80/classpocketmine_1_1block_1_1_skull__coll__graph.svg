@@ -90,22 +90,23 @@ var sectionId = 'dynsection-1';
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="../../d3/d1e/classpocketmine_1_1block_1_1_flowable.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="76.5,-320 76.5,-399 237.5,-399 237.5,-320 76.5,-320"/>
-<text text-anchor="middle" x="157" y="-387" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Flowable</text>
-<polyline fill="none" stroke="#bfbfbf" points="76.5,-380 237.5,-380 "/>
-<text text-anchor="middle" x="157" y="-368" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="76.5,-361 237.5,-361 "/>
-<text text-anchor="start" x="84.5" y="-349" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
-<text text-anchor="start" x="84.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ isSolid()</text>
-<text text-anchor="start" x="84.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
+<polygon fill="white" stroke="#bfbfbf" points="76.5,-314.5 76.5,-404.5 237.5,-404.5 237.5,-314.5 76.5,-314.5"/>
+<text text-anchor="middle" x="157" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Flowable</text>
+<polyline fill="none" stroke="#bfbfbf" points="76.5,-385.5 237.5,-385.5 "/>
+<text text-anchor="middle" x="157" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="76.5,-366.5 237.5,-366.5 "/>
+<text text-anchor="start" x="84.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
+<text text-anchor="start" x="84.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSupportType()</text>
+<text text-anchor="start" x="84.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isSolid()</text>
+<text text-anchor="start" x="84.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
 <title>Node2&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M157,-309.63C157,-293.49 157,-274.72 157,-255.52"/>
-<polygon fill="none" stroke="midnightblue" points="153.5,-309.83 157,-319.83 160.5,-309.83 153.5,-309.83"/>
+<path fill="none" stroke="midnightblue" d="M157,-303.88C157,-289.17 157,-272.63 157,-255.73"/>
+<polygon fill="none" stroke="midnightblue" points="153.5,-304.25 157,-314.25 160.5,-304.25 153.5,-304.25"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
@@ -123,7 +124,7 @@ var sectionId = 'dynsection-1';
 <!-- Node3&#45;&gt;Node2 -->
 <g id="edge2" class="edge">
 <title>Node3&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M190.93,-443.95C185.19,-429.84 178.64,-413.72 172.83,-399.43"/>
+<path fill="none" stroke="midnightblue" d="M190.87,-443.78C185.82,-431.37 180.15,-417.42 174.91,-404.55"/>
 <polygon fill="none" stroke="midnightblue" points="187.75,-445.41 194.76,-453.35 194.23,-442.77 187.75,-445.41"/>
 </g>
 <!-- Node4 -->
@@ -146,7 +147,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="230.5" y="-653.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ calculateIntercept()</text>
 <text text-anchor="start" x="230.5" y="-642.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
 <text text-anchor="start" x="230.5" y="-631.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
-<text text-anchor="start" x="230.5" y="-620.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 56 more...</text>
+<text text-anchor="start" x="230.5" y="-620.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 57 more...</text>
 <text text-anchor="start" x="230.5" y="-609.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getXpDropAmount()</text>
 <text text-anchor="start" x="230.5" y="-598.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 <text text-anchor="start" x="230.5" y="-587.5" font-family="Helvetica,sans-Serif" font-size="10.00"># writeStateToItemMeta()</text>

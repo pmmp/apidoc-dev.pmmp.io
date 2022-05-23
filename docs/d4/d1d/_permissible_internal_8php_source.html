@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;4.4.0 git-12e4724b195ed1b3d8e227c9a501585a275b7672</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;4.4.0 git-179cac45f51179ac264dbd182a5c90e2e133dddb</span>
    </div>
   </td>
  </tr>
@@ -126,13 +126,13 @@ $(document).ready(function(){initNavTree('d4/d1d/_permissible_internal_8php_sour
 <div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>use <span class="keyword">function</span> spl_object_id;</div>
 <div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span> </div>
 <div class="line"><a id="l00042" name="l00042"></a><span class="lineno"><a class="line" href="../../d9/d10/classpocketmine_1_1permission_1_1_permissible_internal.html">   42</a></span><span class="keyword">class </span><a class="code hl_class" href="../../d9/d10/classpocketmine_1_1permission_1_1_permissible_internal.html">PermissibleInternal</a> <span class="keyword">implements</span> <a class="code hl_interface" href="../../de/da0/interfacepocketmine_1_1permission_1_1_permissible.html">Permissible</a>{</div>
-<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>    <span class="keyword">private</span> $rootPermissions;</div>
+<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>    <span class="keyword">private</span> array $rootPermissions;</div>
 <div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span> </div>
-<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>    <span class="keyword">private</span> $attachments = [];</div>
+<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>    <span class="keyword">private</span> array $attachments = [];</div>
 <div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span> </div>
-<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>    <span class="keyword">private</span> $permissions = [];</div>
+<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>    <span class="keyword">private</span> array $permissions = [];</div>
 <div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span> </div>
-<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>    <span class="keyword">private</span> $permissionRecalculationCallbacks;</div>
+<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>    <span class="keyword">private</span> <a class="code hl_class" href="../../dd/de5/classpocketmine_1_1utils_1_1_object_set.html">ObjectSet</a> $permissionRecalculationCallbacks;</div>
 <div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span> </div>
 <div class="line"><a id="l00065" name="l00065"></a><span class="lineno"><a class="line" href="../../d9/d10/classpocketmine_1_1permission_1_1_permissible_internal.html#ab99047241c66bdf0ffc66fa0ef2876a7">   65</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d9/d10/classpocketmine_1_1permission_1_1_permissible_internal.html#ab99047241c66bdf0ffc66fa0ef2876a7">__construct</a>(array $basePermissions){</div>
 <div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>        $this-&gt;permissionRecalculationCallbacks = <span class="keyword">new</span> <a class="code hl_class" href="../../dd/de5/classpocketmine_1_1utils_1_1_object_set.html">ObjectSet</a>();</div>

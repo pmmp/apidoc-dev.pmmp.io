@@ -1,6 +1,6 @@
 <map id="pocketmine\block\RedstoneRepeater" name="pocketmine\block\RedstoneRepeater">
-<area shape="rect" id="node1" title=" " alt="" coords="111,1459,326,1697"/>
-<area shape="rect" id="node2" href="$d3/d1e/classpocketmine_1_1block_1_1_flowable.html" title=" " alt="" coords="257,1303,471,1409"/>
+<area shape="rect" id="node1" title=" " alt="" coords="111,1473,326,1712"/>
+<area shape="rect" id="node2" href="$d3/d1e/classpocketmine_1_1block_1_1_flowable.html" title=" " alt="" coords="257,1303,471,1424"/>
 <area shape="rect" id="node3" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="257,1163,474,1240"/>
 <area shape="rect" id="node4" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="258,681,473,979"/>
 <area shape="rect" id="node5" title=" " alt="" coords="317,123,374,200"/>

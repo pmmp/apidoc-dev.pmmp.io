@@ -22,7 +22,8 @@ var namespacepocketmine =
       [ "PotionContainerChangeRecipe", "d1/d65/classpocketmine_1_1crafting_1_1_potion_container_change_recipe.html", null ],
       [ "PotionTypeRecipe", "d8/dfb/classpocketmine_1_1crafting_1_1_potion_type_recipe.html", null ],
       [ "ShapedRecipe", "d6/dbb/classpocketmine_1_1crafting_1_1_shaped_recipe.html", "d6/dbb/classpocketmine_1_1crafting_1_1_shaped_recipe" ],
-      [ "ShapelessRecipe", "dd/d02/classpocketmine_1_1crafting_1_1_shapeless_recipe.html", "dd/d02/classpocketmine_1_1crafting_1_1_shapeless_recipe" ]
+      [ "ShapelessRecipe", "dd/d02/classpocketmine_1_1crafting_1_1_shapeless_recipe.html", "dd/d02/classpocketmine_1_1crafting_1_1_shapeless_recipe" ],
+      [ "ShapelessRecipeType", "df/d32/classpocketmine_1_1crafting_1_1_shapeless_recipe_type.html", null ]
     ] ],
     [ "crash", null, [
       [ "CrashDump", "d7/d2c/classpocketmine_1_1crash_1_1_crash_dump.html", null ],

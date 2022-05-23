@@ -26,7 +26,8 @@ var annotated_dup =
           [ "FurnaceInventory", "d8/d69/classpocketmine_1_1block_1_1inventory_1_1_furnace_inventory.html", "d8/d69/classpocketmine_1_1block_1_1inventory_1_1_furnace_inventory" ],
           [ "HopperInventory", "d0/dc5/classpocketmine_1_1block_1_1inventory_1_1_hopper_inventory.html", "d0/dc5/classpocketmine_1_1block_1_1inventory_1_1_hopper_inventory" ],
           [ "LoomInventory", "db/d8d/classpocketmine_1_1block_1_1inventory_1_1_loom_inventory.html", "db/d8d/classpocketmine_1_1block_1_1inventory_1_1_loom_inventory" ],
-          [ "ShulkerBoxInventory", "d4/db4/classpocketmine_1_1block_1_1inventory_1_1_shulker_box_inventory.html", "d4/db4/classpocketmine_1_1block_1_1inventory_1_1_shulker_box_inventory" ]
+          [ "ShulkerBoxInventory", "d4/db4/classpocketmine_1_1block_1_1inventory_1_1_shulker_box_inventory.html", "d4/db4/classpocketmine_1_1block_1_1inventory_1_1_shulker_box_inventory" ],
+          [ "StonecutterInventory", "db/d21/classpocketmine_1_1block_1_1inventory_1_1_stonecutter_inventory.html", "db/d21/classpocketmine_1_1block_1_1inventory_1_1_stonecutter_inventory" ]
         ] ],
         [ "tile", "db/dba/namespacepocketmine_1_1block_1_1tile.html", [
           [ "Banner", "d2/d87/classpocketmine_1_1block_1_1tile_1_1_banner.html", "d2/d87/classpocketmine_1_1block_1_1tile_1_1_banner" ],
@@ -79,6 +80,7 @@ var annotated_dup =
           [ "SkullType", "d8/dbc/classpocketmine_1_1block_1_1utils_1_1_skull_type.html", null ],
           [ "SlabType", "dd/da9/classpocketmine_1_1block_1_1utils_1_1_slab_type.html", null ],
           [ "StairShape", "df/d5a/classpocketmine_1_1block_1_1utils_1_1_stair_shape.html", null ],
+          [ "SupportType", "d2/dbe/classpocketmine_1_1block_1_1utils_1_1_support_type.html", null ],
           [ "TreeType", "d7/de7/classpocketmine_1_1block_1_1utils_1_1_tree_type.html", null ]
         ] ],
         [ "ActivatorRail", "d6/d7d/classpocketmine_1_1block_1_1_activator_rail.html", "d6/d7d/classpocketmine_1_1block_1_1_activator_rail" ],
@@ -243,6 +245,7 @@ var annotated_dup =
         [ "Stair", "d7/d95/classpocketmine_1_1block_1_1_stair.html", "d7/d95/classpocketmine_1_1block_1_1_stair" ],
         [ "Stem", "dc/d0c/classpocketmine_1_1block_1_1_stem.html", "dc/d0c/classpocketmine_1_1block_1_1_stem" ],
         [ "StoneButton", "dc/de3/classpocketmine_1_1block_1_1_stone_button.html", "dc/de3/classpocketmine_1_1block_1_1_stone_button" ],
+        [ "Stonecutter", "df/d79/classpocketmine_1_1block_1_1_stonecutter.html", "df/d79/classpocketmine_1_1block_1_1_stonecutter" ],
         [ "StonePressurePlate", "d5/d8e/classpocketmine_1_1block_1_1_stone_pressure_plate.html", "d5/d8e/classpocketmine_1_1block_1_1_stone_pressure_plate" ],
         [ "StraightOnlyRail", "d7/d52/classpocketmine_1_1block_1_1_straight_only_rail.html", "d7/d52/classpocketmine_1_1block_1_1_straight_only_rail" ],
         [ "Sugarcane", "da/da9/classpocketmine_1_1block_1_1_sugarcane.html", "da/da9/classpocketmine_1_1block_1_1_sugarcane" ],
@@ -357,7 +360,8 @@ var annotated_dup =
         [ "PotionContainerChangeRecipe", "d1/d65/classpocketmine_1_1crafting_1_1_potion_container_change_recipe.html", null ],
         [ "PotionTypeRecipe", "d8/dfb/classpocketmine_1_1crafting_1_1_potion_type_recipe.html", null ],
         [ "ShapedRecipe", "d6/dbb/classpocketmine_1_1crafting_1_1_shaped_recipe.html", "d6/dbb/classpocketmine_1_1crafting_1_1_shaped_recipe" ],
-        [ "ShapelessRecipe", "dd/d02/classpocketmine_1_1crafting_1_1_shapeless_recipe.html", "dd/d02/classpocketmine_1_1crafting_1_1_shapeless_recipe" ]
+        [ "ShapelessRecipe", "dd/d02/classpocketmine_1_1crafting_1_1_shapeless_recipe.html", "dd/d02/classpocketmine_1_1crafting_1_1_shapeless_recipe" ],
+        [ "ShapelessRecipeType", "df/d32/classpocketmine_1_1crafting_1_1_shapeless_recipe_type.html", null ]
       ] ],
       [ "crash", null, [
         [ "CrashDump", "d7/d2c/classpocketmine_1_1crash_1_1_crash_dump.html", null ],
@@ -571,6 +575,7 @@ var annotated_dup =
           [ "PlayerKickEvent", "d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event.html", "d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event" ],
           [ "PlayerLoginEvent", "d6/d15/classpocketmine_1_1event_1_1player_1_1_player_login_event.html", "d6/d15/classpocketmine_1_1event_1_1player_1_1_player_login_event" ],
           [ "PlayerMoveEvent", "d3/d49/classpocketmine_1_1event_1_1player_1_1_player_move_event.html", "d3/d49/classpocketmine_1_1event_1_1player_1_1_player_move_event" ],
+          [ "PlayerPostChunkSendEvent", "dd/dd7/classpocketmine_1_1event_1_1player_1_1_player_post_chunk_send_event.html", "dd/dd7/classpocketmine_1_1event_1_1player_1_1_player_post_chunk_send_event" ],
           [ "PlayerPreLoginEvent", "d2/d1e/classpocketmine_1_1event_1_1player_1_1_player_pre_login_event.html", "d2/d1e/classpocketmine_1_1event_1_1player_1_1_player_pre_login_event" ],
           [ "PlayerQuitEvent", "df/d81/classpocketmine_1_1event_1_1player_1_1_player_quit_event.html", "df/d81/classpocketmine_1_1event_1_1player_1_1_player_quit_event" ],
           [ "PlayerRespawnEvent", "de/d1c/classpocketmine_1_1event_1_1player_1_1_player_respawn_event.html", "de/d1c/classpocketmine_1_1event_1_1player_1_1_player_respawn_event" ],
@@ -1319,6 +1324,7 @@ var annotated_dup =
       ] ],
       [ "plugin", "d1/dd8/namespacepocketmine_1_1plugin.html", [
         [ "ApiVersion", "d0/df2/classpocketmine_1_1plugin_1_1_api_version.html", "d0/df2/classpocketmine_1_1plugin_1_1_api_version" ],
+        [ "DisablePluginException", "d2/db2/classpocketmine_1_1plugin_1_1_disable_plugin_exception.html", null ],
         [ "DiskResourceProvider", "de/d85/classpocketmine_1_1plugin_1_1_disk_resource_provider.html", "de/d85/classpocketmine_1_1plugin_1_1_disk_resource_provider" ],
         [ "PharPluginLoader", "d5/dbf/classpocketmine_1_1plugin_1_1_phar_plugin_loader.html", "d5/dbf/classpocketmine_1_1plugin_1_1_phar_plugin_loader" ],
         [ "Plugin", "d4/d92/interfacepocketmine_1_1plugin_1_1_plugin.html", "d4/d92/interfacepocketmine_1_1plugin_1_1_plugin" ],

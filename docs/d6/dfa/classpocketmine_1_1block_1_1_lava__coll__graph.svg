@@ -97,7 +97,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="96.38" y="-289.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
 <text text-anchor="start" x="96.38" y="-278.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlowDecayPerBlock()</text>
 <text text-anchor="start" x="96.38" y="-267.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlowingForm()</text>
-<text text-anchor="start" x="96.38" y="-256.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 19 more...</text>
+<text text-anchor="start" x="96.38" y="-256.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 20 more...</text>
 <text text-anchor="start" x="96.38" y="-245.5" font-family="Helvetica,sans-Serif" font-size="10.00"># canFlowInto()</text>
 <text text-anchor="start" x="96.38" y="-234.5" font-family="Helvetica,sans-Serif" font-size="10.00"># checkForHarden()</text>
 <text text-anchor="start" x="96.38" y="-223.5" font-family="Helvetica,sans-Serif" font-size="10.00"># flowIntoBlock()</text>
@@ -153,7 +153,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="239.88" y="-767.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ calculateIntercept()</text>
 <text text-anchor="start" x="239.88" y="-756.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
 <text text-anchor="start" x="239.88" y="-745.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
-<text text-anchor="start" x="239.88" y="-734.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 56 more...</text>
+<text text-anchor="start" x="239.88" y="-734.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 57 more...</text>
 <text text-anchor="start" x="239.88" y="-723.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getXpDropAmount()</text>
 <text text-anchor="start" x="239.88" y="-712.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 <text text-anchor="start" x="239.88" y="-701.5" font-family="Helvetica,sans-Serif" font-size="10.00"># writeStateToItemMeta()</text>
