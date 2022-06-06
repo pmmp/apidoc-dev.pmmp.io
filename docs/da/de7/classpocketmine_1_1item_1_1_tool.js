@@ -46,5 +46,6 @@ var classpocketmine_1_1item_1_1_tool =
     [ "setCustomName", "da/de7/classpocketmine_1_1item_1_1_tool.html#aec8070c04112770e0d01a3c56b252e81", null ],
     [ "setLore", "da/de7/classpocketmine_1_1item_1_1_tool.html#aa27432059ecfd201a3cec74253b21fa9", null ],
     [ "setNamedTag", "da/de7/classpocketmine_1_1item_1_1_tool.html#a8e97e9296238bf8794a2d2f8e94e8a93", null ],
-    [ "setUnbreakable", "da/de7/classpocketmine_1_1item_1_1_tool.html#a73119267ef6a787c72da33162fabb14c", null ]
+    [ "setUnbreakable", "da/de7/classpocketmine_1_1item_1_1_tool.html#a73119267ef6a787c72da33162fabb14c", null ],
+    [ "$blockEntityTag", "da/de7/classpocketmine_1_1item_1_1_tool.html#a5b53d78436bbdb5d53102fda463be4e6", null ]
 ];

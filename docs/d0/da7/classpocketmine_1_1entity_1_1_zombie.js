@@ -28,6 +28,8 @@ var classpocketmine_1_1entity_1_1_zombie =
     [ "getDirtyNetworkData", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#ac028a6475bf09f61ce9dfb952d4a5d65", null ],
     [ "getDrops", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#a34c77936c9b32f382a82b80604990767", null ],
     [ "getHighestArmorEnchantmentLevel", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#ad79f9505c6859c4241a95ba52e0002bd", null ],
+    [ "getInitialDragMultiplier", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#ac0c27111bd6d9156c3ec1a055b6962eb", null ],
+    [ "getInitialGravity", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#a93bd0790bfc8daa6017e9945addb34ef", null ],
     [ "getJumpVelocity", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#a0f92f1f7b5b4abc1f9edca2f1c6e330a", null ],
     [ "getLineOfSight", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#a6ccbbde23a4ce48ec0820bc8527050db", null ],
     [ "getMaxAirSupplyTicks", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#aa1f0a3a68610eb735693198e77a04f45", null ],

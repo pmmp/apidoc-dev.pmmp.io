@@ -1,6 +1,6 @@
 var classpocketmine_1_1item_1_1_item =
 [
-    [ "__construct", "d5/d8a/classpocketmine_1_1item_1_1_item.html#a5dbe5b05b314f33845c683535866afce", null ],
+    [ "__construct", "d5/d8a/classpocketmine_1_1item_1_1_item.html#a114cc9722c0255e7c197004dbc0cd9e8", null ],
     [ "canStackWith", "d5/d8a/classpocketmine_1_1item_1_1_item.html#a49a05b01faaaf071449c97060fe44926", null ],
     [ "clearCustomBlockData", "d5/d8a/classpocketmine_1_1item_1_1_item.html#a11483f8bbc44517bf2a25e40a3aa7558", null ],
     [ "clearCustomName", "d5/d8a/classpocketmine_1_1item_1_1_item.html#a336d6f91be72079853413f5b4036a57d", null ],
@@ -41,5 +41,6 @@ var classpocketmine_1_1item_1_1_item =
     [ "setCustomBlockData", "d5/d8a/classpocketmine_1_1item_1_1_item.html#a3bc65b2324649d8735dadf9bf8cf0705", null ],
     [ "setCustomName", "d5/d8a/classpocketmine_1_1item_1_1_item.html#aec8070c04112770e0d01a3c56b252e81", null ],
     [ "setLore", "d5/d8a/classpocketmine_1_1item_1_1_item.html#aa27432059ecfd201a3cec74253b21fa9", null ],
-    [ "setNamedTag", "d5/d8a/classpocketmine_1_1item_1_1_item.html#a8e97e9296238bf8794a2d2f8e94e8a93", null ]
+    [ "setNamedTag", "d5/d8a/classpocketmine_1_1item_1_1_item.html#a8e97e9296238bf8794a2d2f8e94e8a93", null ],
+    [ "$blockEntityTag", "d5/d8a/classpocketmine_1_1item_1_1_item.html#a5b53d78436bbdb5d53102fda463be4e6", null ]
 ];

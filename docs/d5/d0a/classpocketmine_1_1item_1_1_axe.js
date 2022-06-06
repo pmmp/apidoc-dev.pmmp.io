@@ -46,5 +46,6 @@ var classpocketmine_1_1item_1_1_axe =
     [ "setCustomName", "d5/d0a/classpocketmine_1_1item_1_1_axe.html#aec8070c04112770e0d01a3c56b252e81", null ],
     [ "setLore", "d5/d0a/classpocketmine_1_1item_1_1_axe.html#aa27432059ecfd201a3cec74253b21fa9", null ],
     [ "setNamedTag", "d5/d0a/classpocketmine_1_1item_1_1_axe.html#a8e97e9296238bf8794a2d2f8e94e8a93", null ],
-    [ "setUnbreakable", "d5/d0a/classpocketmine_1_1item_1_1_axe.html#a73119267ef6a787c72da33162fabb14c", null ]
+    [ "setUnbreakable", "d5/d0a/classpocketmine_1_1item_1_1_axe.html#a73119267ef6a787c72da33162fabb14c", null ],
+    [ "$blockEntityTag", "d5/d0a/classpocketmine_1_1item_1_1_axe.html#a5b53d78436bbdb5d53102fda463be4e6", null ]
 ];

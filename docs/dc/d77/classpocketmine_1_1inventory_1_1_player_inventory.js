@@ -12,7 +12,6 @@ var classpocketmine_1_1inventory_1_1_player_inventory =
     [ "getContents", "dc/d77/classpocketmine_1_1inventory_1_1_player_inventory.html#a43e646d154a8134eb1e7294d158d576d", null ],
     [ "getHeldItemIndex", "dc/d77/classpocketmine_1_1inventory_1_1_player_inventory.html#a296bd6a6879abe9878c818889f64bb05", null ],
     [ "getHeldItemIndexChangeListeners", "dc/d77/classpocketmine_1_1inventory_1_1_player_inventory.html#a22638d6d2759abdfe23b2035b559fe3d", null ],
-    [ "getHolder", "dc/d77/classpocketmine_1_1inventory_1_1_player_inventory.html#af3d72b8ec9fec0a90f4d1a47057a76b2", null ],
     [ "getHotbarSize", "dc/d77/classpocketmine_1_1inventory_1_1_player_inventory.html#ad1086723e970696e8e8b438be67c918a", null ],
     [ "getHotbarSlotItem", "dc/d77/classpocketmine_1_1inventory_1_1_player_inventory.html#a8b1e707e661482f1941627cff7c77ba0", null ],
     [ "getItemInHand", "dc/d77/classpocketmine_1_1inventory_1_1_player_inventory.html#a812b95b03ab4908cccb2a09bc3aaac9f", null ],

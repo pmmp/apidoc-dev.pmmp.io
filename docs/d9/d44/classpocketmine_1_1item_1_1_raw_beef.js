@@ -44,5 +44,6 @@ var classpocketmine_1_1item_1_1_raw_beef =
     [ "setCustomBlockData", "d9/d44/classpocketmine_1_1item_1_1_raw_beef.html#a3bc65b2324649d8735dadf9bf8cf0705", null ],
     [ "setCustomName", "d9/d44/classpocketmine_1_1item_1_1_raw_beef.html#aec8070c04112770e0d01a3c56b252e81", null ],
     [ "setLore", "d9/d44/classpocketmine_1_1item_1_1_raw_beef.html#aa27432059ecfd201a3cec74253b21fa9", null ],
-    [ "setNamedTag", "d9/d44/classpocketmine_1_1item_1_1_raw_beef.html#a8e97e9296238bf8794a2d2f8e94e8a93", null ]
+    [ "setNamedTag", "d9/d44/classpocketmine_1_1item_1_1_raw_beef.html#a8e97e9296238bf8794a2d2f8e94e8a93", null ],
+    [ "$blockEntityTag", "d9/d44/classpocketmine_1_1item_1_1_raw_beef.html#a5b53d78436bbdb5d53102fda463be4e6", null ]
 ];

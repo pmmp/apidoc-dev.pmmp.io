@@ -1,7 +1,13 @@
 <map id="pocketmine\block\tile\EnchantTable" name="pocketmine\block\tile\EnchantTable">
-<area shape="rect" id="node1" title=" " alt="" coords="127,871,289,963"/>
-<area shape="rect" id="node2" href="$dc/d0b/classpocketmine_1_1block_1_1tile_1_1_spawnable.html" title=" " alt="" coords="5,656,251,821"/>
-<area shape="rect" id="node3" href="$d9/d74/classpocketmine_1_1block_1_1tile_1_1_tile.html" title=" " alt="" coords="44,189,244,472"/>
-<area shape="rect" id="node4" title=" " alt="" coords="187,5,245,83"/>
-<area shape="rect" id="node5" href="$d1/d55/interfacepocketmine_1_1block_1_1tile_1_1_nameable.html" title=" " alt="" coords="204,496,367,632"/>
+<area shape="rect" id="node1" title=" " alt="" coords="116,2260,279,2352"/>
+<area shape="rect" id="node2" href="$dc/d0b/classpocketmine_1_1block_1_1tile_1_1_spawnable.html" title=" " alt="" coords="198,2045,443,2211"/>
+<area shape="rect" id="node3" href="$d9/d74/classpocketmine_1_1block_1_1tile_1_1_tile.html" title=" " alt="" coords="255,1743,455,1996"/>
+<area shape="rect" id="node4" title=" " alt="" coords="170,541,228,619"/>
+<area shape="rect" id="node7" href="$d4/d2b/classpocketmine_1_1world_1_1_world.html" title=" " alt="" coords="479,901,708,1316"/>
+<area shape="rect" id="node11" href="$d1/d55/interfacepocketmine_1_1block_1_1tile_1_1_nameable.html" title=" " alt="" coords="6,1340,168,1476"/>
+<area shape="rect" id="node5" href="$d5/dd2/classpocketmine_1_1world_1_1_position.html" title=" " alt="" coords="266,1500,460,1680"/>
+<area shape="rect" id="node6" href="$d2/d90/classpocketmine_1_1math_1_1_vector3.html" title=" " alt="" coords="266,953,455,1265"/>
+<area shape="rect" id="node8" href="$d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html" title=" " alt="" coords="507,497,747,663"/>
+<area shape="rect" id="node9" href="$d7/d08/classpocketmine_1_1world_1_1_world_timings.html" title=" " alt="" coords="252,483,482,677"/>
+<area shape="rect" id="node10" href="$d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html" title=" " alt="" coords="500,5,650,259"/>
 </map>

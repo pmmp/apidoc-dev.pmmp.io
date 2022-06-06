@@ -10,7 +10,6 @@ var classpocketmine_1_1block_1_1inventory_1_1_double_chest_inventory =
     [ "firstEmpty", "d3/d26/classpocketmine_1_1block_1_1inventory_1_1_double_chest_inventory.html#ab91f0a13cfec22468eb5e6bfed9a9a80", null ],
     [ "getAddableItemQuantity", "d3/d26/classpocketmine_1_1block_1_1inventory_1_1_double_chest_inventory.html#a62e8a8891e7940a3b14878c3b46cbdd0", null ],
     [ "getContents", "d3/d26/classpocketmine_1_1block_1_1inventory_1_1_double_chest_inventory.html#a0571e378479a314cd5bac0b9c33a14c2", null ],
-    [ "getInventory", "d3/d26/classpocketmine_1_1block_1_1inventory_1_1_double_chest_inventory.html#a2e7c0457ed6af8e5ab62e0547f935f87", null ],
     [ "getListeners", "d3/d26/classpocketmine_1_1block_1_1inventory_1_1_double_chest_inventory.html#a782f68d96eb96e27264ee54ed49184c7", null ],
     [ "getViewers", "d3/d26/classpocketmine_1_1block_1_1inventory_1_1_double_chest_inventory.html#a859793c26ba95c1963747b3c08be98bc", null ],
     [ "internalSetContents", "d3/d26/classpocketmine_1_1block_1_1inventory_1_1_double_chest_inventory.html#ad9d5950315bc88e0ab14f8026388aabf", null ],

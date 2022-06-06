@@ -289,26 +289,24 @@ var sectionId = 'dynsection-0';
 <g id="node12" class="node">
 <title>Node12</title>
 <g id="a_node12"><a xlink:href="../../d2/d88/classpocketmine_1_1world_1_1generator_1_1_generator_register_task.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="1547,-0.5 1547,-134.5 1701,-134.5 1701,-0.5 1547,-0.5"/>
-<text text-anchor="start" x="1555" y="-122.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\generator</text>
-<text text-anchor="middle" x="1624" y="-111.5" font-family="Helvetica,sans-Serif" font-size="10.00">\GeneratorRegisterTask</text>
-<polyline fill="none" stroke="#bfbfbf" points="1547,-104.5 1701,-104.5 "/>
-<text text-anchor="start" x="1555" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $generatorClass</text>
+<polygon fill="white" stroke="#bfbfbf" points="1547,-11.5 1547,-123.5 1701,-123.5 1701,-11.5 1547,-11.5"/>
+<text text-anchor="start" x="1555" y="-111.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\generator</text>
+<text text-anchor="middle" x="1624" y="-100.5" font-family="Helvetica,sans-Serif" font-size="10.00">\GeneratorRegisterTask</text>
+<polyline fill="none" stroke="#bfbfbf" points="1547,-93.5 1701,-93.5 "/>
 <text text-anchor="start" x="1555" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $seed</text>
-<text text-anchor="start" x="1555" y="-70.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $settings</text>
-<text text-anchor="start" x="1555" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $worldId</text>
-<text text-anchor="start" x="1555" y="-48.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $worldMaxY</text>
-<text text-anchor="start" x="1555" y="-37.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $worldMinY</text>
-<polyline fill="none" stroke="#bfbfbf" points="1547,-30.5 1701,-30.5 "/>
-<text text-anchor="start" x="1555" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="1555" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onRun()</text>
+<text text-anchor="start" x="1555" y="-70.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $worldId</text>
+<text text-anchor="start" x="1555" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $worldMaxY</text>
+<text text-anchor="start" x="1555" y="-48.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $worldMinY</text>
+<polyline fill="none" stroke="#bfbfbf" points="1547,-41.5 1701,-41.5 "/>
+<text text-anchor="start" x="1555" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="1555" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onRun()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node12 -->
 <g id="edge11" class="edge">
 <title>Node1&#45;&gt;Node12</title>
-<path fill="none" stroke="midnightblue" d="M1215.91,-259.75C1300.11,-235.79 1432.74,-192.86 1538,-135 1540.98,-133.36 1543.96,-131.63 1546.94,-129.82"/>
+<path fill="none" stroke="midnightblue" d="M1215.91,-259.75C1300.11,-235.79 1432.74,-192.86 1538,-135 1544.28,-131.54 1550.6,-127.65 1556.79,-123.52"/>
 <polygon fill="none" stroke="midnightblue" points="1214.81,-256.42 1206.14,-262.5 1216.71,-263.16 1214.81,-256.42"/>
 </g>
 <!-- Node13 -->

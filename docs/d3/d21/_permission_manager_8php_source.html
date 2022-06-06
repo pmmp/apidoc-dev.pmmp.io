@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;4.4.0-BETA2 git-97c0d72e289756b6aeb8362b95e7a5efe9333656</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0 git-2a24982bc4e5b4fbe3c85a4a44c67427ada4ec2c</span>
    </div>
   </td>
  </tr>
@@ -131,8 +131,8 @@ $(document).ready(function(){initNavTree('d3/d21/_permission_manager_8php_source
 <div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>        <span class="keywordflow">return</span> self::$instance;</div>
 <div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>    }</div>
 <div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span> </div>
-<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>    <span class="keyword">protected</span> $permissions = [];</div>
-<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>    <span class="keyword">protected</span> $permSubs = [];</div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>    <span class="keyword">protected</span> array $permissions = [];</div>
+<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>    <span class="keyword">protected</span> array $permSubs = [];</div>
 <div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span> </div>
 <div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>    <span class="keyword">public</span> <span class="keyword">function</span> getPermission(<span class="keywordtype">string</span> $name) : ?<a class="code hl_class" href="../../db/dc3/classpocketmine_1_1permission_1_1_permission.html">Permission</a>{</div>
 <div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>        <span class="keywordflow">return</span> $this-&gt;permissions[$name] ?? <span class="keyword">null</span>;</div>

@@ -1,4 +1,6 @@
 <map id="pocketmine\command\FormattedCommandAlias" name="pocketmine\command\FormattedCommandAlias">
-<area shape="rect" id="node1" title=" " alt="" coords="27,336,219,443"/>
-<area shape="rect" id="node2" href="$d6/df1/classpocketmine_1_1command_1_1_command.html" title=" " alt="" coords="5,5,241,288"/>
+<area shape="rect" id="node1" title=" " alt="" coords="119,639,311,745"/>
+<area shape="rect" id="node2" href="$d6/df1/classpocketmine_1_1command_1_1_command.html" title=" " alt="" coords="97,336,333,589"/>
+<area shape="rect" id="node3" href="$da/d80/classpocketmine_1_1lang_1_1_translatable.html" title=" " alt="" coords="5,49,219,215"/>
+<area shape="rect" id="node4" href="$d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html" title=" " alt="" coords="243,5,394,259"/>
 </map>

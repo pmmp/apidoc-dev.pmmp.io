@@ -1,6 +1,5 @@
 var classpocketmine_1_1item_1_1_writable_book_base =
 [
-    [ "__construct", "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#aa1c78a109993463983beddd907d5786c", null ],
     [ "addPage", "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a5cbab3ac2c040f738eff457295cffefc", null ],
     [ "canStackWith", "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a49a05b01faaaf071449c97060fe44926", null ],
     [ "clearCustomBlockData", "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a11483f8bbc44517bf2a25e40a3aa7558", null ],
@@ -50,5 +49,6 @@ var classpocketmine_1_1item_1_1_writable_book_base =
     [ "setNamedTag", "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a8e97e9296238bf8794a2d2f8e94e8a93", null ],
     [ "setPages", "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a99bdaaa5b81efae537f45a6413db4103", null ],
     [ "setPageText", "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#ab4c7797f15342a2368f4a730dfa57f0d", null ],
-    [ "swapPages", "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a428cb509ce7bbe12bdedb1b97bcb47d3", null ]
+    [ "swapPages", "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a428cb509ce7bbe12bdedb1b97bcb47d3", null ],
+    [ "$blockEntityTag", "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a5b53d78436bbdb5d53102fda463be4e6", null ]
 ];

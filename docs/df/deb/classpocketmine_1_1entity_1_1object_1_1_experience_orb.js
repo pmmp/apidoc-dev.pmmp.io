@@ -17,6 +17,8 @@ var classpocketmine_1_1entity_1_1object_1_1_experience_orb =
     [ "getBlocksAroundWithEntityInsideActions", "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a4087e033dc45159d7379699024657047", null ],
     [ "getBlocksIntersected", "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a1380adc70073eca8b76083e7357c44ea", null ],
     [ "getDirtyNetworkData", "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#ac028a6475bf09f61ce9dfb952d4a5d65", null ],
+    [ "getInitialDragMultiplier", "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a2e4cc0c081880b50937523a6dbdb4886", null ],
+    [ "getInitialGravity", "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#af216585e2308fccf299368072bf45aff", null ],
     [ "getMaxOrbSize", "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#abc9ade3c67ec664051a5daa0d9742aa3", null ],
     [ "getOwningEntity", "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#afdd4efc12fe21730ceb104af111f576d", null ],
     [ "getOwningEntityId", "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a1bc4a8d3a405c0923c2ed2a8dbcff9a7", null ],
@@ -44,6 +46,8 @@ var classpocketmine_1_1entity_1_1object_1_1_experience_orb =
     [ "setTargetEntity", "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#ae3d1faacc118b9fd25a401a995fcb1f4", null ],
     [ "splitIntoOrbSizes", "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a79a0066b72b3a0fef69256548a8ce228", null ],
     [ "teleport", "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a5661f8a252c5324dd54ed3534ab47a6b", null ],
+    [ "$lookForTargetTime", "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#abe953c1c8dcf8d46428ae977b112aaac", null ],
+    [ "$targetPlayerRuntimeId", "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#add42e64a8bfd22cabe1c0bc453f1ef4e", null ],
     [ "MAX_TARGET_DISTANCE", "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#adc9119ef662d43a499aab07adf30b2c0", null ],
     [ "ORB_SPLIT_SIZES", "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a70cf8b292934a30414b3eb55340652b6", null ]
 ];

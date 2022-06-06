@@ -40,5 +40,6 @@ var classpocketmine_1_1item_1_1_bowl =
     [ "setCustomBlockData", "db/d8c/classpocketmine_1_1item_1_1_bowl.html#a3bc65b2324649d8735dadf9bf8cf0705", null ],
     [ "setCustomName", "db/d8c/classpocketmine_1_1item_1_1_bowl.html#aec8070c04112770e0d01a3c56b252e81", null ],
     [ "setLore", "db/d8c/classpocketmine_1_1item_1_1_bowl.html#aa27432059ecfd201a3cec74253b21fa9", null ],
-    [ "setNamedTag", "db/d8c/classpocketmine_1_1item_1_1_bowl.html#a8e97e9296238bf8794a2d2f8e94e8a93", null ]
+    [ "setNamedTag", "db/d8c/classpocketmine_1_1item_1_1_bowl.html#a8e97e9296238bf8794a2d2f8e94e8a93", null ],
+    [ "$blockEntityTag", "db/d8c/classpocketmine_1_1item_1_1_bowl.html#a5b53d78436bbdb5d53102fda463be4e6", null ]
 ];

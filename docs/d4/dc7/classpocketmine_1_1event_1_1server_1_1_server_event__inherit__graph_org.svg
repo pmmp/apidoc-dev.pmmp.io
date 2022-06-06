@@ -27,24 +27,23 @@
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="../../da/d32/classpocketmine_1_1event_1_1server_1_1_command_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="0,-111 0,-223 138,-223 138,-111 0,-111"/>
-<text text-anchor="start" x="8" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\server</text>
-<text text-anchor="middle" x="69" y="-200" font-family="Helvetica,sans-Serif" font-size="10.00">\CommandEvent</text>
-<polyline fill="none" stroke="black" points="0,-193 138,-193 "/>
-<text text-anchor="start" x="8" y="-181" font-family="Helvetica,sans-Serif" font-size="10.00"># $command</text>
-<text text-anchor="start" x="8" y="-170" font-family="Helvetica,sans-Serif" font-size="10.00"># $sender</text>
-<polyline fill="none" stroke="black" points="0,-163 138,-163 "/>
-<text text-anchor="start" x="8" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="8" y="-140" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCommand()</text>
-<text text-anchor="start" x="8" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSender()</text>
-<text text-anchor="start" x="8" y="-118" font-family="Helvetica,sans-Serif" font-size="10.00">+ setCommand()</text>
+<polygon fill="white" stroke="black" points="0,-116.5 0,-217.5 138,-217.5 138,-116.5 0,-116.5"/>
+<text text-anchor="start" x="8" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\server</text>
+<text text-anchor="middle" x="69" y="-194.5" font-family="Helvetica,sans-Serif" font-size="10.00">\CommandEvent</text>
+<polyline fill="none" stroke="black" points="0,-187.5 138,-187.5 "/>
+<text text-anchor="middle" x="69" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="0,-168.5 138,-168.5 "/>
+<text text-anchor="start" x="8" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="8" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCommand()</text>
+<text text-anchor="start" x="8" y="-134.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSender()</text>
+<text text-anchor="start" x="8" y="-123.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setCommand()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M461.85,-295.77C379.86,-290.41 249.63,-274.73 147,-229 143.07,-227.25 139.17,-225.26 135.32,-223.1"/>
+<path fill="none" stroke="midnightblue" d="M461.85,-295.77C379.86,-290.41 249.63,-274.73 147,-229 139.93,-225.85 132.94,-221.93 126.22,-217.59"/>
 <polygon fill="none" stroke="midnightblue" points="461.65,-299.26 471.85,-296.39 462.08,-292.28 461.65,-299.26"/>
 </g>
 <!-- Node4 -->
@@ -124,7 +123,7 @@
 <text text-anchor="start" x="636" y="-194.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\server</text>
 <text text-anchor="middle" x="697" y="-183.5" font-family="Helvetica,sans-Serif" font-size="10.00">\NetworkInterfaceEvent</text>
 <polyline fill="none" stroke="#bfbfbf" points="628,-176.5 766,-176.5 "/>
-<text text-anchor="start" x="636" y="-164.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $interface</text>
+<text text-anchor="middle" x="697" y="-164.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 <polyline fill="none" stroke="#bfbfbf" points="628,-157.5 766,-157.5 "/>
 <text text-anchor="start" x="636" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
 <text text-anchor="start" x="636" y="-134.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getInterface()</text>

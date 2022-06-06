@@ -72,7 +72,7 @@ var namespacepocketmine_1_1world =
     [ "light", null, [
       [ "BlockLightUpdate", "d3/d39/classpocketmine_1_1world_1_1light_1_1_block_light_update.html", "d3/d39/classpocketmine_1_1world_1_1light_1_1_block_light_update" ],
       [ "LightPopulationTask", "d9/d7c/classpocketmine_1_1world_1_1light_1_1_light_population_task.html", "d9/d7c/classpocketmine_1_1world_1_1light_1_1_light_population_task" ],
-      [ "LightPropagationContext", "d2/d3c/classpocketmine_1_1world_1_1light_1_1_light_propagation_context.html", null ],
+      [ "LightPropagationContext", "d2/d3c/classpocketmine_1_1world_1_1light_1_1_light_propagation_context.html", "d2/d3c/classpocketmine_1_1world_1_1light_1_1_light_propagation_context" ],
       [ "LightUpdate", "d4/dfe/classpocketmine_1_1world_1_1light_1_1_light_update.html", "d4/dfe/classpocketmine_1_1world_1_1light_1_1_light_update" ],
       [ "SkyLightUpdate", "d7/d2d/classpocketmine_1_1world_1_1light_1_1_sky_light_update.html", "d7/d2d/classpocketmine_1_1world_1_1light_1_1_sky_light_update" ]
     ] ],

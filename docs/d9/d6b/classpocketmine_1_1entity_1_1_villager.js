@@ -28,6 +28,8 @@ var classpocketmine_1_1entity_1_1_villager =
     [ "getDirtyNetworkData", "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#ac028a6475bf09f61ce9dfb952d4a5d65", null ],
     [ "getDrops", "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a230565075093f60685b2a9f602489133", null ],
     [ "getHighestArmorEnchantmentLevel", "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#ad79f9505c6859c4241a95ba52e0002bd", null ],
+    [ "getInitialDragMultiplier", "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#ac0c27111bd6d9156c3ec1a055b6962eb", null ],
+    [ "getInitialGravity", "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a93bd0790bfc8daa6017e9945addb34ef", null ],
     [ "getJumpVelocity", "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a0f92f1f7b5b4abc1f9edca2f1c6e330a", null ],
     [ "getLineOfSight", "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a6ccbbde23a4ce48ec0820bc8527050db", null ],
     [ "getMaxAirSupplyTicks", "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#aa1f0a3a68610eb735693198e77a04f45", null ],

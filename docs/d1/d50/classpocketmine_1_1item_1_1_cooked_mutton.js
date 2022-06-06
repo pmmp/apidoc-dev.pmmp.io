@@ -44,5 +44,6 @@ var classpocketmine_1_1item_1_1_cooked_mutton =
     [ "setCustomBlockData", "d1/d50/classpocketmine_1_1item_1_1_cooked_mutton.html#a3bc65b2324649d8735dadf9bf8cf0705", null ],
     [ "setCustomName", "d1/d50/classpocketmine_1_1item_1_1_cooked_mutton.html#aec8070c04112770e0d01a3c56b252e81", null ],
     [ "setLore", "d1/d50/classpocketmine_1_1item_1_1_cooked_mutton.html#aa27432059ecfd201a3cec74253b21fa9", null ],
-    [ "setNamedTag", "d1/d50/classpocketmine_1_1item_1_1_cooked_mutton.html#a8e97e9296238bf8794a2d2f8e94e8a93", null ]
+    [ "setNamedTag", "d1/d50/classpocketmine_1_1item_1_1_cooked_mutton.html#a8e97e9296238bf8794a2d2f8e94e8a93", null ],
+    [ "$blockEntityTag", "d1/d50/classpocketmine_1_1item_1_1_cooked_mutton.html#a5b53d78436bbdb5d53102fda463be4e6", null ]
 ];

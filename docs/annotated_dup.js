@@ -651,7 +651,7 @@ var annotated_dup =
         [ "CreativeInventory", "d3/d3e/classpocketmine_1_1inventory_1_1_creative_inventory.html", "d3/d3e/classpocketmine_1_1inventory_1_1_creative_inventory" ],
         [ "DelegateInventory", "d2/d0e/classpocketmine_1_1inventory_1_1_delegate_inventory.html", "d2/d0e/classpocketmine_1_1inventory_1_1_delegate_inventory" ],
         [ "Inventory", "db/d39/interfacepocketmine_1_1inventory_1_1_inventory.html", "db/d39/interfacepocketmine_1_1inventory_1_1_inventory" ],
-        [ "InventoryHolder", "d2/d91/interfacepocketmine_1_1inventory_1_1_inventory_holder.html", "d2/d91/interfacepocketmine_1_1inventory_1_1_inventory_holder" ],
+        [ "InventoryHolder", "d2/d91/interfacepocketmine_1_1inventory_1_1_inventory_holder.html", null ],
         [ "InventoryListener", "d8/df4/interfacepocketmine_1_1inventory_1_1_inventory_listener.html", "d8/df4/interfacepocketmine_1_1inventory_1_1_inventory_listener" ],
         [ "PlayerCraftingInventory", "d5/db9/classpocketmine_1_1inventory_1_1_player_crafting_inventory.html", "d5/db9/classpocketmine_1_1inventory_1_1_player_crafting_inventory" ],
         [ "PlayerCursorInventory", "d3/d37/classpocketmine_1_1inventory_1_1_player_cursor_inventory.html", "d3/d37/classpocketmine_1_1inventory_1_1_player_cursor_inventory" ],
@@ -1348,7 +1348,7 @@ var annotated_dup =
       [ "promise", null, [
         [ "Promise", "d9/db4/classpocketmine_1_1promise_1_1_promise.html", "d9/db4/classpocketmine_1_1promise_1_1_promise" ],
         [ "PromiseResolver", "d8/d05/classpocketmine_1_1promise_1_1_promise_resolver.html", "d8/d05/classpocketmine_1_1promise_1_1_promise_resolver" ],
-        [ "PromiseSharedData", "d2/d15/classpocketmine_1_1promise_1_1_promise_shared_data.html", null ]
+        [ "PromiseSharedData", "d2/d15/classpocketmine_1_1promise_1_1_promise_shared_data.html", "d2/d15/classpocketmine_1_1promise_1_1_promise_shared_data" ]
       ] ],
       [ "resourcepacks", null, [
         [ "json", null, [
@@ -1375,7 +1375,7 @@ var annotated_dup =
         [ "GarbageCollectionTask", "d9/dae/classpocketmine_1_1scheduler_1_1_garbage_collection_task.html", "d9/dae/classpocketmine_1_1scheduler_1_1_garbage_collection_task" ],
         [ "Task", "df/d5e/classpocketmine_1_1scheduler_1_1_task.html", "df/d5e/classpocketmine_1_1scheduler_1_1_task" ],
         [ "TaskHandler", "dd/d18/classpocketmine_1_1scheduler_1_1_task_handler.html", null ],
-        [ "TaskScheduler", "db/d5a/classpocketmine_1_1scheduler_1_1_task_scheduler.html", null ]
+        [ "TaskScheduler", "db/d5a/classpocketmine_1_1scheduler_1_1_task_scheduler.html", "db/d5a/classpocketmine_1_1scheduler_1_1_task_scheduler" ]
       ] ],
       [ "snooze", null, [
         [ "SleeperHandler", "d7/d08/classpocketmine_1_1snooze_1_1_sleeper_handler.html", "d7/d08/classpocketmine_1_1snooze_1_1_sleeper_handler" ],
@@ -1548,7 +1548,7 @@ var annotated_dup =
         [ "light", null, [
           [ "BlockLightUpdate", "d3/d39/classpocketmine_1_1world_1_1light_1_1_block_light_update.html", "d3/d39/classpocketmine_1_1world_1_1light_1_1_block_light_update" ],
           [ "LightPopulationTask", "d9/d7c/classpocketmine_1_1world_1_1light_1_1_light_population_task.html", "d9/d7c/classpocketmine_1_1world_1_1light_1_1_light_population_task" ],
-          [ "LightPropagationContext", "d2/d3c/classpocketmine_1_1world_1_1light_1_1_light_propagation_context.html", null ],
+          [ "LightPropagationContext", "d2/d3c/classpocketmine_1_1world_1_1light_1_1_light_propagation_context.html", "d2/d3c/classpocketmine_1_1world_1_1light_1_1_light_propagation_context" ],
           [ "LightUpdate", "d4/dfe/classpocketmine_1_1world_1_1light_1_1_light_update.html", "d4/dfe/classpocketmine_1_1world_1_1light_1_1_light_update" ],
           [ "SkyLightUpdate", "d7/d2d/classpocketmine_1_1world_1_1light_1_1_sky_light_update.html", "d7/d2d/classpocketmine_1_1world_1_1light_1_1_sky_light_update" ]
         ] ],

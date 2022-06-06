@@ -55,5 +55,6 @@ var classpocketmine_1_1item_1_1_written_book =
     [ "setPages", "d1/d4b/classpocketmine_1_1item_1_1_written_book.html#a99bdaaa5b81efae537f45a6413db4103", null ],
     [ "setPageText", "d1/d4b/classpocketmine_1_1item_1_1_written_book.html#ab4c7797f15342a2368f4a730dfa57f0d", null ],
     [ "setTitle", "d1/d4b/classpocketmine_1_1item_1_1_written_book.html#afdec798add5eb1e740abffb45245ebc9", null ],
-    [ "swapPages", "d1/d4b/classpocketmine_1_1item_1_1_written_book.html#a428cb509ce7bbe12bdedb1b97bcb47d3", null ]
+    [ "swapPages", "d1/d4b/classpocketmine_1_1item_1_1_written_book.html#a428cb509ce7bbe12bdedb1b97bcb47d3", null ],
+    [ "$blockEntityTag", "d1/d4b/classpocketmine_1_1item_1_1_written_book.html#a5b53d78436bbdb5d53102fda463be4e6", null ]
 ];

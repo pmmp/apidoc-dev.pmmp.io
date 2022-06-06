@@ -40,5 +40,6 @@ var classpocketmine_1_1item_1_1_item_block_wall_or_floor =
     [ "setCustomBlockData", "d8/d23/classpocketmine_1_1item_1_1_item_block_wall_or_floor.html#a3bc65b2324649d8735dadf9bf8cf0705", null ],
     [ "setCustomName", "d8/d23/classpocketmine_1_1item_1_1_item_block_wall_or_floor.html#aec8070c04112770e0d01a3c56b252e81", null ],
     [ "setLore", "d8/d23/classpocketmine_1_1item_1_1_item_block_wall_or_floor.html#aa27432059ecfd201a3cec74253b21fa9", null ],
-    [ "setNamedTag", "d8/d23/classpocketmine_1_1item_1_1_item_block_wall_or_floor.html#a8e97e9296238bf8794a2d2f8e94e8a93", null ]
+    [ "setNamedTag", "d8/d23/classpocketmine_1_1item_1_1_item_block_wall_or_floor.html#a8e97e9296238bf8794a2d2f8e94e8a93", null ],
+    [ "$blockEntityTag", "d8/d23/classpocketmine_1_1item_1_1_item_block_wall_or_floor.html#a5b53d78436bbdb5d53102fda463be4e6", null ]
 ];

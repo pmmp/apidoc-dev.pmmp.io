@@ -98,7 +98,7 @@ var namespacepocketmine =
     [ "promise", null, [
       [ "Promise", "d9/db4/classpocketmine_1_1promise_1_1_promise.html", "d9/db4/classpocketmine_1_1promise_1_1_promise" ],
       [ "PromiseResolver", "d8/d05/classpocketmine_1_1promise_1_1_promise_resolver.html", "d8/d05/classpocketmine_1_1promise_1_1_promise_resolver" ],
-      [ "PromiseSharedData", "d2/d15/classpocketmine_1_1promise_1_1_promise_shared_data.html", null ]
+      [ "PromiseSharedData", "d2/d15/classpocketmine_1_1promise_1_1_promise_shared_data.html", "d2/d15/classpocketmine_1_1promise_1_1_promise_shared_data" ]
     ] ],
     [ "resourcepacks", null, [
       [ "json", null, [

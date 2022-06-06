@@ -50,5 +50,6 @@ var classpocketmine_1_1item_1_1_armor =
     [ "setCustomName", "db/d85/classpocketmine_1_1item_1_1_armor.html#aec8070c04112770e0d01a3c56b252e81", null ],
     [ "setLore", "db/d85/classpocketmine_1_1item_1_1_armor.html#aa27432059ecfd201a3cec74253b21fa9", null ],
     [ "setNamedTag", "db/d85/classpocketmine_1_1item_1_1_armor.html#a8e97e9296238bf8794a2d2f8e94e8a93", null ],
-    [ "setUnbreakable", "db/d85/classpocketmine_1_1item_1_1_armor.html#a73119267ef6a787c72da33162fabb14c", null ]
+    [ "setUnbreakable", "db/d85/classpocketmine_1_1item_1_1_armor.html#a73119267ef6a787c72da33162fabb14c", null ],
+    [ "$blockEntityTag", "db/d85/classpocketmine_1_1item_1_1_armor.html#a5b53d78436bbdb5d53102fda463be4e6", null ]
 ];

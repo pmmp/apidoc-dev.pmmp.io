@@ -19,6 +19,8 @@ var classpocketmine_1_1entity_1_1projectile_1_1_projectile =
     [ "getBlocksAroundWithEntityInsideActions", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#a4087e033dc45159d7379699024657047", null ],
     [ "getBlocksIntersected", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#a1380adc70073eca8b76083e7357c44ea", null ],
     [ "getDirtyNetworkData", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#ac028a6475bf09f61ce9dfb952d4a5d65", null ],
+    [ "getInitialDragMultiplier", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#a853515497add5cc74078aa696148a41e", null ],
+    [ "getInitialGravity", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#a020854e1ad1eb9bbc132710b1c09537d", null ],
     [ "getOwningEntity", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#afdd4efc12fe21730ceb104af111f576d", null ],
     [ "getOwningEntityId", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#a1bc4a8d3a405c0923c2ed2a8dbcff9a7", null ],
     [ "getResultDamage", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#a64cfa5fada1a72013be637976da13f56", null ],

@@ -46,5 +46,6 @@ var classpocketmine_1_1item_1_1_shears =
     [ "setCustomName", "dd/d7b/classpocketmine_1_1item_1_1_shears.html#aec8070c04112770e0d01a3c56b252e81", null ],
     [ "setLore", "dd/d7b/classpocketmine_1_1item_1_1_shears.html#aa27432059ecfd201a3cec74253b21fa9", null ],
     [ "setNamedTag", "dd/d7b/classpocketmine_1_1item_1_1_shears.html#a8e97e9296238bf8794a2d2f8e94e8a93", null ],
-    [ "setUnbreakable", "dd/d7b/classpocketmine_1_1item_1_1_shears.html#a73119267ef6a787c72da33162fabb14c", null ]
+    [ "setUnbreakable", "dd/d7b/classpocketmine_1_1item_1_1_shears.html#a73119267ef6a787c72da33162fabb14c", null ],
+    [ "$blockEntityTag", "dd/d7b/classpocketmine_1_1item_1_1_shears.html#a5b53d78436bbdb5d53102fda463be4e6", null ]
 ];

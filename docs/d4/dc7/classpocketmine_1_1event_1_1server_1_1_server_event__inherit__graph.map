@@ -1,6 +1,6 @@
 <map id="pocketmine\event\server\ServerEvent" name="pocketmine\event\server\ServerEvent">
 <area shape="rect" id="node1" title=" " alt="" coords="635,145,819,237"/>
-<area shape="rect" id="node3" href="$da/d32/classpocketmine_1_1event_1_1server_1_1_command_event.html" title=" " alt="" coords="5,293,189,443"/>
+<area shape="rect" id="node3" href="$da/d32/classpocketmine_1_1event_1_1server_1_1_command_event.html" title=" " alt="" coords="5,300,189,436"/>
 <area shape="rect" id="node4" href="$d1/dcc/classpocketmine_1_1event_1_1server_1_1_data_packet_receive_event.html" title=" " alt="" coords="214,307,402,429"/>
 <area shape="rect" id="node5" href="$d5/dd4/classpocketmine_1_1event_1_1server_1_1_data_packet_send_event.html" title=" " alt="" coords="427,307,611,429"/>
 <area shape="rect" id="node6" href="$df/def/classpocketmine_1_1event_1_1server_1_1_low_memory_event.html" title=" " alt="" coords="635,285,819,451"/>

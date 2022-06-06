@@ -19,6 +19,8 @@ var classpocketmine_1_1entity_1_1projectile_1_1_splash_potion =
     [ "getBlocksAroundWithEntityInsideActions", "d3/d2c/classpocketmine_1_1entity_1_1projectile_1_1_splash_potion.html#a4087e033dc45159d7379699024657047", null ],
     [ "getBlocksIntersected", "d3/d2c/classpocketmine_1_1entity_1_1projectile_1_1_splash_potion.html#a1380adc70073eca8b76083e7357c44ea", null ],
     [ "getDirtyNetworkData", "d3/d2c/classpocketmine_1_1entity_1_1projectile_1_1_splash_potion.html#ac028a6475bf09f61ce9dfb952d4a5d65", null ],
+    [ "getInitialDragMultiplier", "d3/d2c/classpocketmine_1_1entity_1_1projectile_1_1_splash_potion.html#a9d44586ef239ff3a9a834ee65bfd941c", null ],
+    [ "getInitialGravity", "d3/d2c/classpocketmine_1_1entity_1_1projectile_1_1_splash_potion.html#a8b5aa08d20bb8762f720833b75618e03", null ],
     [ "getOwningEntity", "d3/d2c/classpocketmine_1_1entity_1_1projectile_1_1_splash_potion.html#afdd4efc12fe21730ceb104af111f576d", null ],
     [ "getOwningEntityId", "d3/d2c/classpocketmine_1_1entity_1_1projectile_1_1_splash_potion.html#a1bc4a8d3a405c0923c2ed2a8dbcff9a7", null ],
     [ "getPotionEffects", "d3/d2c/classpocketmine_1_1entity_1_1projectile_1_1_splash_potion.html#a0fc1539dbcfab15804ab8a73590bf9c3", null ],

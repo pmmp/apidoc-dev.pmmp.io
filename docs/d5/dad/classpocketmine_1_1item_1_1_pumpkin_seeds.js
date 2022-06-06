@@ -40,5 +40,6 @@ var classpocketmine_1_1item_1_1_pumpkin_seeds =
     [ "setCustomBlockData", "d5/dad/classpocketmine_1_1item_1_1_pumpkin_seeds.html#a3bc65b2324649d8735dadf9bf8cf0705", null ],
     [ "setCustomName", "d5/dad/classpocketmine_1_1item_1_1_pumpkin_seeds.html#aec8070c04112770e0d01a3c56b252e81", null ],
     [ "setLore", "d5/dad/classpocketmine_1_1item_1_1_pumpkin_seeds.html#aa27432059ecfd201a3cec74253b21fa9", null ],
-    [ "setNamedTag", "d5/dad/classpocketmine_1_1item_1_1_pumpkin_seeds.html#a8e97e9296238bf8794a2d2f8e94e8a93", null ]
+    [ "setNamedTag", "d5/dad/classpocketmine_1_1item_1_1_pumpkin_seeds.html#a8e97e9296238bf8794a2d2f8e94e8a93", null ],
+    [ "$blockEntityTag", "d5/dad/classpocketmine_1_1item_1_1_pumpkin_seeds.html#a5b53d78436bbdb5d53102fda463be4e6", null ]
 ];

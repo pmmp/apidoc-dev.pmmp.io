@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;4.4.0-BETA2 git-97c0d72e289756b6aeb8362b95e7a5efe9333656</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0 git-2a24982bc4e5b4fbe3c85a4a44c67427ada4ec2c</span>
    </div>
   </td>
  </tr>
@@ -424,7 +424,7 @@ $(document).ready(function(){initNavTree('d7/d0a/_liquid_8php_source.html','../.
 <div class="line"><a id="l00348" name="l00348"></a><span class="lineno">  348</span>            $ev = <span class="keyword">new</span> BlockSpreadEvent($block, $this, $new);</div>
 <div class="line"><a id="l00349" name="l00349"></a><span class="lineno">  349</span>            $ev-&gt;call();</div>
 <div class="line"><a id="l00350" name="l00350"></a><span class="lineno">  350</span>            <span class="keywordflow">if</span>(!$ev-&gt;isCancelled()){</div>
-<div class="line"><a id="l00351" name="l00351"></a><span class="lineno">  351</span>                <span class="keywordflow">if</span>($block-&gt;getId() &gt; 0){</div>
+<div class="line"><a id="l00351" name="l00351"></a><span class="lineno">  351</span>                <span class="keywordflow">if</span>($block-&gt;getId() !== BlockLegacyIds::AIR){</div>
 <div class="line"><a id="l00352" name="l00352"></a><span class="lineno">  352</span>                    $this-&gt;position-&gt;getWorld()-&gt;useBreakOn($block-&gt;position);</div>
 <div class="line"><a id="l00353" name="l00353"></a><span class="lineno">  353</span>                }</div>
 <div class="line"><a id="l00354" name="l00354"></a><span class="lineno">  354</span> </div>

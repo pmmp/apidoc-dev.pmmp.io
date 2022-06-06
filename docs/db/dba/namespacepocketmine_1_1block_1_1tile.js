@@ -33,7 +33,6 @@ var namespacepocketmine_1_1block_1_1tile =
     [ "canOpenWith", "db/dba/namespacepocketmine_1_1block_1_1tile.html#af966d6bf9e12d457f67c52ab2adcd9ed", null ],
     [ "copyDataFromItem", "db/dba/namespacepocketmine_1_1block_1_1tile.html#ac76a990f17e2485a82e0e6aa811e824f", null ],
     [ "getPosition", "db/dba/namespacepocketmine_1_1block_1_1tile.html#a038dc192c49ffb08dd35be026126841a", null ],
-    [ "getRealInventory", "db/dba/namespacepocketmine_1_1block_1_1tile.html#a0d64d1e9cd5f03f58281139eacdea4a4", null ],
     [ "onBlockDestroyedHook", "db/dba/namespacepocketmine_1_1block_1_1tile.html#a394bc8d12f9a7133597abdc62e6edab0", null ],
     [ "ContainerTrait", "db/dba/namespacepocketmine_1_1block_1_1tile.html#ae569096e2d912dc5e923d0330da10368", null ],
     [ "NameableTrait", "db/dba/namespacepocketmine_1_1block_1_1tile.html#a54f3b4288bddac560a6ab91ddeab2bb1", null ]

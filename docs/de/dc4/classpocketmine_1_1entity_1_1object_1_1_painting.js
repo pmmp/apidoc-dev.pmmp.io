@@ -18,6 +18,8 @@ var classpocketmine_1_1entity_1_1object_1_1_painting =
     [ "getBlocksAroundWithEntityInsideActions", "de/dc4/classpocketmine_1_1entity_1_1object_1_1_painting.html#a4087e033dc45159d7379699024657047", null ],
     [ "getBlocksIntersected", "de/dc4/classpocketmine_1_1entity_1_1object_1_1_painting.html#a1380adc70073eca8b76083e7357c44ea", null ],
     [ "getDirtyNetworkData", "de/dc4/classpocketmine_1_1entity_1_1object_1_1_painting.html#ac028a6475bf09f61ce9dfb952d4a5d65", null ],
+    [ "getInitialDragMultiplier", "de/dc4/classpocketmine_1_1entity_1_1object_1_1_painting.html#a99785d9e196c24832aef867426ce2f9a", null ],
+    [ "getInitialGravity", "de/dc4/classpocketmine_1_1entity_1_1object_1_1_painting.html#a1dadee72f536bfd3eb57980c4553e04d", null ],
     [ "getMotive", "de/dc4/classpocketmine_1_1entity_1_1object_1_1_painting.html#ae15e803d48b428964aa6fd2d69dcbfce", null ],
     [ "getOwningEntity", "de/dc4/classpocketmine_1_1entity_1_1object_1_1_painting.html#afdd4efc12fe21730ceb104af111f576d", null ],
     [ "getOwningEntityId", "de/dc4/classpocketmine_1_1entity_1_1object_1_1_painting.html#a1bc4a8d3a405c0923c2ed2a8dbcff9a7", null ],

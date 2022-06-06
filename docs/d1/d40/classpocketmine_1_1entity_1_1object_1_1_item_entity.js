@@ -18,6 +18,8 @@ var classpocketmine_1_1entity_1_1object_1_1_item_entity =
     [ "getBlocksIntersected", "d1/d40/classpocketmine_1_1entity_1_1object_1_1_item_entity.html#a1380adc70073eca8b76083e7357c44ea", null ],
     [ "getDespawnDelay", "d1/d40/classpocketmine_1_1entity_1_1object_1_1_item_entity.html#a3ed051a2df8fc2eba5f0d5573b1ed021", null ],
     [ "getDirtyNetworkData", "d1/d40/classpocketmine_1_1entity_1_1object_1_1_item_entity.html#ac028a6475bf09f61ce9dfb952d4a5d65", null ],
+    [ "getInitialDragMultiplier", "d1/d40/classpocketmine_1_1entity_1_1object_1_1_item_entity.html#aeb75213027c56faa976d7038da4b437e", null ],
+    [ "getInitialGravity", "d1/d40/classpocketmine_1_1entity_1_1object_1_1_item_entity.html#abc548889c53d76bad9b72c5aa8689910", null ],
     [ "getOwningEntity", "d1/d40/classpocketmine_1_1entity_1_1object_1_1_item_entity.html#afdd4efc12fe21730ceb104af111f576d", null ],
     [ "getOwningEntityId", "d1/d40/classpocketmine_1_1entity_1_1object_1_1_item_entity.html#a1bc4a8d3a405c0923c2ed2a8dbcff9a7", null ],
     [ "getTargetEntity", "d1/d40/classpocketmine_1_1entity_1_1object_1_1_item_entity.html#aadf061fdcc839a812188363a4a9dc3b5", null ],

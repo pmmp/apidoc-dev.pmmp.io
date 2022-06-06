@@ -44,5 +44,6 @@ var classpocketmine_1_1item_1_1_food =
     [ "setCustomBlockData", "dc/de1/classpocketmine_1_1item_1_1_food.html#a3bc65b2324649d8735dadf9bf8cf0705", null ],
     [ "setCustomName", "dc/de1/classpocketmine_1_1item_1_1_food.html#aec8070c04112770e0d01a3c56b252e81", null ],
     [ "setLore", "dc/de1/classpocketmine_1_1item_1_1_food.html#aa27432059ecfd201a3cec74253b21fa9", null ],
-    [ "setNamedTag", "dc/de1/classpocketmine_1_1item_1_1_food.html#a8e97e9296238bf8794a2d2f8e94e8a93", null ]
+    [ "setNamedTag", "dc/de1/classpocketmine_1_1item_1_1_food.html#a8e97e9296238bf8794a2d2f8e94e8a93", null ],
+    [ "$blockEntityTag", "dc/de1/classpocketmine_1_1item_1_1_food.html#a5b53d78436bbdb5d53102fda463be4e6", null ]
 ];

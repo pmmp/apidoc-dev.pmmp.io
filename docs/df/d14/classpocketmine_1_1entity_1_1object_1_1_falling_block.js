@@ -17,6 +17,8 @@ var classpocketmine_1_1entity_1_1object_1_1_falling_block =
     [ "getBlocksAroundWithEntityInsideActions", "df/d14/classpocketmine_1_1entity_1_1object_1_1_falling_block.html#a4087e033dc45159d7379699024657047", null ],
     [ "getBlocksIntersected", "df/d14/classpocketmine_1_1entity_1_1object_1_1_falling_block.html#a1380adc70073eca8b76083e7357c44ea", null ],
     [ "getDirtyNetworkData", "df/d14/classpocketmine_1_1entity_1_1object_1_1_falling_block.html#ac028a6475bf09f61ce9dfb952d4a5d65", null ],
+    [ "getInitialDragMultiplier", "df/d14/classpocketmine_1_1entity_1_1object_1_1_falling_block.html#ad93c4866ae13ca86f80ca158e866ac6f", null ],
+    [ "getInitialGravity", "df/d14/classpocketmine_1_1entity_1_1object_1_1_falling_block.html#a78d573d9e654f94a6608de69ca1dbc1f", null ],
     [ "getOwningEntity", "df/d14/classpocketmine_1_1entity_1_1object_1_1_falling_block.html#afdd4efc12fe21730ceb104af111f576d", null ],
     [ "getOwningEntityId", "df/d14/classpocketmine_1_1entity_1_1object_1_1_falling_block.html#a1bc4a8d3a405c0923c2ed2a8dbcff9a7", null ],
     [ "getTargetEntity", "df/d14/classpocketmine_1_1entity_1_1object_1_1_falling_block.html#aadf061fdcc839a812188363a4a9dc3b5", null ],

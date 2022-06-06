@@ -44,5 +44,6 @@ var classpocketmine_1_1item_1_1_mushroom_stew =
     [ "setCustomBlockData", "dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#a3bc65b2324649d8735dadf9bf8cf0705", null ],
     [ "setCustomName", "dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aec8070c04112770e0d01a3c56b252e81", null ],
     [ "setLore", "dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aa27432059ecfd201a3cec74253b21fa9", null ],
-    [ "setNamedTag", "dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#a8e97e9296238bf8794a2d2f8e94e8a93", null ]
+    [ "setNamedTag", "dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#a8e97e9296238bf8794a2d2f8e94e8a93", null ],
+    [ "$blockEntityTag", "dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#a5b53d78436bbdb5d53102fda463be4e6", null ]
 ];

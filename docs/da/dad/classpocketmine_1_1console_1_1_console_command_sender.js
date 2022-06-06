@@ -8,5 +8,6 @@ var classpocketmine_1_1console_1_1_console_command_sender =
     [ "recalculatePermissions", "da/dad/classpocketmine_1_1console_1_1_console_command_sender.html#a481d2f2b49d22a23cacc71576d73ecb5", null ],
     [ "setBasePermission", "da/dad/classpocketmine_1_1console_1_1_console_command_sender.html#ad399a4934f67210633d8805f92b6519c", null ],
     [ "setScreenLineHeight", "da/dad/classpocketmine_1_1console_1_1_console_command_sender.html#aba72af757ebdb5b4afd28913cf2da308", null ],
-    [ "unsetBasePermission", "da/dad/classpocketmine_1_1console_1_1_console_command_sender.html#ac499fffc6bb1b20246652041c2b3485f", null ]
+    [ "unsetBasePermission", "da/dad/classpocketmine_1_1console_1_1_console_command_sender.html#ac499fffc6bb1b20246652041c2b3485f", null ],
+    [ "$lineHeight", "da/dad/classpocketmine_1_1console_1_1_console_command_sender.html#aecf3f3907c13b57f751eb4a2d7dd3999", null ]
 ];
