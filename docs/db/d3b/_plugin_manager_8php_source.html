@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0 git-2a24982bc4e5b4fbe3c85a4a44c67427ada4ec2c</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0 git-bd2516eded52d3fd84befa8a986971d617d01e73</span>
    </div>
   </td>
  </tr>
@@ -111,7 +111,7 @@ $(document).ready(function(){initNavTree('db/d3b/_plugin_manager_8php_source.htm
 <div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span><span class="comment"> * @link http://www.pocketmine.net/</span></div>
 <div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span><span class="comment"> *</span></div>
 <div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span><span class="comment"> *</span></div>
-<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span><span class="comment">*/</span></div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span><span class="comment"> */</span></div>
 <div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span> </div>
 <div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span>declare(strict_types=1);</div>
 <div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span> </div>
@@ -344,31 +344,31 @@ $(document).ready(function(){initNavTree('db/d3b/_plugin_manager_8php_source.htm
 <div class="line"><a id="l00270" name="l00270"></a><span class="lineno">  270</span> </div>
 <div class="line"><a id="l00271" name="l00271"></a><span class="lineno">  271</span>                $name = $description-&gt;getName();</div>
 <div class="line"><a id="l00272" name="l00272"></a><span class="lineno">  272</span> </div>
-<div class="line"><a id="l00273" name="l00273"></a><span class="lineno">  273</span>                <span class="keywordflow">if</span>(($loadabilityError = $loadabilityChecker-&gt;check($description)) !== <span class="keyword">null</span>){</div>
-<div class="line"><a id="l00274" name="l00274"></a><span class="lineno">  274</span>                    $this-&gt;<a class="code hl_function" href="../../d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674">server</a>-&gt;getLogger()-&gt;critical($this-&gt;<a class="code hl_function" href="../../d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674">server</a>-&gt;getLanguage()-&gt;translate(KnownTranslationFactory::pocketmine_plugin_loadError($name, $loadabilityError)));</div>
-<div class="line"><a id="l00275" name="l00275"></a><span class="lineno">  275</span>                    $loadErrorCount++;</div>
-<div class="line"><a id="l00276" name="l00276"></a><span class="lineno">  276</span>                    <span class="keywordflow">continue</span>;</div>
-<div class="line"><a id="l00277" name="l00277"></a><span class="lineno">  277</span>                }</div>
-<div class="line"><a id="l00278" name="l00278"></a><span class="lineno">  278</span> </div>
-<div class="line"><a id="l00279" name="l00279"></a><span class="lineno">  279</span>                <span class="keywordflow">if</span>(isset($triage-&gt;plugins[$name]) || $this-&gt;getPlugin($name) instanceof Plugin){</div>
-<div class="line"><a id="l00280" name="l00280"></a><span class="lineno">  280</span>                    $this-&gt;<a class="code hl_function" href="../../d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674">server</a>-&gt;getLogger()-&gt;critical($this-&gt;<a class="code hl_function" href="../../d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674">server</a>-&gt;getLanguage()-&gt;translate(KnownTranslationFactory::pocketmine_plugin_duplicateError($name)));</div>
-<div class="line"><a id="l00281" name="l00281"></a><span class="lineno">  281</span>                    $loadErrorCount++;</div>
-<div class="line"><a id="l00282" name="l00282"></a><span class="lineno">  282</span>                    <span class="keywordflow">continue</span>;</div>
-<div class="line"><a id="l00283" name="l00283"></a><span class="lineno">  283</span>                }</div>
-<div class="line"><a id="l00284" name="l00284"></a><span class="lineno">  284</span> </div>
-<div class="line"><a id="l00285" name="l00285"></a><span class="lineno">  285</span>                <span class="keywordflow">if</span>(strpos($name, <span class="stringliteral">&quot; &quot;</span>) !== <span class="keyword">false</span>){</div>
-<div class="line"><a id="l00286" name="l00286"></a><span class="lineno">  286</span>                    $this-&gt;<a class="code hl_function" href="../../d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674">server</a>-&gt;getLogger()-&gt;warning($this-&gt;<a class="code hl_function" href="../../d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674">server</a>-&gt;getLanguage()-&gt;translate(KnownTranslationFactory::pocketmine_plugin_spacesDiscouraged($name)));</div>
-<div class="line"><a id="l00287" name="l00287"></a><span class="lineno">  287</span>                }</div>
-<div class="line"><a id="l00288" name="l00288"></a><span class="lineno">  288</span> </div>
-<div class="line"><a id="l00289" name="l00289"></a><span class="lineno">  289</span>                <span class="keywordflow">if</span>($this-&gt;graylist !== <span class="keyword">null</span> &amp;&amp; !$this-&gt;graylist-&gt;isAllowed($name)){</div>
-<div class="line"><a id="l00290" name="l00290"></a><span class="lineno">  290</span>                    $this-&gt;<a class="code hl_function" href="../../d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674">server</a>-&gt;getLogger()-&gt;notice($this-&gt;<a class="code hl_function" href="../../d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674">server</a>-&gt;getLanguage()-&gt;translate(KnownTranslationFactory::pocketmine_plugin_loadError(</div>
-<div class="line"><a id="l00291" name="l00291"></a><span class="lineno">  291</span>                        $name,</div>
-<div class="line"><a id="l00292" name="l00292"></a><span class="lineno">  292</span>                        $this-&gt;graylist-&gt;isWhitelist() ? KnownTranslationFactory::pocketmine_plugin_disallowedByWhitelist() : KnownTranslationFactory::pocketmine_plugin_disallowedByBlacklist()</div>
-<div class="line"><a id="l00293" name="l00293"></a><span class="lineno">  293</span>                    )));</div>
-<div class="line"><a id="l00294" name="l00294"></a><span class="lineno">  294</span>                    <span class="comment">//this does NOT increment loadErrorCount, because using the graylist to prevent a plugin from</span></div>
-<div class="line"><a id="l00295" name="l00295"></a><span class="lineno">  295</span>                    <span class="comment">//loading is not considered accidental; this is the same as if the plugin were manually removed</span></div>
-<div class="line"><a id="l00296" name="l00296"></a><span class="lineno">  296</span>                    <span class="comment">//this means that the server will continue to boot even if some plugins were blocked by graylist</span></div>
-<div class="line"><a id="l00297" name="l00297"></a><span class="lineno">  297</span>                    <span class="keywordflow">continue</span>;</div>
+<div class="line"><a id="l00273" name="l00273"></a><span class="lineno">  273</span>                <span class="keywordflow">if</span>($this-&gt;graylist !== <span class="keyword">null</span> &amp;&amp; !$this-&gt;graylist-&gt;isAllowed($name)){</div>
+<div class="line"><a id="l00274" name="l00274"></a><span class="lineno">  274</span>                    $this-&gt;<a class="code hl_function" href="../../d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674">server</a>-&gt;getLogger()-&gt;notice($this-&gt;<a class="code hl_function" href="../../d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674">server</a>-&gt;getLanguage()-&gt;translate(KnownTranslationFactory::pocketmine_plugin_loadError(</div>
+<div class="line"><a id="l00275" name="l00275"></a><span class="lineno">  275</span>                        $name,</div>
+<div class="line"><a id="l00276" name="l00276"></a><span class="lineno">  276</span>                        $this-&gt;graylist-&gt;isWhitelist() ? KnownTranslationFactory::pocketmine_plugin_disallowedByWhitelist() : KnownTranslationFactory::pocketmine_plugin_disallowedByBlacklist()</div>
+<div class="line"><a id="l00277" name="l00277"></a><span class="lineno">  277</span>                    )));</div>
+<div class="line"><a id="l00278" name="l00278"></a><span class="lineno">  278</span>                    <span class="comment">//this does NOT increment loadErrorCount, because using the graylist to prevent a plugin from</span></div>
+<div class="line"><a id="l00279" name="l00279"></a><span class="lineno">  279</span>                    <span class="comment">//loading is not considered accidental; this is the same as if the plugin were manually removed</span></div>
+<div class="line"><a id="l00280" name="l00280"></a><span class="lineno">  280</span>                    <span class="comment">//this means that the server will continue to boot even if some plugins were blocked by graylist</span></div>
+<div class="line"><a id="l00281" name="l00281"></a><span class="lineno">  281</span>                    <span class="keywordflow">continue</span>;</div>
+<div class="line"><a id="l00282" name="l00282"></a><span class="lineno">  282</span>                }</div>
+<div class="line"><a id="l00283" name="l00283"></a><span class="lineno">  283</span> </div>
+<div class="line"><a id="l00284" name="l00284"></a><span class="lineno">  284</span>                <span class="keywordflow">if</span>(($loadabilityError = $loadabilityChecker-&gt;check($description)) !== <span class="keyword">null</span>){</div>
+<div class="line"><a id="l00285" name="l00285"></a><span class="lineno">  285</span>                    $this-&gt;<a class="code hl_function" href="../../d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674">server</a>-&gt;getLogger()-&gt;critical($this-&gt;<a class="code hl_function" href="../../d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674">server</a>-&gt;getLanguage()-&gt;translate(KnownTranslationFactory::pocketmine_plugin_loadError($name, $loadabilityError)));</div>
+<div class="line"><a id="l00286" name="l00286"></a><span class="lineno">  286</span>                    $loadErrorCount++;</div>
+<div class="line"><a id="l00287" name="l00287"></a><span class="lineno">  287</span>                    <span class="keywordflow">continue</span>;</div>
+<div class="line"><a id="l00288" name="l00288"></a><span class="lineno">  288</span>                }</div>
+<div class="line"><a id="l00289" name="l00289"></a><span class="lineno">  289</span> </div>
+<div class="line"><a id="l00290" name="l00290"></a><span class="lineno">  290</span>                <span class="keywordflow">if</span>(isset($triage-&gt;plugins[$name]) || $this-&gt;getPlugin($name) instanceof Plugin){</div>
+<div class="line"><a id="l00291" name="l00291"></a><span class="lineno">  291</span>                    $this-&gt;<a class="code hl_function" href="../../d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674">server</a>-&gt;getLogger()-&gt;critical($this-&gt;<a class="code hl_function" href="../../d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674">server</a>-&gt;getLanguage()-&gt;translate(KnownTranslationFactory::pocketmine_plugin_duplicateError($name)));</div>
+<div class="line"><a id="l00292" name="l00292"></a><span class="lineno">  292</span>                    $loadErrorCount++;</div>
+<div class="line"><a id="l00293" name="l00293"></a><span class="lineno">  293</span>                    <span class="keywordflow">continue</span>;</div>
+<div class="line"><a id="l00294" name="l00294"></a><span class="lineno">  294</span>                }</div>
+<div class="line"><a id="l00295" name="l00295"></a><span class="lineno">  295</span> </div>
+<div class="line"><a id="l00296" name="l00296"></a><span class="lineno">  296</span>                <span class="keywordflow">if</span>(strpos($name, <span class="stringliteral">&quot; &quot;</span>) !== <span class="keyword">false</span>){</div>
+<div class="line"><a id="l00297" name="l00297"></a><span class="lineno">  297</span>                    $this-&gt;<a class="code hl_function" href="../../d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674">server</a>-&gt;getLogger()-&gt;warning($this-&gt;<a class="code hl_function" href="../../d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674">server</a>-&gt;getLanguage()-&gt;translate(KnownTranslationFactory::pocketmine_plugin_spacesDiscouraged($name)));</div>
 <div class="line"><a id="l00298" name="l00298"></a><span class="lineno">  298</span>                }</div>
 <div class="line"><a id="l00299" name="l00299"></a><span class="lineno">  299</span> </div>
 <div class="line"><a id="l00300" name="l00300"></a><span class="lineno">  300</span>                $triage-&gt;plugins[$name] = <span class="keyword">new</span> PluginLoadTriageEntry($file, $loader, $description);</div>

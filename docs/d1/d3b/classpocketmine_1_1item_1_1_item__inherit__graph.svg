@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 6222;
+var viewWidth = 6049;
 var viewHeight = 920;
 var sectionId = 'dynsection-0';
 </script>
@@ -54,41 +54,41 @@ var sectionId = 'dynsection-0';
 <svg id="graph" class="graph">
 <g id="viewport">
 <title>pocketmine\item\Item</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-916 6217.5,-916 6217.5,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-916 6044.5,-916 6044.5,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="2929.5,-496.5 2929.5,-817.5 3087.5,-817.5 3087.5,-496.5 2929.5,-496.5"/>
-<text text-anchor="middle" x="3008.5" y="-805.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Item</text>
-<polyline fill="none" stroke="black" points="2929.5,-798.5 3087.5,-798.5 "/>
-<text text-anchor="start" x="2937.5" y="-786.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_BLOCK_ENTITY_TAG</text>
-<text text-anchor="start" x="2937.5" y="-775.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_DISPLAY</text>
-<text text-anchor="start" x="2937.5" y="-764.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_DISPLAY_LORE</text>
-<text text-anchor="start" x="2937.5" y="-753.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_DISPLAY_NAME</text>
-<text text-anchor="start" x="2937.5" y="-742.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_ENCH</text>
-<text text-anchor="start" x="2937.5" y="-731.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $blockEntityTag</text>
-<text text-anchor="start" x="2937.5" y="-720.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $canDestroy</text>
-<text text-anchor="start" x="2937.5" y="-709.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $canPlaceOn</text>
-<text text-anchor="start" x="2937.5" y="-698.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $count</text>
-<text text-anchor="start" x="2937.5" y="-687.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $customName</text>
-<text text-anchor="start" x="2937.5" y="-676.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $lore</text>
-<polyline fill="none" stroke="black" points="2929.5,-669.5 3087.5,-669.5 "/>
-<text text-anchor="start" x="2937.5" y="-657.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="2937.5" y="-646.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __clone()</text>
-<text text-anchor="start" x="2937.5" y="-635.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __toString()</text>
-<text text-anchor="start" x="2937.5" y="-624.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
-<text text-anchor="start" x="2937.5" y="-613.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canStackWith()</text>
-<text text-anchor="start" x="2937.5" y="-602.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomBlockData()</text>
-<text text-anchor="start" x="2937.5" y="-591.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomName()</text>
-<text text-anchor="start" x="2937.5" y="-580.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearNamedTag()</text>
-<text text-anchor="start" x="2937.5" y="-569.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ equals()</text>
-<text text-anchor="start" x="2937.5" y="-558.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ equalsExact()</text>
-<text text-anchor="start" x="2937.5" y="-547.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 41 more...</text>
-<text text-anchor="start" x="2937.5" y="-536.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ jsonDeserialize()</text>
-<text text-anchor="start" x="2937.5" y="-525.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ nbtDeserialize()</text>
-<text text-anchor="start" x="2937.5" y="-514.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
-<text text-anchor="start" x="2937.5" y="-503.5" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeCompoundTag()</text>
+<polygon fill="#bfbfbf" stroke="black" points="2843.5,-496.5 2843.5,-817.5 3001.5,-817.5 3001.5,-496.5 2843.5,-496.5"/>
+<text text-anchor="middle" x="2922.5" y="-805.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Item</text>
+<polyline fill="none" stroke="black" points="2843.5,-798.5 3001.5,-798.5 "/>
+<text text-anchor="start" x="2851.5" y="-786.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_BLOCK_ENTITY_TAG</text>
+<text text-anchor="start" x="2851.5" y="-775.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_DISPLAY</text>
+<text text-anchor="start" x="2851.5" y="-764.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_DISPLAY_LORE</text>
+<text text-anchor="start" x="2851.5" y="-753.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_DISPLAY_NAME</text>
+<text text-anchor="start" x="2851.5" y="-742.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_ENCH</text>
+<text text-anchor="start" x="2851.5" y="-731.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $blockEntityTag</text>
+<text text-anchor="start" x="2851.5" y="-720.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $canDestroy</text>
+<text text-anchor="start" x="2851.5" y="-709.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $canPlaceOn</text>
+<text text-anchor="start" x="2851.5" y="-698.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $count</text>
+<text text-anchor="start" x="2851.5" y="-687.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $customName</text>
+<text text-anchor="start" x="2851.5" y="-676.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $lore</text>
+<polyline fill="none" stroke="black" points="2843.5,-669.5 3001.5,-669.5 "/>
+<text text-anchor="start" x="2851.5" y="-657.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="2851.5" y="-646.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __clone()</text>
+<text text-anchor="start" x="2851.5" y="-635.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __toString()</text>
+<text text-anchor="start" x="2851.5" y="-624.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
+<text text-anchor="start" x="2851.5" y="-613.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canStackWith()</text>
+<text text-anchor="start" x="2851.5" y="-602.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomBlockData()</text>
+<text text-anchor="start" x="2851.5" y="-591.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomName()</text>
+<text text-anchor="start" x="2851.5" y="-580.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearNamedTag()</text>
+<text text-anchor="start" x="2851.5" y="-569.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ equals()</text>
+<text text-anchor="start" x="2851.5" y="-558.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ equalsExact()</text>
+<text text-anchor="start" x="2851.5" y="-547.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 41 more...</text>
+<text text-anchor="start" x="2851.5" y="-536.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ jsonDeserialize()</text>
+<text text-anchor="start" x="2851.5" y="-525.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ nbtDeserialize()</text>
+<text text-anchor="start" x="2851.5" y="-514.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
+<text text-anchor="start" x="2851.5" y="-503.5" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeCompoundTag()</text>
 </a>
 </g>
 </g>
@@ -108,8 +108,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M2918.97,-654.54C2460.26,-646.45 385.3,-602.2 139.5,-460 107.72,-441.62 86.87,-403.44 75.63,-377.15"/>
-<polygon fill="none" stroke="midnightblue" points="2919.12,-658.04 2929.18,-654.72 2919.25,-651.05 2919.12,-658.04"/>
+<path fill="none" stroke="midnightblue" d="M2833.46,-654.35C2384.08,-645.41 377.43,-597.98 139.5,-460 107.74,-441.58 86.89,-403.42 75.64,-377.14"/>
+<polygon fill="none" stroke="midnightblue" points="2833.4,-657.85 2843.46,-654.55 2833.53,-650.85 2833.4,-657.85"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
@@ -128,8 +128,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node4 -->
 <g id="edge3" class="edge">
 <title>Node1&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M2919.1,-653.99C2476.71,-643.44 533.84,-589.97 300.5,-460 269.77,-442.89 247.78,-408.44 234.72,-382.54"/>
-<polygon fill="none" stroke="midnightblue" points="2919.18,-657.49 2929.26,-654.23 2919.35,-650.49 2919.18,-657.49"/>
+<path fill="none" stroke="midnightblue" d="M2833.13,-653.76C2399.45,-642.31 525.83,-585.86 300.5,-460 269.79,-442.85 247.79,-408.41 234.73,-382.52"/>
+<polygon fill="none" stroke="midnightblue" points="2833.33,-657.27 2843.41,-654.03 2833.51,-650.27 2833.33,-657.27"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
@@ -150,8 +150,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
 <title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M2919.05,-653.9C2490.26,-643.19 656.89,-590.05 440.5,-460 415.59,-445.03 398.09,-417.4 386.81,-393.52"/>
-<polygon fill="none" stroke="midnightblue" points="2919.14,-657.4 2929.22,-654.15 2919.31,-650.4 2919.14,-657.4"/>
+<path fill="none" stroke="midnightblue" d="M2832.98,-653.64C2412.94,-641.96 649.01,-585.69 440.5,-460 415.7,-445.05 398.24,-417.58 386.96,-393.78"/>
+<polygon fill="none" stroke="midnightblue" points="2833.15,-657.15 2843.25,-653.93 2833.35,-650.15 2833.15,-657.15"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">
@@ -170,8 +170,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node6 -->
 <g id="edge5" class="edge">
 <title>Node1&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M2919.19,-653.1C2507.97,-639.15 808.09,-574.93 602.5,-460 571.77,-442.82 549.5,-408.57 536.18,-382.73"/>
-<polygon fill="none" stroke="midnightblue" points="2919.13,-656.6 2929.24,-653.44 2919.37,-649.6 2919.13,-656.6"/>
+<path fill="none" stroke="midnightblue" d="M2833.11,-652.81C2430.91,-637.87 800.08,-570.85 602.5,-460 571.8,-442.78 549.52,-408.53 536.19,-382.71"/>
+<polygon fill="none" stroke="midnightblue" points="2833.11,-656.31 2843.23,-653.18 2833.37,-649.32 2833.11,-656.31"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node">
@@ -189,8 +189,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node7 -->
 <g id="edge6" class="edge">
 <title>Node1&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M2919,-652.46C2525.39,-636.33 959.26,-565.93 768.5,-460 735.15,-441.48 711.21,-403.34 697.85,-377.09"/>
-<polygon fill="none" stroke="midnightblue" points="2919.06,-655.97 2929.2,-652.88 2919.35,-648.97 2919.06,-655.97"/>
+<path fill="none" stroke="midnightblue" d="M2832.98,-652.13C2448.83,-634.95 951.26,-561.91 768.5,-460 735.18,-441.42 711.23,-403.29 697.87,-377.07"/>
+<polygon fill="none" stroke="midnightblue" points="2833.06,-655.64 2843.2,-652.59 2833.37,-648.64 2833.06,-655.64"/>
 </g>
 <!-- Node8 -->
 <g id="node8" class="node">
@@ -211,8 +211,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node8 -->
 <g id="edge7" class="edge">
 <title>Node1&#45;&gt;Node8</title>
-<path fill="none" stroke="midnightblue" d="M2919.27,-652.25C2541.51,-635.74 1085.3,-565.71 911.5,-460 886.66,-444.89 868.95,-417.42 857.43,-393.65"/>
-<polygon fill="none" stroke="midnightblue" points="2919.19,-655.75 2929.33,-652.68 2919.49,-648.75 2919.19,-655.75"/>
+<path fill="none" stroke="midnightblue" d="M2833.29,-651.87C2465.4,-634.22 1077.48,-561.41 911.5,-460 886.69,-444.84 868.98,-417.37 857.45,-393.62"/>
+<polygon fill="none" stroke="midnightblue" points="2833.2,-655.37 2843.36,-652.35 2833.54,-648.38 2833.2,-655.37"/>
 </g>
 <!-- Node9 -->
 <g id="node9" class="node">
@@ -230,8 +230,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node9 -->
 <g id="edge8" class="edge">
 <title>Node1&#45;&gt;Node9</title>
-<path fill="none" stroke="midnightblue" d="M2919.31,-651.53C2558.51,-632.84 1218.66,-557.38 1057.5,-460 1026.41,-441.21 1005.89,-403.52 994.73,-377.42"/>
-<polygon fill="none" stroke="midnightblue" points="2919.28,-655.03 2929.44,-652.05 2919.64,-648.04 2919.28,-655.03"/>
+<path fill="none" stroke="midnightblue" d="M2832.91,-656.5C2503.28,-656.86 1361.24,-644.49 1057.5,-460 1026.45,-441.14 1005.92,-403.47 994.75,-377.39"/>
+<polygon fill="none" stroke="midnightblue" points="2833.36,-660 2843.36,-656.49 2833.35,-653 2833.36,-660"/>
 </g>
 <!-- Node10 -->
 <g id="node10" class="node">
@@ -249,8 +249,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node10 -->
 <g id="edge9" class="edge">
 <title>Node1&#45;&gt;Node10</title>
-<path fill="none" stroke="midnightblue" d="M2919.19,-656.22C2596.45,-655.53 1494.29,-639.78 1201.5,-460 1170.67,-441.07 1150.47,-403.41 1139.52,-377.36"/>
-<polygon fill="none" stroke="midnightblue" points="2919.42,-659.72 2929.42,-656.24 2919.43,-652.72 2919.42,-659.72"/>
+<path fill="none" stroke="midnightblue" d="M2832.99,-655.67C2520.02,-653.02 1478.74,-631.26 1201.5,-460 1170.72,-440.99 1150.51,-403.35 1139.54,-377.32"/>
+<polygon fill="none" stroke="midnightblue" points="2833.34,-659.17 2843.37,-655.75 2833.4,-652.17 2833.34,-659.17"/>
 </g>
 <!-- Node11 -->
 <g id="node11" class="node">
@@ -269,8 +269,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node11 -->
 <g id="edge10" class="edge">
 <title>Node1&#45;&gt;Node11</title>
-<path fill="none" stroke="midnightblue" d="M2919.23,-654.96C2614.84,-649.95 1621.76,-621.34 1354.5,-460 1325.1,-442.25 1304.35,-408.27 1292.04,-382.66"/>
-<polygon fill="none" stroke="midnightblue" points="2919.28,-658.46 2929.33,-655.12 2919.39,-651.46 2919.28,-658.46"/>
+<path fill="none" stroke="midnightblue" d="M2832.9,-654.29C2538.61,-647.23 1606.14,-613.02 1354.5,-460 1325.16,-442.16 1304.4,-408.19 1292.07,-382.61"/>
+<polygon fill="none" stroke="midnightblue" points="2833.02,-657.79 2843.1,-654.53 2833.18,-650.8 2833.02,-657.79"/>
 </g>
 <!-- Node12 -->
 <g id="node12" class="node">
@@ -288,8 +288,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node12 -->
 <g id="edge11" class="edge">
 <title>Node1&#45;&gt;Node12</title>
-<path fill="none" stroke="midnightblue" d="M2918.98,-653.89C2632.36,-645.7 1742.1,-608.58 1502.5,-460 1471.5,-440.78 1450.58,-403.19 1439.1,-377.23"/>
-<polygon fill="none" stroke="midnightblue" points="2919.23,-657.4 2929.33,-654.18 2919.43,-650.4 2919.23,-657.4"/>
+<path fill="none" stroke="midnightblue" d="M2832.92,-653.09C2557.24,-642.71 1726.7,-600.23 1502.5,-460 1471.57,-440.66 1450.63,-403.1 1439.13,-377.18"/>
+<polygon fill="none" stroke="midnightblue" points="2833.15,-656.6 2843.28,-653.48 2833.41,-649.61 2833.15,-656.6"/>
 </g>
 <!-- Node13 -->
 <g id="node13" class="node">
@@ -307,8 +307,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node13 -->
 <g id="edge12" class="edge">
 <title>Node1&#45;&gt;Node13</title>
-<path fill="none" stroke="midnightblue" d="M2919.06,-652.72C2650.65,-641.4 1857.49,-596.88 1644.5,-460 1614.19,-440.52 1594.25,-403 1583.42,-377.12"/>
-<polygon fill="none" stroke="midnightblue" points="2919.02,-656.22 2929.15,-653.14 2919.31,-649.22 2919.02,-656.22"/>
+<path fill="none" stroke="midnightblue" d="M2833.39,-651.76C2576.86,-638.11 1842.35,-588.48 1644.5,-460 1614.28,-440.38 1594.32,-402.89 1583.46,-377.06"/>
+<polygon fill="none" stroke="midnightblue" points="2833.24,-655.26 2843.41,-652.29 2833.61,-648.27 2833.24,-655.26"/>
 </g>
 <!-- Node14 -->
 <g id="node14" class="node">
@@ -326,8 +326,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node14 -->
 <g id="edge13" class="edge">
 <title>Node1&#45;&gt;Node14</title>
-<path fill="none" stroke="midnightblue" d="M2919.05,-649.38C2676.49,-630.17 2011.94,-568.74 1824.5,-460 1790.69,-440.38 1764.33,-402.89 1749.1,-377.06"/>
-<polygon fill="none" stroke="midnightblue" points="2918.99,-652.89 2929.23,-650.19 2919.54,-645.91 2918.99,-652.89"/>
+<path fill="none" stroke="midnightblue" d="M2833.49,-648.13C2603.71,-626.55 1996.54,-561.26 1824.5,-460 1791.02,-440.3 1764.76,-403.2 1749.45,-377.45"/>
+<polygon fill="none" stroke="midnightblue" points="2833.21,-651.61 2843.49,-649.06 2833.86,-644.64 2833.21,-651.61"/>
 </g>
 <!-- Node15 -->
 <g id="node15" class="node">
@@ -345,8 +345,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node15 -->
 <g id="edge14" class="edge">
 <title>Node1&#45;&gt;Node15</title>
-<path fill="none" stroke="midnightblue" d="M2919.14,-647.18C2700.51,-624.28 2145.17,-557.86 1989.5,-460 1957.75,-440.04 1934.1,-403 1920.56,-377.34"/>
-<polygon fill="none" stroke="midnightblue" points="2918.98,-650.68 2929.29,-648.23 2919.71,-643.72 2918.98,-650.68"/>
+<path fill="none" stroke="midnightblue" d="M2833.03,-645.4C2627.8,-619.8 2129.98,-549.99 1989.5,-460 1957.92,-439.77 1934.23,-402.79 1920.64,-377.22"/>
+<polygon fill="none" stroke="midnightblue" points="2832.82,-648.9 2843.18,-646.66 2833.68,-641.95 2832.82,-648.9"/>
 </g>
 <!-- Node16 -->
 <g id="node16" class="node">
@@ -375,13 +375,13 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node16 -->
 <g id="edge15" class="edge">
 <title>Node1&#45;&gt;Node16</title>
-<path fill="none" stroke="midnightblue" d="M2918.98,-650.2C2764.1,-636.82 2440.25,-593.82 2205.5,-460 2194.55,-453.76 2183.98,-446.08 2174.01,-437.71"/>
-<polygon fill="none" stroke="midnightblue" points="2919.12,-653.73 2929.38,-651.08 2919.71,-646.75 2919.12,-653.73"/>
+<path fill="none" stroke="midnightblue" d="M2833.29,-646.84C2691.64,-629.09 2410.38,-580.55 2205.5,-460 2194.75,-453.67 2184.34,-446 2174.5,-437.68"/>
+<polygon fill="none" stroke="midnightblue" points="2832.89,-650.32 2843.25,-648.07 2833.75,-643.37 2832.89,-650.32"/>
 </g>
-<!-- Node28 -->
-<g id="node19" class="node">
-<title>Node28</title>
-<g id="a_node19"><a xlink:href="../../d4/d96/classpocketmine_1_1item_1_1_dye.html" target="_top" xlink:title=" ">
+<!-- Node29 -->
+<g id="node20" class="node">
+<title>Node29</title>
+<g id="a_node20"><a xlink:href="../../d4/d96/classpocketmine_1_1item_1_1_dye.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="2214.5,-314.5 2214.5,-382.5 2336.5,-382.5 2336.5,-314.5 2214.5,-314.5"/>
 <text text-anchor="middle" x="2275.5" y="-370.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Dye</text>
 <polyline fill="none" stroke="#bfbfbf" points="2214.5,-363.5 2336.5,-363.5 "/>
@@ -392,16 +392,16 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node28 -->
-<g id="edge18" class="edge">
-<title>Node1&#45;&gt;Node28</title>
-<path fill="none" stroke="midnightblue" d="M2919.28,-649.46C2782.99,-635.44 2520.36,-592.05 2345.5,-460 2319.22,-440.16 2300.25,-407.34 2288.75,-382.62"/>
-<polygon fill="none" stroke="midnightblue" points="2918.97,-652.95 2929.27,-650.46 2919.67,-645.99 2918.97,-652.95"/>
+<!-- Node1&#45;&gt;Node29 -->
+<g id="edge19" class="edge">
+<title>Node1&#45;&gt;Node29</title>
+<path fill="none" stroke="midnightblue" d="M2833.16,-644.54C2711.6,-625.05 2492.47,-575.67 2345.5,-460 2319.71,-439.7 2300.74,-407.12 2289.09,-382.58"/>
+<polygon fill="none" stroke="midnightblue" points="2832.75,-648.02 2843.17,-646.11 2833.84,-641.1 2832.75,-648.02"/>
 </g>
-<!-- Node29 -->
-<g id="node20" class="node">
-<title>Node29</title>
-<g id="a_node20"><a xlink:href="../../d2/df4/classpocketmine_1_1item_1_1_fertilizer.html" target="_top" xlink:title=" ">
+<!-- Node30 -->
+<g id="node21" class="node">
+<title>Node30</title>
+<g id="a_node21"><a xlink:href="../../d2/df4/classpocketmine_1_1item_1_1_fertilizer.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="2355,-320 2355,-377 2500,-377 2500,-320 2355,-320"/>
 <text text-anchor="middle" x="2427.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Fertilizer</text>
 <polyline fill="none" stroke="#bfbfbf" points="2355,-358 2500,-358 "/>
@@ -411,695 +411,696 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node29 -->
-<g id="edge19" class="edge">
-<title>Node1&#45;&gt;Node29</title>
-<path fill="none" stroke="midnightblue" d="M2919.55,-637.21C2813.27,-611.35 2634.07,-556.64 2508.5,-460 2479.28,-437.51 2455.75,-401.75 2441.73,-377.03"/>
-<polygon fill="none" stroke="midnightblue" points="2918.75,-640.61 2929.29,-639.54 2920.39,-633.81 2918.75,-640.61"/>
-</g>
-<!-- Node30 -->
-<g id="node21" class="node">
-<title>Node30</title>
-<g id="a_node21"><a xlink:href="../../d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="2518,-320 2518,-377 2673,-377 2673,-320 2518,-320"/>
-<text text-anchor="middle" x="2595.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\FishingRod</text>
-<polyline fill="none" stroke="#bfbfbf" points="2518,-358 2673,-358 "/>
-<text text-anchor="middle" x="2595.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="2518,-339 2673,-339 "/>
-<text text-anchor="middle" x="2595.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-</a>
-</g>
-</g>
 <!-- Node1&#45;&gt;Node30 -->
 <g id="edge20" class="edge">
 <title>Node1&#45;&gt;Node30</title>
-<path fill="none" stroke="midnightblue" d="M2920.32,-614.16C2851.25,-578.87 2755.03,-523.95 2682.5,-460 2654.66,-435.46 2629.21,-401.1 2613.13,-377.24"/>
-<polygon fill="none" stroke="midnightblue" points="2918.95,-617.39 2929.45,-618.8 2922.12,-611.15 2918.95,-617.39"/>
+<path fill="none" stroke="midnightblue" d="M2833.89,-628.23C2745.11,-597.31 2607.87,-540.81 2509.5,-460 2481.07,-436.65 2457.17,-401.4 2442.64,-377.03"/>
+<polygon fill="none" stroke="midnightblue" points="2832.81,-631.55 2843.4,-631.5 2835.09,-624.94 2832.81,-631.55"/>
 </g>
 <!-- Node31 -->
 <g id="node22" class="node">
 <title>Node31</title>
 <g id="a_node22"><a xlink:href="../../dc/de1/classpocketmine_1_1item_1_1_food.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="orangered" points="2691.5,-298 2691.5,-399 2825.5,-399 2825.5,-298 2691.5,-298"/>
-<text text-anchor="middle" x="2758.5" y="-387" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Food</text>
-<polyline fill="none" stroke="orangered" points="2691.5,-380 2825.5,-380 "/>
-<text text-anchor="middle" x="2758.5" y="-368" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="orangered" points="2691.5,-361 2825.5,-361 "/>
-<text text-anchor="start" x="2699.5" y="-349" font-family="Helvetica,sans-Serif" font-size="10.00">+ canStartUsingItem()</text>
-<text text-anchor="start" x="2699.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAdditionalEffects()</text>
-<text text-anchor="start" x="2699.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
-<text text-anchor="start" x="2699.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
-<text text-anchor="start" x="2699.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ requiresHunger()</text>
+<polygon fill="white" stroke="orangered" points="2518.5,-298 2518.5,-399 2652.5,-399 2652.5,-298 2518.5,-298"/>
+<text text-anchor="middle" x="2585.5" y="-387" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Food</text>
+<polyline fill="none" stroke="orangered" points="2518.5,-380 2652.5,-380 "/>
+<text text-anchor="middle" x="2585.5" y="-368" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="orangered" points="2518.5,-361 2652.5,-361 "/>
+<text text-anchor="start" x="2526.5" y="-349" font-family="Helvetica,sans-Serif" font-size="10.00">+ canStartUsingItem()</text>
+<text text-anchor="start" x="2526.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAdditionalEffects()</text>
+<text text-anchor="start" x="2526.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
+<text text-anchor="start" x="2526.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
+<text text-anchor="start" x="2526.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ requiresHunger()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node31 -->
 <g id="edge21" class="edge">
 <title>Node1&#45;&gt;Node31</title>
-<path fill="none" stroke="midnightblue" d="M2922.6,-563.98C2893.72,-531.81 2861.9,-494.99 2834.5,-460 2819.36,-440.66 2803.79,-418.49 2790.72,-399.11"/>
-<polygon fill="none" stroke="midnightblue" points="2920.19,-566.53 2929.48,-571.62 2925.39,-561.84 2920.19,-566.53"/>
+<path fill="none" stroke="midnightblue" d="M2834.78,-600.73C2781.24,-564.54 2713.35,-514.05 2661.5,-460 2644.01,-441.77 2627.7,-419.14 2614.7,-399.12"/>
+<polygon fill="none" stroke="midnightblue" points="2832.99,-603.75 2843.24,-606.42 2836.89,-597.94 2832.99,-603.75"/>
 </g>
 <!-- Node69 -->
 <g id="node30" class="node">
 <title>Node69</title>
 <g id="a_node30"><a xlink:href="../../d2/d57/classpocketmine_1_1item_1_1_glass_bottle.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="2843.5,-320 2843.5,-377 3001.5,-377 3001.5,-320 2843.5,-320"/>
-<text text-anchor="middle" x="2922.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\GlassBottle</text>
-<polyline fill="none" stroke="#bfbfbf" points="2843.5,-358 3001.5,-358 "/>
-<text text-anchor="middle" x="2922.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="2843.5,-339 3001.5,-339 "/>
-<text text-anchor="middle" x="2922.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="#bfbfbf" points="2670.5,-320 2670.5,-377 2828.5,-377 2828.5,-320 2670.5,-320"/>
+<text text-anchor="middle" x="2749.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\GlassBottle</text>
+<polyline fill="none" stroke="#bfbfbf" points="2670.5,-358 2828.5,-358 "/>
+<text text-anchor="middle" x="2749.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="2670.5,-339 2828.5,-339 "/>
+<text text-anchor="middle" x="2749.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node69 -->
 <g id="edge29" class="edge">
 <title>Node1&#45;&gt;Node69</title>
-<path fill="none" stroke="midnightblue" d="M2961.01,-486.76C2949.03,-444.07 2937.52,-403.05 2930.26,-377.15"/>
-<polygon fill="none" stroke="midnightblue" points="2957.67,-487.78 2963.74,-496.47 2964.41,-485.89 2957.67,-487.78"/>
+<path fill="none" stroke="midnightblue" d="M2838.3,-506.82C2810.27,-457.16 2781.92,-406.93 2765.03,-377.01"/>
+<polygon fill="none" stroke="midnightblue" points="2835.38,-508.77 2843.34,-515.76 2841.47,-505.33 2835.38,-508.77"/>
 </g>
 <!-- Node70 -->
 <g id="node31" class="node">
 <title>Node70</title>
 <g id="a_node31"><a xlink:href="../../dd/d08/classpocketmine_1_1item_1_1_item_block.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="3019.5,-303.5 3019.5,-393.5 3171.5,-393.5 3171.5,-303.5 3019.5,-303.5"/>
-<text text-anchor="middle" x="3095.5" y="-381.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\ItemBlock</text>
-<polyline fill="none" stroke="black" points="3019.5,-374.5 3171.5,-374.5 "/>
-<text text-anchor="middle" x="3095.5" y="-362.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="3019.5,-355.5 3171.5,-355.5 "/>
-<text text-anchor="start" x="3027.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="3027.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
-<text text-anchor="start" x="3027.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFuelTime()</text>
-<text text-anchor="start" x="3027.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
+<polygon fill="white" stroke="black" points="2846.5,-303.5 2846.5,-393.5 2998.5,-393.5 2998.5,-303.5 2846.5,-303.5"/>
+<text text-anchor="middle" x="2922.5" y="-381.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\ItemBlock</text>
+<polyline fill="none" stroke="black" points="2846.5,-374.5 2998.5,-374.5 "/>
+<text text-anchor="middle" x="2922.5" y="-362.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="2846.5,-355.5 2998.5,-355.5 "/>
+<text text-anchor="start" x="2854.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="2854.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
+<text text-anchor="start" x="2854.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFuelTime()</text>
+<text text-anchor="start" x="2854.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node70 -->
 <g id="edge30" class="edge">
 <title>Node1&#45;&gt;Node70</title>
-<path fill="none" stroke="midnightblue" d="M3056.55,-486.73C3066.32,-452.31 3075.78,-418.97 3082.93,-393.78"/>
-<polygon fill="none" stroke="midnightblue" points="3053.15,-485.89 3053.78,-496.47 3059.88,-487.8 3053.15,-485.89"/>
+<path fill="none" stroke="midnightblue" d="M2922.5,-486.29C2922.5,-452.02 2922.5,-418.86 2922.5,-393.78"/>
+<polygon fill="none" stroke="midnightblue" points="2919,-486.47 2922.5,-496.47 2926,-486.47 2919,-486.47"/>
 </g>
 <!-- Node71 -->
 <g id="node32" class="node">
 <title>Node71</title>
 <g id="a_node32"><a xlink:href="../../d8/d23/classpocketmine_1_1item_1_1_item_block_wall_or_floor.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="orangered" points="3189.5,-298 3189.5,-399 3341.5,-399 3341.5,-298 3189.5,-298"/>
-<text text-anchor="start" x="3197.5" y="-387" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\ItemBlock</text>
-<text text-anchor="middle" x="3265.5" y="-376" font-family="Helvetica,sans-Serif" font-size="10.00">WallOrFloor</text>
-<polyline fill="none" stroke="orangered" points="3189.5,-369 3341.5,-369 "/>
-<text text-anchor="middle" x="3265.5" y="-357" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="orangered" points="3189.5,-350 3341.5,-350 "/>
-<text text-anchor="start" x="3197.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="3197.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
-<text text-anchor="start" x="3197.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFuelTime()</text>
-<text text-anchor="start" x="3197.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
+<polygon fill="white" stroke="orangered" points="3016.5,-298 3016.5,-399 3168.5,-399 3168.5,-298 3016.5,-298"/>
+<text text-anchor="start" x="3024.5" y="-387" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\ItemBlock</text>
+<text text-anchor="middle" x="3092.5" y="-376" font-family="Helvetica,sans-Serif" font-size="10.00">WallOrFloor</text>
+<polyline fill="none" stroke="orangered" points="3016.5,-369 3168.5,-369 "/>
+<text text-anchor="middle" x="3092.5" y="-357" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="orangered" points="3016.5,-350 3168.5,-350 "/>
+<text text-anchor="start" x="3024.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="3024.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
+<text text-anchor="start" x="3024.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFuelTime()</text>
+<text text-anchor="start" x="3024.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node71 -->
 <g id="edge31" class="edge">
 <title>Node1&#45;&gt;Node71</title>
-<path fill="none" stroke="midnightblue" d="M3094.3,-560.72C3122.23,-529.05 3153.09,-493.35 3180.5,-460 3196.56,-440.46 3213.67,-418.46 3228.3,-399.27"/>
-<polygon fill="none" stroke="midnightblue" points="3091.64,-558.44 3087.65,-568.26 3096.89,-563.08 3091.64,-558.44"/>
+<path fill="none" stroke="midnightblue" d="M3006.59,-504.39C3027.67,-466.39 3048.82,-428.25 3064.86,-399.33"/>
+<polygon fill="none" stroke="midnightblue" points="3003.32,-503.07 3001.53,-513.52 3009.44,-506.47 3003.32,-503.07"/>
 </g>
 <!-- Node73 -->
 <g id="node33" class="node">
 <title>Node73</title>
 <g id="a_node33"><a xlink:href="../../db/dc0/classpocketmine_1_1item_1_1_liquid_bucket.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="3359.5,-292.5 3359.5,-404.5 3523.5,-404.5 3523.5,-292.5 3359.5,-292.5"/>
-<text text-anchor="middle" x="3441.5" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\LiquidBucket</text>
-<polyline fill="none" stroke="#bfbfbf" points="3359.5,-385.5 3523.5,-385.5 "/>
-<text text-anchor="middle" x="3441.5" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="3359.5,-366.5 3523.5,-366.5 "/>
-<text text-anchor="start" x="3367.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="3367.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFuelResidue()</text>
-<text text-anchor="start" x="3367.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFuelTime()</text>
-<text text-anchor="start" x="3367.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLiquid()</text>
-<text text-anchor="start" x="3367.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
-<text text-anchor="start" x="3367.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteractBlock()</text>
+<polygon fill="white" stroke="#bfbfbf" points="3186.5,-292.5 3186.5,-404.5 3350.5,-404.5 3350.5,-292.5 3186.5,-292.5"/>
+<text text-anchor="middle" x="3268.5" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\LiquidBucket</text>
+<polyline fill="none" stroke="#bfbfbf" points="3186.5,-385.5 3350.5,-385.5 "/>
+<text text-anchor="middle" x="3268.5" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="3186.5,-366.5 3350.5,-366.5 "/>
+<text text-anchor="start" x="3194.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="3194.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFuelResidue()</text>
+<text text-anchor="start" x="3194.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFuelTime()</text>
+<text text-anchor="start" x="3194.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLiquid()</text>
+<text text-anchor="start" x="3194.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
+<text text-anchor="start" x="3194.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteractBlock()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node73 -->
 <g id="edge32" class="edge">
 <title>Node1&#45;&gt;Node73</title>
-<path fill="none" stroke="midnightblue" d="M3096.78,-616.46C3169.34,-581.47 3272.52,-525.83 3350.5,-460 3369.49,-443.97 3387.53,-423.6 3402.46,-404.73"/>
-<polygon fill="none" stroke="midnightblue" points="3095.15,-613.36 3087.65,-620.84 3098.18,-619.67 3095.15,-613.36"/>
+<path fill="none" stroke="midnightblue" d="M3009.92,-596.37C3061.07,-559.68 3125.6,-510.19 3177.5,-460 3194.92,-443.16 3212.27,-423.11 3227.08,-404.75"/>
+<polygon fill="none" stroke="midnightblue" points="3007.61,-593.72 3001.5,-602.38 3011.67,-599.42 3007.61,-593.72"/>
 </g>
 <!-- Node74 -->
 <g id="node34" class="node">
 <title>Node74</title>
 <g id="a_node34"><a xlink:href="../../de/da4/classpocketmine_1_1item_1_1_melon_seeds.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="3542,-320 3542,-377 3703,-377 3703,-320 3542,-320"/>
-<text text-anchor="middle" x="3622.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\MelonSeeds</text>
-<polyline fill="none" stroke="#bfbfbf" points="3542,-358 3703,-358 "/>
-<text text-anchor="middle" x="3622.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="3542,-339 3703,-339 "/>
-<text text-anchor="start" x="3550" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
+<polygon fill="white" stroke="#bfbfbf" points="3369,-320 3369,-377 3530,-377 3530,-320 3369,-320"/>
+<text text-anchor="middle" x="3449.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\MelonSeeds</text>
+<polyline fill="none" stroke="#bfbfbf" points="3369,-358 3530,-358 "/>
+<text text-anchor="middle" x="3449.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="3369,-339 3530,-339 "/>
+<text text-anchor="start" x="3377" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node74 -->
 <g id="edge33" class="edge">
 <title>Node1&#45;&gt;Node74</title>
-<path fill="none" stroke="midnightblue" d="M3097.58,-637.85C3207.69,-612.18 3397.07,-557.22 3532.5,-460 3563.65,-437.64 3590.08,-401.84 3606.07,-377.08"/>
-<polygon fill="none" stroke="midnightblue" points="3096.47,-634.51 3087.5,-640.17 3098.04,-641.33 3096.47,-634.51"/>
+<path fill="none" stroke="midnightblue" d="M3011.49,-629.71C3104.68,-599.22 3252.14,-542.37 3359.5,-460 3389.73,-436.81 3416.16,-401.53 3432.42,-377.1"/>
+<polygon fill="none" stroke="midnightblue" points="3010.23,-626.44 3001.8,-632.85 3012.39,-633.1 3010.23,-626.44"/>
 </g>
 <!-- Node75 -->
 <g id="node35" class="node">
 <title>Node75</title>
 <g id="a_node35"><a xlink:href="../../dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="3721.5,-298 3721.5,-399 3877.5,-399 3877.5,-298 3721.5,-298"/>
-<text text-anchor="middle" x="3799.5" y="-387" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\MilkBucket</text>
-<polyline fill="none" stroke="#bfbfbf" points="3721.5,-380 3877.5,-380 "/>
-<text text-anchor="middle" x="3799.5" y="-368" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="3721.5,-361 3877.5,-361 "/>
-<text text-anchor="start" x="3729.5" y="-349" font-family="Helvetica,sans-Serif" font-size="10.00">+ canStartUsingItem()</text>
-<text text-anchor="start" x="3729.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAdditionalEffects()</text>
-<text text-anchor="start" x="3729.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
-<text text-anchor="start" x="3729.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
-<text text-anchor="start" x="3729.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
+<polygon fill="white" stroke="#bfbfbf" points="3548.5,-298 3548.5,-399 3704.5,-399 3704.5,-298 3548.5,-298"/>
+<text text-anchor="middle" x="3626.5" y="-387" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\MilkBucket</text>
+<polyline fill="none" stroke="#bfbfbf" points="3548.5,-380 3704.5,-380 "/>
+<text text-anchor="middle" x="3626.5" y="-368" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="3548.5,-361 3704.5,-361 "/>
+<text text-anchor="start" x="3556.5" y="-349" font-family="Helvetica,sans-Serif" font-size="10.00">+ canStartUsingItem()</text>
+<text text-anchor="start" x="3556.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAdditionalEffects()</text>
+<text text-anchor="start" x="3556.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
+<text text-anchor="start" x="3556.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
+<text text-anchor="start" x="3556.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node75 -->
 <g id="edge34" class="edge">
 <title>Node1&#45;&gt;Node75</title>
-<path fill="none" stroke="midnightblue" d="M3097.88,-648.77C3238.94,-633.69 3517.12,-588.77 3711.5,-460 3734.91,-444.49 3754.98,-420.75 3770.02,-399.24"/>
-<polygon fill="none" stroke="midnightblue" points="3097.13,-645.33 3087.55,-649.84 3097.86,-652.29 3097.13,-645.33"/>
+<path fill="none" stroke="midnightblue" d="M3011.72,-644.33C3138.38,-624.25 3373.26,-573.81 3538.5,-460 3561.52,-444.14 3581.49,-420.49 3596.56,-399.14"/>
+<polygon fill="none" stroke="midnightblue" points="3011.01,-640.89 3001.67,-645.89 3012.09,-647.81 3011.01,-640.89"/>
 </g>
 <!-- Node76 -->
 <g id="node36" class="node">
 <title>Node76</title>
 <g id="a_node36"><a xlink:href="../../dc/dac/classpocketmine_1_1item_1_1_minecart.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="3896,-320 3896,-377 4041,-377 4041,-320 3896,-320"/>
-<text text-anchor="middle" x="3968.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Minecart</text>
-<polyline fill="none" stroke="#bfbfbf" points="3896,-358 4041,-358 "/>
-<text text-anchor="middle" x="3968.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="3896,-339 4041,-339 "/>
-<text text-anchor="start" x="3904" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
+<polygon fill="white" stroke="#bfbfbf" points="3723,-320 3723,-377 3868,-377 3868,-320 3723,-320"/>
+<text text-anchor="middle" x="3795.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Minecart</text>
+<polyline fill="none" stroke="#bfbfbf" points="3723,-358 3868,-358 "/>
+<text text-anchor="middle" x="3795.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="3723,-339 3868,-339 "/>
+<text text-anchor="start" x="3731" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node76 -->
 <g id="edge35" class="edge">
 <title>Node1&#45;&gt;Node76</title>
-<path fill="none" stroke="midnightblue" d="M3097.69,-656.02C3265.65,-652.01 3634.59,-623.61 3886.5,-460 3917.95,-439.57 3941.67,-402.64 3955.31,-377.13"/>
-<polygon fill="none" stroke="midnightblue" points="3097.57,-652.52 3087.65,-656.24 3097.72,-659.52 3097.57,-652.52"/>
+<path fill="none" stroke="midnightblue" d="M3012.08,-653.15C3167.44,-644.25 3491.5,-607.89 3713.5,-460 3744.52,-439.34 3768.18,-402.83 3781.94,-377.45"/>
+<polygon fill="none" stroke="midnightblue" points="3011.43,-649.68 3001.64,-653.72 3011.82,-656.67 3011.43,-649.68"/>
 </g>
 <!-- Node77 -->
 <g id="node37" class="node">
 <title>Node77</title>
 <g id="a_node37"><a xlink:href="../../d3/d77/classpocketmine_1_1item_1_1_painting_item.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="4059.5,-320 4059.5,-377 4223.5,-377 4223.5,-320 4059.5,-320"/>
-<text text-anchor="middle" x="4141.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\PaintingItem</text>
-<polyline fill="none" stroke="#bfbfbf" points="4059.5,-358 4223.5,-358 "/>
-<text text-anchor="middle" x="4141.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="4059.5,-339 4223.5,-339 "/>
-<text text-anchor="start" x="4067.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteractBlock()</text>
+<polygon fill="white" stroke="#bfbfbf" points="3886.5,-320 3886.5,-377 4050.5,-377 4050.5,-320 3886.5,-320"/>
+<text text-anchor="middle" x="3968.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\PaintingItem</text>
+<polyline fill="none" stroke="#bfbfbf" points="3886.5,-358 4050.5,-358 "/>
+<text text-anchor="middle" x="3968.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="3886.5,-339 4050.5,-339 "/>
+<text text-anchor="start" x="3894.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteractBlock()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node77 -->
 <g id="edge36" class="edge">
 <title>Node1&#45;&gt;Node77</title>
-<path fill="none" stroke="midnightblue" d="M3097.51,-647.04C3318.71,-623.56 3887.2,-555.38 4049.5,-460 4083.29,-440.14 4110.24,-403.08 4126.02,-377.39"/>
-<polygon fill="none" stroke="midnightblue" points="3097.14,-643.56 3087.56,-648.09 3097.87,-650.52 3097.14,-643.56"/>
+<path fill="none" stroke="midnightblue" d="M3011.77,-656.76C3189.33,-654.38 3594.03,-629.15 3876.5,-460 3910.12,-439.86 3937.11,-402.87 3952.95,-377.26"/>
+<polygon fill="none" stroke="midnightblue" points="3011.64,-653.26 3001.69,-656.88 3011.72,-660.26 3011.64,-653.26"/>
 </g>
 <!-- Node78 -->
 <g id="node38" class="node">
 <title>Node78</title>
 <g id="a_node38"><a xlink:href="../../d3/d00/classpocketmine_1_1item_1_1_potion.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="4241.5,-287 4241.5,-410 4375.5,-410 4375.5,-287 4241.5,-287"/>
-<text text-anchor="middle" x="4308.5" y="-398" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Potion</text>
-<polyline fill="none" stroke="#bfbfbf" points="4241.5,-391 4375.5,-391 "/>
-<text text-anchor="middle" x="4308.5" y="-379" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="4241.5,-372 4375.5,-372 "/>
-<text text-anchor="start" x="4249.5" y="-360" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="4249.5" y="-349" font-family="Helvetica,sans-Serif" font-size="10.00">+ canStartUsingItem()</text>
-<text text-anchor="start" x="4249.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAdditionalEffects()</text>
-<text text-anchor="start" x="4249.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
-<text text-anchor="start" x="4249.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
-<text text-anchor="start" x="4249.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
-<text text-anchor="start" x="4249.5" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
+<polygon fill="white" stroke="#bfbfbf" points="4068.5,-287 4068.5,-410 4202.5,-410 4202.5,-287 4068.5,-287"/>
+<text text-anchor="middle" x="4135.5" y="-398" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Potion</text>
+<polyline fill="none" stroke="#bfbfbf" points="4068.5,-391 4202.5,-391 "/>
+<text text-anchor="middle" x="4135.5" y="-379" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="4068.5,-372 4202.5,-372 "/>
+<text text-anchor="start" x="4076.5" y="-360" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="4076.5" y="-349" font-family="Helvetica,sans-Serif" font-size="10.00">+ canStartUsingItem()</text>
+<text text-anchor="start" x="4076.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAdditionalEffects()</text>
+<text text-anchor="start" x="4076.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
+<text text-anchor="start" x="4076.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
+<text text-anchor="start" x="4076.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
+<text text-anchor="start" x="4076.5" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node78 -->
 <g id="edge37" class="edge">
 <title>Node1&#45;&gt;Node78</title>
-<path fill="none" stroke="midnightblue" d="M3097.98,-650.75C3347.02,-634.74 4042.4,-580.12 4232.5,-460 4251.69,-447.87 4267.29,-428.96 4279.24,-410.18"/>
-<polygon fill="none" stroke="midnightblue" points="3097.64,-647.26 3087.88,-651.39 3098.08,-654.25 3097.64,-647.26"/>
+<path fill="none" stroke="midnightblue" d="M3012.17,-649.51C3248.98,-630.97 3884.86,-571.82 4059.5,-460 4078.62,-447.76 4094.2,-428.81 4106.16,-410.05"/>
+<polygon fill="none" stroke="midnightblue" points="3011.57,-646.04 3001.88,-650.31 3012.12,-653.02 3011.57,-646.04"/>
 </g>
 <!-- Node79 -->
 <g id="node39" class="node">
 <title>Node79</title>
 <g id="a_node39"><a xlink:href="../../d4/ddb/classpocketmine_1_1item_1_1_projectile_item.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="orangered" points="4393.5,-309 4393.5,-388 4563.5,-388 4563.5,-309 4393.5,-309"/>
-<text text-anchor="middle" x="4478.5" y="-376" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\ProjectileItem</text>
-<polyline fill="none" stroke="orangered" points="4393.5,-369 4563.5,-369 "/>
-<text text-anchor="middle" x="4478.5" y="-357" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="orangered" points="4393.5,-350 4563.5,-350 "/>
-<text text-anchor="start" x="4401.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ getThrowForce()</text>
-<text text-anchor="start" x="4401.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ onClickAir()</text>
-<text text-anchor="start" x="4401.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00"># createEntity()</text>
+<polygon fill="white" stroke="orangered" points="4220.5,-309 4220.5,-388 4390.5,-388 4390.5,-309 4220.5,-309"/>
+<text text-anchor="middle" x="4305.5" y="-376" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\ProjectileItem</text>
+<polyline fill="none" stroke="orangered" points="4220.5,-369 4390.5,-369 "/>
+<text text-anchor="middle" x="4305.5" y="-357" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="orangered" points="4220.5,-350 4390.5,-350 "/>
+<text text-anchor="start" x="4228.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ getThrowForce()</text>
+<text text-anchor="start" x="4228.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ onClickAir()</text>
+<text text-anchor="start" x="4228.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00"># createEntity()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node79 -->
 <g id="edge38" class="edge">
 <title>Node1&#45;&gt;Node79</title>
-<path fill="none" stroke="midnightblue" d="M3097.93,-651.49C3366.45,-636.68 4160.85,-583.25 4384.5,-460 4414.72,-443.35 4439.52,-412.87 4456.04,-388.14"/>
-<polygon fill="none" stroke="midnightblue" points="3097.63,-648 3087.84,-652.04 3098.02,-654.99 3097.63,-648"/>
+<path fill="none" stroke="midnightblue" d="M3011.59,-650.54C3268.16,-633.57 4003.7,-575.8 4211.5,-460 4241.64,-443.2 4266.44,-412.74 4282.99,-388.04"/>
+<polygon fill="none" stroke="midnightblue" points="3011.31,-647.05 3001.56,-651.2 3011.77,-654.04 3011.31,-647.05"/>
 </g>
 <!-- Node85 -->
 <g id="node40" class="node">
 <title>Node85</title>
 <g id="a_node40"><a xlink:href="../../d5/dad/classpocketmine_1_1item_1_1_pumpkin_seeds.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="4581.5,-320 4581.5,-377 4755.5,-377 4755.5,-320 4581.5,-320"/>
-<text text-anchor="middle" x="4668.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\PumpkinSeeds</text>
-<polyline fill="none" stroke="#bfbfbf" points="4581.5,-358 4755.5,-358 "/>
-<text text-anchor="middle" x="4668.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="4581.5,-339 4755.5,-339 "/>
-<text text-anchor="start" x="4589.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
+<polygon fill="white" stroke="#bfbfbf" points="4408.5,-320 4408.5,-377 4582.5,-377 4582.5,-320 4408.5,-320"/>
+<text text-anchor="middle" x="4495.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\PumpkinSeeds</text>
+<polyline fill="none" stroke="#bfbfbf" points="4408.5,-358 4582.5,-358 "/>
+<text text-anchor="middle" x="4495.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="4408.5,-339 4582.5,-339 "/>
+<text text-anchor="start" x="4416.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node85 -->
 <g id="edge39" class="edge">
 <title>Node1&#45;&gt;Node85</title>
-<path fill="none" stroke="midnightblue" d="M3097.73,-653.12C3389.83,-642.43 4313.46,-598.2 4572.5,-460 4607.93,-441.1 4636.19,-403.44 4652.64,-377.37"/>
-<polygon fill="none" stroke="midnightblue" points="3097.48,-649.63 3087.61,-653.49 3097.73,-656.62 3097.48,-649.63"/>
+<path fill="none" stroke="midnightblue" d="M3012.03,-652.36C3293.57,-639.65 4156.64,-590.7 4399.5,-460 4434.86,-440.97 4463.14,-403.34 4479.61,-377.32"/>
+<polygon fill="none" stroke="midnightblue" points="3011.69,-648.87 3001.86,-652.82 3012.01,-655.87 3011.69,-648.87"/>
 </g>
 <!-- Node86 -->
 <g id="node41" class="node">
 <title>Node86</title>
 <g id="a_node41"><a xlink:href="../../d8/d29/classpocketmine_1_1item_1_1_record.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="4773.5,-309 4773.5,-388 4909.5,-388 4909.5,-309 4773.5,-309"/>
-<text text-anchor="middle" x="4841.5" y="-376" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Record</text>
-<polyline fill="none" stroke="#bfbfbf" points="4773.5,-369 4909.5,-369 "/>
-<text text-anchor="middle" x="4841.5" y="-357" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="4773.5,-350 4909.5,-350 "/>
-<text text-anchor="start" x="4781.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="4781.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
-<text text-anchor="start" x="4781.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRecordType()</text>
+<polygon fill="white" stroke="#bfbfbf" points="4600.5,-309 4600.5,-388 4736.5,-388 4736.5,-309 4600.5,-309"/>
+<text text-anchor="middle" x="4668.5" y="-376" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Record</text>
+<polyline fill="none" stroke="#bfbfbf" points="4600.5,-369 4736.5,-369 "/>
+<text text-anchor="middle" x="4668.5" y="-357" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="4600.5,-350 4736.5,-350 "/>
+<text text-anchor="start" x="4608.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="4608.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
+<text text-anchor="start" x="4608.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRecordType()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node86 -->
 <g id="edge40" class="edge">
 <title>Node1&#45;&gt;Node86</title>
-<path fill="none" stroke="midnightblue" d="M3097.54,-655.6C3413.63,-652.72 4478.19,-630.33 4764.5,-460 4792.13,-443.56 4812.29,-412.9 4825.04,-388.04"/>
-<polygon fill="none" stroke="midnightblue" points="3097.48,-652.1 3087.51,-655.68 3097.54,-659.1 3097.48,-652.1"/>
+<path fill="none" stroke="midnightblue" d="M3011.75,-655C3317.84,-650.15 4321.04,-621.96 4591.5,-460 4618.98,-443.54 4639.1,-413.05 4651.87,-388.26"/>
+<polygon fill="none" stroke="midnightblue" points="3011.54,-651.51 3001.59,-655.16 3011.64,-658.51 3011.54,-651.51"/>
 </g>
 <!-- Node87 -->
 <g id="node42" class="node">
 <title>Node87</title>
 <g id="a_node42"><a xlink:href="../../dc/dff/classpocketmine_1_1item_1_1_redstone.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="4927.5,-320 4927.5,-377 5075.5,-377 5075.5,-320 4927.5,-320"/>
-<text text-anchor="middle" x="5001.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Redstone</text>
-<polyline fill="none" stroke="#bfbfbf" points="4927.5,-358 5075.5,-358 "/>
-<text text-anchor="middle" x="5001.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="4927.5,-339 5075.5,-339 "/>
-<text text-anchor="start" x="4935.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
+<polygon fill="white" stroke="#bfbfbf" points="4754.5,-320 4754.5,-377 4902.5,-377 4902.5,-320 4754.5,-320"/>
+<text text-anchor="middle" x="4828.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Redstone</text>
+<polyline fill="none" stroke="#bfbfbf" points="4754.5,-358 4902.5,-358 "/>
+<text text-anchor="middle" x="4828.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="4754.5,-339 4902.5,-339 "/>
+<text text-anchor="start" x="4762.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node87 -->
 <g id="edge41" class="edge">
 <title>Node1&#45;&gt;Node87</title>
-<path fill="none" stroke="midnightblue" d="M3097.68,-656.15C3431.04,-655.32 4601.03,-639.42 4918.5,-460 4951.5,-441.35 4975.38,-403.63 4988.83,-377.48"/>
-<polygon fill="none" stroke="midnightblue" points="3097.58,-652.65 3087.59,-656.17 3097.6,-659.65 3097.58,-652.65"/>
+<path fill="none" stroke="midnightblue" d="M3011.93,-655.65C3335.79,-652.99 4444.1,-631.31 4745.5,-460 4778.46,-441.27 4802.35,-403.57 4815.81,-377.45"/>
+<polygon fill="none" stroke="midnightblue" points="3011.63,-652.15 3001.66,-655.73 3011.69,-659.15 3011.63,-652.15"/>
 </g>
 <!-- Node88 -->
 <g id="node43" class="node">
 <title>Node88</title>
 <g id="a_node43"><a xlink:href="../../df/dae/classpocketmine_1_1item_1_1_skull.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="5094,-309 5094,-388 5219,-388 5219,-309 5094,-309"/>
-<text text-anchor="middle" x="5156.5" y="-376" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Skull</text>
-<polyline fill="none" stroke="#bfbfbf" points="5094,-369 5219,-369 "/>
-<text text-anchor="middle" x="5156.5" y="-357" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="5094,-350 5219,-350 "/>
-<text text-anchor="start" x="5102" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="5102" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
-<text text-anchor="start" x="5102" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSkullType()</text>
+<polygon fill="white" stroke="#bfbfbf" points="4921,-309 4921,-388 5046,-388 5046,-309 4921,-309"/>
+<text text-anchor="middle" x="4983.5" y="-376" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Skull</text>
+<polyline fill="none" stroke="#bfbfbf" points="4921,-369 5046,-369 "/>
+<text text-anchor="middle" x="4983.5" y="-357" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="4921,-350 5046,-350 "/>
+<text text-anchor="start" x="4929" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="4929" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
+<text text-anchor="start" x="4929" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSkullType()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node88 -->
 <g id="edge42" class="edge">
 <title>Node1&#45;&gt;Node88</title>
-<path fill="none" stroke="midnightblue" d="M3097.76,-652.13C3473.14,-635.23 4912.28,-564.1 5084.5,-460 5111.44,-443.71 5130.21,-413.04 5141.82,-388.14"/>
-<polygon fill="none" stroke="midnightblue" points="3097.59,-648.63 3087.76,-652.58 3097.91,-655.62 3097.59,-648.63"/>
+<path fill="none" stroke="midnightblue" d="M3011.63,-651.74C3376.82,-633.69 4747.19,-559.79 4911.5,-460 4938.41,-443.66 4957.18,-412.99 4968.8,-388.11"/>
+<polygon fill="none" stroke="midnightblue" points="3011.45,-648.25 3001.64,-652.23 3011.8,-655.24 3011.45,-648.25"/>
 </g>
 <!-- Node89 -->
 <g id="node44" class="node">
 <title>Node89</title>
 <g id="a_node44"><a xlink:href="../../d9/d7d/classpocketmine_1_1item_1_1_spawn_egg.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="5237.5,-314.5 5237.5,-382.5 5389.5,-382.5 5389.5,-314.5 5237.5,-314.5"/>
-<text text-anchor="middle" x="5313.5" y="-370.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\SpawnEgg</text>
-<polyline fill="none" stroke="#bfbfbf" points="5237.5,-363.5 5389.5,-363.5 "/>
-<text text-anchor="middle" x="5313.5" y="-351.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="5237.5,-344.5 5389.5,-344.5 "/>
-<text text-anchor="start" x="5245.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteractBlock()</text>
-<text text-anchor="start" x="5245.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00"># createEntity()</text>
+<polygon fill="white" stroke="#bfbfbf" points="5064.5,-314.5 5064.5,-382.5 5216.5,-382.5 5216.5,-314.5 5064.5,-314.5"/>
+<text text-anchor="middle" x="5140.5" y="-370.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\SpawnEgg</text>
+<polyline fill="none" stroke="#bfbfbf" points="5064.5,-363.5 5216.5,-363.5 "/>
+<text text-anchor="middle" x="5140.5" y="-351.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="5064.5,-344.5 5216.5,-344.5 "/>
+<text text-anchor="start" x="5072.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteractBlock()</text>
+<text text-anchor="start" x="5072.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00"># createEntity()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node89 -->
 <g id="edge43" class="edge">
 <title>Node1&#45;&gt;Node89</title>
-<path fill="none" stroke="midnightblue" d="M3097.77,-652.31C3488.58,-635.61 5037.77,-563.35 5227.5,-460 5259.09,-442.79 5282.9,-408.55 5297.37,-382.72"/>
-<polygon fill="none" stroke="midnightblue" points="3097.49,-648.82 3087.64,-652.74 3097.78,-655.82 3097.49,-648.82"/>
+<path fill="none" stroke="midnightblue" d="M3011.7,-651.97C3392.76,-634.22 4872.88,-559.35 5054.5,-460 5086.06,-442.73 5109.88,-408.5 5124.35,-382.69"/>
+<polygon fill="none" stroke="midnightblue" points="3011.38,-648.49 3001.56,-652.45 3011.71,-655.48 3011.38,-648.49"/>
 </g>
 <!-- Node90 -->
 <g id="node45" class="node">
 <title>Node90</title>
 <g id="a_node45"><a xlink:href="../../db/db5/classpocketmine_1_1item_1_1_stick.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="5407.5,-320 5407.5,-377 5533.5,-377 5533.5,-320 5407.5,-320"/>
-<text text-anchor="middle" x="5470.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Stick</text>
-<polyline fill="none" stroke="#bfbfbf" points="5407.5,-358 5533.5,-358 "/>
-<text text-anchor="middle" x="5470.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="5407.5,-339 5533.5,-339 "/>
-<text text-anchor="start" x="5415.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFuelTime()</text>
+<polygon fill="white" stroke="#bfbfbf" points="5234.5,-320 5234.5,-377 5360.5,-377 5360.5,-320 5234.5,-320"/>
+<text text-anchor="middle" x="5297.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Stick</text>
+<polyline fill="none" stroke="#bfbfbf" points="5234.5,-358 5360.5,-358 "/>
+<text text-anchor="middle" x="5297.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="5234.5,-339 5360.5,-339 "/>
+<text text-anchor="start" x="5242.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFuelTime()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node90 -->
 <g id="edge44" class="edge">
 <title>Node1&#45;&gt;Node90</title>
-<path fill="none" stroke="midnightblue" d="M3097.7,-653.3C3507.42,-640.31 5197.58,-579.78 5398.5,-460 5429.77,-441.36 5449.97,-403.25 5460.79,-377.04"/>
-<polygon fill="none" stroke="midnightblue" points="3097.56,-649.81 3087.68,-653.62 3097.79,-656.8 3097.56,-649.81"/>
+<path fill="none" stroke="midnightblue" d="M3011.72,-653.01C3412.16,-638.98 5032.55,-575.43 5225.5,-460 5256.74,-441.31 5276.95,-403.21 5287.78,-377.02"/>
+<polygon fill="none" stroke="midnightblue" points="3011.51,-649.52 3001.63,-653.36 3011.75,-656.51 3011.51,-649.52"/>
 </g>
 <!-- Node91 -->
 <g id="node46" class="node">
 <title>Node91</title>
 <g id="a_node46"><a xlink:href="../../df/db6/classpocketmine_1_1item_1_1_string_item.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="5552,-320 5552,-377 5705,-377 5705,-320 5552,-320"/>
-<text text-anchor="middle" x="5628.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\StringItem</text>
-<polyline fill="none" stroke="#bfbfbf" points="5552,-358 5705,-358 "/>
-<text text-anchor="middle" x="5628.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="5552,-339 5705,-339 "/>
-<text text-anchor="start" x="5560" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
+<polygon fill="white" stroke="#bfbfbf" points="5379,-320 5379,-377 5532,-377 5532,-320 5379,-320"/>
+<text text-anchor="middle" x="5455.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\StringItem</text>
+<polyline fill="none" stroke="#bfbfbf" points="5379,-358 5532,-358 "/>
+<text text-anchor="middle" x="5455.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="5379,-339 5532,-339 "/>
+<text text-anchor="start" x="5387" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node91 -->
 <g id="edge45" class="edge">
 <title>Node1&#45;&gt;Node91</title>
-<path fill="none" stroke="midnightblue" d="M3097.56,-653.36C3521.46,-640.24 5323.25,-577.88 5542.5,-460 5576.54,-441.7 5601.47,-403.5 5615.48,-377.19"/>
-<polygon fill="none" stroke="midnightblue" points="3097.39,-649.87 3087.51,-653.67 3097.61,-656.86 3097.39,-649.87"/>
+<path fill="none" stroke="midnightblue" d="M3011.88,-653.09C3427.32,-639 5158.46,-573.84 5369.5,-460 5403.52,-441.65 5428.45,-403.47 5442.47,-377.17"/>
+<polygon fill="none" stroke="midnightblue" points="3011.6,-649.6 3001.72,-653.43 3011.83,-656.59 3011.6,-649.6"/>
 </g>
 <!-- Node92 -->
 <g id="node47" class="node">
 <title>Node92</title>
 <g id="a_node47"><a xlink:href="../../d2/d09/classpocketmine_1_1item_1_1_totem.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="5723.5,-320 5723.5,-377 5855.5,-377 5855.5,-320 5723.5,-320"/>
-<text text-anchor="middle" x="5789.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Totem</text>
-<polyline fill="none" stroke="#bfbfbf" points="5723.5,-358 5855.5,-358 "/>
-<text text-anchor="middle" x="5789.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="5723.5,-339 5855.5,-339 "/>
-<text text-anchor="start" x="5731.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
+<polygon fill="white" stroke="#bfbfbf" points="5550.5,-320 5550.5,-377 5682.5,-377 5682.5,-320 5550.5,-320"/>
+<text text-anchor="middle" x="5616.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Totem</text>
+<polyline fill="none" stroke="#bfbfbf" points="5550.5,-358 5682.5,-358 "/>
+<text text-anchor="middle" x="5616.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="5550.5,-339 5682.5,-339 "/>
+<text text-anchor="start" x="5558.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node92 -->
 <g id="edge46" class="edge">
 <title>Node1&#45;&gt;Node92</title>
-<path fill="none" stroke="midnightblue" d="M3097.92,-654.12C3540.36,-644.22 5483.33,-593.4 5714.5,-460 5746.43,-441.57 5767.63,-403.41 5779.11,-377.13"/>
-<polygon fill="none" stroke="midnightblue" points="3097.67,-650.63 3087.75,-654.35 3097.82,-657.63 3097.67,-650.63"/>
+<path fill="none" stroke="midnightblue" d="M3011.84,-653.9C3445.4,-643.07 5318.36,-589.12 5541.5,-460 5573.41,-441.54 5594.61,-403.38 5606.1,-377.12"/>
+<polygon fill="none" stroke="midnightblue" points="3011.48,-650.4 3001.57,-654.15 3011.65,-657.4 3011.48,-650.4"/>
 </g>
 <!-- Node93 -->
 <g id="node48" class="node">
 <title>Node93</title>
 <g id="a_node48"><a xlink:href="../../d4/d0e/classpocketmine_1_1item_1_1_wheat_seeds.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="5874,-320 5874,-377 6037,-377 6037,-320 5874,-320"/>
-<text text-anchor="middle" x="5955.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\WheatSeeds</text>
-<polyline fill="none" stroke="#bfbfbf" points="5874,-358 6037,-358 "/>
-<text text-anchor="middle" x="5955.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="5874,-339 6037,-339 "/>
-<text text-anchor="start" x="5882" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
+<polygon fill="white" stroke="#bfbfbf" points="5701,-320 5701,-377 5864,-377 5864,-320 5701,-320"/>
+<text text-anchor="middle" x="5782.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\WheatSeeds</text>
+<polyline fill="none" stroke="#bfbfbf" points="5701,-358 5864,-358 "/>
+<text text-anchor="middle" x="5782.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="5701,-339 5864,-339 "/>
+<text text-anchor="start" x="5709" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node93 -->
 <g id="edge47" class="edge">
 <title>Node1&#45;&gt;Node93</title>
-<path fill="none" stroke="midnightblue" d="M3097.75,-654.06C3553.9,-643.56 5613.2,-589.3 5864.5,-460 5899.64,-441.92 5926.23,-403.67 5941.34,-377.28"/>
-<polygon fill="none" stroke="midnightblue" points="3097.51,-650.56 3087.59,-654.29 3097.67,-657.56 3097.51,-650.56"/>
+<path fill="none" stroke="midnightblue" d="M3011.91,-653.85C3459.9,-642.5 5448.48,-585.37 5691.5,-460 5726.62,-441.88 5753.22,-403.65 5768.33,-377.27"/>
+<polygon fill="none" stroke="midnightblue" points="3011.53,-650.35 3001.62,-654.11 3011.7,-657.35 3011.53,-650.35"/>
 </g>
 <!-- Node94 -->
 <g id="node49" class="node">
 <title>Node94</title>
 <g id="a_node49"><a xlink:href="../../d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="orangered" points="6055.5,-237.5 6055.5,-459.5 6213.5,-459.5 6213.5,-237.5 6055.5,-237.5"/>
-<text text-anchor="start" x="6063.5" y="-447.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Writable</text>
-<text text-anchor="middle" x="6134.5" y="-436.5" font-family="Helvetica,sans-Serif" font-size="10.00">BookBase</text>
-<polyline fill="none" stroke="orangered" points="6055.5,-429.5 6213.5,-429.5 "/>
-<text text-anchor="start" x="6063.5" y="-417.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_PAGE_PHOTONAME</text>
-<text text-anchor="start" x="6063.5" y="-406.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_PAGE_TEXT</text>
-<text text-anchor="start" x="6063.5" y="-395.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_PAGES</text>
-<polyline fill="none" stroke="orangered" points="6055.5,-388.5 6213.5,-388.5 "/>
-<text text-anchor="start" x="6063.5" y="-376.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="6063.5" y="-365.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addPage()</text>
-<text text-anchor="start" x="6063.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ deletePage()</text>
-<text text-anchor="start" x="6063.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
-<text text-anchor="start" x="6063.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPages()</text>
-<text text-anchor="start" x="6063.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPageText()</text>
-<text text-anchor="start" x="6063.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ insertPage()</text>
-<text text-anchor="start" x="6063.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ pageExists()</text>
-<text text-anchor="start" x="6063.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPages()</text>
-<text text-anchor="start" x="6063.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPageText()</text>
-<text text-anchor="start" x="6063.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ swapPages()</text>
-<text text-anchor="start" x="6063.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
-<text text-anchor="start" x="6063.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeCompoundTag()</text>
+<polygon fill="white" stroke="orangered" points="5882.5,-237.5 5882.5,-459.5 6040.5,-459.5 6040.5,-237.5 5882.5,-237.5"/>
+<text text-anchor="start" x="5890.5" y="-447.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Writable</text>
+<text text-anchor="middle" x="5961.5" y="-436.5" font-family="Helvetica,sans-Serif" font-size="10.00">BookBase</text>
+<polyline fill="none" stroke="orangered" points="5882.5,-429.5 6040.5,-429.5 "/>
+<text text-anchor="start" x="5890.5" y="-417.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_PAGE_PHOTONAME</text>
+<text text-anchor="start" x="5890.5" y="-406.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_PAGE_TEXT</text>
+<text text-anchor="start" x="5890.5" y="-395.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_PAGES</text>
+<polyline fill="none" stroke="orangered" points="5882.5,-388.5 6040.5,-388.5 "/>
+<text text-anchor="start" x="5890.5" y="-376.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="5890.5" y="-365.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addPage()</text>
+<text text-anchor="start" x="5890.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ deletePage()</text>
+<text text-anchor="start" x="5890.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
+<text text-anchor="start" x="5890.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPages()</text>
+<text text-anchor="start" x="5890.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPageText()</text>
+<text text-anchor="start" x="5890.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ insertPage()</text>
+<text text-anchor="start" x="5890.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ pageExists()</text>
+<text text-anchor="start" x="5890.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPages()</text>
+<text text-anchor="start" x="5890.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPageText()</text>
+<text text-anchor="start" x="5890.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ swapPages()</text>
+<text text-anchor="start" x="5890.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
+<text text-anchor="start" x="5890.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeCompoundTag()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node94 -->
 <g id="edge48" class="edge">
 <title>Node1&#45;&gt;Node94</title>
-<path fill="none" stroke="midnightblue" d="M3098.02,-654.52C3572.21,-646.11 5779.1,-599.67 6046.5,-460 6049.54,-458.41 6052.52,-456.66 6055.42,-454.78"/>
-<polygon fill="none" stroke="midnightblue" points="3097.75,-651.02 3087.81,-654.7 3097.87,-658.02 3097.75,-651.02"/>
+<path fill="none" stroke="midnightblue" d="M3011.73,-654.34C3477.08,-645.14 5614.28,-595.71 5873.5,-460 5876.54,-458.41 5879.51,-456.66 5882.42,-454.78"/>
+<polygon fill="none" stroke="midnightblue" points="3011.63,-650.84 3001.7,-654.54 3011.77,-657.84 3011.63,-650.84"/>
 </g>
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="2961.5,-854.5 2961.5,-911.5 3055.5,-911.5 3055.5,-854.5 2961.5,-854.5"/>
-<text text-anchor="middle" x="3008.5" y="-899.5" font-family="Helvetica,sans-Serif" font-size="10.00">JsonSerializable</text>
-<polyline fill="none" stroke="#bfbfbf" points="2961.5,-892.5 3055.5,-892.5 "/>
-<text text-anchor="middle" x="3008.5" y="-880.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="2961.5,-873.5 3055.5,-873.5 "/>
-<text text-anchor="middle" x="3008.5" y="-861.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="#bfbfbf" points="2875.5,-854.5 2875.5,-911.5 2969.5,-911.5 2969.5,-854.5 2875.5,-854.5"/>
+<text text-anchor="middle" x="2922.5" y="-899.5" font-family="Helvetica,sans-Serif" font-size="10.00">JsonSerializable</text>
+<polyline fill="none" stroke="#bfbfbf" points="2875.5,-892.5 2969.5,-892.5 "/>
+<text text-anchor="middle" x="2922.5" y="-880.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="2875.5,-873.5 2969.5,-873.5 "/>
+<text text-anchor="middle" x="2922.5" y="-861.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
 <title>Node2&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M3008.5,-843.91C3008.5,-836.02 3008.5,-827.25 3008.5,-817.93"/>
-<polygon fill="none" stroke="midnightblue" points="3005,-844.08 3008.5,-854.08 3012,-844.08 3005,-844.08"/>
+<path fill="none" stroke="midnightblue" d="M2922.5,-843.91C2922.5,-836.02 2922.5,-827.25 2922.5,-817.93"/>
+<polygon fill="none" stroke="midnightblue" points="2919,-844.08 2922.5,-854.08 2926,-844.08 2919,-844.08"/>
 </g>
 <!-- Node17 -->
 <g id="node17" class="node">
 <title>Node17</title>
 <g id="a_node17"><a xlink:href="../../db/d85/classpocketmine_1_1item_1_1_armor.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="1805,-0.5 1805,-200.5 2002,-200.5 2002,-0.5 1805,-0.5"/>
-<text text-anchor="middle" x="1903.5" y="-188.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Armor</text>
-<polyline fill="none" stroke="#bfbfbf" points="1805,-181.5 2002,-181.5 "/>
-<text text-anchor="start" x="1813" y="-169.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_CUSTOM_COLOR</text>
-<text text-anchor="start" x="1813" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $customColor</text>
-<polyline fill="none" stroke="#bfbfbf" points="1805,-151.5 2002,-151.5 "/>
-<text text-anchor="start" x="1813" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="1813" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getArmorSlot()</text>
-<text text-anchor="start" x="1813" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCustomColor()</text>
-<text text-anchor="start" x="1813" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDefensePoints()</text>
-<text text-anchor="start" x="1813" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEnchantmentProtection</text>
-<text text-anchor="start" x="1813" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">Factor()</text>
-<text text-anchor="start" x="1813" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxDurability()</text>
-<text text-anchor="start" x="1813" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
-<text text-anchor="start" x="1813" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onClickAir()</text>
-<text text-anchor="start" x="1813" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setCustomColor()</text>
-<text text-anchor="start" x="1813" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
-<text text-anchor="start" x="1813" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getUnbreakingDamageReduction()</text>
-<text text-anchor="start" x="1813" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeCompoundTag()</text>
+<polygon fill="white" stroke="#bfbfbf" points="1623,-0.5 1623,-200.5 1820,-200.5 1820,-0.5 1623,-0.5"/>
+<text text-anchor="middle" x="1721.5" y="-188.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Armor</text>
+<polyline fill="none" stroke="#bfbfbf" points="1623,-181.5 1820,-181.5 "/>
+<text text-anchor="start" x="1631" y="-169.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_CUSTOM_COLOR</text>
+<text text-anchor="start" x="1631" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $customColor</text>
+<polyline fill="none" stroke="#bfbfbf" points="1623,-151.5 1820,-151.5 "/>
+<text text-anchor="start" x="1631" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="1631" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getArmorSlot()</text>
+<text text-anchor="start" x="1631" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCustomColor()</text>
+<text text-anchor="start" x="1631" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDefensePoints()</text>
+<text text-anchor="start" x="1631" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEnchantmentProtection</text>
+<text text-anchor="start" x="1631" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">Factor()</text>
+<text text-anchor="start" x="1631" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxDurability()</text>
+<text text-anchor="start" x="1631" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
+<text text-anchor="start" x="1631" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onClickAir()</text>
+<text text-anchor="start" x="1631" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setCustomColor()</text>
+<text text-anchor="start" x="1631" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
+<text text-anchor="start" x="1631" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getUnbreakingDamageReduction()</text>
+<text text-anchor="start" x="1631" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeCompoundTag()</text>
 </a>
 </g>
 </g>
 <!-- Node16&#45;&gt;Node17 -->
 <g id="edge16" class="edge">
 <title>Node16&#45;&gt;Node17</title>
-<path fill="none" stroke="midnightblue" d="M2021.63,-251.29C2008.53,-234.68 1994.89,-217.39 1981.73,-200.7"/>
-<polygon fill="none" stroke="midnightblue" points="2019.07,-253.7 2028.01,-259.38 2024.57,-249.36 2019.07,-253.7"/>
+<path fill="none" stroke="midnightblue" d="M2013.26,-252.79C2005.63,-246.92 1997.67,-241.56 1989.5,-237 1925.45,-201.31 1893.38,-235.15 1828.5,-201 1825.69,-199.52 1822.91,-197.95 1820.14,-196.3"/>
+<polygon fill="none" stroke="midnightblue" points="2011.44,-255.81 2021.42,-259.34 2015.82,-250.35 2011.44,-255.81"/>
 </g>
 <!-- Node18 -->
 <g id="node18" class="node">
 <title>Node18</title>
-<g id="a_node18"><a xlink:href="../../da/de7/classpocketmine_1_1item_1_1_tool.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="orangered" points="2020,-61 2020,-140 2175,-140 2175,-61 2020,-61"/>
-<text text-anchor="middle" x="2097.5" y="-128" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Tool</text>
-<polyline fill="none" stroke="orangered" points="2020,-121 2175,-121 "/>
-<text text-anchor="middle" x="2097.5" y="-109" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="orangered" points="2020,-102 2175,-102 "/>
-<text text-anchor="start" x="2028" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
-<text text-anchor="start" x="2028" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMiningEfficiency()</text>
-<text text-anchor="start" x="2028" y="-68" font-family="Helvetica,sans-Serif" font-size="10.00"># getBaseMiningEfficiency()</text>
+<g id="a_node18"><a xlink:href="../../d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="1838,-66.5 1838,-134.5 1993,-134.5 1993,-66.5 1838,-66.5"/>
+<text text-anchor="middle" x="1915.5" y="-122.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\FishingRod</text>
+<polyline fill="none" stroke="#bfbfbf" points="1838,-115.5 1993,-115.5 "/>
+<text text-anchor="middle" x="1915.5" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="1838,-96.5 1993,-96.5 "/>
+<text text-anchor="start" x="1846" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxDurability()</text>
+<text text-anchor="start" x="1846" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
 </a>
 </g>
 </g>
 <!-- Node16&#45;&gt;Node18 -->
 <g id="edge17" class="edge">
 <title>Node16&#45;&gt;Node18</title>
-<path fill="none" stroke="midnightblue" d="M2097.5,-249.24C2097.5,-211.06 2097.5,-169.57 2097.5,-140.3"/>
-<polygon fill="none" stroke="midnightblue" points="2094,-249.38 2097.5,-259.38 2101,-249.38 2094,-249.38"/>
+<path fill="none" stroke="midnightblue" d="M2026.25,-251.2C1995.75,-209.97 1962.13,-164.53 1940.03,-134.65"/>
+<polygon fill="none" stroke="midnightblue" points="2023.55,-253.43 2032.31,-259.38 2029.17,-249.26 2023.55,-253.43"/>
+</g>
+<!-- Node19 -->
+<g id="node19" class="node">
+<title>Node19</title>
+<g id="a_node19"><a xlink:href="../../da/de7/classpocketmine_1_1item_1_1_tool.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="orangered" points="2011,-61 2011,-140 2166,-140 2166,-61 2011,-61"/>
+<text text-anchor="middle" x="2088.5" y="-128" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Tool</text>
+<polyline fill="none" stroke="orangered" points="2011,-121 2166,-121 "/>
+<text text-anchor="middle" x="2088.5" y="-109" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="orangered" points="2011,-102 2166,-102 "/>
+<text text-anchor="start" x="2019" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
+<text text-anchor="start" x="2019" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMiningEfficiency()</text>
+<text text-anchor="start" x="2019" y="-68" font-family="Helvetica,sans-Serif" font-size="10.00"># getBaseMiningEfficiency()</text>
+</a>
+</g>
+</g>
+<!-- Node16&#45;&gt;Node19 -->
+<g id="edge18" class="edge">
+<title>Node16&#45;&gt;Node19</title>
+<path fill="none" stroke="midnightblue" d="M2093.91,-249.24C2092.51,-211.06 2090.99,-169.57 2089.92,-140.3"/>
+<polygon fill="none" stroke="midnightblue" points="2090.41,-249.52 2094.28,-259.38 2097.41,-249.26 2090.41,-249.52"/>
 </g>
 <!-- Node32 -->
 <g id="node23" class="node">
 <title>Node32</title>
 <g id="a_node23"><a xlink:href="../../dd/dd1/classpocketmine_1_1item_1_1_apple.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="2193,-66.5 2193,-134.5 2332,-134.5 2332,-66.5 2193,-66.5"/>
-<text text-anchor="middle" x="2262.5" y="-122.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Apple</text>
-<polyline fill="none" stroke="#bfbfbf" points="2193,-115.5 2332,-115.5 "/>
-<text text-anchor="middle" x="2262.5" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="2193,-96.5 2332,-96.5 "/>
-<text text-anchor="start" x="2201" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFoodRestore()</text>
-<text text-anchor="start" x="2201" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSaturationRestore()</text>
+<polygon fill="white" stroke="#bfbfbf" points="2184,-66.5 2184,-134.5 2323,-134.5 2323,-66.5 2184,-66.5"/>
+<text text-anchor="middle" x="2253.5" y="-122.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Apple</text>
+<polyline fill="none" stroke="#bfbfbf" points="2184,-115.5 2323,-115.5 "/>
+<text text-anchor="middle" x="2253.5" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="2184,-96.5 2323,-96.5 "/>
+<text text-anchor="start" x="2192" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFoodRestore()</text>
+<text text-anchor="start" x="2192" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSaturationRestore()</text>
 </a>
 </g>
 </g>
 <!-- Node31&#45;&gt;Node32 -->
 <g id="edge22" class="edge">
 <title>Node31&#45;&gt;Node32</title>
-<path fill="none" stroke="midnightblue" d="M2730.85,-289.03C2718.54,-269.28 2702.1,-249.18 2681.5,-237 2550.69,-159.68 2474.66,-274.2 2341.5,-201 2314.25,-186.02 2293.05,-157.36 2279.5,-134.63"/>
-<polygon fill="none" stroke="midnightblue" points="2727.92,-290.94 2736.04,-297.74 2733.93,-287.36 2727.92,-290.94"/>
+<path fill="none" stroke="midnightblue" d="M2556.71,-289.33C2544.39,-269.94 2528.24,-249.99 2508.5,-237 2441.8,-193.11 2400.54,-242.78 2332.5,-201 2306.37,-184.96 2285.33,-157 2271.55,-134.8"/>
+<polygon fill="none" stroke="midnightblue" points="2553.73,-291.17 2561.93,-297.88 2559.71,-287.52 2553.73,-291.17"/>
 </g>
 <!-- Node33 -->
 <g id="node24" class="node">
 <title>Node33</title>
 <g id="a_node24"><a xlink:href="../../d2/d25/classpocketmine_1_1item_1_1_baked_potato.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="2350.5,-66.5 2350.5,-134.5 2514.5,-134.5 2514.5,-66.5 2350.5,-66.5"/>
-<text text-anchor="middle" x="2432.5" y="-122.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\BakedPotato</text>
-<polyline fill="none" stroke="#bfbfbf" points="2350.5,-115.5 2514.5,-115.5 "/>
-<text text-anchor="middle" x="2432.5" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="2350.5,-96.5 2514.5,-96.5 "/>
-<text text-anchor="start" x="2358.5" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFoodRestore()</text>
-<text text-anchor="start" x="2358.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSaturationRestore()</text>
+<polygon fill="white" stroke="#bfbfbf" points="2341.5,-66.5 2341.5,-134.5 2505.5,-134.5 2505.5,-66.5 2341.5,-66.5"/>
+<text text-anchor="middle" x="2423.5" y="-122.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\BakedPotato</text>
+<polyline fill="none" stroke="#bfbfbf" points="2341.5,-115.5 2505.5,-115.5 "/>
+<text text-anchor="middle" x="2423.5" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="2341.5,-96.5 2505.5,-96.5 "/>
+<text text-anchor="start" x="2349.5" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFoodRestore()</text>
+<text text-anchor="start" x="2349.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSaturationRestore()</text>
 </a>
 </g>
 </g>
 <!-- Node31&#45;&gt;Node33 -->
 <g id="edge23" class="edge">
 <title>Node31&#45;&gt;Node33</title>
-<path fill="none" stroke="midnightblue" d="M2729.23,-289.06C2716.93,-269.85 2700.92,-250.09 2681.5,-237 2621.78,-196.74 2585.75,-237.22 2523.5,-201 2495.38,-184.63 2470.96,-156.71 2454.53,-134.6"/>
-<polygon fill="none" stroke="midnightblue" points="2726.39,-291.14 2734.61,-297.82 2732.36,-287.47 2726.39,-291.14"/>
+<path fill="none" stroke="midnightblue" d="M2547.14,-289.24C2515.38,-241.02 2471.4,-174.24 2445.35,-134.68"/>
+<polygon fill="none" stroke="midnightblue" points="2544.29,-291.29 2552.72,-297.72 2550.14,-287.44 2544.29,-291.29"/>
 </g>
 <!-- Node34 -->
 <g id="node25" class="node">
 <title>Node34</title>
 <g id="a_node25"><a xlink:href="../../d2/dd2/classpocketmine_1_1item_1_1_beetroot.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="2532.5,-66.5 2532.5,-134.5 2676.5,-134.5 2676.5,-66.5 2532.5,-66.5"/>
-<text text-anchor="middle" x="2604.5" y="-122.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Beetroot</text>
-<polyline fill="none" stroke="#bfbfbf" points="2532.5,-115.5 2676.5,-115.5 "/>
-<text text-anchor="middle" x="2604.5" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="2532.5,-96.5 2676.5,-96.5 "/>
-<text text-anchor="start" x="2540.5" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFoodRestore()</text>
-<text text-anchor="start" x="2540.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSaturationRestore()</text>
+<polygon fill="white" stroke="#bfbfbf" points="2523.5,-66.5 2523.5,-134.5 2667.5,-134.5 2667.5,-66.5 2523.5,-66.5"/>
+<text text-anchor="middle" x="2595.5" y="-122.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Beetroot</text>
+<polyline fill="none" stroke="#bfbfbf" points="2523.5,-115.5 2667.5,-115.5 "/>
+<text text-anchor="middle" x="2595.5" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="2523.5,-96.5 2667.5,-96.5 "/>
+<text text-anchor="start" x="2531.5" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFoodRestore()</text>
+<text text-anchor="start" x="2531.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSaturationRestore()</text>
 </a>
 </g>
 </g>
 <!-- Node31&#45;&gt;Node34 -->
 <g id="edge24" class="edge">
 <title>Node31&#45;&gt;Node34</title>
-<path fill="none" stroke="midnightblue" d="M2721.84,-288.94C2691.67,-240.75 2649.98,-174.15 2625.27,-134.68"/>
-<polygon fill="none" stroke="midnightblue" points="2719.06,-291.1 2727.34,-297.72 2725,-287.38 2719.06,-291.1"/>
+<path fill="none" stroke="midnightblue" d="M2587.94,-287.44C2589.9,-239.37 2592.56,-173.74 2594.15,-134.68"/>
+<polygon fill="none" stroke="midnightblue" points="2584.43,-287.58 2587.52,-297.72 2591.43,-287.87 2584.43,-287.58"/>
 </g>
 <!-- Node35 -->
 <g id="node26" class="node">
 <title>Node35</title>
 <g id="a_node26"><a xlink:href="../../df/d75/classpocketmine_1_1item_1_1_beetroot_soup.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="2694.5,-55.5 2694.5,-145.5 2862.5,-145.5 2862.5,-55.5 2694.5,-55.5"/>
-<text text-anchor="middle" x="2778.5" y="-133.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\BeetrootSoup</text>
-<polyline fill="none" stroke="#bfbfbf" points="2694.5,-126.5 2862.5,-126.5 "/>
-<text text-anchor="middle" x="2778.5" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="2694.5,-107.5 2862.5,-107.5 "/>
-<text text-anchor="start" x="2702.5" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFoodRestore()</text>
-<text text-anchor="start" x="2702.5" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
-<text text-anchor="start" x="2702.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
-<text text-anchor="start" x="2702.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSaturationRestore()</text>
+<polygon fill="white" stroke="#bfbfbf" points="2685.5,-55.5 2685.5,-145.5 2853.5,-145.5 2853.5,-55.5 2685.5,-55.5"/>
+<text text-anchor="middle" x="2769.5" y="-133.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\BeetrootSoup</text>
+<polyline fill="none" stroke="#bfbfbf" points="2685.5,-126.5 2853.5,-126.5 "/>
+<text text-anchor="middle" x="2769.5" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="2685.5,-107.5 2853.5,-107.5 "/>
+<text text-anchor="start" x="2693.5" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFoodRestore()</text>
+<text text-anchor="start" x="2693.5" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
+<text text-anchor="start" x="2693.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
+<text text-anchor="start" x="2693.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSaturationRestore()</text>
 </a>
 </g>
 </g>
 <!-- Node31&#45;&gt;Node35 -->
 <g id="edge25" class="edge">
 <title>Node31&#45;&gt;Node35</title>
-<path fill="none" stroke="midnightblue" d="M2763.38,-287.49C2766.94,-243.74 2771.68,-185.43 2774.9,-145.84"/>
-<polygon fill="none" stroke="midnightblue" points="2759.87,-287.47 2762.55,-297.72 2766.85,-288.03 2759.87,-287.47"/>
+<path fill="none" stroke="midnightblue" d="M2624.58,-289.03C2636.22,-272.07 2649.16,-253.65 2661.5,-237 2684.51,-205.94 2711.64,-171.92 2732.94,-145.74"/>
+<polygon fill="none" stroke="midnightblue" points="2621.38,-287.51 2618.63,-297.75 2627.16,-291.46 2621.38,-287.51"/>
 </g>
 <!-- Node36 -->
 <g id="node27" class="node">
 <title>Node36</title>
 <g id="a_node27"><a xlink:href="../../dd/d60/classpocketmine_1_1item_1_1_bread.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="2881,-66.5 2881,-134.5 3020,-134.5 3020,-66.5 2881,-66.5"/>
-<text text-anchor="middle" x="2950.5" y="-122.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Bread</text>
-<polyline fill="none" stroke="#bfbfbf" points="2881,-115.5 3020,-115.5 "/>
-<text text-anchor="middle" x="2950.5" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="2881,-96.5 3020,-96.5 "/>
-<text text-anchor="start" x="2889" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFoodRestore()</text>
-<text text-anchor="start" x="2889" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSaturationRestore()</text>
+<polygon fill="white" stroke="#bfbfbf" points="2872,-66.5 2872,-134.5 3011,-134.5 3011,-66.5 2872,-66.5"/>
+<text text-anchor="middle" x="2941.5" y="-122.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Bread</text>
+<polyline fill="none" stroke="#bfbfbf" points="2872,-115.5 3011,-115.5 "/>
+<text text-anchor="middle" x="2941.5" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="2872,-96.5 3011,-96.5 "/>
+<text text-anchor="start" x="2880" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFoodRestore()</text>
+<text text-anchor="start" x="2880" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSaturationRestore()</text>
 </a>
 </g>
 </g>
 <!-- Node31&#45;&gt;Node36 -->
 <g id="edge26" class="edge">
 <title>Node31&#45;&gt;Node36</title>
-<path fill="none" stroke="midnightblue" d="M2795.29,-289.44C2807.13,-272.05 2820.76,-253.29 2834.5,-237 2849.29,-219.46 2856.11,-218.02 2871.5,-201 2890.73,-179.73 2910.8,-154.4 2925.9,-134.63"/>
-<polygon fill="none" stroke="midnightblue" points="2792.31,-287.6 2789.63,-297.85 2798.11,-291.51 2792.31,-287.6"/>
+<path fill="none" stroke="midnightblue" d="M2613.44,-289.32C2625.59,-269.82 2641.64,-249.81 2661.5,-237 2737.77,-187.81 2784.59,-247.54 2862.5,-201 2889.01,-185.16 2910.15,-156.89 2923.87,-134.52"/>
+<polygon fill="none" stroke="midnightblue" points="2610.42,-287.54 2608.3,-297.92 2616.43,-291.13 2610.42,-287.54"/>
 </g>
 <!-- Node37 -->
 <g id="node28" class="node">
 <title>Node37</title>
 <g id="a_node28"><a xlink:href="../../d4/d82/classpocketmine_1_1item_1_1_carrot.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="3038,-61 3038,-140 3177,-140 3177,-61 3038,-61"/>
-<text text-anchor="middle" x="3107.5" y="-128" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Carrot</text>
-<polyline fill="none" stroke="#bfbfbf" points="3038,-121 3177,-121 "/>
-<text text-anchor="middle" x="3107.5" y="-109" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="3038,-102 3177,-102 "/>
-<text text-anchor="start" x="3046" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
-<text text-anchor="start" x="3046" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFoodRestore()</text>
-<text text-anchor="start" x="3046" y="-68" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSaturationRestore()</text>
+<polygon fill="white" stroke="#bfbfbf" points="3029,-61 3029,-140 3168,-140 3168,-61 3029,-61"/>
+<text text-anchor="middle" x="3098.5" y="-128" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Carrot</text>
+<polyline fill="none" stroke="#bfbfbf" points="3029,-121 3168,-121 "/>
+<text text-anchor="middle" x="3098.5" y="-109" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="3029,-102 3168,-102 "/>
+<text text-anchor="start" x="3037" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
+<text text-anchor="start" x="3037" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFoodRestore()</text>
+<text text-anchor="start" x="3037" y="-68" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSaturationRestore()</text>
 </a>
 </g>
 </g>
 <!-- Node31&#45;&gt;Node37 -->
 <g id="edge27" class="edge">
 <title>Node31&#45;&gt;Node37</title>
-<path fill="none" stroke="midnightblue" d="M2786.48,-289.39C2798.63,-269.9 2814.68,-249.87 2834.5,-237 2908.05,-189.24 2953.36,-246.21 3028.5,-201 3052.69,-186.45 3072.44,-161.57 3086.14,-140.33"/>
-<polygon fill="none" stroke="midnightblue" points="2783.47,-287.6 2781.34,-297.98 2789.48,-291.2 2783.47,-287.6"/>
+<path fill="none" stroke="midnightblue" d="M2612.45,-289.23C2624.59,-269.4 2640.9,-249.19 2661.5,-237 2799.13,-155.57 2879.16,-277.66 3019.5,-201 3044.66,-187.25 3064.64,-161.81 3078.21,-140.09"/>
+<polygon fill="none" stroke="midnightblue" points="2609.36,-287.59 2607.33,-297.98 2615.4,-291.12 2609.36,-287.59"/>
 </g>
 <!-- Node38 -->
 <g id="node29" class="node">
 <title>Node38</title>
 <g id="a_node29"><a xlink:href="../../de/d16/classpocketmine_1_1item_1_1_chorus_fruit.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="3195.5,-50 3195.5,-151 3353.5,-151 3353.5,-50 3195.5,-50"/>
-<text text-anchor="middle" x="3274.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\ChorusFruit</text>
-<polyline fill="none" stroke="#bfbfbf" points="3195.5,-132 3353.5,-132 "/>
-<text text-anchor="middle" x="3274.5" y="-120" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="3195.5,-113 3353.5,-113 "/>
-<text text-anchor="start" x="3203.5" y="-101" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCooldownTicks()</text>
-<text text-anchor="start" x="3203.5" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFoodRestore()</text>
-<text text-anchor="start" x="3203.5" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSaturationRestore()</text>
-<text text-anchor="start" x="3203.5" y="-68" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
-<text text-anchor="start" x="3203.5" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">+ requiresHunger()</text>
+<polygon fill="white" stroke="#bfbfbf" points="3186.5,-50 3186.5,-151 3344.5,-151 3344.5,-50 3186.5,-50"/>
+<text text-anchor="middle" x="3265.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\ChorusFruit</text>
+<polyline fill="none" stroke="#bfbfbf" points="3186.5,-132 3344.5,-132 "/>
+<text text-anchor="middle" x="3265.5" y="-120" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="3186.5,-113 3344.5,-113 "/>
+<text text-anchor="start" x="3194.5" y="-101" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCooldownTicks()</text>
+<text text-anchor="start" x="3194.5" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFoodRestore()</text>
+<text text-anchor="start" x="3194.5" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSaturationRestore()</text>
+<text text-anchor="start" x="3194.5" y="-68" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
+<text text-anchor="start" x="3194.5" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">+ requiresHunger()</text>
 </a>
 </g>
 </g>
 <!-- Node31&#45;&gt;Node38 -->
 <g id="edge28" class="edge">
 <title>Node31&#45;&gt;Node38</title>
-<path fill="none" stroke="midnightblue" d="M2785.62,-289C2797.75,-269.26 2814,-249.16 2834.5,-237 2969.38,-157.01 3045.8,-272.25 3185.5,-201 3207.9,-189.58 3227.3,-169.96 3242.22,-151.15"/>
-<polygon fill="none" stroke="midnightblue" points="2782.54,-287.32 2780.5,-297.72 2788.58,-290.87 2782.54,-287.32"/>
+<path fill="none" stroke="midnightblue" d="M2612.1,-289.15C2624.24,-269.2 2640.63,-248.92 2661.5,-237 2761.11,-180.09 3073.47,-251.46 3176.5,-201 3199.19,-189.89 3218.69,-170.2 3233.61,-151.25"/>
+<polygon fill="none" stroke="midnightblue" points="2608.98,-287.55 2606.99,-297.96 2615.03,-291.06 2608.98,-287.55"/>
 </g>
 </g>
 </svg>

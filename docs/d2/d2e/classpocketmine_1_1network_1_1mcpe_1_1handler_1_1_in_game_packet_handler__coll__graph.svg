@@ -77,7 +77,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="238.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ handleBookEdit()</text>
 <text text-anchor="start" x="238.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ handleBossEvent()</text>
 <text text-anchor="start" x="238.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ handleCommandBlockUpdate()</text>
-<text text-anchor="start" x="238.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 30 more...</text>
+<text text-anchor="start" x="238.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 31 more...</text>
 </a>
 </g>
 </g>
@@ -122,7 +122,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="8" y="-575" font-family="Helvetica,sans-Serif" font-size="10.00">+ handleAddPlayer()</text>
 <text text-anchor="start" x="8" y="-564" font-family="Helvetica,sans-Serif" font-size="10.00">+ handleAddVolumeEntity()</text>
 <text text-anchor="start" x="8" y="-553" font-family="Helvetica,sans-Serif" font-size="10.00">+ handleAdventureSettings()</text>
-<text text-anchor="start" x="8" y="-542" font-family="Helvetica,sans-Serif" font-size="10.00">and 167 more...</text>
+<text text-anchor="start" x="8" y="-542" font-family="Helvetica,sans-Serif" font-size="10.00">and 171 more...</text>
 </a>
 </g>
 </g>
