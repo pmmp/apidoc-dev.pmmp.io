@@ -1,7 +1,7 @@
 <map id="pocketmine\block\RedstoneTorch" name="pocketmine\block\RedstoneTorch">
-<area shape="rect" id="node1" title=" " alt="" coords="16,947,219,1127"/>
-<area shape="rect" id="node2" href="$d2/d00/classpocketmine_1_1block_1_1_torch.html" title=" " alt="" coords="20,719,215,899"/>
-<area shape="rect" id="node3" href="$d3/d1e/classpocketmine_1_1block_1_1_flowable.html" title=" " alt="" coords="10,549,225,671"/>
-<area shape="rect" id="node4" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="9,424,226,501"/>
-<area shape="rect" id="node5" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="5,5,229,376"/>
+<area shape="rect" id="node1" title=" " alt="" coords="15,976,231,1141"/>
+<area shape="rect" id="node2" href="$d2/d00/classpocketmine_1_1block_1_1_torch.html" title=" " alt="" coords="15,748,231,928"/>
+<area shape="rect" id="node3" href="$d3/d1e/classpocketmine_1_1block_1_1_flowable.html" title=" " alt="" coords="15,579,230,700"/>
+<area shape="rect" id="node4" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="14,453,231,531"/>
+<area shape="rect" id="node5" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="5,5,240,405"/>
 </map>

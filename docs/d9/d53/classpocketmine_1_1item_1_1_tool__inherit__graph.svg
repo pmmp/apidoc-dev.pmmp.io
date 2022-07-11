@@ -162,15 +162,14 @@ var sectionId = 'dynsection-0';
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="../../dc/d20/classpocketmine_1_1item_1_1_durable.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="207.5,-414.5 207.5,-592.5 404.5,-592.5 404.5,-414.5 207.5,-414.5"/>
-<text text-anchor="middle" x="306" y="-580.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Durable</text>
-<polyline fill="none" stroke="#bfbfbf" points="207.5,-573.5 404.5,-573.5 "/>
-<text text-anchor="start" x="215.5" y="-561.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $damage</text>
-<polyline fill="none" stroke="#bfbfbf" points="207.5,-554.5 404.5,-554.5 "/>
-<text text-anchor="start" x="215.5" y="-542.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ applyDamage()</text>
-<text text-anchor="start" x="215.5" y="-531.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDamage()</text>
-<text text-anchor="start" x="215.5" y="-520.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxDurability()</text>
-<text text-anchor="start" x="215.5" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMeta()</text>
+<polygon fill="white" stroke="#bfbfbf" points="207.5,-414.5 207.5,-581.5 404.5,-581.5 404.5,-414.5 207.5,-414.5"/>
+<text text-anchor="middle" x="306" y="-569.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Durable</text>
+<polyline fill="none" stroke="#bfbfbf" points="207.5,-562.5 404.5,-562.5 "/>
+<text text-anchor="start" x="215.5" y="-550.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $damage</text>
+<polyline fill="none" stroke="#bfbfbf" points="207.5,-543.5 404.5,-543.5 "/>
+<text text-anchor="start" x="215.5" y="-531.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ applyDamage()</text>
+<text text-anchor="start" x="215.5" y="-520.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDamage()</text>
+<text text-anchor="start" x="215.5" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxDurability()</text>
 <text text-anchor="start" x="215.5" y="-498.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isBroken()</text>
 <text text-anchor="start" x="215.5" y="-487.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isUnbreakable()</text>
 <text text-anchor="start" x="215.5" y="-476.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setDamage()</text>
@@ -185,14 +184,14 @@ var sectionId = 'dynsection-0';
 <!-- Node2&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
 <title>Node2&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M306,-403.93C306,-394.69 306,-385.74 306,-377.6"/>
-<polygon fill="none" stroke="midnightblue" points="302.5,-404.05 306,-414.05 309.5,-404.05 302.5,-404.05"/>
+<path fill="none" stroke="midnightblue" d="M306,-404.12C306,-394.81 306,-385.76 306,-377.52"/>
+<polygon fill="none" stroke="midnightblue" points="302.5,-404.3 306,-414.3 309.5,-404.3 302.5,-404.3"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="227,-629.5 227,-950.5 385,-950.5 385,-629.5 227,-629.5"/>
+<polygon fill="white" stroke="#bfbfbf" points="227,-618.5 227,-950.5 385,-950.5 385,-618.5 227,-618.5"/>
 <text text-anchor="middle" x="306" y="-938.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Item</text>
 <polyline fill="none" stroke="#bfbfbf" points="227,-931.5 385,-931.5 "/>
 <text text-anchor="start" x="235" y="-919.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_BLOCK_ENTITY_TAG</text>
@@ -215,21 +214,22 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="235" y="-735.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomBlockData()</text>
 <text text-anchor="start" x="235" y="-724.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomName()</text>
 <text text-anchor="start" x="235" y="-713.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearNamedTag()</text>
-<text text-anchor="start" x="235" y="-702.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ equals()</text>
-<text text-anchor="start" x="235" y="-691.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ equalsExact()</text>
-<text text-anchor="start" x="235" y="-680.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 41 more...</text>
-<text text-anchor="start" x="235" y="-669.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ jsonDeserialize()</text>
+<text text-anchor="start" x="235" y="-702.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ computeTypeData()</text>
+<text text-anchor="start" x="235" y="-691.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ equals()</text>
+<text text-anchor="start" x="235" y="-680.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 40 more...</text>
+<text text-anchor="start" x="235" y="-669.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ legacyJsonDeserialize()</text>
 <text text-anchor="start" x="235" y="-658.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ nbtDeserialize()</text>
 <text text-anchor="start" x="235" y="-647.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
-<text text-anchor="start" x="235" y="-636.5" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeCompoundTag()</text>
+<text text-anchor="start" x="235" y="-636.5" font-family="Helvetica,sans-Serif" font-size="10.00"># encodeType()</text>
+<text text-anchor="start" x="235" y="-625.5" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeCompoundTag()</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node2 -->
 <g id="edge2" class="edge">
 <title>Node3&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M306,-619.05C306,-610.03 306,-601.17 306,-592.62"/>
-<polygon fill="none" stroke="midnightblue" points="302.5,-619.29 306,-629.29 309.5,-619.29 302.5,-619.29"/>
+<path fill="none" stroke="midnightblue" d="M306,-608.13C306,-599.07 306,-590.21 306,-581.7"/>
+<polygon fill="none" stroke="midnightblue" points="302.5,-608.42 306,-618.42 309.5,-608.42 302.5,-608.42"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
@@ -247,8 +247,8 @@ var sectionId = 'dynsection-0';
 <!-- Node4&#45;&gt;Node3 -->
 <g id="edge3" class="edge">
 <title>Node4&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M306,-976.91C306,-969.02 306,-960.25 306,-950.93"/>
-<polygon fill="none" stroke="midnightblue" points="302.5,-977.08 306,-987.08 309.5,-977.08 302.5,-977.08"/>
+<path fill="none" stroke="midnightblue" d="M306,-977.08C306,-969.13 306,-960.28 306,-950.85"/>
+<polygon fill="none" stroke="midnightblue" points="302.5,-977.32 306,-987.32 309.5,-977.32 302.5,-977.32"/>
 </g>
 <!-- Node9 -->
 <g id="node9" class="node">

@@ -20,6 +20,8 @@ var dir_8c559a8bd664375b6611e00b162a8314 =
     [ "ChestCloseSound.php", "d0/ddc/_chest_close_sound_8php_source.html", null ],
     [ "ChestOpenSound.php", "d9/d3d/_chest_open_sound_8php_source.html", null ],
     [ "ClickSound.php", "d0/d5c/_click_sound_8php_source.html", null ],
+    [ "CopperWaxApplySound.php", "d9/ddb/_copper_wax_apply_sound_8php_source.html", null ],
+    [ "CopperWaxRemoveSound.php", "db/db6/_copper_wax_remove_sound_8php_source.html", null ],
     [ "DoorBumpSound.php", "df/d18/_door_bump_sound_8php_source.html", null ],
     [ "DoorCrashSound.php", "dd/d6b/_door_crash_sound_8php_source.html", null ],
     [ "DoorSound.php", "dc/d08/_door_sound_8php_source.html", null ],

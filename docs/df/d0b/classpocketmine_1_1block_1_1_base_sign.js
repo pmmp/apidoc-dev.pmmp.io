@@ -1,6 +1,6 @@
 var classpocketmine_1_1block_1_1_base_sign =
 [
-    [ "__construct", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#afe4ce84e232d8184ea265c3e60b6af89", null ],
+    [ "__construct", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a5e38a0de36b6ff3f1c1caea21e94baae", null ],
     [ "__toString", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#acb449b40461f4800cf6e6288cb9a069d", null ],
     [ "blocksDirectSkyLight", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a2127737ad69279d366e4462b54f693f2", null ],
     [ "burnsForever", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#aa09e248dd611c0ebb95cf2adf2d6d31c", null ],
@@ -26,7 +26,6 @@ var classpocketmine_1_1block_1_1_base_sign =
     [ "getPickedItem", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#aac6828efb885bc8fe0f8876728ddde5d", null ],
     [ "getSide", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a6f13ff76dad934b1b2e078a5b57dd7a5", null ],
     [ "getSilkTouchDrops", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a4b01df2347f9cc897c5eb2858d6c5e7e", null ],
-    [ "getStateBitmask", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a19be184f5f78f7a49068916d5f59189e", null ],
     [ "getText", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a0f649b79e6c05fc9f8d744ff69bb0b23", null ],
     [ "getTypeId", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a994b80e9138156e5b90a803def57c7db", null ],
     [ "getXpDropAmount", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a771a30c30a36b0992f54c57dc63af10d", null ],
@@ -42,10 +41,10 @@ var classpocketmine_1_1block_1_1_base_sign =
     [ "onIncinerate", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b", null ],
     [ "onInteract", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a86f1c668b5d74d68ab7e2521936bfce8", null ],
     [ "onNearbyBlockChange", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#af87ae0a81b1ac45137ef712cec521f5a", null ],
+    [ "onProjectileHit", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a0931c682312473fc2540464b7a4747c0", null ],
     [ "onRandomTick", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a36afea9f0214193963f75577e8d48c26", null ],
     [ "onScheduledUpdate", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a1a1a2b2adf423738289d296198f044e1", null ],
     [ "place", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a561942a73af5f1c7764ef50db4e6cefc", null ],
-    [ "readStateFromData", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a07738ba94103cf04074fbd8d56b57f5b", null ],
     [ "readStateFromWorld", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a9837023b7de99820e62ae964bae1cde5", null ],
     [ "recalculateCollisionBoxes", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a550cf6f105cc6faf733087a716b19e1a", null ],
     [ "setText", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#ac38134f941cceb363658c3fdfeccb9a4", null ],

@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0 git-4d9f2bc9b1136314029370397391c32ba979e7c2</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA2 git-2ba51567d8f41324e5e895f899a924a4d1160c59</span>
    </div>
   </td>
  </tr>
@@ -191,11 +191,11 @@ Public Attributes</h2></td></tr>
 <tr class="separator:af79d7375735099091ef68aeae15f24e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a492a8a6a4ea358722741792288df2daa"><td class="memItemLeft" align="right" valign="top">const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/de7/classpocketmine_1_1world_1_1format_1_1_chunk.html#a492a8a6a4ea358722741792288df2daa">EDGE_LENGTH</a> = SubChunk::EDGE_LENGTH</td></tr>
 <tr class="separator:a492a8a6a4ea358722741792288df2daa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac9c2be04976e5f36b1285cced4da73a6"><td class="memItemLeft" align="right" valign="top">const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/de7/classpocketmine_1_1world_1_1format_1_1_chunk.html#ac9c2be04976e5f36b1285cced4da73a6">MAX_SUBCHUNK_INDEX</a> = 15</td></tr>
+<tr class="memitem:ac9c2be04976e5f36b1285cced4da73a6"><td class="memItemLeft" align="right" valign="top">const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/de7/classpocketmine_1_1world_1_1format_1_1_chunk.html#ac9c2be04976e5f36b1285cced4da73a6">MAX_SUBCHUNK_INDEX</a> = 19</td></tr>
 <tr class="separator:ac9c2be04976e5f36b1285cced4da73a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6d287f06841a5075ba41e7832d3fe1d7"><td class="memItemLeft" align="right" valign="top">const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/de7/classpocketmine_1_1world_1_1format_1_1_chunk.html#a6d287f06841a5075ba41e7832d3fe1d7">MAX_SUBCHUNKS</a> = self::MAX_SUBCHUNK_INDEX - self::MIN_SUBCHUNK_INDEX + 1</td></tr>
 <tr class="separator:a6d287f06841a5075ba41e7832d3fe1d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4a3419908069a640721073333e8323ba"><td class="memItemLeft" align="right" valign="top">const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/de7/classpocketmine_1_1world_1_1format_1_1_chunk.html#a4a3419908069a640721073333e8323ba">MIN_SUBCHUNK_INDEX</a> = 0</td></tr>
+<tr class="memitem:a4a3419908069a640721073333e8323ba"><td class="memItemLeft" align="right" valign="top">const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/de7/classpocketmine_1_1world_1_1format_1_1_chunk.html#a4a3419908069a640721073333e8323ba">MIN_SUBCHUNK_INDEX</a> = -4</td></tr>
 <tr class="separator:a4a3419908069a640721073333e8323ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
@@ -610,7 +610,7 @@ Protected Attributes</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="../../d1/db1/_chunk_8php_source.html#l00117">117</a> of file <a class="el" href="../../d1/db1/_chunk_8php_source.html">Chunk.php</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d9/d88/_world_8php_source.html#l02200">pocketmine\world\World\getHighestBlockAt()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../d9/d88/_world_8php_source.html#l02206">pocketmine\world\World\getHighestBlockAt()</a>.</p>
 <div id="dynsection-1" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-1-trigger" src="../../closed.png" alt="+"/> Here is the caller graph for this function:</div>
 <div id="dynsection-1-summary" class="dynsummary" style="display:block;">
@@ -1373,7 +1373,7 @@ Protected Attributes</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">const pocketmine\world\format\Chunk::MAX_SUBCHUNK_INDEX = 15</td>
+          <td class="memname">const pocketmine\world\format\Chunk::MAX_SUBCHUNK_INDEX = 19</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -1405,7 +1405,7 @@ Protected Attributes</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">const pocketmine\world\format\Chunk::MIN_SUBCHUNK_INDEX = 0</td>
+          <td class="memname">const pocketmine\world\format\Chunk::MIN_SUBCHUNK_INDEX = -4</td>
         </tr>
       </table>
 </div><div class="memdoc">

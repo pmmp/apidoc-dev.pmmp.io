@@ -1,7 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$dd/d63/interfacepocketmine_1_1world_1_1generator_1_1populator_1_1_populator.html" title=" " alt="" coords="5,104,211,145"/>
-<area shape="rect" id="node2" href="$d3/d77/classpocketmine_1_1world_1_1generator_1_1populator_1_1_ground_cover.html" title=" " alt="" coords="259,5,464,47"/>
-<area shape="rect" id="node3" href="$dc/d8e/classpocketmine_1_1world_1_1generator_1_1populator_1_1_ore.html" title=" " alt="" coords="259,71,464,112"/>
-<area shape="rect" id="node4" href="$d0/d85/classpocketmine_1_1world_1_1generator_1_1populator_1_1_tall_grass.html" title=" " alt="" coords="259,136,464,177"/>
-<area shape="rect" id="node5" href="$df/da0/classpocketmine_1_1world_1_1generator_1_1populator_1_1_tree.html" title=" " alt="" coords="259,201,464,243"/>
+<area shape="rect" id="node1" href="$d7/d64/classpocketmine_1_1utils_1_1_string_to_t_parser.html" title=" " alt="" coords="5,71,192,112"/>
+<area shape="rect" id="node2" href="$d2/deb/classpocketmine_1_1entity_1_1effect_1_1_string_to_effect_parser.html" title=" " alt="" coords="261,5,442,47"/>
+<area shape="rect" id="node3" href="$de/d75/classpocketmine_1_1item_1_1_string_to_item_parser.html" title=" " alt="" coords="257,71,445,112"/>
+<area shape="rect" id="node4" href="$d7/dbc/classpocketmine_1_1item_1_1enchantment_1_1_string_to_enchantment_parser.html" title=" " alt="" coords="240,136,463,177"/>
 </map>

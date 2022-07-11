@@ -311,30 +311,31 @@
 <g id="node19" class="node">
 <title>Node19</title>
 <g id="a_node19"><a xlink:href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="1205,-1998 1205,-2253 1363,-2253 1363,-1998 1205,-1998"/>
-<text text-anchor="middle" x="1284" y="-2241" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Item</text>
-<polyline fill="none" stroke="#bfbfbf" points="1205,-2234 1363,-2234 "/>
-<text text-anchor="start" x="1213" y="-2222" font-family="Helvetica,sans-Serif" font-size="10.00"># $canDestroy</text>
-<text text-anchor="start" x="1213" y="-2211" font-family="Helvetica,sans-Serif" font-size="10.00"># $canPlaceOn</text>
-<text text-anchor="start" x="1213" y="-2200" font-family="Helvetica,sans-Serif" font-size="10.00"># $count</text>
-<text text-anchor="start" x="1213" y="-2189" font-family="Helvetica,sans-Serif" font-size="10.00"># $customName</text>
-<text text-anchor="start" x="1213" y="-2178" font-family="Helvetica,sans-Serif" font-size="10.00"># $lore</text>
-<polyline fill="none" stroke="#bfbfbf" points="1205,-2171 1363,-2171 "/>
-<text text-anchor="start" x="1213" y="-2159" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="1213" y="-2148" font-family="Helvetica,sans-Serif" font-size="10.00">+ __clone()</text>
-<text text-anchor="start" x="1213" y="-2137" font-family="Helvetica,sans-Serif" font-size="10.00">+ __toString()</text>
-<text text-anchor="start" x="1213" y="-2126" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
-<text text-anchor="start" x="1213" y="-2115" font-family="Helvetica,sans-Serif" font-size="10.00">+ canStackWith()</text>
-<text text-anchor="start" x="1213" y="-2104" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomBlockData()</text>
-<text text-anchor="start" x="1213" y="-2093" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomName()</text>
-<text text-anchor="start" x="1213" y="-2082" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearNamedTag()</text>
-<text text-anchor="start" x="1213" y="-2071" font-family="Helvetica,sans-Serif" font-size="10.00">+ equals()</text>
-<text text-anchor="start" x="1213" y="-2060" font-family="Helvetica,sans-Serif" font-size="10.00">+ equalsExact()</text>
-<text text-anchor="start" x="1213" y="-2049" font-family="Helvetica,sans-Serif" font-size="10.00">and 41 more...</text>
-<text text-anchor="start" x="1213" y="-2038" font-family="Helvetica,sans-Serif" font-size="10.00">+ jsonDeserialize()</text>
-<text text-anchor="start" x="1213" y="-2027" font-family="Helvetica,sans-Serif" font-size="10.00">+ nbtDeserialize()</text>
-<text text-anchor="start" x="1213" y="-2016" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
-<text text-anchor="start" x="1213" y="-2005" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeCompoundTag()</text>
+<polygon fill="white" stroke="#bfbfbf" points="1205,-1992.5 1205,-2258.5 1363,-2258.5 1363,-1992.5 1205,-1992.5"/>
+<text text-anchor="middle" x="1284" y="-2246.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Item</text>
+<polyline fill="none" stroke="#bfbfbf" points="1205,-2239.5 1363,-2239.5 "/>
+<text text-anchor="start" x="1213" y="-2227.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $canDestroy</text>
+<text text-anchor="start" x="1213" y="-2216.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $canPlaceOn</text>
+<text text-anchor="start" x="1213" y="-2205.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $count</text>
+<text text-anchor="start" x="1213" y="-2194.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $customName</text>
+<text text-anchor="start" x="1213" y="-2183.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $lore</text>
+<polyline fill="none" stroke="#bfbfbf" points="1205,-2176.5 1363,-2176.5 "/>
+<text text-anchor="start" x="1213" y="-2164.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="1213" y="-2153.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __clone()</text>
+<text text-anchor="start" x="1213" y="-2142.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __toString()</text>
+<text text-anchor="start" x="1213" y="-2131.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
+<text text-anchor="start" x="1213" y="-2120.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canStackWith()</text>
+<text text-anchor="start" x="1213" y="-2109.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomBlockData()</text>
+<text text-anchor="start" x="1213" y="-2098.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomName()</text>
+<text text-anchor="start" x="1213" y="-2087.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearNamedTag()</text>
+<text text-anchor="start" x="1213" y="-2076.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ computeTypeData()</text>
+<text text-anchor="start" x="1213" y="-2065.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ equals()</text>
+<text text-anchor="start" x="1213" y="-2054.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 40 more...</text>
+<text text-anchor="start" x="1213" y="-2043.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ legacyJsonDeserialize()</text>
+<text text-anchor="start" x="1213" y="-2032.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ nbtDeserialize()</text>
+<text text-anchor="start" x="1213" y="-2021.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
+<text text-anchor="start" x="1213" y="-2010.5" font-family="Helvetica,sans-Serif" font-size="10.00"># encodeType()</text>
+<text text-anchor="start" x="1213" y="-1999.5" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeCompoundTag()</text>
 </a>
 </g>
 </g>
@@ -702,7 +703,7 @@
 <!-- Node19&#45;&gt;Node1 -->
 <g id="edge25" class="edge">
 <title>Node19&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M1292.06,-1997.75C1299.43,-1835.49 1302.56,-1546.59 1252,-1306 1205.3,-1083.77 1101.37,-842.67 1027.39,-688.38"/>
+<path fill="none" stroke="#404040" d="M1292.3,-1992.42C1299.49,-1829.23 1302.01,-1543.98 1252,-1306 1205.3,-1083.77 1101.37,-842.67 1027.39,-688.38"/>
 <polygon fill="none" stroke="#404040" points="1027.32,-688.23 1021.12,-684.56 1022.12,-677.42 1028.33,-681.09 1027.32,-688.23"/>
 <text text-anchor="middle" x="1304" y="-1420.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #$item</text>
 </g>
@@ -722,7 +723,7 @@
 <!-- Node20&#45;&gt;Node19 -->
 <g id="edge26" class="edge">
 <title>Node20&#45;&gt;Node19</title>
-<path fill="none" stroke="midnightblue" d="M1408.85,-2527.31C1407.68,-2474.91 1401.93,-2377.6 1377,-2299 1372.17,-2283.76 1365.97,-2268.3 1359.08,-2253.21"/>
+<path fill="none" stroke="midnightblue" d="M1408.85,-2527.31C1407.68,-2474.91 1401.93,-2377.6 1377,-2299 1372.73,-2285.54 1367.4,-2271.91 1361.47,-2258.52"/>
 <polygon fill="none" stroke="midnightblue" points="1405.36,-2527.55 1409.04,-2537.49 1412.36,-2527.42 1405.36,-2527.55"/>
 </g>
 <!-- Node21 -->
@@ -757,8 +758,8 @@
 <!-- Node21&#45;&gt;Node19 -->
 <g id="edge28" class="edge">
 <title>Node21&#45;&gt;Node19</title>
-<path fill="none" stroke="#404040" d="M1284,-2449.22C1284,-2392.84 1284,-2324.61 1284,-2265.45"/>
-<polygon fill="none" stroke="#404040" points="1284,-2265.35 1280,-2259.35 1284,-2253.35 1288,-2259.35 1284,-2265.35"/>
+<path fill="none" stroke="#404040" d="M1284,-2449.22C1284,-2394.61 1284,-2328.9 1284,-2271.06"/>
+<polygon fill="none" stroke="#404040" points="1284,-2270.85 1280,-2264.85 1284,-2258.85 1288,-2264.85 1284,-2270.85"/>
 <text text-anchor="middle" x="1328.5" y="-2362.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #$blockEntityTag</text>
 </g>
 <!-- Node22 -->

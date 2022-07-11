@@ -1,13 +1,13 @@
 <map id="pocketmine\block\ItemFrame" name="pocketmine\block\ItemFrame">
-<area shape="rect" id="node1" title=" " alt="" coords="931,2605,1157,2873"/>
-<area shape="rect" id="node2" href="$d3/d1e/classpocketmine_1_1block_1_1_flowable.html" title=" " alt="" coords="937,2435,1151,2556"/>
-<area shape="rect" id="node3" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="935,2308,1153,2385"/>
-<area shape="rect" id="node4" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="937,1948,1151,2245"/>
+<area shape="rect" id="node1" title=" " alt="" coords="931,2635,1157,2917"/>
+<area shape="rect" id="node2" href="$d3/d1e/classpocketmine_1_1block_1_1_flowable.html" title=" " alt="" coords="937,2464,1151,2585"/>
+<area shape="rect" id="node3" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="935,2337,1153,2415"/>
+<area shape="rect" id="node4" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="937,1948,1151,2275"/>
 <area shape="rect" id="node5" title=" " alt="" coords="967,600,1025,677"/>
 <area shape="rect" id="node7" href="$d3/d10/classpocketmine_1_1block_1_1_block_break_info.html" title=" " alt="" coords="927,1457,1167,1681"/>
 <area shape="rect" id="node10" href="$d4/d2b/classpocketmine_1_1world_1_1_world.html" title=" " alt="" coords="215,1019,444,1433"/>
-<area shape="rect" id="node14" href="$d5/d8a/classpocketmine_1_1item_1_1_item.html" title=" " alt="" coords="1380,1055,1591,1397"/>
-<area shape="rect" id="node6" href="$dd/d18/classpocketmine_1_1block_1_1_block_identifier.html" title=" " alt="" coords="844,1720,1079,1871"/>
+<area shape="rect" id="node14" href="$d5/d8a/classpocketmine_1_1item_1_1_item.html" title=" " alt="" coords="1383,1048,1593,1404"/>
+<area shape="rect" id="node6" href="$dd/d18/classpocketmine_1_1block_1_1_block_identifier.html" title=" " alt="" coords="844,1742,1079,1849"/>
 <area shape="rect" id="node8" href="$d5/dd2/classpocketmine_1_1world_1_1_position.html" title=" " alt="" coords="625,1705,820,1885"/>
 <area shape="rect" id="node9" href="$d2/d90/classpocketmine_1_1math_1_1_vector3.html" title=" " alt="" coords="628,1070,817,1382"/>
 <area shape="rect" id="node11" href="$d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html" title=" " alt="" coords="5,556,245,721"/>

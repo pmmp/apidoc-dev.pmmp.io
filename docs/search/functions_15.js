@@ -17,7 +17,11 @@ var searchData=
   ['unsubscribefrombroadcastchannel_14',['unsubscribeFromBroadcastChannel',['../d5/df7/classpocketmine_1_1_server.html#a2d73e696e7a3c87d0e7701757257fc9a',1,'pocketmine::Server']]],
   ['up_15',['up',['../d2/d90/classpocketmine_1_1math_1_1_vector3.html#a84e61ccea823ddb5da55f9ca38c096ab',1,'pocketmine::math::Vector3']]],
   ['updatetext_16',['updateText',['../df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a3dcfd3416ae91908d4c00c41eabd93df',1,'pocketmine::block::BaseSign']]],
-  ['usebreakon_17',['useBreakOn',['../d4/d2b/classpocketmine_1_1world_1_1_world.html#a86a1511d66542c24059a6b387195dc23',1,'pocketmine::world::World']]],
-  ['usehelditem_18',['useHeldItem',['../d0/d6f/classpocketmine_1_1player_1_1_player.html#acb1c1056567862abccfc2e51b98d3e32',1,'pocketmine::player::Player']]],
-  ['useitemon_19',['useItemOn',['../d4/d2b/classpocketmine_1_1world_1_1_world.html#a89060c5356799854004d95571da52009',1,'pocketmine::world::World']]]
+  ['upgradeitemstacknbt_17',['upgradeItemStackNbt',['../d3/d27/classpocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_item_data_upgrader.html#a34e13e7797f23de03978ead6b85d0550',1,'pocketmine::data::bedrock::item::upgrade::ItemDataUpgrader']]],
+  ['upgradeitemstringidmeta_18',['upgradeItemStringIdMeta',['../d3/d27/classpocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_item_data_upgrader.html#a97f623223cb00e43d43691ef00b33e86',1,'pocketmine::data::bedrock::item::upgrade::ItemDataUpgrader']]],
+  ['upgradeitemtypedataint_19',['upgradeItemTypeDataInt',['../d3/d27/classpocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_item_data_upgrader.html#a7ce8c2cee2561c3116947cbffa8d81e4',1,'pocketmine::data::bedrock::item::upgrade::ItemDataUpgrader']]],
+  ['upgradeitemtypedatastring_20',['upgradeItemTypeDataString',['../d3/d27/classpocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_item_data_upgrader.html#a75697ef5258aea4d094852d5e0ff069b',1,'pocketmine::data::bedrock::item::upgrade::ItemDataUpgrader']]],
+  ['usebreakon_21',['useBreakOn',['../d4/d2b/classpocketmine_1_1world_1_1_world.html#a86a1511d66542c24059a6b387195dc23',1,'pocketmine::world::World']]],
+  ['usehelditem_22',['useHeldItem',['../d0/d6f/classpocketmine_1_1player_1_1_player.html#acb1c1056567862abccfc2e51b98d3e32',1,'pocketmine::player::Player']]],
+  ['useitemon_23',['useItemOn',['../d4/d2b/classpocketmine_1_1world_1_1_world.html#a89060c5356799854004d95571da52009',1,'pocketmine::world::World']]]
 ];

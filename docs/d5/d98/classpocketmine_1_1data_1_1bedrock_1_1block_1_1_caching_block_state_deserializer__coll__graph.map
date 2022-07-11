@@ -1,0 +1,5 @@
+<map id="pocketmine\data\bedrock\block\CachingBlockStateDeserializer" name="pocketmine\data\bedrock\block\CachingBlockStateDeserializer">
+<area shape="rect" id="node1" title=" " alt="" coords="15,285,280,407"/>
+<area shape="rect" id="node2" href="$dc/dc9/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1_delegating_block_state_deserializer.html" title=" " alt="" coords="5,145,289,237"/>
+<area shape="rect" id="node3" href="$dd/d67/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_deserializer.html" title=" " alt="" coords="41,5,254,97"/>
+</map>

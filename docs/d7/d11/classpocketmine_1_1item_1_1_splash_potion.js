@@ -22,10 +22,9 @@ var classpocketmine_1_1item_1_1_splash_potion =
     [ "getName", "d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#a2ee3936259ed3fd96fa07dcbcc4797c1", null ],
     [ "getNamedTag", "d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#a2b35e6f346e5955b086fcc07ead985a7", null ],
     [ "getVanillaName", "d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#ac534c116a4d2291a8d67f15c4b485b74", null ],
-    [ "hasAnyDamageValue", "d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#ad69764e364024d7ba67563b4efd45a31", null ],
     [ "hasNamedTag", "d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#ad2d004e5063f6ca465ed956b024217b1", null ],
-    [ "jsonDeserialize", "d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#ad533c9307902b2661fdeb93e1d94a3ed", null ],
     [ "jsonSerialize", "d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#aad9f6fbf32449170a157b787d4227ee6", null ],
+    [ "legacyJsonDeserialize", "d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#a0a422a89abd427286bc2f312100f968c", null ],
     [ "nbtDeserialize", "d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#a9866a7ab362cec28252d67f6382a4ad4", null ],
     [ "nbtSerialize", "d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#a27ef1db0d41125973529fb720b06a00d", null ],
     [ "onAttackEntity", "d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#a6418882adeea5fe0359fbc7e750c01dd", null ],
@@ -41,5 +40,6 @@ var classpocketmine_1_1item_1_1_splash_potion =
     [ "setCustomName", "d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#aec8070c04112770e0d01a3c56b252e81", null ],
     [ "setLore", "d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#aa27432059ecfd201a3cec74253b21fa9", null ],
     [ "setNamedTag", "d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#a8e97e9296238bf8794a2d2f8e94e8a93", null ],
+    [ "setType", "d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#a72d7d516c41b06c8799271c988432c6a", null ],
     [ "$blockEntityTag", "d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#a5b53d78436bbdb5d53102fda463be4e6", null ]
 ];

@@ -1,5 +1,6 @@
 var classpocketmine_1_1block_1_1_glazed_terracotta =
 [
+    [ "__construct", "dc/d22/classpocketmine_1_1block_1_1_glazed_terracotta.html#a1af1d65e015f3ba4b529147f05d0161a", null ],
     [ "__toString", "dc/d22/classpocketmine_1_1block_1_1_glazed_terracotta.html#acb449b40461f4800cf6e6288cb9a069d", null ],
     [ "blocksDirectSkyLight", "dc/d22/classpocketmine_1_1block_1_1_glazed_terracotta.html#a2127737ad69279d366e4462b54f693f2", null ],
     [ "burnsForever", "dc/d22/classpocketmine_1_1block_1_1_glazed_terracotta.html#aa09e248dd611c0ebb95cf2adf2d6d31c", null ],
@@ -25,7 +26,6 @@ var classpocketmine_1_1block_1_1_glazed_terracotta =
     [ "getPickedItem", "dc/d22/classpocketmine_1_1block_1_1_glazed_terracotta.html#aac6828efb885bc8fe0f8876728ddde5d", null ],
     [ "getSide", "dc/d22/classpocketmine_1_1block_1_1_glazed_terracotta.html#a6f13ff76dad934b1b2e078a5b57dd7a5", null ],
     [ "getSilkTouchDrops", "dc/d22/classpocketmine_1_1block_1_1_glazed_terracotta.html#a4b01df2347f9cc897c5eb2858d6c5e7e", null ],
-    [ "getStateBitmask", "dc/d22/classpocketmine_1_1block_1_1_glazed_terracotta.html#a19be184f5f78f7a49068916d5f59189e", null ],
     [ "getTypeId", "dc/d22/classpocketmine_1_1block_1_1_glazed_terracotta.html#a994b80e9138156e5b90a803def57c7db", null ],
     [ "getXpDropAmount", "dc/d22/classpocketmine_1_1block_1_1_glazed_terracotta.html#a771a30c30a36b0992f54c57dc63af10d", null ],
     [ "getXpDropForTool", "dc/d22/classpocketmine_1_1block_1_1_glazed_terracotta.html#a75b16ca6e22355cf632466a969e79211", null ],
@@ -40,10 +40,10 @@ var classpocketmine_1_1block_1_1_glazed_terracotta =
     [ "onIncinerate", "dc/d22/classpocketmine_1_1block_1_1_glazed_terracotta.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b", null ],
     [ "onInteract", "dc/d22/classpocketmine_1_1block_1_1_glazed_terracotta.html#a86f1c668b5d74d68ab7e2521936bfce8", null ],
     [ "onNearbyBlockChange", "dc/d22/classpocketmine_1_1block_1_1_glazed_terracotta.html#a863a7a7c27f111cc622ebb10711807c2", null ],
+    [ "onProjectileHit", "dc/d22/classpocketmine_1_1block_1_1_glazed_terracotta.html#a0931c682312473fc2540464b7a4747c0", null ],
     [ "onRandomTick", "dc/d22/classpocketmine_1_1block_1_1_glazed_terracotta.html#a36afea9f0214193963f75577e8d48c26", null ],
     [ "onScheduledUpdate", "dc/d22/classpocketmine_1_1block_1_1_glazed_terracotta.html#a1a1a2b2adf423738289d296198f044e1", null ],
     [ "place", "dc/d22/classpocketmine_1_1block_1_1_glazed_terracotta.html#a4bc78712a6bf9ec1e50890f716dbbd2d", null ],
-    [ "readStateFromData", "dc/d22/classpocketmine_1_1block_1_1_glazed_terracotta.html#a07738ba94103cf04074fbd8d56b57f5b", null ],
     [ "readStateFromWorld", "dc/d22/classpocketmine_1_1block_1_1_glazed_terracotta.html#a3a46169e7d256b3a1f3af8c54ddba832", null ],
     [ "recalculateCollisionBoxes", "dc/d22/classpocketmine_1_1block_1_1_glazed_terracotta.html#a8a733c2fe564a205938a9146c8b0e0f1", null ],
     [ "ticksRandomly", "dc/d22/classpocketmine_1_1block_1_1_glazed_terracotta.html#ab6b90601adfc9732893dcffe256514a9", null ]

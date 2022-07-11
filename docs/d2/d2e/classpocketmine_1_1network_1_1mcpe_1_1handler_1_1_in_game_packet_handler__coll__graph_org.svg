@@ -90,26 +90,27 @@
 <g id="node4" class="node">
 <title>Node4</title>
 <g id="a_node4"><a xlink:href="../../db/d5b/classpocketmine_1_1inventory_1_1transaction_1_1_crafting_transaction.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="235.5,-281.5 235.5,-404.5 406.5,-404.5 406.5,-281.5 235.5,-281.5"/>
-<text text-anchor="start" x="243.5" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\inventory</text>
-<text text-anchor="middle" x="321" y="-381.5" font-family="Helvetica,sans-Serif" font-size="10.00">\transaction\CraftingTransaction</text>
-<polyline fill="none" stroke="black" points="235.5,-374.5 406.5,-374.5 "/>
-<text text-anchor="start" x="243.5" y="-362.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $inputs</text>
-<text text-anchor="start" x="243.5" y="-351.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $outputs</text>
-<text text-anchor="start" x="243.5" y="-340.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $repetitions</text>
-<polyline fill="none" stroke="black" points="235.5,-333.5 406.5,-333.5 "/>
-<text text-anchor="start" x="243.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="243.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ validate()</text>
-<text text-anchor="start" x="243.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00"># callExecuteEvent()</text>
-<text text-anchor="start" x="243.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00"># matchRecipeItems()</text>
+<polygon fill="white" stroke="black" points="235.5,-276 235.5,-410 406.5,-410 406.5,-276 235.5,-276"/>
+<text text-anchor="start" x="243.5" y="-398" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\inventory</text>
+<text text-anchor="middle" x="321" y="-387" font-family="Helvetica,sans-Serif" font-size="10.00">\transaction\CraftingTransaction</text>
+<polyline fill="none" stroke="black" points="235.5,-380 406.5,-380 "/>
+<text text-anchor="start" x="243.5" y="-368" font-family="Helvetica,sans-Serif" font-size="10.00"># $inputs</text>
+<text text-anchor="start" x="243.5" y="-357" font-family="Helvetica,sans-Serif" font-size="10.00"># $outputs</text>
+<text text-anchor="start" x="243.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"># $repetitions</text>
+<polyline fill="none" stroke="black" points="235.5,-339 406.5,-339 "/>
+<text text-anchor="start" x="243.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="243.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ validate()</text>
+<text text-anchor="start" x="243.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ matchIngredients()</text>
+<text text-anchor="start" x="243.5" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00"># callExecuteEvent()</text>
+<text text-anchor="start" x="243.5" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00"># matchOutputs()</text>
 </a>
 </g>
 </g>
 <!-- Node4&#45;&gt;Node1 -->
 <g id="edge3" class="edge">
 <title>Node4&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M321,-281.31C321,-260.46 321,-236.4 321,-212.81"/>
-<polygon fill="none" stroke="#404040" points="321,-212.54 317,-206.54 321,-200.54 325,-206.54 321,-212.54"/>
+<path fill="none" stroke="#404040" d="M321,-275.96C321,-256.46 321,-234.55 321,-213.02"/>
+<polygon fill="none" stroke="#404040" points="321,-212.76 317,-206.76 321,-200.76 325,-206.76 321,-212.76"/>
 <text text-anchor="middle" x="376" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00"> #$craftingTransaction</text>
 </g>
 <!-- Node5 -->
@@ -143,7 +144,7 @@
 <!-- Node5&#45;&gt;Node4 -->
 <g id="edge4" class="edge">
 <title>Node5&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M291.59,-508.09C297.99,-472.39 304.72,-434.81 310.13,-404.63"/>
+<path fill="none" stroke="midnightblue" d="M291.56,-508.23C297.57,-474.7 303.88,-439.5 309.11,-410.33"/>
 <polygon fill="none" stroke="midnightblue" points="288.11,-507.64 289.79,-518.1 295,-508.87 288.11,-507.64"/>
 </g>
 <!-- Node6 -->
@@ -165,8 +166,8 @@
 <!-- Node6&#45;&gt;Node4 -->
 <g id="edge5" class="edge">
 <title>Node6&#45;&gt;Node4</title>
-<path fill="none" stroke="#404040" d="M426.61,-584.36C406.82,-539.33 375.81,-468.74 352.5,-415.69"/>
-<polygon fill="none" stroke="#404040" points="352.47,-415.63 346.4,-411.75 347.65,-404.65 353.72,-408.53 352.47,-415.63"/>
+<path fill="none" stroke="#404040" d="M426.61,-584.36C407.54,-540.96 378.03,-473.79 355.04,-421.48"/>
+<polygon fill="none" stroke="#404040" points="354.92,-421.21 348.85,-417.33 350.1,-410.22 356.17,-414.11 354.92,-421.21"/>
 <text text-anchor="middle" x="412" y="-475.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #$recipe</text>
 </g>
 <!-- Node7 -->

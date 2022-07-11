@@ -45,8 +45,9 @@ var searchData=
   ['furnaceinventory_42',['FurnaceInventory',['../d8/d69/classpocketmine_1_1block_1_1inventory_1_1_furnace_inventory.html',1,'pocketmine::block::inventory']]],
   ['furnacerecipe_43',['FurnaceRecipe',['../da/d41/classpocketmine_1_1crafting_1_1_furnace_recipe.html',1,'pocketmine\crafting\FurnaceRecipe'],['../db/d68/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1recipe_1_1_furnace_recipe.html',1,'pocketmine\network\mcpe\protocol\types\recipe\FurnaceRecipe']]],
   ['furnacerecipeblockname_44',['FurnaceRecipeBlockName',['../d6/d97/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1recipe_1_1_furnace_recipe_block_name.html',1,'pocketmine::network::mcpe::protocol::types::recipe']]],
-  ['furnacerecipemanager_45',['FurnaceRecipeManager',['../d4/ddf/classpocketmine_1_1crafting_1_1_furnace_recipe_manager.html',1,'pocketmine::crafting']]],
-  ['furnacesmeltevent_46',['FurnaceSmeltEvent',['../d8/df1/classpocketmine_1_1event_1_1inventory_1_1_furnace_smelt_event.html',1,'pocketmine::event::inventory']]],
-  ['furnacesound_47',['FurnaceSound',['../dd/d28/classpocketmine_1_1world_1_1sound_1_1_furnace_sound.html',1,'pocketmine::world::sound']]],
-  ['furnacetype_48',['FurnaceType',['../dd/dfe/classpocketmine_1_1crafting_1_1_furnace_type.html',1,'pocketmine::crafting']]]
+  ['furnacerecipedata_45',['FurnaceRecipeData',['../d1/d4b/classpocketmine_1_1crafting_1_1json_1_1_furnace_recipe_data.html',1,'pocketmine::crafting::json']]],
+  ['furnacerecipemanager_46',['FurnaceRecipeManager',['../d4/ddf/classpocketmine_1_1crafting_1_1_furnace_recipe_manager.html',1,'pocketmine::crafting']]],
+  ['furnacesmeltevent_47',['FurnaceSmeltEvent',['../d8/df1/classpocketmine_1_1event_1_1inventory_1_1_furnace_smelt_event.html',1,'pocketmine::event::inventory']]],
+  ['furnacesound_48',['FurnaceSound',['../dd/d28/classpocketmine_1_1world_1_1sound_1_1_furnace_sound.html',1,'pocketmine::world::sound']]],
+  ['furnacetype_49',['FurnaceType',['../dd/dfe/classpocketmine_1_1crafting_1_1_furnace_type.html',1,'pocketmine::crafting']]]
 ];

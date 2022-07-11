@@ -25,8 +25,6 @@ var classpocketmine_1_1block_1_1_wood =
     [ "getPickedItem", "dc/d9e/classpocketmine_1_1block_1_1_wood.html#aac6828efb885bc8fe0f8876728ddde5d", null ],
     [ "getSide", "dc/d9e/classpocketmine_1_1block_1_1_wood.html#a6f13ff76dad934b1b2e078a5b57dd7a5", null ],
     [ "getSilkTouchDrops", "dc/d9e/classpocketmine_1_1block_1_1_wood.html#a4b01df2347f9cc897c5eb2858d6c5e7e", null ],
-    [ "getStateBitmask", "dc/d9e/classpocketmine_1_1block_1_1_wood.html#a19be184f5f78f7a49068916d5f59189e", null ],
-    [ "getTreeType", "dc/d9e/classpocketmine_1_1block_1_1_wood.html#a1bf68da64b495b10dccc2882bbdfd71d", null ],
     [ "getTypeId", "dc/d9e/classpocketmine_1_1block_1_1_wood.html#a994b80e9138156e5b90a803def57c7db", null ],
     [ "getXpDropAmount", "dc/d9e/classpocketmine_1_1block_1_1_wood.html#a771a30c30a36b0992f54c57dc63af10d", null ],
     [ "getXpDropForTool", "dc/d9e/classpocketmine_1_1block_1_1_wood.html#a75b16ca6e22355cf632466a969e79211", null ],
@@ -41,11 +39,12 @@ var classpocketmine_1_1block_1_1_wood =
     [ "onIncinerate", "dc/d9e/classpocketmine_1_1block_1_1_wood.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b", null ],
     [ "onInteract", "dc/d9e/classpocketmine_1_1block_1_1_wood.html#a8ea2e364c494209011133df35f4d9b4b", null ],
     [ "onNearbyBlockChange", "dc/d9e/classpocketmine_1_1block_1_1_wood.html#a863a7a7c27f111cc622ebb10711807c2", null ],
+    [ "onProjectileHit", "dc/d9e/classpocketmine_1_1block_1_1_wood.html#a0931c682312473fc2540464b7a4747c0", null ],
     [ "onRandomTick", "dc/d9e/classpocketmine_1_1block_1_1_wood.html#a36afea9f0214193963f75577e8d48c26", null ],
     [ "onScheduledUpdate", "dc/d9e/classpocketmine_1_1block_1_1_wood.html#a1a1a2b2adf423738289d296198f044e1", null ],
     [ "place", "dc/d9e/classpocketmine_1_1block_1_1_wood.html#a4bc78712a6bf9ec1e50890f716dbbd2d", null ],
-    [ "readStateFromData", "dc/d9e/classpocketmine_1_1block_1_1_wood.html#a07738ba94103cf04074fbd8d56b57f5b", null ],
     [ "readStateFromWorld", "dc/d9e/classpocketmine_1_1block_1_1_wood.html#a3a46169e7d256b3a1f3af8c54ddba832", null ],
     [ "recalculateCollisionBoxes", "dc/d9e/classpocketmine_1_1block_1_1_wood.html#a8a733c2fe564a205938a9146c8b0e0f1", null ],
+    [ "setStripped", "dc/d9e/classpocketmine_1_1block_1_1_wood.html#a84afa47e8556c8bf807a8930dc6ea07d", null ],
     [ "ticksRandomly", "dc/d9e/classpocketmine_1_1block_1_1_wood.html#ab6b90601adfc9732893dcffe256514a9", null ]
 ];

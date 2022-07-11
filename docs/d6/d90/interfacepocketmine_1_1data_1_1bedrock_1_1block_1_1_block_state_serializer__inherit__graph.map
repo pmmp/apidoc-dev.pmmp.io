@@ -1,0 +1,6 @@
+<map id="pocketmine\data\bedrock\block\BlockStateSerializer" name="pocketmine\data\bedrock\block\BlockStateSerializer">
+<area shape="rect" id="node1" title=" " alt="" coords="171,5,367,97"/>
+<area shape="rect" id="node2" href="$d5/dd0/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1_delegating_block_state_serializer.html" title=" " alt="" coords="5,197,272,289"/>
+<area shape="rect" id="node4" href="$d1/ddb/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_object_to_block_state_serializer.html" title=" " alt="" coords="296,145,507,340"/>
+<area shape="rect" id="node3" href="$de/d9f/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_caching_block_state_serializer.html" title=" " alt="" coords="15,388,263,509"/>
+</map>

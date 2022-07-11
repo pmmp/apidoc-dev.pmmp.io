@@ -1,9 +1,9 @@
 <map id="pocketmine\world\format\io\WorldProvider" name="pocketmine\world\format\io\WorldProvider">
-<area shape="rect" id="node1" title=" " alt="" coords="557,5,743,215"/>
-<area shape="rect" id="node2" href="$d6/dfa/classpocketmine_1_1world_1_1format_1_1io_1_1_base_world_provider.html" title=" " alt="" coords="451,263,638,399"/>
-<area shape="rect" id="node9" href="$d1/d1b/interfacepocketmine_1_1world_1_1format_1_1io_1_1_writable_world_provider.html" title=" " alt="" coords="663,285,851,377"/>
-<area shape="rect" id="node3" href="$df/d4c/classpocketmine_1_1world_1_1format_1_1io_1_1leveldb_1_1_level_d_b.html" title=" " alt="" coords="565,447,796,979"/>
-<area shape="rect" id="node4" href="$d6/d16/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_region_world_provider.html" title=" " alt="" coords="319,549,541,876"/>
+<area shape="rect" id="node1" title=" " alt="" coords="543,5,730,215"/>
+<area shape="rect" id="node2" href="$d6/dfa/classpocketmine_1_1world_1_1format_1_1io_1_1_base_world_provider.html" title=" " alt="" coords="397,263,639,457"/>
+<area shape="rect" id="node9" href="$d1/d1b/interfacepocketmine_1_1world_1_1format_1_1io_1_1_writable_world_provider.html" title=" " alt="" coords="663,314,851,406"/>
+<area shape="rect" id="node3" href="$df/d4c/classpocketmine_1_1world_1_1format_1_1io_1_1leveldb_1_1_level_d_b.html" title=" " alt="" coords="565,505,796,979"/>
+<area shape="rect" id="node4" href="$d6/d16/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_region_world_provider.html" title=" " alt="" coords="319,579,541,905"/>
 <area shape="rect" id="node5" href="$d9/d75/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_anvil.html" title=" " alt="" coords="5,1027,220,1177"/>
 <area shape="rect" id="node6" href="$da/d3f/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_mc_region.html" title=" " alt="" coords="244,1027,459,1177"/>
 <area shape="rect" id="node7" href="$d6/df1/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_p_m_anvil.html" title=" " alt="" coords="483,1027,697,1177"/>

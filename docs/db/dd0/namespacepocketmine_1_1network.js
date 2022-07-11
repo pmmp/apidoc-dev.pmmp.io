@@ -18,11 +18,14 @@ var namespacepocketmine_1_1network =
         [ "ZlibCompressor", "d2/db8/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_zlib_compressor.html", "d2/db8/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_zlib_compressor" ]
       ] ],
       [ "convert", null, [
+        [ "BlockStateDictionary", "da/d25/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary.html", "da/d25/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary" ],
+        [ "BlockStateDictionaryEntry", "d1/d2e/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary_entry.html", null ],
+        [ "BlockStateLookupCache", "db/dd9/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_lookup_cache.html", "db/dd9/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_lookup_cache" ],
         [ "GlobalItemTypeDictionary", "d2/d68/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_global_item_type_dictionary.html", null ],
         [ "ItemTranslator", "d6/dbd/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_item_translator.html", "d6/dbd/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_item_translator" ],
+        [ "ItemTypeDictionaryFromDataHelper", "d6/dfe/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_item_type_dictionary_from_data_helper.html", null ],
         [ "LegacySkinAdapter", "d3/de8/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_legacy_skin_adapter.html", "d3/de8/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_legacy_skin_adapter" ],
-        [ "R12ToCurrentBlockMapEntry", "d6/d12/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_r12_to_current_block_map_entry.html", null ],
-        [ "RuntimeBlockMapping", "d5/dfe/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_runtime_block_mapping.html", "d5/dfe/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_runtime_block_mapping" ],
+        [ "RuntimeBlockMapping", "d5/dfe/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_runtime_block_mapping.html", null ],
         [ "SkinAdapter", "d2/d77/interfacepocketmine_1_1network_1_1mcpe_1_1convert_1_1_skin_adapter.html", "d2/d77/interfacepocketmine_1_1network_1_1mcpe_1_1convert_1_1_skin_adapter" ],
         [ "SkinAdapterSingleton", "d4/d6d/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_skin_adapter_singleton.html", null ],
         [ "TypeConversionException", "dd/de4/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_type_conversion_exception.html", null ],

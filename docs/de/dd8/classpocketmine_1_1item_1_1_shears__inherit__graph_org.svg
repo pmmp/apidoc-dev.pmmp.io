@@ -51,15 +51,14 @@
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="../../dc/d20/classpocketmine_1_1item_1_1_durable.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="0,-254.5 0,-432.5 197,-432.5 197,-254.5 0,-254.5"/>
-<text text-anchor="middle" x="98.5" y="-420.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Durable</text>
-<polyline fill="none" stroke="#bfbfbf" points="0,-413.5 197,-413.5 "/>
-<text text-anchor="start" x="8" y="-401.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $damage</text>
-<polyline fill="none" stroke="#bfbfbf" points="0,-394.5 197,-394.5 "/>
-<text text-anchor="start" x="8" y="-382.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ applyDamage()</text>
-<text text-anchor="start" x="8" y="-371.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDamage()</text>
-<text text-anchor="start" x="8" y="-360.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxDurability()</text>
-<text text-anchor="start" x="8" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMeta()</text>
+<polygon fill="white" stroke="#bfbfbf" points="0,-254.5 0,-421.5 197,-421.5 197,-254.5 0,-254.5"/>
+<text text-anchor="middle" x="98.5" y="-409.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Durable</text>
+<polyline fill="none" stroke="#bfbfbf" points="0,-402.5 197,-402.5 "/>
+<text text-anchor="start" x="8" y="-390.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $damage</text>
+<polyline fill="none" stroke="#bfbfbf" points="0,-383.5 197,-383.5 "/>
+<text text-anchor="start" x="8" y="-371.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ applyDamage()</text>
+<text text-anchor="start" x="8" y="-360.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDamage()</text>
+<text text-anchor="start" x="8" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxDurability()</text>
 <text text-anchor="start" x="8" y="-338.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isBroken()</text>
 <text text-anchor="start" x="8" y="-327.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isUnbreakable()</text>
 <text text-anchor="start" x="8" y="-316.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setDamage()</text>
@@ -74,14 +73,14 @@
 <!-- Node3&#45;&gt;Node2 -->
 <g id="edge2" class="edge">
 <title>Node3&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M98.5,-243.93C98.5,-234.69 98.5,-225.74 98.5,-217.6"/>
-<polygon fill="none" stroke="midnightblue" points="95,-244.05 98.5,-254.05 102,-244.05 95,-244.05"/>
+<path fill="none" stroke="midnightblue" d="M98.5,-244.12C98.5,-234.81 98.5,-225.76 98.5,-217.52"/>
+<polygon fill="none" stroke="midnightblue" points="95,-244.3 98.5,-254.3 102,-244.3 95,-244.3"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
 <g id="a_node4"><a xlink:href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="19.5,-469.5 19.5,-790.5 177.5,-790.5 177.5,-469.5 19.5,-469.5"/>
+<polygon fill="white" stroke="#bfbfbf" points="19.5,-458.5 19.5,-790.5 177.5,-790.5 177.5,-458.5 19.5,-458.5"/>
 <text text-anchor="middle" x="98.5" y="-778.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Item</text>
 <polyline fill="none" stroke="#bfbfbf" points="19.5,-771.5 177.5,-771.5 "/>
 <text text-anchor="start" x="27.5" y="-759.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_BLOCK_ENTITY_TAG</text>
@@ -104,21 +103,22 @@
 <text text-anchor="start" x="27.5" y="-575.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomBlockData()</text>
 <text text-anchor="start" x="27.5" y="-564.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomName()</text>
 <text text-anchor="start" x="27.5" y="-553.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearNamedTag()</text>
-<text text-anchor="start" x="27.5" y="-542.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ equals()</text>
-<text text-anchor="start" x="27.5" y="-531.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ equalsExact()</text>
-<text text-anchor="start" x="27.5" y="-520.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 41 more...</text>
-<text text-anchor="start" x="27.5" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ jsonDeserialize()</text>
+<text text-anchor="start" x="27.5" y="-542.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ computeTypeData()</text>
+<text text-anchor="start" x="27.5" y="-531.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ equals()</text>
+<text text-anchor="start" x="27.5" y="-520.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 40 more...</text>
+<text text-anchor="start" x="27.5" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ legacyJsonDeserialize()</text>
 <text text-anchor="start" x="27.5" y="-498.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ nbtDeserialize()</text>
 <text text-anchor="start" x="27.5" y="-487.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
-<text text-anchor="start" x="27.5" y="-476.5" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeCompoundTag()</text>
+<text text-anchor="start" x="27.5" y="-476.5" font-family="Helvetica,sans-Serif" font-size="10.00"># encodeType()</text>
+<text text-anchor="start" x="27.5" y="-465.5" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeCompoundTag()</text>
 </a>
 </g>
 </g>
 <!-- Node4&#45;&gt;Node3 -->
 <g id="edge3" class="edge">
 <title>Node4&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M98.5,-459.05C98.5,-450.03 98.5,-441.17 98.5,-432.62"/>
-<polygon fill="none" stroke="midnightblue" points="95,-459.29 98.5,-469.29 102,-459.29 95,-459.29"/>
+<path fill="none" stroke="midnightblue" d="M98.5,-448.13C98.5,-439.07 98.5,-430.21 98.5,-421.7"/>
+<polygon fill="none" stroke="midnightblue" points="95,-448.42 98.5,-458.42 102,-448.42 95,-448.42"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
@@ -136,8 +136,8 @@
 <!-- Node5&#45;&gt;Node4 -->
 <g id="edge4" class="edge">
 <title>Node5&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M98.5,-816.91C98.5,-809.02 98.5,-800.25 98.5,-790.93"/>
-<polygon fill="none" stroke="midnightblue" points="95,-817.08 98.5,-827.08 102,-817.08 95,-817.08"/>
+<path fill="none" stroke="midnightblue" d="M98.5,-817.08C98.5,-809.13 98.5,-800.28 98.5,-790.85"/>
+<polygon fill="none" stroke="midnightblue" points="95,-817.32 98.5,-827.32 102,-817.32 95,-817.32"/>
 </g>
 </g>
 </svg>

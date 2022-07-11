@@ -1,5 +1,6 @@
 var classpocketmine_1_1block_1_1_slab =
 [
+    [ "__construct", "dc/d60/classpocketmine_1_1block_1_1_slab.html#aafcc089fc588b599736de514780b9d19", null ],
     [ "__toString", "dc/d60/classpocketmine_1_1block_1_1_slab.html#acb449b40461f4800cf6e6288cb9a069d", null ],
     [ "blocksDirectSkyLight", "dc/d60/classpocketmine_1_1block_1_1_slab.html#a2127737ad69279d366e4462b54f693f2", null ],
     [ "burnsForever", "dc/d60/classpocketmine_1_1block_1_1_slab.html#aa09e248dd611c0ebb95cf2adf2d6d31c", null ],
@@ -26,7 +27,6 @@ var classpocketmine_1_1block_1_1_slab =
     [ "getSide", "dc/d60/classpocketmine_1_1block_1_1_slab.html#a6f13ff76dad934b1b2e078a5b57dd7a5", null ],
     [ "getSilkTouchDrops", "dc/d60/classpocketmine_1_1block_1_1_slab.html#a4b01df2347f9cc897c5eb2858d6c5e7e", null ],
     [ "getSlabType", "dc/d60/classpocketmine_1_1block_1_1_slab.html#a2c0dfc25a0bfc6debf41910a0454aacd", null ],
-    [ "getStateBitmask", "dc/d60/classpocketmine_1_1block_1_1_slab.html#a78ae3c14fd193e5522c2a5a5918791e8", null ],
     [ "getTypeId", "dc/d60/classpocketmine_1_1block_1_1_slab.html#a994b80e9138156e5b90a803def57c7db", null ],
     [ "getXpDropAmount", "dc/d60/classpocketmine_1_1block_1_1_slab.html#a771a30c30a36b0992f54c57dc63af10d", null ],
     [ "getXpDropForTool", "dc/d60/classpocketmine_1_1block_1_1_slab.html#a75b16ca6e22355cf632466a969e79211", null ],
@@ -41,10 +41,10 @@ var classpocketmine_1_1block_1_1_slab =
     [ "onIncinerate", "dc/d60/classpocketmine_1_1block_1_1_slab.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b", null ],
     [ "onInteract", "dc/d60/classpocketmine_1_1block_1_1_slab.html#a86f1c668b5d74d68ab7e2521936bfce8", null ],
     [ "onNearbyBlockChange", "dc/d60/classpocketmine_1_1block_1_1_slab.html#a863a7a7c27f111cc622ebb10711807c2", null ],
+    [ "onProjectileHit", "dc/d60/classpocketmine_1_1block_1_1_slab.html#a0931c682312473fc2540464b7a4747c0", null ],
     [ "onRandomTick", "dc/d60/classpocketmine_1_1block_1_1_slab.html#a36afea9f0214193963f75577e8d48c26", null ],
     [ "onScheduledUpdate", "dc/d60/classpocketmine_1_1block_1_1_slab.html#a1a1a2b2adf423738289d296198f044e1", null ],
     [ "place", "dc/d60/classpocketmine_1_1block_1_1_slab.html#aac7dd761d0e9e81aea1ca49d12e9629c", null ],
-    [ "readStateFromData", "dc/d60/classpocketmine_1_1block_1_1_slab.html#ad2dd780ba966f3b1faff83e4fb0aa83a", null ],
     [ "readStateFromWorld", "dc/d60/classpocketmine_1_1block_1_1_slab.html#a3a46169e7d256b3a1f3af8c54ddba832", null ],
     [ "recalculateCollisionBoxes", "dc/d60/classpocketmine_1_1block_1_1_slab.html#a3c13a6eae4fd3096529f08936687f41e", null ],
     [ "setSlabType", "dc/d60/classpocketmine_1_1block_1_1_slab.html#abc90cb12d0bc098f7c614cb247847782", null ],

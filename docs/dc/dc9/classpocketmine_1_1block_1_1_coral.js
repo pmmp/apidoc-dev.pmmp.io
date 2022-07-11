@@ -25,7 +25,6 @@ var classpocketmine_1_1block_1_1_coral =
     [ "getPickedItem", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#aac6828efb885bc8fe0f8876728ddde5d", null ],
     [ "getSide", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#a6f13ff76dad934b1b2e078a5b57dd7a5", null ],
     [ "getSilkTouchDrops", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#a4b01df2347f9cc897c5eb2858d6c5e7e", null ],
-    [ "getStateBitmask", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#a4d3088f1be6085ca631f82a7be542925", null ],
     [ "getTypeId", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#a994b80e9138156e5b90a803def57c7db", null ],
     [ "getXpDropAmount", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#a771a30c30a36b0992f54c57dc63af10d", null ],
     [ "getXpDropForTool", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#a75b16ca6e22355cf632466a969e79211", null ],
@@ -40,11 +39,11 @@ var classpocketmine_1_1block_1_1_coral =
     [ "onIncinerate", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b", null ],
     [ "onInteract", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#a86f1c668b5d74d68ab7e2521936bfce8", null ],
     [ "onNearbyBlockChange", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#a1f965fa6bafa446de2815985b5c6b075", null ],
+    [ "onProjectileHit", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#a0931c682312473fc2540464b7a4747c0", null ],
     [ "onRandomTick", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#a36afea9f0214193963f75577e8d48c26", null ],
     [ "onScheduledUpdate", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#a1a1a2b2adf423738289d296198f044e1", null ],
     [ "place", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#a51fff57c60c38516f7a2502f7e931637", null ],
-    [ "readStateFromData", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#af9609e41fd0e34551f98e1910009ad2f", null ],
-    [ "readStateFromWorld", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#a2b15bcc261f952389da7a9f5be4cb9f1", null ],
+    [ "readStateFromWorld", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#a3a46169e7d256b3a1f3af8c54ddba832", null ],
     [ "recalculateCollisionBoxes", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#a1acb95b5c78e0c14c836a31f9275de45", null ],
     [ "ticksRandomly", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#ab6b90601adfc9732893dcffe256514a9", null ]
 ];

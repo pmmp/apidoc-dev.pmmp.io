@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0 git-4d9f2bc9b1136314029370397391c32ba979e7c2</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA2 git-2ba51567d8f41324e5e895f899a924a4d1160c59</span>
    </div>
   </td>
  </tr>
@@ -117,7 +117,7 @@ $(document).ready(function(){initNavTree('d6/d90/populator_2_tree_8php_source.ht
 <div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span> </div>
 <div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span><span class="keyword">namespace </span><a class="code hl_namespace" href="../../d1/d99/namespacepocketmine_1_1world_1_1generator_1_1populator.html">pocketmine\world\generator\populator</a>;</div>
 <div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span> </div>
-<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>use <a class="code hl_class" href="../../db/d51/classpocketmine_1_1block_1_1_block_legacy_ids.html">pocketmine\block\BlockLegacyIds</a>;</div>
+<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>use <a class="code hl_class" href="../../db/dbe/classpocketmine_1_1block_1_1_block_type_ids.html">pocketmine\block\BlockTypeIds</a>;</div>
 <div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>use <a class="code hl_class" href="../../d7/de7/classpocketmine_1_1block_1_1utils_1_1_tree_type.html">pocketmine\block\utils\TreeType</a>;</div>
 <div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>use <a class="code hl_class" href="../../db/dcb/classpocketmine_1_1utils_1_1_random.html">pocketmine\utils\Random</a>;</div>
 <div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>use <a class="code hl_interface" href="../../d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html">pocketmine\world\ChunkManager</a>;</div>
@@ -158,10 +158,10 @@ $(document).ready(function(){initNavTree('d6/d90/populator_2_tree_8php_source.ht
 <div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span> </div>
 <div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>    <span class="keyword">private</span> <span class="keyword">function</span> getHighestWorkableBlock(ChunkManager $world, <span class="keywordtype">int</span> $x, <span class="keywordtype">int</span> $z) : int{</div>
 <div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>        for($y = 127; $y &gt;= 0; --$y){</div>
-<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>            $b = $world-&gt;getBlockAt($x, $y, $z)-&gt;getId();</div>
-<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>            <span class="keywordflow">if</span>($b === BlockLegacyIds::DIRT || $b === BlockLegacyIds::GRASS){</div>
+<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>            $b = $world-&gt;getBlockAt($x, $y, $z)-&gt;getTypeId();</div>
+<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>            <span class="keywordflow">if</span>($b === BlockTypeIds::DIRT || $b === BlockTypeIds::GRASS){</div>
 <div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>                <span class="keywordflow">return</span> $y + 1;</div>
-<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>            }elseif($b !== BlockLegacyIds::AIR &amp;&amp; $b !== BlockLegacyIds::SNOW_LAYER){</div>
+<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>            }elseif($b !== BlockTypeIds::AIR &amp;&amp; $b !== BlockTypeIds::SNOW_LAYER){</div>
 <div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>                <span class="keywordflow">return</span> -1;</div>
 <div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span>            }</div>
 <div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>        }</div>
@@ -169,7 +169,7 @@ $(document).ready(function(){initNavTree('d6/d90/populator_2_tree_8php_source.ht
 <div class="line"><a id="l00078" name="l00078"></a><span class="lineno">   78</span>        <span class="keywordflow">return</span> -1;</div>
 <div class="line"><a id="l00079" name="l00079"></a><span class="lineno">   79</span>    }</div>
 <div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span>}</div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_legacy_ids_html"><div class="ttname"><a href="../../db/d51/classpocketmine_1_1block_1_1_block_legacy_ids.html">pocketmine\block\BlockLegacyIds</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d7d/_block_legacy_ids_8php_source.html#l00026">BlockLegacyIds.php:26</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_type_ids_html"><div class="ttname"><a href="../../db/dbe/classpocketmine_1_1block_1_1_block_type_ids.html">pocketmine\block\BlockTypeIds</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d8/dbd/_block_type_ids_8php_source.html#l00033">BlockTypeIds.php:33</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1utils_1_1_tree_type_html"><div class="ttname"><a href="../../d7/de7/classpocketmine_1_1block_1_1utils_1_1_tree_type.html">pocketmine\block\utils\TreeType</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d67/_tree_type_8php_source.html#l00041">TreeType.php:41</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_random_html"><div class="ttname"><a href="../../db/dcb/classpocketmine_1_1utils_1_1_random.html">pocketmine\utils\Random</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d8/dbd/_random_8php_source.html#l00032">Random.php:32</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1format_1_1_chunk_html"><div class="ttname"><a href="../../d2/de7/classpocketmine_1_1world_1_1format_1_1_chunk.html">pocketmine\world\format\Chunk</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d1/db1/_chunk_8php_source.html#l00034">Chunk.php:34</a></div></div>
