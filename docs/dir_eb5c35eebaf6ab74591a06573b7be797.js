@@ -6,6 +6,7 @@ var dir_eb5c35eebaf6ab74591a06573b7be797 =
     [ "BannerPatternType.php", "db/d60/_banner_pattern_type_8php_source.html", null ],
     [ "BellAttachmentType.php", "da/d16/_bell_attachment_type_8php_source.html", null ],
     [ "BrewingStandSlot.php", "d8/daf/_brewing_stand_slot_8php_source.html", null ],
+    [ "CandleTrait.php", "d0/d3d/_candle_trait_8php_source.html", null ],
     [ "ColoredTrait.php", "dd/d40/_colored_trait_8php_source.html", null ],
     [ "CopperOxidation.php", "d8/de5/_copper_oxidation_8php_source.html", null ],
     [ "CopperTrait.php", "d0/d43/_copper_trait_8php_source.html", null ],

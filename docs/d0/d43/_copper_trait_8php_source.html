@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA2 git-2ba51567d8f41324e5e895f899a924a4d1160c59</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA3 git-172bd9a12906794fa3811a1a01fc1a468a142bbc</span>
    </div>
   </td>
  </tr>
@@ -160,7 +160,7 @@ $(document).ready(function(){initNavTree('d0/d43/_copper_trait_8php_source.html'
 <div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>        <span class="keywordflow">return</span> $this;</div>
 <div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>    }</div>
 <div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span> </div>
-<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>    <span class="keyword">public</span> <span class="keyword">function</span> onInteract(Item $item, <span class="keywordtype">int</span> $face, Vector3 $clickVector, ?Player $player = <span class="keyword">null</span>) : bool{</div>
+<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>    <span class="keyword">public</span> <span class="keyword">function</span> onInteract(Item $item, <span class="keywordtype">int</span> $face, Vector3 $clickVector, ?Player $player = <span class="keyword">null</span>, array &amp;$returnedItems = []) : bool{</div>
 <div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>        if(!$this-&gt;waxed &amp;&amp; $item-&gt;getTypeId() === ItemTypeIds::HONEYCOMB){</div>
 <div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>            $this-&gt;waxed = <span class="keyword">true</span>;</div>
 <div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>            $this-&gt;position-&gt;getWorld()-&gt;setBlock($this-&gt;position, $this);</div>
@@ -202,7 +202,7 @@ $(document).ready(function(){initNavTree('d0/d43/_copper_trait_8php_source.html'
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">pocketmine\item\Item</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d98/_item_8php_source.html#l00057">Item.php:57</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_item_type_ids_html"><div class="ttname"><a href="../../d9/d6f/classpocketmine_1_1item_1_1_item_type_ids.html">pocketmine\item\ItemTypeIds</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d4/d6d/_item_type_ids_8php_source.html#l00033">ItemTypeIds.php:33</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1math_1_1_vector3_html"><div class="ttname"><a href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">pocketmine\math\Vector3</a></div><div class="ttdef"><b>Definition:</b> <a href="../../de/d7b/_vector3_8php_source.html#l00036">Vector3.php:36</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1player_1_1_player_html"><div class="ttname"><a href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html">pocketmine\player\Player</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d76/_player_8php_source.html#l00161">Player.php:161</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1player_1_1_player_html"><div class="ttname"><a href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html">pocketmine\player\Player</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d76/_player_8php_source.html#l00163">Player.php:163</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1sound_1_1_copper_wax_apply_sound_html"><div class="ttname"><a href="../../df/d22/classpocketmine_1_1world_1_1sound_1_1_copper_wax_apply_sound.html">pocketmine\world\sound\CopperWaxApplySound</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/ddb/_copper_wax_apply_sound_8php_source.html#l00030">CopperWaxApplySound.php:30</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1sound_1_1_copper_wax_remove_sound_html"><div class="ttname"><a href="../../da/db6/classpocketmine_1_1world_1_1sound_1_1_copper_wax_remove_sound.html">pocketmine\world\sound\CopperWaxRemoveSound</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/db6/_copper_wax_remove_sound_8php_source.html#l00030">CopperWaxRemoveSound.php:30</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1sound_1_1_item_use_on_block_sound_html"><div class="ttname"><a href="../../d5/d62/classpocketmine_1_1world_1_1sound_1_1_item_use_on_block_sound.html">pocketmine\world\sound\ItemUseOnBlockSound</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d4/d77/_item_use_on_block_sound_8php_source.html#l00032">ItemUseOnBlockSound.php:32</a></div></div>

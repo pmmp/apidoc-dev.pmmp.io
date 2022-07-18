@@ -1,6 +1,6 @@
 <map id="pocketmine\item\Axe" name="pocketmine\item\Axe">
-<area shape="rect" id="node1" title=" " alt="" coords="187,1775,403,1911"/>
-<area shape="rect" id="node2" href="$de/dee/classpocketmine_1_1item_1_1_tiered_tool.html" title=" " alt="" coords="191,1589,398,1725"/>
+<area shape="rect" id="node1" title=" " alt="" coords="187,1789,403,1925"/>
+<area shape="rect" id="node2" href="$de/dee/classpocketmine_1_1item_1_1_tiered_tool.html" title=" " alt="" coords="191,1589,398,1740"/>
 <area shape="rect" id="node3" href="$da/de7/classpocketmine_1_1item_1_1_tool.html" title=" " alt="" coords="81,1405,287,1512"/>
 <area shape="rect" id="node4" href="$dc/d20/classpocketmine_1_1item_1_1_durable.html" title=" " alt="" coords="53,1117,315,1341"/>
 <area shape="rect" id="node5" href="$d5/d8a/classpocketmine_1_1item_1_1_item.html" title=" " alt="" coords="79,712,289,1068"/>

@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA2 git-2ba51567d8f41324e5e895f899a924a4d1160c59</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA3 git-172bd9a12906794fa3811a1a01fc1a468a142bbc</span>
    </div>
   </td>
  </tr>
@@ -131,7 +131,7 @@ $(document).ready(function(){initNavTree('d7/dd1/_sign_like_rotation_trait_8php_
 <div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>    }</div>
 <div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span> </div>
 <div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>    <span class="keyword">protected</span> <span class="keyword">function</span> encodeState(RuntimeDataWriter $w) : void{</div>
-<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>        $w-&gt;writeInt(4, $this-&gt;rotation);</div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>        $w-&gt;writeBoundedInt(4, 0, 15, $this-&gt;rotation);</div>
 <div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>    }</div>
 <div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span> </div>
 <div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>    <span class="keyword">public</span> <span class="keyword">function</span> getRotation() : int{ return $this-&gt;rotation; }</div>

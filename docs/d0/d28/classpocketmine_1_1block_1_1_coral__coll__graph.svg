@@ -133,7 +133,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="270.03" y="-468.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ calculateIntercept()</text>
 <text text-anchor="start" x="270.03" y="-457.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
 <text text-anchor="start" x="270.03" y="-446.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
-<text text-anchor="start" x="270.03" y="-435.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 60 more...</text>
+<text text-anchor="start" x="270.03" y="-435.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 61 more...</text>
 <text text-anchor="start" x="270.03" y="-424.5" font-family="Helvetica,sans-Serif" font-size="10.00"># decodeState()</text>
 <text text-anchor="start" x="270.03" y="-413.5" font-family="Helvetica,sans-Serif" font-size="10.00"># decodeType()</text>
 <text text-anchor="start" x="270.03" y="-402.5" font-family="Helvetica,sans-Serif" font-size="10.00"># encodeState()</text>

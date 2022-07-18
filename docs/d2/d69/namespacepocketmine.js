@@ -104,7 +104,8 @@ var namespacepocketmine =
           [ "ItemTypeNames", "d5/d77/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_type_names.html", null ],
           [ "ItemTypeSerializeException", "d5/d0f/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_type_serialize_exception.html", null ],
           [ "SavedItemData", "df/d33/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_saved_item_data.html", null ],
-          [ "SavedItemStackData", "db/d16/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_saved_item_stack_data.html", "db/d16/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_saved_item_stack_data" ]
+          [ "SavedItemStackData", "db/d16/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_saved_item_stack_data.html", "db/d16/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_saved_item_stack_data" ],
+          [ "UnsupportedItemTypeException", "df/d6b/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_unsupported_item_type_exception.html", null ]
         ] ],
         [ "BannerPatternTypeIdMap", "db/d15/classpocketmine_1_1data_1_1bedrock_1_1_banner_pattern_type_id_map.html", null ],
         [ "BiomeIds", "dc/dce/classpocketmine_1_1data_1_1bedrock_1_1_biome_ids.html", null ],

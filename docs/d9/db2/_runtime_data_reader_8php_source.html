@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA2 git-2ba51567d8f41324e5e895f899a924a4d1160c59</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA3 git-172bd9a12906794fa3811a1a01fc1a468a142bbc</span>
    </div>
   </td>
  </tr>
@@ -143,7 +143,7 @@ $(document).ready(function(){initNavTree('d9/db2/_runtime_data_reader_8php_sourc
 <div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>    }</div>
 <div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span> </div>
 <div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>    <span class="keyword">public</span> <span class="keyword">function</span> readBoundedInt(<span class="keywordtype">int</span> $bits, <span class="keywordtype">int</span> $min, <span class="keywordtype">int</span> $max) : <span class="keywordtype">int</span>{</div>
-<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>        $result = $this-&gt;readInt($bits);</div>
+<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>        $result = $this-&gt;readInt($bits) + $min;</div>
 <div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>        <span class="keywordflow">if</span>($result &lt; $min || $result &gt; $max){</div>
 <div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>            <span class="keywordflow">throw</span> <span class="keyword">new</span> <a class="code hl_class" href="../../de/d29/classpocketmine_1_1data_1_1runtime_1_1_invalid_serialized_runtime_data_exception.html">InvalidSerializedRuntimeDataException</a>(<span class="stringliteral">&quot;Value is outside the range $min - $max&quot;</span>);</div>
 <div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>        }</div>

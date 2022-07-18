@@ -8,5 +8,6 @@ var dir_71f1e627954ef110d7fffbc575066ce3 =
     [ "ItemTypeNames.php", "dc/de7/_item_type_names_8php_source.html", null ],
     [ "ItemTypeSerializeException.php", "d7/df7/_item_type_serialize_exception_8php_source.html", null ],
     [ "SavedItemData.php", "df/dcd/_saved_item_data_8php_source.html", null ],
-    [ "SavedItemStackData.php", "d8/d3e/_saved_item_stack_data_8php_source.html", null ]
+    [ "SavedItemStackData.php", "d8/d3e/_saved_item_stack_data_8php_source.html", null ],
+    [ "UnsupportedItemTypeException.php", "d4/d74/_unsupported_item_type_exception_8php_source.html", null ]
 ];

@@ -80,6 +80,6 @@ var classpocketmine_1_1world_1_1_world =
     [ "unlockChunk", "d4/d2b/classpocketmine_1_1world_1_1_world.html#a5e3184c8c09824005f8961cb3a58d68d", null ],
     [ "unregisterChunkListener", "d4/d2b/classpocketmine_1_1world_1_1_world.html#afd51ae9c966a8d2de8dc91f80b337afc", null ],
     [ "unregisterChunkListenerFromAll", "d4/d2b/classpocketmine_1_1world_1_1_world.html#aa5d895755fb6883ebb3a62e97523747d", null ],
-    [ "useBreakOn", "d4/d2b/classpocketmine_1_1world_1_1_world.html#a86a1511d66542c24059a6b387195dc23", null ],
-    [ "useItemOn", "d4/d2b/classpocketmine_1_1world_1_1_world.html#a89060c5356799854004d95571da52009", null ]
+    [ "useBreakOn", "d4/d2b/classpocketmine_1_1world_1_1_world.html#a1e582510a552bb3b6065dde74da1ac16", null ],
+    [ "useItemOn", "d4/d2b/classpocketmine_1_1world_1_1_world.html#ab3173b7c869185b74e47b652252268e4", null ]
 ];

@@ -1,6 +1,7 @@
 var classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_deserializer_helper =
 [
     [ "decodeButton", "da/dd2/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_deserializer_helper.html#af4dcabf1dff822e1158816900afde3dc", null ],
+    [ "decodeCandle", "da/dd2/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_deserializer_helper.html#a57fb8b7973a8043fd215863a3c4969aa", null ],
     [ "decodeComparator", "da/dd2/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_deserializer_helper.html#af0fed566211f83f0d2de7d1fbc8d9d08", null ],
     [ "decodeCopper", "da/dd2/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_deserializer_helper.html#aea5bc3b744e8180f0c372927746b1e71", null ],
     [ "decodeCrops", "da/dd2/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_deserializer_helper.html#a0eebc427cc1b92cca7bf0ed547867a3f", null ],

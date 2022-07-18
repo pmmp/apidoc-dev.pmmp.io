@@ -268,8 +268,8 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="799" y="-1031.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOwner()</text>
 <text text-anchor="start" x="799" y="-1020.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPickupDelay()</text>
 <text text-anchor="start" x="799" y="-1009.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getThrower()</text>
-<text text-anchor="start" x="799" y="-998.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isMergeable()</text>
-<text text-anchor="start" x="799" y="-987.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 8 more...</text>
+<text text-anchor="start" x="799" y="-998.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isFireProof()</text>
+<text text-anchor="start" x="799" y="-987.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 9 more...</text>
 <text text-anchor="start" x="799" y="-976.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNetworkTypeId()</text>
 <text text-anchor="start" x="799" y="-965.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyDragBeforeGravity()</text>
 <text text-anchor="start" x="799" y="-954.5" font-family="Helvetica,sans-Serif" font-size="10.00"># entityBaseTick()</text>

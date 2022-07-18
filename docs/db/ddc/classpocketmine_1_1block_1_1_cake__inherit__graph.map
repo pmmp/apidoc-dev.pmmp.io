@@ -1,7 +1,8 @@
 <map id="pocketmine\block\Cake" name="pocketmine\block\Cake">
-<area shape="rect" id="node1" title=" " alt="" coords="136,608,363,935"/>
-<area shape="rect" id="node2" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="19,468,237,545"/>
-<area shape="rect" id="node3" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="5,5,240,405"/>
-<area shape="rect" id="node4" href="$df/dfd/interfacepocketmine_1_1entity_1_1_food_source.html" title=" " alt="" coords="264,453,483,560"/>
-<area shape="rect" id="node5" href="$db/d3f/interfacepocketmine_1_1entity_1_1_consumable.html" title=" " alt="" coords="263,159,489,251"/>
+<area shape="rect" id="node1" title=" " alt="" coords="141,865,357,1060"/>
+<area shape="rect" id="node2" href="$d6/dc5/classpocketmine_1_1block_1_1_base_cake.html" title=" " alt="" coords="147,608,352,817"/>
+<area shape="rect" id="node3" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="19,468,237,545"/>
+<area shape="rect" id="node4" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="5,5,240,405"/>
+<area shape="rect" id="node5" href="$df/dfd/interfacepocketmine_1_1entity_1_1_food_source.html" title=" " alt="" coords="264,453,483,560"/>
+<area shape="rect" id="node6" href="$db/d3f/interfacepocketmine_1_1entity_1_1_consumable.html" title=" " alt="" coords="263,159,489,251"/>
 </map>

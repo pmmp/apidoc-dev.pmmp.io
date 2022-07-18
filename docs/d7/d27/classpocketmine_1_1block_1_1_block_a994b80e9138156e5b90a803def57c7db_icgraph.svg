@@ -22,7 +22,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="../../d9/d64/classpocketmine_1_1item_1_1_bucket.html#a64333f19c280e3b26d08dd014c441f53" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="../../d9/d64/classpocketmine_1_1item_1_1_bucket.html#a26cc1a801d7b165013ef6fc67303a9b7" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="16.5,-49.5 16.5,-79.5 151.5,-79.5 151.5,-49.5 16.5,-49.5"/>
 <text text-anchor="start" x="24.5" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Bucket</text>
 <text text-anchor="middle" x="84" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">\onInteractBlock</text>

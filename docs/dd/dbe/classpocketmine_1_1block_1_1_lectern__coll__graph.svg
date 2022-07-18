@@ -121,7 +121,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="536.5" y="-460.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ calculateIntercept()</text>
 <text text-anchor="start" x="536.5" y="-449.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
 <text text-anchor="start" x="536.5" y="-438.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
-<text text-anchor="start" x="536.5" y="-427.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 60 more...</text>
+<text text-anchor="start" x="536.5" y="-427.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 61 more...</text>
 <text text-anchor="start" x="536.5" y="-416.5" font-family="Helvetica,sans-Serif" font-size="10.00"># decodeState()</text>
 <text text-anchor="start" x="536.5" y="-405.5" font-family="Helvetica,sans-Serif" font-size="10.00"># decodeType()</text>
 <text text-anchor="start" x="536.5" y="-394.5" font-family="Helvetica,sans-Serif" font-size="10.00"># encodeState()</text>
@@ -302,7 +302,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="935" y="-1168.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearNamedTag()</text>
 <text text-anchor="start" x="935" y="-1157.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ computeTypeData()</text>
 <text text-anchor="start" x="935" y="-1146.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ equals()</text>
-<text text-anchor="start" x="935" y="-1135.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 40 more...</text>
+<text text-anchor="start" x="935" y="-1135.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 41 more...</text>
 <text text-anchor="start" x="935" y="-1124.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ legacyJsonDeserialize()</text>
 <text text-anchor="start" x="935" y="-1113.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ nbtDeserialize()</text>
 <text text-anchor="start" x="935" y="-1102.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
