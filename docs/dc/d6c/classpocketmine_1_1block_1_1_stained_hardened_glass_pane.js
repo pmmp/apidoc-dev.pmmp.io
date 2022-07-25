@@ -1,6 +1,6 @@
 var classpocketmine_1_1block_1_1_stained_hardened_glass_pane =
 [
-    [ "__construct", "dc/d6c/classpocketmine_1_1block_1_1_stained_hardened_glass_pane.html#a81d53ed2bec60dcafa1a9014e7f4da8d", null ],
+    [ "__construct", "dc/d6c/classpocketmine_1_1block_1_1_stained_hardened_glass_pane.html#add2deccad5f0c10e92b1094c22abf4b2", null ],
     [ "__toString", "dc/d6c/classpocketmine_1_1block_1_1_stained_hardened_glass_pane.html#acb449b40461f4800cf6e6288cb9a069d", null ],
     [ "blocksDirectSkyLight", "dc/d6c/classpocketmine_1_1block_1_1_stained_hardened_glass_pane.html#a2127737ad69279d366e4462b54f693f2", null ],
     [ "burnsForever", "dc/d6c/classpocketmine_1_1block_1_1_stained_hardened_glass_pane.html#aa09e248dd611c0ebb95cf2adf2d6d31c", null ],
@@ -27,8 +27,10 @@ var classpocketmine_1_1block_1_1_stained_hardened_glass_pane =
     [ "getSide", "dc/d6c/classpocketmine_1_1block_1_1_stained_hardened_glass_pane.html#a6f13ff76dad934b1b2e078a5b57dd7a5", null ],
     [ "getSilkTouchDrops", "dc/d6c/classpocketmine_1_1block_1_1_stained_hardened_glass_pane.html#a4b01df2347f9cc897c5eb2858d6c5e7e", null ],
     [ "getTypeId", "dc/d6c/classpocketmine_1_1block_1_1_stained_hardened_glass_pane.html#a994b80e9138156e5b90a803def57c7db", null ],
+    [ "getTypeTags", "dc/d6c/classpocketmine_1_1block_1_1_stained_hardened_glass_pane.html#a6201b0d5460ae6f3b5cee03197c9a94a", null ],
     [ "getXpDropAmount", "dc/d6c/classpocketmine_1_1block_1_1_stained_hardened_glass_pane.html#a771a30c30a36b0992f54c57dc63af10d", null ],
     [ "getXpDropForTool", "dc/d6c/classpocketmine_1_1block_1_1_stained_hardened_glass_pane.html#a75b16ca6e22355cf632466a969e79211", null ],
+    [ "hasTypeTag", "dc/d6c/classpocketmine_1_1block_1_1_stained_hardened_glass_pane.html#a43e3458847422ebd5dec6c914b443c93", null ],
     [ "isAffectedBySilkTouch", "dc/d6c/classpocketmine_1_1block_1_1_stained_hardened_glass_pane.html#a8307fc850da5c3f36e9dfc7ce639fe55", null ],
     [ "isFlammable", "dc/d6c/classpocketmine_1_1block_1_1_stained_hardened_glass_pane.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e", null ],
     [ "isSameState", "dc/d6c/classpocketmine_1_1block_1_1_stained_hardened_glass_pane.html#a1ce2444f76246982cfbb507fed99a48e", null ],

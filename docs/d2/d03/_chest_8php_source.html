@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA3 git-172bd9a12906794fa3811a1a01fc1a468a142bbc</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA3 git-79125b8426c4ad63c10ea3ffc8e1cd673f2d726a</span>
    </div>
   </td>
  </tr>
@@ -142,13 +142,13 @@ $(document).ready(function(){initNavTree('d2/d03/_chest_8php_source.html','../..
 <div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>    }</div>
 <div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span> </div>
 <div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>    <span class="keyword">public</span> <span class="keyword">function</span> onPostPlace() : void{</div>
-<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>        $tile = $this-&gt;position-&gt;getWorld()-&gt;getTile($this-&gt;position);</div>
-<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>        <span class="keywordflow">if</span>($tile instanceof TileChest){</div>
-<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>            <span class="keywordflow">foreach</span>([<span class="keyword">false</span>, <span class="keyword">true</span>] as $clockwise){</div>
-<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>                $side = Facing::rotateY($this-&gt;facing, $clockwise);</div>
-<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>                $c = $this-&gt;getSide($side);</div>
-<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>                <span class="keywordflow">if</span>($c instanceof Chest &amp;&amp; $c-&gt;isSameType($this) &amp;&amp; $c-&gt;facing === $this-&gt;facing){</div>
-<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>                    $world = $this-&gt;position-&gt;getWorld();</div>
+<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>        $world = $this-&gt;position-&gt;getWorld();</div>
+<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>        $tile = $world-&gt;getTile($this-&gt;position);</div>
+<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>        <span class="keywordflow">if</span>($tile instanceof TileChest){</div>
+<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>            <span class="keywordflow">foreach</span>([<span class="keyword">false</span>, <span class="keyword">true</span>] as $clockwise){</div>
+<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>                $side = Facing::rotateY($this-&gt;facing, $clockwise);</div>
+<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>                $c = $this-&gt;getSide($side);</div>
+<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>                <span class="keywordflow">if</span>($c instanceof Chest &amp;&amp; $c-&gt;isSameType($this) &amp;&amp; $c-&gt;facing === $this-&gt;facing){</div>
 <div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>                    $pair = $world-&gt;getTile($c-&gt;position);</div>
 <div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>                    <span class="keywordflow">if</span>($pair instanceof TileChest &amp;&amp; !$pair-&gt;isPaired()){</div>
 <div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>                        [$left, $right] = $clockwise ? [$c, $this] : [$this, $c];</div>

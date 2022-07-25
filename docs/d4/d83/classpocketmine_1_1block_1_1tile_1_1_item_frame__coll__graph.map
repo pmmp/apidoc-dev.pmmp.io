@@ -1,6 +1,6 @@
 <map id="pocketmine\block\tile\ItemFrame" name="pocketmine\block\tile\ItemFrame">
-<area shape="rect" id="node1" title=" " alt="" coords="5,2212,216,2451"/>
-<area shape="rect" id="node2" href="$dc/d0b/classpocketmine_1_1block_1_1tile_1_1_spawnable.html" title=" " alt="" coords="116,1997,361,2163"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,2241,216,2480"/>
+<area shape="rect" id="node2" href="$dc/d0b/classpocketmine_1_1block_1_1tile_1_1_spawnable.html" title=" " alt="" coords="113,1997,367,2192"/>
 <area shape="rect" id="node3" href="$d9/d74/classpocketmine_1_1block_1_1tile_1_1_tile.html" title=" " alt="" coords="227,1695,427,1948"/>
 <area shape="rect" id="node4" title=" " alt="" coords="202,541,259,619"/>
 <area shape="rect" id="node7" href="$d4/d2b/classpocketmine_1_1world_1_1_world.html" title=" " alt="" coords="511,901,740,1316"/>

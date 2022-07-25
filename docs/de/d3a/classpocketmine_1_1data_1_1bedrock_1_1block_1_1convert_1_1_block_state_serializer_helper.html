@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA3 git-172bd9a12906794fa3811a1a01fc1a468a142bbc</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA3 git-79125b8426c4ad63c10ea3ffc8e1cd673f2d726a</span>
    </div>
   </td>
  </tr>
@@ -112,6 +112,8 @@ Static Public Member Functions</h2></td></tr>
 <tr class="separator:a9ecb8d42729c086c633ccdb08fbafa60"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6e25b0f52edf4d6dc690dce900a508e1"><td class="memItemLeft" align="right" valign="top">static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d3a/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_serializer_helper.html#a6e25b0f52edf4d6dc690dce900a508e1">encodeCandle</a> (<a class="el" href="../../d6/dd1/classpocketmine_1_1block_1_1_candle.html">Candle</a> $block, <a class="el" href="../../da/dc5/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_writer.html">BlockStateWriter</a> $out)</td></tr>
 <tr class="separator:a6e25b0f52edf4d6dc690dce900a508e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff9477ac17ea664a6772fd3b161f0882"><td class="memItemLeft" align="right" valign="top">static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d3a/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_serializer_helper.html#aff9477ac17ea664a6772fd3b161f0882">encodeCauldron</a> (string $liquid, int $fillLevel, <a class="el" href="../../da/dc5/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_writer.html">BlockStateWriter</a> $out)</td></tr>
+<tr class="separator:aff9477ac17ea664a6772fd3b161f0882"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ace04ddb916322033bdfe95aabf586f41"><td class="memItemLeft" align="right" valign="top">static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d3a/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_serializer_helper.html#ace04ddb916322033bdfe95aabf586f41">encodeChemistryTable</a> (<a class="el" href="../../dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html">ChemistryTable</a> $block, string $chemistryTableType, <a class="el" href="../../da/dc5/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_writer.html">BlockStateWriter</a> $out)</td></tr>
 <tr class="separator:ace04ddb916322033bdfe95aabf586f41"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a75a59f62c6ec115201516b833c5ef003"><td class="memItemLeft" align="right" valign="top">static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d3a/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_serializer_helper.html#a75a59f62c6ec115201516b833c5ef003">encodeColoredTorch</a> (<a class="el" href="../../d2/d00/classpocketmine_1_1block_1_1_torch.html">Torch</a> $block, bool $highBit, <a class="el" href="../../da/dc5/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_writer.html">BlockStateWriter</a> $out)</td></tr>
@@ -291,6 +293,50 @@ Static Public Member Functions</h2></td></tr>
 
 </div>
 </div>
+<a id="aff9477ac17ea664a6772fd3b161f0882" name="aff9477ac17ea664a6772fd3b161f0882"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aff9477ac17ea664a6772fd3b161f0882">&#9670;&nbsp;</a></span>encodeCauldron()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static pocketmine\data\bedrock\block\convert\BlockStateSerializerHelper::encodeCauldron </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>$liquid</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>$fillLevel</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../da/dc5/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_writer.html">BlockStateWriter</a>&#160;</td>
+          <td class="paramname"><em>$out</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00094">94</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+
+</div>
+</div>
 <a id="ace04ddb916322033bdfe95aabf586f41" name="ace04ddb916322033bdfe95aabf586f41"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ace04ddb916322033bdfe95aabf586f41">&#9670;&nbsp;</a></span>encodeChemistryTable()</h2>
 
@@ -451,7 +497,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00104">104</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00110">110</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -495,7 +541,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00112">112</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00118">118</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -533,7 +579,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00118">118</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00124">124</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -571,7 +617,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00125">125</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00131">131</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -615,7 +661,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00130">130</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00136">136</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -653,7 +699,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00141">141</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00147">147</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -691,7 +737,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00146">146</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00152">152</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -729,7 +775,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00279">279</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00285">285</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -773,7 +819,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00151">151</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00157">157</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -817,7 +863,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00161">161</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00167">167</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -861,7 +907,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00167">167</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00173">173</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -899,7 +945,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00181">181</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00187">187</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -943,7 +989,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00174">174</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00180">180</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -981,7 +1027,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00186">186</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00192">192</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -1009,7 +1055,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00192">192</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00198">198</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -1047,7 +1093,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00196">196</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00202">202</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -1085,7 +1131,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00200">200</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00206">206</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -1123,7 +1169,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00206">206</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00212">212</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -1167,7 +1213,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00213">213</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00219">219</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -1205,7 +1251,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00221">221</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00227">227</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -1243,7 +1289,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00227">227</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00233">233</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -1271,7 +1317,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00232">232</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00238">238</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -1299,7 +1345,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00237">237</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00243">243</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -1337,7 +1383,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00247">247</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00253">253</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -1375,7 +1421,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00251">251</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00257">257</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -1413,7 +1459,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00255">255</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00261">261</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -1451,7 +1497,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00259">259</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00265">265</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -1489,7 +1535,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00263">263</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00269">269</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -1527,7 +1573,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00270">270</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00276">276</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -1565,7 +1611,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00284">284</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00290">290</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -1603,7 +1649,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00289">289</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00295">295</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
@@ -1659,7 +1705,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00094">94</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00100">100</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>

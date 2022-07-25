@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA3 git-172bd9a12906794fa3811a1a01fc1a468a142bbc</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA3 git-79125b8426c4ad63c10ea3ffc8e1cd673f2d726a</span>
    </div>
   </td>
  </tr>
@@ -123,7 +123,7 @@ $(document).ready(function(){initNavTree('dc/d89/_planks_8php_source.html','../.
 <div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>    use WoodTypeTrait;</div>
 <div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span> </div>
 <div class="line"><a id="l00031" name="l00031"></a><span class="lineno"><a class="line" href="../../d5/dd4/classpocketmine_1_1block_1_1_planks.html#a23e3d1025740be0122dbfffbf0e0d6f8">   31</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d5/dd4/classpocketmine_1_1block_1_1_planks.html#a23e3d1025740be0122dbfffbf0e0d6f8">getFuelTime</a>() : int{</div>
-<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>        return 300;</div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>        return $this-&gt;woodType-&gt;<a class="code hl_function" href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e">isFlammable</a>() ? 300 : 0;</div>
 <div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>    }</div>
 <div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span> </div>
 <div class="line"><a id="l00035" name="l00035"></a><span class="lineno"><a class="line" href="../../d5/dd4/classpocketmine_1_1block_1_1_planks.html#a1e479e1220e309aba70d8685c67ca2f7">   35</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d5/dd4/classpocketmine_1_1block_1_1_planks.html#a1e479e1220e309aba70d8685c67ca2f7">getFlameEncouragement</a>() : int{</div>
@@ -134,6 +134,7 @@ $(document).ready(function(){initNavTree('dc/d89/_planks_8php_source.html','../.
 <div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>        return $this-&gt;woodType-&gt;isFlammable() ? 20 : 0;</div>
 <div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>    }</div>
 <div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>}</div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html_a4f8f9fbfa29c3fb1d57d655f69dfa66e"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e">pocketmine\block\Block\isFlammable</a></div><div class="ttdeci">isFlammable()</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00558">Block.php:558</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_opaque_html"><div class="ttname"><a href="../../db/dc5/classpocketmine_1_1block_1_1_opaque.html">pocketmine\block\Opaque</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d1/dbc/_opaque_8php_source.html#l00026">Opaque.php:26</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_planks_html"><div class="ttname"><a href="../../d5/dd4/classpocketmine_1_1block_1_1_planks.html">pocketmine\block\Planks</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d89/_planks_8php_source.html#l00028">Planks.php:28</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_planks_html_a1e479e1220e309aba70d8685c67ca2f7"><div class="ttname"><a href="../../d5/dd4/classpocketmine_1_1block_1_1_planks.html#a1e479e1220e309aba70d8685c67ca2f7">pocketmine\block\Planks\getFlameEncouragement</a></div><div class="ttdeci">getFlameEncouragement()</div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d89/_planks_8php_source.html#l00035">Planks.php:35</a></div></div>

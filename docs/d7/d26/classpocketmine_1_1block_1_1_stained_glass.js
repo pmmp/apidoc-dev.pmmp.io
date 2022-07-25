@@ -1,6 +1,6 @@
 var classpocketmine_1_1block_1_1_stained_glass =
 [
-    [ "__construct", "d7/d26/classpocketmine_1_1block_1_1_stained_glass.html#aa7528e25bbe05684dde2961b08d154d4", null ],
+    [ "__construct", "d7/d26/classpocketmine_1_1block_1_1_stained_glass.html#a90bd861132300e1e99496b8627403913", null ],
     [ "__toString", "d7/d26/classpocketmine_1_1block_1_1_stained_glass.html#acb449b40461f4800cf6e6288cb9a069d", null ],
     [ "blocksDirectSkyLight", "d7/d26/classpocketmine_1_1block_1_1_stained_glass.html#a2127737ad69279d366e4462b54f693f2", null ],
     [ "burnsForever", "d7/d26/classpocketmine_1_1block_1_1_stained_glass.html#aa09e248dd611c0ebb95cf2adf2d6d31c", null ],
@@ -27,8 +27,10 @@ var classpocketmine_1_1block_1_1_stained_glass =
     [ "getSide", "d7/d26/classpocketmine_1_1block_1_1_stained_glass.html#a6f13ff76dad934b1b2e078a5b57dd7a5", null ],
     [ "getSilkTouchDrops", "d7/d26/classpocketmine_1_1block_1_1_stained_glass.html#a4b01df2347f9cc897c5eb2858d6c5e7e", null ],
     [ "getTypeId", "d7/d26/classpocketmine_1_1block_1_1_stained_glass.html#a994b80e9138156e5b90a803def57c7db", null ],
+    [ "getTypeTags", "d7/d26/classpocketmine_1_1block_1_1_stained_glass.html#a6201b0d5460ae6f3b5cee03197c9a94a", null ],
     [ "getXpDropAmount", "d7/d26/classpocketmine_1_1block_1_1_stained_glass.html#a771a30c30a36b0992f54c57dc63af10d", null ],
     [ "getXpDropForTool", "d7/d26/classpocketmine_1_1block_1_1_stained_glass.html#a75b16ca6e22355cf632466a969e79211", null ],
+    [ "hasTypeTag", "d7/d26/classpocketmine_1_1block_1_1_stained_glass.html#a43e3458847422ebd5dec6c914b443c93", null ],
     [ "isAffectedBySilkTouch", "d7/d26/classpocketmine_1_1block_1_1_stained_glass.html#aac5fbd338736fa4a95bb3c85bedfdff4", null ],
     [ "isFlammable", "d7/d26/classpocketmine_1_1block_1_1_stained_glass.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e", null ],
     [ "isSameState", "d7/d26/classpocketmine_1_1block_1_1_stained_glass.html#a1ce2444f76246982cfbb507fed99a48e", null ],

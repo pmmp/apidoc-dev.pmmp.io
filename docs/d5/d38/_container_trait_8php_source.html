@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA3 git-172bd9a12906794fa3811a1a01fc1a468a142bbc</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA3 git-79125b8426c4ad63c10ea3ffc8e1cd673f2d726a</span>
    </div>
   </td>
  </tr>
@@ -180,12 +180,14 @@ $(document).ready(function(){initNavTree('d5/d38/_container_trait_8php_source.ht
 <div class="line"><a id="l00100" name="l00100"></a><span class="lineno">  100</span>        $inv = $this-&gt;getRealInventory();</div>
 <div class="line"><a id="l00101" name="l00101"></a><span class="lineno">  101</span>        $pos = $this-&gt;<a class="code hl_function" href="../../db/dba/namespacepocketmine_1_1block_1_1tile.html#a038dc192c49ffb08dd35be026126841a">getPosition</a>();</div>
 <div class="line"><a id="l00102" name="l00102"></a><span class="lineno">  102</span> </div>
-<div class="line"><a id="l00103" name="l00103"></a><span class="lineno">  103</span>        <span class="keywordflow">foreach</span>($inv-&gt;getContents() as $k =&gt; $item){</div>
-<div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span>            $pos-&gt;getWorld()-&gt;dropItem($pos-&gt;add(0.5, 0.5, 0.5), $item);</div>
-<div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span>        }</div>
-<div class="line"><a id="l00106" name="l00106"></a><span class="lineno">  106</span>        $inv-&gt;clearAll();</div>
-<div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span>    }</div>
-<div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span>}</div>
+<div class="line"><a id="l00103" name="l00103"></a><span class="lineno">  103</span>        $world = $pos-&gt;getWorld();</div>
+<div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span>        $dropPos = $pos-&gt;add(0.5, 0.5, 0.5);</div>
+<div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span>        <span class="keywordflow">foreach</span>($inv-&gt;getContents() as $k =&gt; $item){</div>
+<div class="line"><a id="l00106" name="l00106"></a><span class="lineno">  106</span>            $world-&gt;dropItem($dropPos, $item);</div>
+<div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span>        }</div>
+<div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span>        $inv-&gt;clearAll();</div>
+<div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span>    }</div>
+<div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span>}</div>
 <div class="ttc" id="aclasspocketmine_1_1data_1_1_saved_data_loading_exception_html"><div class="ttname"><a href="../../d5/db4/classpocketmine_1_1data_1_1_saved_data_loading_exception.html">pocketmine\data\SavedDataLoadingException</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d4/d86/_saved_data_loading_exception_8php_source.html#l00026">SavedDataLoadingException.php:26</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">pocketmine\item\Item</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d98/_item_8php_source.html#l00057">Item.php:57</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html_a9866a7ab362cec28252d67f6382a4ad4"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html#a9866a7ab362cec28252d67f6382a4ad4">pocketmine\item\Item\nbtDeserialize</a></div><div class="ttdeci">static nbtDeserialize(CompoundTag $tag)</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d98/_item_8php_source.html#l00652">Item.php:652</a></div></div>

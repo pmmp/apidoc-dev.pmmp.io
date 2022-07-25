@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA3 git-172bd9a12906794fa3811a1a01fc1a468a142bbc</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA3 git-79125b8426c4ad63c10ea3ffc8e1cd673f2d726a</span>
    </div>
   </td>
  </tr>
@@ -780,10 +780,28 @@ $(document).ready(function(){initNavTree('d8/dbd/_block_type_ids_8php_source.htm
 <div class="line"><a id="l00693" name="l00693"></a><span class="lineno">  693</span>    <span class="keyword">public</span> <span class="keyword">const</span> CARTOGRAPHY_TABLE = 10666;</div>
 <div class="line"><a id="l00694" name="l00694"></a><span class="lineno">  694</span>    <span class="keyword">public</span> <span class="keyword">const</span> SMITHING_TABLE = 10667;</div>
 <div class="line"><a id="l00695" name="l00695"></a><span class="lineno">  695</span>    <span class="keyword">public</span> <span class="keyword">const</span> NETHERITE = 10668;</div>
-<div class="line"><a id="l00696" name="l00696"></a><span class="lineno">  696</span> </div>
-<div class="line"><a id="l00697" name="l00697"></a><span class="lineno">  697</span>    <span class="keyword">public</span> <span class="keyword">const</span> FIRST_UNUSED_BLOCK_ID = 10669;</div>
-<div class="line"><a id="l00698" name="l00698"></a><span class="lineno">  698</span>}</div>
+<div class="line"><a id="l00696" name="l00696"></a><span class="lineno">  696</span>    <span class="keyword">public</span> <span class="keyword">const</span> SPORE_BLOSSOM = 10669;</div>
+<div class="line"><a id="l00697" name="l00697"></a><span class="lineno">  697</span>    <span class="keyword">public</span> <span class="keyword">const</span> CAULDRON = 10670;</div>
+<div class="line"><a id="l00698" name="l00698"></a><span class="lineno">  698</span>    <span class="keyword">public</span> <span class="keyword">const</span> WATER_CAULDRON = 10671;</div>
+<div class="line"><a id="l00699" name="l00699"></a><span class="lineno">  699</span>    <span class="keyword">public</span> <span class="keyword">const</span> LAVA_CAULDRON = 10672;</div>
+<div class="line"><a id="l00700" name="l00700"></a><span class="lineno">  700</span>    <span class="keyword">public</span> <span class="keyword">const</span> POTION_CAULDRON = 10673;</div>
+<div class="line"><a id="l00701" name="l00701"></a><span class="lineno">  701</span>    <span class="keyword">public</span> <span class="keyword">const</span> POWDER_SNOW_CAULDRON = 10674;</div>
+<div class="line"><a id="l00702" name="l00702"></a><span class="lineno">  702</span>    <span class="keyword">public</span> <span class="keyword">const</span> CHORUS_FLOWER = 10675;</div>
+<div class="line"><a id="l00703" name="l00703"></a><span class="lineno">  703</span>    <span class="keyword">public</span> <span class="keyword">const</span> CHORUS_PLANT = 10676;</div>
+<div class="line"><a id="l00704" name="l00704"></a><span class="lineno">  704</span>    <span class="keyword">public</span> <span class="keyword">const</span> MANGROVE_ROOTS = 10677;</div>
+<div class="line"><a id="l00705" name="l00705"></a><span class="lineno">  705</span>    <span class="keyword">public</span> <span class="keyword">const</span> MUDDY_MANGROVE_ROOTS = 10678;</div>
+<div class="line"><a id="l00706" name="l00706"></a><span class="lineno">  706</span>    <span class="keyword">public</span> <span class="keyword">const</span> FROGLIGHT = 10679;</div>
+<div class="line"><a id="l00707" name="l00707"></a><span class="lineno">  707</span> </div>
+<div class="line"><a id="l00708" name="l00708"></a><span class="lineno">  708</span>    <span class="keyword">public</span> <span class="keyword">const</span> FIRST_UNUSED_BLOCK_ID = 10680;</div>
+<div class="line"><a id="l00709" name="l00709"></a><span class="lineno">  709</span> </div>
+<div class="line"><a id="l00710" name="l00710"></a><span class="lineno">  710</span>    <span class="keyword">private</span> <span class="keyword">static</span> <span class="keywordtype">int</span> $nextDynamicId = self::FIRST_UNUSED_BLOCK_ID;</div>
+<div class="line"><a id="l00711" name="l00711"></a><span class="lineno">  711</span> </div>
+<div class="line"><a id="l00715" name="l00715"></a><span class="lineno"><a class="line" href="../../db/dbe/classpocketmine_1_1block_1_1_block_type_ids.html#a933e9c5b3792f4abdda81f98d97b24ea">  715</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> <a class="code hl_function" href="../../db/dbe/classpocketmine_1_1block_1_1_block_type_ids.html#a933e9c5b3792f4abdda81f98d97b24ea">newId</a>() : int{</div>
+<div class="line"><a id="l00716" name="l00716"></a><span class="lineno">  716</span>        return self::$nextDynamicId++;</div>
+<div class="line"><a id="l00717" name="l00717"></a><span class="lineno">  717</span>    }</div>
+<div class="line"><a id="l00718" name="l00718"></a><span class="lineno">  718</span>}</div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_block_type_ids_html"><div class="ttname"><a href="../../db/dbe/classpocketmine_1_1block_1_1_block_type_ids.html">pocketmine\block\BlockTypeIds</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d8/dbd/_block_type_ids_8php_source.html#l00033">BlockTypeIds.php:33</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_type_ids_html_a933e9c5b3792f4abdda81f98d97b24ea"><div class="ttname"><a href="../../db/dbe/classpocketmine_1_1block_1_1_block_type_ids.html#a933e9c5b3792f4abdda81f98d97b24ea">pocketmine\block\BlockTypeIds\newId</a></div><div class="ttdeci">static newId()</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/dbd/_block_type_ids_8php_source.html#l00715">BlockTypeIds.php:715</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_t_n_t_html"><div class="ttname"><a href="../../dc/dce/classpocketmine_1_1block_1_1_t_n_t.html">pocketmine\block\TNT</a></div><div class="ttdef"><b>Definition:</b> <a href="../../de/d58/_t_n_t_8php_source.html#l00044">TNT.php:44</a></div></div>
 <div class="ttc" id="anamespacepocketmine_1_1block_html"><div class="ttname"><a href="../../d0/dc3/namespacepocketmine_1_1block.html">pocketmine\block</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d2/de9/_activator_rail_8php_source.html#l00024">ActivatorRail.php:24</a></div></div>
 </div><!-- fragment --></div><!-- contents -->

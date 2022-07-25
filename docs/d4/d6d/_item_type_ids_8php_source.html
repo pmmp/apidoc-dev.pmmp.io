@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA3 git-172bd9a12906794fa3811a1a01fc1a468a142bbc</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA3 git-79125b8426c4ad63c10ea3ffc8e1cd673f2d726a</span>
    </div>
   </td>
  </tr>
@@ -381,10 +381,19 @@ $(document).ready(function(){initNavTree('d4/d6d/_item_type_ids_8php_source.html
 <div class="line"><a id="l00294" name="l00294"></a><span class="lineno">  294</span>    <span class="keyword">public</span> <span class="keyword">const</span> RAW_GOLD = 20255;</div>
 <div class="line"><a id="l00295" name="l00295"></a><span class="lineno">  295</span>    <span class="keyword">public</span> <span class="keyword">const</span> SPYGLASS = 20256;</div>
 <div class="line"><a id="l00296" name="l00296"></a><span class="lineno">  296</span>    <span class="keyword">public</span> <span class="keyword">const</span> NETHERITE_SCRAP = 20257;</div>
-<div class="line"><a id="l00297" name="l00297"></a><span class="lineno">  297</span> </div>
-<div class="line"><a id="l00298" name="l00298"></a><span class="lineno">  298</span>    <span class="keyword">public</span> <span class="keyword">const</span> FIRST_UNUSED_ITEM_ID = 20258;</div>
-<div class="line"><a id="l00299" name="l00299"></a><span class="lineno">  299</span>}</div>
+<div class="line"><a id="l00297" name="l00297"></a><span class="lineno">  297</span>    <span class="keyword">public</span> <span class="keyword">const</span> POWDER_SNOW_BUCKET = 20258;</div>
+<div class="line"><a id="l00298" name="l00298"></a><span class="lineno">  298</span>    <span class="keyword">public</span> <span class="keyword">const</span> LINGERING_POTION = 20259;</div>
+<div class="line"><a id="l00299" name="l00299"></a><span class="lineno">  299</span> </div>
+<div class="line"><a id="l00300" name="l00300"></a><span class="lineno">  300</span>    <span class="keyword">public</span> <span class="keyword">const</span> FIRST_UNUSED_ITEM_ID = 20260;</div>
+<div class="line"><a id="l00301" name="l00301"></a><span class="lineno">  301</span> </div>
+<div class="line"><a id="l00302" name="l00302"></a><span class="lineno">  302</span>    <span class="keyword">private</span> <span class="keyword">static</span> <span class="keywordtype">int</span> $nextDynamicId = self::FIRST_UNUSED_ITEM_ID;</div>
+<div class="line"><a id="l00303" name="l00303"></a><span class="lineno">  303</span> </div>
+<div class="line"><a id="l00307" name="l00307"></a><span class="lineno"><a class="line" href="../../d9/d6f/classpocketmine_1_1item_1_1_item_type_ids.html#a5313a6bc3958d1fb0253f12556a5bd3f">  307</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d9/d6f/classpocketmine_1_1item_1_1_item_type_ids.html#a5313a6bc3958d1fb0253f12556a5bd3f">newId</a>() : int{</div>
+<div class="line"><a id="l00308" name="l00308"></a><span class="lineno">  308</span>        return self::$nextDynamicId++;</div>
+<div class="line"><a id="l00309" name="l00309"></a><span class="lineno">  309</span>    }</div>
+<div class="line"><a id="l00310" name="l00310"></a><span class="lineno">  310</span>}</div>
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_item_type_ids_html"><div class="ttname"><a href="../../d9/d6f/classpocketmine_1_1item_1_1_item_type_ids.html">pocketmine\item\ItemTypeIds</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d4/d6d/_item_type_ids_8php_source.html#l00033">ItemTypeIds.php:33</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1item_1_1_item_type_ids_html_a5313a6bc3958d1fb0253f12556a5bd3f"><div class="ttname"><a href="../../d9/d6f/classpocketmine_1_1item_1_1_item_type_ids.html#a5313a6bc3958d1fb0253f12556a5bd3f">pocketmine\item\ItemTypeIds\newId</a></div><div class="ttdeci">static newId()</div><div class="ttdef"><b>Definition:</b> <a href="../../d4/d6d/_item_type_ids_8php_source.html#l00307">ItemTypeIds.php:307</a></div></div>
 <div class="ttc" id="anamespacepocketmine_1_1item_html"><div class="ttname"><a href="../../d0/dec/namespacepocketmine_1_1item.html">pocketmine\item</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d1f/_apple_8php_source.html#l00024">Apple.php:24</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->

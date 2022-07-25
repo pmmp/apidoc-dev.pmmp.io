@@ -1,6 +1,6 @@
 var classpocketmine_1_1block_1_1_stair =
 [
-    [ "__construct", "d7/d95/classpocketmine_1_1block_1_1_stair.html#a14d4d81dfa75fb85fff184e8b2f50279", null ],
+    [ "__construct", "d7/d95/classpocketmine_1_1block_1_1_stair.html#a98070aa7ebf81859c3cb0d64dc0f90ea", null ],
     [ "__toString", "d7/d95/classpocketmine_1_1block_1_1_stair.html#acb449b40461f4800cf6e6288cb9a069d", null ],
     [ "blocksDirectSkyLight", "d7/d95/classpocketmine_1_1block_1_1_stair.html#a2127737ad69279d366e4462b54f693f2", null ],
     [ "burnsForever", "d7/d95/classpocketmine_1_1block_1_1_stair.html#aa09e248dd611c0ebb95cf2adf2d6d31c", null ],
@@ -27,8 +27,10 @@ var classpocketmine_1_1block_1_1_stair =
     [ "getSide", "d7/d95/classpocketmine_1_1block_1_1_stair.html#a6f13ff76dad934b1b2e078a5b57dd7a5", null ],
     [ "getSilkTouchDrops", "d7/d95/classpocketmine_1_1block_1_1_stair.html#a4b01df2347f9cc897c5eb2858d6c5e7e", null ],
     [ "getTypeId", "d7/d95/classpocketmine_1_1block_1_1_stair.html#a994b80e9138156e5b90a803def57c7db", null ],
+    [ "getTypeTags", "d7/d95/classpocketmine_1_1block_1_1_stair.html#a6201b0d5460ae6f3b5cee03197c9a94a", null ],
     [ "getXpDropAmount", "d7/d95/classpocketmine_1_1block_1_1_stair.html#a771a30c30a36b0992f54c57dc63af10d", null ],
     [ "getXpDropForTool", "d7/d95/classpocketmine_1_1block_1_1_stair.html#a75b16ca6e22355cf632466a969e79211", null ],
+    [ "hasTypeTag", "d7/d95/classpocketmine_1_1block_1_1_stair.html#a43e3458847422ebd5dec6c914b443c93", null ],
     [ "isAffectedBySilkTouch", "d7/d95/classpocketmine_1_1block_1_1_stair.html#a8307fc850da5c3f36e9dfc7ce639fe55", null ],
     [ "isFlammable", "d7/d95/classpocketmine_1_1block_1_1_stair.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e", null ],
     [ "isSameState", "d7/d95/classpocketmine_1_1block_1_1_stair.html#a1ce2444f76246982cfbb507fed99a48e", null ],

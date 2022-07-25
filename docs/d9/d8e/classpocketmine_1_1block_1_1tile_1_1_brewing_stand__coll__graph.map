@@ -1,7 +1,7 @@
 <map id="pocketmine\block\tile\BrewingStand" name="pocketmine\block\tile\BrewingStand">
-<area shape="rect" id="node1" title=" " alt="" coords="735,2260,946,2469"/>
-<area shape="rect" id="node2" href="$dc/d0b/classpocketmine_1_1block_1_1tile_1_1_spawnable.html" title=" " alt="" coords="475,2045,721,2211"/>
-<area shape="rect" id="node3" href="$d9/d74/classpocketmine_1_1block_1_1tile_1_1_tile.html" title=" " alt="" coords="455,1743,655,1996"/>
+<area shape="rect" id="node1" title=" " alt="" coords="735,2289,946,2499"/>
+<area shape="rect" id="node2" href="$dc/d0b/classpocketmine_1_1block_1_1tile_1_1_spawnable.html" title=" " alt="" coords="467,2045,721,2240"/>
+<area shape="rect" id="node3" href="$d9/d74/classpocketmine_1_1block_1_1tile_1_1_tile.html" title=" " alt="" coords="454,1743,654,1996"/>
 <area shape="rect" id="node4" title=" " alt="" coords="733,541,791,619"/>
 <area shape="rect" id="node7" href="$d4/d2b/classpocketmine_1_1world_1_1_world.html" title=" " alt="" coords="199,901,429,1316"/>
 <area shape="rect" id="node11" href="$d9/de1/interfacepocketmine_1_1block_1_1tile_1_1_container.html" title=" " alt="" coords="810,1055,973,1162"/>

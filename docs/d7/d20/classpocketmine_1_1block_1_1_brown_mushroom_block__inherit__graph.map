@@ -1,6 +1,6 @@
 <map id="pocketmine\block\BrownMushroomBlock" name="pocketmine\block\BrownMushroomBlock">
-<area shape="rect" id="node1" title=" " alt="" coords="5,821,256,913"/>
-<area shape="rect" id="node2" href="$dd/d75/classpocketmine_1_1block_1_1_red_mushroom_block.html" title=" " alt="" coords="13,579,248,773"/>
-<area shape="rect" id="node3" href="$db/dc5/classpocketmine_1_1block_1_1_opaque.html" title=" " alt="" coords="35,453,226,531"/>
-<area shape="rect" id="node4" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="13,5,248,405"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,777,256,869"/>
+<area shape="rect" id="node2" href="$dd/d75/classpocketmine_1_1block_1_1_red_mushroom_block.html" title=" " alt="" coords="13,549,248,729"/>
+<area shape="rect" id="node3" href="$db/dc5/classpocketmine_1_1block_1_1_opaque.html" title=" " alt="" coords="35,424,226,501"/>
+<area shape="rect" id="node4" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="13,5,248,376"/>
 </map>

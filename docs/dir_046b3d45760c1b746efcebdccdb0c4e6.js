@@ -7,6 +7,7 @@ var dir_046b3d45760c1b746efcebdccdb0c4e6 =
     [ "tile/Bell.php", "d6/da7/tile_2_bell_8php_source.html", null ],
     [ "BlastFurnace.php", "de/df0/_blast_furnace_8php_source.html", null ],
     [ "tile/BrewingStand.php", "d6/d58/tile_2_brewing_stand_8php_source.html", null ],
+    [ "tile/Cauldron.php", "da/ddf/tile_2_cauldron_8php_source.html", null ],
     [ "tile/Chest.php", "dc/db3/tile_2_chest_8php_source.html", null ],
     [ "Comparator.php", "d2/d4f/_comparator_8php_source.html", null ],
     [ "Container.php", "d6/d50/_container_8php_source.html", null ],
@@ -30,6 +31,7 @@ var dir_046b3d45760c1b746efcebdccdb0c4e6 =
     [ "tile/Skull.php", "d8/d5c/tile_2_skull_8php_source.html", null ],
     [ "Smoker.php", "d5/de1/_smoker_8php_source.html", null ],
     [ "Spawnable.php", "d2/df1/_spawnable_8php_source.html", null ],
+    [ "tile/SporeBlossom.php", "da/d7a/tile_2_spore_blossom_8php_source.html", null ],
     [ "Tile.php", "dd/de5/_tile_8php_source.html", null ],
     [ "TileFactory.php", "d7/d37/_tile_factory_8php_source.html", null ]
 ];

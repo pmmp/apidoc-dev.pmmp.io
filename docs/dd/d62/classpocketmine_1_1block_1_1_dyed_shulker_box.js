@@ -1,6 +1,6 @@
 var classpocketmine_1_1block_1_1_dyed_shulker_box =
 [
-    [ "__construct", "dd/d62/classpocketmine_1_1block_1_1_dyed_shulker_box.html#a9aad3f2cd48b66e1d8f3908dfb29cecd", null ],
+    [ "__construct", "dd/d62/classpocketmine_1_1block_1_1_dyed_shulker_box.html#ab2589b864d75afae8f5ba2881376b27f", null ],
     [ "__toString", "dd/d62/classpocketmine_1_1block_1_1_dyed_shulker_box.html#acb449b40461f4800cf6e6288cb9a069d", null ],
     [ "blocksDirectSkyLight", "dd/d62/classpocketmine_1_1block_1_1_dyed_shulker_box.html#a2127737ad69279d366e4462b54f693f2", null ],
     [ "burnsForever", "dd/d62/classpocketmine_1_1block_1_1_dyed_shulker_box.html#aa09e248dd611c0ebb95cf2adf2d6d31c", null ],
@@ -27,8 +27,10 @@ var classpocketmine_1_1block_1_1_dyed_shulker_box =
     [ "getSide", "dd/d62/classpocketmine_1_1block_1_1_dyed_shulker_box.html#a6f13ff76dad934b1b2e078a5b57dd7a5", null ],
     [ "getSilkTouchDrops", "dd/d62/classpocketmine_1_1block_1_1_dyed_shulker_box.html#a4b01df2347f9cc897c5eb2858d6c5e7e", null ],
     [ "getTypeId", "dd/d62/classpocketmine_1_1block_1_1_dyed_shulker_box.html#a994b80e9138156e5b90a803def57c7db", null ],
+    [ "getTypeTags", "dd/d62/classpocketmine_1_1block_1_1_dyed_shulker_box.html#a6201b0d5460ae6f3b5cee03197c9a94a", null ],
     [ "getXpDropAmount", "dd/d62/classpocketmine_1_1block_1_1_dyed_shulker_box.html#a771a30c30a36b0992f54c57dc63af10d", null ],
     [ "getXpDropForTool", "dd/d62/classpocketmine_1_1block_1_1_dyed_shulker_box.html#a75b16ca6e22355cf632466a969e79211", null ],
+    [ "hasTypeTag", "dd/d62/classpocketmine_1_1block_1_1_dyed_shulker_box.html#a43e3458847422ebd5dec6c914b443c93", null ],
     [ "isAffectedBySilkTouch", "dd/d62/classpocketmine_1_1block_1_1_dyed_shulker_box.html#a8307fc850da5c3f36e9dfc7ce639fe55", null ],
     [ "isFlammable", "dd/d62/classpocketmine_1_1block_1_1_dyed_shulker_box.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e", null ],
     [ "isSameState", "dd/d62/classpocketmine_1_1block_1_1_dyed_shulker_box.html#a1ce2444f76246982cfbb507fed99a48e", null ],

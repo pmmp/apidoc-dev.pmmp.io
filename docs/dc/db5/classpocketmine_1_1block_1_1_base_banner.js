@@ -1,6 +1,6 @@
 var classpocketmine_1_1block_1_1_base_banner =
 [
-    [ "__construct", "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#a216308afa58bbccc5de06b72f154725f", null ],
+    [ "__construct", "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#a8ea0420d13e85fd10817f16c2be0dd2e", null ],
     [ "__toString", "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#acb449b40461f4800cf6e6288cb9a069d", null ],
     [ "blocksDirectSkyLight", "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#a2127737ad69279d366e4462b54f693f2", null ],
     [ "burnsForever", "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#aa09e248dd611c0ebb95cf2adf2d6d31c", null ],
@@ -28,8 +28,10 @@ var classpocketmine_1_1block_1_1_base_banner =
     [ "getSide", "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#a6f13ff76dad934b1b2e078a5b57dd7a5", null ],
     [ "getSilkTouchDrops", "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#a4b01df2347f9cc897c5eb2858d6c5e7e", null ],
     [ "getTypeId", "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#a994b80e9138156e5b90a803def57c7db", null ],
+    [ "getTypeTags", "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#a6201b0d5460ae6f3b5cee03197c9a94a", null ],
     [ "getXpDropAmount", "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#a771a30c30a36b0992f54c57dc63af10d", null ],
     [ "getXpDropForTool", "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#a75b16ca6e22355cf632466a969e79211", null ],
+    [ "hasTypeTag", "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#a43e3458847422ebd5dec6c914b443c93", null ],
     [ "isAffectedBySilkTouch", "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#a8307fc850da5c3f36e9dfc7ce639fe55", null ],
     [ "isFlammable", "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e", null ],
     [ "isSameState", "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#a1ce2444f76246982cfbb507fed99a48e", null ],

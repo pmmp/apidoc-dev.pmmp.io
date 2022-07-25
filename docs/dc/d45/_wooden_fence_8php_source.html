@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA3 git-172bd9a12906794fa3811a1a01fc1a468a142bbc</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA3 git-79125b8426c4ad63c10ea3ffc8e1cd673f2d726a</span>
    </div>
   </td>
  </tr>
@@ -123,7 +123,7 @@ $(document).ready(function(){initNavTree('dc/d45/_wooden_fence_8php_source.html'
 <div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>    use WoodTypeTrait;</div>
 <div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span> </div>
 <div class="line"><a id="l00031" name="l00031"></a><span class="lineno"><a class="line" href="../../d3/de8/classpocketmine_1_1block_1_1_wooden_fence.html#a2387978d832b53ce00c5ac4057281509">   31</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d3/de8/classpocketmine_1_1block_1_1_wooden_fence.html#a2387978d832b53ce00c5ac4057281509">getFuelTime</a>() : int{</div>
-<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>        return 300;</div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>        return $this-&gt;woodType-&gt;<a class="code hl_function" href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e">isFlammable</a>() ? 300 : 0;</div>
 <div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>    }</div>
 <div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span> </div>
 <div class="line"><a id="l00035" name="l00035"></a><span class="lineno"><a class="line" href="../../d3/de8/classpocketmine_1_1block_1_1_wooden_fence.html#a8286f65854c6998a5309e2f7f674deda">   35</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d3/de8/classpocketmine_1_1block_1_1_wooden_fence.html#a8286f65854c6998a5309e2f7f674deda">getFlameEncouragement</a>() : int{</div>
@@ -134,6 +134,7 @@ $(document).ready(function(){initNavTree('dc/d45/_wooden_fence_8php_source.html'
 <div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>        return $this-&gt;woodType-&gt;isFlammable() ? 20 : 0;</div>
 <div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>    }</div>
 <div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>}</div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html_a4f8f9fbfa29c3fb1d57d655f69dfa66e"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e">pocketmine\block\Block\isFlammable</a></div><div class="ttdeci">isFlammable()</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00558">Block.php:558</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_fence_html"><div class="ttname"><a href="../../dd/d68/classpocketmine_1_1block_1_1_fence.html">pocketmine\block\Fence</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d6/dcd/_fence_8php_source.html#l00032">Fence.php:32</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_wooden_fence_html"><div class="ttname"><a href="../../d3/de8/classpocketmine_1_1block_1_1_wooden_fence.html">pocketmine\block\WoodenFence</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d45/_wooden_fence_8php_source.html#l00028">WoodenFence.php:28</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_wooden_fence_html_a2387978d832b53ce00c5ac4057281509"><div class="ttname"><a href="../../d3/de8/classpocketmine_1_1block_1_1_wooden_fence.html#a2387978d832b53ce00c5ac4057281509">pocketmine\block\WoodenFence\getFuelTime</a></div><div class="ttdeci">getFuelTime()</div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d45/_wooden_fence_8php_source.html#l00031">WoodenFence.php:31</a></div></div>

@@ -1,6 +1,6 @@
 var classpocketmine_1_1block_1_1_stained_hardened_clay =
 [
-    [ "__construct", "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a9e5f4263e8b0d0e84e4a4b735edc5975", null ],
+    [ "__construct", "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a2b36e7c6d9f993a4fd1063f463054b8d", null ],
     [ "__toString", "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#acb449b40461f4800cf6e6288cb9a069d", null ],
     [ "blocksDirectSkyLight", "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a2127737ad69279d366e4462b54f693f2", null ],
     [ "burnsForever", "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#aa09e248dd611c0ebb95cf2adf2d6d31c", null ],
@@ -27,8 +27,10 @@ var classpocketmine_1_1block_1_1_stained_hardened_clay =
     [ "getSide", "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a6f13ff76dad934b1b2e078a5b57dd7a5", null ],
     [ "getSilkTouchDrops", "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a4b01df2347f9cc897c5eb2858d6c5e7e", null ],
     [ "getTypeId", "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a994b80e9138156e5b90a803def57c7db", null ],
+    [ "getTypeTags", "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a6201b0d5460ae6f3b5cee03197c9a94a", null ],
     [ "getXpDropAmount", "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a771a30c30a36b0992f54c57dc63af10d", null ],
     [ "getXpDropForTool", "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a75b16ca6e22355cf632466a969e79211", null ],
+    [ "hasTypeTag", "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a43e3458847422ebd5dec6c914b443c93", null ],
     [ "isAffectedBySilkTouch", "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a8307fc850da5c3f36e9dfc7ce639fe55", null ],
     [ "isFlammable", "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e", null ],
     [ "isSameState", "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a1ce2444f76246982cfbb507fed99a48e", null ],

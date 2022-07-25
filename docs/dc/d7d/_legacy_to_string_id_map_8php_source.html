@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA3 git-172bd9a12906794fa3811a1a01fc1a468a142bbc</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA3 git-79125b8426c4ad63c10ea3ffc8e1cd673f2d726a</span>
    </div>
   </td>
  </tr>
@@ -152,11 +152,14 @@ $(document).ready(function(){initNavTree('dc/d7d/_legacy_to_string_id_map_8php_s
 <div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span> </div>
 <div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>    <span class="keyword">public</span> <span class="keyword">function</span> add(<span class="keywordtype">string</span> $string, <span class="keywordtype">int</span> $legacy) : void{</div>
 <div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>        if(isset($this-&gt;legacyToString[$legacy])){</div>
-<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>            <span class="keywordflow">throw</span> new \InvalidArgumentException(<span class="stringliteral">&quot;Legacy ID $legacy is already mapped to string &quot;</span> . $this-&gt;legacyToString[$legacy]);</div>
-<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>        }</div>
-<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>        $this-&gt;legacyToString[$legacy] = $string;</div>
-<div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>    }</div>
-<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>}</div>
+<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>            <span class="keywordflow">if</span>($this-&gt;legacyToString[$legacy] === $string){</div>
+<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>            }</div>
+<div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>            <span class="keywordflow">throw</span> new \InvalidArgumentException(<span class="stringliteral">&quot;Legacy ID $legacy is already mapped to string &quot;</span> . $this-&gt;legacyToString[$legacy]);</div>
+<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>        }</div>
+<div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>        $this-&gt;legacyToString[$legacy] = $string;</div>
+<div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span>    }</div>
+<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>}</div>
 <div class="ttc" id="aclasspocketmine_1_1data_1_1bedrock_1_1_legacy_to_string_id_map_html"><div class="ttname"><a href="../../d1/d8a/classpocketmine_1_1data_1_1bedrock_1_1_legacy_to_string_id_map.html">pocketmine\data\bedrock\LegacyToStringIdMap</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d7d/_legacy_to_string_id_map_8php_source.html#l00034">LegacyToStringIdMap.php:34</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1data_1_1bedrock_1_1_legacy_to_string_id_map_html_a0746412c1d07cca3582238dfd610aa28"><div class="ttname"><a href="../../d1/d8a/classpocketmine_1_1data_1_1bedrock_1_1_legacy_to_string_id_map.html#a0746412c1d07cca3582238dfd610aa28">pocketmine\data\bedrock\LegacyToStringIdMap\getLegacyToStringMap</a></div><div class="ttdeci">getLegacyToStringMap()</div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d7d/_legacy_to_string_id_map_8php_source.html#l00063">LegacyToStringIdMap.php:63</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_assumption_failed_error_html"><div class="ttname"><a href="../../d1/d30/classpocketmine_1_1utils_1_1_assumption_failed_error.html">pocketmine\utils\AssumptionFailedError</a></div><div class="ttdef"><b>Definition:</b> <a href="../../da/da5/_assumption_failed_error_8php_source.html#l00031">AssumptionFailedError.php:31</a></div></div>

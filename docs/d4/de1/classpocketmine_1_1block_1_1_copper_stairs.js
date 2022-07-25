@@ -1,5 +1,6 @@
 var classpocketmine_1_1block_1_1_copper_stairs =
 [
+    [ "__construct", "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a030442a62b7bd7a2df54a4e8889a1724", null ],
     [ "__toString", "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#acb449b40461f4800cf6e6288cb9a069d", null ],
     [ "blocksDirectSkyLight", "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a2127737ad69279d366e4462b54f693f2", null ],
     [ "burnsForever", "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#aa09e248dd611c0ebb95cf2adf2d6d31c", null ],
@@ -26,8 +27,10 @@ var classpocketmine_1_1block_1_1_copper_stairs =
     [ "getSide", "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a6f13ff76dad934b1b2e078a5b57dd7a5", null ],
     [ "getSilkTouchDrops", "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a4b01df2347f9cc897c5eb2858d6c5e7e", null ],
     [ "getTypeId", "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a994b80e9138156e5b90a803def57c7db", null ],
+    [ "getTypeTags", "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a6201b0d5460ae6f3b5cee03197c9a94a", null ],
     [ "getXpDropAmount", "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a771a30c30a36b0992f54c57dc63af10d", null ],
     [ "getXpDropForTool", "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a75b16ca6e22355cf632466a969e79211", null ],
+    [ "hasTypeTag", "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a43e3458847422ebd5dec6c914b443c93", null ],
     [ "isAffectedBySilkTouch", "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a8307fc850da5c3f36e9dfc7ce639fe55", null ],
     [ "isFlammable", "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e", null ],
     [ "isSameState", "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a1ce2444f76246982cfbb507fed99a48e", null ],

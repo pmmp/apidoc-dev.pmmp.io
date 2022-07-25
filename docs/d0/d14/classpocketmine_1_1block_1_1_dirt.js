@@ -1,5 +1,6 @@
 var classpocketmine_1_1block_1_1_dirt =
 [
+    [ "__construct", "d0/d14/classpocketmine_1_1block_1_1_dirt.html#a265c6fb3ee3b859c86f38ae79f654954", null ],
     [ "__toString", "d0/d14/classpocketmine_1_1block_1_1_dirt.html#acb449b40461f4800cf6e6288cb9a069d", null ],
     [ "blocksDirectSkyLight", "d0/d14/classpocketmine_1_1block_1_1_dirt.html#a2127737ad69279d366e4462b54f693f2", null ],
     [ "burnsForever", "d0/d14/classpocketmine_1_1block_1_1_dirt.html#aa09e248dd611c0ebb95cf2adf2d6d31c", null ],
@@ -26,8 +27,10 @@ var classpocketmine_1_1block_1_1_dirt =
     [ "getSide", "d0/d14/classpocketmine_1_1block_1_1_dirt.html#a6f13ff76dad934b1b2e078a5b57dd7a5", null ],
     [ "getSilkTouchDrops", "d0/d14/classpocketmine_1_1block_1_1_dirt.html#a4b01df2347f9cc897c5eb2858d6c5e7e", null ],
     [ "getTypeId", "d0/d14/classpocketmine_1_1block_1_1_dirt.html#a994b80e9138156e5b90a803def57c7db", null ],
+    [ "getTypeTags", "d0/d14/classpocketmine_1_1block_1_1_dirt.html#a6201b0d5460ae6f3b5cee03197c9a94a", null ],
     [ "getXpDropAmount", "d0/d14/classpocketmine_1_1block_1_1_dirt.html#a771a30c30a36b0992f54c57dc63af10d", null ],
     [ "getXpDropForTool", "d0/d14/classpocketmine_1_1block_1_1_dirt.html#a75b16ca6e22355cf632466a969e79211", null ],
+    [ "hasTypeTag", "d0/d14/classpocketmine_1_1block_1_1_dirt.html#a43e3458847422ebd5dec6c914b443c93", null ],
     [ "isAffectedBySilkTouch", "d0/d14/classpocketmine_1_1block_1_1_dirt.html#a8307fc850da5c3f36e9dfc7ce639fe55", null ],
     [ "isFlammable", "d0/d14/classpocketmine_1_1block_1_1_dirt.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e", null ],
     [ "isSameState", "d0/d14/classpocketmine_1_1block_1_1_dirt.html#a1ce2444f76246982cfbb507fed99a48e", null ],
@@ -45,6 +48,6 @@ var classpocketmine_1_1block_1_1_dirt =
     [ "place", "d0/d14/classpocketmine_1_1block_1_1_dirt.html#a4bc78712a6bf9ec1e50890f716dbbd2d", null ],
     [ "readStateFromWorld", "d0/d14/classpocketmine_1_1block_1_1_dirt.html#a3a46169e7d256b3a1f3af8c54ddba832", null ],
     [ "recalculateCollisionBoxes", "d0/d14/classpocketmine_1_1block_1_1_dirt.html#a8a733c2fe564a205938a9146c8b0e0f1", null ],
-    [ "setCoarse", "d0/d14/classpocketmine_1_1block_1_1_dirt.html#a4ba44f83210e717737817b1901e65e94", null ],
+    [ "setDirtType", "d0/d14/classpocketmine_1_1block_1_1_dirt.html#aa21c3cca8af64ad854b9f29384d6e86c", null ],
     [ "ticksRandomly", "d0/d14/classpocketmine_1_1block_1_1_dirt.html#ab6b90601adfc9732893dcffe256514a9", null ]
 ];

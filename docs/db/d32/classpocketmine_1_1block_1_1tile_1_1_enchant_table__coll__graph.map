@@ -1,6 +1,6 @@
 <map id="pocketmine\block\tile\EnchantTable" name="pocketmine\block\tile\EnchantTable">
-<area shape="rect" id="node1" title=" " alt="" coords="116,2260,279,2352"/>
-<area shape="rect" id="node2" href="$dc/d0b/classpocketmine_1_1block_1_1tile_1_1_spawnable.html" title=" " alt="" coords="198,2045,443,2211"/>
+<area shape="rect" id="node1" title=" " alt="" coords="114,2289,276,2381"/>
+<area shape="rect" id="node2" href="$dc/d0b/classpocketmine_1_1block_1_1tile_1_1_spawnable.html" title=" " alt="" coords="194,2045,447,2240"/>
 <area shape="rect" id="node3" href="$d9/d74/classpocketmine_1_1block_1_1tile_1_1_tile.html" title=" " alt="" coords="255,1743,455,1996"/>
 <area shape="rect" id="node4" title=" " alt="" coords="170,541,228,619"/>
 <area shape="rect" id="node7" href="$d4/d2b/classpocketmine_1_1world_1_1_world.html" title=" " alt="" coords="479,901,708,1316"/>

@@ -1,6 +1,6 @@
 var classpocketmine_1_1block_1_1_red_mushroom_block =
 [
-    [ "__construct", "dd/d75/classpocketmine_1_1block_1_1_red_mushroom_block.html#a77b706e576ff661c233fe500c2173383", null ],
+    [ "__construct", "dd/d75/classpocketmine_1_1block_1_1_red_mushroom_block.html#a57847c37fe8f2756b7b78bc57e11ddaa", null ],
     [ "__toString", "dd/d75/classpocketmine_1_1block_1_1_red_mushroom_block.html#acb449b40461f4800cf6e6288cb9a069d", null ],
     [ "blocksDirectSkyLight", "dd/d75/classpocketmine_1_1block_1_1_red_mushroom_block.html#a2127737ad69279d366e4462b54f693f2", null ],
     [ "burnsForever", "dd/d75/classpocketmine_1_1block_1_1_red_mushroom_block.html#aa09e248dd611c0ebb95cf2adf2d6d31c", null ],
@@ -27,8 +27,10 @@ var classpocketmine_1_1block_1_1_red_mushroom_block =
     [ "getSide", "dd/d75/classpocketmine_1_1block_1_1_red_mushroom_block.html#a6f13ff76dad934b1b2e078a5b57dd7a5", null ],
     [ "getSilkTouchDrops", "dd/d75/classpocketmine_1_1block_1_1_red_mushroom_block.html#a4b01df2347f9cc897c5eb2858d6c5e7e", null ],
     [ "getTypeId", "dd/d75/classpocketmine_1_1block_1_1_red_mushroom_block.html#a994b80e9138156e5b90a803def57c7db", null ],
+    [ "getTypeTags", "dd/d75/classpocketmine_1_1block_1_1_red_mushroom_block.html#a6201b0d5460ae6f3b5cee03197c9a94a", null ],
     [ "getXpDropAmount", "dd/d75/classpocketmine_1_1block_1_1_red_mushroom_block.html#a771a30c30a36b0992f54c57dc63af10d", null ],
     [ "getXpDropForTool", "dd/d75/classpocketmine_1_1block_1_1_red_mushroom_block.html#a75b16ca6e22355cf632466a969e79211", null ],
+    [ "hasTypeTag", "dd/d75/classpocketmine_1_1block_1_1_red_mushroom_block.html#a43e3458847422ebd5dec6c914b443c93", null ],
     [ "isAffectedBySilkTouch", "dd/d75/classpocketmine_1_1block_1_1_red_mushroom_block.html#ac3c50407b10e74b7f07c69c4f4322042", null ],
     [ "isFlammable", "dd/d75/classpocketmine_1_1block_1_1_red_mushroom_block.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e", null ],
     [ "isSameState", "dd/d75/classpocketmine_1_1block_1_1_red_mushroom_block.html#a1ce2444f76246982cfbb507fed99a48e", null ],

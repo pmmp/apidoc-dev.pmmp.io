@@ -64,13 +64,13 @@ var namespacepocketmine =
               [ "BlockStateUpgradeSchemaModelValueRemap", "d5/d5f/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_value_remap.html", "d5/d5f/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_value_remap" ]
             ] ],
             [ "BlockDataUpgrader", "d2/dcf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_data_upgrader.html", null ],
+            [ "BlockIdMetaUpgrader", "df/db9/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_id_meta_upgrader.html", "df/db9/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_id_meta_upgrader" ],
             [ "BlockStateUpgrader", "d3/d19/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrader.html", "d3/d19/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrader" ],
             [ "BlockStateUpgradeSchema", "de/d35/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema.html", null ],
             [ "BlockStateUpgradeSchemaBlockRemap", "d7/d03/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_block_remap.html", "d7/d03/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_block_remap" ],
             [ "BlockStateUpgradeSchemaUtils", "d7/d2e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_utils.html", "d7/d2e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_utils" ],
             [ "BlockStateUpgradeSchemaValueRemap", "d9/dfe/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_value_remap.html", null ],
-            [ "LegacyBlockIdToStringIdMap", "d1/d10/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_legacy_block_id_to_string_id_map.html", "d1/d10/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_legacy_block_id_to_string_id_map" ],
-            [ "LegacyBlockStateMapper", "d6/de0/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_legacy_block_state_mapper.html", "d6/de0/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_legacy_block_state_mapper" ]
+            [ "LegacyBlockIdToStringIdMap", "d1/d10/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_legacy_block_id_to_string_id_map.html", "d1/d10/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_legacy_block_id_to_string_id_map" ]
           ] ],
           [ "BlockLegacyMetadata", "df/d5e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_block_legacy_metadata.html", null ],
           [ "BlockStateData", "da/dce/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_data.html", "da/dce/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_data" ],
@@ -129,9 +129,7 @@ var namespacepocketmine =
       [ "runtime", null, [
         [ "InvalidSerializedRuntimeDataException", "de/d29/classpocketmine_1_1data_1_1runtime_1_1_invalid_serialized_runtime_data_exception.html", null ],
         [ "RuntimeDataReader", "de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html", "de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader" ],
-        [ "RuntimeDataWriter", "dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer.html", "dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer" ],
-        [ "RuntimeEnumDeserializer", "da/d53/classpocketmine_1_1data_1_1runtime_1_1_runtime_enum_deserializer.html", null ],
-        [ "RuntimeEnumSerializer", "d2/d00/classpocketmine_1_1data_1_1runtime_1_1_runtime_enum_serializer.html", null ]
+        [ "RuntimeDataWriter", "dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer.html", "dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer" ]
       ] ],
       [ "SavedDataLoadingException", "d5/db4/classpocketmine_1_1data_1_1_saved_data_loading_exception.html", null ]
     ] ],

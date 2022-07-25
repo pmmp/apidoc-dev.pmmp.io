@@ -1,6 +1,6 @@
 var classpocketmine_1_1block_1_1_base_sign =
 [
-    [ "__construct", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a5e38a0de36b6ff3f1c1caea21e94baae", null ],
+    [ "__construct", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#afe9781695fdcd64340c66be82887ba0d", null ],
     [ "__toString", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#acb449b40461f4800cf6e6288cb9a069d", null ],
     [ "blocksDirectSkyLight", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a2127737ad69279d366e4462b54f693f2", null ],
     [ "burnsForever", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#aa09e248dd611c0ebb95cf2adf2d6d31c", null ],
@@ -28,8 +28,10 @@ var classpocketmine_1_1block_1_1_base_sign =
     [ "getSilkTouchDrops", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a4b01df2347f9cc897c5eb2858d6c5e7e", null ],
     [ "getText", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a0f649b79e6c05fc9f8d744ff69bb0b23", null ],
     [ "getTypeId", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a994b80e9138156e5b90a803def57c7db", null ],
+    [ "getTypeTags", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a6201b0d5460ae6f3b5cee03197c9a94a", null ],
     [ "getXpDropAmount", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a771a30c30a36b0992f54c57dc63af10d", null ],
     [ "getXpDropForTool", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a75b16ca6e22355cf632466a969e79211", null ],
+    [ "hasTypeTag", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a43e3458847422ebd5dec6c914b443c93", null ],
     [ "isAffectedBySilkTouch", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a8307fc850da5c3f36e9dfc7ce639fe55", null ],
     [ "isFlammable", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e", null ],
     [ "isSameState", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a1ce2444f76246982cfbb507fed99a48e", null ],

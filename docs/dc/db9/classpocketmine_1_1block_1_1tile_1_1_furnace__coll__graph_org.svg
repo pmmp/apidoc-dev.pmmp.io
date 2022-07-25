@@ -38,57 +38,59 @@
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="../../dc/d0b/classpocketmine_1_1block_1_1tile_1_1_spawnable.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="313.5,-248.5 313.5,-371.5 497.5,-371.5 497.5,-248.5 313.5,-248.5"/>
-<text text-anchor="start" x="321.5" y="-359.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\tile</text>
-<text text-anchor="middle" x="405.5" y="-348.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Spawnable</text>
-<polyline fill="none" stroke="#bfbfbf" points="313.5,-341.5 497.5,-341.5 "/>
-<text text-anchor="middle" x="405.5" y="-329.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="313.5,-322.5 497.5,-322.5 "/>
-<text text-anchor="start" x="321.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearSpawnCompoundCache()</text>
-<text text-anchor="start" x="321.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSerializedSpawnCompound()</text>
-<text text-anchor="start" x="321.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSpawnCompound()</text>
-<text text-anchor="start" x="321.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isDirty()</text>
-<text text-anchor="start" x="321.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setDirty()</text>
-<text text-anchor="start" x="321.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addAdditionalSpawnData()</text>
+<polygon fill="white" stroke="#bfbfbf" points="307.5,-237.5 307.5,-382.5 497.5,-382.5 497.5,-237.5 307.5,-237.5"/>
+<text text-anchor="start" x="315.5" y="-370.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\tile</text>
+<text text-anchor="middle" x="402.5" y="-359.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Spawnable</text>
+<polyline fill="none" stroke="#bfbfbf" points="307.5,-352.5 497.5,-352.5 "/>
+<text text-anchor="middle" x="402.5" y="-340.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="307.5,-333.5 497.5,-333.5 "/>
+<text text-anchor="start" x="315.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearSpawnCompoundCache()</text>
+<text text-anchor="start" x="315.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRenderUpdateBugWorkaround</text>
+<text text-anchor="start" x="315.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateProperties()</text>
+<text text-anchor="start" x="315.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSerializedSpawnCompound()</text>
+<text text-anchor="start" x="315.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSpawnCompound()</text>
+<text text-anchor="start" x="315.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isDirty()</text>
+<text text-anchor="start" x="315.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setDirty()</text>
+<text text-anchor="start" x="315.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addAdditionalSpawnData()</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
 <title>Node2&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M480.09,-242C495.51,-229.84 512.07,-217.89 528.5,-208 595.37,-167.77 679.32,-135.25 735.27,-115.82"/>
-<polygon fill="none" stroke="midnightblue" points="477.76,-239.39 472.14,-248.38 482.13,-244.85 477.76,-239.39"/>
+<path fill="none" stroke="midnightblue" d="M493.47,-231.28C504.93,-222.94 516.76,-214.97 528.5,-208 595.6,-168.16 679.51,-135.56 735.38,-116.01"/>
+<polygon fill="none" stroke="midnightblue" points="491.15,-228.64 485.2,-237.41 495.32,-234.27 491.15,-228.64"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="../../d9/d74/classpocketmine_1_1block_1_1tile_1_1_tile.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="315.5,-420.5 315.5,-609.5 465.5,-609.5 465.5,-420.5 315.5,-420.5"/>
-<text text-anchor="middle" x="390.5" y="-597.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\tile\Tile</text>
-<polyline fill="none" stroke="#bfbfbf" points="315.5,-590.5 465.5,-590.5 "/>
-<text text-anchor="start" x="323.5" y="-578.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $closed</text>
-<polyline fill="none" stroke="#bfbfbf" points="315.5,-571.5 465.5,-571.5 "/>
-<text text-anchor="start" x="323.5" y="-559.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="323.5" y="-548.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __destruct()</text>
-<text text-anchor="start" x="323.5" y="-537.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ close()</text>
-<text text-anchor="start" x="323.5" y="-526.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ copyDataFromItem()</text>
-<text text-anchor="start" x="323.5" y="-515.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
-<text text-anchor="start" x="323.5" y="-504.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCleanedNBT()</text>
-<text text-anchor="start" x="323.5" y="-493.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPosition()</text>
-<text text-anchor="start" x="323.5" y="-482.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isClosed()</text>
-<text text-anchor="start" x="323.5" y="-471.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onBlockDestroyed()</text>
-<text text-anchor="start" x="323.5" y="-460.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ readSaveData()</text>
-<text text-anchor="start" x="323.5" y="-449.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ saveNBT()</text>
-<text text-anchor="start" x="323.5" y="-438.5" font-family="Helvetica,sans-Serif" font-size="10.00"># onBlockDestroyedHook()</text>
-<text text-anchor="start" x="323.5" y="-427.5" font-family="Helvetica,sans-Serif" font-size="10.00"># writeSaveData()</text>
+<polygon fill="white" stroke="#bfbfbf" points="314.5,-420.5 314.5,-609.5 464.5,-609.5 464.5,-420.5 314.5,-420.5"/>
+<text text-anchor="middle" x="389.5" y="-597.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\tile\Tile</text>
+<polyline fill="none" stroke="#bfbfbf" points="314.5,-590.5 464.5,-590.5 "/>
+<text text-anchor="start" x="322.5" y="-578.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $closed</text>
+<polyline fill="none" stroke="#bfbfbf" points="314.5,-571.5 464.5,-571.5 "/>
+<text text-anchor="start" x="322.5" y="-559.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="322.5" y="-548.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __destruct()</text>
+<text text-anchor="start" x="322.5" y="-537.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ close()</text>
+<text text-anchor="start" x="322.5" y="-526.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ copyDataFromItem()</text>
+<text text-anchor="start" x="322.5" y="-515.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
+<text text-anchor="start" x="322.5" y="-504.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCleanedNBT()</text>
+<text text-anchor="start" x="322.5" y="-493.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPosition()</text>
+<text text-anchor="start" x="322.5" y="-482.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isClosed()</text>
+<text text-anchor="start" x="322.5" y="-471.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onBlockDestroyed()</text>
+<text text-anchor="start" x="322.5" y="-460.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ readSaveData()</text>
+<text text-anchor="start" x="322.5" y="-449.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ saveNBT()</text>
+<text text-anchor="start" x="322.5" y="-438.5" font-family="Helvetica,sans-Serif" font-size="10.00"># onBlockDestroyedHook()</text>
+<text text-anchor="start" x="322.5" y="-427.5" font-family="Helvetica,sans-Serif" font-size="10.00"># writeSaveData()</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node2 -->
 <g id="edge2" class="edge">
 <title>Node3&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M398.17,-410.14C399.15,-396.95 400.12,-383.81 401.02,-371.61"/>
-<polygon fill="none" stroke="midnightblue" points="394.68,-409.99 397.43,-420.22 401.66,-410.51 394.68,-409.99"/>
+<path fill="none" stroke="midnightblue" d="M396.15,-410.11C396.75,-400.78 397.35,-391.47 397.92,-382.51"/>
+<polygon fill="none" stroke="midnightblue" points="392.65,-410.02 395.51,-420.22 399.64,-410.47 392.65,-410.02"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
@@ -115,8 +117,8 @@
 <!-- Node4&#45;&gt;Node3 -->
 <g id="edge3" class="edge">
 <title>Node4&#45;&gt;Node3</title>
-<path fill="none" stroke="#404040" d="M792.68,-1594.19C730.88,-1570.68 555.08,-1493.98 492.5,-1362 427.37,-1224.65 473.39,-829.83 454.5,-679 451.63,-656.08 451.8,-649.92 444.5,-628 443.75,-625.73 442.96,-623.46 442.13,-621.17"/>
-<polygon fill="none" stroke="#404040" points="442.04,-620.91 436.17,-616.72 437.79,-609.69 443.65,-613.89 442.04,-620.91"/>
+<path fill="none" stroke="#404040" d="M792.68,-1594.19C730.88,-1570.68 555.08,-1493.98 492.5,-1362 427.37,-1224.65 473.39,-829.83 454.5,-679 451.63,-656.08 451.88,-649.89 444.5,-628 443.7,-625.63 442.87,-623.25 441.99,-620.87"/>
+<polygon fill="none" stroke="#404040" points="441.99,-620.86 436.1,-616.7 437.68,-609.66 443.57,-613.82 441.99,-620.86"/>
 <text text-anchor="middle" x="482" y="-996" font-family="Helvetica,sans-Serif" font-size="10.00"> +TAG_ID</text>
 <text text-anchor="middle" x="482" y="-985" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_X</text>
 <text text-anchor="middle" x="482" y="-974" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_Y</text>
@@ -307,8 +309,8 @@
 <!-- Node5&#45;&gt;Node3 -->
 <g id="edge4" class="edge">
 <title>Node5&#45;&gt;Node3</title>
-<path fill="none" stroke="#404040" d="M376.77,-728.88C378.83,-696.89 381.36,-657.69 383.68,-621.69"/>
-<polygon fill="none" stroke="#404040" points="383.69,-621.6 380.08,-615.35 384.46,-609.62 388.07,-615.87 383.69,-621.6"/>
+<path fill="none" stroke="#404040" d="M376.53,-728.88C378.48,-696.89 380.87,-657.69 383.06,-621.69"/>
+<polygon fill="none" stroke="#404040" points="383.07,-621.6 379.44,-615.37 383.8,-609.62 387.42,-615.85 383.07,-621.6"/>
 <text text-anchor="middle" x="412" y="-642" font-family="Helvetica,sans-Serif" font-size="10.00"> #$position</text>
 </g>
 <!-- Node6 -->
@@ -434,8 +436,8 @@
 <!-- Node10&#45;&gt;Node3 -->
 <g id="edge11" class="edge">
 <title>Node10&#45;&gt;Node3</title>
-<path fill="none" stroke="#404040" d="M49.62,-1844.48C45.29,-1777.54 40.5,-1685.27 40.5,-1604 40.5,-1604 40.5,-1604 40.5,-795 40.5,-660.56 200.36,-580.4 304.01,-542.56"/>
-<polygon fill="none" stroke="#404040" points="304.12,-542.52 308.42,-536.74 315.42,-538.49 311.11,-544.27 304.12,-542.52"/>
+<path fill="none" stroke="#404040" d="M49.62,-1844.48C45.29,-1777.54 40.5,-1685.27 40.5,-1604 40.5,-1604 40.5,-1604 40.5,-795 40.5,-660.98 199.46,-580.78 302.82,-542.8"/>
+<polygon fill="none" stroke="#404040" points="302.91,-542.76 307.2,-536.97 314.2,-538.7 309.91,-544.5 302.91,-542.76"/>
 <text text-anchor="middle" x="68" y="-1204" font-family="Helvetica,sans-Serif" font-size="10.00"> #$timings</text>
 </g>
 <!-- Node10&#45;&gt;Node9 -->

@@ -139,7 +139,9 @@ var hierarchy =
         [ "pocketmine\\block\\ShulkerBox", "d3/da7/classpocketmine_1_1block_1_1_shulker_box.html", [
           [ "pocketmine\\block\\DyedShulkerBox", "dd/d62/classpocketmine_1_1block_1_1_dyed_shulker_box.html", null ]
         ] ],
-        [ "pocketmine\\block\\SimplePillar", "df/d01/classpocketmine_1_1block_1_1_simple_pillar.html", null ],
+        [ "pocketmine\\block\\SimplePillar", "df/d01/classpocketmine_1_1block_1_1_simple_pillar.html", [
+          [ "pocketmine\\block\\Froglight", "de/d96/classpocketmine_1_1block_1_1_froglight.html", null ]
+        ] ],
         [ "pocketmine\\block\\SmithingTable", "d4/d35/classpocketmine_1_1block_1_1_smithing_table.html", null ],
         [ "pocketmine\\block\\Snow", "d4/d1a/classpocketmine_1_1block_1_1_snow.html", null ],
         [ "pocketmine\\block\\SoulSand", "d2/d33/classpocketmine_1_1block_1_1_soul_sand.html", null ],
@@ -178,6 +180,7 @@ var hierarchy =
         [ "pocketmine\\block\\Candle", "d6/dd1/classpocketmine_1_1block_1_1_candle.html", [
           [ "pocketmine\\block\\DyedCandle", "dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html", null ]
         ] ],
+        [ "pocketmine\\block\\Cauldron", "dc/d05/classpocketmine_1_1block_1_1_cauldron.html", null ],
         [ "pocketmine\\block\\ChemicalHeat", "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html", null ],
         [ "pocketmine\\block\\Chest", "d8/d5c/classpocketmine_1_1block_1_1_chest.html", [
           [ "pocketmine\\block\\TrappedChest", "d0/dd3/classpocketmine_1_1block_1_1_trapped_chest.html", null ]
@@ -195,6 +198,11 @@ var hierarchy =
           [ "pocketmine\\block\\WoodenFence", "d3/de8/classpocketmine_1_1block_1_1_wooden_fence.html", null ]
         ] ],
         [ "pocketmine\\block\\FenceGate", "d7/dd3/classpocketmine_1_1block_1_1_fence_gate.html", null ],
+        [ "pocketmine\\block\\FillableCauldron", "d8/dce/classpocketmine_1_1block_1_1_fillable_cauldron.html", [
+          [ "pocketmine\\block\\LavaCauldron", "d8/da6/classpocketmine_1_1block_1_1_lava_cauldron.html", null ],
+          [ "pocketmine\\block\\PotionCauldron", "d8/d07/classpocketmine_1_1block_1_1_potion_cauldron.html", null ],
+          [ "pocketmine\\block\\WaterCauldron", "d8/d25/classpocketmine_1_1block_1_1_water_cauldron.html", null ]
+        ] ],
         [ "pocketmine\\block\\Flowable", "d3/d1e/classpocketmine_1_1block_1_1_flowable.html", [
           [ "pocketmine\\block\\Air", "d7/d31/classpocketmine_1_1block_1_1_air.html", null ],
           [ "pocketmine\\block\\BambooSapling", "d6/dae/classpocketmine_1_1block_1_1_bamboo_sapling.html", null ],
@@ -215,6 +223,8 @@ var hierarchy =
             [ "pocketmine\\block\\WoodenButton", "da/dba/classpocketmine_1_1block_1_1_wooden_button.html", null ]
           ] ],
           [ "pocketmine\\block\\Carpet", "d8/d55/classpocketmine_1_1block_1_1_carpet.html", null ],
+          [ "pocketmine\\block\\ChorusFlower", "d8/d5a/classpocketmine_1_1block_1_1_chorus_flower.html", null ],
+          [ "pocketmine\\block\\ChorusPlant", "d8/dd4/classpocketmine_1_1block_1_1_chorus_plant.html", null ],
           [ "pocketmine\\block\\Cobweb", "db/ddc/classpocketmine_1_1block_1_1_cobweb.html", null ],
           [ "pocketmine\\block\\Crops", "d2/d70/classpocketmine_1_1block_1_1_crops.html", [
             [ "pocketmine\\block\\Beetroot", "d7/da3/classpocketmine_1_1block_1_1_beetroot.html", null ],
@@ -247,6 +257,7 @@ var hierarchy =
           [ "pocketmine\\block\\Sapling", "d6/d87/classpocketmine_1_1block_1_1_sapling.html", null ],
           [ "pocketmine\\block\\Skull", "d3/d2e/classpocketmine_1_1block_1_1_skull.html", null ],
           [ "pocketmine\\block\\SnowLayer", "d6/dfd/classpocketmine_1_1block_1_1_snow_layer.html", null ],
+          [ "pocketmine\\block\\SporeBlossom", "d8/d74/classpocketmine_1_1block_1_1_spore_blossom.html", null ],
           [ "pocketmine\\block\\Sugarcane", "da/da9/classpocketmine_1_1block_1_1_sugarcane.html", null ],
           [ "pocketmine\\block\\SweetBerryBush", "d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html", null ],
           [ "pocketmine\\block\\TallGrass", "d7/d79/classpocketmine_1_1block_1_1_tall_grass.html", null ],
@@ -281,6 +292,7 @@ var hierarchy =
           [ "pocketmine\\block\\Lava", "d1/d7b/classpocketmine_1_1block_1_1_lava.html", null ],
           [ "pocketmine\\block\\Water", "d2/d3e/classpocketmine_1_1block_1_1_water.html", null ]
         ] ],
+        [ "pocketmine\\block\\MangroveRoots", "d8/db0/classpocketmine_1_1block_1_1_mangrove_roots.html", null ],
         [ "pocketmine\\block\\Melon", "de/d38/classpocketmine_1_1block_1_1_melon.html", null ],
         [ "pocketmine\\block\\MonsterSpawner", "de/db3/classpocketmine_1_1block_1_1_monster_spawner.html", null ],
         [ "pocketmine\\block\\NetherPortal", "d1/d55/classpocketmine_1_1block_1_1_nether_portal.html", null ],
@@ -326,6 +338,7 @@ var hierarchy =
     [ "pocketmine\\data\\bedrock\\block\\upgrade\\BlockDataUpgrader", "d2/dcf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_data_upgrader.html", null ],
     [ "pocketmine\\block\\BlockFactory", "d0/d6d/classpocketmine_1_1block_1_1_block_factory.html", null ],
     [ "pocketmine\\block\\BlockIdentifier", "dd/d18/classpocketmine_1_1block_1_1_block_identifier.html", null ],
+    [ "pocketmine\\data\\bedrock\\block\\upgrade\\BlockIdMetaUpgrader", "df/db9/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_id_meta_upgrader.html", null ],
     [ "pocketmine\\block\\inventory\\BlockInventory", "d4/d3a/interfacepocketmine_1_1block_1_1inventory_1_1_block_inventory.html", [
       [ "pocketmine\\block\\inventory\\AnvilInventory", "d6/d6d/classpocketmine_1_1block_1_1inventory_1_1_anvil_inventory.html", null ],
       [ "pocketmine\\block\\inventory\\BarrelInventory", "d6/d7b/classpocketmine_1_1block_1_1inventory_1_1_barrel_inventory.html", null ],
@@ -381,7 +394,9 @@ var hierarchy =
     [ "pocketmine\\block\\BlockToolType", "dd/d5a/classpocketmine_1_1block_1_1_block_tool_type.html", null ],
     [ "pocketmine\\world\\BlockTransaction", "d4/d3e/classpocketmine_1_1world_1_1_block_transaction.html", null ],
     [ "pocketmine\\block\\BlockTypeIds", "db/dbe/classpocketmine_1_1block_1_1_block_type_ids.html", null ],
+    [ "pocketmine\\block\\BlockTypeInfo", "de/d9a/classpocketmine_1_1block_1_1_block_type_info.html", null ],
     [ "pocketmine\\data\\bedrock\\block\\BlockTypeNames", "d1/ddc/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_block_type_names.html", null ],
+    [ "pocketmine\\block\\BlockTypeTags", "d6/dbc/classpocketmine_1_1block_1_1_block_type_tags.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\BossBarColor", "d1/ded/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_boss_bar_color.html", null ],
     [ "pocketmine\\crafting\\BrewingRecipe", "d9/d63/interfacepocketmine_1_1crafting_1_1_brewing_recipe.html", [
       [ "pocketmine\\crafting\\PotionContainerChangeRecipe", "d1/d65/classpocketmine_1_1crafting_1_1_potion_container_change_recipe.html", null ],
@@ -662,6 +677,7 @@ var hierarchy =
     [ "pocketmine\\network\\mcpe\\protocol\\types\\DimensionData", "d7/ddb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_dimension_data.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\DimensionIds", "d5/db4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_dimension_ids.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\DimensionNameIds", "d0/df7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_dimension_name_ids.html", null ],
+    [ "pocketmine\\block\\utils\\DirtType", "df/d0e/classpocketmine_1_1block_1_1utils_1_1_dirt_type.html", null ],
     [ "pocketmine\\block\\utils\\DyeColor", "d0/d5a/classpocketmine_1_1block_1_1utils_1_1_dye_color.html", null ],
     [ "pocketmine\\data\\bedrock\\DyeColorIdMap", "d5/d50/classpocketmine_1_1data_1_1bedrock_1_1_dye_color_id_map.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\EducationEditionOffer", "d4/dd8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_education_edition_offer.html", null ],
@@ -891,6 +907,7 @@ var hierarchy =
     [ "pocketmine\\utils\\Filesystem", "da/ddd/classpocketmine_1_1utils_1_1_filesystem.html", null ],
     [ "pocketmine\\world\\generator\\FlatGeneratorOptions", "d9/de9/classpocketmine_1_1world_1_1generator_1_1_flat_generator_options.html", null ],
     [ "pocketmine\\world\\format\\io\\FormatConverter", "dd/dc7/classpocketmine_1_1world_1_1format_1_1io_1_1_format_converter.html", null ],
+    [ "pocketmine\\block\\utils\\FroglightType", "de/df4/classpocketmine_1_1block_1_1utils_1_1_froglight_type.html", null ],
     [ "pocketmine\\crafting\\FurnaceRecipe", "da/d41/classpocketmine_1_1crafting_1_1_furnace_recipe.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\recipe\\FurnaceRecipeBlockName", "d6/d97/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1recipe_1_1_furnace_recipe_block_name.html", null ],
     [ "pocketmine\\crafting\\json\\FurnaceRecipeData", "d1/d4b/classpocketmine_1_1crafting_1_1json_1_1_furnace_recipe_data.html", null ],
@@ -1145,7 +1162,6 @@ var hierarchy =
     [ "pocketmine\\lang\\KnownTranslationFactory", "d0/dc6/classpocketmine_1_1lang_1_1_known_translation_factory.html", null ],
     [ "pocketmine\\lang\\KnownTranslationKeys", "d7/d8e/classpocketmine_1_1lang_1_1_known_translation_keys.html", null ],
     [ "pocketmine\\lang\\Language", "d8/d53/classpocketmine_1_1lang_1_1_language.html", null ],
-    [ "pocketmine\\data\\bedrock\\block\\upgrade\\LegacyBlockStateMapper", "d6/de0/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_legacy_block_state_mapper.html", null ],
     [ "pocketmine\\item\\LegacyStringToItemParser", "d8/d89/classpocketmine_1_1item_1_1_legacy_string_to_item_parser.html", null ],
     [ "pocketmine\\data\\bedrock\\LegacyToStringIdMap", "d1/d8a/classpocketmine_1_1data_1_1bedrock_1_1_legacy_to_string_id_map.html", [
       [ "pocketmine\\data\\bedrock\\LegacyBiomeIdToStringIdMap", "d2/d33/classpocketmine_1_1data_1_1bedrock_1_1_legacy_biome_id_to_string_id_map.html", null ],
@@ -1870,8 +1886,6 @@ var hierarchy =
     [ "pocketmine\\network\\mcpe\\convert\\RuntimeBlockMapping", "d5/dfe/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_runtime_block_mapping.html", null ],
     [ "pocketmine\\data\\runtime\\RuntimeDataReader", "de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html", null ],
     [ "pocketmine\\data\\runtime\\RuntimeDataWriter", "dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer.html", null ],
-    [ "pocketmine\\data\\runtime\\RuntimeEnumDeserializer", "da/d53/classpocketmine_1_1data_1_1runtime_1_1_runtime_enum_deserializer.html", null ],
-    [ "pocketmine\\data\\runtime\\RuntimeEnumSerializer", "d2/d00/classpocketmine_1_1data_1_1runtime_1_1_runtime_enum_serializer.html", null ],
     [ "RuntimeException", null, [
       [ "pocketmine\\command\\utils\\CommandException", "d2/db2/classpocketmine_1_1command_1_1utils_1_1_command_exception.html", [
         [ "pocketmine\\command\\utils\\InvalidCommandSyntaxException", "da/d46/classpocketmine_1_1command_1_1utils_1_1_invalid_command_syntax_exception.html", null ]
@@ -1982,8 +1996,21 @@ var hierarchy =
       [ "pocketmine\\world\\sound\\BucketEmptyWaterSound", "de/d5e/classpocketmine_1_1world_1_1sound_1_1_bucket_empty_water_sound.html", null ],
       [ "pocketmine\\world\\sound\\BucketFillLavaSound", "d1/d7a/classpocketmine_1_1world_1_1sound_1_1_bucket_fill_lava_sound.html", null ],
       [ "pocketmine\\world\\sound\\BucketFillWaterSound", "d7/dfe/classpocketmine_1_1world_1_1sound_1_1_bucket_fill_water_sound.html", null ],
+      [ "pocketmine\\world\\sound\\CauldronAddDyeSound", "d2/d9e/classpocketmine_1_1world_1_1sound_1_1_cauldron_add_dye_sound.html", null ],
+      [ "pocketmine\\world\\sound\\CauldronCleanItemSound", "dc/d08/classpocketmine_1_1world_1_1sound_1_1_cauldron_clean_item_sound.html", null ],
+      [ "pocketmine\\world\\sound\\CauldronDyeItemSound", "de/d4d/classpocketmine_1_1world_1_1sound_1_1_cauldron_dye_item_sound.html", null ],
+      [ "pocketmine\\world\\sound\\CauldronEmptyLavaSound", "d0/dc0/classpocketmine_1_1world_1_1sound_1_1_cauldron_empty_lava_sound.html", null ],
+      [ "pocketmine\\world\\sound\\CauldronEmptyPotionSound", "d1/dcf/classpocketmine_1_1world_1_1sound_1_1_cauldron_empty_potion_sound.html", null ],
+      [ "pocketmine\\world\\sound\\CauldronEmptyPowderSnowSound", "dd/d7b/classpocketmine_1_1world_1_1sound_1_1_cauldron_empty_powder_snow_sound.html", null ],
+      [ "pocketmine\\world\\sound\\CauldronEmptyWaterSound", "d8/de4/classpocketmine_1_1world_1_1sound_1_1_cauldron_empty_water_sound.html", null ],
+      [ "pocketmine\\world\\sound\\CauldronFillLavaSound", "d3/d99/classpocketmine_1_1world_1_1sound_1_1_cauldron_fill_lava_sound.html", null ],
+      [ "pocketmine\\world\\sound\\CauldronFillPotionSound", "d4/dd6/classpocketmine_1_1world_1_1sound_1_1_cauldron_fill_potion_sound.html", null ],
+      [ "pocketmine\\world\\sound\\CauldronFillPowderSnowSound", "de/db6/classpocketmine_1_1world_1_1sound_1_1_cauldron_fill_powder_snow_sound.html", null ],
+      [ "pocketmine\\world\\sound\\CauldronFillWaterSound", "dd/de9/classpocketmine_1_1world_1_1sound_1_1_cauldron_fill_water_sound.html", null ],
       [ "pocketmine\\world\\sound\\ChestCloseSound", "da/df1/classpocketmine_1_1world_1_1sound_1_1_chest_close_sound.html", null ],
       [ "pocketmine\\world\\sound\\ChestOpenSound", "d7/d29/classpocketmine_1_1world_1_1sound_1_1_chest_open_sound.html", null ],
+      [ "pocketmine\\world\\sound\\ChorusFlowerDieSound", "d9/d18/classpocketmine_1_1world_1_1sound_1_1_chorus_flower_die_sound.html", null ],
+      [ "pocketmine\\world\\sound\\ChorusFlowerGrowSound", "da/de5/classpocketmine_1_1world_1_1sound_1_1_chorus_flower_grow_sound.html", null ],
       [ "pocketmine\\world\\sound\\ClickSound", "d1/d6b/classpocketmine_1_1world_1_1sound_1_1_click_sound.html", null ],
       [ "pocketmine\\world\\sound\\CopperWaxApplySound", "df/d22/classpocketmine_1_1world_1_1sound_1_1_copper_wax_apply_sound.html", null ],
       [ "pocketmine\\world\\sound\\CopperWaxRemoveSound", "da/db6/classpocketmine_1_1world_1_1sound_1_1_copper_wax_remove_sound.html", null ],
@@ -2024,6 +2051,7 @@ var hierarchy =
       [ "pocketmine\\world\\sound\\SmokerSound", "de/d81/classpocketmine_1_1world_1_1sound_1_1_smoker_sound.html", null ],
       [ "pocketmine\\world\\sound\\ThrowSound", "d9/d18/classpocketmine_1_1world_1_1sound_1_1_throw_sound.html", null ],
       [ "pocketmine\\world\\sound\\TotemUseSound", "de/dbd/classpocketmine_1_1world_1_1sound_1_1_totem_use_sound.html", null ],
+      [ "pocketmine\\world\\sound\\WaterSplashSound", "df/d82/classpocketmine_1_1world_1_1sound_1_1_water_splash_sound.html", null ],
       [ "pocketmine\\world\\sound\\XpCollectSound", "d9/d40/classpocketmine_1_1world_1_1sound_1_1_xp_collect_sound.html", null ],
       [ "pocketmine\\world\\sound\\XpLevelUpSound", "d5/d3d/classpocketmine_1_1world_1_1sound_1_1_xp_level_up_sound.html", null ]
     ] ],
@@ -2126,6 +2154,7 @@ var hierarchy =
         [ "pocketmine\\block\\tile\\Bed", "d2/d76/classpocketmine_1_1block_1_1tile_1_1_bed.html", null ],
         [ "pocketmine\\block\\tile\\Bell", "d3/d26/classpocketmine_1_1block_1_1tile_1_1_bell.html", null ],
         [ "pocketmine\\block\\tile\\BrewingStand", "d3/d41/classpocketmine_1_1block_1_1tile_1_1_brewing_stand.html", null ],
+        [ "pocketmine\\block\\tile\\Cauldron", "d6/dbc/classpocketmine_1_1block_1_1tile_1_1_cauldron.html", null ],
         [ "pocketmine\\block\\tile\\Chest", "d9/d64/classpocketmine_1_1block_1_1tile_1_1_chest.html", null ],
         [ "pocketmine\\block\\tile\\EnchantTable", "df/d38/classpocketmine_1_1block_1_1tile_1_1_enchant_table.html", null ],
         [ "pocketmine\\block\\tile\\EnderChest", "d4/d65/classpocketmine_1_1block_1_1tile_1_1_ender_chest.html", null ],
@@ -2138,7 +2167,8 @@ var hierarchy =
         [ "pocketmine\\block\\tile\\MonsterSpawner", "d6/d8f/classpocketmine_1_1block_1_1tile_1_1_monster_spawner.html", null ],
         [ "pocketmine\\block\\tile\\ShulkerBox", "dd/dd0/classpocketmine_1_1block_1_1tile_1_1_shulker_box.html", null ],
         [ "pocketmine\\block\\tile\\Sign", "d7/d0d/classpocketmine_1_1block_1_1tile_1_1_sign.html", null ],
-        [ "pocketmine\\block\\tile\\Skull", "db/d8d/classpocketmine_1_1block_1_1tile_1_1_skull.html", null ]
+        [ "pocketmine\\block\\tile\\Skull", "db/d8d/classpocketmine_1_1block_1_1tile_1_1_skull.html", null ],
+        [ "pocketmine\\block\\tile\\SporeBlossom", "d2/d51/classpocketmine_1_1block_1_1tile_1_1_spore_blossom.html", null ]
       ] ]
     ] ],
     [ "pocketmine\\block\\tile\\TileFactory", "d7/d93/classpocketmine_1_1block_1_1tile_1_1_tile_factory.html", null ],

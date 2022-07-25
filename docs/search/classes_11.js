@@ -86,7 +86,5 @@ var searchData=
   ['rottenflesh_83',['RottenFlesh',['../dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html',1,'pocketmine::item']]],
   ['runtimeblockmapping_84',['RuntimeBlockMapping',['../d5/dfe/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_runtime_block_mapping.html',1,'pocketmine::network::mcpe::convert']]],
   ['runtimedatareader_85',['RuntimeDataReader',['../de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html',1,'pocketmine::data::runtime']]],
-  ['runtimedatawriter_86',['RuntimeDataWriter',['../dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer.html',1,'pocketmine::data::runtime']]],
-  ['runtimeenumdeserializer_87',['RuntimeEnumDeserializer',['../da/d53/classpocketmine_1_1data_1_1runtime_1_1_runtime_enum_deserializer.html',1,'pocketmine::data::runtime']]],
-  ['runtimeenumserializer_88',['RuntimeEnumSerializer',['../d2/d00/classpocketmine_1_1data_1_1runtime_1_1_runtime_enum_serializer.html',1,'pocketmine::data::runtime']]]
+  ['runtimedatawriter_86',['RuntimeDataWriter',['../dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer.html',1,'pocketmine::data::runtime']]]
 ];
