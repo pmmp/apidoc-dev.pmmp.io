@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA3 git-723ae9eca08dd74e1706b4d02e964b9c6c086cd1</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA4 git-cb020988d4a662332fdd60a666a1af99182bf252</span>
    </div>
   </td>
  </tr>
@@ -217,7 +217,7 @@ $(document).ready(function(){initNavTree('de/dd7/_water_cauldron_8php_source.htm
 <div class="line"><a id="l00125" name="l00125"></a><span class="lineno">  125</span>            $item-&gt;pop();</div>
 <div class="line"><a id="l00126" name="l00126"></a><span class="lineno">  126</span>        }elseif($item instanceof Potion || $item instanceof SplashPotion){ <span class="comment">//TODO: lingering potion</span></div>
 <div class="line"><a id="l00127" name="l00127"></a><span class="lineno">  127</span>            <span class="keywordflow">if</span>($item-&gt;getType()-&gt;equals(PotionType::WATER())){</div>
-<div class="line"><a id="l00128" name="l00128"></a><span class="lineno">  128</span>                $this-&gt;addFillLevels(self::WATER_BOTTLE_FILL_AMOUNT, $item, VanillaItems::GLASS_BOTTLE(), $returnedItems);</div>
+<div class="line"><a id="l00128" name="l00128"></a><span class="lineno">  128</span>                $this-&gt;setCustomWaterColor(<span class="keyword">null</span>)-&gt;addFillLevels(self::WATER_BOTTLE_FILL_AMOUNT, $item, VanillaItems::GLASS_BOTTLE(), $returnedItems);</div>
 <div class="line"><a id="l00129" name="l00129"></a><span class="lineno">  129</span>            }<span class="keywordflow">else</span>{</div>
 <div class="line"><a id="l00130" name="l00130"></a><span class="lineno">  130</span>                $this-&gt;mix($item, VanillaItems::GLASS_BOTTLE(), $returnedItems);</div>
 <div class="line"><a id="l00131" name="l00131"></a><span class="lineno">  131</span>            }</div>
@@ -261,7 +261,7 @@ $(document).ready(function(){initNavTree('de/dd7/_water_cauldron_8php_source.htm
 <div class="line"><a id="l00169" name="l00169"></a><span class="lineno">  169</span>            }</div>
 <div class="line"><a id="l00170" name="l00170"></a><span class="lineno">  170</span>        }<span class="keywordflow">else</span>{</div>
 <div class="line"><a id="l00171" name="l00171"></a><span class="lineno">  171</span>            match($item-&gt;getTypeId()){</div>
-<div class="line"><a id="l00172" name="l00172"></a><span class="lineno">  172</span>                ItemTypeIds::WATER_BUCKET =&gt; $this-&gt;addFillLevels(self::MAX_FILL_LEVEL, $item, VanillaItems::BUCKET(), $returnedItems),</div>
+<div class="line"><a id="l00172" name="l00172"></a><span class="lineno">  172</span>                ItemTypeIds::WATER_BUCKET =&gt; $this-&gt;setCustomWaterColor(<span class="keyword">null</span>)-&gt;addFillLevels(self::MAX_FILL_LEVEL, $item, VanillaItems::BUCKET(), $returnedItems),</div>
 <div class="line"><a id="l00173" name="l00173"></a><span class="lineno">  173</span>                ItemTypeIds::BUCKET =&gt; $this-&gt;removeFillLevels(self::MAX_FILL_LEVEL, $item, VanillaItems::WATER_BUCKET(), $returnedItems),</div>
 <div class="line"><a id="l00174" name="l00174"></a><span class="lineno">  174</span>                ItemTypeIds::GLASS_BOTTLE =&gt; $this-&gt;removeFillLevels(self::WATER_BOTTLE_FILL_AMOUNT, $item, VanillaItems::POTION()-&gt;setType(PotionType::WATER()), $returnedItems),</div>
 <div class="line"><a id="l00175" name="l00175"></a><span class="lineno">  175</span>                ItemTypeIds::LAVA_BUCKET, ItemTypeIds::POWDER_SNOW_BUCKET =&gt; $this-&gt;mix($item, VanillaItems::BUCKET(), $returnedItems),</div>
