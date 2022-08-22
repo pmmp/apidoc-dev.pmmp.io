@@ -1,6 +1,6 @@
 <map id="pocketmine\event\block\BaseBlockChangeEvent" name="pocketmine\event\block\BaseBlockChangeEvent">
 <area shape="rect" id="node1" title=" " alt="" coords="309,300,489,407"/>
-<area shape="rect" id="node5" href="$dc/d51/classpocketmine_1_1event_1_1block_1_1_block_form_event.html" title=" " alt="" coords="5,462,184,554"/>
+<area shape="rect" id="node5" href="$dc/d51/classpocketmine_1_1event_1_1block_1_1_block_form_event.html" title=" " alt="" coords="5,455,184,561"/>
 <area shape="rect" id="node6" href="$db/d04/classpocketmine_1_1event_1_1block_1_1_block_grow_event.html" title=" " alt="" coords="208,462,387,554"/>
 <area shape="rect" id="node7" href="$d1/d80/classpocketmine_1_1event_1_1block_1_1_block_melt_event.html" title=" " alt="" coords="411,462,589,554"/>
 <area shape="rect" id="node8" href="$d7/dd6/classpocketmine_1_1event_1_1block_1_1_block_spread_event.html" title=" " alt="" coords="613,455,792,561"/>

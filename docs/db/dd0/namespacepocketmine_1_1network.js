@@ -453,6 +453,7 @@ var namespacepocketmine_1_1network =
         [ "ChunkSerializer", "dd/dc9/classpocketmine_1_1network_1_1mcpe_1_1serializer_1_1_chunk_serializer.html", "dd/dc9/classpocketmine_1_1network_1_1mcpe_1_1serializer_1_1_chunk_serializer" ]
       ] ],
       [ "ChunkRequestTask", "d2/d46/classpocketmine_1_1network_1_1mcpe_1_1_chunk_request_task.html", "d2/d46/classpocketmine_1_1network_1_1mcpe_1_1_chunk_request_task" ],
+      [ "ComplexWindowMapEntry", "db/d59/classpocketmine_1_1network_1_1mcpe_1_1_complex_window_map_entry.html", "db/d59/classpocketmine_1_1network_1_1mcpe_1_1_complex_window_map_entry" ],
       [ "InventoryManager", "d3/da1/classpocketmine_1_1network_1_1mcpe_1_1_inventory_manager.html", "d3/da1/classpocketmine_1_1network_1_1mcpe_1_1_inventory_manager" ],
       [ "JwtException", "d6/d69/classpocketmine_1_1network_1_1mcpe_1_1_jwt_exception.html", null ],
       [ "JwtUtils", "de/d36/classpocketmine_1_1network_1_1mcpe_1_1_jwt_utils.html", "de/d36/classpocketmine_1_1network_1_1mcpe_1_1_jwt_utils" ],

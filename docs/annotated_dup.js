@@ -497,7 +497,9 @@ var annotated_dup =
           [ "LegacyToStringIdMap", "d1/d8a/classpocketmine_1_1data_1_1bedrock_1_1_legacy_to_string_id_map.html", "d1/d8a/classpocketmine_1_1data_1_1bedrock_1_1_legacy_to_string_id_map" ],
           [ "MushroomBlockTypeIdMap", "db/db9/classpocketmine_1_1data_1_1bedrock_1_1_mushroom_block_type_id_map.html", null ],
           [ "PotionTypeIdMap", "d9/d5d/classpocketmine_1_1data_1_1bedrock_1_1_potion_type_id_map.html", null ],
-          [ "PotionTypeIds", "d2/dff/classpocketmine_1_1data_1_1bedrock_1_1_potion_type_ids.html", null ]
+          [ "PotionTypeIds", "d2/dff/classpocketmine_1_1data_1_1bedrock_1_1_potion_type_ids.html", null ],
+          [ "SuspiciousStewTypeIdMap", "d9/d16/classpocketmine_1_1data_1_1bedrock_1_1_suspicious_stew_type_id_map.html", null ],
+          [ "SuspiciousStewTypeIds", "d8/de5/classpocketmine_1_1data_1_1bedrock_1_1_suspicious_stew_type_ids.html", null ]
         ] ],
         [ "java", null, [
           [ "GameModeIdMap", "d9/d1c/classpocketmine_1_1data_1_1java_1_1_game_mode_id_map.html", null ]
@@ -753,6 +755,7 @@ var annotated_dup =
           ] ],
           [ "CraftingTransaction", "db/d5b/classpocketmine_1_1inventory_1_1transaction_1_1_crafting_transaction.html", "db/d5b/classpocketmine_1_1inventory_1_1transaction_1_1_crafting_transaction" ],
           [ "InventoryTransaction", "d3/de1/classpocketmine_1_1inventory_1_1transaction_1_1_inventory_transaction.html", "d3/de1/classpocketmine_1_1inventory_1_1transaction_1_1_inventory_transaction" ],
+          [ "TransactionBuilder", "d6/de0/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_builder.html", "d6/de0/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_builder" ],
           [ "TransactionBuilderInventory", "db/d05/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_builder_inventory.html", "db/d05/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_builder_inventory" ],
           [ "TransactionCancelledException", "dd/d12/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_cancelled_exception.html", null ],
           [ "TransactionException", "dc/db9/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_exception.html", null ],
@@ -829,6 +832,7 @@ var annotated_dup =
         [ "EnderPearl", "d0/db1/classpocketmine_1_1item_1_1_ender_pearl.html", "d0/db1/classpocketmine_1_1item_1_1_ender_pearl" ],
         [ "ExperienceBottle", "d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html", "d0/dac/classpocketmine_1_1item_1_1_experience_bottle" ],
         [ "Fertilizer", "d2/df4/classpocketmine_1_1item_1_1_fertilizer.html", "d2/df4/classpocketmine_1_1item_1_1_fertilizer" ],
+        [ "FireCharge", "d9/d13/classpocketmine_1_1item_1_1_fire_charge.html", "d9/d13/classpocketmine_1_1item_1_1_fire_charge" ],
         [ "FishingRod", "d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html", "d4/d82/classpocketmine_1_1item_1_1_fishing_rod" ],
         [ "FlintSteel", "d5/db8/classpocketmine_1_1item_1_1_flint_steel.html", "d5/db8/classpocketmine_1_1item_1_1_flint_steel" ],
         [ "Food", "dc/de1/classpocketmine_1_1item_1_1_food.html", "dc/de1/classpocketmine_1_1item_1_1_food" ],
@@ -886,6 +890,8 @@ var annotated_dup =
         [ "Stick", "db/db5/classpocketmine_1_1item_1_1_stick.html", "db/db5/classpocketmine_1_1item_1_1_stick" ],
         [ "StringItem", "df/db6/classpocketmine_1_1item_1_1_string_item.html", "df/db6/classpocketmine_1_1item_1_1_string_item" ],
         [ "StringToItemParser", "de/d75/classpocketmine_1_1item_1_1_string_to_item_parser.html", "de/d75/classpocketmine_1_1item_1_1_string_to_item_parser" ],
+        [ "SuspiciousStew", "d5/d12/classpocketmine_1_1item_1_1_suspicious_stew.html", "d5/d12/classpocketmine_1_1item_1_1_suspicious_stew" ],
+        [ "SuspiciousStewType", "db/db9/classpocketmine_1_1item_1_1_suspicious_stew_type.html", "db/db9/classpocketmine_1_1item_1_1_suspicious_stew_type" ],
         [ "SweetBerries", "d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html", "d6/da0/classpocketmine_1_1item_1_1_sweet_berries" ],
         [ "Sword", "d6/d74/classpocketmine_1_1item_1_1_sword.html", "d6/d74/classpocketmine_1_1item_1_1_sword" ],
         [ "TieredTool", "de/dee/classpocketmine_1_1item_1_1_tiered_tool.html", "de/dee/classpocketmine_1_1item_1_1_tiered_tool" ],
@@ -1403,6 +1409,7 @@ var annotated_dup =
             [ "ChunkSerializer", "dd/dc9/classpocketmine_1_1network_1_1mcpe_1_1serializer_1_1_chunk_serializer.html", "dd/dc9/classpocketmine_1_1network_1_1mcpe_1_1serializer_1_1_chunk_serializer" ]
           ] ],
           [ "ChunkRequestTask", "d2/d46/classpocketmine_1_1network_1_1mcpe_1_1_chunk_request_task.html", "d2/d46/classpocketmine_1_1network_1_1mcpe_1_1_chunk_request_task" ],
+          [ "ComplexWindowMapEntry", "db/d59/classpocketmine_1_1network_1_1mcpe_1_1_complex_window_map_entry.html", "db/d59/classpocketmine_1_1network_1_1mcpe_1_1_complex_window_map_entry" ],
           [ "InventoryManager", "d3/da1/classpocketmine_1_1network_1_1mcpe_1_1_inventory_manager.html", "d3/da1/classpocketmine_1_1network_1_1mcpe_1_1_inventory_manager" ],
           [ "JwtException", "d6/d69/classpocketmine_1_1network_1_1mcpe_1_1_jwt_exception.html", null ],
           [ "JwtUtils", "de/d36/classpocketmine_1_1network_1_1mcpe_1_1_jwt_utils.html", "de/d36/classpocketmine_1_1network_1_1mcpe_1_1_jwt_utils" ],
@@ -1768,6 +1775,7 @@ var annotated_dup =
           [ "DoorBumpSound", "d9/d16/classpocketmine_1_1world_1_1sound_1_1_door_bump_sound.html", "d9/d16/classpocketmine_1_1world_1_1sound_1_1_door_bump_sound" ],
           [ "DoorCrashSound", "db/d7d/classpocketmine_1_1world_1_1sound_1_1_door_crash_sound.html", "db/d7d/classpocketmine_1_1world_1_1sound_1_1_door_crash_sound" ],
           [ "DoorSound", "d5/db5/classpocketmine_1_1world_1_1sound_1_1_door_sound.html", "d5/db5/classpocketmine_1_1world_1_1sound_1_1_door_sound" ],
+          [ "DyeUseSound", "d1/dc4/classpocketmine_1_1world_1_1sound_1_1_dye_use_sound.html", "d1/dc4/classpocketmine_1_1world_1_1sound_1_1_dye_use_sound" ],
           [ "EnderChestCloseSound", "d4/def/classpocketmine_1_1world_1_1sound_1_1_ender_chest_close_sound.html", "d4/def/classpocketmine_1_1world_1_1sound_1_1_ender_chest_close_sound" ],
           [ "EnderChestOpenSound", "dd/df2/classpocketmine_1_1world_1_1sound_1_1_ender_chest_open_sound.html", "dd/df2/classpocketmine_1_1world_1_1sound_1_1_ender_chest_open_sound" ],
           [ "EndermanTeleportSound", "d0/d3d/classpocketmine_1_1world_1_1sound_1_1_enderman_teleport_sound.html", "d0/d3d/classpocketmine_1_1world_1_1sound_1_1_enderman_teleport_sound" ],
@@ -1784,6 +1792,7 @@ var annotated_dup =
           [ "GhastShootSound", "d9/d29/classpocketmine_1_1world_1_1sound_1_1_ghast_shoot_sound.html", "d9/d29/classpocketmine_1_1world_1_1sound_1_1_ghast_shoot_sound" ],
           [ "GhastSound", "d0/d46/classpocketmine_1_1world_1_1sound_1_1_ghast_sound.html", "d0/d46/classpocketmine_1_1world_1_1sound_1_1_ghast_sound" ],
           [ "IgniteSound", "d2/d6c/classpocketmine_1_1world_1_1sound_1_1_ignite_sound.html", "d2/d6c/classpocketmine_1_1world_1_1sound_1_1_ignite_sound" ],
+          [ "InkSacUseSound", "df/d0d/classpocketmine_1_1world_1_1sound_1_1_ink_sac_use_sound.html", "df/d0d/classpocketmine_1_1world_1_1sound_1_1_ink_sac_use_sound" ],
           [ "ItemBreakSound", "df/d35/classpocketmine_1_1world_1_1sound_1_1_item_break_sound.html", "df/d35/classpocketmine_1_1world_1_1sound_1_1_item_break_sound" ],
           [ "ItemUseOnBlockSound", "d5/d62/classpocketmine_1_1world_1_1sound_1_1_item_use_on_block_sound.html", "d5/d62/classpocketmine_1_1world_1_1sound_1_1_item_use_on_block_sound" ],
           [ "LaunchSound", "d2/ddc/classpocketmine_1_1world_1_1sound_1_1_launch_sound.html", "d2/ddc/classpocketmine_1_1world_1_1sound_1_1_launch_sound" ],

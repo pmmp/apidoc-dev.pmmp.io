@@ -191,10 +191,14 @@ var searchData=
   ['sugarcane_188',['Sugarcane',['../da/da9/classpocketmine_1_1block_1_1_sugarcane.html',1,'pocketmine::block']]],
   ['supporttype_189',['SupportType',['../d2/dbe/classpocketmine_1_1block_1_1utils_1_1_support_type.html',1,'pocketmine::block::utils']]],
   ['survivalblockbreakhandler_190',['SurvivalBlockBreakHandler',['../db/dcb/classpocketmine_1_1player_1_1_survival_block_break_handler.html',1,'pocketmine::player']]],
-  ['swampbiome_191',['SwampBiome',['../d1/dd8/classpocketmine_1_1world_1_1biome_1_1_swamp_biome.html',1,'pocketmine::world::biome']]],
-  ['swapstackrequestaction_192',['SwapStackRequestAction',['../de/db2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_swap_stack_request_action.html',1,'pocketmine::network::mcpe::protocol::types::inventory::stackrequest']]],
-  ['sweetberries_193',['SweetBerries',['../d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html',1,'pocketmine::item']]],
-  ['sweetberrybush_194',['SweetBerryBush',['../d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html',1,'pocketmine::block']]],
-  ['sword_195',['Sword',['../d6/d74/classpocketmine_1_1item_1_1_sword.html',1,'pocketmine::item']]],
-  ['syncactorpropertypacket_196',['SyncActorPropertyPacket',['../dc/d98/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_sync_actor_property_packet.html',1,'pocketmine::network::mcpe::protocol']]]
+  ['suspiciousstew_191',['SuspiciousStew',['../d5/d12/classpocketmine_1_1item_1_1_suspicious_stew.html',1,'pocketmine::item']]],
+  ['suspiciousstewtype_192',['SuspiciousStewType',['../db/db9/classpocketmine_1_1item_1_1_suspicious_stew_type.html',1,'pocketmine::item']]],
+  ['suspiciousstewtypeidmap_193',['SuspiciousStewTypeIdMap',['../d9/d16/classpocketmine_1_1data_1_1bedrock_1_1_suspicious_stew_type_id_map.html',1,'pocketmine::data::bedrock']]],
+  ['suspiciousstewtypeids_194',['SuspiciousStewTypeIds',['../d8/de5/classpocketmine_1_1data_1_1bedrock_1_1_suspicious_stew_type_ids.html',1,'pocketmine::data::bedrock']]],
+  ['swampbiome_195',['SwampBiome',['../d1/dd8/classpocketmine_1_1world_1_1biome_1_1_swamp_biome.html',1,'pocketmine::world::biome']]],
+  ['swapstackrequestaction_196',['SwapStackRequestAction',['../de/db2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_swap_stack_request_action.html',1,'pocketmine::network::mcpe::protocol::types::inventory::stackrequest']]],
+  ['sweetberries_197',['SweetBerries',['../d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html',1,'pocketmine::item']]],
+  ['sweetberrybush_198',['SweetBerryBush',['../d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html',1,'pocketmine::block']]],
+  ['sword_199',['Sword',['../d6/d74/classpocketmine_1_1item_1_1_sword.html',1,'pocketmine::item']]],
+  ['syncactorpropertypacket_200',['SyncActorPropertyPacket',['../dc/d98/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_sync_actor_property_packet.html',1,'pocketmine::network::mcpe::protocol']]]
 ];

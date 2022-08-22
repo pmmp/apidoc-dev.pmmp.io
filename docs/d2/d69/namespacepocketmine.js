@@ -121,7 +121,9 @@ var namespacepocketmine =
         [ "LegacyToStringIdMap", "d1/d8a/classpocketmine_1_1data_1_1bedrock_1_1_legacy_to_string_id_map.html", "d1/d8a/classpocketmine_1_1data_1_1bedrock_1_1_legacy_to_string_id_map" ],
         [ "MushroomBlockTypeIdMap", "db/db9/classpocketmine_1_1data_1_1bedrock_1_1_mushroom_block_type_id_map.html", null ],
         [ "PotionTypeIdMap", "d9/d5d/classpocketmine_1_1data_1_1bedrock_1_1_potion_type_id_map.html", null ],
-        [ "PotionTypeIds", "d2/dff/classpocketmine_1_1data_1_1bedrock_1_1_potion_type_ids.html", null ]
+        [ "PotionTypeIds", "d2/dff/classpocketmine_1_1data_1_1bedrock_1_1_potion_type_ids.html", null ],
+        [ "SuspiciousStewTypeIdMap", "d9/d16/classpocketmine_1_1data_1_1bedrock_1_1_suspicious_stew_type_id_map.html", null ],
+        [ "SuspiciousStewTypeIds", "d8/de5/classpocketmine_1_1data_1_1bedrock_1_1_suspicious_stew_type_ids.html", null ]
       ] ],
       [ "java", null, [
         [ "GameModeIdMap", "d9/d1c/classpocketmine_1_1data_1_1java_1_1_game_mode_id_map.html", null ]

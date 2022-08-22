@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA4 git-cb020988d4a662332fdd60a666a1af99182bf252</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA4 git-fedd5416636df18654d7883dc3cd8a72b3351538</span>
    </div>
   </td>
  </tr>
@@ -133,20 +133,16 @@ $(document).ready(function(){initNavTree('d7/d7b/_seed_command_8php_source.html'
 <div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>    }</div>
 <div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span> </div>
 <div class="line"><a id="l00041" name="l00041"></a><span class="lineno"><a class="line" href="../../d3/da8/classpocketmine_1_1command_1_1defaults_1_1_seed_command.html#a65e3776f288012794eaa43d351c242b3">   41</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d3/da8/classpocketmine_1_1command_1_1defaults_1_1_seed_command.html#a65e3776f288012794eaa43d351c242b3">execute</a>(<a class="code hl_interface" href="../../d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html">CommandSender</a> $sender, <span class="keywordtype">string</span> $commandLabel, array $args){</div>
-<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>        <span class="keywordflow">if</span>(!$this-&gt;testPermission($sender)){</div>
-<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>        }</div>
-<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span> </div>
-<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>        <span class="keywordflow">if</span>($sender instanceof <a class="code hl_class" href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html">Player</a>){</div>
-<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>            $seed = $sender-&gt;getPosition()-&gt;getWorld()-&gt;getSeed();</div>
-<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>        }<span class="keywordflow">else</span>{</div>
-<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>            $seed = $sender-&gt;getServer()-&gt;getWorldManager()-&gt;getDefaultWorld()-&gt;getSeed();</div>
-<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>        }</div>
-<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>        $sender-&gt;sendMessage(KnownTranslationFactory::commands_seed_success((<span class="keywordtype">string</span>) $seed));</div>
-<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span> </div>
-<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>    }</div>
-<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>}</div>
+<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>        <span class="keywordflow">if</span>($sender instanceof <a class="code hl_class" href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html">Player</a>){</div>
+<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>            $seed = $sender-&gt;getPosition()-&gt;getWorld()-&gt;getSeed();</div>
+<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>        }<span class="keywordflow">else</span>{</div>
+<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>            $seed = $sender-&gt;getServer()-&gt;getWorldManager()-&gt;getDefaultWorld()-&gt;getSeed();</div>
+<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>        }</div>
+<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>        $sender-&gt;sendMessage(KnownTranslationFactory::commands_seed_success((<span class="keywordtype">string</span>) $seed));</div>
+<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span> </div>
+<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>    }</div>
+<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>}</div>
 <div class="ttc" id="aclasspocketmine_1_1command_1_1defaults_1_1_seed_command_html"><div class="ttname"><a href="../../d3/da8/classpocketmine_1_1command_1_1defaults_1_1_seed_command.html">pocketmine\command\defaults\SeedCommand</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d7/d7b/_seed_command_8php_source.html#l00031">SeedCommand.php:31</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1command_1_1defaults_1_1_seed_command_html_a65e3776f288012794eaa43d351c242b3"><div class="ttname"><a href="../../d3/da8/classpocketmine_1_1command_1_1defaults_1_1_seed_command.html#a65e3776f288012794eaa43d351c242b3">pocketmine\command\defaults\SeedCommand\execute</a></div><div class="ttdeci">execute(CommandSender $sender, string $commandLabel, array $args)</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/d7b/_seed_command_8php_source.html#l00041">SeedCommand.php:41</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1command_1_1defaults_1_1_vanilla_command_html"><div class="ttname"><a href="../../d5/dfa/classpocketmine_1_1command_1_1defaults_1_1_vanilla_command.html">pocketmine\command\defaults\VanillaCommand</a></div><div class="ttdef"><b>Definition:</b> <a href="../../df/d10/_vanilla_command_8php_source.html#l00034">VanillaCommand.php:34</a></div></div>

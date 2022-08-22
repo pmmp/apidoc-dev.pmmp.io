@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA4 git-cb020988d4a662332fdd60a666a1af99182bf252</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA4 git-fedd5416636df18654d7883dc3cd8a72b3351538</span>
    </div>
   </td>
  </tr>
@@ -133,17 +133,13 @@ $(document).ready(function(){initNavTree('d2/d2a/_save_off_command_8php_source.h
 <div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>    }</div>
 <div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span> </div>
 <div class="line"><a id="l00041" name="l00041"></a><span class="lineno"><a class="line" href="../../d7/daf/classpocketmine_1_1command_1_1defaults_1_1_save_off_command.html#ad1d64ce5ee7e0aa3a08a4bc590caa2be">   41</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d7/daf/classpocketmine_1_1command_1_1defaults_1_1_save_off_command.html#ad1d64ce5ee7e0aa3a08a4bc590caa2be">execute</a>(<a class="code hl_interface" href="../../d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html">CommandSender</a> $sender, <span class="keywordtype">string</span> $commandLabel, array $args){</div>
-<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>        <span class="keywordflow">if</span>(!$this-&gt;testPermission($sender)){</div>
-<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>        }</div>
+<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>        $sender-&gt;getServer()-&gt;getWorldManager()-&gt;setAutoSave(<span class="keyword">false</span>);</div>
+<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span> </div>
+<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>        Command::broadcastCommandMessage($sender, KnownTranslationFactory::commands_save_disabled());</div>
 <div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span> </div>
-<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>        $sender-&gt;getServer()-&gt;getWorldManager()-&gt;setAutoSave(<span class="keyword">false</span>);</div>
-<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span> </div>
-<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>        Command::broadcastCommandMessage($sender, KnownTranslationFactory::commands_save_disabled());</div>
-<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span> </div>
-<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>    }</div>
-<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>}</div>
+<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>    }</div>
+<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>}</div>
 <div class="ttc" id="aclasspocketmine_1_1command_1_1_command_html"><div class="ttname"><a href="../../d6/df1/classpocketmine_1_1command_1_1_command.html">pocketmine\command\Command</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d1d/_command_8php_source.html#l00041">Command.php:41</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1command_1_1defaults_1_1_save_off_command_html"><div class="ttname"><a href="../../d7/daf/classpocketmine_1_1command_1_1defaults_1_1_save_off_command.html">pocketmine\command\defaults\SaveOffCommand</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d2/d2a/_save_off_command_8php_source.html#l00031">SaveOffCommand.php:31</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1command_1_1defaults_1_1_save_off_command_html_ad1d64ce5ee7e0aa3a08a4bc590caa2be"><div class="ttname"><a href="../../d7/daf/classpocketmine_1_1command_1_1defaults_1_1_save_off_command.html#ad1d64ce5ee7e0aa3a08a4bc590caa2be">pocketmine\command\defaults\SaveOffCommand\execute</a></div><div class="ttdeci">execute(CommandSender $sender, string $commandLabel, array $args)</div><div class="ttdef"><b>Definition:</b> <a href="../../d2/d2a/_save_off_command_8php_source.html#l00041">SaveOffCommand.php:41</a></div></div>
