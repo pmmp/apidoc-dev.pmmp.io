@@ -658,6 +658,7 @@ var hierarchy =
       ] ]
     ] ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\ContainerIds", "d0/d3b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_container_ids.html", null ],
+    [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\ContainerUIIds", "db/d4b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_container_u_i_ids.html", null ],
     [ "pocketmine\\block\\utils\\CopperOxidation", "de/d31/classpocketmine_1_1block_1_1utils_1_1_copper_oxidation.html", null ],
     [ "pocketmine\\block\\utils\\CoralType", "d8/d9f/classpocketmine_1_1block_1_1utils_1_1_coral_type.html", null ],
     [ "Countable", null, [
@@ -1047,6 +1048,7 @@ var hierarchy =
     [ "pocketmine\\data\\bedrock\\item\\upgrade\\ItemIdMetaUpgradeSchemaUtils", "d2/da5/classpocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_item_id_meta_upgrade_schema_utils.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\ItemInteractionData", "dc/dd2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_item_interaction_data.html", null ],
     [ "pocketmine\\data\\bedrock\\item\\ItemSerializer", "de/d5c/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_serializer.html", null ],
+    [ "pocketmine\\data\\bedrock\\item\\ItemSerializerDeserializerRegistrar", "d9/dea/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_serializer_deserializer_registrar.html", null ],
     [ "pocketmine\\crafting\\json\\ItemStackData", "d2/d0d/classpocketmine_1_1crafting_1_1json_1_1_item_stack_data.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\stackrequest\\ItemStackRequest", "df/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_item_stack_request.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\stackrequest\\ItemStackRequestAction", "d8/d3b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_item_stack_request_action.html", [

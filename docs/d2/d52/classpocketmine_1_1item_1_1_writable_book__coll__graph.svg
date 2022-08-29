@@ -126,8 +126,8 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="121.5" y="-395.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 41 more...</text>
 <text text-anchor="start" x="121.5" y="-384.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ legacyJsonDeserialize()</text>
 <text text-anchor="start" x="121.5" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ nbtDeserialize()</text>
-<text text-anchor="start" x="121.5" y="-362.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
-<text text-anchor="start" x="121.5" y="-351.5" font-family="Helvetica,sans-Serif" font-size="10.00"># encodeType()</text>
+<text text-anchor="start" x="121.5" y="-362.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
+<text text-anchor="start" x="121.5" y="-351.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
 <text text-anchor="start" x="121.5" y="-340.5" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeCompoundTag()</text>
 </a>
 </g>

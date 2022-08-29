@@ -967,7 +967,7 @@
 <text text-anchor="start" x="6467" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
 <text text-anchor="start" x="6467" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ requiresHunger()</text>
 <text text-anchor="start" x="6467" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setType()</text>
-<text text-anchor="start" x="6467" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># encodeType()</text>
+<text text-anchor="start" x="6467" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
 </a>
 </g>
 </g>
@@ -1044,7 +1044,7 @@
 <text text-anchor="start" x="2931" y="-410" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
 <text text-anchor="start" x="2931" y="-399" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
 <text text-anchor="start" x="2931" y="-388" font-family="Helvetica,sans-Serif" font-size="10.00">+ setType()</text>
-<text text-anchor="start" x="2931" y="-377" font-family="Helvetica,sans-Serif" font-size="10.00"># encodeType()</text>
+<text text-anchor="start" x="2931" y="-377" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
 </a>
 </g>
 </g>

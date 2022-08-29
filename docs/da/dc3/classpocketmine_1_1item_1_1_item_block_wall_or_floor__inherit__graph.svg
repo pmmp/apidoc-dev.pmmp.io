@@ -89,8 +89,8 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="8" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPatterns()</text>
 <text text-anchor="start" x="8" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setColor()</text>
 <text text-anchor="start" x="8" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPatterns()</text>
-<text text-anchor="start" x="8" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
-<text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00"># encodeType()</text>
+<text text-anchor="start" x="8" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
+<text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
 <text text-anchor="start" x="8" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeCompoundTag()</text>
 </a>
 </g>
@@ -133,8 +133,8 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="8" y="-404.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 41 more...</text>
 <text text-anchor="start" x="8" y="-393.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ legacyJsonDeserialize()</text>
 <text text-anchor="start" x="8" y="-382.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ nbtDeserialize()</text>
-<text text-anchor="start" x="8" y="-371.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
-<text text-anchor="start" x="8" y="-360.5" font-family="Helvetica,sans-Serif" font-size="10.00"># encodeType()</text>
+<text text-anchor="start" x="8" y="-371.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
+<text text-anchor="start" x="8" y="-360.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
 <text text-anchor="start" x="8" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeCompoundTag()</text>
 </a>
 </g>

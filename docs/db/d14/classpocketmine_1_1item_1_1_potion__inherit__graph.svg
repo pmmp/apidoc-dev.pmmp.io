@@ -72,7 +72,7 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="114" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
 <text text-anchor="start" x="114" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
 <text text-anchor="start" x="114" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setType()</text>
-<text text-anchor="start" x="114" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># encodeType()</text>
+<text text-anchor="start" x="114" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
 </a>
 </g>
 </g>
@@ -108,8 +108,8 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="8" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 41 more...</text>
 <text text-anchor="start" x="8" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ legacyJsonDeserialize()</text>
 <text text-anchor="start" x="8" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ nbtDeserialize()</text>
-<text text-anchor="start" x="8" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
-<text text-anchor="start" x="8" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00"># encodeType()</text>
+<text text-anchor="start" x="8" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
+<text text-anchor="start" x="8" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
 <text text-anchor="start" x="8" y="-189.5" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeCompoundTag()</text>
 </a>
 </g>

@@ -100,6 +100,7 @@ var namespacepocketmine =
           [ "BlockItemIdMap", "d1/d52/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_block_item_id_map.html", "d1/d52/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_block_item_id_map" ],
           [ "ItemDeserializer", "d2/d7e/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_deserializer.html", "d2/d7e/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_deserializer" ],
           [ "ItemSerializer", "de/d5c/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_serializer.html", "de/d5c/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_serializer" ],
+          [ "ItemSerializerDeserializerRegistrar", "d9/dea/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_serializer_deserializer_registrar.html", "d9/dea/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_serializer_deserializer_registrar" ],
           [ "ItemTypeDeserializeException", "d0/de7/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_type_deserialize_exception.html", null ],
           [ "ItemTypeNames", "d5/d77/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_type_names.html", null ],
           [ "ItemTypeSerializeException", "d5/d0f/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_type_serialize_exception.html", null ],
