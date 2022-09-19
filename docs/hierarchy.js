@@ -603,6 +603,7 @@ var hierarchy =
     ] ],
     [ "pocketmine\\utils\\Config", "d6/d2c/classpocketmine_1_1utils_1_1_config.html", null ],
     [ "pocketmine\\console\\ConsoleReader", "d9/d8a/classpocketmine_1_1console_1_1_console_reader.html", null ],
+    [ "pocketmine\\console\\ConsoleReaderChildProcessDaemon", "dc/d82/classpocketmine_1_1console_1_1_console_reader_child_process_daemon.html", null ],
     [ "pocketmine\\entity\\Consumable", "db/d3f/interfacepocketmine_1_1entity_1_1_consumable.html", [
       [ "pocketmine\\entity\\FoodSource", "df/dfd/interfacepocketmine_1_1entity_1_1_food_source.html", [
         [ "pocketmine\\block\\BaseCake", "d6/dc5/classpocketmine_1_1block_1_1_base_cake.html", null ],
@@ -2135,7 +2136,6 @@ var hierarchy =
     [ "pocketmine\\utils\\TextFormat", "dd/db5/classpocketmine_1_1utils_1_1_text_format.html", null ],
     [ "Thread", null, [
       [ "pocketmine\\thread\\Thread", "d0/d6e/classpocketmine_1_1thread_1_1_thread.html", [
-        [ "pocketmine\\console\\ConsoleReaderThread", "db/d0a/classpocketmine_1_1console_1_1_console_reader_thread.html", null ],
         [ "pocketmine\\network\\mcpe\\raklib\\RakLibServer", "de/dc9/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_server.html", null ],
         [ "pocketmine\\utils\\MainLoggerThread", "d7/d71/classpocketmine_1_1utils_1_1_main_logger_thread.html", null ],
         [ "pocketmine\\utils\\ServerKiller", "d2/d87/classpocketmine_1_1utils_1_1_server_killer.html", null ]

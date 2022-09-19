@@ -43,7 +43,7 @@ var classpocketmine_1_1block_1_1_coral =
     [ "onNearbyBlockChange", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#a1f965fa6bafa446de2815985b5c6b075", null ],
     [ "onProjectileHit", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#a0931c682312473fc2540464b7a4747c0", null ],
     [ "onRandomTick", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#a36afea9f0214193963f75577e8d48c26", null ],
-    [ "onScheduledUpdate", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#a1a1a2b2adf423738289d296198f044e1", null ],
+    [ "onScheduledUpdate", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#a82e0e491dee40b1c422abba73098263c", null ],
     [ "place", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#a51fff57c60c38516f7a2502f7e931637", null ],
     [ "readStateFromWorld", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#a3a46169e7d256b3a1f3af8c54ddba832", null ],
     [ "recalculateCollisionBoxes", "dc/dc9/classpocketmine_1_1block_1_1_coral.html#a1acb95b5c78e0c14c836a31f9275de45", null ],

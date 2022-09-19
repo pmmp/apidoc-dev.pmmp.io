@@ -43,7 +43,7 @@ var classpocketmine_1_1block_1_1_floor_coral_fan =
     [ "onNearbyBlockChange", "d1/d8d/classpocketmine_1_1block_1_1_floor_coral_fan.html#a604e90bef5e5d7508e1493b64a8df735", null ],
     [ "onProjectileHit", "d1/d8d/classpocketmine_1_1block_1_1_floor_coral_fan.html#a0931c682312473fc2540464b7a4747c0", null ],
     [ "onRandomTick", "d1/d8d/classpocketmine_1_1block_1_1_floor_coral_fan.html#a36afea9f0214193963f75577e8d48c26", null ],
-    [ "onScheduledUpdate", "d1/d8d/classpocketmine_1_1block_1_1_floor_coral_fan.html#a1a1a2b2adf423738289d296198f044e1", null ],
+    [ "onScheduledUpdate", "d1/d8d/classpocketmine_1_1block_1_1_floor_coral_fan.html#a82e0e491dee40b1c422abba73098263c", null ],
     [ "place", "d1/d8d/classpocketmine_1_1block_1_1_floor_coral_fan.html#a6a36292708c5d210ff1d93ece1b9d2c8", null ],
     [ "readStateFromWorld", "d1/d8d/classpocketmine_1_1block_1_1_floor_coral_fan.html#a3a46169e7d256b3a1f3af8c54ddba832", null ],
     [ "recalculateCollisionBoxes", "d1/d8d/classpocketmine_1_1block_1_1_floor_coral_fan.html#a1acb95b5c78e0c14c836a31f9275de45", null ],

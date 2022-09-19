@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 651;
+var viewWidth = 506;
 var viewHeight = 364;
 var sectionId = 'dynsection-0';
 </script>
@@ -54,135 +54,113 @@ var sectionId = 'dynsection-0';
 <svg id="graph" class="graph">
 <g id="viewport">
 <title>pocketmine\thread\Thread</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-360 646.5,-360 646.5,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-360 501.5,-360 501.5,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="230,-193.5 230,-261.5 375,-261.5 375,-193.5 230,-193.5"/>
-<text text-anchor="middle" x="302.5" y="-249.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\thread\Thread</text>
-<polyline fill="none" stroke="black" points="230,-242.5 375,-242.5 "/>
-<text text-anchor="middle" x="302.5" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="230,-223.5 375,-223.5 "/>
-<text text-anchor="start" x="238" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ quit()</text>
-<text text-anchor="start" x="238" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ start()</text>
+<polygon fill="#bfbfbf" stroke="black" points="170,-193.5 170,-261.5 315,-261.5 315,-193.5 170,-193.5"/>
+<text text-anchor="middle" x="242.5" y="-249.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\thread\Thread</text>
+<polyline fill="none" stroke="black" points="170,-242.5 315,-242.5 "/>
+<text text-anchor="middle" x="242.5" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="170,-223.5 315,-223.5 "/>
+<text text-anchor="start" x="178" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ quit()</text>
+<text text-anchor="start" x="178" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ start()</text>
 </a>
 </g>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="../../db/d0a/classpocketmine_1_1console_1_1_console_reader_thread.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="0,-33.5 0,-123.5 127,-123.5 127,-33.5 0,-33.5"/>
-<text text-anchor="start" x="8" y="-111.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\console</text>
-<text text-anchor="middle" x="63.5" y="-100.5" font-family="Helvetica,sans-Serif" font-size="10.00">\ConsoleReaderThread</text>
-<polyline fill="none" stroke="#bfbfbf" points="0,-93.5 127,-93.5 "/>
-<text text-anchor="middle" x="63.5" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="0,-74.5 127,-74.5 "/>
+<g id="a_node3"><a xlink:href="../../de/dc9/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_server.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="0,-0.5 0,-156.5 145,-156.5 145,-0.5 0,-0.5"/>
+<text text-anchor="start" x="8" y="-144.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
+<text text-anchor="middle" x="72.5" y="-133.5" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\raklib\RakLibServer</text>
+<polyline fill="none" stroke="#bfbfbf" points="0,-126.5 145,-126.5 "/>
+<text text-anchor="start" x="8" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $crashInfo</text>
+<text text-anchor="start" x="8" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $cleanShutdown</text>
+<text text-anchor="start" x="8" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $mainPath</text>
+<text text-anchor="start" x="8" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $ready</text>
+<polyline fill="none" stroke="#bfbfbf" points="0,-74.5 145,-74.5 "/>
 <text text-anchor="start" x="8" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="8" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getThreadName()</text>
-<text text-anchor="start" x="8" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00"># onRun()</text>
+<text text-anchor="start" x="8" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCrashInfo()</text>
+<text text-anchor="start" x="8" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getThreadName()</text>
+<text text-anchor="start" x="8" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ shutdownHandler()</text>
+<text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ startAndWait()</text>
+<text text-anchor="start" x="8" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># onRun()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M220.52,-200.43C192.22,-189.4 161.2,-174.9 135.5,-157 122.24,-147.76 109.58,-135.72 98.69,-123.89"/>
-<polygon fill="none" stroke="midnightblue" points="219.4,-203.75 229.99,-204.04 221.89,-197.21 219.4,-203.75"/>
+<path fill="none" stroke="midnightblue" d="M191.04,-187.1C178.89,-177.46 166.1,-167.03 154.5,-157 151.39,-154.31 148.23,-151.54 145.07,-148.72"/>
+<polygon fill="none" stroke="midnightblue" points="188.89,-189.87 198.91,-193.31 193.23,-184.37 188.89,-189.87"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="../../de/dc9/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_server.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="145,-0.5 145,-156.5 290,-156.5 290,-0.5 145,-0.5"/>
-<text text-anchor="start" x="153" y="-144.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
-<text text-anchor="middle" x="217.5" y="-133.5" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\raklib\RakLibServer</text>
-<polyline fill="none" stroke="#bfbfbf" points="145,-126.5 290,-126.5 "/>
-<text text-anchor="start" x="153" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $crashInfo</text>
-<text text-anchor="start" x="153" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $cleanShutdown</text>
-<text text-anchor="start" x="153" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $mainPath</text>
-<text text-anchor="start" x="153" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $ready</text>
-<polyline fill="none" stroke="#bfbfbf" points="145,-74.5 290,-74.5 "/>
-<text text-anchor="start" x="153" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="153" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCrashInfo()</text>
-<text text-anchor="start" x="153" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getThreadName()</text>
-<text text-anchor="start" x="153" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ shutdownHandler()</text>
-<text text-anchor="start" x="153" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ startAndWait()</text>
-<text text-anchor="start" x="153" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># onRun()</text>
+<g id="a_node4"><a xlink:href="../../d7/d71/classpocketmine_1_1utils_1_1_main_logger_thread.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="163.5,-22.5 163.5,-134.5 321.5,-134.5 321.5,-22.5 163.5,-22.5"/>
+<text text-anchor="start" x="171.5" y="-122.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\utils\MainLogger</text>
+<text text-anchor="middle" x="242.5" y="-111.5" font-family="Helvetica,sans-Serif" font-size="10.00">Thread</text>
+<polyline fill="none" stroke="#bfbfbf" points="163.5,-104.5 321.5,-104.5 "/>
+<text text-anchor="middle" x="242.5" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="163.5,-85.5 321.5,-85.5 "/>
+<text text-anchor="start" x="171.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="171.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ run()</text>
+<text text-anchor="start" x="171.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ shutdown()</text>
+<text text-anchor="start" x="171.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ syncFlushBuffer()</text>
+<text text-anchor="start" x="171.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ write()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node4 -->
 <g id="edge3" class="edge">
 <title>Node1&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M278.14,-184.38C273.12,-175.69 267.68,-166.28 262.19,-156.79"/>
-<polygon fill="none" stroke="midnightblue" points="275.18,-186.24 283.21,-193.14 281.24,-182.73 275.18,-186.24"/>
+<path fill="none" stroke="midnightblue" d="M242.5,-183.01C242.5,-167.85 242.5,-150.62 242.5,-134.64"/>
+<polygon fill="none" stroke="midnightblue" points="239,-183.14 242.5,-193.14 246,-183.14 239,-183.14"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="../../d7/d71/classpocketmine_1_1utils_1_1_main_logger_thread.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="308.5,-22.5 308.5,-134.5 466.5,-134.5 466.5,-22.5 308.5,-22.5"/>
-<text text-anchor="start" x="316.5" y="-122.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\utils\MainLogger</text>
-<text text-anchor="middle" x="387.5" y="-111.5" font-family="Helvetica,sans-Serif" font-size="10.00">Thread</text>
-<polyline fill="none" stroke="#bfbfbf" points="308.5,-104.5 466.5,-104.5 "/>
-<text text-anchor="middle" x="387.5" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="308.5,-85.5 466.5,-85.5 "/>
-<text text-anchor="start" x="316.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="316.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ run()</text>
-<text text-anchor="start" x="316.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ shutdown()</text>
-<text text-anchor="start" x="316.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ syncFlushBuffer()</text>
-<text text-anchor="start" x="316.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ write()</text>
+<g id="a_node5"><a xlink:href="../../d2/d87/classpocketmine_1_1utils_1_1_server_killer.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="339.5,-33.5 339.5,-123.5 497.5,-123.5 497.5,-33.5 339.5,-33.5"/>
+<text text-anchor="middle" x="418.5" y="-111.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\utils\ServerKiller</text>
+<polyline fill="none" stroke="#bfbfbf" points="339.5,-104.5 497.5,-104.5 "/>
+<text text-anchor="middle" x="418.5" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="339.5,-85.5 497.5,-85.5 "/>
+<text text-anchor="start" x="347.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="347.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getThreadName()</text>
+<text text-anchor="start" x="347.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ quit()</text>
+<text text-anchor="start" x="347.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00"># onRun()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
 <title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M326.89,-184.32C335.84,-168.84 346.11,-151.08 355.62,-134.64"/>
-<polygon fill="none" stroke="midnightblue" points="323.76,-182.73 321.79,-193.14 329.82,-186.24 323.76,-182.73"/>
-</g>
-<!-- Node6 -->
-<g id="node6" class="node">
-<title>Node6</title>
-<g id="a_node6"><a xlink:href="../../d2/d87/classpocketmine_1_1utils_1_1_server_killer.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="484.5,-33.5 484.5,-123.5 642.5,-123.5 642.5,-33.5 484.5,-33.5"/>
-<text text-anchor="middle" x="563.5" y="-111.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\utils\ServerKiller</text>
-<polyline fill="none" stroke="#bfbfbf" points="484.5,-104.5 642.5,-104.5 "/>
-<text text-anchor="middle" x="563.5" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="484.5,-85.5 642.5,-85.5 "/>
-<text text-anchor="start" x="492.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="492.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getThreadName()</text>
-<text text-anchor="start" x="492.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ quit()</text>
-<text text-anchor="start" x="492.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00"># onRun()</text>
-</a>
-</g>
-</g>
-<!-- Node1&#45;&gt;Node6 -->
-<g id="edge5" class="edge">
-<title>Node1&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M384.9,-199.94C414.53,-188.72 447.52,-174.23 475.5,-157 490.75,-147.61 505.92,-135.51 519.25,-123.68"/>
-<polygon fill="none" stroke="midnightblue" points="383.56,-196.71 375.41,-203.47 386,-203.27 383.56,-196.71"/>
+<path fill="none" stroke="midnightblue" d="M293.33,-187.11C305.6,-177.39 318.6,-166.92 330.5,-157 343.16,-146.44 356.62,-134.8 369.11,-123.83"/>
+<polygon fill="none" stroke="midnightblue" points="291.07,-184.43 285.39,-193.37 295.41,-189.93 291.07,-184.43"/>
 </g>
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="277.5,-298.5 277.5,-355.5 327.5,-355.5 327.5,-298.5 277.5,-298.5"/>
-<text text-anchor="middle" x="302.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">Thread</text>
-<polyline fill="none" stroke="#bfbfbf" points="277.5,-336.5 327.5,-336.5 "/>
-<text text-anchor="middle" x="302.5" y="-324.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="277.5,-317.5 327.5,-317.5 "/>
-<text text-anchor="middle" x="302.5" y="-305.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="#bfbfbf" points="217.5,-298.5 217.5,-355.5 267.5,-355.5 267.5,-298.5 217.5,-298.5"/>
+<text text-anchor="middle" x="242.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">Thread</text>
+<polyline fill="none" stroke="#bfbfbf" points="217.5,-336.5 267.5,-336.5 "/>
+<text text-anchor="middle" x="242.5" y="-324.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="217.5,-317.5 267.5,-317.5 "/>
+<text text-anchor="middle" x="242.5" y="-305.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
 <title>Node2&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M302.5,-288.06C302.5,-279.39 302.5,-270.24 302.5,-261.79"/>
-<polygon fill="none" stroke="midnightblue" points="299,-288.32 302.5,-298.32 306,-288.32 299,-288.32"/>
+<path fill="none" stroke="midnightblue" d="M242.5,-288.06C242.5,-279.39 242.5,-270.24 242.5,-261.79"/>
+<polygon fill="none" stroke="midnightblue" points="239,-288.32 242.5,-298.32 246,-288.32 239,-288.32"/>
 </g>
 </g>
 </svg>

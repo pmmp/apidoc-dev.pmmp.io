@@ -384,7 +384,7 @@ var annotated_dup =
       [ "console", null, [
         [ "ConsoleCommandSender", "da/dad/classpocketmine_1_1console_1_1_console_command_sender.html", "da/dad/classpocketmine_1_1console_1_1_console_command_sender" ],
         [ "ConsoleReader", "d9/d8a/classpocketmine_1_1console_1_1_console_reader.html", "d9/d8a/classpocketmine_1_1console_1_1_console_reader" ],
-        [ "ConsoleReaderThread", "db/d0a/classpocketmine_1_1console_1_1_console_reader_thread.html", "db/d0a/classpocketmine_1_1console_1_1_console_reader_thread" ]
+        [ "ConsoleReaderChildProcessDaemon", "dc/d82/classpocketmine_1_1console_1_1_console_reader_child_process_daemon.html", null ]
       ] ],
       [ "crafting", null, [
         [ "json", null, [

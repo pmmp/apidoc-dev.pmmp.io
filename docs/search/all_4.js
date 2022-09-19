@@ -193,7 +193,7 @@ var searchData=
   ['connectionrequestaccepted_190',['ConnectionRequestAccepted',['../dd/dc9/classraklib_1_1protocol_1_1_connection_request_accepted.html',1,'raklib::protocol']]],
   ['consolecommandsender_191',['ConsoleCommandSender',['../da/dad/classpocketmine_1_1console_1_1_console_command_sender.html',1,'pocketmine::console']]],
   ['consolereader_192',['ConsoleReader',['../d9/d8a/classpocketmine_1_1console_1_1_console_reader.html',1,'pocketmine::console']]],
-  ['consolereaderthread_193',['ConsoleReaderThread',['../db/d0a/classpocketmine_1_1console_1_1_console_reader_thread.html',1,'pocketmine::console']]],
+  ['consolereaderchildprocessdaemon_193',['ConsoleReaderChildProcessDaemon',['../dc/d82/classpocketmine_1_1console_1_1_console_reader_child_process_daemon.html',1,'pocketmine::console']]],
   ['consumable_194',['Consumable',['../db/d3f/interfacepocketmine_1_1entity_1_1_consumable.html',1,'pocketmine::entity']]],
   ['consumableitem_195',['ConsumableItem',['../d2/de2/interfacepocketmine_1_1item_1_1_consumable_item.html',1,'pocketmine::item']]],
   ['consumehelditem_196',['consumeHeldItem',['../d0/d6f/classpocketmine_1_1player_1_1_player.html#ad7b73a64bfd555d2d574bf3af61c025c',1,'pocketmine::player::Player']]],
