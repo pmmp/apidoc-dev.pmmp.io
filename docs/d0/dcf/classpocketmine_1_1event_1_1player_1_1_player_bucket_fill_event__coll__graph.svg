@@ -164,7 +164,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="1898.99" y="-555.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastAnimation()</text>
 <text text-anchor="start" x="1898.99" y="-544.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastSound()</text>
 <text text-anchor="start" x="1898.99" y="-533.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeCollidedWith()</text>
-<text text-anchor="start" x="1898.99" y="-522.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 121 more...</text>
+<text text-anchor="start" x="1898.99" y="-522.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 122 more...</text>
 <text text-anchor="start" x="1898.99" y="-511.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isValidUserName()</text>
 <text text-anchor="start" x="1898.99" y="-500.5" font-family="Helvetica,sans-Serif" font-size="10.00"># actuallyRespawn()</text>
 <text text-anchor="start" x="1898.99" y="-489.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addDefaultWindows()</text>
@@ -1412,7 +1412,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="2706.49" y="-952" font-family="Helvetica,sans-Serif" font-size="10.00">+ getInvManager()</text>
 <text text-anchor="start" x="2706.49" y="-941" font-family="Helvetica,sans-Serif" font-size="10.00">+ getIp()</text>
 <text text-anchor="start" x="2706.49" y="-930" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLogger()</text>
-<text text-anchor="start" x="2706.49" y="-919" font-family="Helvetica,sans-Serif" font-size="10.00">and 58 more...</text>
+<text text-anchor="start" x="2706.49" y="-919" font-family="Helvetica,sans-Serif" font-size="10.00">and 59 more...</text>
 <text text-anchor="start" x="2706.49" y="-908" font-family="Helvetica,sans-Serif" font-size="10.00"># createPlayer()</text>
 </a>
 </g>

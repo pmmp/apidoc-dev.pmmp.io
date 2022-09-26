@@ -16,7 +16,7 @@ var namespacepocketmine =
         [ "ItemStackData", "d2/d0d/classpocketmine_1_1crafting_1_1json_1_1_item_stack_data.html", "d2/d0d/classpocketmine_1_1crafting_1_1json_1_1_item_stack_data" ],
         [ "PotionContainerChangeRecipeData", "d6/d39/classpocketmine_1_1crafting_1_1json_1_1_potion_container_change_recipe_data.html", "d6/d39/classpocketmine_1_1crafting_1_1json_1_1_potion_container_change_recipe_data" ],
         [ "PotionTypeRecipeData", "db/d4a/classpocketmine_1_1crafting_1_1json_1_1_potion_type_recipe_data.html", "db/d4a/classpocketmine_1_1crafting_1_1json_1_1_potion_type_recipe_data" ],
-        [ "RecipeIngredientData", "d2/de3/classpocketmine_1_1crafting_1_1json_1_1_recipe_ingredient_data.html", "d2/de3/classpocketmine_1_1crafting_1_1json_1_1_recipe_ingredient_data" ],
+        [ "RecipeIngredientData", "d2/de3/classpocketmine_1_1crafting_1_1json_1_1_recipe_ingredient_data.html", null ],
         [ "ShapedRecipeData", "d2/db2/classpocketmine_1_1crafting_1_1json_1_1_shaped_recipe_data.html", "d2/db2/classpocketmine_1_1crafting_1_1json_1_1_shaped_recipe_data" ],
         [ "ShapelessRecipeData", "d6/d3c/classpocketmine_1_1crafting_1_1json_1_1_shapeless_recipe_data.html", "d6/d3c/classpocketmine_1_1crafting_1_1json_1_1_shapeless_recipe_data" ]
       ] ],
@@ -48,11 +48,11 @@ var namespacepocketmine =
       [ "bedrock", null, [
         [ "block", null, [
           [ "convert", null, [
-            [ "BlockObjectToBlockStateSerializer", "d1/ddb/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_object_to_block_state_serializer.html", "d1/ddb/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_object_to_block_state_serializer" ],
+            [ "BlockObjectToStateSerializer", "d8/d0c/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_object_to_state_serializer.html", "d8/d0c/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_object_to_state_serializer" ],
             [ "BlockStateDeserializerHelper", "da/dd2/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_deserializer_helper.html", "da/dd2/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_deserializer_helper" ],
             [ "BlockStateReader", "d5/de5/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_reader.html", "d5/de5/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_reader" ],
             [ "BlockStateSerializerHelper", "de/d3a/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_serializer_helper.html", null ],
-            [ "BlockStateToBlockObjectDeserializer", "db/d6b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_to_block_object_deserializer.html", "db/d6b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_to_block_object_deserializer" ],
+            [ "BlockStateToObjectDeserializer", "d1/d9c/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_to_object_deserializer.html", "d1/d9c/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_to_object_deserializer" ],
             [ "BlockStateWriter", "da/dc5/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_writer.html", "da/dc5/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_writer" ],
             [ "UnsupportedBlockStateException", "d8/d56/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_unsupported_block_state_exception.html", null ]
           ] ],
@@ -80,11 +80,7 @@ var namespacepocketmine =
           [ "BlockStateSerializeException", "d9/d34/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_serialize_exception.html", null ],
           [ "BlockStateSerializer", "db/dc6/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_serializer.html", "db/dc6/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_serializer" ],
           [ "BlockStateStringValues", "d6/d24/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_string_values.html", null ],
-          [ "BlockTypeNames", "d1/ddc/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_block_type_names.html", null ],
-          [ "CachingBlockStateDeserializer", "de/dd1/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_caching_block_state_deserializer.html", "de/dd1/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_caching_block_state_deserializer" ],
-          [ "CachingBlockStateSerializer", "de/d9f/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_caching_block_state_serializer.html", "de/d9f/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_caching_block_state_serializer" ],
-          [ "DelegatingBlockStateDeserializer", "dc/dc9/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1_delegating_block_state_deserializer.html", "dc/dc9/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1_delegating_block_state_deserializer" ],
-          [ "DelegatingBlockStateSerializer", "d5/dd0/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1_delegating_block_state_serializer.html", "d5/dd0/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1_delegating_block_state_serializer" ]
+          [ "BlockTypeNames", "d1/ddc/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_block_type_names.html", null ]
         ] ],
         [ "item", null, [
           [ "upgrade", null, [

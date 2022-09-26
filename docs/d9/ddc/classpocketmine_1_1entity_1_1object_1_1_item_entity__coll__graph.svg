@@ -71,14 +71,14 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="876" y="-586.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
 <text text-anchor="start" x="876" y="-575.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeCollidedWith()</text>
 <text text-anchor="start" x="876" y="-564.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canCollideWith()</text>
-<text text-anchor="start" x="876" y="-553.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDespawnDelay()</text>
-<text text-anchor="start" x="876" y="-542.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getItem()</text>
-<text text-anchor="start" x="876" y="-531.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOffsetPosition()</text>
-<text text-anchor="start" x="876" y="-520.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOwner()</text>
-<text text-anchor="start" x="876" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPickupDelay()</text>
-<text text-anchor="start" x="876" y="-498.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getThrower()</text>
-<text text-anchor="start" x="876" y="-487.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isFireProof()</text>
-<text text-anchor="start" x="876" y="-476.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 9 more...</text>
+<text text-anchor="start" x="876" y="-553.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canSaveWithChunk()</text>
+<text text-anchor="start" x="876" y="-542.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDespawnDelay()</text>
+<text text-anchor="start" x="876" y="-531.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getItem()</text>
+<text text-anchor="start" x="876" y="-520.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOffsetPosition()</text>
+<text text-anchor="start" x="876" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOwner()</text>
+<text text-anchor="start" x="876" y="-498.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPickupDelay()</text>
+<text text-anchor="start" x="876" y="-487.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getThrower()</text>
+<text text-anchor="start" x="876" y="-476.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 10 more...</text>
 <text text-anchor="start" x="876" y="-465.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNetworkTypeId()</text>
 <text text-anchor="start" x="876" y="-454.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyDragBeforeGravity()</text>
 <text text-anchor="start" x="876" y="-443.5" font-family="Helvetica,sans-Serif" font-size="10.00"># entityBaseTick()</text>

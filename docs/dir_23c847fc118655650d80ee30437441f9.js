@@ -8,7 +8,6 @@ var dir_23c847fc118655650d80ee30437441f9 =
     [ "PlayerBucketFillEvent.php", "d8/d7a/_player_bucket_fill_event_8php_source.html", null ],
     [ "PlayerChangeSkinEvent.php", "dd/d02/_player_change_skin_event_8php_source.html", null ],
     [ "PlayerChatEvent.php", "d6/da7/_player_chat_event_8php_source.html", null ],
-    [ "PlayerCommandPreprocessEvent.php", "dd/d24/_player_command_preprocess_event_8php_source.html", null ],
     [ "PlayerCreationEvent.php", "d6/d7e/_player_creation_event_8php_source.html", null ],
     [ "PlayerDataSaveEvent.php", "d6/db5/_player_data_save_event_8php_source.html", null ],
     [ "PlayerDeathEvent.php", "d1/d55/_player_death_event_8php_source.html", null ],

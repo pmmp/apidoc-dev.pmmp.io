@@ -36,11 +36,11 @@
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="../../d5/d1b/classpocketmine_1_1block_1_1_transparent.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="107.5,-211 107.5,-268 270.5,-268 270.5,-211 107.5,-211"/>
+<polygon fill="white" stroke="black" points="107.5,-211 107.5,-268 270.5,-268 270.5,-211 107.5,-211"/>
 <text text-anchor="middle" x="189" y="-256" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Transparent</text>
-<polyline fill="none" stroke="#bfbfbf" points="107.5,-249 270.5,-249 "/>
+<polyline fill="none" stroke="black" points="107.5,-249 270.5,-249 "/>
 <text text-anchor="middle" x="189" y="-237" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="107.5,-230 270.5,-230 "/>
+<polyline fill="none" stroke="black" points="107.5,-230 270.5,-230 "/>
 <text text-anchor="start" x="115.5" y="-218" font-family="Helvetica,sans-Serif" font-size="10.00">+ isTransparent()</text>
 </a>
 </g>

@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 5188;
+var viewWidth = 4988;
 var viewHeight = 491;
 var sectionId = 'dynsection-0';
 </script>
@@ -54,18 +54,18 @@ var sectionId = 'dynsection-0';
 <svg id="graph" class="graph">
 <g id="viewport">
 <title>pocketmine\event\player\PlayerEvent</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-487 5184,-487 5184,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-487 4984,-487 4984,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="2562,-309.5 2562,-377.5 2700,-377.5 2700,-309.5 2562,-309.5"/>
-<text text-anchor="start" x="2570" y="-365.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="2631" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerEvent</text>
-<polyline fill="none" stroke="black" points="2562,-347.5 2700,-347.5 "/>
-<text text-anchor="start" x="2570" y="-335.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $player</text>
-<polyline fill="none" stroke="black" points="2562,-328.5 2700,-328.5 "/>
-<text text-anchor="start" x="2570" y="-316.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPlayer()</text>
+<polygon fill="#bfbfbf" stroke="black" points="2440,-309.5 2440,-377.5 2578,-377.5 2578,-309.5 2440,-309.5"/>
+<text text-anchor="start" x="2448" y="-365.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="2509" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerEvent</text>
+<polyline fill="none" stroke="black" points="2440,-347.5 2578,-347.5 "/>
+<text text-anchor="start" x="2448" y="-335.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $player</text>
+<polyline fill="none" stroke="black" points="2440,-328.5 2578,-328.5 "/>
+<text text-anchor="start" x="2448" y="-316.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPlayer()</text>
 </a>
 </g>
 </g>
@@ -87,8 +87,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M2551.86,-341.99C2140.3,-339.14 259.11,-323.36 147,-273 126.08,-263.6 108.1,-245.68 94.7,-228.89"/>
-<polygon fill="none" stroke="midnightblue" points="2551.86,-345.49 2561.89,-342.06 2551.91,-338.49 2551.86,-345.49"/>
+<path fill="none" stroke="midnightblue" d="M2429.9,-341.87C2030.83,-338.5 253.23,-320.81 147,-273 126.08,-263.59 108.11,-245.66 94.7,-228.87"/>
+<polygon fill="none" stroke="midnightblue" points="2429.88,-345.37 2439.91,-341.96 2429.94,-338.37 2429.88,-345.37"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
@@ -108,8 +108,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node4 -->
 <g id="edge3" class="edge">
 <title>Node1&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M2551.78,-341.84C2155.99,-338.31 407.58,-320.1 303,-273 282.09,-263.58 264.11,-245.66 250.7,-228.87"/>
-<polygon fill="none" stroke="midnightblue" points="2551.96,-345.34 2561.99,-341.93 2552.02,-338.34 2551.96,-345.34"/>
+<path fill="none" stroke="midnightblue" d="M2429.61,-341.7C2046.32,-337.61 401.69,-317.54 303,-273 282.09,-263.56 264.12,-245.64 250.71,-228.85"/>
+<polygon fill="none" stroke="midnightblue" points="2429.74,-345.2 2439.77,-341.81 2429.81,-338.2 2429.74,-345.2"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
@@ -130,8 +130,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
 <title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M2551.9,-341.66C2172.79,-337.43 556.08,-316.85 459,-273 440.26,-264.54 423.87,-249.25 411.02,-234.08"/>
-<polygon fill="none" stroke="midnightblue" points="2551.92,-345.16 2561.96,-341.77 2551.99,-338.16 2551.92,-345.16"/>
+<path fill="none" stroke="midnightblue" d="M2429.63,-341.5C2063.33,-336.67 550.2,-314.29 459,-273 440.27,-264.52 423.88,-249.23 411.03,-234.06"/>
+<polygon fill="none" stroke="midnightblue" points="2429.83,-345 2439.87,-341.63 2429.92,-338 2429.83,-345"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">
@@ -155,8 +155,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node6 -->
 <g id="edge5" class="edge">
 <title>Node1&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M2551.75,-341.45C2189.45,-336.46 704.58,-313.59 615,-273 603.29,-267.7 592.5,-259.73 582.92,-250.81"/>
-<polygon fill="none" stroke="midnightblue" points="2551.84,-344.96 2561.88,-341.59 2551.93,-337.96 2551.84,-344.96"/>
+<path fill="none" stroke="midnightblue" d="M2429.72,-341.27C2081.2,-335.65 698.73,-311.05 615,-273 603.3,-267.68 592.51,-259.71 582.93,-250.78"/>
+<polygon fill="none" stroke="midnightblue" points="2429.67,-344.77 2439.73,-341.43 2429.79,-337.77 2429.67,-344.77"/>
 </g>
 <!-- Node9 -->
 <g id="node9" class="node">
@@ -178,8 +178,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node9 -->
 <g id="edge8" class="edge">
 <title>Node1&#45;&gt;Node9</title>
-<path fill="none" stroke="midnightblue" d="M2551.75,-341.22C2207.21,-335.42 853.1,-310.35 771,-273 754.62,-265.55 740.03,-252.91 728.03,-239.71"/>
-<polygon fill="none" stroke="midnightblue" points="2551.83,-344.72 2561.89,-341.39 2551.95,-337.72 2551.83,-344.72"/>
+<path fill="none" stroke="midnightblue" d="M2429.63,-342.84C2109.48,-343.74 922.89,-342.33 771,-273 754.63,-265.53 740.04,-252.88 728.04,-239.68"/>
+<polygon fill="none" stroke="midnightblue" points="2429.77,-346.34 2439.75,-342.81 2429.74,-339.34 2429.77,-346.34"/>
 </g>
 <!-- Node10 -->
 <g id="node10" class="node">
@@ -205,611 +205,588 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node10 -->
 <g id="edge9" class="edge">
 <title>Node1&#45;&gt;Node10</title>
-<path fill="none" stroke="midnightblue" d="M2551.4,-342.77C2234.89,-343.38 1075.61,-340.91 927,-273 920.35,-269.96 913.98,-266.06 907.97,-261.62"/>
-<polygon fill="none" stroke="midnightblue" points="2551.86,-346.27 2561.85,-342.75 2551.84,-339.27 2551.86,-346.27"/>
+<path fill="none" stroke="midnightblue" d="M2429.13,-342.5C2126.96,-342.02 1063.98,-335.85 927,-273 920.35,-269.95 913.99,-266.05 907.98,-261.6"/>
+<polygon fill="none" stroke="midnightblue" points="2429.55,-346 2439.55,-342.51 2429.56,-339 2429.55,-346"/>
 </g>
 <!-- Node11 -->
 <g id="node11" class="node">
 <title>Node11</title>
-<g id="a_node11"><a xlink:href="../../d3/dd2/classpocketmine_1_1event_1_1player_1_1_player_command_preprocess_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="936,-138.5 936,-239.5 1118,-239.5 1118,-138.5 936,-138.5"/>
-<text text-anchor="start" x="944" y="-227.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="1027" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerCommandPreprocessEvent</text>
-<polyline fill="none" stroke="black" points="936,-209.5 1118,-209.5 "/>
-<text text-anchor="middle" x="1027" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="936,-190.5 1118,-190.5 "/>
-<text text-anchor="start" x="944" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="944" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMessage()</text>
-<text text-anchor="start" x="944" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setMessage()</text>
-<text text-anchor="start" x="944" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPlayer()</text>
+<g id="a_node11"><a xlink:href="../../da/dc0/classpocketmine_1_1event_1_1player_1_1_player_display_name_change_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="936.5,-144 936.5,-234 1117.5,-234 1117.5,-144 936.5,-144"/>
+<text text-anchor="start" x="944.5" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="1027" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerDisplayNameChangeEvent</text>
+<polyline fill="none" stroke="#bfbfbf" points="936.5,-204 1117.5,-204 "/>
+<text text-anchor="middle" x="1027" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="936.5,-185 1117.5,-185 "/>
+<text text-anchor="start" x="944.5" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="944.5" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNewName()</text>
+<text text-anchor="start" x="944.5" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOldName()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node11 -->
 <g id="edge10" class="edge">
 <title>Node1&#45;&gt;Node11</title>
-<path fill="none" stroke="midnightblue" d="M2551.85,-341.78C2260.83,-338.72 1260.09,-324.54 1127,-273 1107.75,-265.54 1089.48,-252.82 1073.96,-239.53"/>
-<polygon fill="none" stroke="midnightblue" points="2551.86,-345.28 2561.9,-341.88 2551.94,-338.28 2551.86,-345.28"/>
+<path fill="none" stroke="midnightblue" d="M2429.44,-341.42C2153.57,-337.29 1248.21,-320.22 1127,-273 1105.14,-264.48 1084.53,-249.19 1067.77,-234.03"/>
+<polygon fill="none" stroke="midnightblue" points="2429.72,-344.93 2439.77,-341.58 2429.82,-337.93 2429.72,-344.93"/>
 </g>
 <!-- Node12 -->
 <g id="node12" class="node">
 <title>Node12</title>
-<g id="a_node12"><a xlink:href="../../da/dc0/classpocketmine_1_1event_1_1player_1_1_player_display_name_change_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="1136.5,-144 1136.5,-234 1317.5,-234 1317.5,-144 1136.5,-144"/>
-<text text-anchor="start" x="1144.5" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="1227" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerDisplayNameChangeEvent</text>
-<polyline fill="none" stroke="#bfbfbf" points="1136.5,-204 1317.5,-204 "/>
-<text text-anchor="middle" x="1227" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="1136.5,-185 1317.5,-185 "/>
-<text text-anchor="start" x="1144.5" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="1144.5" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNewName()</text>
-<text text-anchor="start" x="1144.5" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOldName()</text>
+<g id="a_node12"><a xlink:href="../../d2/d16/classpocketmine_1_1event_1_1player_1_1_player_drop_item_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="1136,-149.5 1136,-228.5 1274,-228.5 1274,-149.5 1136,-149.5"/>
+<text text-anchor="start" x="1144" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="1205" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerDropItemEvent</text>
+<polyline fill="none" stroke="black" points="1136,-198.5 1274,-198.5 "/>
+<text text-anchor="middle" x="1205" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="1136,-179.5 1274,-179.5 "/>
+<text text-anchor="start" x="1144" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="1144" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getItem()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node12 -->
 <g id="edge11" class="edge">
 <title>Node1&#45;&gt;Node12</title>
-<path fill="none" stroke="midnightblue" d="M2551.49,-341.17C2286.03,-336.31 1440.67,-317.48 1327,-273 1305.36,-264.53 1284.94,-249.44 1268.27,-234.43"/>
-<polygon fill="none" stroke="midnightblue" points="2551.75,-344.67 2561.81,-341.35 2551.88,-337.67 2551.75,-344.67"/>
+<path fill="none" stroke="midnightblue" d="M2429.29,-341.4C2173.88,-337.39 1386.38,-321.23 1283,-273 1262.21,-263.3 1244.25,-245.35 1230.82,-228.62"/>
+<polygon fill="none" stroke="midnightblue" points="2429.55,-344.9 2439.61,-341.56 2429.66,-337.9 2429.55,-344.9"/>
 </g>
 <!-- Node13 -->
 <g id="node13" class="node">
 <title>Node13</title>
-<g id="a_node13"><a xlink:href="../../d2/d16/classpocketmine_1_1event_1_1player_1_1_player_drop_item_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1336,-149.5 1336,-228.5 1474,-228.5 1474,-149.5 1336,-149.5"/>
-<text text-anchor="start" x="1344" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="1405" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerDropItemEvent</text>
-<polyline fill="none" stroke="black" points="1336,-198.5 1474,-198.5 "/>
-<text text-anchor="middle" x="1405" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="1336,-179.5 1474,-179.5 "/>
-<text text-anchor="start" x="1344" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="1344" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getItem()</text>
+<g id="a_node13"><a xlink:href="../../d5/d38/classpocketmine_1_1event_1_1player_1_1_player_edit_book_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="1292,-105.5 1292,-272.5 1438,-272.5 1438,-105.5 1292,-105.5"/>
+<text text-anchor="start" x="1300" y="-260.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="1365" y="-249.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerEditBookEvent</text>
+<polyline fill="none" stroke="#bfbfbf" points="1292,-242.5 1438,-242.5 "/>
+<text text-anchor="start" x="1300" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ACTION_ADD_PAGE</text>
+<text text-anchor="start" x="1300" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ACTION_DELETE_PAGE</text>
+<text text-anchor="start" x="1300" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ACTION_REPLACE_PAGE</text>
+<text text-anchor="start" x="1300" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ACTION_SIGN_BOOK</text>
+<text text-anchor="start" x="1300" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ACTION_SWAP_PAGES</text>
+<polyline fill="none" stroke="#bfbfbf" points="1292,-179.5 1438,-179.5 "/>
+<text text-anchor="start" x="1300" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="1300" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAction()</text>
+<text text-anchor="start" x="1300" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getModifiedPages()</text>
+<text text-anchor="start" x="1300" y="-134.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNewBook()</text>
+<text text-anchor="start" x="1300" y="-123.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOldBook()</text>
+<text text-anchor="start" x="1300" y="-112.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setNewBook()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node13 -->
 <g id="edge12" class="edge">
 <title>Node1&#45;&gt;Node13</title>
-<path fill="none" stroke="midnightblue" d="M2551.39,-341.07C2307.14,-336.2 1579.07,-318.05 1483,-273 1462.23,-263.26 1444.27,-245.31 1430.83,-228.58"/>
-<polygon fill="none" stroke="midnightblue" points="2551.55,-344.57 2561.61,-341.27 2551.68,-337.57 2551.55,-344.57"/>
+<path fill="none" stroke="midnightblue" d="M2429.87,-340.55C2198.78,-334.42 1535.6,-313.46 1447,-273 1443.96,-271.61 1440.97,-270.06 1438.04,-268.36"/>
+<polygon fill="none" stroke="midnightblue" points="2429.8,-344.05 2439.88,-340.82 2429.98,-337.06 2429.8,-344.05"/>
 </g>
 <!-- Node14 -->
 <g id="node14" class="node">
 <title>Node14</title>
-<g id="a_node14"><a xlink:href="../../d5/d38/classpocketmine_1_1event_1_1player_1_1_player_edit_book_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="1492,-105.5 1492,-272.5 1638,-272.5 1638,-105.5 1492,-105.5"/>
-<text text-anchor="start" x="1500" y="-260.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="1565" y="-249.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerEditBookEvent</text>
-<polyline fill="none" stroke="#bfbfbf" points="1492,-242.5 1638,-242.5 "/>
-<text text-anchor="start" x="1500" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ACTION_ADD_PAGE</text>
-<text text-anchor="start" x="1500" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ACTION_DELETE_PAGE</text>
-<text text-anchor="start" x="1500" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ACTION_REPLACE_PAGE</text>
-<text text-anchor="start" x="1500" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ACTION_SIGN_BOOK</text>
-<text text-anchor="start" x="1500" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ACTION_SWAP_PAGES</text>
-<polyline fill="none" stroke="#bfbfbf" points="1492,-179.5 1638,-179.5 "/>
-<text text-anchor="start" x="1500" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="1500" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAction()</text>
-<text text-anchor="start" x="1500" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getModifiedPages()</text>
-<text text-anchor="start" x="1500" y="-134.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNewBook()</text>
-<text text-anchor="start" x="1500" y="-123.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOldBook()</text>
-<text text-anchor="start" x="1500" y="-112.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setNewBook()</text>
+<g id="a_node14"><a xlink:href="../../d5/d7c/classpocketmine_1_1event_1_1player_1_1_player_emote_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="1456,-144 1456,-234 1594,-234 1594,-144 1456,-144"/>
+<text text-anchor="start" x="1464" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="1525" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerEmoteEvent</text>
+<polyline fill="none" stroke="black" points="1456,-204 1594,-204 "/>
+<text text-anchor="middle" x="1525" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="1456,-185 1594,-185 "/>
+<text text-anchor="start" x="1464" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="1464" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEmoteId()</text>
+<text text-anchor="start" x="1464" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ setEmoteId()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node14 -->
 <g id="edge13" class="edge">
 <title>Node1&#45;&gt;Node14</title>
-<path fill="none" stroke="midnightblue" d="M2551.69,-340.11C2332.32,-333.04 1728.27,-310.37 1647,-273 1643.96,-271.6 1640.98,-270.04 1638.05,-268.34"/>
-<polygon fill="none" stroke="midnightblue" points="2551.73,-343.61 2561.84,-340.43 2551.96,-336.61 2551.73,-343.61"/>
+<path fill="none" stroke="midnightblue" d="M2429.5,-339.68C2222.28,-331.88 1676.55,-308.21 1603,-273 1584.63,-264.21 1568.41,-249.05 1555.59,-234.08"/>
+<polygon fill="none" stroke="midnightblue" points="2429.58,-343.19 2439.7,-340.07 2429.84,-336.19 2429.58,-343.19"/>
 </g>
 <!-- Node15 -->
 <g id="node15" class="node">
 <title>Node15</title>
-<g id="a_node15"><a xlink:href="../../d5/d7c/classpocketmine_1_1event_1_1player_1_1_player_emote_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1656,-144 1656,-234 1794,-234 1794,-144 1656,-144"/>
-<text text-anchor="start" x="1664" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="1725" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerEmoteEvent</text>
-<polyline fill="none" stroke="black" points="1656,-204 1794,-204 "/>
-<text text-anchor="middle" x="1725" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="1656,-185 1794,-185 "/>
-<text text-anchor="start" x="1664" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="1664" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEmoteId()</text>
-<text text-anchor="start" x="1664" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ setEmoteId()</text>
+<g id="a_node15"><a xlink:href="../../d0/d26/classpocketmine_1_1event_1_1player_1_1_player_entity_interact_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="1612,-144 1612,-234 1756,-234 1756,-144 1612,-144"/>
+<text text-anchor="start" x="1620" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="1684" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerEntityInteractEvent</text>
+<polyline fill="none" stroke="black" points="1612,-204 1756,-204 "/>
+<text text-anchor="middle" x="1684" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="1612,-185 1756,-185 "/>
+<text text-anchor="start" x="1620" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="1620" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getClickPosition()</text>
+<text text-anchor="start" x="1620" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEntity()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node15 -->
 <g id="edge14" class="edge">
 <title>Node1&#45;&gt;Node15</title>
-<path fill="none" stroke="midnightblue" d="M2551.76,-342.99C2371.01,-342.97 1933.76,-336.18 1803,-273 1784.66,-264.14 1768.45,-248.97 1755.63,-234.01"/>
-<polygon fill="none" stroke="midnightblue" points="2552,-346.49 2562,-342.98 2551.99,-339.49 2552,-346.49"/>
+<path fill="none" stroke="midnightblue" d="M2429.53,-341.93C2262.51,-339.64 1880.89,-328.32 1765,-273 1746.47,-264.15 1729.84,-249.18 1716.55,-234.37"/>
+<polygon fill="none" stroke="midnightblue" points="2429.69,-345.44 2439.74,-342.07 2429.78,-338.44 2429.69,-345.44"/>
 </g>
 <!-- Node16 -->
 <g id="node16" class="node">
 <title>Node16</title>
-<g id="a_node16"><a xlink:href="../../d0/d26/classpocketmine_1_1event_1_1player_1_1_player_entity_interact_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1812,-144 1812,-234 1956,-234 1956,-144 1812,-144"/>
-<text text-anchor="start" x="1820" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="1884" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerEntityInteractEvent</text>
-<polyline fill="none" stroke="black" points="1812,-204 1956,-204 "/>
-<text text-anchor="middle" x="1884" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="1812,-185 1956,-185 "/>
-<text text-anchor="start" x="1820" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="1820" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getClickPosition()</text>
-<text text-anchor="start" x="1820" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEntity()</text>
+<g id="a_node16"><a xlink:href="../../db/d3e/classpocketmine_1_1event_1_1player_1_1_player_game_mode_change_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="1774.5,-149.5 1774.5,-228.5 1945.5,-228.5 1945.5,-149.5 1774.5,-149.5"/>
+<text text-anchor="start" x="1782.5" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="1860" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerGameModeChangeEvent</text>
+<polyline fill="none" stroke="black" points="1774.5,-198.5 1945.5,-198.5 "/>
+<text text-anchor="middle" x="1860" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="1774.5,-179.5 1945.5,-179.5 "/>
+<text text-anchor="start" x="1782.5" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="1782.5" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNewGamemode()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node16 -->
 <g id="edge15" class="edge">
 <title>Node1&#45;&gt;Node16</title>
-<path fill="none" stroke="midnightblue" d="M2551.56,-340.92C2398.02,-336.77 2066.71,-322.23 1965,-273 1946.51,-264.05 1929.9,-249.06 1916.6,-234.26"/>
-<polygon fill="none" stroke="midnightblue" points="2551.77,-344.42 2561.86,-341.19 2551.95,-337.43 2551.77,-344.42"/>
+<path fill="none" stroke="midnightblue" d="M2429.8,-338.27C2297.55,-330.25 2038.08,-310.25 1955,-273 1932.22,-262.79 1910.89,-245.21 1894.23,-228.85"/>
+<polygon fill="none" stroke="midnightblue" points="2429.68,-341.76 2439.87,-338.87 2430.09,-334.78 2429.68,-341.76"/>
 </g>
 <!-- Node17 -->
 <g id="node17" class="node">
 <title>Node17</title>
-<g id="a_node17"><a xlink:href="../../db/d3e/classpocketmine_1_1event_1_1player_1_1_player_game_mode_change_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1974.5,-149.5 1974.5,-228.5 2145.5,-228.5 2145.5,-149.5 1974.5,-149.5"/>
-<text text-anchor="start" x="1982.5" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="2060" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerGameModeChangeEvent</text>
-<polyline fill="none" stroke="black" points="1974.5,-198.5 2145.5,-198.5 "/>
-<text text-anchor="middle" x="2060" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="1974.5,-179.5 2145.5,-179.5 "/>
-<text text-anchor="start" x="1982.5" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="1982.5" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNewGamemode()</text>
+<g id="a_node17"><a xlink:href="../../d8/d28/classpocketmine_1_1event_1_1player_1_1_player_interact_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="1964,-116.5 1964,-261.5 2102,-261.5 2102,-116.5 1964,-116.5"/>
+<text text-anchor="start" x="1972" y="-249.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="2033" y="-238.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerInteractEvent</text>
+<polyline fill="none" stroke="black" points="1964,-231.5 2102,-231.5 "/>
+<text text-anchor="start" x="1972" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ LEFT_CLICK_BLOCK</text>
+<text text-anchor="start" x="1972" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ RIGHT_CLICK_BLOCK</text>
+<text text-anchor="start" x="1972" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $touchVector</text>
+<polyline fill="none" stroke="black" points="1964,-190.5 2102,-190.5 "/>
+<text text-anchor="start" x="1972" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="1972" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAction()</text>
+<text text-anchor="start" x="1972" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
+<text text-anchor="start" x="1972" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFace()</text>
+<text text-anchor="start" x="1972" y="-134.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getItem()</text>
+<text text-anchor="start" x="1972" y="-123.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getTouchVector()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node17 -->
 <g id="edge16" class="edge">
 <title>Node1&#45;&gt;Node17</title>
-<path fill="none" stroke="midnightblue" d="M2551.53,-336.37C2434.95,-326.45 2223.94,-304.75 2155,-273 2132.32,-262.56 2111,-244.96 2094.33,-228.64"/>
-<polygon fill="none" stroke="midnightblue" points="2551.56,-339.88 2561.82,-337.23 2552.14,-332.9 2551.56,-339.88"/>
+<path fill="none" stroke="midnightblue" d="M2429.64,-334.64C2329.78,-323.73 2164.79,-302.01 2111,-273 2105.08,-269.81 2099.36,-266 2093.89,-261.8"/>
+<polygon fill="none" stroke="midnightblue" points="2429.38,-338.13 2439.7,-335.73 2430.13,-331.17 2429.38,-338.13"/>
 </g>
 <!-- Node18 -->
 <g id="node18" class="node">
 <title>Node18</title>
-<g id="a_node18"><a xlink:href="../../d8/d28/classpocketmine_1_1event_1_1player_1_1_player_interact_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="2164,-116.5 2164,-261.5 2302,-261.5 2302,-116.5 2164,-116.5"/>
-<text text-anchor="start" x="2172" y="-249.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="2233" y="-238.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerInteractEvent</text>
-<polyline fill="none" stroke="black" points="2164,-231.5 2302,-231.5 "/>
-<text text-anchor="start" x="2172" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ LEFT_CLICK_BLOCK</text>
-<text text-anchor="start" x="2172" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ RIGHT_CLICK_BLOCK</text>
-<text text-anchor="start" x="2172" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $touchVector</text>
-<polyline fill="none" stroke="black" points="2164,-190.5 2302,-190.5 "/>
-<text text-anchor="start" x="2172" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="2172" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAction()</text>
-<text text-anchor="start" x="2172" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
-<text text-anchor="start" x="2172" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFace()</text>
-<text text-anchor="start" x="2172" y="-134.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getItem()</text>
-<text text-anchor="start" x="2172" y="-123.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getTouchVector()</text>
+<g id="a_node18"><a xlink:href="../../da/d8e/classpocketmine_1_1event_1_1player_1_1_player_item_consume_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="2120,-149.5 2120,-228.5 2266,-228.5 2266,-149.5 2120,-149.5"/>
+<text text-anchor="start" x="2128" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="2193" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerItemConsumeEvent</text>
+<polyline fill="none" stroke="black" points="2120,-198.5 2266,-198.5 "/>
+<text text-anchor="middle" x="2193" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="2120,-179.5 2266,-179.5 "/>
+<text text-anchor="start" x="2128" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="2128" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getItem()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node18 -->
 <g id="edge17" class="edge">
 <title>Node1&#45;&gt;Node18</title>
-<path fill="none" stroke="midnightblue" d="M2551.68,-338.39C2483.92,-331.93 2385.82,-315.36 2311,-273 2305.15,-269.69 2299.48,-265.79 2294.04,-261.52"/>
-<polygon fill="none" stroke="midnightblue" points="2551.59,-341.9 2561.87,-339.31 2552.22,-334.93 2551.59,-341.9"/>
+<path fill="none" stroke="midnightblue" d="M2429.85,-329.32C2382.5,-319 2322.51,-301.48 2275,-273 2255.72,-261.44 2237.74,-244.3 2223.56,-228.59"/>
+<polygon fill="none" stroke="midnightblue" points="2429.24,-332.77 2439.75,-331.41 2430.69,-325.92 2429.24,-332.77"/>
 </g>
 <!-- Node19 -->
 <g id="node19" class="node">
 <title>Node19</title>
-<g id="a_node19"><a xlink:href="../../da/d8e/classpocketmine_1_1event_1_1player_1_1_player_item_consume_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="2320,-149.5 2320,-228.5 2466,-228.5 2466,-149.5 2320,-149.5"/>
-<text text-anchor="start" x="2328" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="2393" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerItemConsumeEvent</text>
-<polyline fill="none" stroke="black" points="2320,-198.5 2466,-198.5 "/>
-<text text-anchor="middle" x="2393" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="2320,-179.5 2466,-179.5 "/>
-<text text-anchor="start" x="2328" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="2328" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getItem()</text>
+<g id="a_node19"><a xlink:href="../../dd/de9/classpocketmine_1_1event_1_1player_1_1_player_item_held_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="2284,-144 2284,-234 2422,-234 2422,-144 2284,-144"/>
+<text text-anchor="start" x="2292" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="2353" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerItemHeldEvent</text>
+<polyline fill="none" stroke="black" points="2284,-204 2422,-204 "/>
+<text text-anchor="middle" x="2353" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="2284,-185 2422,-185 "/>
+<text text-anchor="start" x="2292" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="2292" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getItem()</text>
+<text text-anchor="start" x="2292" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSlot()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node19 -->
 <g id="edge18" class="edge">
 <title>Node1&#45;&gt;Node19</title>
-<path fill="none" stroke="midnightblue" d="M2552.29,-314.19C2526.56,-303.2 2498.56,-289.3 2475,-273 2457.01,-260.55 2439.6,-243.84 2425.49,-228.67"/>
-<polygon fill="none" stroke="midnightblue" points="2551.08,-317.47 2561.66,-318.1 2553.78,-311.01 2551.08,-317.47"/>
+<path fill="none" stroke="midnightblue" d="M2462.7,-302.46C2452.12,-292.98 2441.04,-282.78 2431,-273 2418.39,-260.72 2405.12,-246.95 2393.18,-234.2"/>
+<polygon fill="none" stroke="midnightblue" points="2460.5,-305.19 2470.3,-309.23 2465.16,-299.96 2460.5,-305.19"/>
 </g>
 <!-- Node20 -->
 <g id="node20" class="node">
 <title>Node20</title>
-<g id="a_node20"><a xlink:href="../../dd/de9/classpocketmine_1_1event_1_1player_1_1_player_item_held_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="2484,-144 2484,-234 2622,-234 2622,-144 2484,-144"/>
-<text text-anchor="start" x="2492" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="2553" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerItemHeldEvent</text>
-<polyline fill="none" stroke="black" points="2484,-204 2622,-204 "/>
-<text text-anchor="middle" x="2553" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="2484,-185 2622,-185 "/>
-<text text-anchor="start" x="2492" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="2492" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getItem()</text>
-<text text-anchor="start" x="2492" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSlot()</text>
+<g id="a_node20"><a xlink:href="../../dd/dbd/classpocketmine_1_1event_1_1player_1_1_player_item_use_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="2440,-144 2440,-234 2578,-234 2578,-144 2440,-144"/>
+<text text-anchor="start" x="2448" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="2509" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerItemUseEvent</text>
+<polyline fill="none" stroke="black" points="2440,-204 2578,-204 "/>
+<text text-anchor="middle" x="2509" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="2440,-185 2578,-185 "/>
+<text text-anchor="start" x="2448" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="2448" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectionVector()</text>
+<text text-anchor="start" x="2448" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ getItem()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node20 -->
 <g id="edge19" class="edge">
 <title>Node1&#45;&gt;Node20</title>
-<path fill="none" stroke="midnightblue" d="M2609.4,-300.26C2598.85,-279.65 2586.18,-254.87 2575.52,-234.03"/>
-<polygon fill="none" stroke="midnightblue" points="2606.41,-302.1 2614.08,-309.41 2612.64,-298.91 2606.41,-302.1"/>
+<path fill="none" stroke="midnightblue" d="M2509,-299.14C2509,-278.76 2509,-254.49 2509,-234.03"/>
+<polygon fill="none" stroke="midnightblue" points="2505.5,-299.41 2509,-309.41 2512.5,-299.41 2505.5,-299.41"/>
 </g>
 <!-- Node21 -->
 <g id="node21" class="node">
 <title>Node21</title>
-<g id="a_node21"><a xlink:href="../../dd/dbd/classpocketmine_1_1event_1_1player_1_1_player_item_use_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="2640,-144 2640,-234 2778,-234 2778,-144 2640,-144"/>
-<text text-anchor="start" x="2648" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="2709" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerItemUseEvent</text>
-<polyline fill="none" stroke="black" points="2640,-204 2778,-204 "/>
-<text text-anchor="middle" x="2709" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="2640,-185 2778,-185 "/>
-<text text-anchor="start" x="2648" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="2648" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectionVector()</text>
-<text text-anchor="start" x="2648" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ getItem()</text>
+<g id="a_node21"><a xlink:href="../../d7/dcc/classpocketmine_1_1event_1_1player_1_1_player_join_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="2596,-144 2596,-234 2734,-234 2734,-144 2596,-144"/>
+<text text-anchor="start" x="2604" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="2665" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerJoinEvent</text>
+<polyline fill="none" stroke="black" points="2596,-204 2734,-204 "/>
+<text text-anchor="middle" x="2665" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="2596,-185 2734,-185 "/>
+<text text-anchor="start" x="2604" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="2604" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getJoinMessage()</text>
+<text text-anchor="start" x="2604" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ setJoinMessage()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node21 -->
 <g id="edge20" class="edge">
 <title>Node1&#45;&gt;Node21</title>
-<path fill="none" stroke="midnightblue" d="M2652.6,-300.26C2663.15,-279.65 2675.82,-254.87 2686.48,-234.03"/>
-<polygon fill="none" stroke="midnightblue" points="2649.36,-298.91 2647.92,-309.41 2655.59,-302.1 2649.36,-298.91"/>
+<path fill="none" stroke="midnightblue" d="M2555.3,-302.46C2565.88,-292.98 2576.96,-282.78 2587,-273 2599.61,-260.72 2612.88,-246.95 2624.82,-234.2"/>
+<polygon fill="none" stroke="midnightblue" points="2552.84,-299.96 2547.7,-309.23 2557.5,-305.19 2552.84,-299.96"/>
 </g>
 <!-- Node22 -->
 <g id="node22" class="node">
 <title>Node22</title>
-<g id="a_node22"><a xlink:href="../../d7/dcc/classpocketmine_1_1event_1_1player_1_1_player_join_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="2796,-144 2796,-234 2934,-234 2934,-144 2796,-144"/>
-<text text-anchor="start" x="2804" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="2865" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerJoinEvent</text>
-<polyline fill="none" stroke="black" points="2796,-204 2934,-204 "/>
-<text text-anchor="middle" x="2865" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="2796,-185 2934,-185 "/>
-<text text-anchor="start" x="2804" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="2804" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getJoinMessage()</text>
-<text text-anchor="start" x="2804" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ setJoinMessage()</text>
+<g id="a_node22"><a xlink:href="../../d8/d8f/classpocketmine_1_1event_1_1player_1_1_player_jump_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="2752,-155 2752,-223 2890,-223 2890,-155 2752,-155"/>
+<text text-anchor="start" x="2760" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="2821" y="-200" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerJumpEvent</text>
+<polyline fill="none" stroke="black" points="2752,-193 2890,-193 "/>
+<text text-anchor="middle" x="2821" y="-181" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="2752,-174 2890,-174 "/>
+<text text-anchor="start" x="2760" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node22 -->
 <g id="edge21" class="edge">
 <title>Node1&#45;&gt;Node22</title>
-<path fill="none" stroke="midnightblue" d="M2709.59,-314.68C2735.44,-303.69 2763.54,-289.67 2787,-273 2802.31,-262.12 2817,-247.88 2829.42,-234.28"/>
-<polygon fill="none" stroke="midnightblue" points="2708.07,-311.52 2700.18,-318.59 2710.76,-317.98 2708.07,-311.52"/>
+<path fill="none" stroke="midnightblue" d="M2588.16,-329.8C2635.64,-319.64 2695.77,-302.13 2743,-273 2763.87,-260.13 2782.82,-240.25 2796.82,-223.18"/>
+<polygon fill="none" stroke="midnightblue" points="2587.31,-326.4 2578.23,-331.86 2588.73,-333.25 2587.31,-326.4"/>
 </g>
 <!-- Node23 -->
 <g id="node23" class="node">
 <title>Node23</title>
-<g id="a_node23"><a xlink:href="../../d8/d8f/classpocketmine_1_1event_1_1player_1_1_player_jump_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="2952,-155 2952,-223 3090,-223 3090,-155 2952,-155"/>
-<text text-anchor="start" x="2960" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="3021" y="-200" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerJumpEvent</text>
-<polyline fill="none" stroke="black" points="2952,-193 3090,-193 "/>
-<text text-anchor="middle" x="3021" y="-181" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="2952,-174 3090,-174 "/>
-<text text-anchor="start" x="2960" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<g id="a_node23"><a xlink:href="../../d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="2908,-133 2908,-245 3046,-245 3046,-133 2908,-133"/>
+<text text-anchor="start" x="2916" y="-233" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="2977" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerKickEvent</text>
+<polyline fill="none" stroke="black" points="2908,-215 3046,-215 "/>
+<text text-anchor="middle" x="2977" y="-203" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="2908,-196 3046,-196 "/>
+<text text-anchor="start" x="2916" y="-184" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="2916" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ getQuitMessage()</text>
+<text text-anchor="start" x="2916" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getReason()</text>
+<text text-anchor="start" x="2916" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ setQuitMessage()</text>
+<text text-anchor="start" x="2916" y="-140" font-family="Helvetica,sans-Serif" font-size="10.00">+ setReason()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node23 -->
 <g id="edge22" class="edge">
 <title>Node1&#45;&gt;Node23</title>
-<path fill="none" stroke="midnightblue" d="M2710.63,-337.74C2776.61,-330.87 2870.91,-314.07 2943,-273 2964.48,-260.77 2983.58,-240.69 2997.5,-223.35"/>
-<polygon fill="none" stroke="midnightblue" points="2709.9,-334.3 2700.3,-338.77 2710.59,-341.27 2709.9,-334.3"/>
+<path fill="none" stroke="midnightblue" d="M2588.15,-342.75C2670.5,-339.84 2800.89,-326.14 2899,-273 2912.04,-265.94 2924.14,-255.89 2934.72,-245.21"/>
+<polygon fill="none" stroke="midnightblue" points="2587.99,-339.25 2578.1,-343.06 2588.21,-346.25 2587.99,-339.25"/>
 </g>
 <!-- Node24 -->
 <g id="node24" class="node">
 <title>Node24</title>
-<g id="a_node24"><a xlink:href="../../d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="3108,-133 3108,-245 3246,-245 3246,-133 3108,-133"/>
-<text text-anchor="start" x="3116" y="-233" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="3177" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerKickEvent</text>
-<polyline fill="none" stroke="black" points="3108,-215 3246,-215 "/>
-<text text-anchor="middle" x="3177" y="-203" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="3108,-196 3246,-196 "/>
-<text text-anchor="start" x="3116" y="-184" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="3116" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ getQuitMessage()</text>
-<text text-anchor="start" x="3116" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getReason()</text>
-<text text-anchor="start" x="3116" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ setQuitMessage()</text>
-<text text-anchor="start" x="3116" y="-140" font-family="Helvetica,sans-Serif" font-size="10.00">+ setReason()</text>
+<g id="a_node24"><a xlink:href="../../d6/d15/classpocketmine_1_1event_1_1player_1_1_player_login_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="3064,-144 3064,-234 3202,-234 3202,-144 3064,-144"/>
+<text text-anchor="start" x="3072" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="3133" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerLoginEvent</text>
+<polyline fill="none" stroke="black" points="3064,-204 3202,-204 "/>
+<text text-anchor="middle" x="3133" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="3064,-185 3202,-185 "/>
+<text text-anchor="start" x="3072" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="3072" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getKickMessage()</text>
+<text text-anchor="start" x="3072" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ setKickMessage()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node24 -->
 <g id="edge23" class="edge">
 <title>Node1&#45;&gt;Node24</title>
-<path fill="none" stroke="midnightblue" d="M2710.48,-337.01C2825.82,-327.99 3033.03,-307.51 3099,-273 3112.32,-266.03 3124.6,-255.89 3135.29,-245.07"/>
-<polygon fill="none" stroke="midnightblue" points="2709.99,-333.54 2700.29,-337.8 2710.53,-340.52 2709.99,-333.54"/>
+<path fill="none" stroke="midnightblue" d="M2588.49,-338.96C2719.75,-332.03 2975.25,-313.66 3055,-273 3072.97,-263.84 3089,-248.8 3101.79,-234.02"/>
+<polygon fill="none" stroke="midnightblue" points="2588.3,-335.47 2578.49,-339.48 2588.66,-342.46 2588.3,-335.47"/>
 </g>
 <!-- Node25 -->
 <g id="node25" class="node">
 <title>Node25</title>
-<g id="a_node25"><a xlink:href="../../d6/d15/classpocketmine_1_1event_1_1player_1_1_player_login_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="3264,-144 3264,-234 3402,-234 3402,-144 3264,-144"/>
-<text text-anchor="start" x="3272" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="3333" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerLoginEvent</text>
-<polyline fill="none" stroke="black" points="3264,-204 3402,-204 "/>
-<text text-anchor="middle" x="3333" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="3264,-185 3402,-185 "/>
-<text text-anchor="start" x="3272" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="3272" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getKickMessage()</text>
-<text text-anchor="start" x="3272" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ setKickMessage()</text>
+<g id="a_node25"><a xlink:href="../../d3/d49/classpocketmine_1_1event_1_1player_1_1_player_move_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="3220,-138.5 3220,-239.5 3358,-239.5 3358,-138.5 3220,-138.5"/>
+<text text-anchor="start" x="3228" y="-227.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="3289" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerMoveEvent</text>
+<polyline fill="none" stroke="#bfbfbf" points="3220,-209.5 3358,-209.5 "/>
+<text text-anchor="middle" x="3289" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="3220,-190.5 3358,-190.5 "/>
+<text text-anchor="start" x="3228" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="3228" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFrom()</text>
+<text text-anchor="start" x="3228" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getTo()</text>
+<text text-anchor="start" x="3228" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setTo()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node25 -->
 <g id="edge24" class="edge">
 <title>Node1&#45;&gt;Node25</title>
-<path fill="none" stroke="midnightblue" d="M2710.36,-340.44C2856.38,-335.54 3161.28,-319.86 3255,-273 3273.04,-263.98 3289.09,-248.97 3301.87,-234.18"/>
-<polygon fill="none" stroke="midnightblue" points="2710,-336.95 2700.12,-340.77 2710.23,-343.94 2710,-336.95"/>
+<path fill="none" stroke="midnightblue" d="M2588.39,-341.58C2748.33,-338.62 3103.22,-326.07 3211,-273 3226.97,-265.14 3241.35,-252.55 3253.28,-239.52"/>
+<polygon fill="none" stroke="midnightblue" points="2588.08,-338.09 2578.15,-341.76 2588.21,-345.09 2588.08,-338.09"/>
 </g>
 <!-- Node26 -->
 <g id="node26" class="node">
 <title>Node26</title>
-<g id="a_node26"><a xlink:href="../../d3/d49/classpocketmine_1_1event_1_1player_1_1_player_move_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="3420,-138.5 3420,-239.5 3558,-239.5 3558,-138.5 3420,-138.5"/>
-<text text-anchor="start" x="3428" y="-227.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="3489" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerMoveEvent</text>
-<polyline fill="none" stroke="#bfbfbf" points="3420,-209.5 3558,-209.5 "/>
-<text text-anchor="middle" x="3489" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="3420,-190.5 3558,-190.5 "/>
-<text text-anchor="start" x="3428" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="3428" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFrom()</text>
-<text text-anchor="start" x="3428" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getTo()</text>
-<text text-anchor="start" x="3428" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setTo()</text>
+<g id="a_node26"><a xlink:href="../../dd/dd7/classpocketmine_1_1event_1_1player_1_1_player_post_chunk_send_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="3376,-144 3376,-234 3530,-234 3530,-144 3376,-144"/>
+<text text-anchor="start" x="3384" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="3453" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerPostChunkSendEvent</text>
+<polyline fill="none" stroke="black" points="3376,-204 3530,-204 "/>
+<text text-anchor="middle" x="3453" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="3376,-185 3530,-185 "/>
+<text text-anchor="start" x="3384" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="3384" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getChunkX()</text>
+<text text-anchor="start" x="3384" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ getChunkZ()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node26 -->
 <g id="edge25" class="edge">
 <title>Node1&#45;&gt;Node26</title>
-<path fill="none" stroke="midnightblue" d="M2710.32,-342.51C2883.37,-341.39 3289.03,-332.32 3411,-273 3427,-265.22 3441.4,-252.65 3453.33,-239.62"/>
-<polygon fill="none" stroke="midnightblue" points="2710.24,-339.01 2700.26,-342.56 2710.28,-346.01 2710.24,-339.01"/>
+<path fill="none" stroke="midnightblue" d="M2588.23,-342.82C2773.41,-342.51 3229.24,-335.22 3367,-273 3386.48,-264.2 3404.2,-249.05 3418.43,-234.08"/>
+<polygon fill="none" stroke="midnightblue" points="2588.02,-339.32 2578.03,-342.83 2588.03,-346.32 2588.02,-339.32"/>
 </g>
 <!-- Node27 -->
 <g id="node27" class="node">
 <title>Node27</title>
-<g id="a_node27"><a xlink:href="../../dd/dd7/classpocketmine_1_1event_1_1player_1_1_player_post_chunk_send_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="3576,-144 3576,-234 3730,-234 3730,-144 3576,-144"/>
-<text text-anchor="start" x="3584" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="3653" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerPostChunkSendEvent</text>
-<polyline fill="none" stroke="black" points="3576,-204 3730,-204 "/>
-<text text-anchor="middle" x="3653" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="3576,-185 3730,-185 "/>
-<text text-anchor="start" x="3584" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="3584" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getChunkX()</text>
-<text text-anchor="start" x="3584" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ getChunkZ()</text>
+<g id="a_node27"><a xlink:href="../../df/d81/classpocketmine_1_1event_1_1player_1_1_player_quit_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="3548,-138.5 3548,-239.5 3686,-239.5 3686,-138.5 3548,-138.5"/>
+<text text-anchor="start" x="3556" y="-227.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="3617" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerQuitEvent</text>
+<polyline fill="none" stroke="black" points="3548,-209.5 3686,-209.5 "/>
+<text text-anchor="middle" x="3617" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="3548,-190.5 3686,-190.5 "/>
+<text text-anchor="start" x="3556" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="3556" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getQuitMessage()</text>
+<text text-anchor="start" x="3556" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getQuitReason()</text>
+<text text-anchor="start" x="3556" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setQuitMessage()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node27 -->
 <g id="edge26" class="edge">
 <title>Node1&#45;&gt;Node27</title>
-<path fill="none" stroke="midnightblue" d="M2710.44,-339.69C2922.28,-331.77 3489.81,-307.55 3567,-273 3586.51,-264.27 3604.24,-249.13 3618.47,-234.15"/>
-<polygon fill="none" stroke="midnightblue" points="2710.19,-336.2 2700.32,-340.07 2710.45,-343.19 2710.19,-336.2"/>
+<path fill="none" stroke="midnightblue" d="M2588.51,-340.47C2815.2,-334.23 3453.94,-313.24 3539,-273 3555.09,-265.39 3569.5,-252.87 3581.44,-239.84"/>
+<polygon fill="none" stroke="midnightblue" points="2588.25,-336.98 2578.35,-340.75 2588.44,-343.98 2588.25,-336.98"/>
 </g>
 <!-- Node28 -->
 <g id="node28" class="node">
 <title>Node28</title>
-<g id="a_node28"><a xlink:href="../../df/d81/classpocketmine_1_1event_1_1player_1_1_player_quit_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="3748,-138.5 3748,-239.5 3886,-239.5 3886,-138.5 3748,-138.5"/>
-<text text-anchor="start" x="3756" y="-227.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="3817" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerQuitEvent</text>
-<polyline fill="none" stroke="black" points="3748,-209.5 3886,-209.5 "/>
-<text text-anchor="middle" x="3817" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="3748,-190.5 3886,-190.5 "/>
-<text text-anchor="start" x="3756" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="3756" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getQuitMessage()</text>
-<text text-anchor="start" x="3756" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getQuitReason()</text>
-<text text-anchor="start" x="3756" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setQuitMessage()</text>
+<g id="a_node28"><a xlink:href="../../de/d1c/classpocketmine_1_1event_1_1player_1_1_player_respawn_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="3704,-144 3704,-234 3842,-234 3842,-144 3704,-144"/>
+<text text-anchor="start" x="3712" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="3773" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerRespawnEvent</text>
+<polyline fill="none" stroke="black" points="3704,-204 3842,-204 "/>
+<text text-anchor="middle" x="3773" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="3704,-185 3842,-185 "/>
+<text text-anchor="start" x="3712" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="3712" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRespawnPosition()</text>
+<text text-anchor="start" x="3712" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ setRespawnPosition()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node28 -->
 <g id="edge27" class="edge">
 <title>Node1&#45;&gt;Node28</title>
-<path fill="none" stroke="midnightblue" d="M2710.67,-340.88C2949.16,-335.56 3646.68,-316.41 3739,-273 3755.11,-265.43 3769.53,-252.92 3781.46,-239.88"/>
-<polygon fill="none" stroke="midnightblue" points="2710.26,-337.39 2700.34,-341.11 2710.42,-344.38 2710.26,-337.39"/>
+<path fill="none" stroke="midnightblue" d="M2588.26,-341.24C2837.58,-336.81 3595.32,-319.62 3695,-273 3713.45,-264.37 3729.68,-249.25 3742.49,-234.26"/>
+<polygon fill="none" stroke="midnightblue" points="2588.12,-337.74 2578.18,-341.42 2588.24,-344.74 2588.12,-337.74"/>
 </g>
 <!-- Node29 -->
 <g id="node29" class="node">
 <title>Node29</title>
-<g id="a_node29"><a xlink:href="../../de/d1c/classpocketmine_1_1event_1_1player_1_1_player_respawn_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="3904,-144 3904,-234 4042,-234 4042,-144 3904,-144"/>
-<text text-anchor="start" x="3912" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="3973" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerRespawnEvent</text>
-<polyline fill="none" stroke="black" points="3904,-204 4042,-204 "/>
-<text text-anchor="middle" x="3973" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="3904,-185 4042,-185 "/>
-<text text-anchor="start" x="3912" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="3912" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRespawnPosition()</text>
-<text text-anchor="start" x="3912" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ setRespawnPosition()</text>
+<g id="a_node29"><a xlink:href="../../df/d48/classpocketmine_1_1event_1_1player_1_1_player_toggle_flight_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="3860,-149.5 3860,-228.5 3998,-228.5 3998,-149.5 3860,-149.5"/>
+<text text-anchor="start" x="3868" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="3929" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerToggleFlightEvent</text>
+<polyline fill="none" stroke="#bfbfbf" points="3860,-198.5 3998,-198.5 "/>
+<text text-anchor="middle" x="3929" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="3860,-179.5 3998,-179.5 "/>
+<text text-anchor="start" x="3868" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="3868" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isFlying()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node29 -->
 <g id="edge28" class="edge">
 <title>Node1&#45;&gt;Node29</title>
-<path fill="none" stroke="midnightblue" d="M2710.52,-341.55C2971.01,-337.96 3788.03,-322.8 3895,-273 3913.46,-264.4 3929.7,-249.29 3942.51,-234.29"/>
-<polygon fill="none" stroke="midnightblue" points="2710.34,-338.05 2700.39,-341.68 2710.43,-345.05 2710.34,-338.05"/>
+<path fill="none" stroke="midnightblue" d="M2588.32,-341.82C2859.11,-339.05 3736.65,-326.01 3851,-273 3871.81,-263.35 3889.78,-245.41 3903.2,-228.66"/>
+<polygon fill="none" stroke="midnightblue" points="2588.14,-338.33 2578.18,-341.93 2588.21,-345.33 2588.14,-338.33"/>
 </g>
 <!-- Node30 -->
 <g id="node30" class="node">
 <title>Node30</title>
-<g id="a_node30"><a xlink:href="../../df/d48/classpocketmine_1_1event_1_1player_1_1_player_toggle_flight_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="4060,-149.5 4060,-228.5 4198,-228.5 4198,-149.5 4060,-149.5"/>
-<text text-anchor="start" x="4068" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="4129" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerToggleFlightEvent</text>
-<polyline fill="none" stroke="#bfbfbf" points="4060,-198.5 4198,-198.5 "/>
-<text text-anchor="middle" x="4129" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="4060,-179.5 4198,-179.5 "/>
-<text text-anchor="start" x="4068" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="4068" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isFlying()</text>
+<g id="a_node30"><a xlink:href="../../d7/d32/classpocketmine_1_1event_1_1player_1_1_player_toggle_glide_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="4016,-149.5 4016,-228.5 4154,-228.5 4154,-149.5 4016,-149.5"/>
+<text text-anchor="start" x="4024" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="4085" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerToggleGlideEvent</text>
+<polyline fill="none" stroke="#bfbfbf" points="4016,-198.5 4154,-198.5 "/>
+<text text-anchor="middle" x="4085" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="4016,-179.5 4154,-179.5 "/>
+<text text-anchor="start" x="4024" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="4024" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isGliding()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node30 -->
 <g id="edge29" class="edge">
 <title>Node1&#45;&gt;Node30</title>
-<path fill="none" stroke="midnightblue" d="M2710.14,-342.07C2990.95,-340.08 3929.26,-329.23 4051,-273 4071.82,-263.38 4089.79,-245.44 4103.22,-228.69"/>
-<polygon fill="none" stroke="midnightblue" points="2710.01,-338.57 2700.03,-342.14 2710.06,-345.57 2710.01,-338.57"/>
+<path fill="none" stroke="midnightblue" d="M2588.06,-342.29C2878.7,-341.04 3877.87,-332.44 4007,-273 4027.84,-263.41 4045.8,-245.47 4059.23,-228.71"/>
+<polygon fill="none" stroke="midnightblue" points="2588,-338.79 2578.02,-342.33 2588.03,-345.79 2588,-338.79"/>
 </g>
 <!-- Node31 -->
 <g id="node31" class="node">
 <title>Node31</title>
-<g id="a_node31"><a xlink:href="../../d7/d32/classpocketmine_1_1event_1_1player_1_1_player_toggle_glide_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="4216,-149.5 4216,-228.5 4354,-228.5 4354,-149.5 4216,-149.5"/>
-<text text-anchor="start" x="4224" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="4285" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerToggleGlideEvent</text>
-<polyline fill="none" stroke="#bfbfbf" points="4216,-198.5 4354,-198.5 "/>
-<text text-anchor="middle" x="4285" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="4216,-179.5 4354,-179.5 "/>
-<text text-anchor="start" x="4224" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="4224" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isGliding()</text>
+<g id="a_node31"><a xlink:href="../../d1/d8b/classpocketmine_1_1event_1_1player_1_1_player_toggle_sneak_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="4172,-149.5 4172,-228.5 4312,-228.5 4312,-149.5 4172,-149.5"/>
+<text text-anchor="start" x="4180" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="4242" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerToggleSneakEvent</text>
+<polyline fill="none" stroke="#bfbfbf" points="4172,-198.5 4312,-198.5 "/>
+<text text-anchor="middle" x="4242" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="4172,-179.5 4312,-179.5 "/>
+<text text-anchor="start" x="4180" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="4180" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isSneaking()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node31 -->
 <g id="edge30" class="edge">
 <title>Node1&#45;&gt;Node31</title>
-<path fill="none" stroke="midnightblue" d="M2710.57,-342.49C3011.59,-341.96 4070.55,-335.62 4207,-273 4227.85,-263.43 4245.82,-245.49 4259.24,-228.73"/>
-<polygon fill="none" stroke="midnightblue" points="2710.18,-338.99 2700.19,-342.5 2710.19,-345.99 2710.18,-338.99"/>
+<path fill="none" stroke="midnightblue" d="M2588.33,-342.64C2898.47,-342.71 4018.89,-338.4 4163,-273 4184.01,-263.46 4202.2,-245.53 4215.82,-228.76"/>
+<polygon fill="none" stroke="midnightblue" points="2588.08,-339.14 2578.08,-342.63 2588.08,-346.14 2588.08,-339.14"/>
 </g>
 <!-- Node32 -->
 <g id="node32" class="node">
 <title>Node32</title>
-<g id="a_node32"><a xlink:href="../../d1/d8b/classpocketmine_1_1event_1_1player_1_1_player_toggle_sneak_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="4372,-149.5 4372,-228.5 4512,-228.5 4512,-149.5 4372,-149.5"/>
-<text text-anchor="start" x="4380" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="4442" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerToggleSneakEvent</text>
-<polyline fill="none" stroke="#bfbfbf" points="4372,-198.5 4512,-198.5 "/>
-<text text-anchor="middle" x="4442" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="4372,-179.5 4512,-179.5 "/>
-<text text-anchor="start" x="4380" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="4380" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isSneaking()</text>
+<g id="a_node32"><a xlink:href="../../d0/da3/classpocketmine_1_1event_1_1player_1_1_player_toggle_sprint_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="4330,-149.5 4330,-228.5 4468,-228.5 4468,-149.5 4330,-149.5"/>
+<text text-anchor="start" x="4338" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="4399" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerToggleSprintEvent</text>
+<polyline fill="none" stroke="#bfbfbf" points="4330,-198.5 4468,-198.5 "/>
+<text text-anchor="middle" x="4399" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="4330,-179.5 4468,-179.5 "/>
+<text text-anchor="start" x="4338" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="4338" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isSprinting()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node32 -->
 <g id="edge31" class="edge">
 <title>Node1&#45;&gt;Node32</title>
-<path fill="none" stroke="midnightblue" d="M2710.35,-342.8C3029.74,-343.55 4211.46,-341.6 4363,-273 4384.02,-263.48 4402.21,-245.55 4415.82,-228.78"/>
-<polygon fill="none" stroke="midnightblue" points="2710.26,-339.3 2700.25,-342.78 2710.24,-346.3 2710.26,-339.3"/>
+<path fill="none" stroke="midnightblue" d="M2588.41,-342.98C2917.2,-344.5 4162.06,-345.39 4321,-273 4341.87,-263.49 4359.85,-245.56 4373.26,-228.79"/>
+<polygon fill="none" stroke="midnightblue" points="2588.05,-339.48 2578.03,-342.93 2588.01,-346.48 2588.05,-339.48"/>
 </g>
 <!-- Node33 -->
 <g id="node33" class="node">
 <title>Node33</title>
-<g id="a_node33"><a xlink:href="../../d0/da3/classpocketmine_1_1event_1_1player_1_1_player_toggle_sprint_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="4530,-149.5 4530,-228.5 4668,-228.5 4668,-149.5 4530,-149.5"/>
-<text text-anchor="start" x="4538" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="4599" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerToggleSprintEvent</text>
-<polyline fill="none" stroke="#bfbfbf" points="4530,-198.5 4668,-198.5 "/>
-<text text-anchor="middle" x="4599" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="4530,-179.5 4668,-179.5 "/>
-<text text-anchor="start" x="4538" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="4538" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isSprinting()</text>
+<g id="a_node33"><a xlink:href="../../df/dd4/classpocketmine_1_1event_1_1player_1_1_player_toggle_swim_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="4486,-149.5 4486,-228.5 4624,-228.5 4624,-149.5 4486,-149.5"/>
+<text text-anchor="start" x="4494" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="4555" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerToggleSwimEvent</text>
+<polyline fill="none" stroke="#bfbfbf" points="4486,-198.5 4624,-198.5 "/>
+<text text-anchor="middle" x="4555" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="4486,-179.5 4624,-179.5 "/>
+<text text-anchor="start" x="4494" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="4494" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isSwimming()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node33 -->
 <g id="edge32" class="edge">
 <title>Node1&#45;&gt;Node33</title>
-<path fill="none" stroke="midnightblue" d="M2710.37,-341.26C3058.57,-335.62 4437.47,-310.97 4521,-273 4541.88,-263.51 4559.86,-245.58 4573.27,-228.8"/>
-<polygon fill="none" stroke="midnightblue" points="2710.07,-337.77 2700.12,-341.43 2710.18,-344.77 2710.07,-337.77"/>
+<path fill="none" stroke="midnightblue" d="M2588.39,-341.38C2945.54,-336.14 4389.74,-312.59 4477,-273 4497.89,-263.52 4515.86,-245.59 4529.27,-228.82"/>
+<polygon fill="none" stroke="midnightblue" points="2588.09,-337.89 2578.14,-341.53 2588.19,-344.89 2588.09,-337.89"/>
 </g>
 <!-- Node34 -->
 <g id="node34" class="node">
 <title>Node34</title>
-<g id="a_node34"><a xlink:href="../../df/dd4/classpocketmine_1_1event_1_1player_1_1_player_toggle_swim_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="4686,-149.5 4686,-228.5 4824,-228.5 4824,-149.5 4686,-149.5"/>
-<text text-anchor="start" x="4694" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="4755" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerToggleSwimEvent</text>
-<polyline fill="none" stroke="#bfbfbf" points="4686,-198.5 4824,-198.5 "/>
-<text text-anchor="middle" x="4755" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="4686,-179.5 4824,-179.5 "/>
-<text text-anchor="start" x="4694" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="4694" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isSwimming()</text>
+<g id="a_node34"><a xlink:href="../../de/d6c/classpocketmine_1_1event_1_1player_1_1_player_transfer_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="4642,-122 4642,-256 4780,-256 4780,-122 4642,-122"/>
+<text text-anchor="start" x="4650" y="-244" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="4711" y="-233" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerTransferEvent</text>
+<polyline fill="none" stroke="black" points="4642,-226 4780,-226 "/>
+<text text-anchor="middle" x="4711" y="-214" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="4642,-207 4780,-207 "/>
+<text text-anchor="start" x="4650" y="-195" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="4650" y="-184" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAddress()</text>
+<text text-anchor="start" x="4650" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMessage()</text>
+<text text-anchor="start" x="4650" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPort()</text>
+<text text-anchor="start" x="4650" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAddress()</text>
+<text text-anchor="start" x="4650" y="-140" font-family="Helvetica,sans-Serif" font-size="10.00">+ setMessage()</text>
+<text text-anchor="start" x="4650" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPort()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node34 -->
 <g id="edge33" class="edge">
 <title>Node1&#45;&gt;Node34</title>
-<path fill="none" stroke="midnightblue" d="M2710.52,-341.49C3076.63,-336.64 4586.01,-314.2 4677,-273 4697.9,-263.54 4715.87,-245.61 4729.28,-228.83"/>
-<polygon fill="none" stroke="midnightblue" points="2710.23,-338 2700.28,-341.63 2710.33,-345 2710.23,-338"/>
+<path fill="none" stroke="midnightblue" d="M2588.47,-341.6C2963.06,-337.12 4538.26,-315.83 4633,-273 4642.37,-268.76 4651.15,-262.82 4659.2,-256.05"/>
+<polygon fill="none" stroke="midnightblue" points="2588.22,-338.1 2578.27,-341.72 2588.31,-345.1 2588.22,-338.1"/>
 </g>
 <!-- Node35 -->
 <g id="node35" class="node">
 <title>Node35</title>
-<g id="a_node35"><a xlink:href="../../de/d6c/classpocketmine_1_1event_1_1player_1_1_player_transfer_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="4842,-122 4842,-256 4980,-256 4980,-122 4842,-122"/>
-<text text-anchor="start" x="4850" y="-244" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="4911" y="-233" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerTransferEvent</text>
-<polyline fill="none" stroke="black" points="4842,-226 4980,-226 "/>
-<text text-anchor="middle" x="4911" y="-214" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="4842,-207 4980,-207 "/>
-<text text-anchor="start" x="4850" y="-195" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="4850" y="-184" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAddress()</text>
-<text text-anchor="start" x="4850" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMessage()</text>
-<text text-anchor="start" x="4850" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPort()</text>
-<text text-anchor="start" x="4850" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAddress()</text>
-<text text-anchor="start" x="4850" y="-140" font-family="Helvetica,sans-Serif" font-size="10.00">+ setMessage()</text>
-<text text-anchor="start" x="4850" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPort()</text>
+<g id="a_node35"><a xlink:href="../../d9/d54/classpocketmine_1_1event_1_1player_1_1_player_view_distance_change_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="4798,-144 4798,-234 4980,-234 4980,-144 4798,-144"/>
+<text text-anchor="start" x="4806" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="4889" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerViewDistanceChangeEvent</text>
+<polyline fill="none" stroke="black" points="4798,-204 4980,-204 "/>
+<text text-anchor="middle" x="4889" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="4798,-185 4980,-185 "/>
+<text text-anchor="start" x="4806" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="4806" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNewDistance()</text>
+<text text-anchor="start" x="4806" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOldDistance()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node35 -->
 <g id="edge34" class="edge">
 <title>Node1&#45;&gt;Node35</title>
-<path fill="none" stroke="midnightblue" d="M2710.25,-341.7C3092.84,-337.6 4734.49,-317.47 4833,-273 4842.37,-268.77 4851.15,-262.83 4859.2,-256.06"/>
-<polygon fill="none" stroke="midnightblue" points="2710.06,-338.2 2700.1,-341.8 2710.14,-345.2 2710.06,-338.2"/>
-</g>
-<!-- Node36 -->
-<g id="node36" class="node">
-<title>Node36</title>
-<g id="a_node36"><a xlink:href="../../d9/d54/classpocketmine_1_1event_1_1player_1_1_player_view_distance_change_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="4998,-144 4998,-234 5180,-234 5180,-144 4998,-144"/>
-<text text-anchor="start" x="5006" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="5089" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerViewDistanceChangeEvent</text>
-<polyline fill="none" stroke="black" points="4998,-204 5180,-204 "/>
-<text text-anchor="middle" x="5089" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="4998,-185 5180,-185 "/>
-<text text-anchor="start" x="5006" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="5006" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNewDistance()</text>
-<text text-anchor="start" x="5006" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOldDistance()</text>
-</a>
-</g>
-</g>
-<!-- Node1&#45;&gt;Node36 -->
-<g id="edge35" class="edge">
-<title>Node1&#45;&gt;Node36</title>
-<path fill="none" stroke="midnightblue" d="M2710.48,-341.61C3109.58,-336.96 4880.26,-314.07 4989,-273 5010.95,-264.71 5031.57,-249.46 5048.32,-234.27"/>
-<polygon fill="none" stroke="midnightblue" points="2710.15,-338.11 2700.19,-341.73 2710.23,-345.11 2710.15,-338.11"/>
+<path fill="none" stroke="midnightblue" d="M2588.07,-341.53C2978.28,-336.57 4684.08,-312.69 4789,-273 4810.95,-264.7 4831.57,-249.44 4848.31,-234.26"/>
+<polygon fill="none" stroke="midnightblue" points="2587.96,-338.03 2578.01,-341.66 2588.05,-345.03 2587.96,-338.03"/>
 </g>
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="../../d1/d2f/classpocketmine_1_1event_1_1_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="2563.5,-414.5 2563.5,-482.5 2698.5,-482.5 2698.5,-414.5 2563.5,-414.5"/>
-<text text-anchor="middle" x="2631" y="-470.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\Event</text>
-<polyline fill="none" stroke="#bfbfbf" points="2563.5,-463.5 2698.5,-463.5 "/>
-<text text-anchor="start" x="2571.5" y="-451.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $eventName</text>
-<polyline fill="none" stroke="#bfbfbf" points="2563.5,-444.5 2698.5,-444.5 "/>
-<text text-anchor="start" x="2571.5" y="-432.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ call()</text>
-<text text-anchor="start" x="2571.5" y="-421.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEventName()</text>
+<polygon fill="white" stroke="#bfbfbf" points="2441.5,-414.5 2441.5,-482.5 2576.5,-482.5 2576.5,-414.5 2441.5,-414.5"/>
+<text text-anchor="middle" x="2509" y="-470.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\Event</text>
+<polyline fill="none" stroke="#bfbfbf" points="2441.5,-463.5 2576.5,-463.5 "/>
+<text text-anchor="start" x="2449.5" y="-451.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $eventName</text>
+<polyline fill="none" stroke="#bfbfbf" points="2441.5,-444.5 2576.5,-444.5 "/>
+<text text-anchor="start" x="2449.5" y="-432.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ call()</text>
+<text text-anchor="start" x="2449.5" y="-421.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEventName()</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
 <title>Node2&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M2631,-404.14C2631,-395.26 2631,-386.04 2631,-377.59"/>
-<polygon fill="none" stroke="midnightblue" points="2627.5,-404.34 2631,-414.34 2634.5,-404.34 2627.5,-404.34"/>
+<path fill="none" stroke="midnightblue" d="M2509,-404.14C2509,-395.26 2509,-386.04 2509,-377.59"/>
+<polygon fill="none" stroke="midnightblue" points="2505.5,-404.34 2509,-414.34 2512.5,-404.34 2505.5,-404.34"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node">

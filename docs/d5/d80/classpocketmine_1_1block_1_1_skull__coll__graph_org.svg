@@ -41,11 +41,11 @@
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="../../d3/d1e/classpocketmine_1_1block_1_1_flowable.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="52.8,-281.5 52.8,-371.5 213.8,-371.5 213.8,-281.5 52.8,-281.5"/>
+<polygon fill="white" stroke="black" points="52.8,-281.5 52.8,-371.5 213.8,-371.5 213.8,-281.5 52.8,-281.5"/>
 <text text-anchor="middle" x="133.3" y="-359.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Flowable</text>
-<polyline fill="none" stroke="#bfbfbf" points="52.8,-352.5 213.8,-352.5 "/>
+<polyline fill="none" stroke="black" points="52.8,-352.5 213.8,-352.5 "/>
 <text text-anchor="middle" x="133.3" y="-340.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="52.8,-333.5 213.8,-333.5 "/>
+<polyline fill="none" stroke="black" points="52.8,-333.5 213.8,-333.5 "/>
 <text text-anchor="start" x="60.8" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
 <text text-anchor="start" x="60.8" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSupportType()</text>
 <text text-anchor="start" x="60.8" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isSolid()</text>
@@ -63,11 +63,11 @@
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="../../d5/d1b/classpocketmine_1_1block_1_1_transparent.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="75.8,-420.5 75.8,-477.5 238.8,-477.5 238.8,-420.5 75.8,-420.5"/>
+<polygon fill="white" stroke="black" points="75.8,-420.5 75.8,-477.5 238.8,-477.5 238.8,-420.5 75.8,-420.5"/>
 <text text-anchor="middle" x="157.3" y="-465.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Transparent</text>
-<polyline fill="none" stroke="#bfbfbf" points="75.8,-458.5 238.8,-458.5 "/>
+<polyline fill="none" stroke="black" points="75.8,-458.5 238.8,-458.5 "/>
 <text text-anchor="middle" x="157.3" y="-446.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="75.8,-439.5 238.8,-439.5 "/>
+<polyline fill="none" stroke="black" points="75.8,-439.5 238.8,-439.5 "/>
 <text text-anchor="start" x="83.8" y="-427.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isTransparent()</text>
 </a>
 </g>

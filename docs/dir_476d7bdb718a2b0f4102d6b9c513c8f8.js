@@ -10,9 +10,5 @@ var dir_476d7bdb718a2b0f4102d6b9c513c8f8 =
     [ "BlockStateSerializeException.php", "d7/d41/_block_state_serialize_exception_8php_source.html", null ],
     [ "BlockStateSerializer.php", "df/d82/_block_state_serializer_8php_source.html", null ],
     [ "BlockStateStringValues.php", "d5/d56/_block_state_string_values_8php_source.html", null ],
-    [ "BlockTypeNames.php", "db/de4/_block_type_names_8php_source.html", null ],
-    [ "CachingBlockStateDeserializer.php", "d5/d3f/_caching_block_state_deserializer_8php_source.html", null ],
-    [ "CachingBlockStateSerializer.php", "d2/d77/_caching_block_state_serializer_8php_source.html", null ],
-    [ "DelegatingBlockStateDeserializer.php", "de/db4/_delegating_block_state_deserializer_8php_source.html", null ],
-    [ "DelegatingBlockStateSerializer.php", "d9/d93/_delegating_block_state_serializer_8php_source.html", null ]
+    [ "BlockTypeNames.php", "db/de4/_block_type_names_8php_source.html", null ]
 ];

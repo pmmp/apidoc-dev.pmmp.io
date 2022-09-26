@@ -250,9 +250,9 @@
 <path fill="none" stroke="midnightblue" d="M4483.05,-718.52C4566.64,-707.55 4692.9,-686.82 4731.5,-658 4768.19,-630.6 4789.63,-580.66 4800.46,-547.52"/>
 <polygon fill="none" stroke="midnightblue" points="4482.55,-715.06 4473.08,-719.81 4483.44,-722 4482.55,-715.06"/>
 </g>
-<!-- Node98 -->
+<!-- Node97 -->
 <g id="node46" class="node">
-<title>Node98</title>
+<title>Node97</title>
 <g id="a_node46"><a xlink:href="../../d2/d1e/classpocketmine_1_1event_1_1player_1_1_player_pre_login_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="4896.5,-369.5 4896.5,-657.5 5066.5,-657.5 5066.5,-369.5 4896.5,-369.5"/>
 <text text-anchor="start" x="4904.5" y="-645.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
@@ -284,15 +284,15 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node98 -->
+<!-- Node1&#45;&gt;Node97 -->
 <g id="edge45" class="edge">
-<title>Node1&#45;&gt;Node98</title>
+<title>Node1&#45;&gt;Node97</title>
 <path fill="none" stroke="midnightblue" d="M4483.55,-723.98C4602.44,-717.34 4822.02,-699.7 4887.5,-658 4890.51,-656.08 4893.45,-654.03 4896.32,-651.85"/>
 <polygon fill="none" stroke="midnightblue" points="4483.21,-720.49 4473.42,-724.53 4483.59,-727.48 4483.21,-720.49"/>
 </g>
-<!-- Node99 -->
+<!-- Node98 -->
 <g id="node47" class="node">
-<title>Node99</title>
+<title>Node98</title>
 <g id="a_node47"><a xlink:href="../../de/d58/classpocketmine_1_1event_1_1plugin_1_1_plugin_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="orangered" points="5085,-474 5085,-553 5222,-553 5222,-474 5085,-474"/>
 <text text-anchor="start" x="5093" y="-541" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\plugin</text>
@@ -305,15 +305,15 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node99 -->
+<!-- Node1&#45;&gt;Node98 -->
 <g id="edge46" class="edge">
-<title>Node1&#45;&gt;Node99</title>
+<title>Node1&#45;&gt;Node98</title>
 <path fill="none" stroke="midnightblue" d="M4483.54,-728.32C4638.93,-728.53 4980.27,-721.5 5075.5,-658 5111.83,-633.77 5132.68,-586.76 5143.52,-553.15"/>
 <polygon fill="none" stroke="midnightblue" points="4483.13,-724.81 4473.13,-728.29 4483.12,-731.81 4483.13,-724.81"/>
 </g>
-<!-- Node102 -->
+<!-- Node101 -->
 <g id="node48" class="node">
-<title>Node102</title>
+<title>Node101</title>
 <g id="a_node48"><a xlink:href="../../d1/d77/classpocketmine_1_1event_1_1server_1_1_server_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="orangered" points="5240.5,-479.5 5240.5,-547.5 5378.5,-547.5 5378.5,-479.5 5240.5,-479.5"/>
 <text text-anchor="start" x="5248.5" y="-535.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\server</text>
@@ -325,15 +325,15 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node102 -->
+<!-- Node1&#45;&gt;Node101 -->
 <g id="edge47" class="edge">
-<title>Node1&#45;&gt;Node102</title>
+<title>Node1&#45;&gt;Node101</title>
 <path fill="none" stroke="midnightblue" d="M4483.2,-725.13C4676.83,-718.65 5169.72,-698.34 5231.5,-658 5270.2,-632.73 5291.24,-581.46 5301.42,-547.55"/>
 <polygon fill="none" stroke="midnightblue" points="4482.98,-721.64 4473.1,-725.47 4483.21,-728.63 4482.98,-721.64"/>
 </g>
-<!-- Node112 -->
+<!-- Node111 -->
 <g id="node49" class="node">
-<title>Node112</title>
+<title>Node111</title>
 <g id="a_node49"><a xlink:href="../../d9/d97/classpocketmine_1_1event_1_1world_1_1_world_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="orangered" points="5396.5,-474 5396.5,-553 5530.5,-553 5530.5,-474 5396.5,-474"/>
 <text text-anchor="start" x="5404.5" y="-541" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\world</text>
@@ -346,9 +346,9 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node112 -->
+<!-- Node1&#45;&gt;Node111 -->
 <g id="edge48" class="edge">
-<title>Node1&#45;&gt;Node112</title>
+<title>Node1&#45;&gt;Node111</title>
 <path fill="none" stroke="midnightblue" d="M4483.35,-726.29C4702.31,-722.3 5312.47,-706.86 5387.5,-658 5424,-634.23 5444.12,-586.89 5454.35,-553.08"/>
 <polygon fill="none" stroke="midnightblue" points="4483.16,-722.79 4473.22,-726.47 4483.28,-729.79 4483.16,-722.79"/>
 </g>

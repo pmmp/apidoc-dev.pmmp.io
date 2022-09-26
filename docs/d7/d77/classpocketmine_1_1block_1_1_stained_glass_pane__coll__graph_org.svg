@@ -47,11 +47,11 @@
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="../../d2/d75/classpocketmine_1_1block_1_1_thin.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="245.8,-212.5 245.8,-291.5 406.8,-291.5 406.8,-212.5 245.8,-212.5"/>
+<polygon fill="white" stroke="black" points="245.8,-212.5 245.8,-291.5 406.8,-291.5 406.8,-212.5 245.8,-212.5"/>
 <text text-anchor="middle" x="326.3" y="-279.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Thin</text>
-<polyline fill="none" stroke="#bfbfbf" points="245.8,-272.5 406.8,-272.5 "/>
+<polyline fill="none" stroke="black" points="245.8,-272.5 406.8,-272.5 "/>
 <text text-anchor="start" x="253.8" y="-260.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $connections</text>
-<polyline fill="none" stroke="#bfbfbf" points="245.8,-253.5 406.8,-253.5 "/>
+<polyline fill="none" stroke="black" points="245.8,-253.5 406.8,-253.5 "/>
 <text text-anchor="start" x="253.8" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSupportType()</text>
 <text text-anchor="start" x="253.8" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ readStateFromWorld()</text>
 <text text-anchor="start" x="253.8" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
@@ -68,11 +68,11 @@
 <g id="node4" class="node">
 <title>Node4</title>
 <g id="a_node4"><a xlink:href="../../d5/d1b/classpocketmine_1_1block_1_1_transparent.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="244.8,-329.5 244.8,-386.5 407.8,-386.5 407.8,-329.5 244.8,-329.5"/>
+<polygon fill="white" stroke="black" points="244.8,-329.5 244.8,-386.5 407.8,-386.5 407.8,-329.5 244.8,-329.5"/>
 <text text-anchor="middle" x="326.3" y="-374.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Transparent</text>
-<polyline fill="none" stroke="#bfbfbf" points="244.8,-367.5 407.8,-367.5 "/>
+<polyline fill="none" stroke="black" points="244.8,-367.5 407.8,-367.5 "/>
 <text text-anchor="middle" x="326.3" y="-355.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="244.8,-348.5 407.8,-348.5 "/>
+<polyline fill="none" stroke="black" points="244.8,-348.5 407.8,-348.5 "/>
 <text text-anchor="start" x="252.8" y="-336.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isTransparent()</text>
 </a>
 </g>

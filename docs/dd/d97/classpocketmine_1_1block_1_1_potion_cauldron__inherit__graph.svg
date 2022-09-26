@@ -114,11 +114,11 @@ var sectionId = 'dynsection-0';
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="../../d5/d1b/classpocketmine_1_1block_1_1_transparent.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="8.5,-441.5 8.5,-498.5 171.5,-498.5 171.5,-441.5 8.5,-441.5"/>
+<polygon fill="white" stroke="black" points="8.5,-441.5 8.5,-498.5 171.5,-498.5 171.5,-441.5 8.5,-441.5"/>
 <text text-anchor="middle" x="90" y="-486.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Transparent</text>
-<polyline fill="none" stroke="#bfbfbf" points="8.5,-479.5 171.5,-479.5 "/>
+<polyline fill="none" stroke="black" points="8.5,-479.5 171.5,-479.5 "/>
 <text text-anchor="middle" x="90" y="-467.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="8.5,-460.5 171.5,-460.5 "/>
+<polyline fill="none" stroke="black" points="8.5,-460.5 171.5,-460.5 "/>
 <text text-anchor="start" x="16.5" y="-448.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isTransparent()</text>
 </a>
 </g>

@@ -32,11 +32,11 @@
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="../../db/dc5/classpocketmine_1_1block_1_1_opaque.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="16.5,-160.5 16.5,-217.5 159.5,-217.5 159.5,-160.5 16.5,-160.5"/>
+<polygon fill="white" stroke="black" points="16.5,-160.5 16.5,-217.5 159.5,-217.5 159.5,-160.5 16.5,-160.5"/>
 <text text-anchor="middle" x="88" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Opaque</text>
-<polyline fill="none" stroke="#bfbfbf" points="16.5,-198.5 159.5,-198.5 "/>
+<polyline fill="none" stroke="black" points="16.5,-198.5 159.5,-198.5 "/>
 <text text-anchor="middle" x="88" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="16.5,-179.5 159.5,-179.5 "/>
+<polyline fill="none" stroke="black" points="16.5,-179.5 159.5,-179.5 "/>
 <text text-anchor="start" x="24.5" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isSolid()</text>
 </a>
 </g>

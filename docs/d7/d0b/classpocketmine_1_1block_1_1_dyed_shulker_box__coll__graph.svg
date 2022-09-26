@@ -99,11 +99,11 @@ var sectionId = 'dynsection-1';
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="../../db/dc5/classpocketmine_1_1block_1_1_opaque.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="254.8,-278.5 254.8,-335.5 397.8,-335.5 397.8,-278.5 254.8,-278.5"/>
+<polygon fill="white" stroke="black" points="254.8,-278.5 254.8,-335.5 397.8,-335.5 397.8,-278.5 254.8,-278.5"/>
 <text text-anchor="middle" x="326.3" y="-323.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Opaque</text>
-<polyline fill="none" stroke="#bfbfbf" points="254.8,-316.5 397.8,-316.5 "/>
+<polyline fill="none" stroke="black" points="254.8,-316.5 397.8,-316.5 "/>
 <text text-anchor="middle" x="326.3" y="-304.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="254.8,-297.5 397.8,-297.5 "/>
+<polyline fill="none" stroke="black" points="254.8,-297.5 397.8,-297.5 "/>
 <text text-anchor="start" x="262.8" y="-285.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isSolid()</text>
 </a>
 </g>
