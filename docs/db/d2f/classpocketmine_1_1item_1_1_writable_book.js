@@ -38,6 +38,7 @@ var classpocketmine_1_1item_1_1_writable_book =
     [ "onDestroyBlock", "db/d2f/classpocketmine_1_1item_1_1_writable_book.html#ae2543fd294d689ca6850d5bc78710522", null ],
     [ "onInteractBlock", "db/d2f/classpocketmine_1_1item_1_1_writable_book.html#abd2688f008221d4c5fcdacac754d807e", null ],
     [ "onReleaseUsing", "db/d2f/classpocketmine_1_1item_1_1_writable_book.html#a71289362f9d561347b5c8c2717eb0512", null ],
+    [ "onTickWorn", "db/d2f/classpocketmine_1_1item_1_1_writable_book.html#aba073e91196cf2978057ec4d3842aa76", null ],
     [ "pageExists", "db/d2f/classpocketmine_1_1item_1_1_writable_book.html#a0889a74b4c775fc288bf5d3730516318", null ],
     [ "pop", "db/d2f/classpocketmine_1_1item_1_1_writable_book.html#a67b44433c553602d7c851b1ca23e6e5e", null ],
     [ "setCanDestroy", "db/d2f/classpocketmine_1_1item_1_1_writable_book.html#ac7e878537e8ea68cc0d4d565f9f25062", null ],

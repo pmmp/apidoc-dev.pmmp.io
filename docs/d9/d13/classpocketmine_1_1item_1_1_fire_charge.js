@@ -33,6 +33,7 @@ var classpocketmine_1_1item_1_1_fire_charge =
     [ "onDestroyBlock", "d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#ae2543fd294d689ca6850d5bc78710522", null ],
     [ "onInteractBlock", "d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#aa46b353b8b7765f4ab780a997a55affc", null ],
     [ "onReleaseUsing", "d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#a71289362f9d561347b5c8c2717eb0512", null ],
+    [ "onTickWorn", "d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#aba073e91196cf2978057ec4d3842aa76", null ],
     [ "pop", "d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#a67b44433c553602d7c851b1ca23e6e5e", null ],
     [ "setCanDestroy", "d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#ac7e878537e8ea68cc0d4d565f9f25062", null ],
     [ "setCanPlaceOn", "d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#aa807b0fa5751723fed80570a4de1231b", null ],

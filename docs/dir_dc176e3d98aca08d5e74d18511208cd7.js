@@ -109,6 +109,7 @@ var dir_dc176e3d98aca08d5e74d18511208cd7 =
     [ "Tool.php", "d8/d4d/_tool_8php_source.html", null ],
     [ "ToolTier.php", "db/d8a/_tool_tier_8php_source.html", null ],
     [ "Totem.php", "df/da1/_totem_8php_source.html", null ],
+    [ "TurtleHelmet.php", "d3/d81/_turtle_helmet_8php_source.html", null ],
     [ "VanillaItems.php", "df/da6/_vanilla_items_8php_source.html", null ],
     [ "WheatSeeds.php", "df/d8e/_wheat_seeds_8php_source.html", null ],
     [ "WritableBook.php", "d1/de0/_writable_book_8php_source.html", null ],

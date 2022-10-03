@@ -120,6 +120,7 @@ var namespacepocketmine_1_1item =
     [ "Tool", "da/de7/classpocketmine_1_1item_1_1_tool.html", "da/de7/classpocketmine_1_1item_1_1_tool" ],
     [ "ToolTier", "d8/df8/classpocketmine_1_1item_1_1_tool_tier.html", null ],
     [ "Totem", "d2/d09/classpocketmine_1_1item_1_1_totem.html", "d2/d09/classpocketmine_1_1item_1_1_totem" ],
+    [ "TurtleHelmet", "d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html", "d8/d87/classpocketmine_1_1item_1_1_turtle_helmet" ],
     [ "VanillaItems", "d9/dff/classpocketmine_1_1item_1_1_vanilla_items.html", "d9/dff/classpocketmine_1_1item_1_1_vanilla_items" ],
     [ "WheatSeeds", "d4/d0e/classpocketmine_1_1item_1_1_wheat_seeds.html", "d4/d0e/classpocketmine_1_1item_1_1_wheat_seeds" ],
     [ "WritableBook", "db/d2f/classpocketmine_1_1item_1_1_writable_book.html", "db/d2f/classpocketmine_1_1item_1_1_writable_book" ],

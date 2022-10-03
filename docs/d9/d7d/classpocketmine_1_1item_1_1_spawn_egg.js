@@ -33,6 +33,7 @@ var classpocketmine_1_1item_1_1_spawn_egg =
     [ "onDestroyBlock", "d9/d7d/classpocketmine_1_1item_1_1_spawn_egg.html#ae2543fd294d689ca6850d5bc78710522", null ],
     [ "onInteractBlock", "d9/d7d/classpocketmine_1_1item_1_1_spawn_egg.html#a0b017fd3ffbcf94b247ea57f2c2ed93d", null ],
     [ "onReleaseUsing", "d9/d7d/classpocketmine_1_1item_1_1_spawn_egg.html#a71289362f9d561347b5c8c2717eb0512", null ],
+    [ "onTickWorn", "d9/d7d/classpocketmine_1_1item_1_1_spawn_egg.html#aba073e91196cf2978057ec4d3842aa76", null ],
     [ "pop", "d9/d7d/classpocketmine_1_1item_1_1_spawn_egg.html#a67b44433c553602d7c851b1ca23e6e5e", null ],
     [ "setCanDestroy", "d9/d7d/classpocketmine_1_1item_1_1_spawn_egg.html#ac7e878537e8ea68cc0d4d565f9f25062", null ],
     [ "setCanPlaceOn", "d9/d7d/classpocketmine_1_1item_1_1_spawn_egg.html#aa807b0fa5751723fed80570a4de1231b", null ],

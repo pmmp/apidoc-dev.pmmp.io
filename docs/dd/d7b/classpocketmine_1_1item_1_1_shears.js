@@ -38,6 +38,7 @@ var classpocketmine_1_1item_1_1_shears =
     [ "onDestroyBlock", "dd/d7b/classpocketmine_1_1item_1_1_shears.html#a83fa5321f4bf6d803bb4b72279abb801", null ],
     [ "onInteractBlock", "dd/d7b/classpocketmine_1_1item_1_1_shears.html#abd2688f008221d4c5fcdacac754d807e", null ],
     [ "onReleaseUsing", "dd/d7b/classpocketmine_1_1item_1_1_shears.html#a71289362f9d561347b5c8c2717eb0512", null ],
+    [ "onTickWorn", "dd/d7b/classpocketmine_1_1item_1_1_shears.html#aba073e91196cf2978057ec4d3842aa76", null ],
     [ "pop", "dd/d7b/classpocketmine_1_1item_1_1_shears.html#a67b44433c553602d7c851b1ca23e6e5e", null ],
     [ "setCanDestroy", "dd/d7b/classpocketmine_1_1item_1_1_shears.html#ac7e878537e8ea68cc0d4d565f9f25062", null ],
     [ "setCanPlaceOn", "dd/d7b/classpocketmine_1_1item_1_1_shears.html#aa807b0fa5751723fed80570a4de1231b", null ],

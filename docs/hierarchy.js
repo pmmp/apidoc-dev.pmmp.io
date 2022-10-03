@@ -1112,7 +1112,9 @@ var hierarchy =
         [ "pocketmine\\item\\Compass", "d1/d18/classpocketmine_1_1item_1_1_compass.html", null ],
         [ "pocketmine\\item\\CoralFan", "d6/d83/classpocketmine_1_1item_1_1_coral_fan.html", null ],
         [ "pocketmine\\item\\Durable", "dc/d20/classpocketmine_1_1item_1_1_durable.html", [
-          [ "pocketmine\\item\\Armor", "db/d85/classpocketmine_1_1item_1_1_armor.html", null ],
+          [ "pocketmine\\item\\Armor", "db/d85/classpocketmine_1_1item_1_1_armor.html", [
+            [ "pocketmine\\item\\TurtleHelmet", "d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html", null ]
+          ] ],
           [ "pocketmine\\item\\FishingRod", "d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html", null ],
           [ "pocketmine\\item\\Tool", "da/de7/classpocketmine_1_1item_1_1_tool.html", [
             [ "pocketmine\\item\\Bow", "d5/dbc/classpocketmine_1_1item_1_1_bow.html", null ],
@@ -1791,7 +1793,8 @@ var hierarchy =
     [ "pocketmine\\permission\\Permissible", "de/da0/interfacepocketmine_1_1permission_1_1_permissible.html", [
       [ "pocketmine\\command\\CommandSender", "d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html", [
         [ "pocketmine\\console\\ConsoleCommandSender", "da/dad/classpocketmine_1_1console_1_1_console_command_sender.html", null ],
-        [ "pocketmine\\player\\Player", "d0/d6f/classpocketmine_1_1player_1_1_player.html", null ]
+        [ "pocketmine\\player\\Player", "d0/d6f/classpocketmine_1_1player_1_1_player.html", null ],
+        [ "pocketmine\\utils\\BroadcastLoggerForwarder", "d7/de3/classpocketmine_1_1utils_1_1_broadcast_logger_forwarder.html", null ]
       ] ],
       [ "pocketmine\\permission\\PermissibleBase", "da/dbf/classpocketmine_1_1permission_1_1_permissible_base.html", null ],
       [ "pocketmine\\permission\\PermissibleInternal", "d9/d10/classpocketmine_1_1permission_1_1_permissible_internal.html", null ]
@@ -2017,6 +2020,7 @@ var hierarchy =
       [ "pocketmine\\world\\sound\\BucketEmptyWaterSound", "de/d5e/classpocketmine_1_1world_1_1sound_1_1_bucket_empty_water_sound.html", null ],
       [ "pocketmine\\world\\sound\\BucketFillLavaSound", "d1/d7a/classpocketmine_1_1world_1_1sound_1_1_bucket_fill_lava_sound.html", null ],
       [ "pocketmine\\world\\sound\\BucketFillWaterSound", "d7/dfe/classpocketmine_1_1world_1_1sound_1_1_bucket_fill_water_sound.html", null ],
+      [ "pocketmine\\world\\sound\\BurpSound", "d3/d67/classpocketmine_1_1world_1_1sound_1_1_burp_sound.html", null ],
       [ "pocketmine\\world\\sound\\CauldronAddDyeSound", "d2/d9e/classpocketmine_1_1world_1_1sound_1_1_cauldron_add_dye_sound.html", null ],
       [ "pocketmine\\world\\sound\\CauldronCleanItemSound", "dc/d08/classpocketmine_1_1world_1_1sound_1_1_cauldron_clean_item_sound.html", null ],
       [ "pocketmine\\world\\sound\\CauldronDyeItemSound", "de/d4d/classpocketmine_1_1world_1_1sound_1_1_cauldron_dye_item_sound.html", null ],
@@ -2069,6 +2073,7 @@ var hierarchy =
       [ "pocketmine\\world\\sound\\RecordStopSound", "d7/d19/classpocketmine_1_1world_1_1sound_1_1_record_stop_sound.html", null ],
       [ "pocketmine\\world\\sound\\RedstonePowerOffSound", "d6/d02/classpocketmine_1_1world_1_1sound_1_1_redstone_power_off_sound.html", null ],
       [ "pocketmine\\world\\sound\\RedstonePowerOnSound", "d8/df1/classpocketmine_1_1world_1_1sound_1_1_redstone_power_on_sound.html", null ],
+      [ "pocketmine\\world\\sound\\ScrapeSound", "d1/d7b/classpocketmine_1_1world_1_1sound_1_1_scrape_sound.html", null ],
       [ "pocketmine\\world\\sound\\ShulkerBoxCloseSound", "d2/d06/classpocketmine_1_1world_1_1sound_1_1_shulker_box_close_sound.html", null ],
       [ "pocketmine\\world\\sound\\ShulkerBoxOpenSound", "d6/db0/classpocketmine_1_1world_1_1sound_1_1_shulker_box_open_sound.html", null ],
       [ "pocketmine\\world\\sound\\SmokerSound", "de/d81/classpocketmine_1_1world_1_1sound_1_1_smoker_sound.html", null ],

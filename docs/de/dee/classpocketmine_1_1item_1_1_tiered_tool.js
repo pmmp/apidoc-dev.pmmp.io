@@ -38,6 +38,7 @@ var classpocketmine_1_1item_1_1_tiered_tool =
     [ "onDestroyBlock", "de/dee/classpocketmine_1_1item_1_1_tiered_tool.html#ae2543fd294d689ca6850d5bc78710522", null ],
     [ "onInteractBlock", "de/dee/classpocketmine_1_1item_1_1_tiered_tool.html#abd2688f008221d4c5fcdacac754d807e", null ],
     [ "onReleaseUsing", "de/dee/classpocketmine_1_1item_1_1_tiered_tool.html#a71289362f9d561347b5c8c2717eb0512", null ],
+    [ "onTickWorn", "de/dee/classpocketmine_1_1item_1_1_tiered_tool.html#aba073e91196cf2978057ec4d3842aa76", null ],
     [ "pop", "de/dee/classpocketmine_1_1item_1_1_tiered_tool.html#a67b44433c553602d7c851b1ca23e6e5e", null ],
     [ "setCanDestroy", "de/dee/classpocketmine_1_1item_1_1_tiered_tool.html#ac7e878537e8ea68cc0d4d565f9f25062", null ],
     [ "setCanPlaceOn", "de/dee/classpocketmine_1_1item_1_1_tiered_tool.html#aa807b0fa5751723fed80570a4de1231b", null ],

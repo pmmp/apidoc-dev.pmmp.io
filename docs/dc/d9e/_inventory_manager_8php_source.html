@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA5 git-ab0202ba294c6a151b0f5f473cac782170144f2b</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA5 git-1c6a2b66f7d93e88ecc3949da0c3208b08b8916e</span>
    </div>
   </td>
  </tr>
@@ -373,7 +373,7 @@ $(document).ready(function(){initNavTree('dc/d9e/_inventory_manager_8php_source.
 <div class="line"><a id="l00331" name="l00331"></a><span class="lineno">  331</span> </div>
 <div class="line"><a id="l00332" name="l00332"></a><span class="lineno">  332</span>    <span class="keyword">public</span> <span class="keyword">function</span> onClientRemoveWindow(<span class="keywordtype">int</span> $id) : void{</div>
 <div class="line"><a id="l00333" name="l00333"></a><span class="lineno">  333</span>        if($id === $this-&gt;lastInventoryNetworkId){</div>
-<div class="line"><a id="l00334" name="l00334"></a><span class="lineno">  334</span>            <span class="keywordflow">if</span>($id !== $this-&gt;pendingCloseWindowId){</div>
+<div class="line"><a id="l00334" name="l00334"></a><span class="lineno">  334</span>            <span class="keywordflow">if</span>(isset($this-&gt;windowMap[$id]) &amp;&amp; $id !== $this-&gt;pendingCloseWindowId){</div>
 <div class="line"><a id="l00335" name="l00335"></a><span class="lineno">  335</span>                $this-&gt;<span class="keyword">remove</span>($id);</div>
 <div class="line"><a id="l00336" name="l00336"></a><span class="lineno">  336</span>                $this-&gt;player-&gt;removeCurrentWindow();</div>
 <div class="line"><a id="l00337" name="l00337"></a><span class="lineno">  337</span>            }</div>
@@ -535,7 +535,7 @@ $(document).ready(function(){initNavTree('dc/d9e/_inventory_manager_8php_source.
 <div class="ttc" id="aclasspocketmine_1_1inventory_1_1_creative_inventory_html"><div class="ttname"><a href="../../d3/d3e/classpocketmine_1_1inventory_1_1_creative_inventory.html">pocketmine\inventory\CreativeInventory</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dc/dd9/_creative_inventory_8php_source.html#l00032">CreativeInventory.php:32</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1inventory_1_1transaction_1_1_inventory_transaction_html"><div class="ttname"><a href="../../d3/de1/classpocketmine_1_1inventory_1_1transaction_1_1_inventory_transaction.html">pocketmine\inventory\transaction\InventoryTransaction</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d6c/_inventory_transaction_8php_source.html#l00057">InventoryTransaction.php:57</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1inventory_1_1transaction_1_1action_1_1_slot_change_action_html"><div class="ttname"><a href="../../d9/dc8/classpocketmine_1_1inventory_1_1transaction_1_1action_1_1_slot_change_action.html">pocketmine\inventory\transaction\action\SlotChangeAction</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d24/_slot_change_action_8php_source.html#l00035">SlotChangeAction.php:35</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">pocketmine\item\Item</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d98/_item_8php_source.html#l00058">Item.php:58</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">pocketmine\item\Item</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d98/_item_8php_source.html#l00059">Item.php:59</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1network_1_1_packet_handling_exception_html"><div class="ttname"><a href="../../d1/d78/classpocketmine_1_1network_1_1_packet_handling_exception.html">pocketmine\network\PacketHandlingException</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d3a/_packet_handling_exception_8php_source.html#l00030">PacketHandlingException.php:30</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1network_1_1mcpe_1_1_complex_window_map_entry_html"><div class="ttname"><a href="../../db/d59/classpocketmine_1_1network_1_1mcpe_1_1_complex_window_map_entry.html">pocketmine\network\mcpe\ComplexWindowMapEntry</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d3/d98/_complex_window_map_entry_8php_source.html#l00028">ComplexWindowMapEntry.php:28</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1network_1_1mcpe_1_1_inventory_manager_html"><div class="ttname"><a href="../../d3/da1/classpocketmine_1_1network_1_1mcpe_1_1_inventory_manager.html">pocketmine\network\mcpe\InventoryManager</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d9e/_inventory_manager_8php_source.html#l00074">InventoryManager.php:74</a></div></div>

@@ -33,6 +33,7 @@ var classpocketmine_1_1item_1_1_stick =
     [ "onDestroyBlock", "db/db5/classpocketmine_1_1item_1_1_stick.html#ae2543fd294d689ca6850d5bc78710522", null ],
     [ "onInteractBlock", "db/db5/classpocketmine_1_1item_1_1_stick.html#abd2688f008221d4c5fcdacac754d807e", null ],
     [ "onReleaseUsing", "db/db5/classpocketmine_1_1item_1_1_stick.html#a71289362f9d561347b5c8c2717eb0512", null ],
+    [ "onTickWorn", "db/db5/classpocketmine_1_1item_1_1_stick.html#aba073e91196cf2978057ec4d3842aa76", null ],
     [ "pop", "db/db5/classpocketmine_1_1item_1_1_stick.html#a67b44433c553602d7c851b1ca23e6e5e", null ],
     [ "setCanDestroy", "db/db5/classpocketmine_1_1item_1_1_stick.html#ac7e878537e8ea68cc0d4d565f9f25062", null ],
     [ "setCanPlaceOn", "db/db5/classpocketmine_1_1item_1_1_stick.html#aa807b0fa5751723fed80570a4de1231b", null ],

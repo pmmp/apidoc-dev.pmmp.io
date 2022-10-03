@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA5 git-ab0202ba294c6a151b0f5f473cac782170144f2b</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA5 git-1c6a2b66f7d93e88ecc3949da0c3208b08b8916e</span>
    </div>
   </td>
  </tr>
@@ -128,7 +128,7 @@ $(document).ready(function(){initNavTree('d0/d43/_copper_trait_8php_source.html'
 <div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>use <a class="code hl_class" href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html">pocketmine\player\Player</a>;</div>
 <div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>use <a class="code hl_class" href="../../df/d22/classpocketmine_1_1world_1_1sound_1_1_copper_wax_apply_sound.html">pocketmine\world\sound\CopperWaxApplySound</a>;</div>
 <div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>use <a class="code hl_class" href="../../da/db6/classpocketmine_1_1world_1_1sound_1_1_copper_wax_remove_sound.html">pocketmine\world\sound\CopperWaxRemoveSound</a>;</div>
-<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>use <a class="code hl_class" href="../../d5/d62/classpocketmine_1_1world_1_1sound_1_1_item_use_on_block_sound.html">pocketmine\world\sound\ItemUseOnBlockSound</a>;</div>
+<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>use <a class="code hl_class" href="../../d1/d7b/classpocketmine_1_1world_1_1sound_1_1_scrape_sound.html">pocketmine\world\sound\ScrapeSound</a>;</div>
 <div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span> </div>
 <div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>trait CopperTrait{</div>
 <div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>    <span class="keyword">private</span> CopperOxidation $oxidation;</div>
@@ -185,7 +185,7 @@ $(document).ready(function(){initNavTree('d0/d43/_copper_trait_8php_source.html'
 <div class="line"><a id="l00093" name="l00093"></a><span class="lineno">   93</span>                $this-&gt;oxidation = $previousOxidation;</div>
 <div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span>                $this-&gt;position-&gt;getWorld()-&gt;setBlock($this-&gt;position, $this);</div>
 <div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span>                <span class="comment">//TODO: turquoise particles are supposed to appear when removing oxidation</span></div>
-<div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span>                $this-&gt;position-&gt;getWorld()-&gt;addSound($this-&gt;position, <span class="keyword">new</span> ItemUseOnBlockSound($this));</div>
+<div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span>                $this-&gt;position-&gt;getWorld()-&gt;addSound($this-&gt;position, <span class="keyword">new</span> ScrapeSound());</div>
 <div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span>                $item-&gt;applyDamage(1);</div>
 <div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span>            }</div>
@@ -199,13 +199,13 @@ $(document).ready(function(){initNavTree('d0/d43/_copper_trait_8php_source.html'
 <div class="ttc" id="aclasspocketmine_1_1data_1_1runtime_1_1_runtime_data_reader_html"><div class="ttname"><a href="../../de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html">pocketmine\data\runtime\RuntimeDataReader</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/db2/_runtime_data_reader_8php_source.html#l00033">RuntimeDataReader.php:33</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1data_1_1runtime_1_1_runtime_data_writer_html"><div class="ttname"><a href="../../dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer.html">pocketmine\data\runtime\RuntimeDataWriter</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d31/_runtime_data_writer_8php_source.html#l00033">RuntimeDataWriter.php:33</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_axe_html"><div class="ttname"><a href="../../d5/d0a/classpocketmine_1_1item_1_1_axe.html">pocketmine\item\Axe</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d81/_axe_8php_source.html#l00030">Axe.php:30</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">pocketmine\item\Item</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d98/_item_8php_source.html#l00058">Item.php:58</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">pocketmine\item\Item</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d98/_item_8php_source.html#l00059">Item.php:59</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_item_type_ids_html"><div class="ttname"><a href="../../d9/d6f/classpocketmine_1_1item_1_1_item_type_ids.html">pocketmine\item\ItemTypeIds</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d4/d6d/_item_type_ids_8php_source.html#l00033">ItemTypeIds.php:33</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1math_1_1_vector3_html"><div class="ttname"><a href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">pocketmine\math\Vector3</a></div><div class="ttdef"><b>Definition:</b> <a href="../../de/d7b/_vector3_8php_source.html#l00036">Vector3.php:36</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1player_1_1_player_html"><div class="ttname"><a href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html">pocketmine\player\Player</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d76/_player_8php_source.html#l00162">Player.php:162</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1sound_1_1_copper_wax_apply_sound_html"><div class="ttname"><a href="../../df/d22/classpocketmine_1_1world_1_1sound_1_1_copper_wax_apply_sound.html">pocketmine\world\sound\CopperWaxApplySound</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/ddb/_copper_wax_apply_sound_8php_source.html#l00030">CopperWaxApplySound.php:30</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1sound_1_1_copper_wax_remove_sound_html"><div class="ttname"><a href="../../da/db6/classpocketmine_1_1world_1_1sound_1_1_copper_wax_remove_sound.html">pocketmine\world\sound\CopperWaxRemoveSound</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/db6/_copper_wax_remove_sound_8php_source.html#l00030">CopperWaxRemoveSound.php:30</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1world_1_1sound_1_1_item_use_on_block_sound_html"><div class="ttname"><a href="../../d5/d62/classpocketmine_1_1world_1_1sound_1_1_item_use_on_block_sound.html">pocketmine\world\sound\ItemUseOnBlockSound</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d4/d77/_item_use_on_block_sound_8php_source.html#l00032">ItemUseOnBlockSound.php:32</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1world_1_1sound_1_1_scrape_sound_html"><div class="ttname"><a href="../../d1/d7b/classpocketmine_1_1world_1_1sound_1_1_scrape_sound.html">pocketmine\world\sound\ScrapeSound</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d03/_scrape_sound_8php_source.html#l00030">ScrapeSound.php:30</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
