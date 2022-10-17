@@ -42,7 +42,7 @@ var namespacepocketmine_1_1block =
       [ "SupportType", "d2/dbe/classpocketmine_1_1block_1_1utils_1_1_support_type.html", null ],
       [ "TreeType", "d7/de7/classpocketmine_1_1block_1_1utils_1_1_tree_type.html", null ],
       [ "WallConnectionType", "d1/dfb/classpocketmine_1_1block_1_1utils_1_1_wall_connection_type.html", null ],
-      [ "WoodType", "d8/d35/classpocketmine_1_1block_1_1utils_1_1_wood_type.html", "d8/d35/classpocketmine_1_1block_1_1utils_1_1_wood_type" ]
+      [ "WoodType", "d8/d35/classpocketmine_1_1block_1_1utils_1_1_wood_type.html", null ]
     ] ],
     [ "ActivatorRail", "d6/d7d/classpocketmine_1_1block_1_1_activator_rail.html", "d6/d7d/classpocketmine_1_1block_1_1_activator_rail" ],
     [ "Air", "d7/d31/classpocketmine_1_1block_1_1_air.html", "d7/d31/classpocketmine_1_1block_1_1_air" ],

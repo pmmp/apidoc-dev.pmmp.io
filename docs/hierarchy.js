@@ -120,6 +120,7 @@ var hierarchy =
         [ "pocketmine\\block\\LapisOre", "dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html", null ],
         [ "pocketmine\\block\\Loom", "df/d1f/classpocketmine_1_1block_1_1_loom.html", null ],
         [ "pocketmine\\block\\Magma", "d5/d81/classpocketmine_1_1block_1_1_magma.html", null ],
+        [ "pocketmine\\block\\Melon", "de/d38/classpocketmine_1_1block_1_1_melon.html", null ],
         [ "pocketmine\\block\\MushroomStem", "dc/d63/classpocketmine_1_1block_1_1_mushroom_stem.html", null ],
         [ "pocketmine\\block\\Mycelium", "d1/d9b/classpocketmine_1_1block_1_1_mycelium.html", null ],
         [ "pocketmine\\block\\NetherGoldOre", "de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html", null ],
@@ -296,7 +297,6 @@ var hierarchy =
           [ "pocketmine\\block\\Water", "d2/d3e/classpocketmine_1_1block_1_1_water.html", null ]
         ] ],
         [ "pocketmine\\block\\MangroveRoots", "d8/db0/classpocketmine_1_1block_1_1_mangrove_roots.html", null ],
-        [ "pocketmine\\block\\Melon", "de/d38/classpocketmine_1_1block_1_1_melon.html", null ],
         [ "pocketmine\\block\\MonsterSpawner", "de/db3/classpocketmine_1_1block_1_1_monster_spawner.html", null ],
         [ "pocketmine\\block\\NetherPortal", "d1/d55/classpocketmine_1_1block_1_1_nether_portal.html", null ],
         [ "pocketmine\\block\\PressurePlate", "de/d89/classpocketmine_1_1block_1_1_pressure_plate.html", [

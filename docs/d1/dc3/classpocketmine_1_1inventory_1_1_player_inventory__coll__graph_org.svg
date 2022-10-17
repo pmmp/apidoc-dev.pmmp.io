@@ -415,9 +415,9 @@
 <g id="node18" class="node">
 <title>Node18</title>
 <g id="a_node18"><a xlink:href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="1956,-2809.5 1956,-3119.5 2128,-3119.5 2128,-2809.5 1956,-2809.5"/>
+<polygon fill="white" stroke="black" points="1956,-2809.5 1956,-3119.5 2128,-3119.5 2128,-2809.5 1956,-2809.5"/>
 <text text-anchor="middle" x="2042" y="-3107.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\World</text>
-<polyline fill="none" stroke="#bfbfbf" points="1956,-3100.5 2128,-3100.5 "/>
+<polyline fill="none" stroke="black" points="1956,-3100.5 2128,-3100.5 "/>
 <text text-anchor="start" x="1964" y="-3088.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $stopTime</text>
 <text text-anchor="start" x="1964" y="-3077.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $tickRateTime</text>
 <text text-anchor="start" x="1964" y="-3066.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $updateEntities</text>
@@ -425,7 +425,7 @@
 <text text-anchor="start" x="1964" y="-3044.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TIME_SUNSET</text>
 <text text-anchor="start" x="1964" y="-3033.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Y_MAX</text>
 <text text-anchor="start" x="1964" y="-3022.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Y_MIN</text>
-<polyline fill="none" stroke="#bfbfbf" points="1956,-3015.5 2128,-3015.5 "/>
+<polyline fill="none" stroke="black" points="1956,-3015.5 2128,-3015.5 "/>
 <text text-anchor="start" x="1964" y="-3003.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
 <text text-anchor="start" x="1964" y="-2992.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __debugInfo()</text>
 <text text-anchor="start" x="1964" y="-2981.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addEntity()</text>

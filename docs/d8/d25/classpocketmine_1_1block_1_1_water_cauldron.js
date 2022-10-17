@@ -17,7 +17,6 @@ var classpocketmine_1_1block_1_1_water_cauldron =
     [ "getAllSides", "d8/d25/classpocketmine_1_1block_1_1_water_cauldron.html#afe506084e4bb8741a7ac64f6d90c00a5", null ],
     [ "getBreakInfo", "d8/d25/classpocketmine_1_1block_1_1_water_cauldron.html#aa4773f0153324728a2f41820fa52442d", null ],
     [ "getCollisionBoxes", "d8/d25/classpocketmine_1_1block_1_1_water_cauldron.html#a104403fbe0f0d27d8a5ac667cd1a89ef", null ],
-    [ "getCustomWaterColor", "d8/d25/classpocketmine_1_1block_1_1_water_cauldron.html#a000b078754f0f39b160c37b05b868406", null ],
     [ "getDrops", "d8/d25/classpocketmine_1_1block_1_1_water_cauldron.html#ab4d678fcc49f71fc70fff710482f3f4e", null ],
     [ "getDropsForCompatibleTool", "d8/d25/classpocketmine_1_1block_1_1_water_cauldron.html#a6d3cefce63d654d994f2e1b5dcc11c54", null ],
     [ "getDropsForIncompatibleTool", "d8/d25/classpocketmine_1_1block_1_1_water_cauldron.html#afe4928a6da38d63eccea78bd1a2fdcd3", null ],

@@ -129,9 +129,9 @@ var sectionId = 'dynsection-1';
 <g id="node6" class="node">
 <title>Node6</title>
 <g id="a_node6"><a xlink:href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="103.5,-580.5 103.5,-890.5 275.5,-890.5 275.5,-580.5 103.5,-580.5"/>
+<polygon fill="white" stroke="black" points="103.5,-580.5 103.5,-890.5 275.5,-890.5 275.5,-580.5 103.5,-580.5"/>
 <text text-anchor="middle" x="189.5" y="-878.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\World</text>
-<polyline fill="none" stroke="#bfbfbf" points="103.5,-871.5 275.5,-871.5 "/>
+<polyline fill="none" stroke="black" points="103.5,-871.5 275.5,-871.5 "/>
 <text text-anchor="start" x="111.5" y="-859.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $stopTime</text>
 <text text-anchor="start" x="111.5" y="-848.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $tickRateTime</text>
 <text text-anchor="start" x="111.5" y="-837.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $updateEntities</text>
@@ -139,7 +139,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="111.5" y="-815.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TIME_SUNSET</text>
 <text text-anchor="start" x="111.5" y="-804.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Y_MAX</text>
 <text text-anchor="start" x="111.5" y="-793.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Y_MIN</text>
-<polyline fill="none" stroke="#bfbfbf" points="103.5,-786.5 275.5,-786.5 "/>
+<polyline fill="none" stroke="black" points="103.5,-786.5 275.5,-786.5 "/>
 <text text-anchor="start" x="111.5" y="-774.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
 <text text-anchor="start" x="111.5" y="-763.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __debugInfo()</text>
 <text text-anchor="start" x="111.5" y="-752.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addEntity()</text>

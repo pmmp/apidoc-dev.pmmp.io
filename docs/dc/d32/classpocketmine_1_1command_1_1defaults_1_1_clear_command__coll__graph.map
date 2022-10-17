@@ -1,8 +1,7 @@
 <map id="pocketmine\command\defaults\ClearCommand" name="pocketmine\command\defaults\ClearCommand">
-<area shape="rect" id="node1" title=" " alt="" coords="208,852,392,973"/>
-<area shape="rect" id="node2" href="$d5/dfa/classpocketmine_1_1command_1_1defaults_1_1_vanilla_command.html" title=" " alt="" coords="203,667,397,803"/>
-<area shape="rect" id="node3" href="$d6/df1/classpocketmine_1_1command_1_1_command.html" title=" " alt="" coords="97,336,333,589"/>
-<area shape="rect" id="node4" href="$da/d80/classpocketmine_1_1lang_1_1_translatable.html" title=" " alt="" coords="5,49,219,215"/>
-<area shape="rect" id="node5" href="$d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html" title=" " alt="" coords="243,5,394,259"/>
-<area shape="rect" id="node6" title=" " alt="" coords="357,424,414,501"/>
+<area shape="rect" id="node1" title=" " alt="" coords="117,764,301,885"/>
+<area shape="rect" id="node2" href="$d5/dfa/classpocketmine_1_1command_1_1defaults_1_1_vanilla_command.html" title=" " alt="" coords="111,579,306,715"/>
+<area shape="rect" id="node3" href="$d6/df1/classpocketmine_1_1command_1_1_command.html" title=" " alt="" coords="5,248,241,501"/>
+<area shape="rect" id="node4" href="$da/d80/classpocketmine_1_1lang_1_1_translatable.html" title=" " alt="" coords="17,5,230,171"/>
+<area shape="rect" id="node5" title=" " alt="" coords="265,336,323,413"/>
 </map>

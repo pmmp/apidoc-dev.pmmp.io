@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA5 git-1c6a2b66f7d93e88ecc3949da0c3208b08b8916e</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA5 git-9f6c6b2b7180efc2a813e92b8978bc5b6c7136b5</span>
    </div>
   </td>
  </tr>
@@ -207,11 +207,11 @@ $(document).ready(function(){initNavTree('db/deb/_explosion_8php_source.html','.
 <div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span>                            <span class="keywordflow">if</span>($blastResistance &gt;= 0){</div>
 <div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>                                $blastForce -= ($blastResistance / 5 + 0.3) * $this-&gt;stepLen;</div>
 <div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>                                <span class="keywordflow">if</span>($blastForce &gt; 0){</div>
-<div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>                                    <span class="keywordflow">if</span>(!isset($this-&gt;affectedBlocks[World::blockHash($vBlockX, $vBlockY, $vBlockZ)])){</div>
+<div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>                                    <span class="keywordflow">if</span>(!isset($this-&gt;affectedBlocks[<a class="code hl_function" href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html#acc9cf8f49b0adeebf371dde72ad490ba">World::blockHash</a>($vBlockX, $vBlockY, $vBlockZ)])){</div>
 <div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>                                        $_block = $this-&gt;world-&gt;getBlockAt($vBlockX, $vBlockY, $vBlockZ, <span class="keyword">true</span>, <span class="keyword">false</span>);</div>
 <div class="line"><a id="l00123" name="l00123"></a><span class="lineno">  123</span>                                        <span class="keywordflow">foreach</span>($_block-&gt;getAffectedBlocks() as $_affectedBlock){</div>
 <div class="line"><a id="l00124" name="l00124"></a><span class="lineno">  124</span>                                            $_affectedBlockPos = $_affectedBlock-&gt;getPosition();</div>
-<div class="line"><a id="l00125" name="l00125"></a><span class="lineno">  125</span>                                            $this-&gt;affectedBlocks[World::blockHash($_affectedBlockPos-&gt;x, $_affectedBlockPos-&gt;y, $_affectedBlockPos-&gt;z)] = $_affectedBlock;</div>
+<div class="line"><a id="l00125" name="l00125"></a><span class="lineno">  125</span>                                            $this-&gt;affectedBlocks[<a class="code hl_function" href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html#acc9cf8f49b0adeebf371dde72ad490ba">World::blockHash</a>($_affectedBlockPos-&gt;x, $_affectedBlockPos-&gt;y, $_affectedBlockPos-&gt;z)] = $_affectedBlock;</div>
 <div class="line"><a id="l00126" name="l00126"></a><span class="lineno">  126</span>                                        }</div>
 <div class="line"><a id="l00127" name="l00127"></a><span class="lineno">  127</span>                                    }</div>
 <div class="line"><a id="l00128" name="l00128"></a><span class="lineno">  128</span>                                }</div>
@@ -271,7 +271,7 @@ $(document).ready(function(){initNavTree('db/deb/_explosion_8php_source.html','.
 <div class="line"><a id="l00187" name="l00187"></a><span class="lineno">  187</span>                }</div>
 <div class="line"><a id="l00188" name="l00188"></a><span class="lineno">  188</span> </div>
 <div class="line"><a id="l00189" name="l00189"></a><span class="lineno">  189</span>                $entity-&gt;attack($ev);</div>
-<div class="line"><a id="l00190" name="l00190"></a><span class="lineno">  190</span>                $entity-&gt;setMotion($motion-&gt;multiply($impact));</div>
+<div class="line"><a id="l00190" name="l00190"></a><span class="lineno">  190</span>                $entity-&gt;setMotion($entity-&gt;getMotion()-&gt;addVector($motion-&gt;multiply($impact)));</div>
 <div class="line"><a id="l00191" name="l00191"></a><span class="lineno">  191</span>            }</div>
 <div class="line"><a id="l00192" name="l00192"></a><span class="lineno">  192</span>        }</div>
 <div class="line"><a id="l00193" name="l00193"></a><span class="lineno">  193</span> </div>
@@ -317,7 +317,8 @@ $(document).ready(function(){initNavTree('db/deb/_explosion_8php_source.html','.
 <div class="ttc" id="aclasspocketmine_1_1world_1_1_explosion_html_ad68b706732575363a6004a43661a823f"><div class="ttname"><a href="../../d9/df8/classpocketmine_1_1world_1_1_explosion.html#ad68b706732575363a6004a43661a823f">pocketmine\world\Explosion\explodeB</a></div><div class="ttdeci">explodeB()</div><div class="ttdef"><b>Definition:</b> <a href="../../db/deb/_explosion_8php_source.html#l00143">Explosion.php:143</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1_explosion_html_afed8a045f9c5b92f43d61066d03421bc"><div class="ttname"><a href="../../d9/df8/classpocketmine_1_1world_1_1_explosion.html#afed8a045f9c5b92f43d61066d03421bc">pocketmine\world\Explosion\explodeA</a></div><div class="ttdeci">explodeA()</div><div class="ttdef"><b>Definition:</b> <a href="../../db/deb/_explosion_8php_source.html#l00079">Explosion.php:79</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1_position_html"><div class="ttname"><a href="../../d5/dd2/classpocketmine_1_1world_1_1_position.html">pocketmine\world\Position</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d7/d0f/_position_8php_source.html#l00030">Position.php:30</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1world_1_1_world_html"><div class="ttname"><a href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html">pocketmine\world\World</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d88/_world_8php_source.html#l00134">World.php:134</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1world_1_1_world_html"><div class="ttname"><a href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html">pocketmine\world\World</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d88/_world_8php_source.html#l00139">World.php:139</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1world_1_1_world_html_acc9cf8f49b0adeebf371dde72ad490ba"><div class="ttname"><a href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html#acc9cf8f49b0adeebf371dde72ad490ba">pocketmine\world\World\blockHash</a></div><div class="ttdeci">static blockHash(int $x, int $y, int $z)</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d88/_world_8php_source.html#l00372">World.php:372</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1format_1_1_sub_chunk_html"><div class="ttname"><a href="../../de/dda/classpocketmine_1_1world_1_1format_1_1_sub_chunk.html">pocketmine\world\format\SubChunk</a></div><div class="ttdef"><b>Definition:</b> <a href="../../de/d9c/_sub_chunk_8php_source.html#l00030">SubChunk.php:30</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1particle_1_1_huge_explode_seed_particle_html"><div class="ttname"><a href="../../de/d4e/classpocketmine_1_1world_1_1particle_1_1_huge_explode_seed_particle.html">pocketmine\world\particle\HugeExplodeSeedParticle</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d37/_huge_explode_seed_particle_8php_source.html#l00030">HugeExplodeSeedParticle.php:30</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1sound_1_1_explode_sound_html"><div class="ttname"><a href="../../d8/d1f/classpocketmine_1_1world_1_1sound_1_1_explode_sound.html">pocketmine\world\sound\ExplodeSound</a></div><div class="ttdef"><b>Definition:</b> <a href="../../de/ddb/_explode_sound_8php_source.html#l00030">ExplodeSound.php:30</a></div></div>

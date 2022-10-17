@@ -72,22 +72,23 @@
 <g id="node5" class="node">
 <title>Node5</title>
 <g id="a_node5"><a xlink:href="../../d5/dd4/classpocketmine_1_1event_1_1server_1_1_data_packet_send_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="316,-122 316,-212 454,-212 454,-122 316,-122"/>
-<text text-anchor="start" x="324" y="-200" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\server</text>
-<text text-anchor="middle" x="385" y="-189" font-family="Helvetica,sans-Serif" font-size="10.00">\DataPacketSendEvent</text>
-<polyline fill="none" stroke="black" points="316,-182 454,-182 "/>
-<text text-anchor="middle" x="385" y="-170" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="316,-163 454,-163 "/>
-<text text-anchor="start" x="324" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="324" y="-140" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPackets()</text>
-<text text-anchor="start" x="324" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00">+ getTargets()</text>
+<polygon fill="white" stroke="black" points="316,-116.5 316,-217.5 454,-217.5 454,-116.5 316,-116.5"/>
+<text text-anchor="start" x="324" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\server</text>
+<text text-anchor="middle" x="385" y="-194.5" font-family="Helvetica,sans-Serif" font-size="10.00">\DataPacketSendEvent</text>
+<polyline fill="none" stroke="black" points="316,-187.5 454,-187.5 "/>
+<text text-anchor="middle" x="385" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="316,-168.5 454,-168.5 "/>
+<text text-anchor="start" x="324" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="324" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPackets()</text>
+<text text-anchor="start" x="324" y="-134.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getTargets()</text>
+<text text-anchor="start" x="324" y="-123.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPackets()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
 <title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M493.33,-258.62C475.72,-243.89 455.68,-227.13 437.66,-212.05"/>
+<path fill="none" stroke="midnightblue" d="M493.35,-258.64C477.92,-245.73 460.62,-231.26 444.44,-217.73"/>
 <polygon fill="none" stroke="midnightblue" points="491.32,-261.5 501.23,-265.23 495.81,-256.13 491.32,-261.5"/>
 </g>
 <!-- Node6 -->
