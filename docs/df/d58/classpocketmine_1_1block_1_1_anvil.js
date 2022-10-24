@@ -59,7 +59,7 @@ var classpocketmine_1_1block_1_1_anvil =
     [ "readStateFromWorld", "df/d58/classpocketmine_1_1block_1_1_anvil.html#a3a46169e7d256b3a1f3af8c54ddba832", null ],
     [ "recalculateCollisionBoxes", "df/d58/classpocketmine_1_1block_1_1_anvil.html#a369d5d4b4101dfceaec31ca6891d3d8c", null ],
     [ "setDamage", "df/d58/classpocketmine_1_1block_1_1_anvil.html#a5b66c7177221dce37b45b8e0028a642f", null ],
-    [ "tickFalling", "df/d58/classpocketmine_1_1block_1_1_anvil.html#a07d885fc1ef894ab8f2496d6dc9df8c3", null ],
+    [ "tickFalling", "df/d58/classpocketmine_1_1block_1_1_anvil.html#a5d57dfa3ec1e755788fab0ed75de9d99", null ],
     [ "ticksRandomly", "df/d58/classpocketmine_1_1block_1_1_anvil.html#ab6b90601adfc9732893dcffe256514a9", null ],
     [ "writeStateToWorld", "df/d58/classpocketmine_1_1block_1_1_anvil.html#a9404d9040389f3ff2462f86d9a181160", null ]
 ];

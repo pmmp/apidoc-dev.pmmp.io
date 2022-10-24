@@ -721,21 +721,20 @@
 <g id="node33" class="node">
 <title>Node34</title>
 <g id="a_node33"><a xlink:href="../../d1/d31/classpocketmine_1_1block_1_1_gravel.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="5434,-44.5 5434,-123.5 5604,-123.5 5604,-44.5 5434,-44.5"/>
-<text text-anchor="middle" x="5519" y="-111.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Gravel</text>
-<polyline fill="none" stroke="#bfbfbf" points="5434,-104.5 5604,-104.5 "/>
-<text text-anchor="middle" x="5519" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="5434,-85.5 5604,-85.5 "/>
-<text text-anchor="start" x="5442" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
-<text text-anchor="start" x="5442" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isAffectedBySilkTouch()</text>
-<text text-anchor="start" x="5442" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ tickFalling()</text>
+<polygon fill="white" stroke="#bfbfbf" points="5434,-50 5434,-118 5604,-118 5604,-50 5434,-50"/>
+<text text-anchor="middle" x="5519" y="-106" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Gravel</text>
+<polyline fill="none" stroke="#bfbfbf" points="5434,-99 5604,-99 "/>
+<text text-anchor="middle" x="5519" y="-87" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="5434,-80 5604,-80 "/>
+<text text-anchor="start" x="5442" y="-68" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
+<text text-anchor="start" x="5442" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">+ isAffectedBySilkTouch()</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node34 -->
 <g id="edge32" class="edge">
 <title>Node2&#45;&gt;Node34</title>
-<path fill="none" stroke="midnightblue" d="M4197.8,-204.37C4371.5,-181.01 5300.71,-217.11 5425,-168 5448.69,-158.64 5470.36,-140.5 5486.91,-123.56"/>
+<path fill="none" stroke="midnightblue" d="M4197.8,-204.37C4371.5,-181.01 5300.71,-217.11 5425,-168 5451.12,-157.68 5474.78,-136.68 5491.84,-118.39"/>
 <polygon fill="none" stroke="midnightblue" points="4197.02,-200.95 4187.68,-205.96 4198.11,-207.87 4197.02,-200.95"/>
 </g>
 <!-- Node35 -->

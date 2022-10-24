@@ -1,5 +1,5 @@
 <map id="pocketmine\block\Gravel" name="pocketmine\block\Gravel">
-<area shape="rect" id="node1" title=" " alt="" coords="428,2139,655,2245"/>
+<area shape="rect" id="node1" title=" " alt="" coords="428,2139,655,2231"/>
 <area shape="rect" id="node2" href="$db/dc5/classpocketmine_1_1block_1_1_opaque.html" title=" " alt="" coords="345,2005,536,2082"/>
 <area shape="rect" id="node3" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="333,1651,548,1948"/>
 <area shape="rect" id="node4" title=" " alt="" coords="10,541,68,619"/>

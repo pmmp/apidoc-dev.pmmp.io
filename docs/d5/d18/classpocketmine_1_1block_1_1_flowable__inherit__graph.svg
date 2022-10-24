@@ -761,32 +761,31 @@ var sectionId = 'dynsection-0';
 <g id="node39" class="node">
 <title>Node48</title>
 <g id="a_node39"><a xlink:href="../../d6/dfd/classpocketmine_1_1block_1_1_snow_layer.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="4797.5,-221 4797.5,-421 4967.5,-421 4967.5,-221 4797.5,-221"/>
-<text text-anchor="middle" x="4882.5" y="-409" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\SnowLayer</text>
-<polyline fill="none" stroke="#bfbfbf" points="4797.5,-402 4967.5,-402 "/>
-<text text-anchor="start" x="4805.5" y="-390" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_LAYERS</text>
-<text text-anchor="start" x="4805.5" y="-379" font-family="Helvetica,sans-Serif" font-size="10.00">+ MIN_LAYERS</text>
-<text text-anchor="start" x="4805.5" y="-368" font-family="Helvetica,sans-Serif" font-size="10.00"># $layers</text>
-<polyline fill="none" stroke="#bfbfbf" points="4797.5,-361 4967.5,-361 "/>
-<text text-anchor="start" x="4805.5" y="-349" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeReplaced()</text>
-<text text-anchor="start" x="4805.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
-<text text-anchor="start" x="4805.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLayers()</text>
-<text text-anchor="start" x="4805.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
-<text text-anchor="start" x="4805.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSupportType()</text>
-<text text-anchor="start" x="4805.5" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">+ onRandomTick()</text>
-<text text-anchor="start" x="4805.5" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
-<text text-anchor="start" x="4805.5" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00">+ setLayers()</text>
-<text text-anchor="start" x="4805.5" y="-261" font-family="Helvetica,sans-Serif" font-size="10.00">+ tickFalling()</text>
-<text text-anchor="start" x="4805.5" y="-250" font-family="Helvetica,sans-Serif" font-size="10.00">+ ticksRandomly()</text>
-<text text-anchor="start" x="4805.5" y="-239" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
-<text text-anchor="start" x="4805.5" y="-228" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
+<polygon fill="white" stroke="#bfbfbf" points="4797.5,-226.5 4797.5,-415.5 4967.5,-415.5 4967.5,-226.5 4797.5,-226.5"/>
+<text text-anchor="middle" x="4882.5" y="-403.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\SnowLayer</text>
+<polyline fill="none" stroke="#bfbfbf" points="4797.5,-396.5 4967.5,-396.5 "/>
+<text text-anchor="start" x="4805.5" y="-384.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_LAYERS</text>
+<text text-anchor="start" x="4805.5" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MIN_LAYERS</text>
+<text text-anchor="start" x="4805.5" y="-362.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $layers</text>
+<polyline fill="none" stroke="#bfbfbf" points="4797.5,-355.5 4967.5,-355.5 "/>
+<text text-anchor="start" x="4805.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeReplaced()</text>
+<text text-anchor="start" x="4805.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
+<text text-anchor="start" x="4805.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLayers()</text>
+<text text-anchor="start" x="4805.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
+<text text-anchor="start" x="4805.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSupportType()</text>
+<text text-anchor="start" x="4805.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onRandomTick()</text>
+<text text-anchor="start" x="4805.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="4805.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setLayers()</text>
+<text text-anchor="start" x="4805.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ticksRandomly()</text>
+<text text-anchor="start" x="4805.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="4805.5" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node48 -->
 <g id="edge38" class="edge">
 <title>Node1&#45;&gt;Node48</title>
-<path fill="none" stroke="midnightblue" d="M3496.48,-528.65C3786.27,-525.32 4675.41,-510.18 4788.5,-449 4801.53,-441.95 4813.24,-432.23 4823.62,-421.27"/>
+<path fill="none" stroke="midnightblue" d="M3496.48,-528.65C3786.27,-525.32 4675.41,-510.18 4788.5,-449 4803.7,-440.78 4817.11,-428.91 4828.69,-415.69"/>
 <polygon fill="none" stroke="midnightblue" points="3496.38,-525.15 3486.42,-528.76 3496.46,-532.15 3496.38,-525.15"/>
 </g>
 <!-- Node49 -->
