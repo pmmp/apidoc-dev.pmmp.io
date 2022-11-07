@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA5 git-d1d5020c5381f894ab132737efc9b141a484f517</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA5 git-68e862b6fa26fec380ffc7ad6d9f9f2c4c7e561d</span>
    </div>
   </td>
  </tr>
@@ -331,7 +331,7 @@ Protected Attributes</h2></td></tr>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d6c/_inventory_transaction_8php_source.html#l00302">302</a> of file <a class="el" href="../../dc/d6c/_inventory_transaction_8php_source.html">InventoryTransaction.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d6c/_inventory_transaction_8php_source.html#l00304">304</a> of file <a class="el" href="../../dc/d6c/_inventory_transaction_8php_source.html">InventoryTransaction.php</a>.</p>
 
 </div>
 </div>
@@ -375,7 +375,7 @@ Protected Attributes</h2></td></tr>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d6c/_inventory_transaction_8php_source.html#l00235">235</a> of file <a class="el" href="../../dc/d6c/_inventory_transaction_8php_source.html">InventoryTransaction.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d6c/_inventory_transaction_8php_source.html#l00237">237</a> of file <a class="el" href="../../dc/d6c/_inventory_transaction_8php_source.html">InventoryTransaction.php</a>.</p>
 
 </div>
 </div>
@@ -487,7 +487,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d6c/_inventory_transaction_8php_source.html#l00328">328</a> of file <a class="el" href="../../dc/d6c/_inventory_transaction_8php_source.html">InventoryTransaction.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d6c/_inventory_transaction_8php_source.html#l00330">330</a> of file <a class="el" href="../../dc/d6c/_inventory_transaction_8php_source.html">InventoryTransaction.php</a>.</p>
 
 </div>
 </div>
@@ -578,7 +578,7 @@ Protected Attributes</h2></td></tr>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramtype">Item[]</td><td class="paramname">$needItems</td><td></td></tr>
-    <tr><td class="paramtype">Item[]</td><td class="paramname">$haveItems</td><td></td></tr>
+    <tr><td class="paramtype">Item[]</td><td class="paramname">$haveItems</td><td>@phpstan-param-out Item[] $needItems @phpstan-param-out Item[] $haveItems</td></tr>
   </table>
   </dd>
 </dl>
@@ -589,7 +589,7 @@ Protected Attributes</h2></td></tr>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d6c/_inventory_transaction_8php_source.html#l00139">139</a> of file <a class="el" href="../../dc/d6c/_inventory_transaction_8php_source.html">InventoryTransaction.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d6c/_inventory_transaction_8php_source.html#l00141">141</a> of file <a class="el" href="../../dc/d6c/_inventory_transaction_8php_source.html">InventoryTransaction.php</a>.</p>
 
 </div>
 </div>
@@ -669,7 +669,7 @@ Protected Attributes</h2></td></tr>
 <p >Iterates over SlotChangeActions in this transaction and compacts any which refer to the same slot in the same inventory so they can be correctly handled.</p>
 <p >Under normal circumstances, the same slot would never be changed more than once in a single transaction. However, due to the way things like the crafting grid are "implemented" in MCPE 1.2 (a.k.a. hacked-in), we may get multiple slot changes referring to the same slot in a single transaction. These multiples are not even guaranteed to be in the correct order (slot splitting in the crafting grid for example, causes the actions to be sent in the wrong order), so this method also tries to chain them into order. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dc/d6c/_inventory_transaction_8php_source.html#l00188">188</a> of file <a class="el" href="../../dc/d6c/_inventory_transaction_8php_source.html">InventoryTransaction.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/d6c/_inventory_transaction_8php_source.html#l00190">190</a> of file <a class="el" href="../../dc/d6c/_inventory_transaction_8php_source.html">InventoryTransaction.php</a>.</p>
 
 </div>
 </div>
