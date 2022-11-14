@@ -1,6 +1,10 @@
 var NAVTREEINDEX223 =
 {
+"df/dfd/interfacepocketmine_1_1entity_1_1_food_source.html#a6749b3c6b45f7d1b192b60ccc8c9a832":[3,0,1,7,16,2],
+"df/dfd/interfacepocketmine_1_1entity_1_1_food_source.html#accd40cba3eefb1d5886f203da75aa5b8":[2,0,1,7,16,0],
+"df/dfd/interfacepocketmine_1_1entity_1_1_food_source.html#accd40cba3eefb1d5886f203da75aa5b8":[3,0,1,7,16,0],
 "df/dfd/interfacepocketmine_1_1entity_1_1_food_source.html#ad53358136d2834427c096078f598fa31":[2,0,1,7,16,1],
+"df/dfd/interfacepocketmine_1_1entity_1_1_food_source.html#ad53358136d2834427c096078f598fa31":[3,0,1,7,16,1],
 "df/dfe/_projectile_8php_source.html":[4,0,0,6,3,4],
 "df/dff/item_2_coal_8php_source.html":[4,0,0,10,23],
 "dir_0003aa60d4a21aee354b5b2fa826bf4b.html":[4,0,0,12,0,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX223 =
 "":[2,0,1,16,0,7],
 "":[2,0,1,16,0,8],
 "":[2,0,1,18],
-"":[2,0,1,7,4],
-"":[2,0,1,12,0],
-"":[2,0,1,20],
-"":[2,0,1,16,0,6,1,1],
-"":[2,0,1,16,0,6,1,6]
+"":[2,0,1,7,4]
 };

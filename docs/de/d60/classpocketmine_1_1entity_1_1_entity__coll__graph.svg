@@ -274,7 +274,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="107.08" y="-1494.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addTile()</text>
 <text text-anchor="start" x="107.08" y="-1483.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastPacketToViewers()</text>
 <text text-anchor="start" x="107.08" y="-1472.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ cancelUnloadChunkRequest()</text>
-<text text-anchor="start" x="107.08" y="-1461.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 113 more...</text>
+<text text-anchor="start" x="107.08" y="-1461.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 115 more...</text>
 <text text-anchor="start" x="107.08" y="-1450.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ blockHash()</text>
 <text text-anchor="start" x="107.08" y="-1439.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ chunkBlockHash()</text>
 <text text-anchor="start" x="107.08" y="-1428.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ chunkHash()</text>
