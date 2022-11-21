@@ -1,5 +1,6 @@
 var dir_8c559a8bd664375b6611e00b162a8314 =
 [
+    [ "AmethystBlockChimeSound.php", "d4/dab/_amethyst_block_chime_sound_8php_source.html", null ],
     [ "AnvilBreakSound.php", "de/d0c/_anvil_break_sound_8php_source.html", null ],
     [ "AnvilFallSound.php", "db/d5a/_anvil_fall_sound_8php_source.html", null ],
     [ "AnvilUseSound.php", "dd/dd1/_anvil_use_sound_8php_source.html", null ],

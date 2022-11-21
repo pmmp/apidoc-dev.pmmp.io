@@ -145,6 +145,7 @@ var dir_46a300e4974f45ffe4be063a03f2fd9d =
     [ "NetherQuartzOre.php", "dc/db9/_nether_quartz_ore_8php_source.html", null ],
     [ "Netherrack.php", "dd/d5d/_netherrack_8php_source.html", null ],
     [ "NetherReactor.php", "dc/d9d/_nether_reactor_8php_source.html", null ],
+    [ "NetherVines.php", "da/d06/_nether_vines_8php_source.html", null ],
     [ "NetherWartPlant.php", "de/dfe/_nether_wart_plant_8php_source.html", null ],
     [ "Note.php", "d6/dff/_note_8php_source.html", null ],
     [ "Opaque.php", "d1/dbc/_opaque_8php_source.html", null ],

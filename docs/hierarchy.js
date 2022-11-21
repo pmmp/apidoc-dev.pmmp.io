@@ -251,6 +251,7 @@ var hierarchy =
           [ "pocketmine\\block\\ItemFrame", "d9/dc4/classpocketmine_1_1block_1_1_item_frame.html", null ],
           [ "pocketmine\\block\\Lever", "d4/d31/classpocketmine_1_1block_1_1_lever.html", null ],
           [ "pocketmine\\block\\Light", "de/d0f/classpocketmine_1_1block_1_1_light.html", null ],
+          [ "pocketmine\\block\\NetherVines", "d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html", null ],
           [ "pocketmine\\block\\NetherWartPlant", "d8/d43/classpocketmine_1_1block_1_1_nether_wart_plant.html", null ],
           [ "pocketmine\\block\\RedMushroom", "d1/d03/classpocketmine_1_1block_1_1_red_mushroom.html", [
             [ "pocketmine\\block\\BrownMushroom", "df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html", null ]
@@ -2004,6 +2005,7 @@ var hierarchy =
     [ "pocketmine\\snooze\\SleeperHandler", "d7/d08/classpocketmine_1_1snooze_1_1_sleeper_handler.html", null ],
     [ "raklib\\generic\\Socket", "d9/d5c/classraklib_1_1generic_1_1_socket.html", null ],
     [ "pocketmine\\world\\sound\\Sound", "d7/dbd/interfacepocketmine_1_1world_1_1sound_1_1_sound.html", [
+      [ "pocketmine\\world\\sound\\AmethystBlockChimeSound", "d3/d33/classpocketmine_1_1world_1_1sound_1_1_amethyst_block_chime_sound.html", null ],
       [ "pocketmine\\world\\sound\\AnvilBreakSound", "d1/db6/classpocketmine_1_1world_1_1sound_1_1_anvil_break_sound.html", null ],
       [ "pocketmine\\world\\sound\\AnvilFallSound", "d0/d5b/classpocketmine_1_1world_1_1sound_1_1_anvil_fall_sound.html", null ],
       [ "pocketmine\\world\\sound\\AnvilUseSound", "db/d93/classpocketmine_1_1world_1_1sound_1_1_anvil_use_sound.html", null ],

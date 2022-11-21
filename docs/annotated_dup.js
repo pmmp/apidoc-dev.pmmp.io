@@ -232,6 +232,7 @@ var annotated_dup =
         [ "NetherQuartzOre", "d6/dd1/classpocketmine_1_1block_1_1_nether_quartz_ore.html", "d6/dd1/classpocketmine_1_1block_1_1_nether_quartz_ore" ],
         [ "Netherrack", "d5/d84/classpocketmine_1_1block_1_1_netherrack.html", "d5/d84/classpocketmine_1_1block_1_1_netherrack" ],
         [ "NetherReactor", "d7/de5/classpocketmine_1_1block_1_1_nether_reactor.html", "d7/de5/classpocketmine_1_1block_1_1_nether_reactor" ],
+        [ "NetherVines", "d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html", "d0/dbe/classpocketmine_1_1block_1_1_nether_vines" ],
         [ "NetherWartPlant", "d8/d43/classpocketmine_1_1block_1_1_nether_wart_plant.html", "d8/d43/classpocketmine_1_1block_1_1_nether_wart_plant" ],
         [ "Note", "d3/df5/classpocketmine_1_1block_1_1_note.html", "d3/df5/classpocketmine_1_1block_1_1_note" ],
         [ "Opaque", "db/dc5/classpocketmine_1_1block_1_1_opaque.html", "db/dc5/classpocketmine_1_1block_1_1_opaque" ],
@@ -1748,6 +1749,7 @@ var annotated_dup =
           [ "WaterParticle", "de/dd7/classpocketmine_1_1world_1_1particle_1_1_water_particle.html", "de/dd7/classpocketmine_1_1world_1_1particle_1_1_water_particle" ]
         ] ],
         [ "sound", null, [
+          [ "AmethystBlockChimeSound", "d3/d33/classpocketmine_1_1world_1_1sound_1_1_amethyst_block_chime_sound.html", "d3/d33/classpocketmine_1_1world_1_1sound_1_1_amethyst_block_chime_sound" ],
           [ "AnvilBreakSound", "d1/db6/classpocketmine_1_1world_1_1sound_1_1_anvil_break_sound.html", "d1/db6/classpocketmine_1_1world_1_1sound_1_1_anvil_break_sound" ],
           [ "AnvilFallSound", "d0/d5b/classpocketmine_1_1world_1_1sound_1_1_anvil_fall_sound.html", "d0/d5b/classpocketmine_1_1world_1_1sound_1_1_anvil_fall_sound" ],
           [ "AnvilUseSound", "db/d93/classpocketmine_1_1world_1_1sound_1_1_anvil_use_sound.html", "db/d93/classpocketmine_1_1world_1_1sound_1_1_anvil_use_sound" ],

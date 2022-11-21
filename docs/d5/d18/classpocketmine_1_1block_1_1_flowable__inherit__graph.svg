@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 6838;
+var viewWidth = 7026;
 var viewHeight = 992;
 var sectionId = 'dynsection-0';
 </script>
@@ -54,20 +54,20 @@ var sectionId = 'dynsection-0';
 <svg id="graph" class="graph">
 <g id="viewport">
 <title>pocketmine\block\Flowable</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-988 6833.5,-988 6833.5,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-988 7021.5,-988 7021.5,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="3325,-485.5 3325,-575.5 3486,-575.5 3486,-485.5 3325,-485.5"/>
-<text text-anchor="middle" x="3405.5" y="-563.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Flowable</text>
-<polyline fill="none" stroke="black" points="3325,-556.5 3486,-556.5 "/>
-<text text-anchor="middle" x="3405.5" y="-544.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="3325,-537.5 3486,-537.5 "/>
-<text text-anchor="start" x="3333" y="-525.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
-<text text-anchor="start" x="3333" y="-514.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSupportType()</text>
-<text text-anchor="start" x="3333" y="-503.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isSolid()</text>
-<text text-anchor="start" x="3333" y="-492.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
+<polygon fill="#bfbfbf" stroke="black" points="3416,-485.5 3416,-575.5 3577,-575.5 3577,-485.5 3416,-485.5"/>
+<text text-anchor="middle" x="3496.5" y="-563.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Flowable</text>
+<polyline fill="none" stroke="black" points="3416,-556.5 3577,-556.5 "/>
+<text text-anchor="middle" x="3496.5" y="-544.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="3416,-537.5 3577,-537.5 "/>
+<text text-anchor="start" x="3424" y="-525.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
+<text text-anchor="start" x="3424" y="-514.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSupportType()</text>
+<text text-anchor="start" x="3424" y="-503.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isSolid()</text>
+<text text-anchor="start" x="3424" y="-492.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
 </g>
@@ -88,8 +88,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node4 -->
 <g id="edge3" class="edge">
 <title>Node1&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M3314.31,-529.82C2798.83,-531.32 268,-534.3 128.5,-449 94.89,-428.45 76.55,-385.34 67.4,-355.07"/>
-<polygon fill="none" stroke="midnightblue" points="3314.68,-533.32 3324.67,-529.79 3314.65,-526.32 3314.68,-533.32"/>
+<path fill="none" stroke="midnightblue" d="M3405.7,-528.58C2875.47,-523.04 200.43,-492.95 128.5,-449 94.88,-428.46 76.55,-385.35 67.39,-355.07"/>
+<polygon fill="none" stroke="midnightblue" points="3405.94,-532.08 3415.97,-528.68 3406.01,-525.08 3405.94,-532.08"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
@@ -116,8 +116,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
 <title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M3314.55,-529.29C2819.35,-527.88 465.22,-517.59 328.5,-449 306.18,-437.8 287.29,-419.04 272.14,-399.33"/>
-<polygon fill="none" stroke="midnightblue" points="3314.85,-532.79 3324.86,-529.32 3314.87,-525.79 3314.85,-532.79"/>
+<path fill="none" stroke="midnightblue" d="M3405.7,-529.36C2902.11,-528.33 469.55,-519.69 328.5,-449 306.05,-437.75 287.07,-418.84 271.88,-399"/>
+<polygon fill="none" stroke="midnightblue" points="3405.82,-532.86 3415.83,-529.38 3405.83,-525.86 3405.82,-532.86"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">
@@ -139,8 +139,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node6 -->
 <g id="edge5" class="edge">
 <title>Node1&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M3314.35,-529.2C2837.12,-527.33 643.33,-515.15 516.5,-449 484.76,-432.45 460.95,-399.77 445.24,-371.7"/>
-<polygon fill="none" stroke="midnightblue" points="3314.62,-532.7 3324.63,-529.24 3314.65,-525.7 3314.62,-532.7"/>
+<path fill="none" stroke="midnightblue" d="M3405.63,-529.28C2919.97,-527.81 647.63,-517.32 516.5,-449 484.75,-432.46 460.95,-399.78 445.23,-371.71"/>
+<polygon fill="none" stroke="midnightblue" points="3405.74,-532.78 3415.75,-529.31 3405.76,-525.78 3405.74,-532.78"/>
 </g>
 <!-- Node9 -->
 <g id="node9" class="node">
@@ -165,8 +165,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node9 -->
 <g id="edge8" class="edge">
 <title>Node1&#45;&gt;Node9</title>
-<path fill="none" stroke="midnightblue" d="M3314.69,-528.89C2859.24,-525.59 841.01,-507.67 722.5,-449 695.66,-435.71 673.45,-411.81 656.61,-388.29"/>
-<polygon fill="none" stroke="midnightblue" points="3314.81,-532.4 3324.83,-528.97 3314.86,-525.4 3314.81,-532.4"/>
+<path fill="none" stroke="midnightblue" d="M3405.63,-528.99C2940.74,-526.1 845.32,-509.73 722.5,-449 695.65,-435.73 673.44,-411.82 656.6,-388.31"/>
+<polygon fill="none" stroke="midnightblue" points="3405.63,-532.49 3415.66,-529.05 3405.68,-525.49 3405.63,-532.49"/>
 </g>
 <!-- Node15 -->
 <g id="node12" class="node">
@@ -192,8 +192,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node15 -->
 <g id="edge11" class="edge">
 <title>Node1&#45;&gt;Node15</title>
-<path fill="none" stroke="midnightblue" d="M3314.72,-528.84C2878.1,-525.36 1010.67,-507.14 902.5,-449 879.41,-436.59 860.9,-415.35 846.81,-393.75"/>
-<polygon fill="none" stroke="midnightblue" points="3314.74,-532.34 3324.77,-528.92 3314.8,-525.34 3314.74,-532.34"/>
+<path fill="none" stroke="midnightblue" d="M3405.38,-528.94C2958.44,-525.92 1014.88,-509.33 902.5,-449 879.4,-436.6 860.89,-415.37 846.8,-393.77"/>
+<polygon fill="none" stroke="midnightblue" points="3405.64,-532.44 3415.66,-529.01 3405.68,-525.44 3405.64,-532.44"/>
 </g>
 <!-- Node18 -->
 <g id="node15" class="node">
@@ -217,8 +217,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node18 -->
 <g id="edge14" class="edge">
 <title>Node1&#45;&gt;Node18</title>
-<path fill="none" stroke="midnightblue" d="M3314.49,-528.61C2896.99,-524.25 1181.19,-503.08 1081.5,-449 1054.64,-434.43 1034.1,-407.81 1019.56,-382.7"/>
-<polygon fill="none" stroke="midnightblue" points="3314.66,-532.11 3324.7,-528.72 3314.73,-525.11 3314.66,-532.11"/>
+<path fill="none" stroke="midnightblue" d="M3405.8,-528.74C2978.82,-524.87 1185.44,-505.3 1081.5,-449 1054.63,-434.45 1034.09,-407.83 1019.55,-382.71"/>
+<polygon fill="none" stroke="midnightblue" points="3405.9,-532.24 3415.93,-528.83 3405.96,-525.24 3405.9,-532.24"/>
 </g>
 <!-- Node19 -->
 <g id="node16" class="node">
@@ -246,8 +246,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node19 -->
 <g id="edge15" class="edge">
 <title>Node1&#45;&gt;Node19</title>
-<path fill="none" stroke="midnightblue" d="M3314.69,-528.24C2919.49,-522.47 1365.19,-496.81 1273.5,-449 1253.77,-438.71 1236.96,-422.34 1223.18,-404.72"/>
-<polygon fill="none" stroke="midnightblue" points="3314.87,-531.74 3324.92,-528.39 3314.98,-524.74 3314.87,-531.74"/>
+<path fill="none" stroke="midnightblue" d="M3405.51,-528.38C2999.56,-523.11 1369.42,-498.92 1273.5,-449 1253.76,-438.73 1236.95,-422.36 1223.17,-404.74"/>
+<polygon fill="none" stroke="midnightblue" points="3405.69,-531.88 3415.74,-528.51 3405.78,-524.88 3405.69,-531.88"/>
 </g>
 <!-- Node20 -->
 <g id="node17" class="node">
@@ -268,8 +268,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node20 -->
 <g id="edge16" class="edge">
 <title>Node1&#45;&gt;Node20</title>
-<path fill="none" stroke="midnightblue" d="M3314.79,-527.92C2942.08,-521.13 1544.22,-492.86 1461.5,-449 1427.81,-431.14 1403,-395.23 1387.35,-366.14"/>
-<polygon fill="none" stroke="midnightblue" points="3314.93,-531.42 3324.99,-528.1 3315.06,-524.42 3314.93,-531.42"/>
+<path fill="none" stroke="midnightblue" d="M3405.72,-528.09C3021.95,-521.85 1548.44,-494.99 1461.5,-449 1427.8,-431.17 1402.98,-395.26 1387.34,-366.16"/>
+<polygon fill="none" stroke="midnightblue" points="3405.88,-531.59 3415.94,-528.26 3406,-524.59 3405.88,-531.59"/>
 </g>
 <!-- Node21 -->
 <g id="node18" class="node">
@@ -291,8 +291,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node21 -->
 <g id="edge17" class="edge">
 <title>Node1&#45;&gt;Node21</title>
-<path fill="none" stroke="midnightblue" d="M3314.89,-529.87C2976.26,-530.63 1796.89,-527.56 1649.5,-449 1618.03,-432.23 1594.28,-399.74 1578.53,-371.82"/>
-<polygon fill="none" stroke="midnightblue" points="3314.91,-533.37 3324.9,-529.84 3314.89,-526.37 3314.91,-533.37"/>
+<path fill="none" stroke="midnightblue" d="M3405.64,-530.09C3055.49,-531.76 1805.26,-531.8 1649.5,-449 1617.89,-432.2 1594.08,-399.52 1578.33,-371.53"/>
+<polygon fill="none" stroke="midnightblue" points="3405.76,-533.59 3415.74,-530.04 3405.72,-526.59 3405.76,-533.59"/>
 </g>
 <!-- Node22 -->
 <g id="node19" class="node">
@@ -319,13 +319,13 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node22 -->
 <g id="edge18" class="edge">
 <title>Node1&#45;&gt;Node22</title>
-<path fill="none" stroke="midnightblue" d="M3314.71,-529.45C2998.78,-528.64 1959.57,-520.51 1829.5,-449 1808.54,-437.48 1791.32,-418.74 1777.75,-399.16"/>
-<polygon fill="none" stroke="midnightblue" points="3314.74,-532.95 3324.75,-529.47 3314.76,-525.95 3314.74,-532.95"/>
+<path fill="none" stroke="midnightblue" d="M3405.57,-529.72C3077.64,-529.89 1967.87,-524.82 1829.5,-449 1808.53,-437.51 1791.3,-418.78 1777.73,-399.2"/>
+<polygon fill="none" stroke="midnightblue" points="3405.97,-533.22 3415.97,-529.71 3405.97,-526.22 3405.97,-533.22"/>
 </g>
 <!-- Node30 -->
-<g id="node23" class="node">
+<g id="node22" class="node">
 <title>Node30</title>
-<g id="a_node23"><a xlink:href="../../dc/dbe/classpocketmine_1_1block_1_1_dead_bush.html" target="_top" xlink:title=" ">
+<g id="a_node22"><a xlink:href="../../dc/dbe/classpocketmine_1_1block_1_1_dead_bush.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="1838.5,-265 1838.5,-377 2016.5,-377 2016.5,-265 1838.5,-265"/>
 <text text-anchor="middle" x="1927.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\DeadBush</text>
 <polyline fill="none" stroke="#bfbfbf" points="1838.5,-358 2016.5,-358 "/>
@@ -341,15 +341,15 @@ var sectionId = 'dynsection-0';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node30 -->
-<g id="edge22" class="edge">
+<g id="edge21" class="edge">
 <title>Node1&#45;&gt;Node30</title>
-<path fill="none" stroke="midnightblue" d="M3314.77,-528.54C3025.75,-524.9 2138.95,-508.92 2025.5,-449 1995.58,-433.2 1971.99,-403.79 1955.45,-377.25"/>
-<polygon fill="none" stroke="midnightblue" points="3314.76,-532.04 3324.8,-528.67 3314.84,-525.05 3314.76,-532.04"/>
+<path fill="none" stroke="midnightblue" d="M3405.52,-528.9C3103.63,-526.3 2147.28,-513.04 2025.5,-449 1995.55,-433.25 1971.96,-403.84 1955.43,-377.29"/>
+<polygon fill="none" stroke="midnightblue" points="3405.52,-532.4 3415.55,-528.98 3405.58,-525.4 3405.52,-532.4"/>
 </g>
 <!-- Node31 -->
-<g id="node24" class="node">
+<g id="node23" class="node">
 <title>Node31</title>
-<g id="a_node24"><a xlink:href="../../dd/d6a/classpocketmine_1_1block_1_1_double_plant.html" target="_top" xlink:title=" ">
+<g id="a_node23"><a xlink:href="../../dd/d6a/classpocketmine_1_1block_1_1_double_plant.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="orangered" points="2035,-237.5 2035,-404.5 2200,-404.5 2200,-237.5 2035,-237.5"/>
 <text text-anchor="middle" x="2117.5" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\DoublePlant</text>
 <polyline fill="none" stroke="orangered" points="2035,-385.5 2200,-385.5 "/>
@@ -370,15 +370,15 @@ var sectionId = 'dynsection-0';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node31 -->
-<g id="edge23" class="edge">
+<g id="edge22" class="edge">
 <title>Node1&#45;&gt;Node31</title>
-<path fill="none" stroke="midnightblue" d="M3314.35,-527.82C3051.42,-522.37 2304.23,-502.31 2208.5,-449 2189.54,-438.44 2173.55,-422.08 2160.51,-404.57"/>
-<polygon fill="none" stroke="midnightblue" points="3314.55,-531.33 3324.62,-528.03 3314.7,-524.33 3314.55,-531.33"/>
+<path fill="none" stroke="midnightblue" d="M3405.22,-528.29C3128.64,-524.01 2312.45,-506.57 2208.5,-449 2189.52,-438.49 2173.51,-422.14 2160.48,-404.64"/>
+<polygon fill="none" stroke="midnightblue" points="3405.56,-531.8 3415.61,-528.45 3405.67,-524.8 3405.56,-531.8"/>
 </g>
 <!-- Node33 -->
-<g id="node25" class="node">
+<g id="node24" class="node">
 <title>Node33</title>
-<g id="a_node25"><a xlink:href="../../d6/dbb/classpocketmine_1_1block_1_1_end_rod.html" target="_top" xlink:title=" ">
+<g id="a_node24"><a xlink:href="../../d6/dbb/classpocketmine_1_1block_1_1_end_rod.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="2218,-276 2218,-366 2379,-366 2379,-276 2218,-276"/>
 <text text-anchor="middle" x="2298.5" y="-354" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\EndRod</text>
 <polyline fill="none" stroke="#bfbfbf" points="2218,-347 2379,-347 "/>
@@ -392,15 +392,15 @@ var sectionId = 'dynsection-0';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node33 -->
-<g id="edge24" class="edge">
+<g id="edge23" class="edge">
 <title>Node1&#45;&gt;Node33</title>
-<path fill="none" stroke="midnightblue" d="M3314.4,-526.68C3079.84,-518.8 2467.93,-494.12 2388.5,-449 2355.96,-430.51 2332.28,-394.86 2317.41,-366.02"/>
-<polygon fill="none" stroke="midnightblue" points="3314.49,-530.18 3324.61,-527.02 3314.73,-523.19 3314.49,-530.18"/>
+<path fill="none" stroke="midnightblue" d="M3405.65,-527.32C3156.68,-520.74 2476.12,-498.4 2388.5,-449 2355.9,-430.62 2332.23,-394.95 2317.37,-366.09"/>
+<polygon fill="none" stroke="midnightblue" points="3405.66,-530.83 3415.75,-527.59 3405.85,-523.83 3405.66,-530.83"/>
 </g>
 <!-- Node34 -->
-<g id="node26" class="node">
+<g id="node25" class="node">
 <title>Node34</title>
-<g id="a_node26"><a xlink:href="../../d3/df9/classpocketmine_1_1block_1_1_flower.html" target="_top" xlink:title=" ">
+<g id="a_node25"><a xlink:href="../../d3/df9/classpocketmine_1_1block_1_1_flower.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="2397.5,-276 2397.5,-366 2555.5,-366 2555.5,-276 2397.5,-276"/>
 <text text-anchor="middle" x="2476.5" y="-354" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Flower</text>
 <polyline fill="none" stroke="#bfbfbf" points="2397.5,-347 2555.5,-347 "/>
@@ -414,15 +414,15 @@ var sectionId = 'dynsection-0';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node34 -->
-<g id="edge25" class="edge">
+<g id="edge24" class="edge">
 <title>Node1&#45;&gt;Node34</title>
-<path fill="none" stroke="midnightblue" d="M3314.44,-530.28C3123.74,-530.41 2689.69,-522.37 2564.5,-449 2532.56,-430.28 2509.49,-394.84 2495,-366.14"/>
-<polygon fill="none" stroke="midnightblue" points="3314.72,-533.78 3324.72,-530.27 3314.71,-526.78 3314.72,-533.78"/>
+<path fill="none" stroke="midnightblue" d="M3405.67,-526.03C3185.5,-517 2636.16,-490.55 2564.5,-449 2532.48,-430.43 2509.41,-394.98 2494.94,-366.24"/>
+<polygon fill="none" stroke="midnightblue" points="3405.76,-529.54 3415.9,-526.45 3406.05,-522.54 3405.76,-529.54"/>
 </g>
 <!-- Node35 -->
-<g id="node27" class="node">
+<g id="node26" class="node">
 <title>Node35</title>
-<g id="a_node27"><a xlink:href="../../dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html" target="_top" xlink:title=" ">
+<g id="a_node26"><a xlink:href="../../dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="2573.5,-237.5 2573.5,-404.5 2743.5,-404.5 2743.5,-237.5 2573.5,-237.5"/>
 <text text-anchor="middle" x="2658.5" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\FlowerPot</text>
 <polyline fill="none" stroke="#bfbfbf" points="2573.5,-385.5 2743.5,-385.5 "/>
@@ -443,15 +443,15 @@ var sectionId = 'dynsection-0';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node35 -->
-<g id="edge26" class="edge">
+<g id="edge25" class="edge">
 <title>Node1&#45;&gt;Node35</title>
-<path fill="none" stroke="midnightblue" d="M3314.74,-527.05C3158.36,-521.42 2845.91,-503.49 2752.5,-449 2733.78,-438.08 2717.67,-421.8 2704.33,-404.52"/>
-<polygon fill="none" stroke="midnightblue" points="3314.69,-530.55 3324.81,-527.41 3314.94,-523.56 3314.69,-530.55"/>
+<path fill="none" stroke="midnightblue" d="M3405.66,-528.65C3232.29,-525.58 2861.76,-511.66 2752.5,-449 2733.7,-438.22 2717.55,-422 2704.21,-404.72"/>
+<polygon fill="none" stroke="midnightblue" points="3405.72,-532.15 3415.78,-528.82 3405.84,-525.15 3405.72,-532.15"/>
 </g>
 <!-- Node36 -->
-<g id="node28" class="node">
+<g id="node27" class="node">
 <title>Node36</title>
-<g id="a_node28"><a xlink:href="../../d7/d71/classpocketmine_1_1block_1_1_hanging_roots.html" target="_top" xlink:title=" ">
+<g id="a_node27"><a xlink:href="../../d7/d71/classpocketmine_1_1block_1_1_hanging_roots.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="2761.5,-276 2761.5,-366 2939.5,-366 2939.5,-276 2761.5,-276"/>
 <text text-anchor="start" x="2769.5" y="-354" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Hanging</text>
 <text text-anchor="middle" x="2850.5" y="-343" font-family="Helvetica,sans-Serif" font-size="10.00">Roots</text>
@@ -465,15 +465,15 @@ var sectionId = 'dynsection-0';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node36 -->
-<g id="edge27" class="edge">
+<g id="edge26" class="edge">
 <title>Node1&#45;&gt;Node36</title>
-<path fill="none" stroke="midnightblue" d="M3314.77,-521.32C3199.63,-509.63 3008.72,-485.43 2948.5,-449 2915.85,-429.25 2890.08,-394.27 2873.18,-366.01"/>
-<polygon fill="none" stroke="midnightblue" points="3314.69,-524.83 3324.99,-522.35 3315.39,-517.87 3314.69,-524.83"/>
+<path fill="none" stroke="midnightblue" d="M3405.64,-524.37C3270.47,-515.37 3024.22,-493.34 2948.5,-449 2915.45,-429.65 2889.64,-394.45 2872.81,-366.01"/>
+<polygon fill="none" stroke="midnightblue" points="3405.76,-527.88 3415.97,-525.04 3406.22,-520.9 3405.76,-527.88"/>
 </g>
 <!-- Node37 -->
-<g id="node29" class="node">
+<g id="node28" class="node">
 <title>Node37</title>
-<g id="a_node29"><a xlink:href="../../d9/dc4/classpocketmine_1_1block_1_1_item_frame.html" target="_top" xlink:title=" ">
+<g id="a_node28"><a xlink:href="../../d9/dc4/classpocketmine_1_1block_1_1_item_frame.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="2957.5,-199 2957.5,-443 3127.5,-443 3127.5,-199 2957.5,-199"/>
 <text text-anchor="middle" x="3042.5" y="-431" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\ItemFrame</text>
 <polyline fill="none" stroke="#bfbfbf" points="2957.5,-424 3127.5,-424 "/>
@@ -501,15 +501,15 @@ var sectionId = 'dynsection-0';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node37 -->
-<g id="edge28" class="edge">
+<g id="edge27" class="edge">
 <title>Node1&#45;&gt;Node37</title>
-<path fill="none" stroke="midnightblue" d="M3314.7,-517.23C3259.32,-506.31 3189.27,-486.05 3136.5,-449 3133.47,-446.87 3130.5,-444.62 3127.59,-442.25"/>
-<polygon fill="none" stroke="midnightblue" points="3314.39,-520.73 3324.87,-519.16 3315.7,-513.86 3314.39,-520.73"/>
+<path fill="none" stroke="midnightblue" d="M3405.73,-526.62C3328.55,-520.32 3217.67,-501.81 3136.5,-449 3133.51,-447.06 3130.58,-444.98 3127.72,-442.79"/>
+<polygon fill="none" stroke="midnightblue" points="3405.67,-530.13 3415.91,-527.4 3406.21,-523.15 3405.67,-530.13"/>
 </g>
 <!-- Node38 -->
-<g id="node30" class="node">
+<g id="node29" class="node">
 <title>Node38</title>
-<g id="a_node30"><a xlink:href="../../d4/d31/classpocketmine_1_1block_1_1_lever.html" target="_top" xlink:title=" ">
+<g id="a_node29"><a xlink:href="../../d4/d31/classpocketmine_1_1block_1_1_lever.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="3145.5,-237.5 3145.5,-404.5 3307.5,-404.5 3307.5,-237.5 3145.5,-237.5"/>
 <text text-anchor="middle" x="3226.5" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Lever</text>
 <polyline fill="none" stroke="#bfbfbf" points="3145.5,-385.5 3307.5,-385.5 "/>
@@ -530,15 +530,15 @@ var sectionId = 'dynsection-0';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node38 -->
-<g id="edge29" class="edge">
+<g id="edge28" class="edge">
 <title>Node1&#45;&gt;Node38</title>
-<path fill="none" stroke="midnightblue" d="M3345.23,-478.29C3335.26,-468.91 3325.32,-458.93 3316.5,-449 3304.3,-435.26 3292.23,-419.86 3281.08,-404.64"/>
-<polygon fill="none" stroke="midnightblue" points="3343.12,-481.11 3352.83,-485.34 3347.88,-475.98 3343.12,-481.11"/>
+<path fill="none" stroke="midnightblue" d="M3406.21,-500.16C3375.7,-487.5 3342.76,-470.56 3316.5,-449 3301.25,-436.48 3287.38,-420.78 3275.35,-404.72"/>
+<polygon fill="none" stroke="midnightblue" points="3405.01,-503.45 3415.59,-503.95 3407.63,-496.96 3405.01,-503.45"/>
 </g>
 <!-- Node39 -->
-<g id="node31" class="node">
+<g id="node30" class="node">
 <title>Node39</title>
-<g id="a_node31"><a xlink:href="../../de/d0f/classpocketmine_1_1block_1_1_light.html" target="_top" xlink:title=" ">
+<g id="a_node30"><a xlink:href="../../de/d0f/classpocketmine_1_1block_1_1_light.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="3326,-254 3326,-388 3485,-388 3485,-254 3326,-254"/>
 <text text-anchor="middle" x="3405.5" y="-376" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Light</text>
 <polyline fill="none" stroke="#bfbfbf" points="3326,-369 3485,-369 "/>
@@ -556,564 +556,595 @@ var sectionId = 'dynsection-0';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node39 -->
-<g id="edge30" class="edge">
+<g id="edge29" class="edge">
 <title>Node1&#45;&gt;Node39</title>
-<path fill="none" stroke="midnightblue" d="M3405.5,-475.19C3405.5,-448.51 3405.5,-416.13 3405.5,-388.03"/>
-<polygon fill="none" stroke="midnightblue" points="3402,-475.49 3405.5,-485.49 3409,-475.49 3402,-475.49"/>
+<path fill="none" stroke="midnightblue" d="M3473.15,-476.25C3461.36,-449.37 3446.95,-416.5 3434.46,-388.03"/>
+<polygon fill="none" stroke="midnightblue" points="3469.98,-477.74 3477.2,-485.49 3476.39,-474.93 3469.98,-477.74"/>
 </g>
 <!-- Node40 -->
-<g id="node32" class="node">
+<g id="node31" class="node">
 <title>Node40</title>
-<g id="a_node32"><a xlink:href="../../d8/d43/classpocketmine_1_1block_1_1_nether_wart_plant.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="3503.5,-237.5 3503.5,-404.5 3673.5,-404.5 3673.5,-237.5 3503.5,-237.5"/>
-<text text-anchor="start" x="3511.5" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\NetherWart</text>
-<text text-anchor="middle" x="3588.5" y="-381.5" font-family="Helvetica,sans-Serif" font-size="10.00">Plant</text>
-<polyline fill="none" stroke="#bfbfbf" points="3503.5,-374.5 3673.5,-374.5 "/>
-<text text-anchor="start" x="3511.5" y="-362.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_AGE</text>
-<text text-anchor="start" x="3511.5" y="-351.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $age</text>
-<polyline fill="none" stroke="#bfbfbf" points="3503.5,-344.5 3673.5,-344.5 "/>
-<text text-anchor="start" x="3511.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAge()</text>
-<text text-anchor="start" x="3511.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
-<text text-anchor="start" x="3511.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
-<text text-anchor="start" x="3511.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="3511.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onRandomTick()</text>
-<text text-anchor="start" x="3511.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
-<text text-anchor="start" x="3511.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAge()</text>
-<text text-anchor="start" x="3511.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ticksRandomly()</text>
-<text text-anchor="start" x="3511.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<g id="a_node31"><a xlink:href="../../d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="3503.5,-226.5 3503.5,-415.5 3673.5,-415.5 3673.5,-226.5 3503.5,-226.5"/>
+<text text-anchor="middle" x="3588.5" y="-403.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\NetherVines</text>
+<polyline fill="none" stroke="black" points="3503.5,-396.5 3673.5,-396.5 "/>
+<text text-anchor="start" x="3511.5" y="-384.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_AGE</text>
+<text text-anchor="start" x="3511.5" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $age</text>
+<polyline fill="none" stroke="black" points="3503.5,-366.5 3673.5,-366.5 "/>
+<text text-anchor="start" x="3511.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="3511.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canClimb()</text>
+<text text-anchor="start" x="3511.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ describeState()</text>
+<text text-anchor="start" x="3511.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAge()</text>
+<text text-anchor="start" x="3511.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
+<text text-anchor="start" x="3511.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
+<text text-anchor="start" x="3511.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSupportType()</text>
+<text text-anchor="start" x="3511.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ hasEntityCollision()</text>
+<text text-anchor="start" x="3511.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isAffectedBySilkTouch()</text>
+<text text-anchor="start" x="3511.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onEntityInside()</text>
+<text text-anchor="start" x="3511.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 6 more...</text>
+<text text-anchor="start" x="3511.5" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node40 -->
-<g id="edge31" class="edge">
+<g id="edge30" class="edge">
 <title>Node1&#45;&gt;Node40</title>
-<path fill="none" stroke="midnightblue" d="M3464.85,-478.04C3474.73,-468.69 3484.64,-458.78 3493.5,-449 3505.98,-435.23 3518.48,-419.89 3530.13,-404.76"/>
-<polygon fill="none" stroke="midnightblue" points="3462.24,-475.69 3457.32,-485.08 3467.02,-480.81 3462.24,-475.69"/>
+<path fill="none" stroke="midnightblue" d="M3520.16,-476.15C3528.31,-457.75 3537.71,-436.56 3546.87,-415.89"/>
+<polygon fill="none" stroke="midnightblue" points="3516.86,-474.93 3516.01,-485.49 3523.26,-477.77 3516.86,-474.93"/>
 </g>
 <!-- Node41 -->
-<g id="node33" class="node">
+<g id="node32" class="node">
 <title>Node41</title>
-<g id="a_node33"><a xlink:href="../../d1/d03/classpocketmine_1_1block_1_1_red_mushroom.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="orangered" points="3691.5,-281.5 3691.5,-360.5 3867.5,-360.5 3867.5,-281.5 3691.5,-281.5"/>
-<text text-anchor="middle" x="3779.5" y="-348.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\RedMushroom</text>
-<polyline fill="none" stroke="orangered" points="3691.5,-341.5 3867.5,-341.5 "/>
-<text text-anchor="middle" x="3779.5" y="-329.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="orangered" points="3691.5,-322.5 3867.5,-322.5 "/>
-<text text-anchor="start" x="3699.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="3699.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
-<text text-anchor="start" x="3699.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ticksRandomly()</text>
+<g id="a_node32"><a xlink:href="../../d8/d43/classpocketmine_1_1block_1_1_nether_wart_plant.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="3691.5,-237.5 3691.5,-404.5 3861.5,-404.5 3861.5,-237.5 3691.5,-237.5"/>
+<text text-anchor="start" x="3699.5" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\NetherWart</text>
+<text text-anchor="middle" x="3776.5" y="-381.5" font-family="Helvetica,sans-Serif" font-size="10.00">Plant</text>
+<polyline fill="none" stroke="#bfbfbf" points="3691.5,-374.5 3861.5,-374.5 "/>
+<text text-anchor="start" x="3699.5" y="-362.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_AGE</text>
+<text text-anchor="start" x="3699.5" y="-351.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $age</text>
+<polyline fill="none" stroke="#bfbfbf" points="3691.5,-344.5 3861.5,-344.5 "/>
+<text text-anchor="start" x="3699.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAge()</text>
+<text text-anchor="start" x="3699.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
+<text text-anchor="start" x="3699.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
+<text text-anchor="start" x="3699.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="3699.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onRandomTick()</text>
+<text text-anchor="start" x="3699.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="3699.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAge()</text>
+<text text-anchor="start" x="3699.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ticksRandomly()</text>
+<text text-anchor="start" x="3699.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node41 -->
-<g id="edge32" class="edge">
+<g id="edge31" class="edge">
 <title>Node1&#45;&gt;Node41</title>
-<path fill="none" stroke="midnightblue" d="M3496.3,-517.97C3553.63,-507.27 3627.06,-486.98 3682.5,-449 3715.46,-426.42 3742.03,-389.06 3758.97,-360.69"/>
-<polygon fill="none" stroke="midnightblue" points="3495.38,-514.58 3486.16,-519.79 3496.62,-521.47 3495.38,-514.58"/>
+<path fill="none" stroke="midnightblue" d="M3586.56,-501.53C3618.88,-488.76 3654.28,-471.4 3682.5,-449 3698.18,-436.55 3712.57,-420.87 3725.11,-404.82"/>
+<polygon fill="none" stroke="midnightblue" points="3585.16,-498.32 3577.09,-505.18 3587.68,-504.85 3585.16,-498.32"/>
 </g>
-<!-- Node43 -->
-<g id="node34" class="node">
-<title>Node43</title>
-<g id="a_node34"><a xlink:href="../../dc/dc1/classpocketmine_1_1block_1_1_redstone_comparator.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="3885.5,-237.5 3885.5,-404.5 4047.5,-404.5 4047.5,-237.5 3885.5,-237.5"/>
-<text text-anchor="start" x="3893.5" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Redstone</text>
-<text text-anchor="middle" x="3966.5" y="-381.5" font-family="Helvetica,sans-Serif" font-size="10.00">Comparator</text>
-<polyline fill="none" stroke="#bfbfbf" points="3885.5,-374.5 4047.5,-374.5 "/>
-<text text-anchor="start" x="3893.5" y="-362.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $isSubtractMode</text>
-<polyline fill="none" stroke="#bfbfbf" points="3885.5,-355.5 4047.5,-355.5 "/>
-<text text-anchor="start" x="3893.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
-<text text-anchor="start" x="3893.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isSubtractMode()</text>
-<text text-anchor="start" x="3893.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
-<text text-anchor="start" x="3893.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="3893.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
-<text text-anchor="start" x="3893.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ readStateFromWorld()</text>
-<text text-anchor="start" x="3893.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setSubtractMode()</text>
-<text text-anchor="start" x="3893.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ writeStateToWorld()</text>
-<text text-anchor="start" x="3893.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
-<text text-anchor="start" x="3893.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
+<!-- Node42 -->
+<g id="node33" class="node">
+<title>Node42</title>
+<g id="a_node33"><a xlink:href="../../d1/d03/classpocketmine_1_1block_1_1_red_mushroom.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="orangered" points="3879.5,-281.5 3879.5,-360.5 4055.5,-360.5 4055.5,-281.5 3879.5,-281.5"/>
+<text text-anchor="middle" x="3967.5" y="-348.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\RedMushroom</text>
+<polyline fill="none" stroke="orangered" points="3879.5,-341.5 4055.5,-341.5 "/>
+<text text-anchor="middle" x="3967.5" y="-329.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="orangered" points="3879.5,-322.5 4055.5,-322.5 "/>
+<text text-anchor="start" x="3887.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="3887.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="3887.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ticksRandomly()</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node43 -->
-<g id="edge33" class="edge">
-<title>Node1&#45;&gt;Node43</title>
-<path fill="none" stroke="midnightblue" d="M3496.4,-522.24C3615,-511.38 3814.68,-487.91 3876.5,-449 3894.34,-437.77 3909.66,-421.6 3922.35,-404.53"/>
-<polygon fill="none" stroke="midnightblue" points="3495.89,-518.78 3486.25,-523.16 3496.52,-525.75 3495.89,-518.78"/>
+<!-- Node1&#45;&gt;Node42 -->
+<g id="edge32" class="edge">
+<title>Node1&#45;&gt;Node42</title>
+<path fill="none" stroke="midnightblue" d="M3587.43,-527.35C3667.56,-521.6 3784.58,-503.5 3870.5,-449 3904.47,-427.45 3931.08,-389.57 3947.77,-360.77"/>
+<polygon fill="none" stroke="midnightblue" points="3587.1,-523.86 3577.35,-528.02 3587.56,-530.85 3587.1,-523.86"/>
 </g>
 <!-- Node44 -->
-<g id="node35" class="node">
+<g id="node34" class="node">
 <title>Node44</title>
-<g id="a_node35"><a xlink:href="../../de/dd0/classpocketmine_1_1block_1_1_redstone_repeater.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="4065.5,-237.5 4065.5,-404.5 4227.5,-404.5 4227.5,-237.5 4065.5,-237.5"/>
-<text text-anchor="start" x="4073.5" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Redstone</text>
-<text text-anchor="middle" x="4146.5" y="-381.5" font-family="Helvetica,sans-Serif" font-size="10.00">Repeater</text>
-<polyline fill="none" stroke="#bfbfbf" points="4065.5,-374.5 4227.5,-374.5 "/>
-<text text-anchor="start" x="4073.5" y="-362.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_DELAY</text>
-<text text-anchor="start" x="4073.5" y="-351.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MIN_DELAY</text>
-<text text-anchor="start" x="4073.5" y="-340.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $delay</text>
-<polyline fill="none" stroke="#bfbfbf" points="4065.5,-333.5 4227.5,-333.5 "/>
-<text text-anchor="start" x="4073.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDelay()</text>
-<text text-anchor="start" x="4073.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
-<text text-anchor="start" x="4073.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
-<text text-anchor="start" x="4073.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="4073.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
-<text text-anchor="start" x="4073.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setDelay()</text>
-<text text-anchor="start" x="4073.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
-<text text-anchor="start" x="4073.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
+<g id="a_node34"><a xlink:href="../../dc/dc1/classpocketmine_1_1block_1_1_redstone_comparator.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="4073.5,-237.5 4073.5,-404.5 4235.5,-404.5 4235.5,-237.5 4073.5,-237.5"/>
+<text text-anchor="start" x="4081.5" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Redstone</text>
+<text text-anchor="middle" x="4154.5" y="-381.5" font-family="Helvetica,sans-Serif" font-size="10.00">Comparator</text>
+<polyline fill="none" stroke="#bfbfbf" points="4073.5,-374.5 4235.5,-374.5 "/>
+<text text-anchor="start" x="4081.5" y="-362.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $isSubtractMode</text>
+<polyline fill="none" stroke="#bfbfbf" points="4073.5,-355.5 4235.5,-355.5 "/>
+<text text-anchor="start" x="4081.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
+<text text-anchor="start" x="4081.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isSubtractMode()</text>
+<text text-anchor="start" x="4081.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
+<text text-anchor="start" x="4081.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="4081.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="4081.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ readStateFromWorld()</text>
+<text text-anchor="start" x="4081.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setSubtractMode()</text>
+<text text-anchor="start" x="4081.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ writeStateToWorld()</text>
+<text text-anchor="start" x="4081.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="4081.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node44 -->
-<g id="edge34" class="edge">
+<g id="edge33" class="edge">
 <title>Node1&#45;&gt;Node44</title>
-<path fill="none" stroke="midnightblue" d="M3496.1,-527.22C3652.18,-521.84 3963.95,-504.31 4056.5,-449 4074.71,-438.12 4090.21,-421.97 4102.96,-404.8"/>
-<polygon fill="none" stroke="midnightblue" points="3495.93,-523.72 3486.05,-527.56 3496.16,-530.72 3495.93,-523.72"/>
+<path fill="none" stroke="midnightblue" d="M3587.41,-525.3C3727.01,-517.42 3986.26,-496.71 4064.5,-449 4082.61,-437.96 4098.08,-421.74 4110.82,-404.57"/>
+<polygon fill="none" stroke="midnightblue" points="3586.95,-521.82 3577.15,-525.87 3587.33,-528.81 3586.95,-521.82"/>
 </g>
 <!-- Node45 -->
-<g id="node36" class="node">
+<g id="node35" class="node">
 <title>Node45</title>
-<g id="a_node36"><a xlink:href="../../d4/dae/classpocketmine_1_1block_1_1_redstone_wire.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="4245.5,-276 4245.5,-366 4419.5,-366 4419.5,-276 4245.5,-276"/>
-<text text-anchor="middle" x="4332.5" y="-354" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\RedstoneWire</text>
-<polyline fill="none" stroke="#bfbfbf" points="4245.5,-347 4419.5,-347 "/>
-<text text-anchor="middle" x="4332.5" y="-335" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="4245.5,-328 4419.5,-328 "/>
-<text text-anchor="start" x="4253.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ asItem()</text>
-<text text-anchor="start" x="4253.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="4253.5" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
-<text text-anchor="start" x="4253.5" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00">+ readStateFromWorld()</text>
+<g id="a_node35"><a xlink:href="../../de/dd0/classpocketmine_1_1block_1_1_redstone_repeater.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="4253.5,-237.5 4253.5,-404.5 4415.5,-404.5 4415.5,-237.5 4253.5,-237.5"/>
+<text text-anchor="start" x="4261.5" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Redstone</text>
+<text text-anchor="middle" x="4334.5" y="-381.5" font-family="Helvetica,sans-Serif" font-size="10.00">Repeater</text>
+<polyline fill="none" stroke="#bfbfbf" points="4253.5,-374.5 4415.5,-374.5 "/>
+<text text-anchor="start" x="4261.5" y="-362.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_DELAY</text>
+<text text-anchor="start" x="4261.5" y="-351.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MIN_DELAY</text>
+<text text-anchor="start" x="4261.5" y="-340.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $delay</text>
+<polyline fill="none" stroke="#bfbfbf" points="4253.5,-333.5 4415.5,-333.5 "/>
+<text text-anchor="start" x="4261.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDelay()</text>
+<text text-anchor="start" x="4261.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
+<text text-anchor="start" x="4261.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
+<text text-anchor="start" x="4261.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="4261.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="4261.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setDelay()</text>
+<text text-anchor="start" x="4261.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="4261.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node45 -->
-<g id="edge35" class="edge">
+<g id="edge34" class="edge">
 <title>Node1&#45;&gt;Node45</title>
-<path fill="none" stroke="midnightblue" d="M3496.31,-529.76C3684.85,-528.85 4111.59,-518.88 4236.5,-449 4269.79,-430.38 4295.08,-394.93 4311.33,-366.2"/>
-<polygon fill="none" stroke="midnightblue" points="3496.13,-526.26 3486.14,-529.8 3496.16,-533.26 3496.13,-526.26"/>
+<path fill="none" stroke="midnightblue" d="M3587.29,-528.91C3761.5,-526.31 4135.16,-513.17 4244.5,-449 4262.91,-438.19 4278.53,-421.96 4291.33,-404.68"/>
+<polygon fill="none" stroke="midnightblue" points="3587.07,-525.41 3577.12,-529.05 3587.16,-532.41 3587.07,-525.41"/>
 </g>
 <!-- Node46 -->
-<g id="node37" class="node">
+<g id="node36" class="node">
 <title>Node46</title>
-<g id="a_node37"><a xlink:href="../../d6/d87/classpocketmine_1_1block_1_1_sapling.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="4437.5,-237.5 4437.5,-404.5 4599.5,-404.5 4599.5,-237.5 4437.5,-237.5"/>
-<text text-anchor="middle" x="4518.5" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Sapling</text>
-<polyline fill="none" stroke="#bfbfbf" points="4437.5,-385.5 4599.5,-385.5 "/>
-<text text-anchor="start" x="4445.5" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $ready</text>
-<polyline fill="none" stroke="#bfbfbf" points="4437.5,-366.5 4599.5,-366.5 "/>
-<text text-anchor="start" x="4445.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="4445.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFuelTime()</text>
-<text text-anchor="start" x="4445.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
-<text text-anchor="start" x="4445.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isReady()</text>
-<text text-anchor="start" x="4445.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
-<text text-anchor="start" x="4445.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="4445.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onRandomTick()</text>
-<text text-anchor="start" x="4445.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
-<text text-anchor="start" x="4445.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setReady()</text>
-<text text-anchor="start" x="4445.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ticksRandomly()</text>
-<text text-anchor="start" x="4445.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<g id="a_node36"><a xlink:href="../../d4/dae/classpocketmine_1_1block_1_1_redstone_wire.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="4433.5,-276 4433.5,-366 4607.5,-366 4607.5,-276 4433.5,-276"/>
+<text text-anchor="middle" x="4520.5" y="-354" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\RedstoneWire</text>
+<polyline fill="none" stroke="#bfbfbf" points="4433.5,-347 4607.5,-347 "/>
+<text text-anchor="middle" x="4520.5" y="-335" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="4433.5,-328 4607.5,-328 "/>
+<text text-anchor="start" x="4441.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ asItem()</text>
+<text text-anchor="start" x="4441.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="4441.5" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="4441.5" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00">+ readStateFromWorld()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node46 -->
-<g id="edge36" class="edge">
+<g id="edge35" class="edge">
 <title>Node1&#45;&gt;Node46</title>
-<path fill="none" stroke="midnightblue" d="M3496.3,-526.73C3731.61,-518.95 4348.5,-494.42 4428.5,-449 4447.18,-438.39 4462.94,-422.13 4475.79,-404.74"/>
-<polygon fill="none" stroke="midnightblue" points="3495.94,-523.24 3486.06,-527.07 3496.17,-530.24 3495.94,-523.24"/>
+<path fill="none" stroke="midnightblue" d="M3587.24,-525.81C3806.48,-516.3 4352.36,-488.88 4424.5,-449 4457.88,-430.55 4483.17,-395.08 4499.39,-366.31"/>
+<polygon fill="none" stroke="midnightblue" points="3586.89,-522.32 3577.05,-526.25 3587.19,-529.31 3586.89,-522.32"/>
 </g>
 <!-- Node47 -->
-<g id="node38" class="node">
+<g id="node37" class="node">
 <title>Node47</title>
-<g id="a_node38"><a xlink:href="../../d3/d2e/classpocketmine_1_1block_1_1_skull.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="4617.5,-193.5 4617.5,-448.5 4779.5,-448.5 4779.5,-193.5 4617.5,-193.5"/>
-<text text-anchor="middle" x="4698.5" y="-436.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Skull</text>
-<polyline fill="none" stroke="#bfbfbf" points="4617.5,-429.5 4779.5,-429.5 "/>
-<text text-anchor="start" x="4625.5" y="-417.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_ROTATION</text>
-<text text-anchor="start" x="4625.5" y="-406.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MIN_ROTATION</text>
-<text text-anchor="start" x="4625.5" y="-395.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $facing</text>
-<text text-anchor="start" x="4625.5" y="-384.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $rotation</text>
-<text text-anchor="start" x="4625.5" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $skullType</text>
-<polyline fill="none" stroke="#bfbfbf" points="4617.5,-366.5 4779.5,-366.5 "/>
-<text text-anchor="start" x="4625.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="4625.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFacing()</text>
-<text text-anchor="start" x="4625.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
-<text text-anchor="start" x="4625.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredTypeDataBits()</text>
-<text text-anchor="start" x="4625.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRotation()</text>
-<text text-anchor="start" x="4625.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSkullType()</text>
-<text text-anchor="start" x="4625.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
-<text text-anchor="start" x="4625.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ readStateFromWorld()</text>
-<text text-anchor="start" x="4625.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFacing()</text>
-<text text-anchor="start" x="4625.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setRotation()</text>
-<text text-anchor="start" x="4625.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setSkullType()</text>
-<text text-anchor="start" x="4625.5" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ writeStateToWorld()</text>
-<text text-anchor="start" x="4625.5" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
-<text text-anchor="start" x="4625.5" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
-<text text-anchor="start" x="4625.5" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
+<g id="a_node37"><a xlink:href="../../d6/d87/classpocketmine_1_1block_1_1_sapling.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="4625.5,-237.5 4625.5,-404.5 4787.5,-404.5 4787.5,-237.5 4625.5,-237.5"/>
+<text text-anchor="middle" x="4706.5" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Sapling</text>
+<polyline fill="none" stroke="#bfbfbf" points="4625.5,-385.5 4787.5,-385.5 "/>
+<text text-anchor="start" x="4633.5" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $ready</text>
+<polyline fill="none" stroke="#bfbfbf" points="4625.5,-366.5 4787.5,-366.5 "/>
+<text text-anchor="start" x="4633.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="4633.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFuelTime()</text>
+<text text-anchor="start" x="4633.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
+<text text-anchor="start" x="4633.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isReady()</text>
+<text text-anchor="start" x="4633.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
+<text text-anchor="start" x="4633.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="4633.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onRandomTick()</text>
+<text text-anchor="start" x="4633.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="4633.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setReady()</text>
+<text text-anchor="start" x="4633.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ticksRandomly()</text>
+<text text-anchor="start" x="4633.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node47 -->
-<g id="edge37" class="edge">
+<g id="edge36" class="edge">
 <title>Node1&#45;&gt;Node47</title>
-<path fill="none" stroke="midnightblue" d="M3496.66,-527.88C3760.52,-522.57 4512.36,-502.84 4608.5,-449 4611.57,-447.28 4614.55,-445.41 4617.46,-443.41"/>
-<polygon fill="none" stroke="midnightblue" points="3496.27,-524.39 3486.35,-528.09 3496.41,-531.39 3496.27,-524.39"/>
+<path fill="none" stroke="midnightblue" d="M3587.44,-527.4C3838.37,-520.98 4527.81,-498.96 4616.5,-449 4635.22,-438.46 4650.99,-422.21 4663.84,-404.83"/>
+<polygon fill="none" stroke="midnightblue" points="3587.17,-523.9 3577.26,-527.66 3587.35,-530.9 3587.17,-523.9"/>
 </g>
 <!-- Node48 -->
-<g id="node39" class="node">
+<g id="node38" class="node">
 <title>Node48</title>
-<g id="a_node39"><a xlink:href="../../d6/dfd/classpocketmine_1_1block_1_1_snow_layer.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="4797.5,-226.5 4797.5,-415.5 4967.5,-415.5 4967.5,-226.5 4797.5,-226.5"/>
-<text text-anchor="middle" x="4882.5" y="-403.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\SnowLayer</text>
-<polyline fill="none" stroke="#bfbfbf" points="4797.5,-396.5 4967.5,-396.5 "/>
-<text text-anchor="start" x="4805.5" y="-384.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_LAYERS</text>
-<text text-anchor="start" x="4805.5" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MIN_LAYERS</text>
-<text text-anchor="start" x="4805.5" y="-362.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $layers</text>
-<polyline fill="none" stroke="#bfbfbf" points="4797.5,-355.5 4967.5,-355.5 "/>
-<text text-anchor="start" x="4805.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeReplaced()</text>
-<text text-anchor="start" x="4805.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
-<text text-anchor="start" x="4805.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLayers()</text>
-<text text-anchor="start" x="4805.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
-<text text-anchor="start" x="4805.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSupportType()</text>
-<text text-anchor="start" x="4805.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onRandomTick()</text>
-<text text-anchor="start" x="4805.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
-<text text-anchor="start" x="4805.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setLayers()</text>
-<text text-anchor="start" x="4805.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ticksRandomly()</text>
-<text text-anchor="start" x="4805.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
-<text text-anchor="start" x="4805.5" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
+<g id="a_node38"><a xlink:href="../../d3/d2e/classpocketmine_1_1block_1_1_skull.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="4805.5,-193.5 4805.5,-448.5 4967.5,-448.5 4967.5,-193.5 4805.5,-193.5"/>
+<text text-anchor="middle" x="4886.5" y="-436.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Skull</text>
+<polyline fill="none" stroke="#bfbfbf" points="4805.5,-429.5 4967.5,-429.5 "/>
+<text text-anchor="start" x="4813.5" y="-417.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_ROTATION</text>
+<text text-anchor="start" x="4813.5" y="-406.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MIN_ROTATION</text>
+<text text-anchor="start" x="4813.5" y="-395.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $facing</text>
+<text text-anchor="start" x="4813.5" y="-384.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $rotation</text>
+<text text-anchor="start" x="4813.5" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $skullType</text>
+<polyline fill="none" stroke="#bfbfbf" points="4805.5,-366.5 4967.5,-366.5 "/>
+<text text-anchor="start" x="4813.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="4813.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFacing()</text>
+<text text-anchor="start" x="4813.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
+<text text-anchor="start" x="4813.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredTypeDataBits()</text>
+<text text-anchor="start" x="4813.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRotation()</text>
+<text text-anchor="start" x="4813.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSkullType()</text>
+<text text-anchor="start" x="4813.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="4813.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ readStateFromWorld()</text>
+<text text-anchor="start" x="4813.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFacing()</text>
+<text text-anchor="start" x="4813.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setRotation()</text>
+<text text-anchor="start" x="4813.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setSkullType()</text>
+<text text-anchor="start" x="4813.5" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ writeStateToWorld()</text>
+<text text-anchor="start" x="4813.5" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="4813.5" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
+<text text-anchor="start" x="4813.5" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node48 -->
-<g id="edge38" class="edge">
+<g id="edge37" class="edge">
 <title>Node1&#45;&gt;Node48</title>
-<path fill="none" stroke="midnightblue" d="M3496.48,-528.65C3786.27,-525.32 4675.41,-510.18 4788.5,-449 4803.7,-440.78 4817.11,-428.91 4828.69,-415.69"/>
-<polygon fill="none" stroke="midnightblue" points="3496.38,-525.15 3486.42,-528.76 3496.46,-532.15 3496.38,-525.15"/>
+<path fill="none" stroke="midnightblue" d="M3587.26,-528.38C3865.1,-524.33 4691.54,-507.44 4796.5,-449 4799.57,-447.29 4802.56,-445.43 4805.47,-443.43"/>
+<polygon fill="none" stroke="midnightblue" points="3587.16,-524.88 3577.22,-528.52 3587.27,-531.88 3587.16,-524.88"/>
 </g>
 <!-- Node49 -->
-<g id="node40" class="node">
+<g id="node39" class="node">
 <title>Node49</title>
-<g id="a_node40"><a xlink:href="../../d8/d74/classpocketmine_1_1block_1_1_spore_blossom.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="4985.5,-281.5 4985.5,-360.5 5161.5,-360.5 5161.5,-281.5 4985.5,-281.5"/>
-<text text-anchor="middle" x="5073.5" y="-348.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\SporeBlossom</text>
-<polyline fill="none" stroke="#bfbfbf" points="4985.5,-341.5 5161.5,-341.5 "/>
-<text text-anchor="middle" x="5073.5" y="-329.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="4985.5,-322.5 5161.5,-322.5 "/>
-<text text-anchor="start" x="4993.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
-<text text-anchor="start" x="4993.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="4993.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<g id="a_node39"><a xlink:href="../../d6/dfd/classpocketmine_1_1block_1_1_snow_layer.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="4985.5,-226.5 4985.5,-415.5 5155.5,-415.5 5155.5,-226.5 4985.5,-226.5"/>
+<text text-anchor="middle" x="5070.5" y="-403.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\SnowLayer</text>
+<polyline fill="none" stroke="#bfbfbf" points="4985.5,-396.5 5155.5,-396.5 "/>
+<text text-anchor="start" x="4993.5" y="-384.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_LAYERS</text>
+<text text-anchor="start" x="4993.5" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MIN_LAYERS</text>
+<text text-anchor="start" x="4993.5" y="-362.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $layers</text>
+<polyline fill="none" stroke="#bfbfbf" points="4985.5,-355.5 5155.5,-355.5 "/>
+<text text-anchor="start" x="4993.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeReplaced()</text>
+<text text-anchor="start" x="4993.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
+<text text-anchor="start" x="4993.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLayers()</text>
+<text text-anchor="start" x="4993.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
+<text text-anchor="start" x="4993.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSupportType()</text>
+<text text-anchor="start" x="4993.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onRandomTick()</text>
+<text text-anchor="start" x="4993.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="4993.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setLayers()</text>
+<text text-anchor="start" x="4993.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ticksRandomly()</text>
+<text text-anchor="start" x="4993.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="4993.5" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node49 -->
-<g id="edge39" class="edge">
+<g id="edge38" class="edge">
 <title>Node1&#45;&gt;Node49</title>
-<path fill="none" stroke="midnightblue" d="M3496.18,-529.27C3811.13,-527.85 4845.63,-517.94 4976.5,-449 5012.83,-429.86 5039.57,-390.41 5055.67,-360.52"/>
-<polygon fill="none" stroke="midnightblue" points="3496.16,-525.77 3486.17,-529.31 3496.19,-532.77 3496.16,-525.77"/>
+<path fill="none" stroke="midnightblue" d="M3587.3,-529.02C3890.32,-526.83 4854.52,-514.69 4976.5,-449 4991.72,-440.81 5005.14,-428.95 5016.72,-415.74"/>
+<polygon fill="none" stroke="midnightblue" points="3587.21,-525.52 3577.24,-529.1 3587.26,-532.52 3587.21,-525.52"/>
 </g>
 <!-- Node50 -->
-<g id="node41" class="node">
+<g id="node40" class="node">
 <title>Node50</title>
-<g id="a_node41"><a xlink:href="../../da/da9/classpocketmine_1_1block_1_1_sugarcane.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="5179.5,-243 5179.5,-399 5341.5,-399 5341.5,-243 5179.5,-243"/>
-<text text-anchor="middle" x="5260.5" y="-387" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Sugarcane</text>
-<polyline fill="none" stroke="#bfbfbf" points="5179.5,-380 5341.5,-380 "/>
-<text text-anchor="start" x="5187.5" y="-368" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_AGE</text>
-<text text-anchor="start" x="5187.5" y="-357" font-family="Helvetica,sans-Serif" font-size="10.00"># $age</text>
-<polyline fill="none" stroke="#bfbfbf" points="5179.5,-350 5341.5,-350 "/>
-<text text-anchor="start" x="5187.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAge()</text>
-<text text-anchor="start" x="5187.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
-<text text-anchor="start" x="5187.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
-<text text-anchor="start" x="5187.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="5187.5" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">+ onRandomTick()</text>
-<text text-anchor="start" x="5187.5" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
-<text text-anchor="start" x="5187.5" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAge()</text>
-<text text-anchor="start" x="5187.5" y="-261" font-family="Helvetica,sans-Serif" font-size="10.00">+ ticksRandomly()</text>
-<text text-anchor="start" x="5187.5" y="-250" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<g id="a_node40"><a xlink:href="../../d8/d74/classpocketmine_1_1block_1_1_spore_blossom.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="5173.5,-281.5 5173.5,-360.5 5349.5,-360.5 5349.5,-281.5 5173.5,-281.5"/>
+<text text-anchor="middle" x="5261.5" y="-348.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\SporeBlossom</text>
+<polyline fill="none" stroke="#bfbfbf" points="5173.5,-341.5 5349.5,-341.5 "/>
+<text text-anchor="middle" x="5261.5" y="-329.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="5173.5,-322.5 5349.5,-322.5 "/>
+<text text-anchor="start" x="5181.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
+<text text-anchor="start" x="5181.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="5181.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node50 -->
-<g id="edge40" class="edge">
+<g id="edge39" class="edge">
 <title>Node1&#45;&gt;Node50</title>
-<path fill="none" stroke="midnightblue" d="M3496.05,-529.99C3835.84,-531.18 5023.09,-529.52 5170.5,-449 5191.49,-437.54 5208.72,-418.82 5222.29,-399.24"/>
-<polygon fill="none" stroke="midnightblue" points="3496.02,-526.49 3486.01,-529.95 3495.99,-533.49 3496.02,-526.49"/>
+<path fill="none" stroke="midnightblue" d="M3587.68,-529.56C3915.84,-529.16 5024.75,-522.36 5164.5,-449 5200.86,-429.92 5227.6,-390.45 5243.69,-360.55"/>
+<polygon fill="none" stroke="midnightblue" points="3587.26,-526.06 3577.27,-529.57 3587.27,-533.06 3587.26,-526.06"/>
 </g>
 <!-- Node51 -->
-<g id="node42" class="node">
+<g id="node41" class="node">
 <title>Node51</title>
-<g id="a_node42"><a xlink:href="../../d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="5359.5,-193.5 5359.5,-448.5 5545.5,-448.5 5545.5,-193.5 5359.5,-193.5"/>
-<text text-anchor="middle" x="5452.5" y="-436.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\SweetBerryBush</text>
-<polyline fill="none" stroke="#bfbfbf" points="5359.5,-429.5 5545.5,-429.5 "/>
-<text text-anchor="start" x="5367.5" y="-417.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ STAGE_BUSH_NO_BERRIES</text>
-<text text-anchor="start" x="5367.5" y="-406.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ STAGE_BUSH_SOME_BERRIES</text>
-<text text-anchor="start" x="5367.5" y="-395.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ STAGE_MATURE</text>
-<text text-anchor="start" x="5367.5" y="-384.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ STAGE_SAPLING</text>
-<text text-anchor="start" x="5367.5" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $age</text>
-<polyline fill="none" stroke="#bfbfbf" points="5359.5,-366.5 5545.5,-366.5 "/>
-<text text-anchor="start" x="5367.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ asItem()</text>
-<text text-anchor="start" x="5367.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAge()</text>
-<text text-anchor="start" x="5367.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBerryDropAmount()</text>
-<text text-anchor="start" x="5367.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
-<text text-anchor="start" x="5367.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
-<text text-anchor="start" x="5367.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ hasEntityCollision()</text>
-<text text-anchor="start" x="5367.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onEntityInside()</text>
-<text text-anchor="start" x="5367.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
-<text text-anchor="start" x="5367.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="5367.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onRandomTick()</text>
-<text text-anchor="start" x="5367.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
-<text text-anchor="start" x="5367.5" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAge()</text>
-<text text-anchor="start" x="5367.5" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ticksRandomly()</text>
-<text text-anchor="start" x="5367.5" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00"># canBeSupportedBy()</text>
-<text text-anchor="start" x="5367.5" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<g id="a_node41"><a xlink:href="../../da/da9/classpocketmine_1_1block_1_1_sugarcane.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="5367.5,-243 5367.5,-399 5529.5,-399 5529.5,-243 5367.5,-243"/>
+<text text-anchor="middle" x="5448.5" y="-387" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Sugarcane</text>
+<polyline fill="none" stroke="#bfbfbf" points="5367.5,-380 5529.5,-380 "/>
+<text text-anchor="start" x="5375.5" y="-368" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_AGE</text>
+<text text-anchor="start" x="5375.5" y="-357" font-family="Helvetica,sans-Serif" font-size="10.00"># $age</text>
+<polyline fill="none" stroke="#bfbfbf" points="5367.5,-350 5529.5,-350 "/>
+<text text-anchor="start" x="5375.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAge()</text>
+<text text-anchor="start" x="5375.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
+<text text-anchor="start" x="5375.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
+<text text-anchor="start" x="5375.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="5375.5" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">+ onRandomTick()</text>
+<text text-anchor="start" x="5375.5" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="5375.5" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAge()</text>
+<text text-anchor="start" x="5375.5" y="-261" font-family="Helvetica,sans-Serif" font-size="10.00">+ ticksRandomly()</text>
+<text text-anchor="start" x="5375.5" y="-250" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node51 -->
-<g id="edge41" class="edge">
+<g id="edge40" class="edge">
 <title>Node1&#45;&gt;Node51</title>
-<path fill="none" stroke="midnightblue" d="M3496.21,-527.83C3868.93,-520.7 5266.89,-491.24 5350.5,-449 5353.53,-447.47 5356.5,-445.8 5359.41,-444.02"/>
-<polygon fill="none" stroke="midnightblue" points="3495.94,-524.33 3486.01,-528.02 3496.07,-531.33 3495.94,-524.33"/>
+<path fill="none" stroke="midnightblue" d="M3587.3,-527.79C3950.11,-520.67 5280.03,-491.74 5358.5,-449 5379.5,-437.56 5396.74,-418.85 5410.31,-399.27"/>
+<polygon fill="none" stroke="midnightblue" points="3587.03,-524.29 3577.1,-527.99 3587.17,-531.29 3587.03,-524.29"/>
 </g>
 <!-- Node52 -->
-<g id="node43" class="node">
+<g id="node42" class="node">
 <title>Node52</title>
-<g id="a_node43"><a xlink:href="../../d7/d79/classpocketmine_1_1block_1_1_tall_grass.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="5563.5,-265 5563.5,-377 5741.5,-377 5741.5,-265 5563.5,-265"/>
-<text text-anchor="middle" x="5652.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\TallGrass</text>
-<polyline fill="none" stroke="#bfbfbf" points="5563.5,-358 5741.5,-358 "/>
-<text text-anchor="middle" x="5652.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="5563.5,-339 5741.5,-339 "/>
-<text text-anchor="start" x="5571.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeReplaced()</text>
-<text text-anchor="start" x="5571.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForIncompatibleTool()</text>
-<text text-anchor="start" x="5571.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlameEncouragement()</text>
-<text text-anchor="start" x="5571.5" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlammability()</text>
-<text text-anchor="start" x="5571.5" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="5571.5" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<g id="a_node42"><a xlink:href="../../d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="5547.5,-193.5 5547.5,-448.5 5733.5,-448.5 5733.5,-193.5 5547.5,-193.5"/>
+<text text-anchor="middle" x="5640.5" y="-436.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\SweetBerryBush</text>
+<polyline fill="none" stroke="#bfbfbf" points="5547.5,-429.5 5733.5,-429.5 "/>
+<text text-anchor="start" x="5555.5" y="-417.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ STAGE_BUSH_NO_BERRIES</text>
+<text text-anchor="start" x="5555.5" y="-406.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ STAGE_BUSH_SOME_BERRIES</text>
+<text text-anchor="start" x="5555.5" y="-395.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ STAGE_MATURE</text>
+<text text-anchor="start" x="5555.5" y="-384.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ STAGE_SAPLING</text>
+<text text-anchor="start" x="5555.5" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $age</text>
+<polyline fill="none" stroke="#bfbfbf" points="5547.5,-366.5 5733.5,-366.5 "/>
+<text text-anchor="start" x="5555.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ asItem()</text>
+<text text-anchor="start" x="5555.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAge()</text>
+<text text-anchor="start" x="5555.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBerryDropAmount()</text>
+<text text-anchor="start" x="5555.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
+<text text-anchor="start" x="5555.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
+<text text-anchor="start" x="5555.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ hasEntityCollision()</text>
+<text text-anchor="start" x="5555.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onEntityInside()</text>
+<text text-anchor="start" x="5555.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
+<text text-anchor="start" x="5555.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="5555.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onRandomTick()</text>
+<text text-anchor="start" x="5555.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="5555.5" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAge()</text>
+<text text-anchor="start" x="5555.5" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ticksRandomly()</text>
+<text text-anchor="start" x="5555.5" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00"># canBeSupportedBy()</text>
+<text text-anchor="start" x="5555.5" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node52 -->
-<g id="edge42" class="edge">
+<g id="edge41" class="edge">
 <title>Node1&#45;&gt;Node52</title>
-<path fill="none" stroke="midnightblue" d="M3496.36,-528.24C3893.58,-522.47 5461.78,-496.74 5554.5,-449 5584.71,-433.45 5608.38,-403.87 5624.89,-377.18"/>
-<polygon fill="none" stroke="midnightblue" points="3496.02,-524.75 3486.07,-528.39 3496.12,-531.75 3496.02,-524.75"/>
+<path fill="none" stroke="midnightblue" d="M3587.55,-528.01C3972.45,-521.44 5450.37,-493.41 5538.5,-449 5541.53,-447.47 5544.5,-445.81 5547.41,-444.03"/>
+<polygon fill="none" stroke="midnightblue" points="3587.24,-524.51 3577.3,-528.18 3587.35,-531.51 3587.24,-524.51"/>
 </g>
 <!-- Node53 -->
-<g id="node44" class="node">
+<g id="node43" class="node">
 <title>Node53</title>
-<g id="a_node44"><a xlink:href="../../d2/d00/classpocketmine_1_1block_1_1_torch.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="orangered" points="5759.5,-259.5 5759.5,-382.5 5921.5,-382.5 5921.5,-259.5 5759.5,-259.5"/>
-<text text-anchor="middle" x="5840.5" y="-370.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Torch</text>
-<polyline fill="none" stroke="orangered" points="5759.5,-363.5 5921.5,-363.5 "/>
-<text text-anchor="start" x="5767.5" y="-351.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $facing</text>
-<polyline fill="none" stroke="orangered" points="5759.5,-344.5 5921.5,-344.5 "/>
-<text text-anchor="start" x="5767.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFacing()</text>
-<text text-anchor="start" x="5767.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLightLevel()</text>
-<text text-anchor="start" x="5767.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
-<text text-anchor="start" x="5767.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="5767.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
-<text text-anchor="start" x="5767.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFacing()</text>
-<text text-anchor="start" x="5767.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<g id="a_node43"><a xlink:href="../../d7/d79/classpocketmine_1_1block_1_1_tall_grass.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="5751.5,-265 5751.5,-377 5929.5,-377 5929.5,-265 5751.5,-265"/>
+<text text-anchor="middle" x="5840.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\TallGrass</text>
+<polyline fill="none" stroke="#bfbfbf" points="5751.5,-358 5929.5,-358 "/>
+<text text-anchor="middle" x="5840.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="5751.5,-339 5929.5,-339 "/>
+<text text-anchor="start" x="5759.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeReplaced()</text>
+<text text-anchor="start" x="5759.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForIncompatibleTool()</text>
+<text text-anchor="start" x="5759.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlameEncouragement()</text>
+<text text-anchor="start" x="5759.5" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlammability()</text>
+<text text-anchor="start" x="5759.5" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="5759.5" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node53 -->
-<g id="edge43" class="edge">
+<g id="edge42" class="edge">
 <title>Node1&#45;&gt;Node53</title>
-<path fill="none" stroke="midnightblue" d="M3496.29,-528.63C3915.7,-524.33 5649.68,-503.34 5750.5,-449 5777.5,-434.45 5798.25,-407.84 5812.98,-382.72"/>
-<polygon fill="none" stroke="midnightblue" points="3496,-525.13 3486.03,-528.74 3496.07,-532.13 3496,-525.13"/>
+<path fill="none" stroke="midnightblue" d="M3587.4,-528.4C3995.78,-523.16 5645.25,-498.98 5742.5,-449 5772.72,-433.47 5796.39,-403.9 5812.9,-377.2"/>
+<polygon fill="none" stroke="midnightblue" points="3587.07,-524.9 3577.12,-528.53 3587.16,-531.9 3587.07,-524.9"/>
 </g>
-<!-- Node56 -->
-<g id="node45" class="node">
-<title>Node56</title>
-<g id="a_node45"><a xlink:href="../../d5/d77/classpocketmine_1_1block_1_1_tripwire.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="5939.5,-221 5939.5,-421 6101.5,-421 6101.5,-221 5939.5,-221"/>
-<text text-anchor="middle" x="6020.5" y="-409" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Tripwire</text>
-<polyline fill="none" stroke="#bfbfbf" points="5939.5,-402 6101.5,-402 "/>
-<text text-anchor="start" x="5947.5" y="-390" font-family="Helvetica,sans-Serif" font-size="10.00"># $connected</text>
-<text text-anchor="start" x="5947.5" y="-379" font-family="Helvetica,sans-Serif" font-size="10.00"># $disarmed</text>
-<text text-anchor="start" x="5947.5" y="-368" font-family="Helvetica,sans-Serif" font-size="10.00"># $suspended</text>
-<text text-anchor="start" x="5947.5" y="-357" font-family="Helvetica,sans-Serif" font-size="10.00"># $triggered</text>
-<polyline fill="none" stroke="#bfbfbf" points="5939.5,-350 6101.5,-350 "/>
-<text text-anchor="start" x="5947.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ asItem()</text>
-<text text-anchor="start" x="5947.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
-<text text-anchor="start" x="5947.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ isConnected()</text>
-<text text-anchor="start" x="5947.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ isDisarmed()</text>
-<text text-anchor="start" x="5947.5" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">+ isSuspended()</text>
-<text text-anchor="start" x="5947.5" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00">+ isTriggered()</text>
-<text text-anchor="start" x="5947.5" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00">+ setConnected()</text>
-<text text-anchor="start" x="5947.5" y="-261" font-family="Helvetica,sans-Serif" font-size="10.00">+ setDisarmed()</text>
-<text text-anchor="start" x="5947.5" y="-250" font-family="Helvetica,sans-Serif" font-size="10.00">+ setSuspended()</text>
-<text text-anchor="start" x="5947.5" y="-239" font-family="Helvetica,sans-Serif" font-size="10.00">+ setTriggered()</text>
-<text text-anchor="start" x="5947.5" y="-228" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<!-- Node54 -->
+<g id="node44" class="node">
+<title>Node54</title>
+<g id="a_node44"><a xlink:href="../../d2/d00/classpocketmine_1_1block_1_1_torch.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="orangered" points="5947.5,-259.5 5947.5,-382.5 6109.5,-382.5 6109.5,-259.5 5947.5,-259.5"/>
+<text text-anchor="middle" x="6028.5" y="-370.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Torch</text>
+<polyline fill="none" stroke="orangered" points="5947.5,-363.5 6109.5,-363.5 "/>
+<text text-anchor="start" x="5955.5" y="-351.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $facing</text>
+<polyline fill="none" stroke="orangered" points="5947.5,-344.5 6109.5,-344.5 "/>
+<text text-anchor="start" x="5955.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFacing()</text>
+<text text-anchor="start" x="5955.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLightLevel()</text>
+<text text-anchor="start" x="5955.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
+<text text-anchor="start" x="5955.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="5955.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="5955.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFacing()</text>
+<text text-anchor="start" x="5955.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node56 -->
-<g id="edge44" class="edge">
-<title>Node1&#45;&gt;Node56</title>
-<path fill="none" stroke="midnightblue" d="M3496.35,-528.86C3935.46,-525.5 5821.31,-507.67 5930.5,-449 5943.47,-442.03 5955,-432.27 5965.11,-421.23"/>
-<polygon fill="none" stroke="midnightblue" points="3496.22,-525.36 3486.25,-528.94 3496.27,-532.36 3496.22,-525.36"/>
+<!-- Node1&#45;&gt;Node54 -->
+<g id="edge43" class="edge">
+<title>Node1&#45;&gt;Node54</title>
+<path fill="none" stroke="midnightblue" d="M3587.5,-528.76C4017.94,-524.97 5833.19,-505.66 5938.5,-449 5965.51,-434.47 5986.26,-407.86 6000.99,-382.73"/>
+<polygon fill="none" stroke="midnightblue" points="3587.25,-525.26 3577.29,-528.85 3587.32,-532.26 3587.25,-525.26"/>
 </g>
 <!-- Node57 -->
-<g id="node46" class="node">
+<g id="node45" class="node">
 <title>Node57</title>
-<g id="a_node46"><a xlink:href="../../da/df6/classpocketmine_1_1block_1_1_tripwire_hook.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="6119.5,-254 6119.5,-388 6289.5,-388 6289.5,-254 6119.5,-254"/>
-<text text-anchor="middle" x="6204.5" y="-376" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\TripwireHook</text>
-<polyline fill="none" stroke="#bfbfbf" points="6119.5,-369 6289.5,-369 "/>
-<text text-anchor="start" x="6127.5" y="-357" font-family="Helvetica,sans-Serif" font-size="10.00"># $connected</text>
-<text text-anchor="start" x="6127.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"># $powered</text>
-<polyline fill="none" stroke="#bfbfbf" points="6119.5,-339 6289.5,-339 "/>
-<text text-anchor="start" x="6127.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
-<text text-anchor="start" x="6127.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ isConnected()</text>
-<text text-anchor="start" x="6127.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ isPowered()</text>
-<text text-anchor="start" x="6127.5" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
-<text text-anchor="start" x="6127.5" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00">+ setConnected()</text>
-<text text-anchor="start" x="6127.5" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPowered()</text>
-<text text-anchor="start" x="6127.5" y="-261" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<g id="a_node45"><a xlink:href="../../d5/d77/classpocketmine_1_1block_1_1_tripwire.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="6127.5,-221 6127.5,-421 6289.5,-421 6289.5,-221 6127.5,-221"/>
+<text text-anchor="middle" x="6208.5" y="-409" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Tripwire</text>
+<polyline fill="none" stroke="#bfbfbf" points="6127.5,-402 6289.5,-402 "/>
+<text text-anchor="start" x="6135.5" y="-390" font-family="Helvetica,sans-Serif" font-size="10.00"># $connected</text>
+<text text-anchor="start" x="6135.5" y="-379" font-family="Helvetica,sans-Serif" font-size="10.00"># $disarmed</text>
+<text text-anchor="start" x="6135.5" y="-368" font-family="Helvetica,sans-Serif" font-size="10.00"># $suspended</text>
+<text text-anchor="start" x="6135.5" y="-357" font-family="Helvetica,sans-Serif" font-size="10.00"># $triggered</text>
+<polyline fill="none" stroke="#bfbfbf" points="6127.5,-350 6289.5,-350 "/>
+<text text-anchor="start" x="6135.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ asItem()</text>
+<text text-anchor="start" x="6135.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
+<text text-anchor="start" x="6135.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ isConnected()</text>
+<text text-anchor="start" x="6135.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ isDisarmed()</text>
+<text text-anchor="start" x="6135.5" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">+ isSuspended()</text>
+<text text-anchor="start" x="6135.5" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00">+ isTriggered()</text>
+<text text-anchor="start" x="6135.5" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00">+ setConnected()</text>
+<text text-anchor="start" x="6135.5" y="-261" font-family="Helvetica,sans-Serif" font-size="10.00">+ setDisarmed()</text>
+<text text-anchor="start" x="6135.5" y="-250" font-family="Helvetica,sans-Serif" font-size="10.00">+ setSuspended()</text>
+<text text-anchor="start" x="6135.5" y="-239" font-family="Helvetica,sans-Serif" font-size="10.00">+ setTriggered()</text>
+<text text-anchor="start" x="6135.5" y="-228" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node57 -->
-<g id="edge45" class="edge">
+<g id="edge44" class="edge">
 <title>Node1&#45;&gt;Node57</title>
-<path fill="none" stroke="midnightblue" d="M3496.36,-529.02C3954.31,-526.31 5992.28,-510.8 6110.5,-449 6136.15,-435.59 6156.62,-411.67 6171.83,-388.17"/>
-<polygon fill="none" stroke="midnightblue" points="3496.14,-525.52 3486.16,-529.08 3496.18,-532.52 3496.14,-525.52"/>
+<path fill="none" stroke="midnightblue" d="M3587.16,-528.98C4036.16,-526.1 6004.78,-510.02 6118.5,-449 6131.48,-442.04 6143.01,-432.28 6153.12,-421.24"/>
+<polygon fill="none" stroke="midnightblue" points="3587.13,-525.48 3577.15,-529.04 3587.17,-532.48 3587.13,-525.48"/>
 </g>
 <!-- Node58 -->
-<g id="node47" class="node">
+<g id="node46" class="node">
 <title>Node58</title>
-<g id="a_node47"><a xlink:href="../../d1/de5/classpocketmine_1_1block_1_1_vine.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="6307.5,-226.5 6307.5,-415.5 6469.5,-415.5 6469.5,-226.5 6307.5,-226.5"/>
-<text text-anchor="middle" x="6388.5" y="-403.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Vine</text>
-<polyline fill="none" stroke="#bfbfbf" points="6307.5,-396.5 6469.5,-396.5 "/>
-<text text-anchor="start" x="6315.5" y="-384.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $faces</text>
-<polyline fill="none" stroke="#bfbfbf" points="6307.5,-377.5 6469.5,-377.5 "/>
-<text text-anchor="start" x="6315.5" y="-365.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeReplaced()</text>
-<text text-anchor="start" x="6315.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canClimb()</text>
-<text text-anchor="start" x="6315.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDrops()</text>
-<text text-anchor="start" x="6315.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFaces()</text>
-<text text-anchor="start" x="6315.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlameEncouragement()</text>
-<text text-anchor="start" x="6315.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlammability()</text>
-<text text-anchor="start" x="6315.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
-<text text-anchor="start" x="6315.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ hasEntityCollision()</text>
-<text text-anchor="start" x="6315.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ hasFace()</text>
-<text text-anchor="start" x="6315.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onEntityInside()</text>
-<text text-anchor="start" x="6315.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 6 more...</text>
-<text text-anchor="start" x="6315.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
-<text text-anchor="start" x="6315.5" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
+<g id="a_node46"><a xlink:href="../../da/df6/classpocketmine_1_1block_1_1_tripwire_hook.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="6307.5,-254 6307.5,-388 6477.5,-388 6477.5,-254 6307.5,-254"/>
+<text text-anchor="middle" x="6392.5" y="-376" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\TripwireHook</text>
+<polyline fill="none" stroke="#bfbfbf" points="6307.5,-369 6477.5,-369 "/>
+<text text-anchor="start" x="6315.5" y="-357" font-family="Helvetica,sans-Serif" font-size="10.00"># $connected</text>
+<text text-anchor="start" x="6315.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"># $powered</text>
+<polyline fill="none" stroke="#bfbfbf" points="6307.5,-339 6477.5,-339 "/>
+<text text-anchor="start" x="6315.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
+<text text-anchor="start" x="6315.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ isConnected()</text>
+<text text-anchor="start" x="6315.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ isPowered()</text>
+<text text-anchor="start" x="6315.5" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="6315.5" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00">+ setConnected()</text>
+<text text-anchor="start" x="6315.5" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPowered()</text>
+<text text-anchor="start" x="6315.5" y="-261" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node58 -->
-<g id="edge46" class="edge">
+<g id="edge45" class="edge">
 <title>Node1&#45;&gt;Node58</title>
-<path fill="none" stroke="midnightblue" d="M3496.41,-529.25C3973.62,-527.64 6172.15,-516.56 6298.5,-449 6313.63,-440.91 6326.8,-429.02 6338.03,-415.71"/>
-<polygon fill="none" stroke="midnightblue" points="3496.12,-525.75 3486.13,-529.28 3496.14,-532.75 3496.12,-525.75"/>
+<path fill="none" stroke="midnightblue" d="M3587.18,-529.12C4054.71,-526.86 6175.72,-513.11 6298.5,-449 6324.15,-435.61 6344.63,-411.68 6359.83,-388.18"/>
+<polygon fill="none" stroke="midnightblue" points="3587.09,-525.62 3577.11,-529.16 3587.12,-532.62 3587.09,-525.62"/>
 </g>
 <!-- Node59 -->
-<g id="node48" class="node">
+<g id="node47" class="node">
 <title>Node59</title>
-<g id="a_node48"><a xlink:href="../../d5/dd1/classpocketmine_1_1block_1_1_water_lily.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="6488,-281.5 6488,-360.5 6649,-360.5 6649,-281.5 6488,-281.5"/>
-<text text-anchor="middle" x="6568.5" y="-348.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\WaterLily</text>
-<polyline fill="none" stroke="#bfbfbf" points="6488,-341.5 6649,-341.5 "/>
-<text text-anchor="middle" x="6568.5" y="-329.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="6488,-322.5 6649,-322.5 "/>
-<text text-anchor="start" x="6496" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="6496" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
-<text text-anchor="start" x="6496" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
+<g id="a_node47"><a xlink:href="../../d1/de5/classpocketmine_1_1block_1_1_vine.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="6495.5,-226.5 6495.5,-415.5 6657.5,-415.5 6657.5,-226.5 6495.5,-226.5"/>
+<text text-anchor="middle" x="6576.5" y="-403.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Vine</text>
+<polyline fill="none" stroke="#bfbfbf" points="6495.5,-396.5 6657.5,-396.5 "/>
+<text text-anchor="start" x="6503.5" y="-384.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $faces</text>
+<polyline fill="none" stroke="#bfbfbf" points="6495.5,-377.5 6657.5,-377.5 "/>
+<text text-anchor="start" x="6503.5" y="-365.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeReplaced()</text>
+<text text-anchor="start" x="6503.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canClimb()</text>
+<text text-anchor="start" x="6503.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDrops()</text>
+<text text-anchor="start" x="6503.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFaces()</text>
+<text text-anchor="start" x="6503.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlameEncouragement()</text>
+<text text-anchor="start" x="6503.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlammability()</text>
+<text text-anchor="start" x="6503.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
+<text text-anchor="start" x="6503.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ hasEntityCollision()</text>
+<text text-anchor="start" x="6503.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ hasFace()</text>
+<text text-anchor="start" x="6503.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onEntityInside()</text>
+<text text-anchor="start" x="6503.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 6 more...</text>
+<text text-anchor="start" x="6503.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="6503.5" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node59 -->
-<g id="edge47" class="edge">
+<g id="edge46" class="edge">
 <title>Node1&#45;&gt;Node59</title>
-<path fill="none" stroke="midnightblue" d="M3496.39,-529.4C3991.26,-528.59 6343.73,-520.93 6478.5,-449 6513.78,-430.17 6538.35,-390.66 6552.8,-360.68"/>
-<polygon fill="none" stroke="midnightblue" points="3496.08,-525.9 3486.09,-529.42 3496.1,-532.9 3496.08,-525.9"/>
+<path fill="none" stroke="midnightblue" d="M3587.3,-529.33C4073.88,-528.16 6355.6,-518.92 6486.5,-449 6501.64,-440.91 6514.8,-429.03 6526.04,-415.72"/>
+<polygon fill="none" stroke="midnightblue" points="3587.16,-525.83 3577.17,-529.36 3587.18,-532.83 3587.16,-525.83"/>
 </g>
 <!-- Node60 -->
-<g id="node49" class="node">
+<g id="node48" class="node">
 <title>Node60</title>
-<g id="a_node49"><a xlink:href="../../d2/d67/classpocketmine_1_1block_1_1_wither_rose.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="6667.5,-265 6667.5,-377 6829.5,-377 6829.5,-265 6667.5,-265"/>
-<text text-anchor="middle" x="6748.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\WitherRose</text>
-<polyline fill="none" stroke="#bfbfbf" points="6667.5,-358 6829.5,-358 "/>
-<text text-anchor="middle" x="6748.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="6667.5,-339 6829.5,-339 "/>
-<text text-anchor="start" x="6675.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlameEncouragement()</text>
-<text text-anchor="start" x="6675.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlammability()</text>
-<text text-anchor="start" x="6675.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ hasEntityCollision()</text>
-<text text-anchor="start" x="6675.5" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">+ onEntityInside()</text>
-<text text-anchor="start" x="6675.5" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="6675.5" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<g id="a_node48"><a xlink:href="../../d5/dd1/classpocketmine_1_1block_1_1_water_lily.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="6676,-281.5 6676,-360.5 6837,-360.5 6837,-281.5 6676,-281.5"/>
+<text text-anchor="middle" x="6756.5" y="-348.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\WaterLily</text>
+<polyline fill="none" stroke="#bfbfbf" points="6676,-341.5 6837,-341.5 "/>
+<text text-anchor="middle" x="6756.5" y="-329.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="6676,-322.5 6837,-322.5 "/>
+<text text-anchor="start" x="6684" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="6684" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="6684" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node60 -->
-<g id="edge48" class="edge">
+<g id="edge47" class="edge">
 <title>Node1&#45;&gt;Node60</title>
-<path fill="none" stroke="midnightblue" d="M3496.29,-529.54C4008.11,-529.48 6515.29,-525.3 6658.5,-449 6687.6,-433.5 6709.4,-403.93 6724.25,-377.22"/>
-<polygon fill="none" stroke="midnightblue" points="3496,-526.04 3486,-529.54 3496,-533.04 3496,-526.04"/>
+<path fill="none" stroke="midnightblue" d="M3587.41,-529.48C4091.65,-529.08 6527.19,-523.28 6666.5,-449 6701.79,-430.18 6726.36,-390.68 6740.8,-360.69"/>
+<polygon fill="none" stroke="midnightblue" points="3587.27,-525.98 3577.28,-529.49 3587.28,-532.98 3587.27,-525.98"/>
+</g>
+<!-- Node61 -->
+<g id="node49" class="node">
+<title>Node61</title>
+<g id="a_node49"><a xlink:href="../../d2/d67/classpocketmine_1_1block_1_1_wither_rose.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="6855.5,-265 6855.5,-377 7017.5,-377 7017.5,-265 6855.5,-265"/>
+<text text-anchor="middle" x="6936.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\WitherRose</text>
+<polyline fill="none" stroke="#bfbfbf" points="6855.5,-358 7017.5,-358 "/>
+<text text-anchor="middle" x="6936.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="6855.5,-339 7017.5,-339 "/>
+<text text-anchor="start" x="6863.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlameEncouragement()</text>
+<text text-anchor="start" x="6863.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlammability()</text>
+<text text-anchor="start" x="6863.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ hasEntityCollision()</text>
+<text text-anchor="start" x="6863.5" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">+ onEntityInside()</text>
+<text text-anchor="start" x="6863.5" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="6863.5" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+</a>
+</g>
+</g>
+<!-- Node1&#45;&gt;Node61 -->
+<g id="edge48" class="edge">
+<title>Node1&#45;&gt;Node61</title>
+<path fill="none" stroke="midnightblue" d="M3587.49,-529.61C4108.82,-529.95 6698.75,-527.65 6846.5,-449 6875.6,-433.51 6897.41,-403.94 6912.26,-377.23"/>
+<polygon fill="none" stroke="midnightblue" points="3587.38,-526.11 3577.38,-529.6 3587.38,-533.11 3587.38,-526.11"/>
 </g>
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="../../d5/d1b/classpocketmine_1_1block_1_1_transparent.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="3324,-612.5 3324,-669.5 3487,-669.5 3487,-612.5 3324,-612.5"/>
-<text text-anchor="middle" x="3405.5" y="-657.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Transparent</text>
-<polyline fill="none" stroke="black" points="3324,-650.5 3487,-650.5 "/>
-<text text-anchor="middle" x="3405.5" y="-638.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="3324,-631.5 3487,-631.5 "/>
-<text text-anchor="start" x="3332" y="-619.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isTransparent()</text>
+<polygon fill="white" stroke="black" points="3415,-612.5 3415,-669.5 3578,-669.5 3578,-612.5 3415,-612.5"/>
+<text text-anchor="middle" x="3496.5" y="-657.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Transparent</text>
+<polyline fill="none" stroke="black" points="3415,-650.5 3578,-650.5 "/>
+<text text-anchor="middle" x="3496.5" y="-638.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="3415,-631.5 3578,-631.5 "/>
+<text text-anchor="start" x="3423" y="-619.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isTransparent()</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
 <title>Node2&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M3405.5,-602.21C3405.5,-593.61 3405.5,-584.39 3405.5,-575.55"/>
-<polygon fill="none" stroke="midnightblue" points="3402,-602.34 3405.5,-612.34 3409,-602.34 3402,-602.34"/>
+<path fill="none" stroke="midnightblue" d="M3496.5,-602.21C3496.5,-593.61 3496.5,-584.39 3496.5,-575.55"/>
+<polygon fill="none" stroke="midnightblue" points="3493,-602.34 3496.5,-612.34 3500,-602.34 3493,-602.34"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="../../d7/d27/classpocketmine_1_1block_1_1_block.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="3317.5,-706.5 3317.5,-983.5 3493.5,-983.5 3493.5,-706.5 3317.5,-706.5"/>
-<text text-anchor="middle" x="3405.5" y="-971.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Block</text>
-<polyline fill="none" stroke="#bfbfbf" points="3317.5,-964.5 3493.5,-964.5 "/>
-<text text-anchor="start" x="3325.5" y="-952.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ INTERNAL_STATE_DATA_BITS</text>
-<text text-anchor="start" x="3325.5" y="-941.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ INTERNAL_STATE_DATA_MASK</text>
-<text text-anchor="start" x="3325.5" y="-930.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $collisionBoxes</text>
-<text text-anchor="start" x="3325.5" y="-919.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $fallbackName</text>
-<text text-anchor="start" x="3325.5" y="-908.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $idInfo</text>
-<text text-anchor="start" x="3325.5" y="-897.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $position</text>
-<text text-anchor="start" x="3325.5" y="-886.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $typeInfo</text>
-<polyline fill="none" stroke="#bfbfbf" points="3317.5,-879.5 3493.5,-879.5 "/>
-<text text-anchor="start" x="3325.5" y="-867.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="3325.5" y="-856.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __clone()</text>
-<text text-anchor="start" x="3325.5" y="-845.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __toString()</text>
-<text text-anchor="start" x="3325.5" y="-834.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addVelocityToEntity()</text>
-<text text-anchor="start" x="3325.5" y="-823.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ asItem()</text>
-<text text-anchor="start" x="3325.5" y="-812.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ blocksDirectSkyLight()</text>
-<text text-anchor="start" x="3325.5" y="-801.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ burnsForever()</text>
-<text text-anchor="start" x="3325.5" y="-790.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ calculateIntercept()</text>
-<text text-anchor="start" x="3325.5" y="-779.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
-<text text-anchor="start" x="3325.5" y="-768.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
-<text text-anchor="start" x="3325.5" y="-757.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 63 more...</text>
-<text text-anchor="start" x="3325.5" y="-746.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
-<text text-anchor="start" x="3325.5" y="-735.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
-<text text-anchor="start" x="3325.5" y="-724.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getXpDropAmount()</text>
-<text text-anchor="start" x="3325.5" y="-713.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
+<polygon fill="white" stroke="#bfbfbf" points="3408.5,-706.5 3408.5,-983.5 3584.5,-983.5 3584.5,-706.5 3408.5,-706.5"/>
+<text text-anchor="middle" x="3496.5" y="-971.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Block</text>
+<polyline fill="none" stroke="#bfbfbf" points="3408.5,-964.5 3584.5,-964.5 "/>
+<text text-anchor="start" x="3416.5" y="-952.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ INTERNAL_STATE_DATA_BITS</text>
+<text text-anchor="start" x="3416.5" y="-941.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ INTERNAL_STATE_DATA_MASK</text>
+<text text-anchor="start" x="3416.5" y="-930.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $collisionBoxes</text>
+<text text-anchor="start" x="3416.5" y="-919.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $fallbackName</text>
+<text text-anchor="start" x="3416.5" y="-908.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $idInfo</text>
+<text text-anchor="start" x="3416.5" y="-897.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $position</text>
+<text text-anchor="start" x="3416.5" y="-886.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $typeInfo</text>
+<polyline fill="none" stroke="#bfbfbf" points="3408.5,-879.5 3584.5,-879.5 "/>
+<text text-anchor="start" x="3416.5" y="-867.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="3416.5" y="-856.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __clone()</text>
+<text text-anchor="start" x="3416.5" y="-845.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __toString()</text>
+<text text-anchor="start" x="3416.5" y="-834.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addVelocityToEntity()</text>
+<text text-anchor="start" x="3416.5" y="-823.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ asItem()</text>
+<text text-anchor="start" x="3416.5" y="-812.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ blocksDirectSkyLight()</text>
+<text text-anchor="start" x="3416.5" y="-801.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ burnsForever()</text>
+<text text-anchor="start" x="3416.5" y="-790.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ calculateIntercept()</text>
+<text text-anchor="start" x="3416.5" y="-779.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
+<text text-anchor="start" x="3416.5" y="-768.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
+<text text-anchor="start" x="3416.5" y="-757.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 63 more...</text>
+<text text-anchor="start" x="3416.5" y="-746.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="3416.5" y="-735.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
+<text text-anchor="start" x="3416.5" y="-724.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getXpDropAmount()</text>
+<text text-anchor="start" x="3416.5" y="-713.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node2 -->
 <g id="edge2" class="edge">
 <title>Node3&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M3405.5,-696.41C3405.5,-686.59 3405.5,-677.52 3405.5,-669.71"/>
-<polygon fill="none" stroke="midnightblue" points="3402,-696.47 3405.5,-706.47 3409,-696.47 3402,-696.47"/>
+<path fill="none" stroke="midnightblue" d="M3496.5,-696.41C3496.5,-686.59 3496.5,-677.52 3496.5,-669.71"/>
+<polygon fill="none" stroke="midnightblue" points="3493,-696.47 3496.5,-706.47 3500,-696.47 3493,-696.47"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node">
@@ -1259,61 +1290,41 @@ var sectionId = 'dynsection-0';
 <g id="node20" class="node">
 <title>Node23</title>
 <g id="a_node20"><a xlink:href="../../d7/da3/classpocketmine_1_1block_1_1_beetroot.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="1466.5,-44.5 1466.5,-112.5 1636.5,-112.5 1636.5,-44.5 1466.5,-44.5"/>
-<text text-anchor="middle" x="1551.5" y="-100.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Beetroot</text>
-<polyline fill="none" stroke="#bfbfbf" points="1466.5,-93.5 1636.5,-93.5 "/>
-<text text-anchor="middle" x="1551.5" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="1466.5,-74.5 1636.5,-74.5 "/>
-<text text-anchor="start" x="1474.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ asItem()</text>
-<text text-anchor="start" x="1474.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
+<polygon fill="white" stroke="#bfbfbf" points="1560.5,-44.5 1560.5,-112.5 1730.5,-112.5 1730.5,-44.5 1560.5,-44.5"/>
+<text text-anchor="middle" x="1645.5" y="-100.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Beetroot</text>
+<polyline fill="none" stroke="#bfbfbf" points="1560.5,-93.5 1730.5,-93.5 "/>
+<text text-anchor="middle" x="1645.5" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="1560.5,-74.5 1730.5,-74.5 "/>
+<text text-anchor="start" x="1568.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ asItem()</text>
+<text text-anchor="start" x="1568.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
 </a>
 </g>
 </g>
 <!-- Node22&#45;&gt;Node23 -->
 <g id="edge19" class="edge">
 <title>Node22&#45;&gt;Node23</title>
-<path fill="none" stroke="midnightblue" d="M1680.71,-234.65C1670.53,-220.57 1659.88,-206.25 1649.5,-193 1627.67,-165.12 1601.38,-134.83 1581.52,-112.56"/>
-<polygon fill="none" stroke="midnightblue" points="1677.97,-236.83 1686.65,-242.91 1683.65,-232.75 1677.97,-236.83"/>
+<path fill="none" stroke="midnightblue" d="M1705.7,-233.52C1689.32,-191.61 1670.61,-143.75 1658.46,-112.66"/>
+<polygon fill="none" stroke="midnightblue" points="1702.47,-234.87 1709.37,-242.91 1708.99,-232.32 1702.47,-234.87"/>
 </g>
 <!-- Node24 -->
 <g id="node21" class="node">
 <title>Node24</title>
 <g id="a_node21"><a xlink:href="../../da/dd7/classpocketmine_1_1block_1_1_carrot.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="1654.5,-44.5 1654.5,-112.5 1824.5,-112.5 1824.5,-44.5 1654.5,-44.5"/>
-<text text-anchor="middle" x="1739.5" y="-100.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Carrot</text>
-<polyline fill="none" stroke="#bfbfbf" points="1654.5,-93.5 1824.5,-93.5 "/>
-<text text-anchor="middle" x="1739.5" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="1654.5,-74.5 1824.5,-74.5 "/>
-<text text-anchor="start" x="1662.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ asItem()</text>
-<text text-anchor="start" x="1662.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
+<polygon fill="white" stroke="#bfbfbf" points="1748.5,-44.5 1748.5,-112.5 1918.5,-112.5 1918.5,-44.5 1748.5,-44.5"/>
+<text text-anchor="middle" x="1833.5" y="-100.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Carrot</text>
+<polyline fill="none" stroke="#bfbfbf" points="1748.5,-93.5 1918.5,-93.5 "/>
+<text text-anchor="middle" x="1833.5" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="1748.5,-74.5 1918.5,-74.5 "/>
+<text text-anchor="start" x="1756.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ asItem()</text>
+<text text-anchor="start" x="1756.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
 </a>
 </g>
 </g>
 <!-- Node22&#45;&gt;Node24 -->
 <g id="edge20" class="edge">
 <title>Node22&#45;&gt;Node24</title>
-<path fill="none" stroke="midnightblue" d="M1739.5,-232.72C1739.5,-191.01 1739.5,-143.56 1739.5,-112.66"/>
-<polygon fill="none" stroke="midnightblue" points="1736,-232.91 1739.5,-242.91 1743,-232.91 1736,-232.91"/>
-</g>
-<!-- Node25 -->
-<g id="node22" class="node">
-<title>Node25</title>
-<g id="a_node22"><a xlink:href="../../d4/d42/classpocketmine_1_1block_1_1_potato.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="1842.5,-44.5 1842.5,-112.5 2012.5,-112.5 2012.5,-44.5 1842.5,-44.5"/>
-<text text-anchor="middle" x="1927.5" y="-100.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Potato</text>
-<polyline fill="none" stroke="#bfbfbf" points="1842.5,-93.5 2012.5,-93.5 "/>
-<text text-anchor="middle" x="1927.5" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="1842.5,-74.5 2012.5,-74.5 "/>
-<text text-anchor="start" x="1850.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ asItem()</text>
-<text text-anchor="start" x="1850.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
-</a>
-</g>
-</g>
-<!-- Node22&#45;&gt;Node25 -->
-<g id="edge21" class="edge">
-<title>Node22&#45;&gt;Node25</title>
-<path fill="none" stroke="midnightblue" d="M1798.29,-234.65C1808.47,-220.57 1819.12,-206.25 1829.5,-193 1851.33,-165.12 1877.62,-134.83 1897.48,-112.56"/>
-<polygon fill="none" stroke="midnightblue" points="1795.35,-232.75 1792.35,-242.91 1801.03,-236.83 1795.35,-232.75"/>
+<path fill="none" stroke="midnightblue" d="M1773.3,-233.52C1789.68,-191.61 1808.39,-143.75 1820.54,-112.66"/>
+<polygon fill="none" stroke="midnightblue" points="1770.01,-232.32 1769.63,-242.91 1776.53,-234.87 1770.01,-232.32"/>
 </g>
 </g>
 </svg>

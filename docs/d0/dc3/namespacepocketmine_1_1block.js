@@ -186,6 +186,7 @@ var namespacepocketmine_1_1block =
     [ "NetherQuartzOre", "d6/dd1/classpocketmine_1_1block_1_1_nether_quartz_ore.html", "d6/dd1/classpocketmine_1_1block_1_1_nether_quartz_ore" ],
     [ "Netherrack", "d5/d84/classpocketmine_1_1block_1_1_netherrack.html", "d5/d84/classpocketmine_1_1block_1_1_netherrack" ],
     [ "NetherReactor", "d7/de5/classpocketmine_1_1block_1_1_nether_reactor.html", "d7/de5/classpocketmine_1_1block_1_1_nether_reactor" ],
+    [ "NetherVines", "d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html", "d0/dbe/classpocketmine_1_1block_1_1_nether_vines" ],
     [ "NetherWartPlant", "d8/d43/classpocketmine_1_1block_1_1_nether_wart_plant.html", "d8/d43/classpocketmine_1_1block_1_1_nether_wart_plant" ],
     [ "Note", "d3/df5/classpocketmine_1_1block_1_1_note.html", "d3/df5/classpocketmine_1_1block_1_1_note" ],
     [ "Opaque", "db/dc5/classpocketmine_1_1block_1_1_opaque.html", "db/dc5/classpocketmine_1_1block_1_1_opaque" ],

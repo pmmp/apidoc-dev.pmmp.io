@@ -118,6 +118,7 @@ var namespacepocketmine_1_1world =
       [ "WaterParticle", "de/dd7/classpocketmine_1_1world_1_1particle_1_1_water_particle.html", "de/dd7/classpocketmine_1_1world_1_1particle_1_1_water_particle" ]
     ] ],
     [ "sound", null, [
+      [ "AmethystBlockChimeSound", "d3/d33/classpocketmine_1_1world_1_1sound_1_1_amethyst_block_chime_sound.html", "d3/d33/classpocketmine_1_1world_1_1sound_1_1_amethyst_block_chime_sound" ],
       [ "AnvilBreakSound", "d1/db6/classpocketmine_1_1world_1_1sound_1_1_anvil_break_sound.html", "d1/db6/classpocketmine_1_1world_1_1sound_1_1_anvil_break_sound" ],
       [ "AnvilFallSound", "d0/d5b/classpocketmine_1_1world_1_1sound_1_1_anvil_fall_sound.html", "d0/d5b/classpocketmine_1_1world_1_1sound_1_1_anvil_fall_sound" ],
       [ "AnvilUseSound", "db/d93/classpocketmine_1_1world_1_1sound_1_1_anvil_use_sound.html", "db/d93/classpocketmine_1_1world_1_1sound_1_1_anvil_use_sound" ],
