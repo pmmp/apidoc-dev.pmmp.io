@@ -16,7 +16,6 @@ var classpocketmine_1_1utils_1_1_main_logger =
     [ "notice", "d9/d27/classpocketmine_1_1utils_1_1_main_logger.html#a7f32d187305bcfdfbda2e7bfe09afbd4", null ],
     [ "removeAttachment", "d9/d27/classpocketmine_1_1utils_1_1_main_logger.html#ae9915f7011530ae56c3ca29f745da687", null ],
     [ "removeAttachments", "d9/d27/classpocketmine_1_1utils_1_1_main_logger.html#a61815225162a3c6d9e83be3e8ffab45d", null ],
-    [ "send", "d9/d27/classpocketmine_1_1utils_1_1_main_logger.html#a9bdac143119f101d27ddd729a6bf426f", null ],
     [ "setFormat", "d9/d27/classpocketmine_1_1utils_1_1_main_logger.html#a32637791c83624c6b129e757e8fec165", null ],
     [ "warning", "d9/d27/classpocketmine_1_1utils_1_1_main_logger.html#a7815ce47f10336df6fdc92badf5ca9be", null ]
 ];

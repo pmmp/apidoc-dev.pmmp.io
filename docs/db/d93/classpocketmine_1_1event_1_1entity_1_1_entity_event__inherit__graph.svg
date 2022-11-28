@@ -59,13 +59,13 @@ var sectionId = 'dynsection-0';
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="1716.5,-689.5 1716.5,-757.5 1852.5,-757.5 1852.5,-689.5 1716.5,-689.5"/>
-<text text-anchor="start" x="1724.5" y="-745.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
-<text text-anchor="middle" x="1784.5" y="-734.5" font-family="Helvetica,sans-Serif" font-size="10.00">\EntityEvent</text>
-<polyline fill="none" stroke="black" points="1716.5,-727.5 1852.5,-727.5 "/>
-<text text-anchor="start" x="1724.5" y="-715.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $entity</text>
-<polyline fill="none" stroke="black" points="1716.5,-708.5 1852.5,-708.5 "/>
-<text text-anchor="start" x="1724.5" y="-696.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEntity()</text>
+<polygon fill="#bfbfbf" stroke="black" points="1714.5,-689.5 1714.5,-757.5 1850.5,-757.5 1850.5,-689.5 1714.5,-689.5"/>
+<text text-anchor="start" x="1722.5" y="-745.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
+<text text-anchor="middle" x="1782.5" y="-734.5" font-family="Helvetica,sans-Serif" font-size="10.00">\EntityEvent</text>
+<polyline fill="none" stroke="black" points="1714.5,-727.5 1850.5,-727.5 "/>
+<text text-anchor="start" x="1722.5" y="-715.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $entity</text>
+<polyline fill="none" stroke="black" points="1714.5,-708.5 1850.5,-708.5 "/>
+<text text-anchor="start" x="1722.5" y="-696.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEntity()</text>
 </a>
 </g>
 </g>
@@ -88,8 +88,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M1706.05,-721.3C1394.7,-716.25 260,-695.02 196.5,-653 155.35,-625.77 135.07,-570.84 125.47,-531.74"/>
-<polygon fill="none" stroke="midnightblue" points="1706.28,-724.8 1716.34,-721.47 1706.39,-717.8 1706.28,-724.8"/>
+<path fill="none" stroke="midnightblue" d="M1704.15,-721.3C1393.19,-716.24 259.92,-694.97 196.5,-653 155.35,-625.77 135.07,-570.84 125.47,-531.74"/>
+<polygon fill="none" stroke="midnightblue" points="1704.37,-724.8 1714.42,-721.46 1704.48,-717.8 1704.37,-724.8"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
@@ -110,8 +110,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node4 -->
 <g id="edge3" class="edge">
 <title>Node1&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M1706.38,-723.04C1425.95,-724.37 480.58,-723.56 366.5,-653 322.91,-626.04 297.96,-570.77 285.09,-531.53"/>
-<polygon fill="none" stroke="midnightblue" points="1706.49,-726.54 1716.47,-722.99 1706.45,-719.54 1706.49,-726.54"/>
+<path fill="none" stroke="midnightblue" d="M1704.02,-723.03C1423.39,-724.34 480.35,-723.42 366.5,-653 322.91,-626.04 297.96,-570.77 285.09,-531.53"/>
+<polygon fill="none" stroke="midnightblue" points="1704.13,-726.53 1714.11,-722.98 1704.1,-719.53 1704.13,-726.53"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node">
@@ -154,8 +154,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node7 -->
 <g id="edge6" class="edge">
 <title>Node1&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M1706.12,-722.48C1449.32,-721.83 644.16,-714.83 546.5,-653 543.32,-650.99 540.25,-648.82 537.28,-646.52"/>
-<polygon fill="none" stroke="midnightblue" points="1706.47,-725.98 1716.48,-722.51 1706.48,-718.98 1706.47,-725.98"/>
+<path fill="none" stroke="midnightblue" d="M1703.8,-722.48C1446.94,-721.79 643.94,-714.7 546.5,-653 543.32,-650.99 540.25,-648.82 537.28,-646.52"/>
+<polygon fill="none" stroke="midnightblue" points="1704.16,-725.98 1714.17,-722.5 1704.17,-718.98 1704.16,-725.98"/>
 </g>
 <!-- Node11 -->
 <g id="node11" class="node">
@@ -179,8 +179,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node11 -->
 <g id="edge10" class="edge">
 <title>Node1&#45;&gt;Node11</title>
-<path fill="none" stroke="midnightblue" d="M1706.26,-722.04C1471.29,-720.04 782.95,-709.37 700.5,-653 665.44,-629.03 645.99,-584.81 635.41,-548.11"/>
-<polygon fill="none" stroke="midnightblue" points="1706.4,-725.54 1716.43,-722.13 1706.46,-718.54 1706.4,-725.54"/>
+<path fill="none" stroke="midnightblue" d="M1703.99,-722.03C1469.07,-719.99 782.75,-709.24 700.5,-653 665.45,-629.03 645.99,-584.81 635.41,-548.11"/>
+<polygon fill="none" stroke="midnightblue" points="1704.14,-725.53 1714.17,-722.11 1704.19,-718.53 1704.14,-725.53"/>
 </g>
 <!-- Node13 -->
 <g id="node13" class="node">
@@ -199,8 +199,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node13 -->
 <g id="edge12" class="edge">
 <title>Node1&#45;&gt;Node13</title>
-<path fill="none" stroke="midnightblue" d="M1706.26,-721.14C1494.92,-716.85 923.78,-700.9 854.5,-653 810.19,-622.36 790.77,-559.43 782.73,-520.61"/>
-<polygon fill="none" stroke="midnightblue" points="1706.28,-724.64 1716.35,-721.34 1706.42,-717.64 1706.28,-724.64"/>
+<path fill="none" stroke="midnightblue" d="M1704.43,-721.13C1493.54,-716.81 923.63,-700.81 854.5,-653 810.19,-622.36 790.77,-559.43 782.73,-520.61"/>
+<polygon fill="none" stroke="midnightblue" points="1704.43,-724.63 1714.5,-721.33 1704.57,-717.63 1704.43,-724.63"/>
 </g>
 <!-- Node14 -->
 <g id="node14" class="node">
@@ -220,8 +220,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node14 -->
 <g id="edge13" class="edge">
 <title>Node1&#45;&gt;Node14</title>
-<path fill="none" stroke="midnightblue" d="M1706.15,-719.89C1520.42,-713.07 1064.72,-692.49 1008.5,-653 966.49,-623.49 946.81,-565.06 938.03,-526.12"/>
-<polygon fill="none" stroke="midnightblue" points="1706.27,-723.39 1716.39,-720.26 1706.52,-716.4 1706.27,-723.39"/>
+<path fill="none" stroke="midnightblue" d="M1704.02,-719.86C1518.55,-713.01 1064.54,-692.37 1008.5,-653 966.49,-623.49 946.82,-565.05 938.03,-526.12"/>
+<polygon fill="none" stroke="midnightblue" points="1704.12,-723.37 1714.24,-720.24 1704.38,-716.37 1704.12,-723.37"/>
 </g>
 <!-- Node17 -->
 <g id="node17" class="node">
@@ -245,8 +245,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node17 -->
 <g id="edge16" class="edge">
 <title>Node1&#45;&gt;Node17</title>
-<path fill="none" stroke="midnightblue" d="M1706.04,-723.07C1558.7,-722.65 1247.74,-714.28 1162.5,-653 1128.28,-628.4 1108.83,-584.69 1098.04,-548.37"/>
-<polygon fill="none" stroke="midnightblue" points="1706.36,-726.57 1716.36,-723.08 1706.37,-719.57 1706.36,-726.57"/>
+<path fill="none" stroke="midnightblue" d="M1704.02,-723.03C1557.03,-722.55 1247.41,-714.06 1162.5,-653 1128.28,-628.39 1108.84,-584.68 1098.05,-548.36"/>
+<polygon fill="none" stroke="midnightblue" points="1704.31,-726.53 1714.31,-723.05 1704.32,-719.53 1704.31,-726.53"/>
 </g>
 <!-- Node18 -->
 <g id="node18" class="node">
@@ -270,8 +270,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node18 -->
 <g id="edge17" class="edge">
 <title>Node1&#45;&gt;Node18</title>
-<path fill="none" stroke="midnightblue" d="M1705.76,-719.69C1588.81,-714.07 1376.56,-697.84 1316.5,-653 1282.85,-627.88 1263.41,-584.43 1252.48,-548.35"/>
-<polygon fill="none" stroke="midnightblue" points="1705.92,-723.2 1716.08,-720.17 1706.25,-716.21 1705.92,-723.2"/>
+<path fill="none" stroke="midnightblue" d="M1704.09,-719.65C1587.64,-713.97 1376.29,-697.67 1316.5,-653 1282.86,-627.87 1263.42,-584.42 1252.49,-548.34"/>
+<polygon fill="none" stroke="midnightblue" points="1704.21,-723.16 1714.37,-720.14 1704.54,-716.17 1704.21,-723.16"/>
 </g>
 <!-- Node19 -->
 <g id="node19" class="node">
@@ -291,149 +291,149 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node19 -->
 <g id="edge18" class="edge">
 <title>Node1&#45;&gt;Node19</title>
-<path fill="none" stroke="midnightblue" d="M1706.15,-713.18C1625.35,-702.18 1506.25,-681.71 1470.5,-653 1430.84,-621.15 1410.64,-564.19 1401.09,-526.12"/>
-<polygon fill="none" stroke="midnightblue" points="1705.93,-716.68 1716.3,-714.53 1706.85,-709.74 1705.93,-716.68"/>
+<path fill="none" stroke="midnightblue" d="M1704.3,-713.07C1624.01,-702.02 1505.96,-681.51 1470.5,-653 1430.86,-621.13 1410.66,-564.17 1401.1,-526.1"/>
+<polygon fill="none" stroke="midnightblue" points="1704,-716.56 1714.38,-714.44 1704.94,-709.62 1704,-716.56"/>
 </g>
 <!-- Node20 -->
 <g id="node20" class="node">
 <title>Node20</title>
-<g id="a_node20"><a xlink:href="../../da/d3f/classpocketmine_1_1event_1_1entity_1_1_entity_regain_health_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1479.5,-414 1479.5,-559 1621.5,-559 1621.5,-414 1479.5,-414"/>
-<text text-anchor="start" x="1487.5" y="-547" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
-<text text-anchor="middle" x="1550.5" y="-536" font-family="Helvetica,sans-Serif" font-size="10.00">\EntityRegainHealthEvent</text>
-<polyline fill="none" stroke="black" points="1479.5,-529 1621.5,-529 "/>
-<text text-anchor="start" x="1487.5" y="-517" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_CUSTOM</text>
-<text text-anchor="start" x="1487.5" y="-506" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_EATING</text>
-<text text-anchor="start" x="1487.5" y="-495" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_MAGIC</text>
-<text text-anchor="start" x="1487.5" y="-484" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_REGEN</text>
-<text text-anchor="start" x="1487.5" y="-473" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_SATURATION</text>
-<polyline fill="none" stroke="black" points="1479.5,-466 1621.5,-466 "/>
-<text text-anchor="start" x="1487.5" y="-454" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="1487.5" y="-443" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAmount()</text>
-<text text-anchor="start" x="1487.5" y="-432" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRegainReason()</text>
-<text text-anchor="start" x="1487.5" y="-421" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAmount()</text>
+<g id="a_node20"><a xlink:href="../../d4/dd2/classpocketmine_1_1event_1_1entity_1_1_entity_pre_explode_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="1479.5,-430.5 1479.5,-542.5 1615.5,-542.5 1615.5,-430.5 1479.5,-430.5"/>
+<text text-anchor="start" x="1487.5" y="-530.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
+<text text-anchor="middle" x="1547.5" y="-519.5" font-family="Helvetica,sans-Serif" font-size="10.00">\EntityPreExplodeEvent</text>
+<polyline fill="none" stroke="black" points="1479.5,-512.5 1615.5,-512.5 "/>
+<text text-anchor="middle" x="1547.5" y="-500.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="1479.5,-493.5 1615.5,-493.5 "/>
+<text text-anchor="start" x="1487.5" y="-481.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="1487.5" y="-470.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getForce()</text>
+<text text-anchor="start" x="1487.5" y="-459.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isBlockBreaking()</text>
+<text text-anchor="start" x="1487.5" y="-448.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setBlockBreaking()</text>
+<text text-anchor="start" x="1487.5" y="-437.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setForce()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node20 -->
 <g id="edge19" class="edge">
 <title>Node1&#45;&gt;Node20</title>
-<path fill="none" stroke="midnightblue" d="M1706.9,-699.68C1680.22,-688.87 1651.74,-673.69 1630.5,-653 1604.1,-627.28 1585.23,-591.08 1572.48,-559.09"/>
-<polygon fill="none" stroke="midnightblue" points="1705.66,-702.95 1716.25,-703.32 1708.2,-696.43 1705.66,-702.95"/>
+<path fill="none" stroke="midnightblue" d="M1704.91,-701.08C1676.89,-690.29 1646.72,-674.76 1624.5,-653 1593.71,-622.85 1573.9,-578.02 1562.1,-542.63"/>
+<polygon fill="none" stroke="midnightblue" points="1703.72,-704.37 1714.31,-704.56 1706.15,-697.81 1703.72,-704.37"/>
 </g>
 <!-- Node21 -->
 <g id="node21" class="node">
 <title>Node21</title>
-<g id="a_node21"><a xlink:href="../../d2/d96/classpocketmine_1_1event_1_1entity_1_1_entity_shoot_bow_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1639.5,-419.5 1639.5,-553.5 1775.5,-553.5 1775.5,-419.5 1639.5,-419.5"/>
-<text text-anchor="start" x="1647.5" y="-541.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
-<text text-anchor="middle" x="1707.5" y="-530.5" font-family="Helvetica,sans-Serif" font-size="10.00">\EntityShootBowEvent</text>
-<polyline fill="none" stroke="black" points="1639.5,-523.5 1775.5,-523.5 "/>
-<text text-anchor="middle" x="1707.5" y="-511.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="1639.5,-504.5 1775.5,-504.5 "/>
-<text text-anchor="start" x="1647.5" y="-492.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="1647.5" y="-481.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBow()</text>
-<text text-anchor="start" x="1647.5" y="-470.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEntity()</text>
-<text text-anchor="start" x="1647.5" y="-459.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getForce()</text>
-<text text-anchor="start" x="1647.5" y="-448.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getProjectile()</text>
-<text text-anchor="start" x="1647.5" y="-437.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setForce()</text>
-<text text-anchor="start" x="1647.5" y="-426.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setProjectile()</text>
+<g id="a_node21"><a xlink:href="../../da/d3f/classpocketmine_1_1event_1_1entity_1_1_entity_regain_health_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="1633.5,-414 1633.5,-559 1775.5,-559 1775.5,-414 1633.5,-414"/>
+<text text-anchor="start" x="1641.5" y="-547" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
+<text text-anchor="middle" x="1704.5" y="-536" font-family="Helvetica,sans-Serif" font-size="10.00">\EntityRegainHealthEvent</text>
+<polyline fill="none" stroke="black" points="1633.5,-529 1775.5,-529 "/>
+<text text-anchor="start" x="1641.5" y="-517" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_CUSTOM</text>
+<text text-anchor="start" x="1641.5" y="-506" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_EATING</text>
+<text text-anchor="start" x="1641.5" y="-495" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_MAGIC</text>
+<text text-anchor="start" x="1641.5" y="-484" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_REGEN</text>
+<text text-anchor="start" x="1641.5" y="-473" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_SATURATION</text>
+<polyline fill="none" stroke="black" points="1633.5,-466 1775.5,-466 "/>
+<text text-anchor="start" x="1641.5" y="-454" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="1641.5" y="-443" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAmount()</text>
+<text text-anchor="start" x="1641.5" y="-432" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRegainReason()</text>
+<text text-anchor="start" x="1641.5" y="-421" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAmount()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node21 -->
 <g id="edge20" class="edge">
 <title>Node1&#45;&gt;Node21</title>
-<path fill="none" stroke="midnightblue" d="M1770.38,-679.39C1758.87,-644.28 1742.43,-594.11 1729.25,-553.88"/>
-<polygon fill="none" stroke="midnightblue" points="1767.19,-680.92 1773.63,-689.33 1773.84,-678.74 1767.19,-680.92"/>
+<path fill="none" stroke="midnightblue" d="M1768.33,-679.81C1757.18,-646.2 1741.38,-598.62 1728.3,-559.2"/>
+<polygon fill="none" stroke="midnightblue" points="1765.02,-680.94 1771.49,-689.33 1771.66,-678.74 1765.02,-680.94"/>
 </g>
 <!-- Node22 -->
 <g id="node22" class="node">
 <title>Node22</title>
-<g id="a_node22"><a xlink:href="../../df/d6f/classpocketmine_1_1event_1_1entity_1_1_entity_spawn_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1793.5,-452.5 1793.5,-520.5 1929.5,-520.5 1929.5,-452.5 1793.5,-452.5"/>
-<text text-anchor="start" x="1801.5" y="-508.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
-<text text-anchor="middle" x="1861.5" y="-497.5" font-family="Helvetica,sans-Serif" font-size="10.00">\EntitySpawnEvent</text>
-<polyline fill="none" stroke="black" points="1793.5,-490.5 1929.5,-490.5 "/>
-<text text-anchor="middle" x="1861.5" y="-478.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="1793.5,-471.5 1929.5,-471.5 "/>
-<text text-anchor="start" x="1801.5" y="-459.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<g id="a_node22"><a xlink:href="../../d2/d96/classpocketmine_1_1event_1_1entity_1_1_entity_shoot_bow_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="1793.5,-419.5 1793.5,-553.5 1929.5,-553.5 1929.5,-419.5 1793.5,-419.5"/>
+<text text-anchor="start" x="1801.5" y="-541.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
+<text text-anchor="middle" x="1861.5" y="-530.5" font-family="Helvetica,sans-Serif" font-size="10.00">\EntityShootBowEvent</text>
+<polyline fill="none" stroke="black" points="1793.5,-523.5 1929.5,-523.5 "/>
+<text text-anchor="middle" x="1861.5" y="-511.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="1793.5,-504.5 1929.5,-504.5 "/>
+<text text-anchor="start" x="1801.5" y="-492.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="1801.5" y="-481.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBow()</text>
+<text text-anchor="start" x="1801.5" y="-470.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEntity()</text>
+<text text-anchor="start" x="1801.5" y="-459.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getForce()</text>
+<text text-anchor="start" x="1801.5" y="-448.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getProjectile()</text>
+<text text-anchor="start" x="1801.5" y="-437.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setForce()</text>
+<text text-anchor="start" x="1801.5" y="-426.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setProjectile()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node22 -->
 <g id="edge21" class="edge">
 <title>Node1&#45;&gt;Node22</title>
-<path fill="none" stroke="midnightblue" d="M1798.53,-679.68C1813.55,-633.86 1837.04,-562.15 1850.69,-520.5"/>
-<polygon fill="none" stroke="midnightblue" points="1795.16,-678.74 1795.37,-689.33 1801.81,-680.92 1795.16,-678.74"/>
+<path fill="none" stroke="midnightblue" d="M1796.84,-679.85C1808.65,-644.71 1825.6,-594.28 1839.19,-553.88"/>
+<polygon fill="none" stroke="midnightblue" points="1793.52,-678.73 1793.65,-689.33 1800.16,-680.97 1793.52,-678.73"/>
 </g>
 <!-- Node23 -->
 <g id="node23" class="node">
 <title>Node23</title>
-<g id="a_node23"><a xlink:href="../../dc/df2/classpocketmine_1_1event_1_1entity_1_1_entity_teleport_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1947.5,-436 1947.5,-537 2083.5,-537 2083.5,-436 1947.5,-436"/>
-<text text-anchor="start" x="1955.5" y="-525" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
-<text text-anchor="middle" x="2015.5" y="-514" font-family="Helvetica,sans-Serif" font-size="10.00">\EntityTeleportEvent</text>
-<polyline fill="none" stroke="black" points="1947.5,-507 2083.5,-507 "/>
-<text text-anchor="middle" x="2015.5" y="-495" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="1947.5,-488 2083.5,-488 "/>
-<text text-anchor="start" x="1955.5" y="-476" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="1955.5" y="-465" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFrom()</text>
-<text text-anchor="start" x="1955.5" y="-454" font-family="Helvetica,sans-Serif" font-size="10.00">+ getTo()</text>
-<text text-anchor="start" x="1955.5" y="-443" font-family="Helvetica,sans-Serif" font-size="10.00">+ setTo()</text>
+<g id="a_node23"><a xlink:href="../../df/d6f/classpocketmine_1_1event_1_1entity_1_1_entity_spawn_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="1947.5,-452.5 1947.5,-520.5 2083.5,-520.5 2083.5,-452.5 1947.5,-452.5"/>
+<text text-anchor="start" x="1955.5" y="-508.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
+<text text-anchor="middle" x="2015.5" y="-497.5" font-family="Helvetica,sans-Serif" font-size="10.00">\EntitySpawnEvent</text>
+<polyline fill="none" stroke="black" points="1947.5,-490.5 2083.5,-490.5 "/>
+<text text-anchor="middle" x="2015.5" y="-478.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="1947.5,-471.5 2083.5,-471.5 "/>
+<text text-anchor="start" x="1955.5" y="-459.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node23 -->
 <g id="edge22" class="edge">
 <title>Node1&#45;&gt;Node23</title>
-<path fill="none" stroke="midnightblue" d="M1861.91,-699.99C1888.72,-689.2 1917.32,-673.94 1938.5,-653 1970.73,-621.14 1990.98,-573.23 2002.57,-537.15"/>
-<polygon fill="none" stroke="midnightblue" points="1860.58,-696.75 1852.52,-703.63 1863.11,-703.28 1860.58,-696.75"/>
+<path fill="none" stroke="midnightblue" d="M1860.19,-700.47C1887.55,-689.68 1916.85,-674.3 1938.5,-653 1976,-616.11 1997.24,-557.47 2007.55,-520.8"/>
+<polygon fill="none" stroke="midnightblue" points="1858.73,-697.28 1850.61,-704.09 1861.2,-703.83 1858.73,-697.28"/>
 </g>
 <!-- Node24 -->
 <g id="node24" class="node">
 <title>Node24</title>
-<g id="a_node24"><a xlink:href="../../d0/d41/classpocketmine_1_1event_1_1entity_1_1_entity_trample_farmland_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="2101.5,-447 2101.5,-526 2261.5,-526 2261.5,-447 2101.5,-447"/>
-<text text-anchor="start" x="2109.5" y="-514" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
-<text text-anchor="middle" x="2181.5" y="-503" font-family="Helvetica,sans-Serif" font-size="10.00">\EntityTrampleFarmlandEvent</text>
-<polyline fill="none" stroke="black" points="2101.5,-496 2261.5,-496 "/>
-<text text-anchor="middle" x="2181.5" y="-484" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="2101.5,-477 2261.5,-477 "/>
-<text text-anchor="start" x="2109.5" y="-465" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="2109.5" y="-454" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
+<g id="a_node24"><a xlink:href="../../dc/df2/classpocketmine_1_1event_1_1entity_1_1_entity_teleport_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="2101.5,-436 2101.5,-537 2237.5,-537 2237.5,-436 2101.5,-436"/>
+<text text-anchor="start" x="2109.5" y="-525" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
+<text text-anchor="middle" x="2169.5" y="-514" font-family="Helvetica,sans-Serif" font-size="10.00">\EntityTeleportEvent</text>
+<polyline fill="none" stroke="black" points="2101.5,-507 2237.5,-507 "/>
+<text text-anchor="middle" x="2169.5" y="-495" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="2101.5,-488 2237.5,-488 "/>
+<text text-anchor="start" x="2109.5" y="-476" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="2109.5" y="-465" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFrom()</text>
+<text text-anchor="start" x="2109.5" y="-454" font-family="Helvetica,sans-Serif" font-size="10.00">+ getTo()</text>
+<text text-anchor="start" x="2109.5" y="-443" font-family="Helvetica,sans-Serif" font-size="10.00">+ setTo()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node24 -->
 <g id="edge23" class="edge">
 <title>Node1&#45;&gt;Node24</title>
-<path fill="none" stroke="midnightblue" d="M1862.44,-712.4C1941.41,-700.88 2056.87,-680.07 2092.5,-653 2134.19,-621.33 2158.59,-564.31 2170.99,-526.19"/>
-<polygon fill="none" stroke="midnightblue" points="1861.91,-708.94 1852.51,-713.83 1862.91,-715.87 1861.91,-708.94"/>
+<path fill="none" stroke="midnightblue" d="M1860.56,-712.96C1940.32,-701.85 2057.33,-681.32 2092.5,-653 2128.41,-624.08 2148.38,-574.57 2158.92,-537.22"/>
+<polygon fill="none" stroke="midnightblue" points="1859.97,-709.51 1850.53,-714.34 1860.92,-716.45 1859.97,-709.51"/>
 </g>
 <!-- Node25 -->
 <g id="node25" class="node">
 <title>Node25</title>
-<g id="a_node25"><a xlink:href="../../d1/dd7/classpocketmine_1_1event_1_1entity_1_1_explosion_prime_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="2279.5,-430.5 2279.5,-542.5 2415.5,-542.5 2415.5,-430.5 2279.5,-430.5"/>
-<text text-anchor="start" x="2287.5" y="-530.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
-<text text-anchor="middle" x="2347.5" y="-519.5" font-family="Helvetica,sans-Serif" font-size="10.00">\ExplosionPrimeEvent</text>
-<polyline fill="none" stroke="black" points="2279.5,-512.5 2415.5,-512.5 "/>
-<text text-anchor="middle" x="2347.5" y="-500.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="2279.5,-493.5 2415.5,-493.5 "/>
-<text text-anchor="start" x="2287.5" y="-481.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="2287.5" y="-470.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getForce()</text>
-<text text-anchor="start" x="2287.5" y="-459.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isBlockBreaking()</text>
-<text text-anchor="start" x="2287.5" y="-448.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setBlockBreaking()</text>
-<text text-anchor="start" x="2287.5" y="-437.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setForce()</text>
+<g id="a_node25"><a xlink:href="../../d0/d41/classpocketmine_1_1event_1_1entity_1_1_entity_trample_farmland_event.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="2255.5,-447 2255.5,-526 2415.5,-526 2415.5,-447 2255.5,-447"/>
+<text text-anchor="start" x="2263.5" y="-514" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
+<text text-anchor="middle" x="2335.5" y="-503" font-family="Helvetica,sans-Serif" font-size="10.00">\EntityTrampleFarmlandEvent</text>
+<polyline fill="none" stroke="black" points="2255.5,-496 2415.5,-496 "/>
+<text text-anchor="middle" x="2335.5" y="-484" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="2255.5,-477 2415.5,-477 "/>
+<text text-anchor="start" x="2263.5" y="-465" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="2263.5" y="-454" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node25 -->
 <g id="edge24" class="edge">
 <title>Node1&#45;&gt;Node25</title>
-<path fill="none" stroke="midnightblue" d="M1863,-720.2C1983.69,-715.22 2207.5,-699.78 2270.5,-653 2305.99,-626.65 2325.67,-579.87 2336.23,-542.75"/>
-<polygon fill="none" stroke="midnightblue" points="1862.57,-716.72 1852.72,-720.61 1862.85,-723.71 1862.57,-716.72"/>
+<path fill="none" stroke="midnightblue" d="M1860.72,-719.15C1976.36,-712.83 2185.79,-695.71 2246.5,-653 2289.59,-622.69 2313.74,-564.75 2325.69,-526.11"/>
+<polygon fill="none" stroke="midnightblue" points="1860.32,-715.67 1850.52,-719.7 1860.69,-722.66 1860.32,-715.67"/>
 </g>
 <!-- Node26 -->
 <g id="node26" class="node">
@@ -453,8 +453,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node26 -->
 <g id="edge25" class="edge">
 <title>Node1&#45;&gt;Node26</title>
-<path fill="none" stroke="midnightblue" d="M1862.76,-723.36C2013.33,-723.52 2336.25,-716.24 2424.5,-653 2466.1,-623.19 2485.86,-565.13 2494.78,-526.32"/>
-<polygon fill="none" stroke="midnightblue" points="1862.67,-719.86 1852.66,-723.33 1862.65,-726.86 1862.67,-719.86"/>
+<path fill="none" stroke="midnightblue" d="M1860.72,-723.39C2011.63,-723.62 2335.91,-716.46 2424.5,-653 2466.11,-623.2 2485.86,-565.13 2494.78,-526.32"/>
+<polygon fill="none" stroke="midnightblue" points="1860.61,-719.89 1850.6,-723.36 1860.59,-726.89 1860.61,-719.89"/>
 </g>
 <!-- Node27 -->
 <g id="node27" class="node">
@@ -474,8 +474,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node27 -->
 <g id="edge26" class="edge">
 <title>Node1&#45;&gt;Node27</title>
-<path fill="none" stroke="midnightblue" d="M1862.67,-720.06C2051.41,-713.56 2520.75,-693.48 2578.5,-653 2620.54,-623.53 2640.21,-565.09 2648.98,-526.14"/>
-<polygon fill="none" stroke="midnightblue" points="1862.42,-716.57 1852.54,-720.41 1862.65,-723.57 1862.42,-716.57"/>
+<path fill="none" stroke="midnightblue" d="M1860.86,-720.08C2050.08,-713.6 2520.6,-693.57 2578.5,-653 2620.54,-623.54 2640.21,-565.09 2648.98,-526.14"/>
+<polygon fill="none" stroke="midnightblue" points="1860.59,-716.58 1850.71,-720.42 1860.82,-723.58 1860.59,-716.58"/>
 </g>
 <!-- Node28 -->
 <g id="node28" class="node">
@@ -495,8 +495,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node28 -->
 <g id="edge27" class="edge">
 <title>Node1&#45;&gt;Node28</title>
-<path fill="none" stroke="midnightblue" d="M1862.73,-721.26C2076.92,-717.25 2661.68,-701.89 2732.5,-653 2774.75,-623.83 2794.36,-565.31 2803.07,-526.26"/>
-<polygon fill="none" stroke="midnightblue" points="1862.44,-717.77 1852.51,-721.45 1862.57,-724.77 1862.44,-717.77"/>
+<path fill="none" stroke="midnightblue" d="M1860.9,-721.27C2075.54,-717.29 2661.53,-701.99 2732.5,-653 2774.75,-623.84 2794.36,-565.31 2803.07,-526.26"/>
+<polygon fill="none" stroke="midnightblue" points="1860.59,-717.78 1850.65,-721.46 1860.71,-724.78 1860.59,-717.78"/>
 </g>
 <!-- Node29 -->
 <g id="node29" class="node">
@@ -517,8 +517,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node29 -->
 <g id="edge28" class="edge">
 <title>Node1&#45;&gt;Node29</title>
-<path fill="none" stroke="midnightblue" d="M1862.8,-722.13C2100.46,-720.38 2802.51,-710.36 2886.5,-653 2927.06,-625.3 2946.73,-570.47 2955.94,-531.52"/>
-<polygon fill="none" stroke="midnightblue" points="1862.48,-718.63 1852.51,-722.2 1862.53,-725.63 1862.48,-718.63"/>
+<path fill="none" stroke="midnightblue" d="M1860.94,-722.14C2099.03,-720.41 2802.35,-710.46 2886.5,-653 2927.07,-625.3 2946.74,-570.47 2955.94,-531.52"/>
+<polygon fill="none" stroke="midnightblue" points="1860.61,-718.64 1850.63,-722.21 1860.65,-725.64 1860.61,-718.64"/>
 </g>
 <!-- Node32 -->
 <g id="node32" class="node">
@@ -538,8 +538,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node32 -->
 <g id="edge31" class="edge">
 <title>Node1&#45;&gt;Node32</title>
-<path fill="none" stroke="midnightblue" d="M1862.89,-722.79C2122.5,-723.11 2943.25,-718.86 3040.5,-653 3083.14,-624.12 3102.67,-565.22 3111.25,-526.05"/>
-<polygon fill="none" stroke="midnightblue" points="1862.8,-719.29 1852.79,-722.77 1862.79,-726.29 1862.8,-719.29"/>
+<path fill="none" stroke="midnightblue" d="M1861.02,-722.8C2121.04,-723.14 2943.09,-718.96 3040.5,-653 3083.14,-624.12 3102.67,-565.22 3111.25,-526.05"/>
+<polygon fill="none" stroke="midnightblue" points="1860.91,-719.3 1850.9,-722.78 1860.9,-726.3 1860.91,-719.3"/>
 </g>
 <!-- Node33 -->
 <g id="node33" class="node">
@@ -572,8 +572,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node33 -->
 <g id="edge32" class="edge">
 <title>Node1&#45;&gt;Node33</title>
-<path fill="none" stroke="midnightblue" d="M1863.08,-720.8C2151.55,-714.28 3138.35,-689.4 3194.5,-653 3215.18,-639.59 3231.01,-619.42 3243.03,-597.72"/>
-<polygon fill="none" stroke="midnightblue" points="1862.63,-717.31 1852.71,-721.03 1862.79,-724.31 1862.63,-717.31"/>
+<path fill="none" stroke="midnightblue" d="M1861.19,-720.8C2150.07,-714.3 3138.27,-689.45 3194.5,-653 3215.18,-639.59 3231.01,-619.42 3243.03,-597.72"/>
+<polygon fill="none" stroke="midnightblue" points="1860.72,-717.31 1850.81,-721.04 1860.88,-724.31 1860.72,-717.31"/>
 </g>
 <!-- Node34 -->
 <g id="node34" class="node">
@@ -598,28 +598,28 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node34 -->
 <g id="edge33" class="edge">
 <title>Node1&#45;&gt;Node34</title>
-<path fill="none" stroke="midnightblue" d="M1862.9,-721.15C2172.73,-715.57 3298.09,-692.62 3362.5,-653 3398.43,-630.9 3421.68,-589.52 3435.95,-553.67"/>
-<polygon fill="none" stroke="midnightblue" points="1862.6,-717.66 1852.66,-721.34 1862.72,-724.66 1862.6,-717.66"/>
+<path fill="none" stroke="midnightblue" d="M1861,-721.16C2171.22,-715.58 3298,-692.67 3362.5,-653 3398.43,-630.9 3421.68,-589.52 3435.95,-553.67"/>
+<polygon fill="none" stroke="midnightblue" points="1860.68,-717.66 1850.75,-721.34 1860.81,-724.66 1860.68,-717.66"/>
 </g>
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="../../d1/d2f/classpocketmine_1_1event_1_1_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="1717,-794.5 1717,-862.5 1852,-862.5 1852,-794.5 1717,-794.5"/>
-<text text-anchor="middle" x="1784.5" y="-850.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\Event</text>
-<polyline fill="none" stroke="#bfbfbf" points="1717,-843.5 1852,-843.5 "/>
-<text text-anchor="start" x="1725" y="-831.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $eventName</text>
-<polyline fill="none" stroke="#bfbfbf" points="1717,-824.5 1852,-824.5 "/>
-<text text-anchor="start" x="1725" y="-812.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ call()</text>
-<text text-anchor="start" x="1725" y="-801.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEventName()</text>
+<polygon fill="white" stroke="#bfbfbf" points="1715,-794.5 1715,-862.5 1850,-862.5 1850,-794.5 1715,-794.5"/>
+<text text-anchor="middle" x="1782.5" y="-850.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\Event</text>
+<polyline fill="none" stroke="#bfbfbf" points="1715,-843.5 1850,-843.5 "/>
+<text text-anchor="start" x="1723" y="-831.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $eventName</text>
+<polyline fill="none" stroke="#bfbfbf" points="1715,-824.5 1850,-824.5 "/>
+<text text-anchor="start" x="1723" y="-812.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ call()</text>
+<text text-anchor="start" x="1723" y="-801.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEventName()</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
 <title>Node2&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M1784.5,-784.14C1784.5,-775.26 1784.5,-766.04 1784.5,-757.59"/>
-<polygon fill="none" stroke="midnightblue" points="1781,-784.34 1784.5,-794.34 1788,-784.34 1781,-784.34"/>
+<path fill="none" stroke="midnightblue" d="M1782.5,-784.14C1782.5,-775.26 1782.5,-766.04 1782.5,-757.59"/>
+<polygon fill="none" stroke="midnightblue" points="1779,-784.34 1782.5,-794.34 1786,-784.34 1779,-784.34"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">

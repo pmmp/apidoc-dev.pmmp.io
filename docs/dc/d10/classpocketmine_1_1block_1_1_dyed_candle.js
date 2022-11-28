@@ -34,7 +34,7 @@ var classpocketmine_1_1block_1_1_dyed_candle =
     [ "getPickedItem", "dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#aac6828efb885bc8fe0f8876728ddde5d", null ],
     [ "getSide", "dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#a6f13ff76dad934b1b2e078a5b57dd7a5", null ],
     [ "getSilkTouchDrops", "dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#a4b01df2347f9cc897c5eb2858d6c5e7e", null ],
-    [ "getSupportType", "dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#a2f69b17d8bb1c49eaf8ee1b13e4fd6e2", null ],
+    [ "getSupportType", "dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#aa9e81fc2689fa0263e4d9db5529bcd56", null ],
     [ "getTypeId", "dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#a994b80e9138156e5b90a803def57c7db", null ],
     [ "getTypeTags", "dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#a6201b0d5460ae6f3b5cee03197c9a94a", null ],
     [ "getXpDropAmount", "dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#a771a30c30a36b0992f54c57dc63af10d", null ],

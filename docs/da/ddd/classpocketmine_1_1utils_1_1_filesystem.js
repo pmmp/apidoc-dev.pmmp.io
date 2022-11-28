@@ -1,6 +1,5 @@
 var classpocketmine_1_1utils_1_1_filesystem =
 [
-    [ "cleanPath", "da/ddd/classpocketmine_1_1utils_1_1_filesystem.html#a7d96685bd46a8cbb094199e98006a811", null ],
     [ "createLockFile", "da/ddd/classpocketmine_1_1utils_1_1_filesystem.html#a637d20643fcb722bbc5556b43bda0d59", null ],
     [ "getCleanedPaths", "da/ddd/classpocketmine_1_1utils_1_1_filesystem.html#a4c3ae51775c0d2f54e91bd3467909d5d", null ],
     [ "recursiveCopy", "da/ddd/classpocketmine_1_1utils_1_1_filesystem.html#a414d066751a7b3cc582344123835f5ff", null ],

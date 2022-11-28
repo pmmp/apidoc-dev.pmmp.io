@@ -594,25 +594,28 @@
 <g id="node27" class="node">
 <title>Node28</title>
 <g id="a_node27"><a xlink:href="../../d4/d66/classpocketmine_1_1block_1_1_furnace.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="4298,-22.5 4298,-145.5 4460,-145.5 4460,-22.5 4298,-22.5"/>
-<text text-anchor="middle" x="4379" y="-133.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Furnace</text>
-<polyline fill="none" stroke="#bfbfbf" points="4298,-126.5 4460,-126.5 "/>
-<text text-anchor="start" x="4306" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $lit</text>
-<polyline fill="none" stroke="#bfbfbf" points="4298,-107.5 4460,-107.5 "/>
-<text text-anchor="start" x="4306" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLightLevel()</text>
-<text text-anchor="start" x="4306" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
-<text text-anchor="start" x="4306" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isLit()</text>
-<text text-anchor="start" x="4306" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
-<text text-anchor="start" x="4306" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onScheduledUpdate()</text>
-<text text-anchor="start" x="4306" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setLit()</text>
-<text text-anchor="start" x="4306" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<polygon fill="white" stroke="#bfbfbf" points="4298,-6 4298,-162 4460,-162 4460,-6 4298,-6"/>
+<text text-anchor="middle" x="4379" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Furnace</text>
+<polyline fill="none" stroke="#bfbfbf" points="4298,-143 4460,-143 "/>
+<text text-anchor="start" x="4306" y="-131" font-family="Helvetica,sans-Serif" font-size="10.00"># $furnaceType</text>
+<text text-anchor="start" x="4306" y="-120" font-family="Helvetica,sans-Serif" font-size="10.00"># $lit</text>
+<polyline fill="none" stroke="#bfbfbf" points="4298,-113 4460,-113 "/>
+<text text-anchor="start" x="4306" y="-101" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="4306" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFurnaceType()</text>
+<text text-anchor="start" x="4306" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLightLevel()</text>
+<text text-anchor="start" x="4306" y="-68" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
+<text text-anchor="start" x="4306" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">+ isLit()</text>
+<text text-anchor="start" x="4306" y="-46" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
+<text text-anchor="start" x="4306" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00">+ onScheduledUpdate()</text>
+<text text-anchor="start" x="4306" y="-24" font-family="Helvetica,sans-Serif" font-size="10.00">+ setLit()</text>
+<text text-anchor="start" x="4306" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node28 -->
 <g id="edge26" class="edge">
 <title>Node2&#45;&gt;Node28</title>
-<path fill="none" stroke="midnightblue" d="M4197.26,-203.55C4237.93,-189.01 4280.35,-173.3 4289,-168 4299.51,-161.56 4309.88,-153.78 4319.63,-145.59"/>
+<path fill="none" stroke="midnightblue" d="M4197.26,-203.55C4237.93,-189.01 4280.35,-173.3 4289,-168 4292.08,-166.11 4295.15,-164.11 4298.19,-162.01"/>
 <polygon fill="none" stroke="midnightblue" points="4196.05,-200.26 4187.8,-206.91 4198.4,-206.86 4196.05,-200.26"/>
 </g>
 <!-- Node29 -->

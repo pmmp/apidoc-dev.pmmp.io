@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA6 git-858d3dce8e0950885e8399f56b6d1488763a5ebd</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA6 git-8f20b9da9123be723d9215c7588710f89abbe01f</span>
    </div>
   </td>
  </tr>
@@ -133,8 +133,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a9be9d892b6130648bcf5433330eba096"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abb31f220a09e40bb22c29bb68a693e7c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d4e/classpocketmine_1_1scheduler_1_1_async_worker.html#abb31f220a09e40bb22c29bb68a693e7c">removeFromThreadStore</a> (string $identifier)</td></tr>
 <tr class="separator:abb31f220a09e40bb22c29bb68a693e7c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9092eed63e1463de757152febae0b3e1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d4e/classpocketmine_1_1scheduler_1_1_async_worker.html#a9092eed63e1463de757152febae0b3e1">saveToThreadStore</a> (string $identifier, $value)</td></tr>
-<tr class="separator:a9092eed63e1463de757152febae0b3e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adf6cfa9e72379b162d462a2e9dc8d301"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d4e/classpocketmine_1_1scheduler_1_1_async_worker.html#adf6cfa9e72379b162d462a2e9dc8d301">saveToThreadStore</a> (string $identifier, mixed $value)</td></tr>
+<tr class="separator:adf6cfa9e72379b162d462a2e9dc8d301"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad69f3e9413fd4e5d2c41b2f507700497"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d42/classpocketmine_1_1thread_1_1_worker.html#ad69f3e9413fd4e5d2c41b2f507700497">start</a> (int $options=PTHREADS_INHERIT_NONE)</td></tr>
 <tr class="separator:ad69f3e9413fd4e5d2c41b2f507700497"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -226,10 +226,9 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <p >Retrieves mixed data from the worker's thread-local object store.</p>
 <p >Note that the thread-local object store could be cleared and your data might not exist, so your code should account for the possibility that what you're trying to retrieve might not exist.</p>
-<p >Objects stored in this storage may ONLY be retrieved while the task is running.</p>
-<dl class="section return"><dt>Returns</dt><dd>mixed </dd></dl>
+<p >Objects stored in this storage may ONLY be retrieved while the task is running. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d5/dff/_async_worker_8php_source.html#l00099">99</a> of file <a class="el" href="../../d5/dff/_async_worker_8php_source.html">AsyncWorker.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/dff/_async_worker_8php_source.html#l00095">95</a> of file <a class="el" href="../../d5/dff/_async_worker_8php_source.html">AsyncWorker.php</a>.</p>
 
 </div>
 </div>
@@ -382,12 +381,12 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <p >Removes previously-stored mixed data from the worker's thread-local object store. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d5/dff/_async_worker_8php_source.html#l00109">109</a> of file <a class="el" href="../../d5/dff/_async_worker_8php_source.html">AsyncWorker.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/dff/_async_worker_8php_source.html#l00105">105</a> of file <a class="el" href="../../d5/dff/_async_worker_8php_source.html">AsyncWorker.php</a>.</p>
 
 </div>
 </div>
-<a id="a9092eed63e1463de757152febae0b3e1" name="a9092eed63e1463de757152febae0b3e1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9092eed63e1463de757152febae0b3e1">&#9670;&nbsp;</a></span>saveToThreadStore()</h2>
+<a id="adf6cfa9e72379b162d462a2e9dc8d301" name="adf6cfa9e72379b162d462a2e9dc8d301"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adf6cfa9e72379b162d462a2e9dc8d301">&#9670;&nbsp;</a></span>saveToThreadStore()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -401,7 +400,7 @@ Protected Member Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">&#160;</td>
+          <td class="paramtype">mixed&#160;</td>
           <td class="paramname"><em>$value</em>&#160;</td>
         </tr>
         <tr>
@@ -411,15 +410,9 @@ Protected Member Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p >Saves mixed data into the worker's thread-local object store. This can be used to store objects which you want to use on this worker thread from multiple AsyncTasks.</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramtype">mixed</td><td class="paramname">$value</td><td></td></tr>
-  </table>
-  </dd>
-</dl>
+<p >Saves mixed data into the worker's thread-local object store. This can be used to store objects which you want to use on this worker thread from multiple AsyncTasks. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d5/dff/_async_worker_8php_source.html#l00082">82</a> of file <a class="el" href="../../d5/dff/_async_worker_8php_source.html">AsyncWorker.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/dff/_async_worker_8php_source.html#l00080">80</a> of file <a class="el" href="../../d5/dff/_async_worker_8php_source.html">AsyncWorker.php</a>.</p>
 
 </div>
 </div>
