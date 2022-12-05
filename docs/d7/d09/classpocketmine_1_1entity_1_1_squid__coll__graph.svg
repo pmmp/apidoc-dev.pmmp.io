@@ -124,8 +124,8 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="494" y="-703.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAirSupplyTicks()</text>
 <text text-anchor="start" x="494" y="-692.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getArmorInventory()</text>
 <text text-anchor="start" x="494" y="-681.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getArmorPoints()</text>
-<text text-anchor="start" x="494" y="-670.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDrops()</text>
-<text text-anchor="start" x="494" y="-659.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 33 more...</text>
+<text text-anchor="start" x="494" y="-670.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDisplayName()</text>
+<text text-anchor="start" x="494" y="-659.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 34 more...</text>
 <text text-anchor="start" x="494" y="-648.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addAttributes()</text>
 <text text-anchor="start" x="494" y="-637.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyConsumptionResults()</text>
 <text text-anchor="start" x="494" y="-626.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyPostDamageEffects()</text>

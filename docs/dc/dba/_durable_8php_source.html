@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA6 git-8f20b9da9123be723d9215c7588710f89abbe01f</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA6 git-ca3b5c38b7c6d6dab3e0212bb1508f02b04d4539</span>
    </div>
   </td>
  </tr>
@@ -187,7 +187,7 @@ $(document).ready(function(){initNavTree('dc/dba/_durable_8php_source.html','../
 <div class="line"><a id="l00112" name="l00112"></a><span class="lineno"><a class="line" href="../../dc/d20/classpocketmine_1_1item_1_1_durable.html#a9118d0900d0db339b4c61981d0be8aac">  112</a></span>    <span class="keyword">abstract</span> <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../dc/d20/classpocketmine_1_1item_1_1_durable.html#a9118d0900d0db339b4c61981d0be8aac">getMaxDurability</a>() : int;</div>
 <div class="line"><a id="l00113" name="l00113"></a><span class="lineno">  113</span> </div>
 <div class="line"><a id="l00117" name="l00117"></a><span class="lineno"><a class="line" href="../../dc/d20/classpocketmine_1_1item_1_1_durable.html#a9dd261853760b5df7ddacfd351b8df15">  117</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../dc/d20/classpocketmine_1_1item_1_1_durable.html#a9dd261853760b5df7ddacfd351b8df15">isBroken</a>() : bool{</div>
-<div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span>        return $this-&gt;damage &gt;= $this-&gt;getMaxDurability();</div>
+<div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span>        return $this-&gt;damage &gt;= $this-&gt;getMaxDurability() || $this-&gt;isNull();</div>
 <div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>    }</div>
 <div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span> </div>
 <div class="line"><a id="l00121" name="l00121"></a><span class="lineno"><a class="line" href="../../dc/d20/classpocketmine_1_1item_1_1_durable.html#a444bab7a652a1dc604048e392f5887cd">  121</a></span>    <span class="keyword">protected</span> <span class="keyword">function</span> <a class="code hl_function" href="../../dc/d20/classpocketmine_1_1item_1_1_durable.html#a444bab7a652a1dc604048e392f5887cd">deserializeCompoundTag</a>(<a class="code hl_class" href="../../de/d67/classpocketmine_1_1nbt_1_1tag_1_1_compound_tag.html">CompoundTag</a> $tag) : void{</div>

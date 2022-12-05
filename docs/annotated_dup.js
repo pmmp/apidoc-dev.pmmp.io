@@ -412,7 +412,8 @@ var annotated_dup =
         [ "RecipeIngredient", "dd/d65/interfacepocketmine_1_1crafting_1_1_recipe_ingredient.html", null ],
         [ "ShapedRecipe", "d6/dbb/classpocketmine_1_1crafting_1_1_shaped_recipe.html", "d6/dbb/classpocketmine_1_1crafting_1_1_shaped_recipe" ],
         [ "ShapelessRecipe", "dd/d02/classpocketmine_1_1crafting_1_1_shapeless_recipe.html", "dd/d02/classpocketmine_1_1crafting_1_1_shapeless_recipe" ],
-        [ "ShapelessRecipeType", "df/d32/classpocketmine_1_1crafting_1_1_shapeless_recipe_type.html", null ]
+        [ "ShapelessRecipeType", "df/d32/classpocketmine_1_1crafting_1_1_shapeless_recipe_type.html", null ],
+        [ "TagWildcardRecipeIngredient", "d4/d64/classpocketmine_1_1crafting_1_1_tag_wildcard_recipe_ingredient.html", null ]
       ] ],
       [ "crash", null, [
         [ "CrashDump", "d7/d2c/classpocketmine_1_1crash_1_1_crash_dump.html", null ],
@@ -490,6 +491,7 @@ var annotated_dup =
           [ "EnchantmentIdMap", "d3/d24/classpocketmine_1_1data_1_1bedrock_1_1_enchantment_id_map.html", null ],
           [ "EnchantmentIds", "d4/d2f/classpocketmine_1_1data_1_1bedrock_1_1_enchantment_ids.html", null ],
           [ "EntityLegacyIds", "d1/d3e/classpocketmine_1_1data_1_1bedrock_1_1_entity_legacy_ids.html", null ],
+          [ "ItemTagToIdMap", "d0/dbe/classpocketmine_1_1data_1_1bedrock_1_1_item_tag_to_id_map.html", "d0/dbe/classpocketmine_1_1data_1_1bedrock_1_1_item_tag_to_id_map" ],
           [ "LegacyBiomeIdToStringIdMap", "d2/d33/classpocketmine_1_1data_1_1bedrock_1_1_legacy_biome_id_to_string_id_map.html", "d2/d33/classpocketmine_1_1data_1_1bedrock_1_1_legacy_biome_id_to_string_id_map" ],
           [ "LegacyEntityIdToStringIdMap", "d4/d9b/classpocketmine_1_1data_1_1bedrock_1_1_legacy_entity_id_to_string_id_map.html", "d4/d9b/classpocketmine_1_1data_1_1bedrock_1_1_legacy_entity_id_to_string_id_map" ],
           [ "LegacyToStringIdMap", "d1/d8a/classpocketmine_1_1data_1_1bedrock_1_1_legacy_to_string_id_map.html", "d1/d8a/classpocketmine_1_1data_1_1bedrock_1_1_legacy_to_string_id_map" ],
@@ -1402,6 +1404,7 @@ var annotated_dup =
             [ "UpdateAttributesPacket", "d2/d2c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_attributes_packet.html", "d2/d2c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_attributes_packet" ],
             [ "UpdateBlockPacket", "d8/d90/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_block_packet.html", "d8/d90/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_block_packet" ],
             [ "UpdateBlockSyncedPacket", "df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_block_synced_packet.html", "df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_block_synced_packet" ],
+            [ "UpdateClientInputLocksPacket", "de/d02/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_client_input_locks_packet.html", "de/d02/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_client_input_locks_packet" ],
             [ "UpdateEquipPacket", "da/d42/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_equip_packet.html", "da/d42/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_equip_packet" ],
             [ "UpdatePlayerGameTypePacket", "da/d4a/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_player_game_type_packet.html", "da/d4a/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_player_game_type_packet" ],
             [ "UpdateSoftEnumPacket", "d9/d5e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_soft_enum_packet.html", "d9/d5e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_soft_enum_packet" ],

@@ -1081,6 +1081,7 @@ var hierarchy =
     [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\stackresponse\\ItemStackResponseContainerInfo", "d4/d48/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackresponse_1_1_item_stack_response_container_info.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\stackresponse\\ItemStackResponseSlotInfo", "d9/de0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackresponse_1_1_item_stack_response_slot_info.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\ItemStackWrapper", "dd/ded/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_item_stack_wrapper.html", null ],
+    [ "pocketmine\\data\\bedrock\\ItemTagToIdMap", "d0/dbe/classpocketmine_1_1data_1_1bedrock_1_1_item_tag_to_id_map.html", null ],
     [ "pocketmine\\network\\mcpe\\convert\\ItemTranslator", "d6/dbd/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_item_translator.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\serializer\\ItemTypeDictionary", "da/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_item_type_dictionary.html", null ],
     [ "pocketmine\\network\\mcpe\\convert\\ItemTypeDictionaryFromDataHelper", "d6/dfe/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_item_type_dictionary_from_data_helper.html", null ],
@@ -1426,6 +1427,7 @@ var hierarchy =
         [ "pocketmine\\network\\mcpe\\protocol\\UpdateBlockPacket", "d8/d90/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_block_packet.html", [
           [ "pocketmine\\network\\mcpe\\protocol\\UpdateBlockSyncedPacket", "df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_block_synced_packet.html", null ]
         ] ],
+        [ "pocketmine\\network\\mcpe\\protocol\\UpdateClientInputLocksPacket", "de/d02/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_client_input_locks_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\UpdateEquipPacket", "da/d42/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_equip_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\UpdatePlayerGameTypePacket", "da/d4a/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_player_game_type_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\UpdateSoftEnumPacket", "d9/d5e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_soft_enum_packet.html", null ],
@@ -1616,6 +1618,7 @@ var hierarchy =
         [ "pocketmine\\network\\mcpe\\protocol\\UpdateAdventureSettingsPacket", "d9/dd3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_adventure_settings_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\UpdateAttributesPacket", "d2/d2c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_attributes_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\UpdateBlockPacket", "d8/d90/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_block_packet.html", null ],
+        [ "pocketmine\\network\\mcpe\\protocol\\UpdateClientInputLocksPacket", "de/d02/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_client_input_locks_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\UpdateEquipPacket", "da/d42/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_equip_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\UpdatePlayerGameTypePacket", "da/d4a/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_player_game_type_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\UpdateSoftEnumPacket", "d9/d5e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_soft_enum_packet.html", null ],
@@ -2099,7 +2102,8 @@ var hierarchy =
     [ "Stringable", null, [
       [ "pocketmine\\crafting\\RecipeIngredient", "dd/d65/interfacepocketmine_1_1crafting_1_1_recipe_ingredient.html", [
         [ "pocketmine\\crafting\\ExactRecipeIngredient", "da/dae/classpocketmine_1_1crafting_1_1_exact_recipe_ingredient.html", null ],
-        [ "pocketmine\\crafting\\MetaWildcardRecipeIngredient", "dd/d47/classpocketmine_1_1crafting_1_1_meta_wildcard_recipe_ingredient.html", null ]
+        [ "pocketmine\\crafting\\MetaWildcardRecipeIngredient", "dd/d47/classpocketmine_1_1crafting_1_1_meta_wildcard_recipe_ingredient.html", null ],
+        [ "pocketmine\\crafting\\TagWildcardRecipeIngredient", "d4/d64/classpocketmine_1_1crafting_1_1_tag_wildcard_recipe_ingredient.html", null ]
       ] ]
     ] ],
     [ "pocketmine\\utils\\StringToTParser", "d7/d64/classpocketmine_1_1utils_1_1_string_to_t_parser.html", [

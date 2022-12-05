@@ -37,8 +37,8 @@
 <text text-anchor="start" x="460" y="-542.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAirSupplyTicks()</text>
 <text text-anchor="start" x="460" y="-531.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getArmorInventory()</text>
 <text text-anchor="start" x="460" y="-520.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getArmorPoints()</text>
-<text text-anchor="start" x="460" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDrops()</text>
-<text text-anchor="start" x="460" y="-498.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 33 more...</text>
+<text text-anchor="start" x="460" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDisplayName()</text>
+<text text-anchor="start" x="460" y="-498.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 34 more...</text>
 <text text-anchor="start" x="460" y="-487.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addAttributes()</text>
 <text text-anchor="start" x="460" y="-476.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyConsumptionResults()</text>
 <text text-anchor="start" x="460" y="-465.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyPostDamageEffects()</text>

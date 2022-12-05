@@ -285,8 +285,8 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="486.99" y="-1359.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAirSupplyTicks()</text>
 <text text-anchor="start" x="486.99" y="-1348.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getArmorInventory()</text>
 <text text-anchor="start" x="486.99" y="-1337.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getArmorPoints()</text>
-<text text-anchor="start" x="486.99" y="-1326.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDrops()</text>
-<text text-anchor="start" x="486.99" y="-1315.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 33 more...</text>
+<text text-anchor="start" x="486.99" y="-1326.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDisplayName()</text>
+<text text-anchor="start" x="486.99" y="-1315.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 34 more...</text>
 <text text-anchor="start" x="486.99" y="-1304.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addAttributes()</text>
 <text text-anchor="start" x="486.99" y="-1293.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyConsumptionResults()</text>
 <text text-anchor="start" x="486.99" y="-1282.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyPostDamageEffects()</text>

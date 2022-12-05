@@ -16,5 +16,6 @@ var dir_e7c1c1475d31d734fc960a34819cd371 =
     [ "src/crafting/RecipeIngredient.php", "dc/dc3/src_2crafting_2_recipe_ingredient_8php_source.html", null ],
     [ "src/crafting/ShapedRecipe.php", "d3/d88/src_2crafting_2_shaped_recipe_8php_source.html", null ],
     [ "src/crafting/ShapelessRecipe.php", "d6/d05/src_2crafting_2_shapeless_recipe_8php_source.html", null ],
-    [ "ShapelessRecipeType.php", "d3/d75/_shapeless_recipe_type_8php_source.html", null ]
+    [ "ShapelessRecipeType.php", "d3/d75/_shapeless_recipe_type_8php_source.html", null ],
+    [ "TagWildcardRecipeIngredient.php", "df/d4f/_tag_wildcard_recipe_ingredient_8php_source.html", null ]
 ];
