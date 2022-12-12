@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA6 git-ca3b5c38b7c6d6dab3e0212bb1508f02b04d4539</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA6 git-8e600b4a78f989f394febc8de277bb95d7e6b008</span>
    </div>
   </td>
  </tr>
@@ -151,7 +151,7 @@ $(document).ready(function(){initNavTree('da/da2/_item_block_8php_source.html','
 <div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>        <span class="keywordflow">if</span>(!$factory-&gt;isRegistered($this-&gt;blockTypeId)){</div>
 <div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>            <span class="keywordflow">return</span> VanillaBlocks::AIR();</div>
 <div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>        }</div>
-<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>        $blockType = BlockFactory::getInstance()-&gt;fromTypeId($this-&gt;blockTypeId);</div>
+<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>        $blockType = $factory-&gt;fromTypeId($this-&gt;blockTypeId);</div>
 <div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>        $blockType-&gt;decodeTypeData($this-&gt;blockTypeData);</div>
 <div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>        <span class="keywordflow">return</span> $blockType;</div>
 <div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>    }</div>
