@@ -203,44 +203,46 @@
 <g id="node14" class="node">
 <title>Node14</title>
 <g id="a_node14"><a xlink:href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="113.5,-905.5 113.5,-1171.5 271.5,-1171.5 271.5,-905.5 113.5,-905.5"/>
-<text text-anchor="middle" x="192.5" y="-1159.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Item</text>
-<polyline fill="none" stroke="#bfbfbf" points="113.5,-1152.5 271.5,-1152.5 "/>
-<text text-anchor="start" x="121.5" y="-1140.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $canDestroy</text>
-<text text-anchor="start" x="121.5" y="-1129.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $canPlaceOn</text>
-<text text-anchor="start" x="121.5" y="-1118.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $count</text>
-<text text-anchor="start" x="121.5" y="-1107.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $customName</text>
-<text text-anchor="start" x="121.5" y="-1096.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $lore</text>
-<polyline fill="none" stroke="#bfbfbf" points="113.5,-1089.5 271.5,-1089.5 "/>
-<text text-anchor="start" x="121.5" y="-1077.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="121.5" y="-1066.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __clone()</text>
-<text text-anchor="start" x="121.5" y="-1055.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __toString()</text>
-<text text-anchor="start" x="121.5" y="-1044.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
-<text text-anchor="start" x="121.5" y="-1033.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canStackWith()</text>
-<text text-anchor="start" x="121.5" y="-1022.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomBlockData()</text>
-<text text-anchor="start" x="121.5" y="-1011.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomName()</text>
-<text text-anchor="start" x="121.5" y="-1000.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearNamedTag()</text>
-<text text-anchor="start" x="121.5" y="-989.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ computeTypeData()</text>
-<text text-anchor="start" x="121.5" y="-978.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ equals()</text>
-<text text-anchor="start" x="121.5" y="-967.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 42 more...</text>
-<text text-anchor="start" x="121.5" y="-956.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ legacyJsonDeserialize()</text>
-<text text-anchor="start" x="121.5" y="-945.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ nbtDeserialize()</text>
-<text text-anchor="start" x="121.5" y="-934.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
-<text text-anchor="start" x="121.5" y="-923.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
-<text text-anchor="start" x="121.5" y="-912.5" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeCompoundTag()</text>
+<polygon fill="white" stroke="#bfbfbf" points="113.5,-900 113.5,-1177 271.5,-1177 271.5,-900 113.5,-900"/>
+<text text-anchor="middle" x="192.5" y="-1165" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Item</text>
+<polyline fill="none" stroke="#bfbfbf" points="113.5,-1158 271.5,-1158 "/>
+<text text-anchor="start" x="121.5" y="-1146" font-family="Helvetica,sans-Serif" font-size="10.00"># $canDestroy</text>
+<text text-anchor="start" x="121.5" y="-1135" font-family="Helvetica,sans-Serif" font-size="10.00"># $canPlaceOn</text>
+<text text-anchor="start" x="121.5" y="-1124" font-family="Helvetica,sans-Serif" font-size="10.00"># $count</text>
+<text text-anchor="start" x="121.5" y="-1113" font-family="Helvetica,sans-Serif" font-size="10.00"># $customName</text>
+<text text-anchor="start" x="121.5" y="-1102" font-family="Helvetica,sans-Serif" font-size="10.00"># $keepOnDeath</text>
+<text text-anchor="start" x="121.5" y="-1091" font-family="Helvetica,sans-Serif" font-size="10.00"># $lore</text>
+<polyline fill="none" stroke="#bfbfbf" points="113.5,-1084 271.5,-1084 "/>
+<text text-anchor="start" x="121.5" y="-1072" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="121.5" y="-1061" font-family="Helvetica,sans-Serif" font-size="10.00">+ __clone()</text>
+<text text-anchor="start" x="121.5" y="-1050" font-family="Helvetica,sans-Serif" font-size="10.00">+ __toString()</text>
+<text text-anchor="start" x="121.5" y="-1039" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
+<text text-anchor="start" x="121.5" y="-1028" font-family="Helvetica,sans-Serif" font-size="10.00">+ canStackWith()</text>
+<text text-anchor="start" x="121.5" y="-1017" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomBlockData()</text>
+<text text-anchor="start" x="121.5" y="-1006" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomName()</text>
+<text text-anchor="start" x="121.5" y="-995" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearNamedTag()</text>
+<text text-anchor="start" x="121.5" y="-984" font-family="Helvetica,sans-Serif" font-size="10.00">+ computeTypeData()</text>
+<text text-anchor="start" x="121.5" y="-973" font-family="Helvetica,sans-Serif" font-size="10.00">+ equals()</text>
+<text text-anchor="start" x="121.5" y="-962" font-family="Helvetica,sans-Serif" font-size="10.00">and 45 more...</text>
+<text text-anchor="start" x="121.5" y="-951" font-family="Helvetica,sans-Serif" font-size="10.00">+ legacyJsonDeserialize()</text>
+<text text-anchor="start" x="121.5" y="-940" font-family="Helvetica,sans-Serif" font-size="10.00">+ nbtDeserialize()</text>
+<text text-anchor="start" x="121.5" y="-929" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
+<text text-anchor="start" x="121.5" y="-918" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
+<text text-anchor="start" x="121.5" y="-907" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeCompoundTag()</text>
 </a>
 </g>
 </g>
 <!-- Node4&#45;&gt;Node14 -->
 <g id="edge16" class="edge">
 <title>Node4&#45;&gt;Node14</title>
-<path fill="none" stroke="#404040" d="M453.85,-1471.93C407.94,-1457.84 300.8,-1418.33 249.5,-1344 215.68,-1294.99 237.37,-1270.55 226.5,-1212 224.8,-1202.82 223.01,-1193.37 221.2,-1183.85"/>
-<polygon fill="none" stroke="#404040" points="221.14,-1183.55 216.08,-1178.41 218.88,-1171.76 223.94,-1176.9 221.14,-1183.55"/>
-<text text-anchor="middle" x="316.5" y="-1297.5" font-family="Helvetica,sans-Serif" font-size="10.00"> +TAG_BLOCK_ENTITY_TAG</text>
-<text text-anchor="middle" x="316.5" y="-1286.5" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_DISPLAY</text>
-<text text-anchor="middle" x="316.5" y="-1275.5" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_DISPLAY_LORE</text>
-<text text-anchor="middle" x="316.5" y="-1264.5" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_DISPLAY_NAME</text>
-<text text-anchor="middle" x="316.5" y="-1253.5" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_ENCH</text>
+<path fill="none" stroke="#404040" d="M453.85,-1471.93C407.94,-1457.84 300.8,-1418.33 249.5,-1344 215.68,-1294.99 237.37,-1270.55 226.5,-1212 225.13,-1204.61 223.71,-1197.05 222.26,-1189.42"/>
+<polygon fill="none" stroke="#404040" points="222.21,-1189.17 217.16,-1184.03 219.96,-1177.38 225.01,-1182.53 222.21,-1189.17"/>
+<text text-anchor="middle" x="316.5" y="-1303" font-family="Helvetica,sans-Serif" font-size="10.00"> +TAG_BLOCK_ENTITY_TAG</text>
+<text text-anchor="middle" x="316.5" y="-1292" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_DISPLAY</text>
+<text text-anchor="middle" x="316.5" y="-1281" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_DISPLAY_LORE</text>
+<text text-anchor="middle" x="316.5" y="-1270" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_DISPLAY_NAME</text>
+<text text-anchor="middle" x="316.5" y="-1259" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_ENCH</text>
+<text text-anchor="middle" x="316.5" y="-1248" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_KEEP_ON_DEATH</text>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
@@ -462,8 +464,8 @@
 <!-- Node14&#45;&gt;Node13 -->
 <g id="edge14" class="edge">
 <title>Node14&#45;&gt;Node13</title>
-<path fill="none" stroke="midnightblue" d="M219.83,-895.14C225.08,-867.76 230.48,-839.63 235.41,-813.96"/>
-<polygon fill="none" stroke="midnightblue" points="216.34,-894.71 217.9,-905.19 223.22,-896.03 216.34,-894.71"/>
+<path fill="none" stroke="midnightblue" d="M220.86,-889.76C225.79,-864.05 230.82,-837.88 235.43,-813.87"/>
+<polygon fill="none" stroke="midnightblue" points="217.42,-889.1 218.97,-899.58 224.3,-890.42 217.42,-889.1"/>
 </g>
 <!-- Node15 -->
 <g id="node15" class="node">
@@ -481,7 +483,7 @@
 <!-- Node15&#45;&gt;Node14 -->
 <g id="edge15" class="edge">
 <title>Node15&#45;&gt;Node14</title>
-<path fill="none" stroke="midnightblue" d="M66.1,-1440.4C78.26,-1388.55 101.85,-1292.4 127.5,-1212 131.68,-1198.89 136.29,-1185.32 141.07,-1171.81"/>
+<path fill="none" stroke="midnightblue" d="M66.1,-1440.4C78.26,-1388.55 101.85,-1292.4 127.5,-1212 131.1,-1200.72 135.02,-1189.1 139.08,-1177.46"/>
 <polygon fill="none" stroke="midnightblue" points="62.69,-1439.63 63.83,-1450.16 69.51,-1441.21 62.69,-1439.63"/>
 </g>
 <!-- Node16 -->
@@ -516,8 +518,8 @@
 <!-- Node16&#45;&gt;Node14 -->
 <g id="edge17" class="edge">
 <title>Node16&#45;&gt;Node14</title>
-<path fill="none" stroke="#404040" d="M141.12,-1362.37C139.71,-1356.21 138.49,-1350.05 137.5,-1344 128.04,-1286.1 128.48,-1269.97 137.5,-1212 138.96,-1202.62 140.84,-1193.04 143.02,-1183.46"/>
-<polygon fill="none" stroke="#404040" points="143.03,-1183.44 140.54,-1176.67 145.83,-1171.77 148.32,-1178.54 143.03,-1183.44"/>
+<path fill="none" stroke="#404040" d="M141.12,-1362.37C139.71,-1356.21 138.49,-1350.05 137.5,-1344 128.04,-1286.1 128.48,-1269.97 137.5,-1212 138.69,-1204.37 140.15,-1196.61 141.83,-1188.83"/>
+<polygon fill="none" stroke="#404040" points="141.86,-1188.7 139.3,-1181.96 144.54,-1177 147.1,-1183.74 141.86,-1188.7"/>
 <text text-anchor="middle" x="182" y="-1275.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #$blockEntityTag</text>
 </g>
 <!-- Node17 -->

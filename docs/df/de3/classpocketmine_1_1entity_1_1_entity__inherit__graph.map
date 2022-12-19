@@ -1,23 +1,23 @@
 <map id="pocketmine\entity\Entity" name="pocketmine\entity\Entity">
-<area shape="rect" id="node1" title=" " alt="" coords="1065,5,1270,743"/>
-<area shape="rect" id="node2" href="$df/d0c/classpocketmine_1_1entity_1_1_living.html" title=" " alt="" coords="368,791,585,1337"/>
-<area shape="rect" id="node9" href="$df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html" title=" " alt="" coords="609,842,808,1286"/>
-<area shape="rect" id="node10" href="$df/d14/classpocketmine_1_1entity_1_1object_1_1_falling_block.html" title=" " alt="" coords="833,923,1035,1205"/>
-<area shape="rect" id="node11" href="$d1/d40/classpocketmine_1_1entity_1_1object_1_1_item_entity.html" title=" " alt="" coords="1060,813,1275,1315"/>
-<area shape="rect" id="node12" href="$de/dc4/classpocketmine_1_1entity_1_1object_1_1_painting.html" title=" " alt="" coords="1299,871,1505,1257"/>
-<area shape="rect" id="node13" href="$d8/da8/classpocketmine_1_1entity_1_1object_1_1_primed_t_n_t.html" title=" " alt="" coords="1529,901,1728,1227"/>
-<area shape="rect" id="node14" href="$dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html" title=" " alt="" coords="1752,893,1983,1235"/>
-<area shape="rect" id="node3" href="$d4/ddf/classpocketmine_1_1entity_1_1_human.html" title=" " alt="" coords="5,1385,223,1873"/>
-<area shape="rect" id="node5" href="$d9/d6b/classpocketmine_1_1entity_1_1_villager.html" title=" " alt="" coords="247,1503,461,1756"/>
-<area shape="rect" id="node6" href="$df/d3c/classpocketmine_1_1entity_1_1_water_animal.html" title=" " alt="" coords="485,1569,713,1690"/>
-<area shape="rect" id="node8" href="$d0/da7/classpocketmine_1_1entity_1_1_zombie.html" title=" " alt="" coords="738,1561,933,1697"/>
-<area shape="rect" id="node4" href="$d0/d6f/classpocketmine_1_1player_1_1_player.html" title=" " alt="" coords="7,1921,221,2483"/>
-<area shape="rect" id="node7" href="$d5/d49/classpocketmine_1_1entity_1_1_squid.html" title=" " alt="" coords="509,2112,689,2292"/>
-<area shape="rect" id="node15" href="$d9/dac/classpocketmine_1_1entity_1_1projectile_1_1_arrow.html" title=" " alt="" coords="1650,1385,1855,1873"/>
-<area shape="rect" id="node16" href="$d0/d86/classpocketmine_1_1entity_1_1projectile_1_1_throwable.html" title=" " alt="" coords="1879,1561,2085,1697"/>
-<area shape="rect" id="node17" href="$dc/d4e/classpocketmine_1_1entity_1_1projectile_1_1_egg.html" title=" " alt="" coords="1392,2156,1625,2248"/>
-<area shape="rect" id="node18" href="$d4/dd6/classpocketmine_1_1entity_1_1projectile_1_1_ender_pearl.html" title=" " alt="" coords="1650,2149,1855,2255"/>
-<area shape="rect" id="node19" href="$d6/d1e/classpocketmine_1_1entity_1_1projectile_1_1_experience_bottle.html" title=" " alt="" coords="1879,2134,2085,2270"/>
-<area shape="rect" id="node20" href="$d5/dcf/classpocketmine_1_1entity_1_1projectile_1_1_snowball.html" title=" " alt="" coords="2109,2149,2314,2255"/>
-<area shape="rect" id="node21" href="$d3/d2c/classpocketmine_1_1entity_1_1projectile_1_1_splash_potion.html" title=" " alt="" coords="2338,2068,2543,2336"/>
+<area shape="rect" id="node1" title=" " alt="" coords="1065,5,1270,787"/>
+<area shape="rect" id="node2" href="$df/d0c/classpocketmine_1_1entity_1_1_living.html" title=" " alt="" coords="368,835,585,1381"/>
+<area shape="rect" id="node9" href="$df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html" title=" " alt="" coords="609,886,808,1330"/>
+<area shape="rect" id="node10" href="$df/d14/classpocketmine_1_1entity_1_1object_1_1_falling_block.html" title=" " alt="" coords="833,959,1035,1257"/>
+<area shape="rect" id="node11" href="$d1/d40/classpocketmine_1_1entity_1_1object_1_1_item_entity.html" title=" " alt="" coords="1060,849,1275,1367"/>
+<area shape="rect" id="node12" href="$de/dc4/classpocketmine_1_1entity_1_1object_1_1_painting.html" title=" " alt="" coords="1299,871,1505,1345"/>
+<area shape="rect" id="node13" href="$d8/da8/classpocketmine_1_1entity_1_1object_1_1_primed_t_n_t.html" title=" " alt="" coords="1529,945,1728,1271"/>
+<area shape="rect" id="node14" href="$dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html" title=" " alt="" coords="1752,937,1983,1279"/>
+<area shape="rect" id="node3" href="$d4/ddf/classpocketmine_1_1entity_1_1_human.html" title=" " alt="" coords="5,1429,223,1917"/>
+<area shape="rect" id="node5" href="$d9/d6b/classpocketmine_1_1entity_1_1_villager.html" title=" " alt="" coords="247,1547,461,1800"/>
+<area shape="rect" id="node6" href="$df/d3c/classpocketmine_1_1entity_1_1_water_animal.html" title=" " alt="" coords="485,1613,713,1734"/>
+<area shape="rect" id="node8" href="$d0/da7/classpocketmine_1_1entity_1_1_zombie.html" title=" " alt="" coords="738,1605,933,1741"/>
+<area shape="rect" id="node4" href="$d0/d6f/classpocketmine_1_1player_1_1_player.html" title=" " alt="" coords="7,1965,221,2585"/>
+<area shape="rect" id="node7" href="$d5/d49/classpocketmine_1_1entity_1_1_squid.html" title=" " alt="" coords="509,2185,689,2365"/>
+<area shape="rect" id="node15" href="$d9/dac/classpocketmine_1_1entity_1_1projectile_1_1_arrow.html" title=" " alt="" coords="1650,1429,1855,1917"/>
+<area shape="rect" id="node16" href="$d0/d86/classpocketmine_1_1entity_1_1projectile_1_1_throwable.html" title=" " alt="" coords="1879,1605,2085,1741"/>
+<area shape="rect" id="node17" href="$dc/d4e/classpocketmine_1_1entity_1_1projectile_1_1_egg.html" title=" " alt="" coords="1392,2229,1625,2321"/>
+<area shape="rect" id="node18" href="$d4/dd6/classpocketmine_1_1entity_1_1projectile_1_1_ender_pearl.html" title=" " alt="" coords="1650,2222,1855,2329"/>
+<area shape="rect" id="node19" href="$d6/d1e/classpocketmine_1_1entity_1_1projectile_1_1_experience_bottle.html" title=" " alt="" coords="1879,2207,2085,2343"/>
+<area shape="rect" id="node20" href="$d5/dcf/classpocketmine_1_1entity_1_1projectile_1_1_snowball.html" title=" " alt="" coords="2109,2222,2314,2329"/>
+<area shape="rect" id="node21" href="$d3/d2c/classpocketmine_1_1entity_1_1projectile_1_1_splash_potion.html" title=" " alt="" coords="2338,2141,2543,2409"/>
 </map>

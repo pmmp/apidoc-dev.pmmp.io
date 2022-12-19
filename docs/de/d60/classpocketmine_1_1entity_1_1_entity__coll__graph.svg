@@ -128,8 +128,11 @@ var sectionId = 'dynsection-1';
 <title>Node2&#45;&gt;Node1</title>
 <path fill="none" stroke="#404040" d="M869.41,-1919.01C765.19,-1875.76 320.38,-1691.04 318.08,-1688 234.04,-1576.97 369.59,-1483.67 280.08,-1377 262.46,-1356 245.18,-1372.06 221.08,-1359 136.47,-1313.15 95.79,-1307.19 55.08,-1220 25.56,-1156.78 6.82,-955.24 70.08,-694 84.26,-635.44 109.67,-574.67 135.48,-522.19"/>
 <polygon fill="none" stroke="#404040" points="135.64,-521.87 134.73,-514.71 140.99,-511.12 141.9,-518.28 135.64,-521.87"/>
-<text text-anchor="middle" x="117.08" y="-1155.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #STEP_CLIP_MULTIPLIER</text>
-<text text-anchor="middle" x="117.08" y="-1144.5" font-family="Helvetica,sans-Serif" font-size="10.00">+MOTION_THRESHOLD</text>
+<text text-anchor="middle" x="117.08" y="-1172" font-family="Helvetica,sans-Serif" font-size="10.00"> #STEP_CLIP_MULTIPLIER</text>
+<text text-anchor="middle" x="117.08" y="-1161" font-family="Helvetica,sans-Serif" font-size="10.00">+MOTION_THRESHOLD</text>
+<text text-anchor="middle" x="117.08" y="-1150" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_MOTION</text>
+<text text-anchor="middle" x="117.08" y="-1139" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_POS</text>
+<text text-anchor="middle" x="117.08" y="-1128" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_ROTATION</text>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
@@ -246,8 +249,11 @@ var sectionId = 'dynsection-1';
 <title>Node2&#45;&gt;Node6</title>
 <path fill="none" stroke="#404040" d="M912.65,-1918.73C993.25,-1882.48 1272.08,-1742.02 1272.08,-1533.5 1272.08,-1533.5 1272.08,-1533.5 1272.08,-859.5 1272.08,-767.2 1280.02,-738.14 1242.08,-654 1216.07,-596.31 1178.93,-536.98 1145.05,-488.1"/>
 <polygon fill="none" stroke="#404040" points="1144.97,-487.99 1138.26,-485.36 1138.1,-478.15 1144.82,-480.78 1144.97,-487.99"/>
-<text text-anchor="middle" x="1334.08" y="-1155.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #STEP_CLIP_MULTIPLIER</text>
-<text text-anchor="middle" x="1334.08" y="-1144.5" font-family="Helvetica,sans-Serif" font-size="10.00">+MOTION_THRESHOLD</text>
+<text text-anchor="middle" x="1334.08" y="-1172" font-family="Helvetica,sans-Serif" font-size="10.00"> #STEP_CLIP_MULTIPLIER</text>
+<text text-anchor="middle" x="1334.08" y="-1161" font-family="Helvetica,sans-Serif" font-size="10.00">+MOTION_THRESHOLD</text>
+<text text-anchor="middle" x="1334.08" y="-1150" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_MOTION</text>
+<text text-anchor="middle" x="1334.08" y="-1139" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_POS</text>
+<text text-anchor="middle" x="1334.08" y="-1128" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_ROTATION</text>
 </g>
 <!-- Node10 -->
 <g id="node10" class="node">

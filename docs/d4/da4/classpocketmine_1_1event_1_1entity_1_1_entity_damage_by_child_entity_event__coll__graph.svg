@@ -282,8 +282,11 @@ var sectionId = 'dynsection-1';
 <title>Node7&#45;&gt;Node6</title>
 <path fill="none" stroke="#404040" d="M464.05,-1969.27C430.4,-1906.19 353.5,-1746.3 353.5,-1602.5 353.5,-1602.5 353.5,-1602.5 353.5,-870.5 353.5,-828.83 485.52,-634.32 576.41,-505.35"/>
 <polygon fill="none" stroke="#404040" points="576.51,-505.21 576.7,-498 583.43,-495.4 583.24,-502.61 576.51,-505.21"/>
-<text text-anchor="middle" x="415.5" y="-1166.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #STEP_CLIP_MULTIPLIER</text>
-<text text-anchor="middle" x="415.5" y="-1155.5" font-family="Helvetica,sans-Serif" font-size="10.00">+MOTION_THRESHOLD</text>
+<text text-anchor="middle" x="415.5" y="-1183" font-family="Helvetica,sans-Serif" font-size="10.00"> #STEP_CLIP_MULTIPLIER</text>
+<text text-anchor="middle" x="415.5" y="-1172" font-family="Helvetica,sans-Serif" font-size="10.00">+MOTION_THRESHOLD</text>
+<text text-anchor="middle" x="415.5" y="-1161" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_MOTION</text>
+<text text-anchor="middle" x="415.5" y="-1150" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_POS</text>
+<text text-anchor="middle" x="415.5" y="-1139" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_ROTATION</text>
 </g>
 <!-- Node11 -->
 <g id="node11" class="node">

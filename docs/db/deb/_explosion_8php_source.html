@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA6 git-8e600b4a78f989f394febc8de277bb95d7e6b008</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA6 git-4f86ea993319a1984bf21a676caffe345d56f851</span>
    </div>
   </td>
  </tr>
@@ -151,7 +151,7 @@ $(document).ready(function(){initNavTree('db/deb/_explosion_8php_source.html','.
 <div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span> </div>
 <div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>    <span class="keyword">public</span> <span class="keyword">function</span> __construct(</div>
 <div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>        <span class="keyword">public</span> <a class="code hl_class" href="../../d5/dd2/classpocketmine_1_1world_1_1_position.html">Position</a> $source,</div>
-<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>        <span class="keyword">public</span> <span class="keywordtype">float</span> $size,</div>
+<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>        <span class="keyword">public</span> <span class="keywordtype">float</span> $radius,</div>
 <div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>        <span class="keyword">private</span> <a class="code hl_class" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html">Entity</a>|<a class="code hl_class" href="../../d7/d27/classpocketmine_1_1block_1_1_block.html">Block</a>|<span class="keyword">null</span> $what = <span class="keyword">null</span></div>
 <div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>    ){</div>
 <div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>        <span class="keywordflow">if</span>(!$this-&gt;source-&gt;isValid()){</div>
@@ -159,14 +159,14 @@ $(document).ready(function(){initNavTree('db/deb/_explosion_8php_source.html','.
 <div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>        }</div>
 <div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>        $this-&gt;world = $this-&gt;source-&gt;getWorld();</div>
 <div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span> </div>
-<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>        <span class="keywordflow">if</span>($size &lt;= 0){</div>
-<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>            <span class="keywordflow">throw</span> new \InvalidArgumentException(<span class="stringliteral">&quot;Explosion radius must be greater than 0, got $size&quot;</span>);</div>
+<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>        <span class="keywordflow">if</span>($radius &lt;= 0){</div>
+<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>            <span class="keywordflow">throw</span> new \InvalidArgumentException(<span class="stringliteral">&quot;Explosion radius must be greater than 0, got $radius&quot;</span>);</div>
 <div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>        }</div>
 <div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>        $this-&gt;subChunkExplorer = <span class="keyword">new</span> <a class="code hl_class" href="../../d5/dad/classpocketmine_1_1world_1_1utils_1_1_sub_chunk_explorer.html">SubChunkExplorer</a>($this-&gt;world);</div>
 <div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>    }</div>
 <div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span> </div>
 <div class="line"><a id="l00079" name="l00079"></a><span class="lineno"><a class="line" href="../../d9/df8/classpocketmine_1_1world_1_1_explosion.html#afed8a045f9c5b92f43d61066d03421bc">   79</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d9/df8/classpocketmine_1_1world_1_1_explosion.html#afed8a045f9c5b92f43d61066d03421bc">explodeA</a>() : bool{</div>
-<div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span>        if($this-&gt;size &lt; 0.1){</div>
+<div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span>        if($this-&gt;radius &lt; 0.1){</div>
 <div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span>        }</div>
 <div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span> </div>
@@ -185,7 +185,7 @@ $(document).ready(function(){initNavTree('db/deb/_explosion_8php_source.html','.
 <div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span>                        $pointerY = $this-&gt;source-&gt;y;</div>
 <div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span>                        $pointerZ = $this-&gt;source-&gt;z;</div>
 <div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span> </div>
-<div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span>                        <span class="keywordflow">for</span>($blastForce = $this-&gt;size * (mt_rand(700, 1300) / 1000); $blastForce &gt; 0; $blastForce -= $this-&gt;stepLen * 0.75){</div>
+<div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span>                        <span class="keywordflow">for</span>($blastForce = $this-&gt;radius * (mt_rand(700, 1300) / 1000); $blastForce &gt; 0; $blastForce -= $this-&gt;stepLen * 0.75){</div>
 <div class="line"><a id="l00100" name="l00100"></a><span class="lineno">  100</span>                            $x = (int) $pointerX;</div>
 <div class="line"><a id="l00101" name="l00101"></a><span class="lineno">  101</span>                            $y = (int) $pointerY;</div>
 <div class="line"><a id="l00102" name="l00102"></a><span class="lineno">  102</span>                            $z = (int) $pointerZ;</div>
@@ -227,7 +227,7 @@ $(document).ready(function(){initNavTree('db/deb/_explosion_8php_source.html','.
 <div class="line"><a id="l00138" name="l00138"></a><span class="lineno">  138</span> </div>
 <div class="line"><a id="l00143" name="l00143"></a><span class="lineno"><a class="line" href="../../d9/df8/classpocketmine_1_1world_1_1_explosion.html#ad68b706732575363a6004a43661a823f">  143</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d9/df8/classpocketmine_1_1world_1_1_explosion.html#ad68b706732575363a6004a43661a823f">explodeB</a>() : bool{</div>
 <div class="line"><a id="l00144" name="l00144"></a><span class="lineno">  144</span>        $source = (new <a class="code hl_class" href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">Vector3</a>($this-&gt;source-&gt;x, $this-&gt;source-&gt;y, $this-&gt;source-&gt;z))-&gt;floor();</div>
-<div class="line"><a id="l00145" name="l00145"></a><span class="lineno">  145</span>        $yield = min(100, (1 / $this-&gt;size) * 100);</div>
+<div class="line"><a id="l00145" name="l00145"></a><span class="lineno">  145</span>        $yield = min(100, (1 / $this-&gt;radius) * 100);</div>
 <div class="line"><a id="l00146" name="l00146"></a><span class="lineno">  146</span> </div>
 <div class="line"><a id="l00147" name="l00147"></a><span class="lineno">  147</span>        <span class="keywordflow">if</span>($this-&gt;what instanceof <a class="code hl_class" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html">Entity</a>){</div>
 <div class="line"><a id="l00148" name="l00148"></a><span class="lineno">  148</span>            $ev = <span class="keyword">new</span> <a class="code hl_class" href="../../d9/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_explode_event.html">EntityExplodeEvent</a>($this-&gt;what, $this-&gt;source, $this-&gt;affectedBlocks, $yield);</div>
@@ -240,7 +240,7 @@ $(document).ready(function(){initNavTree('db/deb/_explosion_8php_source.html','.
 <div class="line"><a id="l00155" name="l00155"></a><span class="lineno">  155</span>            }</div>
 <div class="line"><a id="l00156" name="l00156"></a><span class="lineno">  156</span>        }</div>
 <div class="line"><a id="l00157" name="l00157"></a><span class="lineno">  157</span> </div>
-<div class="line"><a id="l00158" name="l00158"></a><span class="lineno">  158</span>        $explosionSize = $this-&gt;size * 2;</div>
+<div class="line"><a id="l00158" name="l00158"></a><span class="lineno">  158</span>        $explosionSize = $this-&gt;radius * 2;</div>
 <div class="line"><a id="l00159" name="l00159"></a><span class="lineno">  159</span>        $minX = (int) floor($this-&gt;source-&gt;x - $explosionSize - 1);</div>
 <div class="line"><a id="l00160" name="l00160"></a><span class="lineno">  160</span>        $maxX = (int) ceil($this-&gt;source-&gt;x + $explosionSize + 1);</div>
 <div class="line"><a id="l00161" name="l00161"></a><span class="lineno">  161</span>        $minY = (int) floor($this-&gt;source-&gt;y - $explosionSize - 1);</div>
@@ -310,15 +310,15 @@ $(document).ready(function(){initNavTree('db/deb/_explosion_8php_source.html','.
 <div class="ttc" id="aclasspocketmine_1_1event_1_1entity_1_1_entity_damage_by_entity_event_html"><div class="ttname"><a href="../../d0/d34/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_entity_event.html">pocketmine\event\entity\EntityDamageByEntityEvent</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d6/d5c/_entity_damage_by_entity_event_8php_source.html#l00033">EntityDamageByEntityEvent.php:33</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1event_1_1entity_1_1_entity_damage_event_html"><div class="ttname"><a href="../../d5/de3/classpocketmine_1_1event_1_1entity_1_1_entity_damage_event.html">pocketmine\event\entity\EntityDamageEvent</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dc/dee/_entity_damage_event_8php_source.html#l00036">EntityDamageEvent.php:36</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1event_1_1entity_1_1_entity_explode_event_html"><div class="ttname"><a href="../../d9/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_explode_event.html">pocketmine\event\entity\EntityExplodeEvent</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d7/de4/_entity_explode_event_8php_source.html#l00041">EntityExplodeEvent.php:41</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1item_1_1_vanilla_items_html"><div class="ttname"><a href="../../d9/dff/classpocketmine_1_1item_1_1_vanilla_items.html">pocketmine\item\VanillaItems</a></div><div class="ttdef"><b>Definition:</b> <a href="../../df/da6/_vanilla_items_8php_source.html#l00307">VanillaItems.php:307</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1item_1_1_vanilla_items_html"><div class="ttname"><a href="../../d9/dff/classpocketmine_1_1item_1_1_vanilla_items.html">pocketmine\item\VanillaItems</a></div><div class="ttdef"><b>Definition:</b> <a href="../../df/da6/_vanilla_items_8php_source.html#l00310">VanillaItems.php:310</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1math_1_1_axis_aligned_b_b_html"><div class="ttname"><a href="../../dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html">pocketmine\math\AxisAlignedBB</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d87/_axis_aligned_b_b_8php_source.html#l00029">AxisAlignedBB.php:29</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1math_1_1_vector3_html"><div class="ttname"><a href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">pocketmine\math\Vector3</a></div><div class="ttdef"><b>Definition:</b> <a href="../../de/d7b/_vector3_8php_source.html#l00036">Vector3.php:36</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1_explosion_html"><div class="ttname"><a href="../../d9/df8/classpocketmine_1_1world_1_1_explosion.html">pocketmine\world\Explosion</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/deb/_explosion_8php_source.html#l00049">Explosion.php:49</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1_explosion_html_ad68b706732575363a6004a43661a823f"><div class="ttname"><a href="../../d9/df8/classpocketmine_1_1world_1_1_explosion.html#ad68b706732575363a6004a43661a823f">pocketmine\world\Explosion\explodeB</a></div><div class="ttdeci">explodeB()</div><div class="ttdef"><b>Definition:</b> <a href="../../db/deb/_explosion_8php_source.html#l00143">Explosion.php:143</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1_explosion_html_afed8a045f9c5b92f43d61066d03421bc"><div class="ttname"><a href="../../d9/df8/classpocketmine_1_1world_1_1_explosion.html#afed8a045f9c5b92f43d61066d03421bc">pocketmine\world\Explosion\explodeA</a></div><div class="ttdeci">explodeA()</div><div class="ttdef"><b>Definition:</b> <a href="../../db/deb/_explosion_8php_source.html#l00079">Explosion.php:79</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1_position_html"><div class="ttname"><a href="../../d5/dd2/classpocketmine_1_1world_1_1_position.html">pocketmine\world\Position</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d7/d0f/_position_8php_source.html#l00030">Position.php:30</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1world_1_1_world_html"><div class="ttname"><a href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html">pocketmine\world\World</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d88/_world_8php_source.html#l00140">World.php:140</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1world_1_1_world_html_acc9cf8f49b0adeebf371dde72ad490ba"><div class="ttname"><a href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html#acc9cf8f49b0adeebf371dde72ad490ba">pocketmine\world\World\blockHash</a></div><div class="ttdeci">static blockHash(int $x, int $y, int $z)</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d88/_world_8php_source.html#l00372">World.php:372</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1world_1_1_world_html"><div class="ttname"><a href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html">pocketmine\world\World</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d88/_world_8php_source.html#l00142">World.php:142</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1world_1_1_world_html_acc9cf8f49b0adeebf371dde72ad490ba"><div class="ttname"><a href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html#acc9cf8f49b0adeebf371dde72ad490ba">pocketmine\world\World\blockHash</a></div><div class="ttdeci">static blockHash(int $x, int $y, int $z)</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d88/_world_8php_source.html#l00374">World.php:374</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1format_1_1_sub_chunk_html"><div class="ttname"><a href="../../de/dda/classpocketmine_1_1world_1_1format_1_1_sub_chunk.html">pocketmine\world\format\SubChunk</a></div><div class="ttdef"><b>Definition:</b> <a href="../../de/d9c/_sub_chunk_8php_source.html#l00030">SubChunk.php:30</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1particle_1_1_huge_explode_seed_particle_html"><div class="ttname"><a href="../../de/d4e/classpocketmine_1_1world_1_1particle_1_1_huge_explode_seed_particle.html">pocketmine\world\particle\HugeExplodeSeedParticle</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d37/_huge_explode_seed_particle_8php_source.html#l00030">HugeExplodeSeedParticle.php:30</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1sound_1_1_explode_sound_html"><div class="ttname"><a href="../../d8/d1f/classpocketmine_1_1world_1_1sound_1_1_explode_sound.html">pocketmine\world\sound\ExplodeSound</a></div><div class="ttdef"><b>Definition:</b> <a href="../../de/ddb/_explode_sound_8php_source.html#l00030">ExplodeSound.php:30</a></div></div>

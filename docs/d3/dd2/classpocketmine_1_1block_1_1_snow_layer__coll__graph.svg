@@ -451,21 +451,23 @@ var sectionId = 'dynsection-1';
 <g id="node14" class="node">
 <title>Node14</title>
 <g id="a_node14"><a xlink:href="../../dd/d27/interfacepocketmine_1_1block_1_1utils_1_1_fallable.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="231.17,-216.5 231.17,-284.5 358.17,-284.5 358.17,-216.5 231.17,-216.5"/>
-<text text-anchor="start" x="239.17" y="-272.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
-<text text-anchor="middle" x="294.67" y="-261.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Fallable</text>
-<polyline fill="none" stroke="#bfbfbf" points="231.17,-254.5 358.17,-254.5 "/>
-<text text-anchor="middle" x="294.67" y="-242.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="231.17,-235.5 358.17,-235.5 "/>
-<text text-anchor="start" x="239.17" y="-223.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ tickFalling()</text>
+<polygon fill="white" stroke="#bfbfbf" points="231.17,-205.5 231.17,-295.5 358.17,-295.5 358.17,-205.5 231.17,-205.5"/>
+<text text-anchor="start" x="239.17" y="-283.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
+<text text-anchor="middle" x="294.67" y="-272.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Fallable</text>
+<polyline fill="none" stroke="#bfbfbf" points="231.17,-265.5 358.17,-265.5 "/>
+<text text-anchor="middle" x="294.67" y="-253.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="231.17,-246.5 358.17,-246.5 "/>
+<text text-anchor="start" x="239.17" y="-234.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLandSound()</text>
+<text text-anchor="start" x="239.17" y="-223.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onHitGround()</text>
+<text text-anchor="start" x="239.17" y="-212.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ tickFalling()</text>
 </a>
 </g>
 </g>
 <!-- Node14&#45;&gt;Node1 -->
 <g id="edge14" class="edge">
 <title>Node14&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M254.79,-209C242.36,-196.38 228.18,-181.98 213.98,-167.56"/>
-<polygon fill="none" stroke="midnightblue" points="252.38,-211.54 261.89,-216.21 257.36,-206.63 252.38,-211.54"/>
+<path fill="none" stroke="midnightblue" d="M244.08,-198.13C234.52,-188.42 224.29,-178.03 214.05,-167.64"/>
+<polygon fill="none" stroke="midnightblue" points="241.75,-200.75 251.26,-205.42 246.73,-195.84 241.75,-200.75"/>
 </g>
 </g>
 </svg>

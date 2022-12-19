@@ -492,6 +492,8 @@ var hierarchy =
       [ "pocketmine\\event\\server\\DataPacketSendEvent", "d5/dd4/classpocketmine_1_1event_1_1server_1_1_data_packet_send_event.html", null ],
       [ "pocketmine\\event\\server\\NetworkInterfaceRegisterEvent", "d8/d02/classpocketmine_1_1event_1_1server_1_1_network_interface_register_event.html", null ],
       [ "pocketmine\\event\\world\\ChunkUnloadEvent", "d1/df4/classpocketmine_1_1event_1_1world_1_1_chunk_unload_event.html", null ],
+      [ "pocketmine\\event\\world\\WorldParticleEvent", "da/d76/classpocketmine_1_1event_1_1world_1_1_world_particle_event.html", null ],
+      [ "pocketmine\\event\\world\\WorldSoundEvent", "d8/d9c/classpocketmine_1_1event_1_1world_1_1_world_sound_event.html", null ],
       [ "pocketmine\\event\\world\\WorldUnloadEvent", "d4/d01/classpocketmine_1_1event_1_1world_1_1_world_unload_event.html", null ]
     ] ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\ChatRestrictionLevel", "d4/d14/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_chat_restriction_level.html", null ],
@@ -881,7 +883,9 @@ var hierarchy =
         [ "pocketmine\\event\\world\\SpawnChangeEvent", "d3/d42/classpocketmine_1_1event_1_1world_1_1_spawn_change_event.html", null ],
         [ "pocketmine\\event\\world\\WorldInitEvent", "da/d9d/classpocketmine_1_1event_1_1world_1_1_world_init_event.html", null ],
         [ "pocketmine\\event\\world\\WorldLoadEvent", "dc/d09/classpocketmine_1_1event_1_1world_1_1_world_load_event.html", null ],
+        [ "pocketmine\\event\\world\\WorldParticleEvent", "da/d76/classpocketmine_1_1event_1_1world_1_1_world_particle_event.html", null ],
         [ "pocketmine\\event\\world\\WorldSaveEvent", "de/dcc/classpocketmine_1_1event_1_1world_1_1_world_save_event.html", null ],
+        [ "pocketmine\\event\\world\\WorldSoundEvent", "d8/d9c/classpocketmine_1_1event_1_1world_1_1_world_sound_event.html", null ],
         [ "pocketmine\\event\\world\\WorldUnloadEvent", "d4/d01/classpocketmine_1_1event_1_1world_1_1_world_unload_event.html", null ]
       ] ]
     ] ],

@@ -182,8 +182,11 @@
 <title>Node5&#45;&gt;Node4</title>
 <path fill="none" stroke="#404040" d="M747.52,-2511.33C728.13,-2411.97 662.46,-2063.72 636,-1773 617.18,-1566.21 638.88,-1512.96 622,-1306 621.83,-1303.92 621.66,-1301.84 621.48,-1299.74"/>
 <polygon fill="none" stroke="#404040" points="621.47,-1299.63 616.95,-1294.01 620.41,-1287.68 624.92,-1293.3 621.47,-1299.63"/>
-<text text-anchor="middle" x="698" y="-1708.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #STEP_CLIP_MULTIPLIER</text>
-<text text-anchor="middle" x="698" y="-1697.5" font-family="Helvetica,sans-Serif" font-size="10.00">+MOTION_THRESHOLD</text>
+<text text-anchor="middle" x="698" y="-1725" font-family="Helvetica,sans-Serif" font-size="10.00"> #STEP_CLIP_MULTIPLIER</text>
+<text text-anchor="middle" x="698" y="-1714" font-family="Helvetica,sans-Serif" font-size="10.00">+MOTION_THRESHOLD</text>
+<text text-anchor="middle" x="698" y="-1703" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_MOTION</text>
+<text text-anchor="middle" x="698" y="-1692" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_POS</text>
+<text text-anchor="middle" x="698" y="-1681" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_ROTATION</text>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">
