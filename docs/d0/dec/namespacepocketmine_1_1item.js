@@ -74,6 +74,8 @@ var namespacepocketmine_1_1item =
     [ "LegacyStringToItemParser", "d8/d89/classpocketmine_1_1item_1_1_legacy_string_to_item_parser.html", "d8/d89/classpocketmine_1_1item_1_1_legacy_string_to_item_parser" ],
     [ "LegacyStringToItemParserException", "db/d85/classpocketmine_1_1item_1_1_legacy_string_to_item_parser_exception.html", null ],
     [ "LiquidBucket", "db/dc0/classpocketmine_1_1item_1_1_liquid_bucket.html", "db/dc0/classpocketmine_1_1item_1_1_liquid_bucket" ],
+    [ "Medicine", "d9/db1/classpocketmine_1_1item_1_1_medicine.html", "d9/db1/classpocketmine_1_1item_1_1_medicine" ],
+    [ "MedicineType", "da/de1/classpocketmine_1_1item_1_1_medicine_type.html", null ],
     [ "Melon", "d7/da1/classpocketmine_1_1item_1_1_melon.html", "d7/da1/classpocketmine_1_1item_1_1_melon" ],
     [ "MelonSeeds", "de/da4/classpocketmine_1_1item_1_1_melon_seeds.html", "de/da4/classpocketmine_1_1item_1_1_melon_seeds" ],
     [ "MilkBucket", "dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html", "dd/dc0/classpocketmine_1_1item_1_1_milk_bucket" ],

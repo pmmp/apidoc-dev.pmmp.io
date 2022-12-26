@@ -1444,7 +1444,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="1889.69" y="-569" font-family="Helvetica,sans-Serif" font-size="10.00">+ getInvManager()</text>
 <text text-anchor="start" x="1889.69" y="-558" font-family="Helvetica,sans-Serif" font-size="10.00">+ getIp()</text>
 <text text-anchor="start" x="1889.69" y="-547" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLogger()</text>
-<text text-anchor="start" x="1889.69" y="-536" font-family="Helvetica,sans-Serif" font-size="10.00">and 59 more...</text>
+<text text-anchor="start" x="1889.69" y="-536" font-family="Helvetica,sans-Serif" font-size="10.00">and 58 more...</text>
 <text text-anchor="start" x="1889.69" y="-525" font-family="Helvetica,sans-Serif" font-size="10.00"># createPlayer()</text>
 </a>
 </g>

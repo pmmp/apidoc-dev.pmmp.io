@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 6830;
+var viewWidth = 6645;
 var viewHeight = 750;
 var sectionId = 'dynsection-0';
 </script>
@@ -54,18 +54,18 @@ var sectionId = 'dynsection-0';
 <svg id="graph" class="graph">
 <g id="viewport">
 <title>pocketmine\entity\Consumable</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-746 6825.5,-746 6825.5,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-746 6641,-746 6641,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="2645.5,-673.5 2645.5,-741.5 2814.5,-741.5 2814.5,-673.5 2645.5,-673.5"/>
-<text text-anchor="middle" x="2730" y="-729.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\entity\Consumable</text>
-<polyline fill="none" stroke="black" points="2645.5,-722.5 2814.5,-722.5 "/>
-<text text-anchor="middle" x="2730" y="-710.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="2645.5,-703.5 2814.5,-703.5 "/>
-<text text-anchor="start" x="2653.5" y="-691.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAdditionalEffects()</text>
-<text text-anchor="start" x="2653.5" y="-680.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
+<polygon fill="#bfbfbf" stroke="black" points="2508.5,-673.5 2508.5,-741.5 2677.5,-741.5 2677.5,-673.5 2508.5,-673.5"/>
+<text text-anchor="middle" x="2593" y="-729.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\entity\Consumable</text>
+<polyline fill="none" stroke="black" points="2508.5,-722.5 2677.5,-722.5 "/>
+<text text-anchor="middle" x="2593" y="-710.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="2508.5,-703.5 2677.5,-703.5 "/>
+<text text-anchor="start" x="2516.5" y="-691.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAdditionalEffects()</text>
+<text text-anchor="start" x="2516.5" y="-680.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
 </a>
 </g>
 </g>
@@ -73,140 +73,140 @@ var sectionId = 'dynsection-0';
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="../../df/dfd/interfacepocketmine_1_1entity_1_1_food_source.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="2552,-557.5 2552,-636.5 2716,-636.5 2716,-557.5 2552,-557.5"/>
-<text text-anchor="middle" x="2634" y="-624.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\entity\FoodSource</text>
-<polyline fill="none" stroke="black" points="2552,-617.5 2716,-617.5 "/>
-<text text-anchor="middle" x="2634" y="-605.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="2552,-598.5 2716,-598.5 "/>
-<text text-anchor="start" x="2560" y="-586.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFoodRestore()</text>
-<text text-anchor="start" x="2560" y="-575.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSaturationRestore()</text>
-<text text-anchor="start" x="2560" y="-564.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ requiresHunger()</text>
+<polygon fill="white" stroke="black" points="2415,-557.5 2415,-636.5 2579,-636.5 2579,-557.5 2415,-557.5"/>
+<text text-anchor="middle" x="2497" y="-624.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\entity\FoodSource</text>
+<polyline fill="none" stroke="black" points="2415,-617.5 2579,-617.5 "/>
+<text text-anchor="middle" x="2497" y="-605.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="2415,-598.5 2579,-598.5 "/>
+<text text-anchor="start" x="2423" y="-586.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFoodRestore()</text>
+<text text-anchor="start" x="2423" y="-575.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSaturationRestore()</text>
+<text text-anchor="start" x="2423" y="-564.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ requiresHunger()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M2694.03,-665.84C2685.57,-656.28 2676.58,-646.12 2668.2,-636.65"/>
-<polygon fill="none" stroke="midnightblue" points="2691.43,-668.19 2700.68,-673.36 2696.67,-663.55 2691.43,-668.19"/>
+<path fill="none" stroke="midnightblue" d="M2557.03,-665.84C2548.57,-656.28 2539.58,-646.12 2531.2,-636.65"/>
+<polygon fill="none" stroke="midnightblue" points="2554.43,-668.19 2563.68,-673.36 2559.67,-663.55 2554.43,-668.19"/>
 </g>
 <!-- Node48 -->
-<g id="node47" class="node">
+<g id="node46" class="node">
 <title>Node48</title>
-<g id="a_node47"><a xlink:href="../../d2/de2/interfacepocketmine_1_1item_1_1_consumable_item.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="2734.5,-568.5 2734.5,-625.5 2919.5,-625.5 2919.5,-568.5 2734.5,-568.5"/>
-<text text-anchor="middle" x="2827" y="-613.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\ConsumableItem</text>
-<polyline fill="none" stroke="black" points="2734.5,-606.5 2919.5,-606.5 "/>
-<text text-anchor="middle" x="2827" y="-594.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="2734.5,-587.5 2919.5,-587.5 "/>
-<text text-anchor="start" x="2742.5" y="-575.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
+<g id="a_node46"><a xlink:href="../../d2/de2/interfacepocketmine_1_1item_1_1_consumable_item.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="2597.5,-568.5 2597.5,-625.5 2782.5,-625.5 2782.5,-568.5 2597.5,-568.5"/>
+<text text-anchor="middle" x="2690" y="-613.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\ConsumableItem</text>
+<polyline fill="none" stroke="black" points="2597.5,-606.5 2782.5,-606.5 "/>
+<text text-anchor="middle" x="2690" y="-594.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="2597.5,-587.5 2782.5,-587.5 "/>
+<text text-anchor="start" x="2605.5" y="-575.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node48 -->
-<g id="edge46" class="edge">
+<g id="edge45" class="edge">
 <title>Node1&#45;&gt;Node48</title>
-<path fill="none" stroke="midnightblue" d="M2766.49,-665.69C2778.37,-652.39 2791.29,-637.95 2802.12,-625.83"/>
-<polygon fill="none" stroke="midnightblue" points="2763.69,-663.57 2759.63,-673.36 2768.9,-668.23 2763.69,-663.57"/>
+<path fill="none" stroke="midnightblue" d="M2629.49,-665.69C2641.37,-652.39 2654.29,-637.95 2665.12,-625.83"/>
+<polygon fill="none" stroke="midnightblue" points="2626.69,-663.57 2622.63,-673.36 2631.9,-668.23 2626.69,-663.57"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="../../d6/dc5/classpocketmine_1_1block_1_1_base_cake.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="792,-364.5 792,-520.5 946,-520.5 946,-364.5 792,-364.5"/>
-<text text-anchor="middle" x="869" y="-508.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\BaseCake</text>
-<polyline fill="none" stroke="#bfbfbf" points="792,-501.5 946,-501.5 "/>
-<text text-anchor="middle" x="869" y="-489.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="792,-482.5 946,-482.5 "/>
-<text text-anchor="start" x="800" y="-470.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAdditionalEffects()</text>
-<text text-anchor="start" x="800" y="-459.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFoodRestore()</text>
-<text text-anchor="start" x="800" y="-448.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
-<text text-anchor="start" x="800" y="-437.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSaturationRestore()</text>
-<text text-anchor="start" x="800" y="-426.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSupportType()</text>
-<text text-anchor="start" x="800" y="-415.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
-<text text-anchor="start" x="800" y="-404.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
-<text text-anchor="start" x="800" y="-393.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="800" y="-382.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
-<text text-anchor="start" x="800" y="-371.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ requiresHunger()</text>
+<polygon fill="white" stroke="#bfbfbf" points="746,-364.5 746,-520.5 900,-520.5 900,-364.5 746,-364.5"/>
+<text text-anchor="middle" x="823" y="-508.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\BaseCake</text>
+<polyline fill="none" stroke="#bfbfbf" points="746,-501.5 900,-501.5 "/>
+<text text-anchor="middle" x="823" y="-489.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="746,-482.5 900,-482.5 "/>
+<text text-anchor="start" x="754" y="-470.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAdditionalEffects()</text>
+<text text-anchor="start" x="754" y="-459.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFoodRestore()</text>
+<text text-anchor="start" x="754" y="-448.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
+<text text-anchor="start" x="754" y="-437.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSaturationRestore()</text>
+<text text-anchor="start" x="754" y="-426.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSupportType()</text>
+<text text-anchor="start" x="754" y="-415.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
+<text text-anchor="start" x="754" y="-404.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
+<text text-anchor="start" x="754" y="-393.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="754" y="-382.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="754" y="-371.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ requiresHunger()</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node2&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M2541.53,-588.01C2231.47,-561.22 1232.14,-474.88 946.13,-450.16"/>
-<polygon fill="none" stroke="midnightblue" points="2541.56,-591.53 2551.82,-588.9 2542.16,-584.55 2541.56,-591.53"/>
+<path fill="none" stroke="midnightblue" d="M2404.51,-587.57C2106.6,-560.43 1175.44,-475.61 900.3,-450.54"/>
+<polygon fill="none" stroke="midnightblue" points="2404.57,-591.09 2414.84,-588.52 2405.2,-584.12 2404.57,-591.09"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
 <g id="a_node7"><a xlink:href="../../de/d44/interfacepocketmine_1_1item_1_1_food_source_item.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="2549.5,-414 2549.5,-471 2730.5,-471 2730.5,-414 2549.5,-414"/>
-<text text-anchor="middle" x="2640" y="-459" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\FoodSourceItem</text>
-<polyline fill="none" stroke="#bfbfbf" points="2549.5,-452 2730.5,-452 "/>
-<text text-anchor="middle" x="2640" y="-440" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="2549.5,-433 2730.5,-433 "/>
-<text text-anchor="middle" x="2640" y="-421" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="#bfbfbf" points="2412.5,-414 2412.5,-471 2593.5,-471 2593.5,-414 2412.5,-414"/>
+<text text-anchor="middle" x="2503" y="-459" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\FoodSourceItem</text>
+<polyline fill="none" stroke="#bfbfbf" points="2412.5,-452 2593.5,-452 "/>
+<text text-anchor="middle" x="2503" y="-440" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="2412.5,-433 2593.5,-433 "/>
+<text text-anchor="middle" x="2503" y="-421" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node7 -->
 <g id="edge6" class="edge">
 <title>Node2&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M2635.93,-547.05C2636.91,-521.97 2638.08,-492.36 2638.91,-471.24"/>
-<polygon fill="none" stroke="midnightblue" points="2632.43,-546.99 2635.53,-557.12 2639.42,-547.27 2632.43,-546.99"/>
+<path fill="none" stroke="midnightblue" d="M2498.93,-547.05C2499.91,-521.97 2501.08,-492.36 2501.91,-471.24"/>
+<polygon fill="none" stroke="midnightblue" points="2495.43,-546.99 2498.53,-557.12 2502.42,-547.27 2495.43,-546.99"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
 <g id="a_node4"><a xlink:href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="604,-193.5 604,-327.5 766,-327.5 766,-193.5 604,-193.5"/>
-<text text-anchor="middle" x="685" y="-315.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Cake</text>
-<polyline fill="none" stroke="#bfbfbf" points="604,-308.5 766,-308.5 "/>
-<text text-anchor="start" x="612" y="-296.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_BITES</text>
-<text text-anchor="start" x="612" y="-285.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $bites</text>
-<polyline fill="none" stroke="#bfbfbf" points="604,-278.5 766,-278.5 "/>
-<text text-anchor="start" x="612" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBites()</text>
-<text text-anchor="start" x="612" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
-<text text-anchor="start" x="612" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
-<text text-anchor="start" x="612" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
-<text text-anchor="start" x="612" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setBites()</text>
-<text text-anchor="start" x="612" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
-<text text-anchor="start" x="612" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
+<polygon fill="white" stroke="#bfbfbf" points="558,-193.5 558,-327.5 720,-327.5 720,-193.5 558,-193.5"/>
+<text text-anchor="middle" x="639" y="-315.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Cake</text>
+<polyline fill="none" stroke="#bfbfbf" points="558,-308.5 720,-308.5 "/>
+<text text-anchor="start" x="566" y="-296.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_BITES</text>
+<text text-anchor="start" x="566" y="-285.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $bites</text>
+<polyline fill="none" stroke="#bfbfbf" points="558,-278.5 720,-278.5 "/>
+<text text-anchor="start" x="566" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBites()</text>
+<text text-anchor="start" x="566" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
+<text text-anchor="start" x="566" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
+<text text-anchor="start" x="566" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
+<text text-anchor="start" x="566" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setBites()</text>
+<text text-anchor="start" x="566" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="566" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node4 -->
 <g id="edge3" class="edge">
 <title>Node3&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M784.43,-358.77C773.79,-348.36 763.02,-337.82 752.68,-327.71"/>
-<polygon fill="none" stroke="midnightblue" points="782.17,-361.46 791.77,-365.95 787.07,-356.45 782.17,-361.46"/>
+<path fill="none" stroke="midnightblue" d="M738.43,-358.77C727.79,-348.36 717.02,-337.82 706.68,-327.71"/>
+<polygon fill="none" stroke="midnightblue" points="736.17,-361.46 745.77,-365.95 741.07,-356.45 736.17,-361.46"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
 <g id="a_node5"><a xlink:href="../../da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="784,-193.5 784,-327.5 954,-327.5 954,-193.5 784,-193.5"/>
-<text text-anchor="start" x="792" y="-315.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\CakeWith</text>
-<text text-anchor="middle" x="869" y="-304.5" font-family="Helvetica,sans-Serif" font-size="10.00">Candle</text>
-<polyline fill="none" stroke="#bfbfbf" points="784,-297.5 954,-297.5 "/>
-<text text-anchor="middle" x="869" y="-285.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="784,-278.5 954,-278.5 "/>
-<text text-anchor="start" x="792" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCandle()</text>
-<text text-anchor="start" x="792" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
-<text text-anchor="start" x="792" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPickedItem()</text>
-<text text-anchor="start" x="792" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
-<text text-anchor="start" x="792" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
-<text text-anchor="start" x="792" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
-<text text-anchor="start" x="792" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
+<polygon fill="white" stroke="#bfbfbf" points="738,-193.5 738,-327.5 908,-327.5 908,-193.5 738,-193.5"/>
+<text text-anchor="start" x="746" y="-315.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\CakeWith</text>
+<text text-anchor="middle" x="823" y="-304.5" font-family="Helvetica,sans-Serif" font-size="10.00">Candle</text>
+<polyline fill="none" stroke="#bfbfbf" points="738,-297.5 908,-297.5 "/>
+<text text-anchor="middle" x="823" y="-285.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="738,-278.5 908,-278.5 "/>
+<text text-anchor="start" x="746" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCandle()</text>
+<text text-anchor="start" x="746" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
+<text text-anchor="start" x="746" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPickedItem()</text>
+<text text-anchor="start" x="746" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
+<text text-anchor="start" x="746" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
+<text text-anchor="start" x="746" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
+<text text-anchor="start" x="746" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
 <title>Node3&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M869,-354.31C869,-345.36 869,-336.37 869,-327.69"/>
-<polygon fill="none" stroke="midnightblue" points="865.5,-354.38 869,-364.38 872.5,-354.38 865.5,-354.38"/>
+<path fill="none" stroke="midnightblue" d="M823,-354.31C823,-345.36 823,-336.37 823,-327.69"/>
+<polygon fill="none" stroke="midnightblue" points="819.5,-354.38 823,-364.38 826.5,-354.38 819.5,-354.38"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">
@@ -226,31 +226,31 @@ var sectionId = 'dynsection-0';
 <!-- Node5&#45;&gt;Node6 -->
 <g id="edge5" class="edge">
 <title>Node5&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M774.12,-193.3C630,-150.53 284.12,-208.9 161,-157 140.76,-148.47 122.22,-132.96 107.65,-118.04"/>
-<polygon fill="none" stroke="midnightblue" points="773.14,-196.67 783.73,-196.42 775.3,-190.01 773.14,-196.67"/>
+<path fill="none" stroke="midnightblue" d="M728.03,-193.09C487.92,-112.6 390.79,-254.5 161,-157 140.96,-148.5 122.58,-133.19 108.07,-118.4"/>
+<polygon fill="none" stroke="midnightblue" points="727.13,-196.48 737.73,-196.43 729.42,-189.86 727.13,-196.48"/>
 </g>
 <!-- Node8 -->
 <g id="node8" class="node">
 <title>Node8</title>
 <g id="a_node8"><a xlink:href="../../dc/de1/classpocketmine_1_1item_1_1_food.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="3366,-210 3366,-311 3500,-311 3500,-210 3366,-210"/>
-<text text-anchor="middle" x="3433" y="-299" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Food</text>
-<polyline fill="none" stroke="#bfbfbf" points="3366,-292 3500,-292 "/>
-<text text-anchor="middle" x="3433" y="-280" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="3366,-273 3500,-273 "/>
-<text text-anchor="start" x="3374" y="-261" font-family="Helvetica,sans-Serif" font-size="10.00">+ canStartUsingItem()</text>
-<text text-anchor="start" x="3374" y="-250" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAdditionalEffects()</text>
-<text text-anchor="start" x="3374" y="-239" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
-<text text-anchor="start" x="3374" y="-228" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
-<text text-anchor="start" x="3374" y="-217" font-family="Helvetica,sans-Serif" font-size="10.00">+ requiresHunger()</text>
+<polygon fill="white" stroke="orangered" points="3274,-210 3274,-311 3408,-311 3408,-210 3274,-210"/>
+<text text-anchor="middle" x="3341" y="-299" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Food</text>
+<polyline fill="none" stroke="orangered" points="3274,-292 3408,-292 "/>
+<text text-anchor="middle" x="3341" y="-280" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="orangered" points="3274,-273 3408,-273 "/>
+<text text-anchor="start" x="3282" y="-261" font-family="Helvetica,sans-Serif" font-size="10.00">+ canStartUsingItem()</text>
+<text text-anchor="start" x="3282" y="-250" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAdditionalEffects()</text>
+<text text-anchor="start" x="3282" y="-239" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
+<text text-anchor="start" x="3282" y="-228" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
+<text text-anchor="start" x="3282" y="-217" font-family="Helvetica,sans-Serif" font-size="10.00">+ requiresHunger()</text>
 </a>
 </g>
 </g>
 <!-- Node7&#45;&gt;Node8 -->
 <g id="edge7" class="edge">
 <title>Node7&#45;&gt;Node8</title>
-<path fill="none" stroke="midnightblue" d="M2675.49,-406.71C2693.41,-391.16 2716.35,-374.09 2740,-364 2852.29,-316.12 3214.62,-280.3 3365.79,-267.07"/>
-<polygon fill="none" stroke="midnightblue" points="2672.76,-404.46 2667.62,-413.72 2677.42,-409.68 2672.76,-404.46"/>
+<path fill="none" stroke="midnightblue" d="M2538.45,-406.62C2556.37,-391.04 2579.3,-373.98 2603,-364 2723.78,-313.13 3115.7,-278.57 3273.88,-266.37"/>
+<polygon fill="none" stroke="midnightblue" points="2535.72,-404.37 2530.59,-413.64 2540.38,-409.59 2535.72,-404.37"/>
 </g>
 <!-- Node9 -->
 <g id="node9" class="node">
@@ -269,8 +269,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node9 -->
 <g id="edge8" class="edge">
 <title>Node8&#45;&gt;Node9</title>
-<path fill="none" stroke="midnightblue" d="M3355.51,-257.72C2881.48,-246.77 390.98,-187.81 319,-157 297.1,-147.63 277.88,-129.15 263.88,-112.59"/>
-<polygon fill="none" stroke="midnightblue" points="3355.59,-261.23 3365.67,-257.96 3355.75,-254.23 3355.59,-261.23"/>
+<path fill="none" stroke="midnightblue" d="M3263.6,-257.65C2798.12,-246.41 388.73,-186.88 319,-157 297.1,-147.62 277.88,-129.14 263.88,-112.58"/>
+<polygon fill="none" stroke="midnightblue" points="3263.82,-261.15 3273.9,-257.9 3263.99,-254.16 3263.82,-261.15"/>
 </g>
 <!-- Node10 -->
 <g id="node10" class="node">
@@ -289,8 +289,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node10 -->
 <g id="edge9" class="edge">
 <title>Node8&#45;&gt;Node10</title>
-<path fill="none" stroke="midnightblue" d="M3355.73,-257.5C2898.96,-245.58 569.51,-183.59 501,-157 477.01,-147.69 454.91,-129.22 438.5,-112.64"/>
-<polygon fill="none" stroke="midnightblue" points="3355.77,-261 3365.86,-257.76 3355.95,-254 3355.77,-261"/>
+<path fill="none" stroke="midnightblue" d="M3263.88,-258.15C2822.66,-250.22 633.28,-208.42 501,-157 477.02,-147.68 454.92,-129.2 438.5,-112.63"/>
+<polygon fill="none" stroke="midnightblue" points="3263.92,-261.65 3273.98,-258.33 3264.04,-254.65 3263.92,-261.65"/>
 </g>
 <!-- Node11 -->
 <g id="node11" class="node">
@@ -309,8 +309,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node11 -->
 <g id="edge10" class="edge">
 <title>Node8&#45;&gt;Node11</title>
-<path fill="none" stroke="midnightblue" d="M3355.66,-258.19C2920.33,-250.6 790.29,-210.84 663,-157 640.77,-147.6 621.07,-129.12 606.67,-112.57"/>
-<polygon fill="none" stroke="midnightblue" points="3355.88,-261.69 3365.93,-258.37 3356,-254.69 3355.88,-261.69"/>
+<path fill="none" stroke="midnightblue" d="M3263.83,-258.09C2837.58,-250.1 785.8,-209.03 663,-157 640.78,-147.58 621.08,-129.11 606.67,-112.56"/>
+<polygon fill="none" stroke="midnightblue" points="3263.83,-261.59 3273.89,-258.28 3263.96,-254.59 3263.83,-261.59"/>
 </g>
 <!-- Node12 -->
 <g id="node12" class="node">
@@ -331,8 +331,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node12 -->
 <g id="edge11" class="edge">
 <title>Node8&#45;&gt;Node12</title>
-<path fill="none" stroke="midnightblue" d="M3355.78,-259.39C2951.48,-258.4 1087.89,-248.88 849,-157 829.97,-149.68 812.01,-136.78 797.04,-123.58"/>
-<polygon fill="none" stroke="midnightblue" points="3355.9,-262.89 3365.91,-259.41 3355.92,-255.89 3355.9,-262.89"/>
+<path fill="none" stroke="midnightblue" d="M3263.67,-259.26C2867.92,-257.67 1078.77,-245.57 849,-157 829.98,-149.67 812.02,-136.76 797.05,-123.57"/>
+<polygon fill="none" stroke="midnightblue" points="3263.86,-262.77 3273.87,-259.3 3263.89,-255.77 3263.86,-262.77"/>
 </g>
 <!-- Node13 -->
 <g id="node13" class="node">
@@ -351,8 +351,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node13 -->
 <g id="edge12" class="edge">
 <title>Node8&#45;&gt;Node13</title>
-<path fill="none" stroke="midnightblue" d="M3355.96,-259.54C2966.61,-259.33 1225.45,-252.95 1006,-157 984.31,-147.52 965.33,-129.04 951.53,-112.5"/>
-<polygon fill="none" stroke="midnightblue" points="3355.99,-263.04 3365.99,-259.55 3355.99,-256.04 3355.99,-263.04"/>
+<path fill="none" stroke="midnightblue" d="M3263.81,-259.41C2883.24,-258.5 1216.5,-249.25 1006,-157 984.49,-147.58 965.65,-129.32 951.87,-112.89"/>
+<polygon fill="none" stroke="midnightblue" points="3263.89,-262.91 3273.9,-259.43 3263.9,-255.91 3263.89,-262.91"/>
 </g>
 <!-- Node14 -->
 <g id="node14" class="node">
@@ -372,8 +372,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node14 -->
 <g id="edge13" class="edge">
 <title>Node8&#45;&gt;Node14</title>
-<path fill="none" stroke="midnightblue" d="M3355.59,-259.27C2981.25,-257.73 1368.35,-245.93 1164,-157 1144.62,-148.57 1127.31,-133.07 1113.87,-118.14"/>
-<polygon fill="none" stroke="midnightblue" points="3355.76,-262.77 3365.78,-259.31 3355.79,-255.77 3355.76,-262.77"/>
+<path fill="none" stroke="midnightblue" d="M3263.78,-259.11C2899.17,-256.85 1359.47,-242.29 1164,-157 1144.63,-148.55 1127.32,-133.05 1113.88,-118.12"/>
+<polygon fill="none" stroke="midnightblue" points="3263.94,-262.61 3273.97,-259.18 3263.99,-255.61 3263.94,-262.61"/>
 </g>
 <!-- Node15 -->
 <g id="node15" class="node">
@@ -395,8 +395,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node15 -->
 <g id="edge14" class="edge">
 <title>Node8&#45;&gt;Node15</title>
-<path fill="none" stroke="midnightblue" d="M3355.63,-258.75C2999.62,-254.91 1528.31,-234.44 1339,-157 1323.46,-150.64 1308.85,-140.26 1296.21,-129.13"/>
-<polygon fill="none" stroke="midnightblue" points="3355.8,-262.26 3365.83,-258.86 3355.87,-255.26 3355.8,-262.26"/>
+<path fill="none" stroke="midnightblue" d="M3263.65,-258.57C2917.45,-253.98 1519.34,-231.01 1339,-157 1323.47,-150.63 1308.86,-140.24 1296.21,-129.11"/>
+<polygon fill="none" stroke="midnightblue" points="3263.78,-262.07 3273.82,-258.7 3263.87,-255.07 3263.78,-262.07"/>
 </g>
 <!-- Node16 -->
 <g id="node16" class="node">
@@ -415,8 +415,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node16 -->
 <g id="edge15" class="edge">
 <title>Node8&#45;&gt;Node16</title>
-<path fill="none" stroke="midnightblue" d="M3355.75,-258.5C3017.74,-253.72 1678.21,-230.24 1506,-157 1483.69,-147.51 1463.65,-129.25 1448.86,-112.83"/>
-<polygon fill="none" stroke="midnightblue" points="3355.88,-262 3365.93,-258.64 3355.98,-255 3355.88,-262"/>
+<path fill="none" stroke="midnightblue" d="M3263.43,-258.28C2935.13,-252.67 1669.25,-226.69 1506,-157 1483.7,-147.48 1463.67,-129.22 1448.87,-112.81"/>
+<polygon fill="none" stroke="midnightblue" points="3263.74,-261.78 3273.8,-258.45 3263.86,-254.78 3263.74,-261.78"/>
 </g>
 <!-- Node17 -->
 <g id="node17" class="node">
@@ -435,8 +435,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node17 -->
 <g id="edge16" class="edge">
 <title>Node8&#45;&gt;Node17</title>
-<path fill="none" stroke="midnightblue" d="M3355.48,-257.67C3039.2,-249.85 1855.8,-216.82 1700,-157 1675.25,-147.5 1651.89,-129.23 1634.3,-112.82"/>
-<polygon fill="none" stroke="midnightblue" points="3355.84,-261.18 3365.92,-257.93 3356.01,-254.19 3355.84,-261.18"/>
+<path fill="none" stroke="midnightblue" d="M3263.53,-257.4C2958.11,-248.75 1846.8,-213.64 1700,-157 1675.26,-147.46 1651.91,-129.19 1634.31,-112.79"/>
+<polygon fill="none" stroke="midnightblue" points="3263.53,-260.9 3273.63,-257.69 3263.73,-253.9 3263.53,-260.9"/>
 </g>
 <!-- Node18 -->
 <g id="node18" class="node">
@@ -455,8 +455,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node18 -->
 <g id="edge17" class="edge">
 <title>Node8&#45;&gt;Node18</title>
-<path fill="none" stroke="midnightblue" d="M3355.53,-257.33C3060.02,-248.63 2013.29,-214.06 1876,-157 1852.88,-147.39 1831.66,-129.12 1815.85,-112.74"/>
-<polygon fill="none" stroke="midnightblue" points="3355.63,-260.83 3365.72,-257.62 3355.83,-253.83 3355.63,-260.83"/>
+<path fill="none" stroke="midnightblue" d="M3263.4,-256.98C2979.12,-247.34 2004.38,-210.67 1876,-157 1852.9,-147.34 1831.68,-129.07 1815.87,-112.7"/>
+<polygon fill="none" stroke="midnightblue" points="3263.51,-260.48 3273.62,-257.32 3263.75,-253.49 3263.51,-260.48"/>
 </g>
 <!-- Node19 -->
 <g id="node19" class="node">
@@ -475,8 +475,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node19 -->
 <g id="edge18" class="edge">
 <title>Node8&#45;&gt;Node19</title>
-<path fill="none" stroke="midnightblue" d="M3355.72,-259.74C3103.02,-259.61 2303.93,-251.52 2067,-157 2042.68,-147.3 2019.8,-129.03 2002.59,-112.66"/>
-<polygon fill="none" stroke="midnightblue" points="3355.91,-263.24 3365.91,-259.74 3355.91,-256.24 3355.91,-263.24"/>
+<path fill="none" stroke="midnightblue" d="M3263.6,-259.26C3022.21,-257.57 2286.2,-245.13 2067,-157 2042.71,-147.23 2019.83,-128.96 2002.61,-112.61"/>
+<polygon fill="none" stroke="midnightblue" points="3263.67,-262.76 3273.69,-259.32 3263.72,-255.76 3263.67,-262.76"/>
 </g>
 <!-- Node20 -->
 <g id="node20" class="node">
@@ -495,8 +495,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node20 -->
 <g id="edge19" class="edge">
 <title>Node8&#45;&gt;Node20</title>
-<path fill="none" stroke="midnightblue" d="M3355.46,-258.29C3128.37,-253.88 2468.22,-234.54 2269,-157 2243.67,-147.14 2219.36,-128.86 2200.94,-112.54"/>
-<polygon fill="none" stroke="midnightblue" points="3355.56,-261.8 3365.62,-258.49 3355.69,-254.8 3355.56,-261.8"/>
+<path fill="none" stroke="midnightblue" d="M3263.73,-257.62C3049.29,-251.55 2450.65,-228.49 2269,-157 2243.91,-147.13 2219.79,-129.06 2201.42,-112.86"/>
+<polygon fill="none" stroke="midnightblue" points="3263.86,-261.13 3273.95,-257.91 3264.05,-254.13 3263.86,-261.13"/>
 </g>
 <!-- Node21 -->
 <g id="node21" class="node">
@@ -515,8 +515,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node21 -->
 <g id="edge20" class="edge">
 <title>Node8&#45;&gt;Node21</title>
-<path fill="none" stroke="midnightblue" d="M3355.58,-257.11C3154.33,-249.98 2619.16,-225 2457,-157 2433.2,-147.02 2410.74,-128.95 2393.74,-112.77"/>
-<polygon fill="none" stroke="midnightblue" points="3355.65,-260.61 3365.77,-257.46 3355.9,-253.62 3355.65,-260.61"/>
+<path fill="none" stroke="midnightblue" d="M3263.66,-256.14C3076.1,-247.1 2601.82,-218.65 2457,-157 2433.26,-146.89 2410.8,-128.82 2393.79,-112.67"/>
+<polygon fill="none" stroke="midnightblue" points="3263.56,-259.64 3273.72,-256.62 3263.89,-252.65 3263.56,-259.64"/>
 </g>
 <!-- Node22 -->
 <g id="node22" class="node">
@@ -535,8 +535,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node22 -->
 <g id="edge21" class="edge">
 <title>Node8&#45;&gt;Node22</title>
-<path fill="none" stroke="midnightblue" d="M3355.5,-254.71C3183.7,-243.23 2776.13,-211.02 2650,-157 2625.98,-146.71 2603.05,-128.63 2585.63,-112.52"/>
-<polygon fill="none" stroke="midnightblue" points="3355.51,-258.22 3365.72,-255.39 3355.98,-251.23 3355.51,-258.22"/>
+<path fill="none" stroke="midnightblue" d="M3263.9,-253.2C3107.62,-239.61 2759.09,-204.83 2650,-157 2626.26,-146.59 2603.52,-128.71 2586.13,-112.74"/>
+<polygon fill="none" stroke="midnightblue" points="3263.65,-256.69 3273.91,-254.07 3264.25,-249.72 3263.65,-256.69"/>
 </g>
 <!-- Node23 -->
 <g id="node23" class="node">
@@ -555,8 +555,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node23 -->
 <g id="edge22" class="edge">
 <title>Node8&#45;&gt;Node23</title>
-<path fill="none" stroke="midnightblue" d="M3355.81,-252.7C3210.57,-238.96 2902.76,-205.04 2808,-157 2787.26,-146.49 2768.48,-128.6 2754.44,-112.66"/>
-<polygon fill="none" stroke="midnightblue" points="3355.69,-256.2 3365.98,-253.65 3356.35,-249.24 3355.69,-256.2"/>
+<path fill="none" stroke="midnightblue" d="M3263.66,-258.43C3155.68,-253.97 2956.35,-234.78 2808,-157 2787.58,-146.29 2768.95,-128.6 2754.91,-112.81"/>
+<polygon fill="none" stroke="midnightblue" points="3263.69,-261.93 3273.81,-258.81 3263.95,-254.93 3263.69,-261.93"/>
 </g>
 <!-- Node24 -->
 <g id="node24" class="node">
@@ -575,8 +575,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node24 -->
 <g id="edge23" class="edge">
 <title>Node8&#45;&gt;Node24</title>
-<path fill="none" stroke="midnightblue" d="M3355.9,-254.5C3261.34,-245.68 3098.43,-221.68 2975,-157 2953.91,-145.95 2934.13,-128.23 2919.08,-112.52"/>
-<polygon fill="none" stroke="midnightblue" points="3355.69,-257.99 3365.96,-255.4 3356.31,-251.02 3355.69,-257.99"/>
+<path fill="none" stroke="midnightblue" d="M3263.83,-248.73C3186.85,-235.57 3067.09,-208.4 2975,-157 2954.56,-145.59 2935.11,-128.23 2920.09,-112.83"/>
+<polygon fill="none" stroke="midnightblue" points="3263.5,-252.23 3273.94,-250.42 3264.65,-245.32 3263.5,-252.23"/>
 </g>
 <!-- Node25 -->
 <g id="node25" class="node">
@@ -597,8 +597,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node25 -->
 <g id="edge24" class="edge">
 <title>Node8&#45;&gt;Node25</title>
-<path fill="none" stroke="midnightblue" d="M3356.31,-238.68C3299.33,-221.4 3220.91,-193.73 3158,-157 3142.13,-147.73 3126.3,-135.68 3112.35,-123.85"/>
-<polygon fill="none" stroke="midnightblue" points="3355.4,-242.06 3365.98,-241.58 3357.4,-235.35 3355.4,-242.06"/>
+<path fill="none" stroke="midnightblue" d="M3265.08,-221.16C3231.4,-203.09 3191.81,-180.4 3158,-157 3143.4,-146.9 3128.36,-134.96 3114.77,-123.52"/>
+<polygon fill="none" stroke="midnightblue" points="3263.49,-224.28 3273.97,-225.89 3266.78,-218.1 3263.49,-224.28"/>
 </g>
 <!-- Node27 -->
 <g id="node26" class="node">
@@ -617,8 +617,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node27 -->
 <g id="edge25" class="edge">
 <title>Node8&#45;&gt;Node27</title>
-<path fill="none" stroke="midnightblue" d="M3375.36,-202.81C3345.15,-173.09 3309.21,-137.74 3283.57,-112.52"/>
-<polygon fill="none" stroke="midnightblue" points="3372.93,-205.32 3382.51,-209.84 3377.84,-200.33 3372.93,-205.32"/>
+<path fill="none" stroke="midnightblue" d="M3311.19,-200.54C3296.42,-171.31 3279.12,-137.1 3266.69,-112.52"/>
+<polygon fill="none" stroke="midnightblue" points="3308.26,-202.49 3315.89,-209.84 3314.5,-199.33 3308.26,-202.49"/>
 </g>
 <!-- Node28 -->
 <g id="node27" class="node">
@@ -641,8 +641,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node28 -->
 <g id="edge26" class="edge">
 <title>Node8&#45;&gt;Node28</title>
-<path fill="none" stroke="midnightblue" d="M3433,-199.76C3433,-178.77 3433,-155.3 3433,-134.7"/>
-<polygon fill="none" stroke="midnightblue" points="3429.5,-199.84 3433,-209.84 3436.5,-199.84 3429.5,-199.84"/>
+<path fill="none" stroke="midnightblue" d="M3370.95,-200.9C3381.83,-179.62 3394.07,-155.67 3404.79,-134.7"/>
+<polygon fill="none" stroke="midnightblue" points="3367.82,-199.34 3366.38,-209.84 3374.05,-202.53 3367.82,-199.34"/>
 </g>
 <!-- Node29 -->
 <g id="node28" class="node">
@@ -661,8 +661,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node29 -->
 <g id="edge27" class="edge">
 <title>Node8&#45;&gt;Node29</title>
-<path fill="none" stroke="midnightblue" d="M3486.58,-202.43C3514.41,-172.8 3547.42,-137.63 3571,-112.52"/>
-<polygon fill="none" stroke="midnightblue" points="3483.92,-200.15 3479.63,-209.84 3489.02,-204.94 3483.92,-200.15"/>
+<path fill="none" stroke="midnightblue" d="M3417.02,-222.87C3451.07,-204.99 3490.91,-181.97 3524,-157 3541.22,-144.01 3558.44,-127.39 3572.29,-112.87"/>
+<polygon fill="none" stroke="midnightblue" points="3415.3,-219.82 3408.04,-227.54 3418.52,-226.03 3415.3,-219.82"/>
 </g>
 <!-- Node30 -->
 <g id="node29" class="node">
@@ -683,8 +683,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node30 -->
 <g id="edge28" class="edge">
 <title>Node8&#45;&gt;Node30</title>
-<path fill="none" stroke="midnightblue" d="M3509.64,-234.08C3560.02,-215.88 3626.45,-189 3681,-157 3697.37,-147.4 3714,-135.3 3728.8,-123.55"/>
-<polygon fill="none" stroke="midnightblue" points="3508.35,-230.83 3500.11,-237.49 3510.71,-237.42 3508.35,-230.83"/>
+<path fill="none" stroke="midnightblue" d="M3417.85,-245C3488.91,-229.62 3596.04,-201.33 3681,-157 3698.31,-147.97 3715.56,-135.71 3730.65,-123.61"/>
+<polygon fill="none" stroke="midnightblue" points="3417.11,-241.58 3408.06,-247.09 3418.57,-248.42 3417.11,-241.58"/>
 </g>
 <!-- Node31 -->
 <g id="node30" class="node">
@@ -705,8 +705,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node31 -->
 <g id="edge29" class="edge">
 <title>Node8&#45;&gt;Node31</title>
-<path fill="none" stroke="midnightblue" d="M3510.31,-253.62C3602.29,-244 3758.32,-219.25 3877,-157 3893.27,-148.47 3908.82,-136.06 3922.07,-123.66"/>
-<polygon fill="none" stroke="midnightblue" points="3509.84,-250.15 3500.24,-254.64 3510.54,-257.11 3509.84,-250.15"/>
+<path fill="none" stroke="midnightblue" d="M3418.38,-257.76C3526.5,-252.5 3726.4,-232.39 3877,-157 3893.61,-148.69 3909.37,-136.19 3922.7,-123.64"/>
+<polygon fill="none" stroke="midnightblue" points="3418.04,-254.27 3408.21,-258.22 3418.36,-261.26 3418.04,-254.27"/>
 </g>
 <!-- Node32 -->
 <g id="node31" class="node">
@@ -726,8 +726,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node32 -->
 <g id="edge30" class="edge">
 <title>Node8&#45;&gt;Node32</title>
-<path fill="none" stroke="midnightblue" d="M3510.2,-252.44C3653.43,-238.4 3954.23,-204.2 4047,-157 4065.32,-147.68 4082.13,-132.61 4095.49,-118.23"/>
-<polygon fill="none" stroke="midnightblue" points="3509.77,-248.97 3500.16,-253.42 3510.45,-255.93 3509.77,-248.97"/>
+<path fill="none" stroke="midnightblue" d="M3418.38,-254.34C3577.91,-242.72 3937.59,-211.21 4047,-157 4065.59,-147.79 4082.56,-132.56 4095.96,-118.02"/>
+<polygon fill="none" stroke="midnightblue" points="3417.89,-250.86 3408.17,-255.07 3418.39,-257.84 3417.89,-250.86"/>
 </g>
 <!-- Node33 -->
 <g id="node32" class="node">
@@ -747,8 +747,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node33 -->
 <g id="edge31" class="edge">
 <title>Node8&#45;&gt;Node33</title>
-<path fill="none" stroke="midnightblue" d="M3510.33,-255.21C3680.67,-244.81 4082.82,-214.76 4205,-157 4224.25,-147.9 4242.03,-132.69 4256.15,-118.13"/>
-<polygon fill="none" stroke="midnightblue" points="3509.96,-251.73 3500.18,-255.83 3510.38,-258.72 3509.96,-251.73"/>
+<path fill="none" stroke="midnightblue" d="M3418.45,-256.46C3603.41,-248.22 4065.83,-221.61 4205,-157 4224.31,-148.03 4242.1,-132.84 4256.22,-118.27"/>
+<polygon fill="none" stroke="midnightblue" points="3418.1,-252.97 3408.26,-256.91 3418.4,-259.96 3418.1,-252.97"/>
 </g>
 <!-- Node34 -->
 <g id="node33" class="node">
@@ -767,8 +767,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node34 -->
 <g id="edge32" class="edge">
 <title>Node8&#45;&gt;Node34</title>
-<path fill="none" stroke="midnightblue" d="M3510.25,-256.98C3705.99,-249.67 4216.84,-224.49 4371,-157 4393.9,-146.98 4415.18,-128.9 4431.19,-112.73"/>
-<polygon fill="none" stroke="midnightblue" points="3509.91,-253.49 3500.05,-257.36 3510.17,-260.49 3509.91,-253.49"/>
+<path fill="none" stroke="midnightblue" d="M3418.36,-257.85C3627.44,-252.43 4199.55,-231.07 4371,-157 4393.95,-147.09 4415.23,-129.02 4431.23,-112.82"/>
+<polygon fill="none" stroke="midnightblue" points="3418,-254.36 3408.09,-258.11 3418.17,-261.35 3418,-254.36"/>
 </g>
 <!-- Node35 -->
 <g id="node34" class="node">
@@ -789,8 +789,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node35 -->
 <g id="edge33" class="edge">
 <title>Node8&#45;&gt;Node35</title>
-<path fill="none" stroke="midnightblue" d="M3510.23,-258.59C3731.1,-255.01 4361.45,-237.8 4549,-157 4566.76,-149.35 4583.46,-136.7 4597.44,-123.82"/>
-<polygon fill="none" stroke="midnightblue" points="3509.97,-255.09 3500.03,-258.75 3510.08,-262.09 3509.97,-255.09"/>
+<path fill="none" stroke="midnightblue" d="M3418.1,-259.21C3651,-257.38 4343.94,-244.51 4549,-157 4566.79,-149.41 4583.49,-136.78 4597.47,-123.9"/>
+<polygon fill="none" stroke="midnightblue" points="3417.99,-255.71 3408.02,-259.29 3418.04,-262.71 3417.99,-255.71"/>
 </g>
 <!-- Node36 -->
 <g id="node35" class="node">
@@ -809,8 +809,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node36 -->
 <g id="edge34" class="edge">
 <title>Node8&#45;&gt;Node36</title>
-<path fill="none" stroke="midnightblue" d="M3510.5,-260.03C3754.82,-260.67 4505.69,-254.46 4725,-157 4747.02,-147.22 4766.81,-128.94 4781.43,-112.6"/>
-<polygon fill="none" stroke="midnightblue" points="3510.3,-256.53 3500.29,-260 3510.28,-263.53 3510.3,-256.53"/>
+<path fill="none" stroke="midnightblue" d="M3418.46,-256.79C3692.39,-246.8 4605.3,-209.82 4725,-157 4747.04,-147.27 4766.83,-129 4781.45,-112.64"/>
+<polygon fill="none" stroke="midnightblue" points="3418.08,-253.3 3408.22,-257.16 3418.34,-260.3 3418.08,-253.3"/>
 </g>
 <!-- Node37 -->
 <g id="node36" class="node">
@@ -830,8 +830,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node37 -->
 <g id="edge35" class="edge">
 <title>Node8&#45;&gt;Node37</title>
-<path fill="none" stroke="midnightblue" d="M3510.58,-256.9C3793.67,-247 4761.19,-209.63 4889,-157 4909.78,-148.44 4929.18,-133.12 4944.61,-118.35"/>
-<polygon fill="none" stroke="midnightblue" points="3510.27,-253.4 3500.4,-257.25 3510.52,-260.4 3510.27,-253.4"/>
+<path fill="none" stroke="midnightblue" d="M3418.5,-257.25C3712.91,-248.29 4752.28,-212.96 4889,-157 4909.8,-148.49 4929.2,-133.17 4944.63,-118.39"/>
+<polygon fill="none" stroke="midnightblue" points="3418.23,-253.75 3408.34,-257.55 3418.44,-260.75 3418.23,-253.75"/>
 </g>
 <!-- Node38 -->
 <g id="node37" class="node">
@@ -850,8 +850,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node38 -->
 <g id="edge36" class="edge">
 <title>Node8&#45;&gt;Node38</title>
-<path fill="none" stroke="midnightblue" d="M3510.4,-257.79C3815.52,-250.63 4925.51,-220.4 5069,-157 5090.76,-147.39 5110.07,-129.12 5124.27,-112.74"/>
-<polygon fill="none" stroke="midnightblue" points="3510.23,-254.29 3500.31,-258.03 3510.39,-261.29 3510.23,-254.29"/>
+<path fill="none" stroke="midnightblue" d="M3418.46,-258.07C3734.48,-251.79 4916.68,-224 5069,-157 5090.77,-147.42 5110.09,-129.16 5124.29,-112.76"/>
+<polygon fill="none" stroke="midnightblue" points="3417.96,-254.58 3408.03,-258.27 3418.1,-261.57 3417.96,-254.58"/>
 </g>
 <!-- Node39 -->
 <g id="node38" class="node">
@@ -870,8 +870,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node39 -->
 <g id="edge37" class="edge">
 <title>Node8&#45;&gt;Node39</title>
-<path fill="none" stroke="midnightblue" d="M3510.25,-258.06C3833.66,-251.63 5069.41,-222.92 5230,-157 5253.16,-147.49 5274.38,-129.23 5290.18,-112.82"/>
-<polygon fill="none" stroke="midnightblue" points="3509.97,-254.56 3500.04,-258.26 3510.11,-261.56 3509.97,-254.56"/>
+<path fill="none" stroke="midnightblue" d="M3418.06,-258.29C3751.45,-252.67 5060.42,-226.33 5230,-157 5253.18,-147.52 5274.4,-129.26 5290.19,-112.85"/>
+<polygon fill="none" stroke="midnightblue" points="3417.96,-254.79 3408.02,-258.46 3418.07,-261.79 3417.96,-254.79"/>
 </g>
 <!-- Node40 -->
 <g id="node39" class="node">
@@ -890,8 +890,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node40 -->
 <g id="edge38" class="edge">
 <title>Node8&#45;&gt;Node40</title>
-<path fill="none" stroke="midnightblue" d="M3510.31,-258.36C3853.17,-252.94 5227.31,-226.99 5406,-157 5430.07,-147.57 5452.48,-129.31 5469.27,-112.89"/>
-<polygon fill="none" stroke="midnightblue" points="3510.17,-254.87 3500.23,-258.52 3510.28,-261.87 3510.17,-254.87"/>
+<path fill="none" stroke="midnightblue" d="M3418.12,-258.56C3770.48,-253.88 5218.25,-230.29 5406,-157 5430.28,-147.52 5452.86,-129.04 5469.68,-112.51"/>
+<polygon fill="none" stroke="midnightblue" points="3417.97,-255.06 3408.01,-258.69 3418.06,-262.06 3417.97,-255.06"/>
 </g>
 <!-- Node41 -->
 <g id="node40" class="node">
@@ -910,8 +910,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node41 -->
 <g id="edge39" class="edge">
 <title>Node8&#45;&gt;Node41</title>
-<path fill="none" stroke="midnightblue" d="M3510.39,-258.88C3873.22,-255.54 5396.34,-236.87 5592,-157 5615.22,-147.52 5636.36,-129.04 5651.98,-112.5"/>
-<polygon fill="none" stroke="midnightblue" points="3510.22,-255.38 3500.25,-258.97 3510.29,-262.38 3510.22,-255.38"/>
+<path fill="none" stroke="midnightblue" d="M3418.32,-259.04C3790.44,-256.41 5387.33,-240.32 5592,-157 5615.23,-147.54 5636.37,-129.06 5651.99,-112.52"/>
+<polygon fill="none" stroke="midnightblue" points="3418.17,-255.54 3408.19,-259.11 3418.22,-262.54 3418.17,-255.54"/>
 </g>
 <!-- Node42 -->
 <g id="node41" class="node">
@@ -930,8 +930,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node42 -->
 <g id="edge40" class="edge">
 <title>Node8&#45;&gt;Node42</title>
-<path fill="none" stroke="midnightblue" d="M3510.32,-259.12C3890.6,-256.87 5552.82,-242.19 5766,-157 5789.59,-147.57 5811.21,-129.09 5827.23,-112.55"/>
-<polygon fill="none" stroke="midnightblue" points="3510.22,-255.62 3500.24,-259.18 3510.26,-262.62 3510.22,-255.62"/>
+<path fill="none" stroke="midnightblue" d="M3418.18,-259.26C3807.27,-257.67 5543.76,-245.6 5766,-157 5789.6,-147.59 5811.22,-129.12 5827.24,-112.56"/>
+<polygon fill="none" stroke="midnightblue" points="3418.14,-255.76 3408.15,-259.3 3418.17,-262.76 3418.14,-255.76"/>
 </g>
 <!-- Node43 -->
 <g id="node42" class="node">
@@ -951,8 +951,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node43 -->
 <g id="edge41" class="edge">
 <title>Node8&#45;&gt;Node43</title>
-<path fill="none" stroke="midnightblue" d="M3510.29,-259.36C3907.88,-258.24 5713.07,-248.13 5944,-157 5965.1,-148.67 5984.68,-133.19 6000.16,-118.25"/>
-<polygon fill="none" stroke="midnightblue" points="3510.04,-255.86 3500.05,-259.39 3510.06,-262.86 3510.04,-255.86"/>
+<path fill="none" stroke="midnightblue" d="M3418.48,-259.48C3825.21,-258.97 5704.04,-251.49 5944,-157 5965.1,-148.69 5984.69,-133.21 6000.16,-118.26"/>
+<polygon fill="none" stroke="midnightblue" points="3418.29,-255.98 3408.29,-259.49 3418.3,-262.98 3418.29,-255.98"/>
 </g>
 <!-- Node44 -->
 <g id="node43" class="node">
@@ -972,8 +972,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node44 -->
 <g id="edge42" class="edge">
 <title>Node8&#45;&gt;Node44</title>
-<path fill="none" stroke="midnightblue" d="M3510.13,-259.73C3924.52,-260.56 5876.98,-259.01 6124,-157 6144.17,-148.67 6162.52,-133.19 6176.88,-118.24"/>
-<polygon fill="none" stroke="midnightblue" points="3510.06,-256.23 3500.05,-259.71 3510.04,-263.23 3510.06,-256.23"/>
+<path fill="none" stroke="midnightblue" d="M3418.34,-259.84C3841.64,-261.27 5868,-262.53 6124,-157 6144.18,-148.68 6162.53,-133.2 6176.89,-118.25"/>
+<polygon fill="none" stroke="midnightblue" points="3418.07,-256.34 3408.05,-259.8 3418.04,-263.34 3418.07,-256.34"/>
 </g>
 <!-- Node45 -->
 <g id="node44" class="node">
@@ -992,8 +992,8 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node45 -->
 <g id="edge43" class="edge">
 <title>Node8&#45;&gt;Node45</title>
-<path fill="none" stroke="midnightblue" d="M3510.37,-258.32C3954.22,-251.34 6161.83,-213.85 6293,-157 6314.72,-147.59 6333.7,-129.11 6347.5,-112.56"/>
-<polygon fill="none" stroke="midnightblue" points="3510.16,-254.82 3500.21,-258.48 3510.26,-261.82 3510.16,-254.82"/>
+<path fill="none" stroke="midnightblue" d="M3418.31,-258.41C3870.48,-251.82 6157.33,-215.71 6293,-157 6314.72,-147.6 6333.7,-129.12 6347.5,-112.57"/>
+<polygon fill="none" stroke="midnightblue" points="3418.24,-254.91 3408.29,-258.55 3418.34,-261.91 3418.24,-254.91"/>
 </g>
 <!-- Node46 -->
 <g id="node45" class="node">
@@ -1020,85 +1020,91 @@ var sectionId = 'dynsection-0';
 <!-- Node8&#45;&gt;Node46 -->
 <g id="edge44" class="edge">
 <title>Node8&#45;&gt;Node46</title>
-<path fill="none" stroke="midnightblue" d="M3510.2,-259.75C3953.64,-260.81 6166.85,-260.85 6450,-157 6452.95,-155.92 6455.89,-154.71 6458.79,-153.39"/>
-<polygon fill="none" stroke="midnightblue" points="3510.06,-256.25 3500.05,-259.73 3510.04,-263.25 3510.06,-256.25"/>
-</g>
-<!-- Node47 -->
-<g id="node46" class="node">
-<title>Node47</title>
-<g id="a_node46"><a xlink:href="../../d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="6654.5,-39 6654.5,-118 6821.5,-118 6821.5,-39 6654.5,-39"/>
-<text text-anchor="middle" x="6738" y="-106" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\SweetBerries</text>
-<polyline fill="none" stroke="#bfbfbf" points="6654.5,-99 6821.5,-99 "/>
-<text text-anchor="middle" x="6738" y="-87" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="6654.5,-80 6821.5,-80 "/>
-<text text-anchor="start" x="6662.5" y="-68" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
-<text text-anchor="start" x="6662.5" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFoodRestore()</text>
-<text text-anchor="start" x="6662.5" y="-46" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSaturationRestore()</text>
-</a>
-</g>
-</g>
-<!-- Node8&#45;&gt;Node47 -->
-<g id="edge45" class="edge">
-<title>Node8&#45;&gt;Node47</title>
-<path fill="none" stroke="midnightblue" d="M3510.48,-258.47C3986.11,-251.93 6495.09,-214.84 6646,-157 6667.45,-148.78 6687.45,-133.31 6703.29,-118.35"/>
-<polygon fill="none" stroke="midnightblue" points="3510.24,-254.97 3500.29,-258.6 3510.34,-261.97 3510.24,-254.97"/>
+<path fill="none" stroke="midnightblue" d="M3418.35,-259.84C3870.12,-261.41 6157.7,-264.04 6450,-157 6452.95,-155.92 6455.89,-154.71 6458.79,-153.39"/>
+<polygon fill="none" stroke="midnightblue" points="3418.03,-256.33 3408.02,-259.8 3418.01,-263.33 3418.03,-256.33"/>
 </g>
 <!-- Node48&#45;&gt;Node7 -->
-<g id="edge47" class="edge">
+<g id="edge46" class="edge">
 <title>Node48&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M2785.33,-562.02C2751.79,-534.66 2705.23,-496.69 2673.93,-471.17"/>
-<polygon fill="none" stroke="midnightblue" points="2783.17,-564.78 2793.14,-568.38 2787.6,-559.35 2783.17,-564.78"/>
+<path fill="none" stroke="midnightblue" d="M2648.33,-562.02C2614.79,-534.66 2568.23,-496.69 2536.93,-471.17"/>
+<polygon fill="none" stroke="midnightblue" points="2646.17,-564.78 2656.14,-568.38 2650.6,-559.35 2646.17,-564.78"/>
 </g>
 <!-- Node49 -->
-<g id="node48" class="node">
+<g id="node47" class="node">
 <title>Node49</title>
-<g id="a_node48"><a xlink:href="../../dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="2749,-392 2749,-493 2905,-493 2905,-392 2749,-392"/>
-<text text-anchor="middle" x="2827" y="-481" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\MilkBucket</text>
-<polyline fill="none" stroke="#bfbfbf" points="2749,-474 2905,-474 "/>
-<text text-anchor="middle" x="2827" y="-462" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="2749,-455 2905,-455 "/>
-<text text-anchor="start" x="2757" y="-443" font-family="Helvetica,sans-Serif" font-size="10.00">+ canStartUsingItem()</text>
-<text text-anchor="start" x="2757" y="-432" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAdditionalEffects()</text>
-<text text-anchor="start" x="2757" y="-421" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
-<text text-anchor="start" x="2757" y="-410" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
-<text text-anchor="start" x="2757" y="-399" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
+<g id="a_node47"><a xlink:href="../../d9/db1/classpocketmine_1_1item_1_1_medicine.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="2612,-370 2612,-515 2758,-515 2758,-370 2612,-370"/>
+<text text-anchor="middle" x="2685" y="-503" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Medicine</text>
+<polyline fill="none" stroke="#bfbfbf" points="2612,-496 2758,-496 "/>
+<text text-anchor="middle" x="2685" y="-484" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="2612,-477 2758,-477 "/>
+<text text-anchor="start" x="2620" y="-465" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="2620" y="-454" font-family="Helvetica,sans-Serif" font-size="10.00">+ canStartUsingItem()</text>
+<text text-anchor="start" x="2620" y="-443" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAdditionalEffects()</text>
+<text text-anchor="start" x="2620" y="-432" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
+<text text-anchor="start" x="2620" y="-421" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
+<text text-anchor="start" x="2620" y="-410" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
+<text text-anchor="start" x="2620" y="-399" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
+<text text-anchor="start" x="2620" y="-388" font-family="Helvetica,sans-Serif" font-size="10.00">+ setType()</text>
+<text text-anchor="start" x="2620" y="-377" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
 </a>
 </g>
 </g>
 <!-- Node48&#45;&gt;Node49 -->
-<g id="edge48" class="edge">
+<g id="edge47" class="edge">
 <title>Node48&#45;&gt;Node49</title>
-<path fill="none" stroke="midnightblue" d="M2827,-558.27C2827,-538.6 2827,-514.29 2827,-493.11"/>
-<polygon fill="none" stroke="midnightblue" points="2823.5,-558.38 2827,-568.38 2830.5,-558.38 2823.5,-558.38"/>
+<path fill="none" stroke="midnightblue" d="M2688.77,-558.35C2688.34,-545.22 2687.84,-530.02 2687.35,-515.07"/>
+<polygon fill="none" stroke="midnightblue" points="2685.27,-558.5 2689.09,-568.38 2692.26,-558.27 2685.27,-558.5"/>
 </g>
 <!-- Node50 -->
-<g id="node49" class="node">
+<g id="node48" class="node">
 <title>Node50</title>
-<g id="a_node49"><a xlink:href="../../d3/d00/classpocketmine_1_1item_1_1_potion.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="2923,-370 2923,-515 3057,-515 3057,-370 2923,-370"/>
-<text text-anchor="middle" x="2990" y="-503" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Potion</text>
-<polyline fill="none" stroke="#bfbfbf" points="2923,-496 3057,-496 "/>
-<text text-anchor="middle" x="2990" y="-484" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="2923,-477 3057,-477 "/>
-<text text-anchor="start" x="2931" y="-465" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="2931" y="-454" font-family="Helvetica,sans-Serif" font-size="10.00">+ canStartUsingItem()</text>
-<text text-anchor="start" x="2931" y="-443" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAdditionalEffects()</text>
-<text text-anchor="start" x="2931" y="-432" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
-<text text-anchor="start" x="2931" y="-421" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
-<text text-anchor="start" x="2931" y="-410" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
-<text text-anchor="start" x="2931" y="-399" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
-<text text-anchor="start" x="2931" y="-388" font-family="Helvetica,sans-Serif" font-size="10.00">+ setType()</text>
-<text text-anchor="start" x="2931" y="-377" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
+<g id="a_node48"><a xlink:href="../../dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="2776,-392 2776,-493 2932,-493 2932,-392 2776,-392"/>
+<text text-anchor="middle" x="2854" y="-481" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\MilkBucket</text>
+<polyline fill="none" stroke="#bfbfbf" points="2776,-474 2932,-474 "/>
+<text text-anchor="middle" x="2854" y="-462" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="2776,-455 2932,-455 "/>
+<text text-anchor="start" x="2784" y="-443" font-family="Helvetica,sans-Serif" font-size="10.00">+ canStartUsingItem()</text>
+<text text-anchor="start" x="2784" y="-432" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAdditionalEffects()</text>
+<text text-anchor="start" x="2784" y="-421" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
+<text text-anchor="start" x="2784" y="-410" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
+<text text-anchor="start" x="2784" y="-399" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
 </a>
 </g>
 </g>
 <!-- Node48&#45;&gt;Node50 -->
-<g id="edge49" class="edge">
+<g id="edge48" class="edge">
 <title>Node48&#45;&gt;Node50</title>
-<path fill="none" stroke="midnightblue" d="M2868.16,-561.74C2882.86,-549.19 2899.39,-534.7 2914,-521 2916.89,-518.29 2919.81,-515.51 2922.75,-512.68"/>
-<polygon fill="none" stroke="midnightblue" points="2865.56,-559.36 2860.21,-568.5 2870.1,-564.69 2865.56,-559.36"/>
+<path fill="none" stroke="midnightblue" d="M2727.11,-561.49C2748.83,-541.3 2776.61,-515.46 2800.64,-493.11"/>
+<polygon fill="none" stroke="midnightblue" points="2724.64,-559.01 2719.7,-568.38 2729.41,-564.14 2724.64,-559.01"/>
+</g>
+<!-- Node51 -->
+<g id="node49" class="node">
+<title>Node51</title>
+<g id="a_node49"><a xlink:href="../../d3/d00/classpocketmine_1_1item_1_1_potion.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="2950,-370 2950,-515 3084,-515 3084,-370 2950,-370"/>
+<text text-anchor="middle" x="3017" y="-503" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Potion</text>
+<polyline fill="none" stroke="#bfbfbf" points="2950,-496 3084,-496 "/>
+<text text-anchor="middle" x="3017" y="-484" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="2950,-477 3084,-477 "/>
+<text text-anchor="start" x="2958" y="-465" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="2958" y="-454" font-family="Helvetica,sans-Serif" font-size="10.00">+ canStartUsingItem()</text>
+<text text-anchor="start" x="2958" y="-443" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAdditionalEffects()</text>
+<text text-anchor="start" x="2958" y="-432" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
+<text text-anchor="start" x="2958" y="-421" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
+<text text-anchor="start" x="2958" y="-410" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
+<text text-anchor="start" x="2958" y="-399" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
+<text text-anchor="start" x="2958" y="-388" font-family="Helvetica,sans-Serif" font-size="10.00">+ setType()</text>
+<text text-anchor="start" x="2958" y="-377" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
+</a>
+</g>
+</g>
+<!-- Node48&#45;&gt;Node51 -->
+<g id="edge49" class="edge">
+<title>Node48&#45;&gt;Node51</title>
+<path fill="none" stroke="midnightblue" d="M2792.57,-577.69C2840.05,-566.2 2895.83,-548.25 2941,-521 2944.07,-519.15 2947.1,-517.15 2950.08,-515.03"/>
+<polygon fill="none" stroke="midnightblue" points="2791.5,-574.35 2782.57,-580.04 2793.1,-581.16 2791.5,-574.35"/>
 </g>
 </g>
 </svg>

@@ -731,32 +731,33 @@
 <g id="node21" class="node">
 <title>Node21</title>
 <g id="a_node21"><a xlink:href="../../d3/d2c/classpocketmine_1_1entity_1_1projectile_1_1_splash_potion.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="1749.5,-132.5 1749.5,-332.5 1903.5,-332.5 1903.5,-132.5 1749.5,-132.5"/>
-<text text-anchor="start" x="1757.5" y="-320.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\entity\projectile</text>
-<text text-anchor="middle" x="1826.5" y="-309.5" font-family="Helvetica,sans-Serif" font-size="10.00">\SplashPotion</text>
-<polyline fill="none" stroke="#bfbfbf" points="1749.5,-302.5 1903.5,-302.5 "/>
-<text text-anchor="start" x="1757.5" y="-290.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $linger</text>
-<text text-anchor="start" x="1757.5" y="-279.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $potionType</text>
-<polyline fill="none" stroke="#bfbfbf" points="1749.5,-272.5 1903.5,-272.5 "/>
-<text text-anchor="start" x="1757.5" y="-260.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="1757.5" y="-249.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPotionEffects()</text>
-<text text-anchor="start" x="1757.5" y="-238.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPotionType()</text>
-<text text-anchor="start" x="1757.5" y="-227.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResultDamage()</text>
-<text text-anchor="start" x="1757.5" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ saveNBT()</text>
-<text text-anchor="start" x="1757.5" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setLinger()</text>
-<text text-anchor="start" x="1757.5" y="-194.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPotionType()</text>
-<text text-anchor="start" x="1757.5" y="-183.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ willLinger()</text>
-<text text-anchor="start" x="1757.5" y="-172.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNetworkTypeId()</text>
-<text text-anchor="start" x="1757.5" y="-161.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getInitialGravity()</text>
-<text text-anchor="start" x="1757.5" y="-150.5" font-family="Helvetica,sans-Serif" font-size="10.00"># onHit()</text>
-<text text-anchor="start" x="1757.5" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00"># syncNetworkData()</text>
+<polygon fill="white" stroke="#bfbfbf" points="1749.5,-127 1749.5,-338 1903.5,-338 1903.5,-127 1749.5,-127"/>
+<text text-anchor="start" x="1757.5" y="-326" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\entity\projectile</text>
+<text text-anchor="middle" x="1826.5" y="-315" font-family="Helvetica,sans-Serif" font-size="10.00">\SplashPotion</text>
+<polyline fill="none" stroke="#bfbfbf" points="1749.5,-308 1903.5,-308 "/>
+<text text-anchor="start" x="1757.5" y="-296" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_POTION_ID</text>
+<text text-anchor="start" x="1757.5" y="-285" font-family="Helvetica,sans-Serif" font-size="10.00"># $linger</text>
+<text text-anchor="start" x="1757.5" y="-274" font-family="Helvetica,sans-Serif" font-size="10.00"># $potionType</text>
+<polyline fill="none" stroke="#bfbfbf" points="1749.5,-267 1903.5,-267 "/>
+<text text-anchor="start" x="1757.5" y="-255" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="1757.5" y="-244" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPotionEffects()</text>
+<text text-anchor="start" x="1757.5" y="-233" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPotionType()</text>
+<text text-anchor="start" x="1757.5" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResultDamage()</text>
+<text text-anchor="start" x="1757.5" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">+ saveNBT()</text>
+<text text-anchor="start" x="1757.5" y="-200" font-family="Helvetica,sans-Serif" font-size="10.00">+ setLinger()</text>
+<text text-anchor="start" x="1757.5" y="-189" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPotionType()</text>
+<text text-anchor="start" x="1757.5" y="-178" font-family="Helvetica,sans-Serif" font-size="10.00">+ willLinger()</text>
+<text text-anchor="start" x="1757.5" y="-167" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNetworkTypeId()</text>
+<text text-anchor="start" x="1757.5" y="-156" font-family="Helvetica,sans-Serif" font-size="10.00"># getInitialGravity()</text>
+<text text-anchor="start" x="1757.5" y="-145" font-family="Helvetica,sans-Serif" font-size="10.00"># onHit()</text>
+<text text-anchor="start" x="1757.5" y="-134" font-family="Helvetica,sans-Serif" font-size="10.00"># syncNetworkData()</text>
 </a>
 </g>
 </g>
 <!-- Node16&#45;&gt;Node21 -->
 <g id="edge20" class="edge">
 <title>Node16&#45;&gt;Node21</title>
-<path fill="none" stroke="midnightblue" d="M1568.02,-628.06C1623.71,-588.52 1694.33,-530.72 1740.5,-465 1768.29,-425.45 1788.28,-375.83 1801.96,-332.68"/>
+<path fill="none" stroke="midnightblue" d="M1568.02,-628.06C1623.71,-588.52 1694.33,-530.72 1740.5,-465 1767.12,-427.11 1786.59,-379.99 1800.2,-338.17"/>
 <polygon fill="none" stroke="midnightblue" points="1565.73,-625.39 1559.56,-634.01 1569.76,-631.12 1565.73,-625.39"/>
 </g>
 </g>

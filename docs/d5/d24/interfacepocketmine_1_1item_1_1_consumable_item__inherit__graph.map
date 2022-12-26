@@ -1,10 +1,11 @@
 <map id="pocketmine\item\ConsumableItem" name="pocketmine\item\ConsumableItem">
-<area shape="rect" id="node1" title=" " alt="" coords="4593,145,4840,223"/>
+<area shape="rect" id="node1" title=" " alt="" coords="4699,145,4945,223"/>
 <area shape="rect" id="node4" href="$de/d44/interfacepocketmine_1_1item_1_1_food_source_item.html" title=" " alt="" coords="4347,329,4588,407"/>
-<area shape="rect" id="node45" href="$dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html" title=" " alt="" coords="4613,300,4821,436"/>
-<area shape="rect" id="node46" href="$d3/d00/classpocketmine_1_1item_1_1_potion.html" title=" " alt="" coords="4845,271,5023,465"/>
-<area shape="rect" id="node2" href="$db/d3f/interfacepocketmine_1_1entity_1_1_consumable.html" title=" " alt="" coords="4484,5,4709,97"/>
-<area shape="rect" id="node3" href="$d4/d35/interfacepocketmine_1_1item_1_1_releasable.html" title=" " alt="" coords="4734,13,4942,90"/>
+<area shape="rect" id="node45" href="$d9/db1/classpocketmine_1_1item_1_1_medicine.html" title=" " alt="" coords="4613,271,4807,465"/>
+<area shape="rect" id="node46" href="$dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html" title=" " alt="" coords="4831,300,5039,436"/>
+<area shape="rect" id="node47" href="$d3/d00/classpocketmine_1_1item_1_1_potion.html" title=" " alt="" coords="5063,271,5242,465"/>
+<area shape="rect" id="node2" href="$db/d3f/interfacepocketmine_1_1entity_1_1_consumable.html" title=" " alt="" coords="4589,5,4815,97"/>
+<area shape="rect" id="node3" href="$d4/d35/interfacepocketmine_1_1item_1_1_releasable.html" title=" " alt="" coords="4839,13,5047,90"/>
 <area shape="rect" id="node5" href="$dc/de1/classpocketmine_1_1item_1_1_food.html" title=" " alt="" coords="4378,513,4557,649"/>
 <area shape="rect" id="node6" href="$dd/dd1/classpocketmine_1_1item_1_1_apple.html" title=" " alt="" coords="5,756,191,848"/>
 <area shape="rect" id="node7" href="$d2/d25/classpocketmine_1_1item_1_1_baked_potato.html" title=" " alt="" coords="215,756,434,848"/>

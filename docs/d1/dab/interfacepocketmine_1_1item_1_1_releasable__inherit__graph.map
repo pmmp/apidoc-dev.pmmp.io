@@ -1,11 +1,12 @@
 <map id="pocketmine\item\Releasable" name="pocketmine\item\Releasable">
-<area shape="rect" id="node1" title=" " alt="" coords="4613,5,4821,83"/>
-<area shape="rect" id="node2" href="$d5/dbc/classpocketmine_1_1item_1_1_bow.html" title=" " alt="" coords="4401,131,4569,252"/>
-<area shape="rect" id="node3" href="$d2/de2/interfacepocketmine_1_1item_1_1_consumable_item.html" title=" " alt="" coords="4593,153,4840,230"/>
-<area shape="rect" id="node47" href="$d5/da3/classpocketmine_1_1item_1_1_spyglass.html" title=" " alt="" coords="4865,145,5059,237"/>
+<area shape="rect" id="node1" title=" " alt="" coords="4718,5,4926,83"/>
+<area shape="rect" id="node2" href="$d5/dbc/classpocketmine_1_1item_1_1_bow.html" title=" " alt="" coords="4506,131,4674,252"/>
+<area shape="rect" id="node3" href="$d2/de2/interfacepocketmine_1_1item_1_1_consumable_item.html" title=" " alt="" coords="4699,153,4945,230"/>
+<area shape="rect" id="node48" href="$d5/da3/classpocketmine_1_1item_1_1_spyglass.html" title=" " alt="" coords="4970,145,5165,237"/>
 <area shape="rect" id="node4" href="$de/d44/interfacepocketmine_1_1item_1_1_food_source_item.html" title=" " alt="" coords="4347,359,4588,436"/>
-<area shape="rect" id="node45" href="$dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html" title=" " alt="" coords="4613,329,4821,465"/>
-<area shape="rect" id="node46" href="$d3/d00/classpocketmine_1_1item_1_1_potion.html" title=" " alt="" coords="4845,300,5023,495"/>
+<area shape="rect" id="node45" href="$d9/db1/classpocketmine_1_1item_1_1_medicine.html" title=" " alt="" coords="4613,300,4807,495"/>
+<area shape="rect" id="node46" href="$dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html" title=" " alt="" coords="4831,329,5039,465"/>
+<area shape="rect" id="node47" href="$d3/d00/classpocketmine_1_1item_1_1_potion.html" title=" " alt="" coords="5063,300,5242,495"/>
 <area shape="rect" id="node5" href="$dc/de1/classpocketmine_1_1item_1_1_food.html" title=" " alt="" coords="4378,543,4557,679"/>
 <area shape="rect" id="node6" href="$dd/dd1/classpocketmine_1_1item_1_1_apple.html" title=" " alt="" coords="5,785,191,877"/>
 <area shape="rect" id="node7" href="$d2/d25/classpocketmine_1_1item_1_1_baked_potato.html" title=" " alt="" coords="215,785,434,877"/>

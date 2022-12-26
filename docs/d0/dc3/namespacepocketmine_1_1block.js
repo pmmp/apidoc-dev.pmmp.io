@@ -87,6 +87,7 @@ var namespacepocketmine_1_1block =
     [ "CartographyTable", "d2/d0c/classpocketmine_1_1block_1_1_cartography_table.html", "d2/d0c/classpocketmine_1_1block_1_1_cartography_table" ],
     [ "CarvedPumpkin", "d9/d07/classpocketmine_1_1block_1_1_carved_pumpkin.html", "d9/d07/classpocketmine_1_1block_1_1_carved_pumpkin" ],
     [ "Cauldron", "dc/d05/classpocketmine_1_1block_1_1_cauldron.html", "dc/d05/classpocketmine_1_1block_1_1_cauldron" ],
+    [ "Chain", "d3/dbc/classpocketmine_1_1block_1_1_chain.html", "d3/dbc/classpocketmine_1_1block_1_1_chain" ],
     [ "ChemicalHeat", "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html", "d0/da2/classpocketmine_1_1block_1_1_chemical_heat" ],
     [ "ChemistryTable", "dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html", "dd/d4a/classpocketmine_1_1block_1_1_chemistry_table" ],
     [ "Chest", "d8/d5c/classpocketmine_1_1block_1_1_chest.html", "d8/d5c/classpocketmine_1_1block_1_1_chest" ],

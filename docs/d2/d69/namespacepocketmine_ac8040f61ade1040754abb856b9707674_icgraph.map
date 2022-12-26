@@ -1,5 +1,5 @@
 <map id="pocketmine\server" name="pocketmine\server">
-<area shape="rect" id="node1" title=" " alt="" coords="585,617,728,643"/>
+<area shape="rect" id="node1" title=" " alt="" coords="585,585,728,611"/>
 <area shape="rect" id="node2" href="$d4/d2b/classpocketmine_1_1world_1_1_world.html#a8b003390da4281b56c309c3c123b4c15" title=" " alt="" coords="325,5,503,47"/>
 <area shape="rect" id="node3" href="$d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a654116dd48f7df842204bdc9958b44c2" title=" " alt="" coords="323,71,505,112"/>
 <area shape="rect" id="node4" href="$d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a5afd6597d16c2bbfb8842a3df2ac8d0a" title=" " alt="" coords="323,136,505,177"/>
@@ -16,8 +16,7 @@
 <area shape="rect" id="node16" href="$d0/d6f/classpocketmine_1_1player_1_1_player.html#a73347c792830a4e80ae8b01bd8d4f1b8" title=" " alt="" coords="303,887,525,914"/>
 <area shape="rect" id="node17" href="$d4/ddf/classpocketmine_1_1entity_1_1_human.html#a3bca25fc5ec147ac108aa5efa17dd7dd" title=" " alt="" coords="319,939,509,980"/>
 <area shape="rect" id="node18" href="$d0/d6f/classpocketmine_1_1player_1_1_player.html#af28edf9611ecddfad0c812b33cb8a977" title=" " alt="" coords="320,1004,508,1045"/>
-<area shape="rect" id="node19" href="$d0/d6f/classpocketmine_1_1player_1_1_player.html#af752aeb40184a345b8f7bc700afc4a36" title=" " alt="" coords="320,1069,508,1111"/>
-<area shape="rect" id="node20" href="$d9/dc4/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_interface.html#af78eaaa21491925872584299d3d7a096" title=" " alt="" coords="309,1135,519,1191"/>
-<area shape="rect" id="node21" href="$d3/df7/classpocketmine_1_1_memory_manager.html#ae1afc7e08e91b06db0dbc50a36c79f7a" title=" " alt="" coords="307,1216,521,1257"/>
+<area shape="rect" id="node19" href="$d9/dc4/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_interface.html#af78eaaa21491925872584299d3d7a096" title=" " alt="" coords="309,1070,519,1126"/>
+<area shape="rect" id="node20" href="$d3/df7/classpocketmine_1_1_memory_manager.html#ae1afc7e08e91b06db0dbc50a36c79f7a" title=" " alt="" coords="307,1151,521,1192"/>
 <area shape="rect" id="node6" href="$d7/d6f/classpocketmine_1_1updater_1_1_update_check_task.html#a2287957cdb9711c4b574ce2b92d8a420" title=" " alt="" coords="5,209,243,251"/>
 </map>

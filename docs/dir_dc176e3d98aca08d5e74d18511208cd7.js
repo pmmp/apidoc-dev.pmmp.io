@@ -63,6 +63,8 @@ var dir_dc176e3d98aca08d5e74d18511208cd7 =
     [ "LegacyStringToItemParser.php", "d8/dea/_legacy_string_to_item_parser_8php_source.html", null ],
     [ "LegacyStringToItemParserException.php", "da/d25/_legacy_string_to_item_parser_exception_8php_source.html", null ],
     [ "LiquidBucket.php", "d2/d9c/_liquid_bucket_8php_source.html", null ],
+    [ "Medicine.php", "dd/d81/_medicine_8php_source.html", null ],
+    [ "MedicineType.php", "d0/dfb/_medicine_type_8php_source.html", null ],
     [ "item/Melon.php", "d9/d68/item_2_melon_8php_source.html", null ],
     [ "MelonSeeds.php", "db/dc6/_melon_seeds_8php_source.html", null ],
     [ "MilkBucket.php", "d1/d5c/_milk_bucket_8php_source.html", null ],
