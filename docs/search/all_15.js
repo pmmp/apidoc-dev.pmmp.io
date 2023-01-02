@@ -75,7 +75,7 @@ var searchData=
   ['transactiondata_72',['TransactionData',['../d6/da6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_transaction_data.html',1,'pocketmine::network::mcpe::protocol::types::inventory']]],
   ['transactionexception_73',['TransactionException',['../dc/db9/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_exception.html',1,'pocketmine::inventory::transaction']]],
   ['transactionvalidationexception_74',['TransactionValidationException',['../db/dea/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_validation_exception.html',1,'pocketmine::inventory::transaction']]],
-  ['transfer_75',['transfer',['../d0/d6f/classpocketmine_1_1player_1_1_player.html#a812cd1bdd71aaa14f8c7c9714c97e767',1,'pocketmine\player\Player\transfer()'],['../de/d3a/classpocketmine_1_1network_1_1mcpe_1_1_network_session.html#a577ff99b430239c21bf431c021ffc504',1,'pocketmine\network\mcpe\NetworkSession\transfer()']]],
+  ['transfer_75',['transfer',['../d0/d6f/classpocketmine_1_1player_1_1_player.html#a505a7b7c0a9b4763c9110666d2fba635',1,'pocketmine\player\Player\transfer()'],['../de/d3a/classpocketmine_1_1network_1_1mcpe_1_1_network_session.html#ac19ef4cb6da3fc1b6a6040c043153bcc',1,'pocketmine\network\mcpe\NetworkSession\transfer()']]],
   ['transferpacket_76',['TransferPacket',['../d0/d0b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_transfer_packet.html',1,'pocketmine::network::mcpe::protocol']]],
   ['transferservercommand_77',['TransferServerCommand',['../d0/d5d/classpocketmine_1_1command_1_1defaults_1_1_transfer_server_command.html',1,'pocketmine::command::defaults']]],
   ['translatable_78',['Translatable',['../da/d80/classpocketmine_1_1lang_1_1_translatable.html',1,'pocketmine::lang']]],

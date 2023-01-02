@@ -10,5 +10,5 @@ var classpocketmine_1_1event_1_1player_1_1_player_pre_login_event =
     [ "isAllowed", "d2/d1e/classpocketmine_1_1event_1_1player_1_1_player_pre_login_event.html#a14aee0bedec985f2e97674e2df3f9507", null ],
     [ "isCancelled", "d2/d1e/classpocketmine_1_1event_1_1player_1_1_player_pre_login_event.html#a2ca49ce1b3a2eac70dc329eb9df755a2", null ],
     [ "isKickReasonSet", "d2/d1e/classpocketmine_1_1event_1_1player_1_1_player_pre_login_event.html#a0b9b9d41096a498fc48227b6f71f093f", null ],
-    [ "setKickReason", "d2/d1e/classpocketmine_1_1event_1_1player_1_1_player_pre_login_event.html#adbc0a0c216420f736b238951bd1ec0e6", null ]
+    [ "setKickReason", "d2/d1e/classpocketmine_1_1event_1_1player_1_1_player_pre_login_event.html#a1c7a51c86f3e09cf046f6df73cfcb7eb", null ]
 ];

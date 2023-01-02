@@ -5,5 +5,5 @@ var classpocketmine_1_1event_1_1player_1_1_player_kick_event =
     [ "getReason", "d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event.html#a5690c4c046607371c1579f13db256d7e", null ],
     [ "isCancelled", "d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event.html#a90efcab0d539a5cb5b17968dfa164017", null ],
     [ "setQuitMessage", "d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event.html#a536a2c0c987b635cdde6bfa18fb132ca", null ],
-    [ "setReason", "d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event.html#a4b89e1da68d0addb064c7b6ecd6b3eb8", null ]
+    [ "setReason", "d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event.html#a2f28454233952b273969d2dad8777328", null ]
 ];
