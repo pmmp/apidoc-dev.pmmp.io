@@ -42,7 +42,6 @@ var classpocketmine_1_1entity_1_1_human =
     [ "getTargetEntityId", "d4/ddf/classpocketmine_1_1entity_1_1_human.html#a1cb36d5dd35dc4ee35b2f6e59d93e17b", null ],
     [ "getViewers", "d4/ddf/classpocketmine_1_1entity_1_1_human.html#acaced48bc41cc13b10c1e99ba76bdabd", null ],
     [ "getXpDropAmount", "d4/ddf/classpocketmine_1_1entity_1_1_human.html#ad395e2f390fc5919596acc655bd6a603", null ],
-    [ "hasLineOfSight", "d4/ddf/classpocketmine_1_1entity_1_1_human.html#ac6e12d50c9923bb5a57e923bfc779b9e", null ],
     [ "hasMovementUpdate", "d4/ddf/classpocketmine_1_1entity_1_1_human.html#a99366099f1f673cfcf93a585e10c5f4e", null ],
     [ "initHumanData", "d4/ddf/classpocketmine_1_1entity_1_1_human.html#a5b11cea1af3147e9c0d32de66651e602", null ],
     [ "isBreathing", "d4/ddf/classpocketmine_1_1entity_1_1_human.html#af412cd40918d6a86e39b9f5348ea105c", null ],

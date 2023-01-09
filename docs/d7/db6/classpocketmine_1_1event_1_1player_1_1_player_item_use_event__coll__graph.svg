@@ -141,7 +141,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="2838.29" y="-416.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastAnimation()</text>
 <text text-anchor="start" x="2838.29" y="-405.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastSound()</text>
 <text text-anchor="start" x="2838.29" y="-394.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeCollidedWith()</text>
-<text text-anchor="start" x="2838.29" y="-383.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 122 more...</text>
+<text text-anchor="start" x="2838.29" y="-383.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 121 more...</text>
 <text text-anchor="start" x="2838.29" y="-372.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isValidUserName()</text>
 <text text-anchor="start" x="2838.29" y="-361.5" font-family="Helvetica,sans-Serif" font-size="10.00"># actuallyRespawn()</text>
 <text text-anchor="start" x="2838.29" y="-350.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addDefaultWindows()</text>
@@ -263,7 +263,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="631.29" y="-1209.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getArmorInventory()</text>
 <text text-anchor="start" x="631.29" y="-1198.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getArmorPoints()</text>
 <text text-anchor="start" x="631.29" y="-1187.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDisplayName()</text>
-<text text-anchor="start" x="631.29" y="-1176.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 34 more...</text>
+<text text-anchor="start" x="631.29" y="-1176.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 33 more...</text>
 <text text-anchor="start" x="631.29" y="-1165.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addAttributes()</text>
 <text text-anchor="start" x="631.29" y="-1154.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyConsumptionResults()</text>
 <text text-anchor="start" x="631.29" y="-1143.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyPostDamageEffects()</text>

@@ -61,9 +61,9 @@
 <path fill="none" stroke="midnightblue" d="M4139.16,-289.03C4134.92,-278.97 4131.01,-269.68 4127.66,-261.71"/>
 <polygon fill="none" stroke="midnightblue" points="4136.02,-290.61 4143.13,-298.47 4142.48,-287.89 4136.02,-290.61"/>
 </g>
-<!-- Node74 -->
+<!-- Node75 -->
 <g id="node49" class="node">
-<title>Node74</title>
+<title>Node75</title>
 <g id="a_node49"><a xlink:href="../../d5/d1b/classpocketmine_1_1block_1_1_transparent.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="red" points="4205.5,-204.5 4205.5,-261.5 4368.5,-261.5 4368.5,-204.5 4205.5,-204.5"/>
 <text text-anchor="middle" x="4287" y="-249.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Transparent</text>
@@ -74,9 +74,9 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node74 -->
+<!-- Node1&#45;&gt;Node75 -->
 <g id="edge48" class="edge">
-<title>Node1&#45;&gt;Node74</title>
+<title>Node1&#45;&gt;Node75</title>
 <path fill="none" stroke="midnightblue" d="M4263.57,-289.03C4267.86,-278.97 4271.81,-269.68 4275.2,-261.71"/>
 <polygon fill="none" stroke="midnightblue" points="4260.25,-287.9 4259.55,-298.47 4266.69,-290.64 4260.25,-287.9"/>
 </g>

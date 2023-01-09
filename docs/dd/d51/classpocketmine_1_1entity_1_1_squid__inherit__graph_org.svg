@@ -81,7 +81,7 @@
 <text text-anchor="start" x="8" y="-459.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getArmorInventory()</text>
 <text text-anchor="start" x="8" y="-448.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getArmorPoints()</text>
 <text text-anchor="start" x="8" y="-437.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDisplayName()</text>
-<text text-anchor="start" x="8" y="-426.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 34 more...</text>
+<text text-anchor="start" x="8" y="-426.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 33 more...</text>
 <text text-anchor="start" x="8" y="-415.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addAttributes()</text>
 <text text-anchor="start" x="8" y="-404.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyConsumptionResults()</text>
 <text text-anchor="start" x="8" y="-393.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyPostDamageEffects()</text>

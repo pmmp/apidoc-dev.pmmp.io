@@ -41,7 +41,6 @@ var classpocketmine_1_1entity_1_1_villager =
     [ "getTargetEntityId", "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a1cb36d5dd35dc4ee35b2f6e59d93e17b", null ],
     [ "getViewers", "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#acaced48bc41cc13b10c1e99ba76bdabd", null ],
     [ "getXpDropAmount", "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#afeda8ddcc77181100f2934068c76facb", null ],
-    [ "hasLineOfSight", "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#ac6e12d50c9923bb5a57e923bfc779b9e", null ],
     [ "hasMovementUpdate", "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a99366099f1f673cfcf93a585e10c5f4e", null ],
     [ "isBreathing", "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#af412cd40918d6a86e39b9f5348ea105c", null ],
     [ "isClosed", "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#ae8a891986a06e3621c4486538b0e5a60", null ],

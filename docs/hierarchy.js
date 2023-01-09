@@ -140,6 +140,7 @@ var hierarchy =
         [ "pocketmine\\block\\RedstoneOre", "d6/d6a/classpocketmine_1_1block_1_1_redstone_ore.html", null ],
         [ "pocketmine\\block\\Reserved6", "dd/dec/classpocketmine_1_1block_1_1_reserved6.html", null ],
         [ "pocketmine\\block\\Sand", "d3/d39/classpocketmine_1_1block_1_1_sand.html", null ],
+        [ "pocketmine\\block\\Sculk", "d8/d97/classpocketmine_1_1block_1_1_sculk.html", null ],
         [ "pocketmine\\block\\ShulkerBox", "d3/da7/classpocketmine_1_1block_1_1_shulker_box.html", [
           [ "pocketmine\\block\\DyedShulkerBox", "dd/d62/classpocketmine_1_1block_1_1_dyed_shulker_box.html", null ]
         ] ],

@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA7 git-42db3abf5e109478da7c80a31d4a7082ff5cb4ff</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA7 git-545d18eea7b7fc52cc0a9a8a2baf579dedb1cb54</span>
    </div>
   </td>
  </tr>
@@ -167,8 +167,8 @@ $(document).ready(function(){initNavTree('d0/d52/_simple_command_map_8php_source
 <div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>use <span class="keyword">function</span> array_shift;</div>
 <div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>use <span class="keyword">function</span> count;</div>
 <div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span>use <span class="keyword">function</span> implode;</div>
-<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>use <span class="keyword">function</span> strcasecmp;</div>
-<div class="line"><a id="l00077" name="l00077"></a><span class="lineno">   77</span>use <span class="keyword">function</span> strpos;</div>
+<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>use <span class="keyword">function</span> str_contains;</div>
+<div class="line"><a id="l00077" name="l00077"></a><span class="lineno">   77</span>use <span class="keyword">function</span> strcasecmp;</div>
 <div class="line"><a id="l00078" name="l00078"></a><span class="lineno">   78</span>use <span class="keyword">function</span> strtolower;</div>
 <div class="line"><a id="l00079" name="l00079"></a><span class="lineno">   79</span>use <span class="keyword">function</span> trim;</div>
 <div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span> </div>
@@ -332,7 +332,7 @@ $(document).ready(function(){initNavTree('d0/d52/_simple_command_map_8php_source
 <div class="line"><a id="l00242" name="l00242"></a><span class="lineno">  242</span>        $values = $this-&gt;<a class="code hl_function" href="../../d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674">server</a>-&gt;getCommandAliases();</div>
 <div class="line"><a id="l00243" name="l00243"></a><span class="lineno">  243</span> </div>
 <div class="line"><a id="l00244" name="l00244"></a><span class="lineno">  244</span>        <span class="keywordflow">foreach</span>($values as $alias =&gt; $commandStrings){</div>
-<div class="line"><a id="l00245" name="l00245"></a><span class="lineno">  245</span>            <span class="keywordflow">if</span>(strpos($alias, <span class="stringliteral">&quot;:&quot;</span>) !== <span class="keyword">false</span>){</div>
+<div class="line"><a id="l00245" name="l00245"></a><span class="lineno">  245</span>            <span class="keywordflow">if</span>(str_contains($alias, <span class="stringliteral">&quot;:&quot;</span>)){</div>
 <div class="line"><a id="l00246" name="l00246"></a><span class="lineno">  246</span>                $this-&gt;<a class="code hl_function" href="../../d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674">server</a>-&gt;getLogger()-&gt;warning($this-&gt;<a class="code hl_function" href="../../d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674">server</a>-&gt;getLanguage()-&gt;translate(KnownTranslationFactory::pocketmine_command_alias_illegal($alias)));</div>
 <div class="line"><a id="l00247" name="l00247"></a><span class="lineno">  247</span>                <span class="keywordflow">continue</span>;</div>
 <div class="line"><a id="l00248" name="l00248"></a><span class="lineno">  248</span>            }</div>

@@ -41,7 +41,6 @@ var classpocketmine_1_1entity_1_1_living =
     [ "getTargetEntityId", "df/d0c/classpocketmine_1_1entity_1_1_living.html#a1cb36d5dd35dc4ee35b2f6e59d93e17b", null ],
     [ "getViewers", "df/d0c/classpocketmine_1_1entity_1_1_living.html#acaced48bc41cc13b10c1e99ba76bdabd", null ],
     [ "getXpDropAmount", "df/d0c/classpocketmine_1_1entity_1_1_living.html#afeda8ddcc77181100f2934068c76facb", null ],
-    [ "hasLineOfSight", "df/d0c/classpocketmine_1_1entity_1_1_living.html#ac6e12d50c9923bb5a57e923bfc779b9e", null ],
     [ "hasMovementUpdate", "df/d0c/classpocketmine_1_1entity_1_1_living.html#a99366099f1f673cfcf93a585e10c5f4e", null ],
     [ "isBreathing", "df/d0c/classpocketmine_1_1entity_1_1_living.html#af412cd40918d6a86e39b9f5348ea105c", null ],
     [ "isClosed", "df/d0c/classpocketmine_1_1entity_1_1_living.html#ae8a891986a06e3621c4486538b0e5a60", null ],

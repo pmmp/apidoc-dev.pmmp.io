@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA7 git-42db3abf5e109478da7c80a31d4a7082ff5cb4ff</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA7 git-545d18eea7b7fc52cc0a9a8a2baf579dedb1cb54</span>
    </div>
   </td>
  </tr>
@@ -121,18 +121,14 @@ $(document).ready(function(){initNavTree('da/d58/deprecated.html','../../'); ini
 <dd><a class="anchor" id="_deprecated000013"></a>WARNING: This function DOES NOT permanently hide the entity from the player. As soon as the entity or player moves, the player will once again be able to see the entity.  </dd>
 <dt>Member <a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a89a01723e97021d54e83c24d1b74670f">pocketmine\entity\Entity::despawnFromAll</a>  ()</dt>
 <dd><a class="anchor" id="_deprecated000014"></a>WARNING: This function DOES NOT permanently hide the entity from viewers. As soon as the entity or player moves, viewers will once again be able to see the entity.  </dd>
-<dt>Member <a class="el" href="../../df/d0c/classpocketmine_1_1entity_1_1_living.html#ac6e12d50c9923bb5a57e923bfc779b9e">pocketmine\entity\Living::hasLineOfSight</a>  (<a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html">Entity</a> $entity)</dt>
-<dd><a class="anchor" id="_deprecated000015"></a>This function always returns true, no matter whether the target is in the line of sight or not.  </dd>
 <dt>Member <a class="el" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html#a4a9aa55600bb30c4d55ad63337874a07">pocketmine\item\Item::equals</a>  (<a class="el" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">Item</a> $item, bool $checkDamage=true, bool $checkCompound=true)</dt>
-<dd><a class="anchor" id="_deprecated000016"></a>  </dd>
+<dd><a class="anchor" id="_deprecated000015"></a>  </dd>
 <dt>Class <a class="el" href="../../d8/d89/classpocketmine_1_1item_1_1_legacy_string_to_item_parser.html">pocketmine\item\LegacyStringToItemParser</a>  </dt>
-<dd><a class="anchor" id="_deprecated000017"></a>  </dd>
-<dt>Member <a class="el" href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html#af752aeb40184a345b8f7bc700afc4a36">pocketmine\player\Player::sendTranslation</a>  (string $message, array $parameters=[])</dt>
-<dd><a class="anchor" id="_deprecated000018"></a>Use <code><a class="el" href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html#a70a70d021dba0274e9567bff23ed19e9">Player::sendMessage()</a></code> with a Translatable instead.  </dd>
+<dd><a class="anchor" id="_deprecated000016"></a>  </dd>
 <dt>Member <a class="el" href="../../d5/df7/classpocketmine_1_1_server.html#a6a32d7ce2b7100d6117cd6e3cfb3b1d6">pocketmine\Server::getPlayerByPrefix</a>  (string $name)</dt>
-<dd><a class="anchor" id="_deprecated000019"></a>This method's results are unpredictable. The string "Steve" will return the player named "SteveJobs", until another player named "SteveJ" joins the server, at which point it will return that player instead. Prefer filtering the results of <code><a class="el" href="../../d5/df7/classpocketmine_1_1_server.html#ab173ee59d49782e9a9fd13a1cdc39cbf">Server::getOnlinePlayers()</a></code> yourself. </dd>
+<dd><a class="anchor" id="_deprecated000017"></a>This method's results are unpredictable. The string "Steve" will return the player named "SteveJobs", until another player named "SteveJ" joins the server, at which point it will return that player instead. Prefer filtering the results of <code><a class="el" href="../../d5/df7/classpocketmine_1_1_server.html#ab173ee59d49782e9a9fd13a1cdc39cbf">Server::getOnlinePlayers()</a></code> yourself. </dd>
 <dt>Member <a class="el" href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html#a72b2673cda248e41ef6b73b8d50bd192">pocketmine\world\World::getChunkPlayers</a>  (int $chunkX, int $chunkZ)</dt>
-<dd><a class="anchor" id="_deprecated000020"></a>WARNING: This function has a misleading name. Contrary to what the name might imply, this function DOES NOT return players who are IN a chunk, rather, it returns players who can SEE the chunk.</dd>
+<dd><a class="anchor" id="_deprecated000018"></a>WARNING: This function has a misleading name. Contrary to what the name might imply, this function DOES NOT return players who are IN a chunk, rather, it returns players who can SEE the chunk.</dd>
 </dl>
 </div></div><!-- contents -->
 </div><!-- PageDoc -->
