@@ -48,6 +48,7 @@ var annotated_dup =
           [ "EnderChest", "d4/d65/classpocketmine_1_1block_1_1tile_1_1_ender_chest.html", "d4/d65/classpocketmine_1_1block_1_1tile_1_1_ender_chest" ],
           [ "FlowerPot", "d5/d8b/classpocketmine_1_1block_1_1tile_1_1_flower_pot.html", "d5/d8b/classpocketmine_1_1block_1_1tile_1_1_flower_pot" ],
           [ "Furnace", "db/d1f/classpocketmine_1_1block_1_1tile_1_1_furnace.html", "db/d1f/classpocketmine_1_1block_1_1tile_1_1_furnace" ],
+          [ "GlowingItemFrame", "d4/dca/classpocketmine_1_1block_1_1tile_1_1_glowing_item_frame.html", "d4/dca/classpocketmine_1_1block_1_1tile_1_1_glowing_item_frame" ],
           [ "Hopper", "d2/d1d/classpocketmine_1_1block_1_1tile_1_1_hopper.html", "d2/d1d/classpocketmine_1_1block_1_1tile_1_1_hopper" ],
           [ "ItemFrame", "d4/dff/classpocketmine_1_1block_1_1tile_1_1_item_frame.html", "d4/dff/classpocketmine_1_1block_1_1tile_1_1_item_frame" ],
           [ "Jukebox", "d4/d77/classpocketmine_1_1block_1_1tile_1_1_jukebox.html", "d4/d77/classpocketmine_1_1block_1_1tile_1_1_jukebox" ],
@@ -1058,7 +1059,7 @@ var annotated_dup =
                 [ "stackrequest", null, [
                   [ "BeaconPaymentStackRequestAction", "d8/d1d/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_beacon_payment_stack_request_action.html", null ],
                   [ "CraftingConsumeInputStackRequestAction", "dd/d53/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_craftin1edcfa9979fc5d75a39cf9f773292cdc.html", null ],
-                  [ "CraftingMarkSecondaryResultStackRequestAction", "da/d0b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_craftine73260c2466389209c6775ffd2e2cd69.html", null ],
+                  [ "CraftingCreateSpecificResultStackRequestAction", "d4/d83/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_craftinde91d93e09008d05b530ecbe09226c3b.html", null ],
                   [ "CraftRecipeAutoStackRequestAction", "de/d59/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_craft_recipe_auto_stack_request_action.html", "de/d59/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_craft_recipe_auto_stack_request_action" ],
                   [ "CraftRecipeOptionalStackRequestAction", "d5/dce/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_craft_rf367e63daecf08c070ac15ec98918954.html", null ],
                   [ "CraftRecipeStackRequestAction", "dc/df5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_craft_recipe_stack_request_action.html", null ],
@@ -1476,6 +1477,11 @@ var annotated_dup =
         [ "PermissionParserException", "d7/dbd/classpocketmine_1_1permission_1_1_permission_parser_exception.html", null ]
       ] ],
       [ "player", null, [
+        [ "chat", null, [
+          [ "ChatFormatter", "d0/db6/interfacepocketmine_1_1player_1_1chat_1_1_chat_formatter.html", "d0/db6/interfacepocketmine_1_1player_1_1chat_1_1_chat_formatter" ],
+          [ "LegacyRawChatFormatter", "d4/d87/classpocketmine_1_1player_1_1chat_1_1_legacy_raw_chat_formatter.html", "d4/d87/classpocketmine_1_1player_1_1chat_1_1_legacy_raw_chat_formatter" ],
+          [ "StandardChatFormatter", "d6/d17/classpocketmine_1_1player_1_1chat_1_1_standard_chat_formatter.html", "d6/d17/classpocketmine_1_1player_1_1chat_1_1_standard_chat_formatter" ]
+        ] ],
         [ "ChunkSelector", "d4/db4/classpocketmine_1_1player_1_1_chunk_selector.html", "d4/db4/classpocketmine_1_1player_1_1_chunk_selector" ],
         [ "DatFilePlayerDataProvider", "d5/db7/classpocketmine_1_1player_1_1_dat_file_player_data_provider.html", "d5/db7/classpocketmine_1_1player_1_1_dat_file_player_data_provider" ],
         [ "GameMode", "d1/d27/classpocketmine_1_1player_1_1_game_mode.html", "d1/d27/classpocketmine_1_1player_1_1_game_mode" ],

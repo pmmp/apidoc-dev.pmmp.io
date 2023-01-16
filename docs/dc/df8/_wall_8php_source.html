@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA7 git-545d18eea7b7fc52cc0a9a8a2baf579dedb1cb54</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA7 git-c55e23a2c6712fa141b59447be31694fe3e91607</span>
    </div>
   </td>
  </tr>
@@ -180,7 +180,7 @@ $(document).ready(function(){initNavTree('dc/df8/_wall_8php_source.html','../../
 <div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span> </div>
 <div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span>        <span class="keywordflow">foreach</span>(Facing::HORIZONTAL as $facing){</div>
 <div class="line"><a id="l00106" name="l00106"></a><span class="lineno">  106</span>            $block = $this-&gt;getSide($facing);</div>
-<div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span>            <span class="keywordflow">if</span>($block instanceof <span class="keyword">static</span> || $block instanceof FenceGate || ($block-&gt;isSolid() &amp;&amp; !$block-&gt;isTransparent())){</div>
+<div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span>            <span class="keywordflow">if</span>($block instanceof <span class="keyword">static</span> || $block instanceof FenceGate || $block instanceof Thin || ($block-&gt;isSolid() &amp;&amp; !$block-&gt;isTransparent())){</div>
 <div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span>                <span class="keywordflow">if</span>(!isset($this-&gt;connections[$facing])){</div>
 <div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span>                    $this-&gt;connections[$facing] = WallConnectionType::SHORT();</div>
 <div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span>                    $changed++;</div>

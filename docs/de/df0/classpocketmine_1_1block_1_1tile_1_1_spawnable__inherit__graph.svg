@@ -469,10 +469,10 @@ var sectionId = 'dynsection-0';
 <path fill="none" stroke="midnightblue" d="M1920.42,-470.44C2002.87,-458.51 2116.91,-431.77 2199,-372 2211.61,-362.82 2222.95,-351.23 2232.95,-338.75"/>
 <polygon fill="none" stroke="midnightblue" points="1919.69,-467 1910.27,-471.85 1920.66,-473.94 1919.69,-467"/>
 </g>
-<!-- Node20 -->
-<g id="node20" class="node">
-<title>Node20</title>
-<g id="a_node20"><a xlink:href="../../d4/d77/classpocketmine_1_1block_1_1tile_1_1_jukebox.html" target="_top" xlink:title=" ">
+<!-- Node21 -->
+<g id="node21" class="node">
+<title>Node21</title>
+<g id="a_node21"><a xlink:href="../../d4/d77/classpocketmine_1_1block_1_1tile_1_1_jukebox.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="2384,-182.5 2384,-294.5 2542,-294.5 2542,-182.5 2384,-182.5"/>
 <text text-anchor="start" x="2392" y="-282.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\tile</text>
 <text text-anchor="middle" x="2463" y="-271.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Jukebox</text>
@@ -487,16 +487,16 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node20 -->
-<g id="edge19" class="edge">
-<title>Node1&#45;&gt;Node20</title>
+<!-- Node1&#45;&gt;Node21 -->
+<g id="edge20" class="edge">
+<title>Node1&#45;&gt;Node21</title>
 <path fill="none" stroke="midnightblue" d="M1920.07,-469.5C2060.95,-453.79 2301.86,-420.71 2375,-372 2403.16,-353.25 2424.52,-322.1 2439.14,-294.72"/>
 <polygon fill="none" stroke="midnightblue" points="1919.65,-466.02 1910.1,-470.6 1920.42,-472.98 1919.65,-466.02"/>
 </g>
-<!-- Node21 -->
-<g id="node21" class="node">
-<title>Node21</title>
-<g id="a_node21"><a xlink:href="../../d0/dc1/classpocketmine_1_1block_1_1tile_1_1_lectern.html" target="_top" xlink:title=" ">
+<!-- Node22 -->
+<g id="node22" class="node">
+<title>Node22</title>
+<g id="a_node22"><a xlink:href="../../d0/dc1/classpocketmine_1_1block_1_1tile_1_1_lectern.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="2560,-155 2560,-322 2718,-322 2718,-155 2560,-155"/>
 <text text-anchor="start" x="2568" y="-310" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\tile</text>
 <text text-anchor="middle" x="2639" y="-299" font-family="Helvetica,sans-Serif" font-size="10.00">\Lectern</text>
@@ -516,16 +516,16 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node21 -->
-<g id="edge20" class="edge">
-<title>Node1&#45;&gt;Node21</title>
+<!-- Node1&#45;&gt;Node22 -->
+<g id="edge21" class="edge">
+<title>Node1&#45;&gt;Node22</title>
 <path fill="none" stroke="midnightblue" d="M1920.18,-475.02C2097.87,-464.92 2448.22,-437.17 2551,-372 2570.47,-359.65 2586.61,-341.26 2599.5,-322.09"/>
 <polygon fill="none" stroke="midnightblue" points="1919.82,-471.54 1910.03,-475.59 1920.21,-478.53 1919.82,-471.54"/>
 </g>
-<!-- Node22 -->
-<g id="node22" class="node">
-<title>Node22</title>
-<g id="a_node22"><a xlink:href="../../d6/d8f/classpocketmine_1_1block_1_1tile_1_1_monster_spawner.html" target="_top" xlink:title=" ">
+<!-- Node23 -->
+<g id="node23" class="node">
+<title>Node23</title>
+<g id="a_node23"><a xlink:href="../../d6/d8f/classpocketmine_1_1block_1_1tile_1_1_monster_spawner.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="2736.5,-160.5 2736.5,-316.5 2911.5,-316.5 2911.5,-160.5 2736.5,-160.5"/>
 <text text-anchor="start" x="2744.5" y="-304.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\tile</text>
 <text text-anchor="middle" x="2824" y="-293.5" font-family="Helvetica,sans-Serif" font-size="10.00">\MonsterSpawner</text>
@@ -544,16 +544,16 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node22 -->
-<g id="edge21" class="edge">
-<title>Node1&#45;&gt;Node22</title>
+<!-- Node1&#45;&gt;Node23 -->
+<g id="edge22" class="edge">
+<title>Node1&#45;&gt;Node23</title>
 <path fill="none" stroke="midnightblue" d="M1920.24,-477.95C2130.12,-472.19 2592.2,-450.69 2727,-372 2749.65,-358.78 2768.55,-337.95 2783.47,-316.68"/>
 <polygon fill="none" stroke="midnightblue" points="1920.03,-474.45 1910.13,-478.22 1920.22,-481.45 1920.03,-474.45"/>
 </g>
-<!-- Node23 -->
-<g id="node23" class="node">
-<title>Node23</title>
-<g id="a_node23"><a xlink:href="../../dd/dd0/classpocketmine_1_1block_1_1tile_1_1_shulker_box.html" target="_top" xlink:title=" ">
+<!-- Node24 -->
+<g id="node24" class="node">
+<title>Node24</title>
+<g id="a_node24"><a xlink:href="../../dd/dd0/classpocketmine_1_1block_1_1tile_1_1_shulker_box.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="2930,-127.5 2930,-349.5 3088,-349.5 3088,-127.5 2930,-127.5"/>
 <text text-anchor="start" x="2938" y="-337.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\tile</text>
 <text text-anchor="middle" x="3009" y="-326.5" font-family="Helvetica,sans-Serif" font-size="10.00">\ShulkerBox</text>
@@ -578,16 +578,16 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node23 -->
-<g id="edge22" class="edge">
-<title>Node1&#45;&gt;Node23</title>
+<!-- Node1&#45;&gt;Node24 -->
+<g id="edge23" class="edge">
+<title>Node1&#45;&gt;Node24</title>
 <path fill="none" stroke="midnightblue" d="M1920.43,-480.94C2163.09,-481.33 2753.08,-471.69 2920,-372 2930.11,-365.96 2939.32,-358.28 2947.64,-349.66"/>
 <polygon fill="none" stroke="midnightblue" points="1920.2,-477.44 1910.19,-480.91 1920.18,-484.44 1920.2,-477.44"/>
 </g>
-<!-- Node24 -->
-<g id="node24" class="node">
-<title>Node24</title>
-<g id="a_node24"><a xlink:href="../../d7/d0d/classpocketmine_1_1block_1_1tile_1_1_sign.html" target="_top" xlink:title=" ">
+<!-- Node25 -->
+<g id="node25" class="node">
+<title>Node25</title>
+<g id="a_node25"><a xlink:href="../../d7/d0d/classpocketmine_1_1block_1_1tile_1_1_sign.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="3105.5,-133 3105.5,-344 3272.5,-344 3272.5,-133 3105.5,-133"/>
 <text text-anchor="middle" x="3189" y="-332" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\tile\Sign</text>
 <polyline fill="none" stroke="black" points="3105.5,-325 3272.5,-325 "/>
@@ -611,16 +611,16 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node24 -->
-<g id="edge23" class="edge">
-<title>Node1&#45;&gt;Node24</title>
+<!-- Node1&#45;&gt;Node25 -->
+<g id="edge24" class="edge">
+<title>Node1&#45;&gt;Node25</title>
 <path fill="none" stroke="midnightblue" d="M1920.5,-476.25C2208.99,-465.27 2996.18,-430.26 3097,-372 3109.49,-364.78 3120.67,-355.11 3130.58,-344.26"/>
 <polygon fill="none" stroke="midnightblue" points="1920.32,-472.75 1910.45,-476.63 1920.58,-479.75 1920.32,-472.75"/>
 </g>
-<!-- Node25 -->
-<g id="node25" class="node">
-<title>Node25</title>
-<g id="a_node25"><a xlink:href="../../db/d8d/classpocketmine_1_1block_1_1tile_1_1_skull.html" target="_top" xlink:title=" ">
+<!-- Node26 -->
+<g id="node26" class="node">
+<title>Node26</title>
+<g id="a_node26"><a xlink:href="../../db/d8d/classpocketmine_1_1block_1_1tile_1_1_skull.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="3290,-166 3290,-311 3448,-311 3448,-166 3290,-166"/>
 <text text-anchor="start" x="3298" y="-299" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\tile</text>
 <text text-anchor="middle" x="3369" y="-288" font-family="Helvetica,sans-Serif" font-size="10.00">\Skull</text>
@@ -638,16 +638,16 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node25 -->
-<g id="edge24" class="edge">
-<title>Node1&#45;&gt;Node25</title>
+<!-- Node1&#45;&gt;Node26 -->
+<g id="edge25" class="edge">
+<title>Node1&#45;&gt;Node26</title>
 <path fill="none" stroke="midnightblue" d="M1920.19,-477.56C2236.48,-469.5 3164.3,-440.23 3281,-372 3304.96,-357.99 3323.67,-334.56 3337.56,-311.27"/>
 <polygon fill="none" stroke="midnightblue" points="1920.02,-474.07 1910.11,-477.82 1920.19,-481.06 1920.02,-474.07"/>
 </g>
-<!-- Node26 -->
-<g id="node26" class="node">
-<title>Node26</title>
-<g id="a_node26"><a xlink:href="../../d2/d51/classpocketmine_1_1block_1_1tile_1_1_spore_blossom.html" target="_top" xlink:title=" ">
+<!-- Node27 -->
+<g id="node27" class="node">
+<title>Node27</title>
+<g id="a_node27"><a xlink:href="../../d2/d51/classpocketmine_1_1block_1_1tile_1_1_spore_blossom.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="3466,-193.5 3466,-283.5 3624,-283.5 3624,-193.5 3466,-193.5"/>
 <text text-anchor="start" x="3474" y="-271.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\tile</text>
 <text text-anchor="middle" x="3545" y="-260.5" font-family="Helvetica,sans-Serif" font-size="10.00">\SporeBlossom</text>
@@ -660,9 +660,9 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node26 -->
-<g id="edge25" class="edge">
-<title>Node1&#45;&gt;Node26</title>
+<!-- Node1&#45;&gt;Node27 -->
+<g id="edge26" class="edge">
+<title>Node1&#45;&gt;Node27</title>
 <path fill="none" stroke="midnightblue" d="M1920.22,-478.46C2261.67,-472.71 3324.47,-448.78 3457,-372 3490.81,-352.41 3514.13,-314 3528.23,-283.55"/>
 <polygon fill="none" stroke="midnightblue" points="1920.02,-474.96 1910.08,-478.63 1920.14,-481.96 1920.02,-474.96"/>
 </g>
@@ -762,6 +762,26 @@ var sectionId = 'dynsection-0';
 <title>Node14&#45;&gt;Node17</title>
 <path fill="none" stroke="midnightblue" d="M2049.33,-118.79C2052.48,-114.06 2055.71,-109.44 2059,-105 2068.48,-92.2 2080.31,-79.53 2091.53,-68.58"/>
 <polygon fill="none" stroke="midnightblue" points="2046.24,-117.13 2043.75,-127.43 2052.12,-120.93 2046.24,-117.13"/>
+</g>
+<!-- Node20 -->
+<g id="node20" class="node">
+<title>Node20</title>
+<g id="a_node20"><a xlink:href="../../d4/dca/classpocketmine_1_1block_1_1tile_1_1_glowing_item_frame.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="2226,-0.5 2226,-68.5 2348,-68.5 2348,-0.5 2226,-0.5"/>
+<text text-anchor="start" x="2234" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\tile</text>
+<text text-anchor="middle" x="2287" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">\GlowingItemFrame</text>
+<polyline fill="none" stroke="black" points="2226,-38.5 2348,-38.5 "/>
+<text text-anchor="middle" x="2287" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="2226,-19.5 2348,-19.5 "/>
+<text text-anchor="middle" x="2287" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+</a>
+</g>
+</g>
+<!-- Node19&#45;&gt;Node20 -->
+<g id="edge19" class="edge">
+<title>Node19&#45;&gt;Node20</title>
+<path fill="none" stroke="midnightblue" d="M2287,-128.26C2287,-106.52 2287,-85.29 2287,-68.64"/>
+<polygon fill="none" stroke="midnightblue" points="2283.5,-128.28 2287,-138.28 2290.5,-128.28 2283.5,-128.28"/>
 </g>
 </g>
 </svg>

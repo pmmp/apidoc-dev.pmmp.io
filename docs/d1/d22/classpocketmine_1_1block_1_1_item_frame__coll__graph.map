@@ -1,5 +1,5 @@
 <map id="pocketmine\block\ItemFrame" name="pocketmine\block\ItemFrame">
-<area shape="rect" id="node1" title=" " alt="" coords="422,2425,649,2723"/>
+<area shape="rect" id="node1" title=" " alt="" coords="422,2425,649,2693"/>
 <area shape="rect" id="node2" href="$d3/d1e/classpocketmine_1_1block_1_1_flowable.html" title=" " alt="" coords="573,2255,788,2376"/>
 <area shape="rect" id="node3" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="705,2128,923,2205"/>
 <area shape="rect" id="node4" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="840,1768,1055,2065"/>

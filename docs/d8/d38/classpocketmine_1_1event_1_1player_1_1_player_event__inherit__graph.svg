@@ -192,10 +192,10 @@ var sectionId = 'dynsection-0';
 <text text-anchor="middle" x="849" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 <polyline fill="none" stroke="black" points="780,-212.5 918,-212.5 "/>
 <text text-anchor="start" x="788" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="788" y="-189.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFormat()</text>
+<text text-anchor="start" x="788" y="-189.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFormatter()</text>
 <text text-anchor="start" x="788" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMessage()</text>
 <text text-anchor="start" x="788" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRecipients()</text>
-<text text-anchor="start" x="788" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFormat()</text>
+<text text-anchor="start" x="788" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFormatter()</text>
 <text text-anchor="start" x="788" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setMessage()</text>
 <text text-anchor="start" x="788" y="-134.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPlayer()</text>
 <text text-anchor="start" x="788" y="-123.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setRecipients()</text>

@@ -120,7 +120,6 @@ var classpocketmine_1_1player_1_1_player =
     [ "sendActionBarMessage", "d0/d6f/classpocketmine_1_1player_1_1_player.html#ad176e11849bd583ff8cf32fe8062418b", null ],
     [ "sendData", "d0/d6f/classpocketmine_1_1player_1_1_player.html#ac12c3579d52d5f362df2831efb8349f1", null ],
     [ "sendForm", "d0/d6f/classpocketmine_1_1player_1_1_player.html#a42d820ff9112da5eaa7abbf244b99319", null ],
-    [ "sendJukeboxPopup", "d0/d6f/classpocketmine_1_1player_1_1_player.html#a6f94b7cb6ed405e1c43a816747a14a67", null ],
     [ "sendMessage", "d0/d6f/classpocketmine_1_1player_1_1_player.html#a70a70d021dba0274e9567bff23ed19e9", null ],
     [ "sendPopup", "d0/d6f/classpocketmine_1_1player_1_1_player.html#ad6a88c334e3b3cb6e5e09f12ce1d5189", null ],
     [ "sendPosition", "d0/d6f/classpocketmine_1_1player_1_1_player.html#aa48cf5f09d968c867aab80230bb1219b", null ],

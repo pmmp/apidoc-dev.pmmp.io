@@ -59,7 +59,6 @@ var classpocketmine_1_1block_1_1_item_frame =
     [ "readStateFromWorld", "d9/dc4/classpocketmine_1_1block_1_1_item_frame.html#a34dcb191f3b385987e7f8d17edea9f9e", null ],
     [ "recalculateCollisionBoxes", "d9/dc4/classpocketmine_1_1block_1_1_item_frame.html#a097af4a935135a8524d812f497373075", null ],
     [ "setFramedItem", "d9/dc4/classpocketmine_1_1block_1_1_item_frame.html#a700e4cf58512a55487862422e5baa2fb", null ],
-    [ "setGlowing", "d9/dc4/classpocketmine_1_1block_1_1_item_frame.html#a9bdfc334d858984faad28defc430f9a7", null ],
     [ "setHasMap", "d9/dc4/classpocketmine_1_1block_1_1_item_frame.html#a3a110fcc554275947772a315d245b9b5", null ],
     [ "setItemDropChance", "d9/dc4/classpocketmine_1_1block_1_1_item_frame.html#aaed2c3c8b6b885d4fbbfa62916471a05", null ],
     [ "setItemRotation", "d9/dc4/classpocketmine_1_1block_1_1_item_frame.html#ab8f3cb223d1ef05c8e146c8d99253d0c", null ],

@@ -16,6 +16,7 @@ var namespacepocketmine_1_1block_1_1tile =
     [ "EnderChest", "d4/d65/classpocketmine_1_1block_1_1tile_1_1_ender_chest.html", "d4/d65/classpocketmine_1_1block_1_1tile_1_1_ender_chest" ],
     [ "FlowerPot", "d5/d8b/classpocketmine_1_1block_1_1tile_1_1_flower_pot.html", "d5/d8b/classpocketmine_1_1block_1_1tile_1_1_flower_pot" ],
     [ "Furnace", "db/d1f/classpocketmine_1_1block_1_1tile_1_1_furnace.html", "db/d1f/classpocketmine_1_1block_1_1tile_1_1_furnace" ],
+    [ "GlowingItemFrame", "d4/dca/classpocketmine_1_1block_1_1tile_1_1_glowing_item_frame.html", "d4/dca/classpocketmine_1_1block_1_1tile_1_1_glowing_item_frame" ],
     [ "Hopper", "d2/d1d/classpocketmine_1_1block_1_1tile_1_1_hopper.html", "d2/d1d/classpocketmine_1_1block_1_1tile_1_1_hopper" ],
     [ "ItemFrame", "d4/dff/classpocketmine_1_1block_1_1tile_1_1_item_frame.html", "d4/dff/classpocketmine_1_1block_1_1tile_1_1_item_frame" ],
     [ "Jukebox", "d4/d77/classpocketmine_1_1block_1_1tile_1_1_jukebox.html", "d4/d77/classpocketmine_1_1block_1_1tile_1_1_jukebox" ],

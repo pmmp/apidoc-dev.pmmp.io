@@ -160,6 +160,11 @@ var namespacepocketmine =
     [ "network", "db/dd0/namespacepocketmine_1_1network.html", "db/dd0/namespacepocketmine_1_1network" ],
     [ "permission", "d6/dc0/namespacepocketmine_1_1permission.html", "d6/dc0/namespacepocketmine_1_1permission" ],
     [ "player", null, [
+      [ "chat", null, [
+        [ "ChatFormatter", "d0/db6/interfacepocketmine_1_1player_1_1chat_1_1_chat_formatter.html", "d0/db6/interfacepocketmine_1_1player_1_1chat_1_1_chat_formatter" ],
+        [ "LegacyRawChatFormatter", "d4/d87/classpocketmine_1_1player_1_1chat_1_1_legacy_raw_chat_formatter.html", "d4/d87/classpocketmine_1_1player_1_1chat_1_1_legacy_raw_chat_formatter" ],
+        [ "StandardChatFormatter", "d6/d17/classpocketmine_1_1player_1_1chat_1_1_standard_chat_formatter.html", "d6/d17/classpocketmine_1_1player_1_1chat_1_1_standard_chat_formatter" ]
+      ] ],
       [ "ChunkSelector", "d4/db4/classpocketmine_1_1player_1_1_chunk_selector.html", "d4/db4/classpocketmine_1_1player_1_1_chunk_selector" ],
       [ "DatFilePlayerDataProvider", "d5/db7/classpocketmine_1_1player_1_1_dat_file_player_data_provider.html", "d5/db7/classpocketmine_1_1player_1_1_dat_file_player_data_provider" ],
       [ "GameMode", "d1/d27/classpocketmine_1_1player_1_1_game_mode.html", "d1/d27/classpocketmine_1_1player_1_1_game_mode" ],

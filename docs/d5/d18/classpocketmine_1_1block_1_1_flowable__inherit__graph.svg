@@ -474,12 +474,11 @@ var sectionId = 'dynsection-0';
 <g id="node28" class="node">
 <title>Node37</title>
 <g id="a_node28"><a xlink:href="../../d9/dc4/classpocketmine_1_1block_1_1_item_frame.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="2957.5,-199 2957.5,-443 3127.5,-443 3127.5,-199 2957.5,-199"/>
-<text text-anchor="middle" x="3042.5" y="-431" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\ItemFrame</text>
-<polyline fill="none" stroke="#bfbfbf" points="2957.5,-424 3127.5,-424 "/>
-<text text-anchor="start" x="2965.5" y="-412" font-family="Helvetica,sans-Serif" font-size="10.00">+ ROTATIONS</text>
-<text text-anchor="start" x="2965.5" y="-401" font-family="Helvetica,sans-Serif" font-size="10.00"># $framedItem</text>
-<text text-anchor="start" x="2965.5" y="-390" font-family="Helvetica,sans-Serif" font-size="10.00"># $glowing</text>
+<polygon fill="white" stroke="#bfbfbf" points="2957.5,-210 2957.5,-432 3127.5,-432 3127.5,-210 2957.5,-210"/>
+<text text-anchor="middle" x="3042.5" y="-420" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\ItemFrame</text>
+<polyline fill="none" stroke="#bfbfbf" points="2957.5,-413 3127.5,-413 "/>
+<text text-anchor="start" x="2965.5" y="-401" font-family="Helvetica,sans-Serif" font-size="10.00">+ ROTATIONS</text>
+<text text-anchor="start" x="2965.5" y="-390" font-family="Helvetica,sans-Serif" font-size="10.00"># $framedItem</text>
 <text text-anchor="start" x="2965.5" y="-379" font-family="Helvetica,sans-Serif" font-size="10.00"># $hasMap</text>
 <text text-anchor="start" x="2965.5" y="-368" font-family="Helvetica,sans-Serif" font-size="10.00"># $itemDropChance</text>
 <text text-anchor="start" x="2965.5" y="-357" font-family="Helvetica,sans-Serif" font-size="10.00"># $itemRotation</text>
@@ -490,20 +489,19 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="2965.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ getItemRotation()</text>
 <text text-anchor="start" x="2965.5" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPickedItem()</text>
 <text text-anchor="start" x="2965.5" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
-<text text-anchor="start" x="2965.5" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredTypeDataBits()</text>
-<text text-anchor="start" x="2965.5" y="-261" font-family="Helvetica,sans-Serif" font-size="10.00">+ hasMap()</text>
-<text text-anchor="start" x="2965.5" y="-250" font-family="Helvetica,sans-Serif" font-size="10.00">+ isGlowing()</text>
-<text text-anchor="start" x="2965.5" y="-239" font-family="Helvetica,sans-Serif" font-size="10.00">+ onAttack()</text>
-<text text-anchor="start" x="2965.5" y="-228" font-family="Helvetica,sans-Serif" font-size="10.00">and 10 more...</text>
+<text text-anchor="start" x="2965.5" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00">+ hasMap()</text>
+<text text-anchor="start" x="2965.5" y="-261" font-family="Helvetica,sans-Serif" font-size="10.00">+ onAttack()</text>
+<text text-anchor="start" x="2965.5" y="-250" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
+<text text-anchor="start" x="2965.5" y="-239" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="2965.5" y="-228" font-family="Helvetica,sans-Serif" font-size="10.00">and 7 more...</text>
 <text text-anchor="start" x="2965.5" y="-217" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
-<text text-anchor="start" x="2965.5" y="-206" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node37 -->
 <g id="edge27" class="edge">
 <title>Node1&#45;&gt;Node37</title>
-<path fill="none" stroke="midnightblue" d="M3405.73,-526.62C3328.55,-520.32 3217.67,-501.81 3136.5,-449 3133.51,-447.06 3130.58,-444.98 3127.72,-442.79"/>
+<path fill="none" stroke="midnightblue" d="M3405.73,-526.62C3328.55,-520.32 3217.67,-501.81 3136.5,-449 3129.03,-444.14 3121.94,-438.46 3115.25,-432.26"/>
 <polygon fill="none" stroke="midnightblue" points="3405.67,-530.13 3415.91,-527.4 3406.21,-523.15 3405.67,-530.13"/>
 </g>
 <!-- Node38 -->
@@ -1047,21 +1045,22 @@ var sectionId = 'dynsection-0';
 <g id="node48" class="node">
 <title>Node60</title>
 <g id="a_node48"><a xlink:href="../../d5/dd1/classpocketmine_1_1block_1_1_water_lily.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="6676,-281.5 6676,-360.5 6837,-360.5 6837,-281.5 6676,-281.5"/>
-<text text-anchor="middle" x="6756.5" y="-348.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\WaterLily</text>
-<polyline fill="none" stroke="#bfbfbf" points="6676,-341.5 6837,-341.5 "/>
-<text text-anchor="middle" x="6756.5" y="-329.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="6676,-322.5 6837,-322.5 "/>
-<text text-anchor="start" x="6684" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="6684" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
-<text text-anchor="start" x="6684" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
+<polygon fill="white" stroke="#bfbfbf" points="6676,-276 6676,-366 6837,-366 6837,-276 6676,-276"/>
+<text text-anchor="middle" x="6756.5" y="-354" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\WaterLily</text>
+<polyline fill="none" stroke="#bfbfbf" points="6676,-347 6837,-347 "/>
+<text text-anchor="middle" x="6756.5" y="-335" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="6676,-328 6837,-328 "/>
+<text text-anchor="start" x="6684" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlacedAt()</text>
+<text text-anchor="start" x="6684" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="6684" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="6684" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node60 -->
 <g id="edge47" class="edge">
 <title>Node1&#45;&gt;Node60</title>
-<path fill="none" stroke="midnightblue" d="M3587.41,-529.48C4091.65,-529.08 6527.19,-523.28 6666.5,-449 6701.79,-430.18 6726.36,-390.68 6740.8,-360.69"/>
+<path fill="none" stroke="midnightblue" d="M3587.41,-529.48C4091.65,-529.08 6527.19,-523.28 6666.5,-449 6699.65,-431.33 6723.33,-395.4 6738.06,-366.26"/>
 <polygon fill="none" stroke="midnightblue" points="3587.27,-525.98 3577.28,-529.49 3587.28,-532.98 3587.27,-525.98"/>
 </g>
 <!-- Node61 -->

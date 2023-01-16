@@ -498,6 +498,10 @@ var hierarchy =
       [ "pocketmine\\event\\world\\WorldSoundEvent", "d8/d9c/classpocketmine_1_1event_1_1world_1_1_world_sound_event.html", null ],
       [ "pocketmine\\event\\world\\WorldUnloadEvent", "d4/d01/classpocketmine_1_1event_1_1world_1_1_world_unload_event.html", null ]
     ] ],
+    [ "pocketmine\\player\\chat\\ChatFormatter", "d0/db6/interfacepocketmine_1_1player_1_1chat_1_1_chat_formatter.html", [
+      [ "pocketmine\\player\\chat\\LegacyRawChatFormatter", "d4/d87/classpocketmine_1_1player_1_1chat_1_1_legacy_raw_chat_formatter.html", null ],
+      [ "pocketmine\\player\\chat\\StandardChatFormatter", "d6/d17/classpocketmine_1_1player_1_1chat_1_1_standard_chat_formatter.html", null ]
+    ] ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\ChatRestrictionLevel", "d4/d14/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_chat_restriction_level.html", null ],
     [ "pocketmine\\world\\format\\Chunk", "d2/de7/classpocketmine_1_1world_1_1format_1_1_chunk.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\ChunkCacheBlob", "df/d5e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_chunk_cache_blob.html", null ],
@@ -1065,7 +1069,7 @@ var hierarchy =
       [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\stackrequest\\CraftRecipeOptionalStackRequestAction", "d5/dce/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_craft_rf367e63daecf08c070ac15ec98918954.html", null ],
       [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\stackrequest\\CraftRecipeStackRequestAction", "dc/df5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_craft_recipe_stack_request_action.html", null ],
       [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\stackrequest\\CraftingConsumeInputStackRequestAction", "dd/d53/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_craftin1edcfa9979fc5d75a39cf9f773292cdc.html", null ],
-      [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\stackrequest\\CraftingMarkSecondaryResultStackRequestAction", "da/d0b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_craftine73260c2466389209c6775ffd2e2cd69.html", null ],
+      [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\stackrequest\\CraftingCreateSpecificResultStackRequestAction", "d4/d83/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_craftinde91d93e09008d05b530ecbe09226c3b.html", null ],
       [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\stackrequest\\CreativeCreateStackRequestAction", "d7/da4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_creative_create_stack_request_action.html", null ],
       [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\stackrequest\\DeprecatedCraftingNonImplementedStackRequestAction", "d0/d0c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_deprecaefa0492a6ebcaf5ef294483e9302a020.html", null ],
       [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\stackrequest\\DeprecatedCraftingResultsStackRequestAction", "dc/d31/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_depreca2d8988f2c81b79d79999716180585eb5.html", null ],
@@ -2216,7 +2220,9 @@ var hierarchy =
         [ "pocketmine\\block\\tile\\FlowerPot", "d5/d8b/classpocketmine_1_1block_1_1tile_1_1_flower_pot.html", null ],
         [ "pocketmine\\block\\tile\\Furnace", "db/d1f/classpocketmine_1_1block_1_1tile_1_1_furnace.html", null ],
         [ "pocketmine\\block\\tile\\Hopper", "d2/d1d/classpocketmine_1_1block_1_1tile_1_1_hopper.html", null ],
-        [ "pocketmine\\block\\tile\\ItemFrame", "d4/dff/classpocketmine_1_1block_1_1tile_1_1_item_frame.html", null ],
+        [ "pocketmine\\block\\tile\\ItemFrame", "d4/dff/classpocketmine_1_1block_1_1tile_1_1_item_frame.html", [
+          [ "pocketmine\\block\\tile\\GlowingItemFrame", "d4/dca/classpocketmine_1_1block_1_1tile_1_1_glowing_item_frame.html", null ]
+        ] ],
         [ "pocketmine\\block\\tile\\Jukebox", "d4/d77/classpocketmine_1_1block_1_1tile_1_1_jukebox.html", null ],
         [ "pocketmine\\block\\tile\\Lectern", "d0/dc1/classpocketmine_1_1block_1_1tile_1_1_lectern.html", null ],
         [ "pocketmine\\block\\tile\\MonsterSpawner", "d6/d8f/classpocketmine_1_1block_1_1tile_1_1_monster_spawner.html", null ],

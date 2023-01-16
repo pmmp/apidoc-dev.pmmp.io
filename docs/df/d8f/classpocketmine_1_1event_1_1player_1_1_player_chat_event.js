@@ -1,6 +1,6 @@
 var classpocketmine_1_1event_1_1player_1_1_player_chat_event =
 [
-    [ "__construct", "df/d8f/classpocketmine_1_1event_1_1player_1_1_player_chat_event.html#a2dee4a73f15ada49cbabc3690c518e9f", null ],
+    [ "__construct", "df/d8f/classpocketmine_1_1event_1_1player_1_1_player_chat_event.html#a0d9ddc9a94eb30d77e831c1dd0fb76fa", null ],
     [ "call", "df/d8f/classpocketmine_1_1event_1_1player_1_1_player_chat_event.html#a3d979a673428c9ae66e1039bf796e945", null ],
     [ "getRecipients", "df/d8f/classpocketmine_1_1event_1_1player_1_1_player_chat_event.html#aba0fbaa29a471ced3ded12cd9e884317", null ],
     [ "isCancelled", "df/d8f/classpocketmine_1_1event_1_1player_1_1_player_chat_event.html#a90efcab0d539a5cb5b17968dfa164017", null ],
