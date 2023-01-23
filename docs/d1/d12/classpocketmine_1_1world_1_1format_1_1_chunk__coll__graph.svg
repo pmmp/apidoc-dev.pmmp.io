@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 410;
+var viewWidth = 252;
 var viewHeight = 479;
 var sectionId = 'dynsection-0';
 </script>
@@ -54,32 +54,32 @@ var sectionId = 'dynsection-0';
 <svg id="graph" class="graph">
 <g id="viewport">
 <title>pocketmine\world\format\Chunk</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-475 405.5,-475 405.5,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-475 247.5,-475 247.5,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="102,-0.5 102,-222.5 245,-222.5 245,-0.5 102,-0.5"/>
-<text text-anchor="start" x="110" y="-210.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\format</text>
-<text text-anchor="middle" x="173.5" y="-199.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Chunk</text>
-<polyline fill="none" stroke="black" points="102,-192.5 245,-192.5 "/>
-<text text-anchor="start" x="110" y="-180.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $lightPopulated</text>
-<text text-anchor="start" x="110" y="-169.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $subChunks</text>
-<text text-anchor="start" x="110" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $terrainPopulated</text>
-<text text-anchor="start" x="110" y="-147.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $tiles</text>
-<polyline fill="none" stroke="black" points="102,-140.5 245,-140.5 "/>
-<text text-anchor="start" x="110" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="110" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __clone()</text>
-<text text-anchor="start" x="110" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addTile()</text>
-<text text-anchor="start" x="110" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearTerrainDirtyFlags()</text>
-<text text-anchor="start" x="110" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ collectGarbage()</text>
-<text text-anchor="start" x="110" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBiomeId()</text>
-<text text-anchor="start" x="110" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBiomeIdArray()</text>
-<text text-anchor="start" x="110" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFullBlock()</text>
-<text text-anchor="start" x="110" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getHeight()</text>
-<text text-anchor="start" x="110" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getHeightMap()</text>
-<text text-anchor="start" x="110" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 22 more...</text>
-<text text-anchor="start" x="110" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ blockHash()</text>
+<polygon fill="#bfbfbf" stroke="black" points="26,-0.5 26,-222.5 169,-222.5 169,-0.5 26,-0.5"/>
+<text text-anchor="start" x="34" y="-210.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\format</text>
+<text text-anchor="middle" x="97.5" y="-199.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Chunk</text>
+<polyline fill="none" stroke="black" points="26,-192.5 169,-192.5 "/>
+<text text-anchor="start" x="34" y="-180.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $lightPopulated</text>
+<text text-anchor="start" x="34" y="-169.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $subChunks</text>
+<text text-anchor="start" x="34" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $terrainPopulated</text>
+<text text-anchor="start" x="34" y="-147.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $tiles</text>
+<polyline fill="none" stroke="black" points="26,-140.5 169,-140.5 "/>
+<text text-anchor="start" x="34" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="34" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __clone()</text>
+<text text-anchor="start" x="34" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addTile()</text>
+<text text-anchor="start" x="34" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearTerrainDirtyFlags()</text>
+<text text-anchor="start" x="34" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ collectGarbage()</text>
+<text text-anchor="start" x="34" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBiomeId()</text>
+<text text-anchor="start" x="34" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFullBlock()</text>
+<text text-anchor="start" x="34" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getHeight()</text>
+<text text-anchor="start" x="34" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getHeightMap()</text>
+<text text-anchor="start" x="34" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getHeightMapArray()</text>
+<text text-anchor="start" x="34" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 21 more...</text>
+<text text-anchor="start" x="34" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ blockHash()</text>
 </a>
 </g>
 </g>
@@ -99,16 +99,16 @@ var sectionId = 'dynsection-0';
 <!-- Node2&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
 <title>Node2&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M19.13,-380.4C17.36,-345.93 18.31,-286.02 40.5,-241 52.93,-215.79 72.41,-192.79 92.67,-173.45"/>
-<polygon fill="none" stroke="#404040" points="92.88,-173.25 94.57,-166.24 101.69,-165.1 100,-172.11 92.88,-173.25"/>
-<text text-anchor="middle" x="105" y="-321" font-family="Helvetica,sans-Serif" font-size="10.00"> +COORD_BIT_SIZE</text>
-<text text-anchor="middle" x="105" y="-310" font-family="Helvetica,sans-Serif" font-size="10.00">+COORD_MASK</text>
-<text text-anchor="middle" x="105" y="-299" font-family="Helvetica,sans-Serif" font-size="10.00">+DIRTY_FLAG_BIOMES</text>
-<text text-anchor="middle" x="105" y="-288" font-family="Helvetica,sans-Serif" font-size="10.00">+DIRTY_FLAG_BLOCKS</text>
-<text text-anchor="middle" x="105" y="-277" font-family="Helvetica,sans-Serif" font-size="10.00">+EDGE_LENGTH</text>
-<text text-anchor="middle" x="105" y="-266" font-family="Helvetica,sans-Serif" font-size="10.00">+MAX_SUBCHUNKS</text>
-<text text-anchor="middle" x="105" y="-255" font-family="Helvetica,sans-Serif" font-size="10.00">+MAX_SUBCHUNK_INDEX</text>
-<text text-anchor="middle" x="105" y="-244" font-family="Helvetica,sans-Serif" font-size="10.00">+MIN_SUBCHUNK_INDEX</text>
+<path fill="none" stroke="#404040" d="M17.36,-380.22C13.32,-346.58 9.49,-288.54 22.5,-241 23.13,-238.71 23.8,-236.42 24.53,-234.13"/>
+<polygon fill="none" stroke="#404040" points="24.56,-234.04 22.77,-227.06 28.53,-222.72 30.32,-229.7 24.56,-234.04"/>
+<text text-anchor="middle" x="87" y="-321" font-family="Helvetica,sans-Serif" font-size="10.00"> +COORD_BIT_SIZE</text>
+<text text-anchor="middle" x="87" y="-310" font-family="Helvetica,sans-Serif" font-size="10.00">+COORD_MASK</text>
+<text text-anchor="middle" x="87" y="-299" font-family="Helvetica,sans-Serif" font-size="10.00">+DIRTY_FLAG_BIOMES</text>
+<text text-anchor="middle" x="87" y="-288" font-family="Helvetica,sans-Serif" font-size="10.00">+DIRTY_FLAG_BLOCKS</text>
+<text text-anchor="middle" x="87" y="-277" font-family="Helvetica,sans-Serif" font-size="10.00">+EDGE_LENGTH</text>
+<text text-anchor="middle" x="87" y="-266" font-family="Helvetica,sans-Serif" font-size="10.00">+MAX_SUBCHUNKS</text>
+<text text-anchor="middle" x="87" y="-255" font-family="Helvetica,sans-Serif" font-size="10.00">+MAX_SUBCHUNK_INDEX</text>
+<text text-anchor="middle" x="87" y="-244" font-family="Helvetica,sans-Serif" font-size="10.00">+MIN_SUBCHUNK_INDEX</text>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
@@ -132,34 +132,9 @@ var sectionId = 'dynsection-0';
 <!-- Node3&#45;&gt;Node1 -->
 <g id="edge2" class="edge">
 <title>Node3&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M173.5,-347.49C173.5,-314.96 173.5,-273.65 173.5,-234.77"/>
-<polygon fill="none" stroke="#404040" points="173.5,-234.52 169.5,-228.52 173.5,-222.52 177.5,-228.52 173.5,-234.52"/>
-<text text-anchor="middle" x="208.5" y="-282.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #$heightMap</text>
-</g>
-<!-- Node4 -->
-<g id="node4" class="node">
-<title>Node4</title>
-<g id="a_node4"><a xlink:href="../../d8/d5f/classpocketmine_1_1world_1_1format_1_1_biome_array.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="261.5,-353 261.5,-465 401.5,-465 401.5,-353 261.5,-353"/>
-<text text-anchor="start" x="269.5" y="-453" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\format</text>
-<text text-anchor="middle" x="331.5" y="-442" font-family="Helvetica,sans-Serif" font-size="10.00">\BiomeArray</text>
-<polyline fill="none" stroke="#bfbfbf" points="261.5,-435 401.5,-435 "/>
-<text text-anchor="middle" x="331.5" y="-423" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="261.5,-416 401.5,-416 "/>
-<text text-anchor="start" x="269.5" y="-404" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="269.5" y="-393" font-family="Helvetica,sans-Serif" font-size="10.00">+ get()</text>
-<text text-anchor="start" x="269.5" y="-382" font-family="Helvetica,sans-Serif" font-size="10.00">+ getData()</text>
-<text text-anchor="start" x="269.5" y="-371" font-family="Helvetica,sans-Serif" font-size="10.00">+ set()</text>
-<text text-anchor="start" x="269.5" y="-360" font-family="Helvetica,sans-Serif" font-size="10.00">+ fill()</text>
-</a>
-</g>
-</g>
-<!-- Node4&#45;&gt;Node1 -->
-<g id="edge3" class="edge">
-<title>Node4&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M304.66,-352.69C288.53,-319.97 267.36,-277.86 247.5,-241 246.13,-238.47 244.75,-235.91 243.34,-233.33"/>
-<polygon fill="none" stroke="#404040" points="243.26,-233.19 236.87,-229.86 237.48,-222.67 243.88,-226.01 243.26,-233.19"/>
-<text text-anchor="middle" x="323" y="-282.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #$biomeIds</text>
+<path fill="none" stroke="#404040" d="M169.43,-347.33C166.3,-315.3 160.86,-275.58 151.5,-241 150.88,-238.72 150.24,-236.43 149.56,-234.13"/>
+<polygon fill="none" stroke="#404040" points="149.53,-234.04 143.93,-229.51 145.96,-222.59 151.56,-227.12 149.53,-234.04"/>
+<text text-anchor="middle" x="201.5" y="-282.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #$heightMap</text>
 </g>
 </g>
 </svg>

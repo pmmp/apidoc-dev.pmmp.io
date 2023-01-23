@@ -11,6 +11,7 @@ var dir_23c847fc118655650d80ee30437441f9 =
     [ "PlayerCreationEvent.php", "d6/d7e/_player_creation_event_8php_source.html", null ],
     [ "PlayerDataSaveEvent.php", "d6/db5/_player_data_save_event_8php_source.html", null ],
     [ "PlayerDeathEvent.php", "d1/d55/_player_death_event_8php_source.html", null ],
+    [ "PlayerDisconnectEventTrait.php", "d8/d93/_player_disconnect_event_trait_8php_source.html", null ],
     [ "PlayerDisplayNameChangeEvent.php", "d1/dfe/_player_display_name_change_event_8php_source.html", null ],
     [ "PlayerDropItemEvent.php", "d1/df4/_player_drop_item_event_8php_source.html", null ],
     [ "PlayerDuplicateLoginEvent.php", "d8/df9/_player_duplicate_login_event_8php_source.html", null ],

@@ -42,8 +42,8 @@
 <text text-anchor="start" x="101" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ chunkIndex()</text>
 <text text-anchor="start" x="101" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ generate()</text>
 <text text-anchor="start" x="101" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isValid()</text>
-<text text-anchor="start" x="101" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeLegacyExtraData()</text>
-<text text-anchor="start" x="101" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializePaletted()</text>
+<text text-anchor="start" x="101" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeBlockPalette()</text>
+<text text-anchor="start" x="101" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeLegacyExtraData()</text>
 <text text-anchor="start" x="101" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00"># loadLevelData()</text>
 <text text-anchor="start" x="101" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeExtraDataKey()</text>
 </a>

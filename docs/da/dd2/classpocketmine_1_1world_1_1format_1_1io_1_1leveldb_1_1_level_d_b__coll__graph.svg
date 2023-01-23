@@ -78,8 +78,8 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="130.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ chunkIndex()</text>
 <text text-anchor="start" x="130.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ generate()</text>
 <text text-anchor="start" x="130.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isValid()</text>
-<text text-anchor="start" x="130.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeLegacyExtraData()</text>
-<text text-anchor="start" x="130.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializePaletted()</text>
+<text text-anchor="start" x="130.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeBlockPalette()</text>
+<text text-anchor="start" x="130.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeLegacyExtraData()</text>
 <text text-anchor="start" x="130.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00"># loadLevelData()</text>
 <text text-anchor="start" x="130.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeExtraDataKey()</text>
 </a>
@@ -135,8 +135,8 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="187.5" y="-365.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ chunkIndex()</text>
 <text text-anchor="start" x="187.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ generate()</text>
 <text text-anchor="start" x="187.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isValid()</text>
-<text text-anchor="start" x="187.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeLegacyExtraData()</text>
-<text text-anchor="start" x="187.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializePaletted()</text>
+<text text-anchor="start" x="187.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeBlockPalette()</text>
+<text text-anchor="start" x="187.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeLegacyExtraData()</text>
 <text text-anchor="start" x="187.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00"># loadLevelData()</text>
 <text text-anchor="start" x="187.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeExtraDataKey()</text>
 </a>

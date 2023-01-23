@@ -64,7 +64,6 @@ var namespacepocketmine_1_1world =
         [ "WritableWorldProvider", "d1/d1b/interfacepocketmine_1_1world_1_1format_1_1io_1_1_writable_world_provider.html", "d1/d1b/interfacepocketmine_1_1world_1_1format_1_1io_1_1_writable_world_provider" ],
         [ "WritableWorldProviderManagerEntry", "dd/db7/classpocketmine_1_1world_1_1format_1_1io_1_1_writable_world_provider_manager_entry.html", "dd/db7/classpocketmine_1_1world_1_1format_1_1io_1_1_writable_world_provider_manager_entry" ]
       ] ],
-      [ "BiomeArray", "d8/d5f/classpocketmine_1_1world_1_1format_1_1_biome_array.html", "d8/d5f/classpocketmine_1_1world_1_1format_1_1_biome_array" ],
       [ "Chunk", "d2/de7/classpocketmine_1_1world_1_1format_1_1_chunk.html", "d2/de7/classpocketmine_1_1world_1_1format_1_1_chunk" ],
       [ "ChunkException", "d0/db5/classpocketmine_1_1world_1_1format_1_1_chunk_exception.html", null ],
       [ "HeightArray", "df/d1d/classpocketmine_1_1world_1_1format_1_1_height_array.html", "df/d1d/classpocketmine_1_1world_1_1format_1_1_height_array" ],

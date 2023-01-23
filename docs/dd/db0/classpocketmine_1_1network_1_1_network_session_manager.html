@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA7 git-c55e23a2c6712fa141b59447be31694fe3e91607</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA8 git-07a30ea1f9a4da89664c1b270edc37f89b1fc7b9</span>
    </div>
   </td>
  </tr>
@@ -108,8 +108,8 @@ $(document).ready(function(){initNavTree('dd/db0/classpocketmine_1_1network_1_1_
 Public Member Functions</h2></td></tr>
 <tr class="memitem:afa1b6a4c0bba82a0dbf8c2d7790ed327"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db0/classpocketmine_1_1network_1_1_network_session_manager.html#afa1b6a4c0bba82a0dbf8c2d7790ed327">add</a> (<a class="el" href="../../de/d3a/classpocketmine_1_1network_1_1mcpe_1_1_network_session.html">NetworkSession</a> $session)</td></tr>
 <tr class="separator:afa1b6a4c0bba82a0dbf8c2d7790ed327"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1a44a5dbdce4aeb8a3792f49fba4a0da"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db0/classpocketmine_1_1network_1_1_network_session_manager.html#a1a44a5dbdce4aeb8a3792f49fba4a0da">close</a> (<a class="el" href="../../da/d80/classpocketmine_1_1lang_1_1_translatable.html">Translatable</a>|string $reason=&quot;&quot;)</td></tr>
-<tr class="separator:a1a44a5dbdce4aeb8a3792f49fba4a0da"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a53ffc9303e97f65deee05f9f1ac551dc"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db0/classpocketmine_1_1network_1_1_network_session_manager.html#a53ffc9303e97f65deee05f9f1ac551dc">close</a> (<a class="el" href="../../da/d80/classpocketmine_1_1lang_1_1_translatable.html">Translatable</a>|string $reason=&quot;&quot;, <a class="el" href="../../da/d80/classpocketmine_1_1lang_1_1_translatable.html">Translatable</a>|string|null $disconnectScreenMessage=null)</td></tr>
+<tr class="separator:a53ffc9303e97f65deee05f9f1ac551dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abdcac13d9a6e3737c578a5c675b672b9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db0/classpocketmine_1_1network_1_1_network_session_manager.html#abdcac13d9a6e3737c578a5c675b672b9">getSessionCount</a> ()</td></tr>
 <tr class="separator:abdcac13d9a6e3737c578a5c675b672b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a55edecad5ef62d75386a3dc12b2e0db2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db0/classpocketmine_1_1network_1_1_network_session_manager.html#a55edecad5ef62d75386a3dc12b2e0db2">getSessions</a> ()</td></tr>
@@ -148,8 +148,8 @@ Public Member Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a1a44a5dbdce4aeb8a3792f49fba4a0da" name="a1a44a5dbdce4aeb8a3792f49fba4a0da"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1a44a5dbdce4aeb8a3792f49fba4a0da">&#9670;&nbsp;</a></span>close()</h2>
+<a id="a53ffc9303e97f65deee05f9f1ac551dc" name="a53ffc9303e97f65deee05f9f1ac551dc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a53ffc9303e97f65deee05f9f1ac551dc">&#9670;&nbsp;</a></span>close()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -158,14 +158,31 @@ Public Member Functions</h2></td></tr>
           <td class="memname">pocketmine\network\NetworkSessionManager::close </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="../../da/d80/classpocketmine_1_1lang_1_1_translatable.html">Translatable</a>|string&#160;</td>
-          <td class="paramname"><em>$reason</em> = <code>&quot;&quot;</code></td><td>)</td>
+          <td class="paramname"><em>$reason</em> = <code>&quot;&quot;</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../da/d80/classpocketmine_1_1lang_1_1_translatable.html">Translatable</a>|string|null&#160;</td>
+          <td class="paramname"><em>$disconnectScreenMessage</em> = <code>null</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<p >Terminates all connected sessions with the given reason. </p>
+<p >Terminates all connected sessions with the given reason.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">Translatable&#160;|&#160;string</td><td class="paramname">$reason</td><td>Shown in the server log - this should be a short one-line message </td></tr>
+    <tr><td class="paramtype">Translatable&#160;|&#160;string&#160;|&#160;null</td><td class="paramname">$disconnectScreenMessage</td><td>Shown on the player's disconnection screen (null will use the reason) </td></tr>
+  </table>
+  </dd>
+</dl>
 
-<p class="definition">Definition at line <a class="el" href="../../d3/df8/_network_session_manager_8php_source.html#l00100">100</a> of file <a class="el" href="../../d3/df8/_network_session_manager_8php_source.html">NetworkSessionManager.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d3/df8/_network_session_manager_8php_source.html#l00103">103</a> of file <a class="el" href="../../d3/df8/_network_session_manager_8php_source.html">NetworkSessionManager.php</a>.</p>
 
 </div>
 </div>

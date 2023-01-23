@@ -1673,7 +1673,6 @@ var annotated_dup =
             [ "WritableWorldProvider", "d1/d1b/interfacepocketmine_1_1world_1_1format_1_1io_1_1_writable_world_provider.html", "d1/d1b/interfacepocketmine_1_1world_1_1format_1_1io_1_1_writable_world_provider" ],
             [ "WritableWorldProviderManagerEntry", "dd/db7/classpocketmine_1_1world_1_1format_1_1io_1_1_writable_world_provider_manager_entry.html", "dd/db7/classpocketmine_1_1world_1_1format_1_1io_1_1_writable_world_provider_manager_entry" ]
           ] ],
-          [ "BiomeArray", "d8/d5f/classpocketmine_1_1world_1_1format_1_1_biome_array.html", "d8/d5f/classpocketmine_1_1world_1_1format_1_1_biome_array" ],
           [ "Chunk", "d2/de7/classpocketmine_1_1world_1_1format_1_1_chunk.html", "d2/de7/classpocketmine_1_1world_1_1format_1_1_chunk" ],
           [ "ChunkException", "d0/db5/classpocketmine_1_1world_1_1format_1_1_chunk_exception.html", null ],
           [ "HeightArray", "df/d1d/classpocketmine_1_1world_1_1format_1_1_height_array.html", "df/d1d/classpocketmine_1_1world_1_1format_1_1_height_array" ],
@@ -1878,6 +1877,7 @@ var annotated_dup =
       [ "MemoryManager", "d3/df7/classpocketmine_1_1_memory_manager.html", "d3/df7/classpocketmine_1_1_memory_manager" ],
       [ "Server", "d5/df7/classpocketmine_1_1_server.html", "d5/df7/classpocketmine_1_1_server" ],
       [ "ServerConfigGroup", "d1/d84/classpocketmine_1_1_server_config_group.html", null ],
+      [ "TimeTrackingSleeperHandler", "d9/d43/classpocketmine_1_1_time_tracking_sleeper_handler.html", "d9/d43/classpocketmine_1_1_time_tracking_sleeper_handler" ],
       [ "VersionInfo", "d4/db7/classpocketmine_1_1_version_info.html", null ]
     ] ],
     [ "raklib", null, [

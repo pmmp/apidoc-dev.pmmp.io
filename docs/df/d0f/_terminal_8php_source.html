@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA7 git-c55e23a2c6712fa141b59447be31694fe3e91607</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA8 git-07a30ea1f9a4da89664c1b270edc37f89b1fc7b9</span>
    </div>
   </td>
  </tr>
@@ -186,7 +186,7 @@ $(document).ready(function(){initNavTree('df/d0f/_terminal_8php_source.html','..
 <div class="line"><a id="l00092" name="l00092"></a><span class="lineno">   92</span> </div>
 <div class="line"><a id="l00093" name="l00093"></a><span class="lineno">   93</span>        self::$FORMAT_RESET = <span class="stringliteral">&quot;\x1b[m&quot;</span>;</div>
 <div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span> </div>
-<div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span>        $color = fn(<span class="keywordtype">int</span> $code) =&gt; <span class="stringliteral">&quot;\x1b[38;5;${code}m&quot;</span>;</div>
+<div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span>        $color = fn(<span class="keywordtype">int</span> $code) =&gt; <span class="stringliteral">&quot;\x1b[38;5;{$code}m&quot;</span>;</div>
 <div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span> </div>
 <div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span>        self::$COLOR_BLACK = $color(16);</div>
 <div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span>        self::$COLOR_DARK_BLUE = $color(19);</div>

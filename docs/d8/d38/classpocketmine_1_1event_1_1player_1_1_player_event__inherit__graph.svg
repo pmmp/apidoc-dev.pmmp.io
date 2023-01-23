@@ -483,24 +483,22 @@ var sectionId = 'dynsection-0';
 <g id="node23" class="node">
 <title>Node23</title>
 <g id="a_node23"><a xlink:href="../../d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="2908,-133 2908,-245 3046,-245 3046,-133 2908,-133"/>
-<text text-anchor="start" x="2916" y="-233" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
-<text text-anchor="middle" x="2977" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerKickEvent</text>
-<polyline fill="none" stroke="black" points="2908,-215 3046,-215 "/>
-<text text-anchor="middle" x="2977" y="-203" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="2908,-196 3046,-196 "/>
-<text text-anchor="start" x="2916" y="-184" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="2916" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ getQuitMessage()</text>
-<text text-anchor="start" x="2916" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getReason()</text>
+<polygon fill="white" stroke="black" points="2908,-144 2908,-234 3046,-234 3046,-144 2908,-144"/>
+<text text-anchor="start" x="2916" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
+<text text-anchor="middle" x="2977" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">\PlayerKickEvent</text>
+<polyline fill="none" stroke="black" points="2908,-204 3046,-204 "/>
+<text text-anchor="middle" x="2977" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="2908,-185 3046,-185 "/>
+<text text-anchor="start" x="2916" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="2916" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ getQuitMessage()</text>
 <text text-anchor="start" x="2916" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ setQuitMessage()</text>
-<text text-anchor="start" x="2916" y="-140" font-family="Helvetica,sans-Serif" font-size="10.00">+ setReason()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node23 -->
 <g id="edge22" class="edge">
 <title>Node1&#45;&gt;Node23</title>
-<path fill="none" stroke="midnightblue" d="M2588.15,-342.75C2670.5,-339.84 2800.89,-326.14 2899,-273 2912.04,-265.94 2924.14,-255.89 2934.72,-245.21"/>
+<path fill="none" stroke="midnightblue" d="M2588.15,-342.75C2670.5,-339.84 2800.89,-326.14 2899,-273 2916.39,-263.58 2932.09,-248.86 2944.78,-234.41"/>
 <polygon fill="none" stroke="midnightblue" points="2587.99,-339.25 2578.1,-343.06 2588.21,-346.25 2587.99,-339.25"/>
 </g>
 <!-- Node24 -->

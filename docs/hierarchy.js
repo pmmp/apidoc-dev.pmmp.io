@@ -71,7 +71,6 @@ var hierarchy =
       ] ],
       [ "pocketmine\\world\\biome\\UnknownBiome", "d8/d8c/classpocketmine_1_1world_1_1biome_1_1_unknown_biome.html", null ]
     ] ],
-    [ "pocketmine\\world\\format\\BiomeArray", "d8/d5f/classpocketmine_1_1world_1_1format_1_1_biome_array.html", null ],
     [ "pocketmine\\data\\bedrock\\BiomeIds", "dc/dce/classpocketmine_1_1data_1_1bedrock_1_1_biome_ids.html", null ],
     [ "pocketmine\\world\\biome\\BiomeRegistry", "d4/db3/classpocketmine_1_1world_1_1biome_1_1_biome_registry.html", null ],
     [ "pocketmine\\world\\generator\\biome\\BiomeSelector", "d9/d3b/classpocketmine_1_1world_1_1generator_1_1biome_1_1_biome_selector.html", null ],
@@ -2024,7 +2023,9 @@ var hierarchy =
     [ "pocketmine\\network\\mcpe\\protocol\\types\\skin\\SkinImage", "de/dfa/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1skin_1_1_skin_image.html", null ],
     [ "pocketmine\\block\\utils\\SkullType", "d8/dbc/classpocketmine_1_1block_1_1utils_1_1_skull_type.html", null ],
     [ "pocketmine\\block\\utils\\SlabType", "dd/da9/classpocketmine_1_1block_1_1utils_1_1_slab_type.html", null ],
-    [ "pocketmine\\snooze\\SleeperHandler", "d7/d08/classpocketmine_1_1snooze_1_1_sleeper_handler.html", null ],
+    [ "pocketmine\\snooze\\SleeperHandler", "d7/d08/classpocketmine_1_1snooze_1_1_sleeper_handler.html", [
+      [ "pocketmine\\TimeTrackingSleeperHandler", "d9/d43/classpocketmine_1_1_time_tracking_sleeper_handler.html", null ]
+    ] ],
     [ "raklib\\generic\\Socket", "d9/d5c/classraklib_1_1generic_1_1_socket.html", null ],
     [ "pocketmine\\world\\sound\\Sound", "d7/dbd/interfacepocketmine_1_1world_1_1sound_1_1_sound.html", [
       [ "pocketmine\\world\\sound\\AmethystBlockChimeSound", "d3/d33/classpocketmine_1_1world_1_1sound_1_1_amethyst_block_chime_sound.html", null ],

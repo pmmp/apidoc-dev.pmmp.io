@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA7 git-c55e23a2c6712fa141b59447be31694fe3e91607</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA8 git-07a30ea1f9a4da89664c1b270edc37f89b1fc7b9</span>
    </div>
   </td>
  </tr>
@@ -179,7 +179,7 @@ $(document).ready(function(){initNavTree('d8/d59/_resource_packs_packet_handler_
 <div class="line"><a id="l00093" name="l00093"></a><span class="lineno">   93</span>        switch($packet-&gt;status){</div>
 <div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span>            <span class="keywordflow">case</span> ResourcePackClientResponsePacket::STATUS_REFUSED:</div>
 <div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span>                <span class="comment">//TODO: add lang strings for this</span></div>
-<div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span>                $this-&gt;session-&gt;disconnect(<span class="stringliteral">&quot;You must accept resource packs to join this server.&quot;</span>, <span class="keyword">true</span>);</div>
+<div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span>                $this-&gt;session-&gt;disconnect(<span class="stringliteral">&quot;Refused resource packs&quot;</span>, <span class="stringliteral">&quot;You must accept resource packs to join this server.&quot;</span>, <span class="keyword">true</span>);</div>
 <div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span>                <span class="keywordflow">break</span>;</div>
 <div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span>            <span class="keywordflow">case</span> ResourcePackClientResponsePacket::STATUS_SEND_PACKS:</div>
 <div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span>                <span class="keywordflow">foreach</span>($packet-&gt;packIds as $uuid){</div>
