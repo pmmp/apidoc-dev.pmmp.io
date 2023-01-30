@@ -48,7 +48,7 @@
 <text text-anchor="start" x="172.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearTerrainDirtyFlags()</text>
 <text text-anchor="start" x="172.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ collectGarbage()</text>
 <text text-anchor="start" x="172.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBiomeId()</text>
-<text text-anchor="start" x="172.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFullBlock()</text>
+<text text-anchor="start" x="172.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlockStateId()</text>
 <text text-anchor="start" x="172.5" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getHeight()</text>
 <text text-anchor="start" x="172.5" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getHeightMap()</text>
 <text text-anchor="start" x="172.5" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getHeightMapArray()</text>
@@ -109,8 +109,8 @@
 <text text-anchor="start" x="8" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlockLayers()</text>
 <text text-anchor="start" x="8" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlockLightArray()</text>
 <text text-anchor="start" x="8" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlockSkyLightArray()</text>
-<text text-anchor="start" x="8" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEmptyBlockId()</text>
-<text text-anchor="start" x="8" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFullBlock()</text>
+<text text-anchor="start" x="8" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlockStateId()</text>
+<text text-anchor="start" x="8" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEmptyBlockId()</text>
 <text text-anchor="start" x="8" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 6 more...</text>
 </a>
 </g>

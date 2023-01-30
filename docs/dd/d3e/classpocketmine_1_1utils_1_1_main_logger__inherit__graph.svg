@@ -106,67 +106,67 @@ var sectionId = 'dynsection-0';
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="../../d0/d55/class_threaded_logger.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="46.5,-353.5 46.5,-410.5 141.5,-410.5 141.5,-353.5 46.5,-353.5"/>
-<text text-anchor="middle" x="94" y="-398.5" font-family="Helvetica,sans-Serif" font-size="10.00">ThreadedLogger</text>
-<polyline fill="none" stroke="#bfbfbf" points="46.5,-391.5 141.5,-391.5 "/>
-<text text-anchor="middle" x="94" y="-379.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="46.5,-372.5 141.5,-372.5 "/>
-<text text-anchor="middle" x="94" y="-360.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="#bfbfbf" points="40.5,-353.5 40.5,-410.5 135.5,-410.5 135.5,-353.5 40.5,-353.5"/>
+<text text-anchor="middle" x="88" y="-398.5" font-family="Helvetica,sans-Serif" font-size="10.00">ThreadedLogger</text>
+<polyline fill="none" stroke="#bfbfbf" points="40.5,-391.5 135.5,-391.5 "/>
+<text text-anchor="middle" x="88" y="-379.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="40.5,-372.5 135.5,-372.5 "/>
+<text text-anchor="middle" x="88" y="-360.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node2 -->
 <g id="edge2" class="edge">
 <title>Node3&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M87.4,-343.35C85.89,-334.8 84.28,-325.58 82.7,-316.61"/>
-<polygon fill="none" stroke="midnightblue" points="83.98,-344.16 89.16,-353.4 90.88,-342.95 83.98,-344.16"/>
+<path fill="none" stroke="midnightblue" d="M83.38,-343.35C82.33,-334.8 81.19,-325.58 80.09,-316.61"/>
+<polygon fill="none" stroke="midnightblue" points="79.92,-343.9 84.61,-353.4 86.87,-343.05 79.92,-343.9"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
 <g id="a_node4"><a xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="63,-497 63,-554 125,-554 125,-497 63,-497"/>
-<text text-anchor="middle" x="94" y="-542" font-family="Helvetica,sans-Serif" font-size="10.00">Threaded</text>
-<polyline fill="none" stroke="#bfbfbf" points="63,-535 125,-535 "/>
-<text text-anchor="middle" x="94" y="-523" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="63,-516 125,-516 "/>
-<text text-anchor="middle" x="94" y="-504" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="#bfbfbf" points="45,-497 45,-554 131,-554 131,-497 45,-497"/>
+<text text-anchor="middle" x="88" y="-542" font-family="Helvetica,sans-Serif" font-size="10.00">ThreadedBase</text>
+<polyline fill="none" stroke="#bfbfbf" points="45,-535 131,-535 "/>
+<text text-anchor="middle" x="88" y="-523" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="45,-516 131,-516 "/>
+<text text-anchor="middle" x="88" y="-504" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 </a>
 </g>
 </g>
 <!-- Node4&#45;&gt;Node3 -->
 <g id="edge3" class="edge">
 <title>Node4&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M94,-486.71C94,-462.73 94,-432.25 94,-410.55"/>
-<polygon fill="none" stroke="midnightblue" points="90.5,-486.88 94,-496.88 97.5,-486.88 90.5,-486.88"/>
+<path fill="none" stroke="midnightblue" d="M88,-486.71C88,-462.73 88,-432.25 88,-410.55"/>
+<polygon fill="none" stroke="midnightblue" points="84.5,-486.88 88,-496.88 91.5,-486.88 84.5,-486.88"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
 <g id="a_node5"><a xlink:href="../../d4/d00/interface_logger.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="153,-447.5 153,-603.5 251,-603.5 251,-447.5 153,-447.5"/>
-<text text-anchor="middle" x="202" y="-591.5" font-family="Helvetica,sans-Serif" font-size="10.00">Logger</text>
-<polyline fill="none" stroke="#bfbfbf" points="153,-584.5 251,-584.5 "/>
-<text text-anchor="middle" x="202" y="-572.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="153,-565.5 251,-565.5 "/>
-<text text-anchor="start" x="161" y="-553.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ alert()</text>
-<text text-anchor="start" x="161" y="-542.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ critical()</text>
-<text text-anchor="start" x="161" y="-531.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ debug()</text>
-<text text-anchor="start" x="161" y="-520.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ emergency()</text>
-<text text-anchor="start" x="161" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ error()</text>
-<text text-anchor="start" x="161" y="-498.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ info()</text>
-<text text-anchor="start" x="161" y="-487.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ log()</text>
-<text text-anchor="start" x="161" y="-476.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ logException()</text>
-<text text-anchor="start" x="161" y="-465.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ notice()</text>
-<text text-anchor="start" x="161" y="-454.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ warning()</text>
+<polygon fill="white" stroke="#bfbfbf" points="156,-447.5 156,-603.5 254,-603.5 254,-447.5 156,-447.5"/>
+<text text-anchor="middle" x="205" y="-591.5" font-family="Helvetica,sans-Serif" font-size="10.00">Logger</text>
+<polyline fill="none" stroke="#bfbfbf" points="156,-584.5 254,-584.5 "/>
+<text text-anchor="middle" x="205" y="-572.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="156,-565.5 254,-565.5 "/>
+<text text-anchor="start" x="164" y="-553.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ alert()</text>
+<text text-anchor="start" x="164" y="-542.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ critical()</text>
+<text text-anchor="start" x="164" y="-531.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ debug()</text>
+<text text-anchor="start" x="164" y="-520.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ emergency()</text>
+<text text-anchor="start" x="164" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ error()</text>
+<text text-anchor="start" x="164" y="-498.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ info()</text>
+<text text-anchor="start" x="164" y="-487.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ log()</text>
+<text text-anchor="start" x="164" y="-476.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ logException()</text>
+<text text-anchor="start" x="164" y="-465.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ notice()</text>
+<text text-anchor="start" x="164" y="-454.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ warning()</text>
 </a>
 </g>
 </g>
 <!-- Node5&#45;&gt;Node3 -->
 <g id="edge4" class="edge">
 <title>Node5&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M146.52,-451.81C135.31,-437.13 124.19,-422.56 115.09,-410.63"/>
-<polygon fill="none" stroke="midnightblue" points="143.89,-454.14 152.74,-459.96 149.46,-449.89 143.89,-454.14"/>
+<path fill="none" stroke="midnightblue" d="M149.09,-456.89C135.54,-440.49 121.79,-423.87 110.79,-410.56"/>
+<polygon fill="none" stroke="midnightblue" points="146.65,-459.42 155.72,-464.9 152.05,-454.96 146.65,-459.42"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">
@@ -184,8 +184,8 @@ var sectionId = 'dynsection-0';
 <!-- Node5&#45;&gt;Node6 -->
 <g id="edge6" class="edge">
 <title>Node5&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M205.39,-437.12C207.32,-387.46 209.61,-328.62 210.92,-294.76"/>
-<polygon fill="none" stroke="midnightblue" points="201.89,-437.11 205,-447.24 208.89,-437.38 201.89,-437.11"/>
+<path fill="none" stroke="midnightblue" d="M207.38,-437.12C208.73,-387.46 210.33,-328.62 211.25,-294.76"/>
+<polygon fill="none" stroke="midnightblue" points="203.87,-437.15 207.1,-447.24 210.87,-437.34 203.87,-437.15"/>
 </g>
 <!-- Node6&#45;&gt;Node1 -->
 <g id="edge5" class="edge">

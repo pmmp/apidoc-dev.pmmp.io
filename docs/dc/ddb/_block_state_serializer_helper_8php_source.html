@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA8 git-07a30ea1f9a4da89664c1b270edc37f89b1fc7b9</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA9 git-5226300b99d8fdd60f117f6d99b70038ce2d56ef</span>
    </div>
   </td>
  </tr>
@@ -241,7 +241,7 @@ $(document).ready(function(){initNavTree('dc/ddb/_block_state_serializer_helper_
 <div class="line"><a id="l00147" name="l00147"></a><span class="lineno">  147</span>            -&gt;writeFacingDirection($block-&gt;getFacing());</div>
 <div class="line"><a id="l00148" name="l00148"></a><span class="lineno">  148</span>    }</div>
 <div class="line"><a id="l00149" name="l00149"></a><span class="lineno">  149</span> </div>
-<div class="line"><a id="l00150" name="l00150"></a><span class="lineno">  150</span>    <span class="keyword">private</span> <span class="keyword">static</span> <span class="keyword">function</span> encodeLeaves(<a class="code hl_class" href="../../d8/deb/classpocketmine_1_1block_1_1_leaves.html">Leaves</a> $block, <a class="code hl_class" href="../../da/dc5/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_writer.html">BlockStateWriter</a> $out) : <a class="code hl_class" href="../../da/dc5/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_writer.html">BlockStateWriter</a>{</div>
+<div class="line"><a id="l00150" name="l00150"></a><span class="lineno">  150</span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> encodeLeaves(<a class="code hl_class" href="../../d8/deb/classpocketmine_1_1block_1_1_leaves.html">Leaves</a> $block, <a class="code hl_class" href="../../da/dc5/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_writer.html">BlockStateWriter</a> $out) : <a class="code hl_class" href="../../da/dc5/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_writer.html">BlockStateWriter</a>{</div>
 <div class="line"><a id="l00151" name="l00151"></a><span class="lineno">  151</span>        <span class="keywordflow">return</span> $out</div>
 <div class="line"><a id="l00152" name="l00152"></a><span class="lineno">  152</span>            -&gt;<a class="code hl_function" href="../../da/dc5/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_writer.html#af9afcc083e91d17fe59e0c1956edfded">writeBool</a>(BlockStateNames::PERSISTENT_BIT, $block-&gt;isNoDecay())</div>
 <div class="line"><a id="l00153" name="l00153"></a><span class="lineno">  153</span>            -&gt;writeBool(BlockStateNames::UPDATE_BIT, $block-&gt;isCheckDecay());</div>

@@ -1,6 +1,7 @@
 <map id="pocketmine\network\mcpe\raklib\RakLibServer" name="pocketmine\network\mcpe\raklib\RakLibServer">
-<area shape="rect" id="node1" title=" " alt="" coords="131,389,324,584"/>
-<area shape="rect" id="node2" href="$d0/d6e/classpocketmine_1_1thread_1_1_thread.html" title=" " alt="" coords="5,183,199,275"/>
+<area shape="rect" id="node1" title=" " alt="" coords="120,316,313,511"/>
+<area shape="rect" id="node2" href="$d0/d6e/classpocketmine_1_1thread_1_1_thread.html" title=" " alt="" coords="5,139,199,231"/>
 <area shape="rect" id="node3" title=" " alt="" coords="69,5,135,83"/>
-<area shape="rect" id="node4" href="$d3/dd3/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_thread_crash_info.html" title=" " alt="" coords="223,132,482,327"/>
+<area shape="rect" id="node4" href="$d4/d69/classpocketmine_1_1thread_1_1_non_thread_safe_value.html" title=" " alt="" coords="223,132,442,239"/>
+<area shape="rect" id="node5" title=" " alt="" coords="275,5,390,83"/>
 </map>

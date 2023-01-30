@@ -53,7 +53,7 @@ var classpocketmine_1_1block_1_1_bell =
     [ "onInteract", "df/d78/classpocketmine_1_1block_1_1_bell.html#a5b5d20423e0a33f1e90ef123197e988e", null ],
     [ "onNearbyBlockChange", "df/d78/classpocketmine_1_1block_1_1_bell.html#aed7d46c54004bd102bf21fd5f7e4f5ea", null ],
     [ "onPostPlace", "df/d78/classpocketmine_1_1block_1_1_bell.html#acf338037e498bd5c8dbe6d4bceb2a7ca", null ],
-    [ "onProjectileHit", "df/d78/classpocketmine_1_1block_1_1_bell.html#a0931c682312473fc2540464b7a4747c0", null ],
+    [ "onProjectileHit", "df/d78/classpocketmine_1_1block_1_1_bell.html#ad9a6159043aae8ede1f94addd6059c05", null ],
     [ "onRandomTick", "df/d78/classpocketmine_1_1block_1_1_bell.html#a36afea9f0214193963f75577e8d48c26", null ],
     [ "onScheduledUpdate", "df/d78/classpocketmine_1_1block_1_1_bell.html#a1a1a2b2adf423738289d296198f044e1", null ],
     [ "place", "df/d78/classpocketmine_1_1block_1_1_bell.html#ad0b90aa78ff0770eff075671012d259b", null ],

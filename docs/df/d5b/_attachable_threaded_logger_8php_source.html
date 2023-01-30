@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA8 git-07a30ea1f9a4da89664c1b270edc37f89b1fc7b9</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA9 git-5226300b99d8fdd60f117f6d99b70038ce2d56ef</span>
    </div>
   </td>
  </tr>
@@ -111,39 +111,39 @@ $(document).ready(function(){initNavTree('df/d5b/_attachable_threaded_logger_8ph
 <div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span> </div>
 <div class="line"><a id="l00018" name="l00018"></a><span class="lineno"><a class="line" href="../../d3/db3/class_attachable_threaded_logger.html">   18</a></span><span class="keyword">abstract</span> <span class="keyword">class </span><a class="code hl_class" href="../../d3/db3/class_attachable_threaded_logger.html">AttachableThreadedLogger</a> <span class="keyword">extends</span> <a class="code hl_class" href="../../d0/d55/class_threaded_logger.html">\ThreadedLogger</a>{</div>
 <div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span> </div>
-<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span>    <span class="keyword">protected</span> $attachments;</div>
-<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span> </div>
-<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>    <span class="keyword">public</span> <span class="keyword">function</span> __construct(){</div>
-<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>        $this-&gt;attachments = new \Volatile();</div>
-<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>    }</div>
-<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span> </div>
-<div class="line"><a id="l00032" name="l00032"></a><span class="lineno"><a class="line" href="../../d3/db3/class_attachable_threaded_logger.html#aa1708104839ddb7d124cc63e0903f734">   32</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d3/db3/class_attachable_threaded_logger.html#aa1708104839ddb7d124cc63e0903f734">addAttachment</a>(\<a class="code hl_class" href="../../d2/d6c/class_threaded_logger_attachment.html">ThreadedLoggerAttachment</a> $attachment){</div>
-<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>        $this-&gt;attachments[] = $attachment;</div>
-<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>    }</div>
-<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span> </div>
-<div class="line"><a id="l00041" name="l00041"></a><span class="lineno"><a class="line" href="../../d3/db3/class_attachable_threaded_logger.html#ae9915f7011530ae56c3ca29f745da687">   41</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d3/db3/class_attachable_threaded_logger.html#ae9915f7011530ae56c3ca29f745da687">removeAttachment</a>(\<a class="code hl_class" href="../../d2/d6c/class_threaded_logger_attachment.html">ThreadedLoggerAttachment</a> $attachment){</div>
-<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>        <span class="keywordflow">foreach</span>($this-&gt;attachments as $i =&gt; $a){</div>
-<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>            <span class="keywordflow">if</span>($attachment === $a){</div>
-<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>                unset($this-&gt;attachments[$i]);</div>
-<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>            }</div>
-<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>        }</div>
-<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>    }</div>
-<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span> </div>
-<div class="line"><a id="l00052" name="l00052"></a><span class="lineno"><a class="line" href="../../d3/db3/class_attachable_threaded_logger.html#a61815225162a3c6d9e83be3e8ffab45d">   52</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d3/db3/class_attachable_threaded_logger.html#a61815225162a3c6d9e83be3e8ffab45d">removeAttachments</a>(){</div>
-<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>        <span class="keywordflow">foreach</span>($this-&gt;attachments as $i =&gt; $a){</div>
-<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>            unset($this-&gt;attachments[$i]);</div>
-<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>        }</div>
-<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>    }</div>
-<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span> </div>
-<div class="line"><a id="l00061" name="l00061"></a><span class="lineno"><a class="line" href="../../d3/db3/class_attachable_threaded_logger.html#afc9254477a0daa08ff9867468bd73b1a">   61</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d3/db3/class_attachable_threaded_logger.html#afc9254477a0daa08ff9867468bd73b1a">getAttachments</a>(){</div>
-<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>        <span class="keywordflow">return</span> (array) $this-&gt;attachments;</div>
-<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>    }</div>
-<div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>}</div>
+<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>    <span class="keyword">protected</span> $attachments;</div>
+<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span> </div>
+<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>    <span class="keyword">public</span> <span class="keyword">function</span> __construct(){</div>
+<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>        $this-&gt;attachments = new \ThreadedArray();</div>
+<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>    }</div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span> </div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno"><a class="line" href="../../d3/db3/class_attachable_threaded_logger.html#aa1708104839ddb7d124cc63e0903f734">   35</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d3/db3/class_attachable_threaded_logger.html#aa1708104839ddb7d124cc63e0903f734">addAttachment</a>(\<a class="code hl_class" href="../../d2/d6c/class_threaded_logger_attachment.html">ThreadedLoggerAttachment</a> $attachment){</div>
+<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>        $this-&gt;attachments[] = $attachment;</div>
+<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>    }</div>
+<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span> </div>
+<div class="line"><a id="l00044" name="l00044"></a><span class="lineno"><a class="line" href="../../d3/db3/class_attachable_threaded_logger.html#ae9915f7011530ae56c3ca29f745da687">   44</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d3/db3/class_attachable_threaded_logger.html#ae9915f7011530ae56c3ca29f745da687">removeAttachment</a>(\<a class="code hl_class" href="../../d2/d6c/class_threaded_logger_attachment.html">ThreadedLoggerAttachment</a> $attachment){</div>
+<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>        <span class="keywordflow">foreach</span>($this-&gt;attachments as $i =&gt; $a){</div>
+<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>            <span class="keywordflow">if</span>($attachment === $a){</div>
+<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>                unset($this-&gt;attachments[$i]);</div>
+<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>            }</div>
+<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>        }</div>
+<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>    }</div>
+<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span> </div>
+<div class="line"><a id="l00055" name="l00055"></a><span class="lineno"><a class="line" href="../../d3/db3/class_attachable_threaded_logger.html#a61815225162a3c6d9e83be3e8ffab45d">   55</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d3/db3/class_attachable_threaded_logger.html#a61815225162a3c6d9e83be3e8ffab45d">removeAttachments</a>(){</div>
+<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>        <span class="keywordflow">foreach</span>($this-&gt;attachments as $i =&gt; $a){</div>
+<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>            unset($this-&gt;attachments[$i]);</div>
+<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>        }</div>
+<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>    }</div>
+<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span> </div>
+<div class="line"><a id="l00064" name="l00064"></a><span class="lineno"><a class="line" href="../../d3/db3/class_attachable_threaded_logger.html#afc9254477a0daa08ff9867468bd73b1a">   64</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d3/db3/class_attachable_threaded_logger.html#afc9254477a0daa08ff9867468bd73b1a">getAttachments</a>(){</div>
+<div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>        <span class="keywordflow">return</span> (array) $this-&gt;attachments;</div>
+<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>    }</div>
+<div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>}</div>
 <div class="ttc" id="aclass_attachable_threaded_logger_html"><div class="ttname"><a href="../../d3/db3/class_attachable_threaded_logger.html">AttachableThreadedLogger</a></div><div class="ttdef"><b>Definition:</b> <a href="../../df/d5b/_attachable_threaded_logger_8php_source.html#l00018">AttachableThreadedLogger.php:18</a></div></div>
-<div class="ttc" id="aclass_attachable_threaded_logger_html_a61815225162a3c6d9e83be3e8ffab45d"><div class="ttname"><a href="../../d3/db3/class_attachable_threaded_logger.html#a61815225162a3c6d9e83be3e8ffab45d">AttachableThreadedLogger\removeAttachments</a></div><div class="ttdeci">removeAttachments()</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d5b/_attachable_threaded_logger_8php_source.html#l00052">AttachableThreadedLogger.php:52</a></div></div>
-<div class="ttc" id="aclass_attachable_threaded_logger_html_aa1708104839ddb7d124cc63e0903f734"><div class="ttname"><a href="../../d3/db3/class_attachable_threaded_logger.html#aa1708104839ddb7d124cc63e0903f734">AttachableThreadedLogger\addAttachment</a></div><div class="ttdeci">addAttachment(\ThreadedLoggerAttachment $attachment)</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d5b/_attachable_threaded_logger_8php_source.html#l00032">AttachableThreadedLogger.php:32</a></div></div>
-<div class="ttc" id="aclass_attachable_threaded_logger_html_ae9915f7011530ae56c3ca29f745da687"><div class="ttname"><a href="../../d3/db3/class_attachable_threaded_logger.html#ae9915f7011530ae56c3ca29f745da687">AttachableThreadedLogger\removeAttachment</a></div><div class="ttdeci">removeAttachment(\ThreadedLoggerAttachment $attachment)</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d5b/_attachable_threaded_logger_8php_source.html#l00041">AttachableThreadedLogger.php:41</a></div></div>
-<div class="ttc" id="aclass_attachable_threaded_logger_html_afc9254477a0daa08ff9867468bd73b1a"><div class="ttname"><a href="../../d3/db3/class_attachable_threaded_logger.html#afc9254477a0daa08ff9867468bd73b1a">AttachableThreadedLogger\getAttachments</a></div><div class="ttdeci">getAttachments()</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d5b/_attachable_threaded_logger_8php_source.html#l00061">AttachableThreadedLogger.php:61</a></div></div>
+<div class="ttc" id="aclass_attachable_threaded_logger_html_a61815225162a3c6d9e83be3e8ffab45d"><div class="ttname"><a href="../../d3/db3/class_attachable_threaded_logger.html#a61815225162a3c6d9e83be3e8ffab45d">AttachableThreadedLogger\removeAttachments</a></div><div class="ttdeci">removeAttachments()</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d5b/_attachable_threaded_logger_8php_source.html#l00055">AttachableThreadedLogger.php:55</a></div></div>
+<div class="ttc" id="aclass_attachable_threaded_logger_html_aa1708104839ddb7d124cc63e0903f734"><div class="ttname"><a href="../../d3/db3/class_attachable_threaded_logger.html#aa1708104839ddb7d124cc63e0903f734">AttachableThreadedLogger\addAttachment</a></div><div class="ttdeci">addAttachment(\ThreadedLoggerAttachment $attachment)</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d5b/_attachable_threaded_logger_8php_source.html#l00035">AttachableThreadedLogger.php:35</a></div></div>
+<div class="ttc" id="aclass_attachable_threaded_logger_html_ae9915f7011530ae56c3ca29f745da687"><div class="ttname"><a href="../../d3/db3/class_attachable_threaded_logger.html#ae9915f7011530ae56c3ca29f745da687">AttachableThreadedLogger\removeAttachment</a></div><div class="ttdeci">removeAttachment(\ThreadedLoggerAttachment $attachment)</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d5b/_attachable_threaded_logger_8php_source.html#l00044">AttachableThreadedLogger.php:44</a></div></div>
+<div class="ttc" id="aclass_attachable_threaded_logger_html_afc9254477a0daa08ff9867468bd73b1a"><div class="ttname"><a href="../../d3/db3/class_attachable_threaded_logger.html#afc9254477a0daa08ff9867468bd73b1a">AttachableThreadedLogger\getAttachments</a></div><div class="ttdeci">getAttachments()</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d5b/_attachable_threaded_logger_8php_source.html#l00064">AttachableThreadedLogger.php:64</a></div></div>
 <div class="ttc" id="aclass_threaded_logger_attachment_html"><div class="ttname"><a href="../../d2/d6c/class_threaded_logger_attachment.html">ThreadedLoggerAttachment</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dc/ded/_threaded_logger_attachment_8php_source.html#l00018">ThreadedLoggerAttachment.php:18</a></div></div>
 <div class="ttc" id="aclass_threaded_logger_html"><div class="ttname"><a href="../../d0/d55/class_threaded_logger.html">ThreadedLogger</a></div><div class="ttdef"><b>Definition:</b> <a href="../../df/d50/_threaded_logger_8php_source.html#l00018">ThreadedLogger.php:18</a></div></div>
 </div><!-- fragment --></div><!-- contents -->

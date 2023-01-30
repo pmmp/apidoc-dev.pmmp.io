@@ -70,12 +70,12 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="330.3" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
 <text text-anchor="start" x="330.3" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlameEncouragement()</text>
 <text text-anchor="start" x="330.3" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlammability()</text>
-<text text-anchor="start" x="330.3" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
-<text text-anchor="start" x="330.3" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSupportType()</text>
-<text text-anchor="start" x="330.3" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isAffectedBySilkTouch()</text>
-<text text-anchor="start" x="330.3" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isCheckDecay()</text>
-<text text-anchor="start" x="330.3" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isNoDecay()</text>
-<text text-anchor="start" x="330.3" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 6 more...</text>
+<text text-anchor="start" x="330.3" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLeavesType()</text>
+<text text-anchor="start" x="330.3" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
+<text text-anchor="start" x="330.3" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSupportType()</text>
+<text text-anchor="start" x="330.3" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isAffectedBySilkTouch()</text>
+<text text-anchor="start" x="330.3" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isCheckDecay()</text>
+<text text-anchor="start" x="330.3" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 7 more...</text>
 <text text-anchor="start" x="330.3" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 <text text-anchor="start" x="330.3" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># findLog()</text>
 </a>
@@ -423,10 +423,10 @@ var sectionId = 'dynsection-1';
 <!-- Node13 -->
 <g id="node13" class="node">
 <title>Node13</title>
-<g id="a_node13"><a xlink:href="../../d7/de7/classpocketmine_1_1block_1_1utils_1_1_tree_type.html" target="_top" xlink:title=" ">
+<g id="a_node13"><a xlink:href="../../de/d6d/classpocketmine_1_1block_1_1utils_1_1_leaves_type.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="425.8,-248.5 425.8,-327.5 552.8,-327.5 552.8,-248.5 425.8,-248.5"/>
 <text text-anchor="start" x="433.8" y="-315.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
-<text text-anchor="middle" x="489.3" y="-304.5" font-family="Helvetica,sans-Serif" font-size="10.00">\TreeType</text>
+<text text-anchor="middle" x="489.3" y="-304.5" font-family="Helvetica,sans-Serif" font-size="10.00">\LeavesType</text>
 <polyline fill="none" stroke="black" points="425.8,-297.5 552.8,-297.5 "/>
 <text text-anchor="start" x="433.8" y="-285.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Enum___construct</text>
 <polyline fill="none" stroke="black" points="425.8,-278.5 552.8,-278.5 "/>
@@ -440,7 +440,7 @@ var sectionId = 'dynsection-1';
 <title>Node13&#45;&gt;Node1</title>
 <path fill="none" stroke="#404040" d="M472.11,-248.11C467.27,-237.16 461.75,-224.67 456.02,-211.7"/>
 <polygon fill="none" stroke="#404040" points="456.02,-211.7 449.93,-207.83 451.17,-200.73 457.25,-204.6 456.02,-211.7"/>
-<text text-anchor="middle" x="492.3" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00"> #$treeType</text>
+<text text-anchor="middle" x="498.8" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00"> #$leavesType</text>
 </g>
 </g>
 </svg>

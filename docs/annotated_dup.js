@@ -77,6 +77,7 @@ var annotated_dup =
           [ "DyeColor", "d0/d5a/classpocketmine_1_1block_1_1utils_1_1_dye_color.html", null ],
           [ "Fallable", "dd/d27/interfacepocketmine_1_1block_1_1utils_1_1_fallable.html", "dd/d27/interfacepocketmine_1_1block_1_1utils_1_1_fallable" ],
           [ "FroglightType", "de/df4/classpocketmine_1_1block_1_1utils_1_1_froglight_type.html", null ],
+          [ "LeavesType", "de/d6d/classpocketmine_1_1block_1_1utils_1_1_leaves_type.html", null ],
           [ "LeverFacing", "d0/def/classpocketmine_1_1block_1_1utils_1_1_lever_facing.html", null ],
           [ "MinimumCostFlowCalculator", "db/d5b/classpocketmine_1_1block_1_1utils_1_1_minimum_cost_flow_calculator.html", "db/d5b/classpocketmine_1_1block_1_1utils_1_1_minimum_cost_flow_calculator" ],
           [ "MushroomBlockType", "de/d72/classpocketmine_1_1block_1_1utils_1_1_mushroom_block_type.html", null ],
@@ -110,7 +111,6 @@ var annotated_dup =
         [ "Bell", "df/d78/classpocketmine_1_1block_1_1_bell.html", "df/d78/classpocketmine_1_1block_1_1_bell" ],
         [ "Block", "d7/d27/classpocketmine_1_1block_1_1_block.html", "d7/d27/classpocketmine_1_1block_1_1_block" ],
         [ "BlockBreakInfo", "d3/d10/classpocketmine_1_1block_1_1_block_break_info.html", "d3/d10/classpocketmine_1_1block_1_1_block_break_info" ],
-        [ "BlockFactory", "d0/d6d/classpocketmine_1_1block_1_1_block_factory.html", "d0/d6d/classpocketmine_1_1block_1_1_block_factory" ],
         [ "BlockIdentifier", "dd/d18/classpocketmine_1_1block_1_1_block_identifier.html", "dd/d18/classpocketmine_1_1block_1_1_block_identifier" ],
         [ "BlockLegacyIdHelper", "d8/d6b/classpocketmine_1_1block_1_1_block_legacy_id_helper.html", "d8/d6b/classpocketmine_1_1block_1_1_block_legacy_id_helper" ],
         [ "BlockToolType", "dd/d5a/classpocketmine_1_1block_1_1_block_tool_type.html", null ],
@@ -258,6 +258,7 @@ var annotated_dup =
         [ "RedstoneTorch", "d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html", "d6/d4f/classpocketmine_1_1block_1_1_redstone_torch" ],
         [ "RedstoneWire", "d4/dae/classpocketmine_1_1block_1_1_redstone_wire.html", "d4/dae/classpocketmine_1_1block_1_1_redstone_wire" ],
         [ "Reserved6", "dd/dec/classpocketmine_1_1block_1_1_reserved6.html", "dd/dec/classpocketmine_1_1block_1_1_reserved6" ],
+        [ "RuntimeBlockStateRegistry", "de/d2c/classpocketmine_1_1block_1_1_runtime_block_state_registry.html", "de/d2c/classpocketmine_1_1block_1_1_runtime_block_state_registry" ],
         [ "Sand", "d3/d39/classpocketmine_1_1block_1_1_sand.html", "d3/d39/classpocketmine_1_1block_1_1_sand" ],
         [ "Sapling", "d6/d87/classpocketmine_1_1block_1_1_sapling.html", "d6/d87/classpocketmine_1_1block_1_1_sapling" ],
         [ "Sculk", "d8/d97/classpocketmine_1_1block_1_1_sculk.html", "d8/d97/classpocketmine_1_1block_1_1_sculk" ],
@@ -1420,13 +1421,13 @@ var annotated_dup =
             [ "UpdateTradePacket", "de/df0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_trade_packet.html", "de/df0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_trade_packet" ]
           ] ],
           [ "raklib", null, [
-            [ "PthreadsChannelReader", "d9/d57/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_pthreads_channel_reader.html", null ],
-            [ "PthreadsChannelWriter", "dc/da4/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_pthreads_channel_writer.html", null ],
+            [ "PthreadsChannelReader", "d9/d57/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_pthreads_channel_reader.html", "d9/d57/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_pthreads_channel_reader" ],
+            [ "PthreadsChannelWriter", "dc/da4/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_pthreads_channel_writer.html", "dc/da4/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_pthreads_channel_writer" ],
             [ "RakLibInterface", "d9/dc4/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_interface.html", "d9/dc4/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_interface" ],
             [ "RakLibPacketSender", "dc/d49/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_packet_sender.html", "dc/d49/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_packet_sender" ],
             [ "RakLibServer", "de/dc9/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_server.html", "de/dc9/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_server" ],
             [ "RakLibThreadCrashInfo", "d3/dd3/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_thread_crash_info.html", "d3/dd3/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_thread_crash_info" ],
-            [ "SnoozeAwarePthreadsChannelWriter", "d0/dcd/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_snooze_aware_pthreads_channel_writer.html", null ]
+            [ "SnoozeAwarePthreadsChannelWriter", "d0/dcd/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_snooze_aware_pthreads_channel_writer.html", "d0/dcd/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_snooze_aware_pthreads_channel_writer" ]
           ] ],
           [ "serializer", null, [
             [ "ChunkSerializer", "dd/dc9/classpocketmine_1_1network_1_1mcpe_1_1serializer_1_1_chunk_serializer.html", "dd/dc9/classpocketmine_1_1network_1_1mcpe_1_1serializer_1_1_chunk_serializer" ]
@@ -1560,6 +1561,7 @@ var annotated_dup =
         [ "SendUsageTask", "df/d2c/classpocketmine_1_1stats_1_1_send_usage_task.html", "df/d2c/classpocketmine_1_1stats_1_1_send_usage_task" ]
       ] ],
       [ "thread", null, [
+        [ "NonThreadSafeValue", "d4/d69/classpocketmine_1_1thread_1_1_non_thread_safe_value.html", "d4/d69/classpocketmine_1_1thread_1_1_non_thread_safe_value" ],
         [ "Thread", "d0/d6e/classpocketmine_1_1thread_1_1_thread.html", "d0/d6e/classpocketmine_1_1thread_1_1_thread" ],
         [ "ThreadException", "d0/df0/classpocketmine_1_1thread_1_1_thread_exception.html", null ],
         [ "ThreadManager", "df/dca/classpocketmine_1_1thread_1_1_thread_manager.html", "df/dca/classpocketmine_1_1thread_1_1_thread_manager" ],

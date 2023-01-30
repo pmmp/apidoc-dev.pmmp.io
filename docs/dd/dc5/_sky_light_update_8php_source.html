@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA8 git-07a30ea1f9a4da89664c1b270edc37f89b1fc7b9</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA9 git-5226300b99d8fdd60f117f6d99b70038ce2d56ef</span>
    </div>
   </td>
  </tr>
@@ -154,7 +154,7 @@ $(document).ready(function(){initNavTree('dd/dc5/_sky_light_update_8php_source.h
 <div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>        $chunk = $this-&gt;subChunkExplorer-&gt;currentChunk;</div>
 <div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span> </div>
 <div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>        $oldHeightMap = $chunk-&gt;getHeightMap($x &amp; Chunk::COORD_MASK, $z &amp; Chunk::COORD_MASK);</div>
-<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>        $source = $this-&gt;subChunkExplorer-&gt;currentSubChunk-&gt;getFullBlock($x &amp; SubChunk::COORD_MASK, $y &amp; SubChunk::COORD_MASK, $z &amp; SubChunk::COORD_MASK);</div>
+<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>        $source = $this-&gt;subChunkExplorer-&gt;currentSubChunk-&gt;getBlockStateId($x &amp; SubChunk::COORD_MASK, $y &amp; SubChunk::COORD_MASK, $z &amp; SubChunk::COORD_MASK);</div>
 <div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span> </div>
 <div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>        $yPlusOne = $y + 1;</div>
 <div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span> </div>
@@ -276,7 +276,7 @@ $(document).ready(function(){initNavTree('dd/dc5/_sky_light_update_8php_source.h
 <div class="line"><a id="l00194" name="l00194"></a><span class="lineno">  194</span>                    $result-&gt;set($x, $z, World::Y_MIN);</div>
 <div class="line"><a id="l00195" name="l00195"></a><span class="lineno">  195</span>                }<span class="keywordflow">else</span>{</div>
 <div class="line"><a id="l00196" name="l00196"></a><span class="lineno">  196</span>                    <span class="keywordflow">for</span>(; $y &gt;= World::Y_MIN; --$y){</div>
-<div class="line"><a id="l00197" name="l00197"></a><span class="lineno">  197</span>                        <span class="keywordflow">if</span>(isset($directSkyLightBlockers[$chunk-&gt;getFullBlock($x, $y, $z)])){</div>
+<div class="line"><a id="l00197" name="l00197"></a><span class="lineno">  197</span>                        <span class="keywordflow">if</span>(isset($directSkyLightBlockers[$chunk-&gt;getBlockStateId($x, $y, $z)])){</div>
 <div class="line"><a id="l00198" name="l00198"></a><span class="lineno">  198</span>                            $result-&gt;set($x, $z, $y + 1);</div>
 <div class="line"><a id="l00199" name="l00199"></a><span class="lineno">  199</span>                            <span class="keywordflow">break</span>;</div>
 <div class="line"><a id="l00200" name="l00200"></a><span class="lineno">  200</span>                        }</div>
@@ -293,7 +293,7 @@ $(document).ready(function(){initNavTree('dd/dc5/_sky_light_update_8php_source.h
 <div class="line"><a id="l00221" name="l00221"></a><span class="lineno">  221</span>            <span class="keywordflow">return</span> World::Y_MIN;</div>
 <div class="line"><a id="l00222" name="l00222"></a><span class="lineno">  222</span>        }</div>
 <div class="line"><a id="l00223" name="l00223"></a><span class="lineno">  223</span>        <span class="keywordflow">for</span>(; $y &gt;= World::Y_MIN; --$y){</div>
-<div class="line"><a id="l00224" name="l00224"></a><span class="lineno">  224</span>            <span class="keywordflow">if</span>(isset($directSkyLightBlockers[$chunk-&gt;getFullBlock($x, $y, $z)])){</div>
+<div class="line"><a id="l00224" name="l00224"></a><span class="lineno">  224</span>            <span class="keywordflow">if</span>(isset($directSkyLightBlockers[$chunk-&gt;getBlockStateId($x, $y, $z)])){</div>
 <div class="line"><a id="l00225" name="l00225"></a><span class="lineno">  225</span>                <span class="keywordflow">break</span>;</div>
 <div class="line"><a id="l00226" name="l00226"></a><span class="lineno">  226</span>            }</div>
 <div class="line"><a id="l00227" name="l00227"></a><span class="lineno">  227</span>        }</div>

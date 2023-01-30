@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA8 git-07a30ea1f9a4da89664c1b270edc37f89b1fc7b9</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA9 git-5226300b99d8fdd60f117f6d99b70038ce2d56ef</span>
    </div>
   </td>
  </tr>
@@ -273,7 +273,7 @@ $(document).ready(function(){initNavTree('d4/daa/_light_update_8php_source.html'
 <div class="line"><a id="l00191" name="l00191"></a><span class="lineno">  191</span>        $ly = $y &amp; SubChunk::COORD_MASK;</div>
 <div class="line"><a id="l00192" name="l00192"></a><span class="lineno">  192</span>        $lz = $z &amp; SubChunk::COORD_MASK;</div>
 <div class="line"><a id="l00193" name="l00193"></a><span class="lineno">  193</span>        $current = $lightArray-&gt;get($lx, $ly, $lz);</div>
-<div class="line"><a id="l00194" name="l00194"></a><span class="lineno">  194</span>        $potentialLight = $newAdjacentLevel - ($this-&gt;lightFilters[$this-&gt;subChunkExplorer-&gt;currentSubChunk-&gt;getFullBlock($lx, $ly, $lz)] ?? self::BASE_LIGHT_FILTER);</div>
+<div class="line"><a id="l00194" name="l00194"></a><span class="lineno">  194</span>        $potentialLight = $newAdjacentLevel - ($this-&gt;lightFilters[$this-&gt;subChunkExplorer-&gt;currentSubChunk-&gt;getBlockStateId($lx, $ly, $lz)] ?? self::BASE_LIGHT_FILTER);</div>
 <div class="line"><a id="l00195" name="l00195"></a><span class="lineno">  195</span> </div>
 <div class="line"><a id="l00196" name="l00196"></a><span class="lineno">  196</span>        <span class="keywordflow">if</span>($current &lt; $potentialLight){</div>
 <div class="line"><a id="l00197" name="l00197"></a><span class="lineno">  197</span>            $lightArray-&gt;set($lx, $ly, $lz, $potentialLight);</div>

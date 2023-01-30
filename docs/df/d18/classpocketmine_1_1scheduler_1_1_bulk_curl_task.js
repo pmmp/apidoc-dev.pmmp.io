@@ -10,5 +10,6 @@ var classpocketmine_1_1scheduler_1_1_bulk_curl_task =
     [ "onRun", "df/d18/classpocketmine_1_1scheduler_1_1_bulk_curl_task.html#a1bdfa7593f206fd0642ca5f6c533de10", null ],
     [ "publishProgress", "df/d18/classpocketmine_1_1scheduler_1_1_bulk_curl_task.html#a1ec846ee57cc2aae1b5604d5bfcb9948", null ],
     [ "reallyDestruct", "df/d18/classpocketmine_1_1scheduler_1_1_bulk_curl_task.html#adad32212908878d6e70423161dbae0bf", null ],
-    [ "storeLocal", "df/d18/classpocketmine_1_1scheduler_1_1_bulk_curl_task.html#ad5e0edb131fe81a8b68e64c70ba06d2b", null ]
+    [ "storeLocal", "df/d18/classpocketmine_1_1scheduler_1_1_bulk_curl_task.html#ad5e0edb131fe81a8b68e64c70ba06d2b", null ],
+    [ "$progressUpdates", "df/d18/classpocketmine_1_1scheduler_1_1_bulk_curl_task.html#a918d7e9d83e5cd78feccc7e19081f526", null ]
 ];

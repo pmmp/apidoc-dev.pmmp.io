@@ -10,5 +10,6 @@ var classpocketmine_1_1network_1_1mcpe_1_1encryption_1_1_prepare_encryption_task
     [ "onRun", "d7/d18/classpocketmine_1_1network_1_1mcpe_1_1encryption_1_1_prepare_encryption_task.html#a951d33bc9b9ce99b2f969bf522a15ed7", null ],
     [ "publishProgress", "d7/d18/classpocketmine_1_1network_1_1mcpe_1_1encryption_1_1_prepare_encryption_task.html#a1ec846ee57cc2aae1b5604d5bfcb9948", null ],
     [ "reallyDestruct", "d7/d18/classpocketmine_1_1network_1_1mcpe_1_1encryption_1_1_prepare_encryption_task.html#adad32212908878d6e70423161dbae0bf", null ],
-    [ "storeLocal", "d7/d18/classpocketmine_1_1network_1_1mcpe_1_1encryption_1_1_prepare_encryption_task.html#ad5e0edb131fe81a8b68e64c70ba06d2b", null ]
+    [ "storeLocal", "d7/d18/classpocketmine_1_1network_1_1mcpe_1_1encryption_1_1_prepare_encryption_task.html#ad5e0edb131fe81a8b68e64c70ba06d2b", null ],
+    [ "$progressUpdates", "d7/d18/classpocketmine_1_1network_1_1mcpe_1_1encryption_1_1_prepare_encryption_task.html#a918d7e9d83e5cd78feccc7e19081f526", null ]
 ];

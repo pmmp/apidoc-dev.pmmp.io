@@ -86,6 +86,7 @@ var searchData=
   ['riverbiome_83',['RiverBiome',['../d5/d52/classpocketmine_1_1world_1_1biome_1_1_river_biome.html',1,'pocketmine::world::biome']]],
   ['rottenflesh_84',['RottenFlesh',['../dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html',1,'pocketmine::item']]],
   ['runtimeblockmapping_85',['RuntimeBlockMapping',['../d5/dfe/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_runtime_block_mapping.html',1,'pocketmine::network::mcpe::convert']]],
-  ['runtimedatareader_86',['RuntimeDataReader',['../de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html',1,'pocketmine::data::runtime']]],
-  ['runtimedatawriter_87',['RuntimeDataWriter',['../dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer.html',1,'pocketmine::data::runtime']]]
+  ['runtimeblockstateregistry_86',['RuntimeBlockStateRegistry',['../de/d2c/classpocketmine_1_1block_1_1_runtime_block_state_registry.html',1,'pocketmine::block']]],
+  ['runtimedatareader_87',['RuntimeDataReader',['../de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html',1,'pocketmine::data::runtime']]],
+  ['runtimedatawriter_88',['RuntimeDataWriter',['../dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer.html',1,'pocketmine::data::runtime']]]
 ];

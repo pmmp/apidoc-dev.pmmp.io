@@ -9,5 +9,6 @@ var classpocketmine_1_1scheduler_1_1_dump_worker_memory_task =
     [ "onRun", "d7/d53/classpocketmine_1_1scheduler_1_1_dump_worker_memory_task.html#a1467c898a88eeb9f798a7e8e531a83d3", null ],
     [ "publishProgress", "d7/d53/classpocketmine_1_1scheduler_1_1_dump_worker_memory_task.html#a1ec846ee57cc2aae1b5604d5bfcb9948", null ],
     [ "reallyDestruct", "d7/d53/classpocketmine_1_1scheduler_1_1_dump_worker_memory_task.html#adad32212908878d6e70423161dbae0bf", null ],
-    [ "storeLocal", "d7/d53/classpocketmine_1_1scheduler_1_1_dump_worker_memory_task.html#ad5e0edb131fe81a8b68e64c70ba06d2b", null ]
+    [ "storeLocal", "d7/d53/classpocketmine_1_1scheduler_1_1_dump_worker_memory_task.html#ad5e0edb131fe81a8b68e64c70ba06d2b", null ],
+    [ "$progressUpdates", "d7/d53/classpocketmine_1_1scheduler_1_1_dump_worker_memory_task.html#a918d7e9d83e5cd78feccc7e19081f526", null ]
 ];

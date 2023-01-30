@@ -110,11 +110,11 @@ var sectionId = 'dynsection-0';
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="51,-397.5 51,-454.5 113,-454.5 113,-397.5 51,-397.5"/>
-<text text-anchor="middle" x="82" y="-442.5" font-family="Helvetica,sans-Serif" font-size="10.00">Threaded</text>
-<polyline fill="none" stroke="#bfbfbf" points="51,-435.5 113,-435.5 "/>
+<polygon fill="white" stroke="#bfbfbf" points="28,-397.5 28,-454.5 136,-454.5 136,-397.5 28,-397.5"/>
+<text text-anchor="middle" x="82" y="-442.5" font-family="Helvetica,sans-Serif" font-size="10.00">ThreadedRunnable</text>
+<polyline fill="none" stroke="#bfbfbf" points="28,-435.5 136,-435.5 "/>
 <text text-anchor="middle" x="82" y="-423.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="51,-416.5 113,-416.5 "/>
+<polyline fill="none" stroke="#bfbfbf" points="28,-416.5 136,-416.5 "/>
 <text text-anchor="middle" x="82" y="-404.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 </a>
 </g>

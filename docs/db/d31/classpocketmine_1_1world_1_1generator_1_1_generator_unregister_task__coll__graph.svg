@@ -62,11 +62,11 @@
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="46,-375.5 46,-432.5 108,-432.5 108,-375.5 46,-375.5"/>
-<text text-anchor="middle" x="77" y="-420.5" font-family="Helvetica,sans-Serif" font-size="10.00">Threaded</text>
-<polyline fill="none" stroke="#bfbfbf" points="46,-413.5 108,-413.5 "/>
+<polygon fill="white" stroke="#bfbfbf" points="23,-375.5 23,-432.5 131,-432.5 131,-375.5 23,-375.5"/>
+<text text-anchor="middle" x="77" y="-420.5" font-family="Helvetica,sans-Serif" font-size="10.00">ThreadedRunnable</text>
+<polyline fill="none" stroke="#bfbfbf" points="23,-413.5 131,-413.5 "/>
 <text text-anchor="middle" x="77" y="-401.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="46,-394.5 108,-394.5 "/>
+<polyline fill="none" stroke="#bfbfbf" points="23,-394.5 131,-394.5 "/>
 <text text-anchor="middle" x="77" y="-382.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 </a>
 </g>

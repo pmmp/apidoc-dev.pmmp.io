@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA8 git-07a30ea1f9a4da89664c1b270edc37f89b1fc7b9</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA9 git-5226300b99d8fdd60f117f6d99b70038ce2d56ef</span>
    </div>
   </td>
  </tr>
@@ -114,8 +114,8 @@ $(document).ready(function(){initNavTree('d0/dcd/classpocketmine_1_1network_1_1m
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a0495bc2d9e3ea3b64e0645d24bced1ae"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dcd/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_snooze_aware_pthreads_channel_writer.html#a0495bc2d9e3ea3b64e0645d24bced1ae">__construct</a> (private \Threaded $buffer, private <a class="el" href="../../d2/d16/classpocketmine_1_1snooze_1_1_sleeper_notifier.html">SleeperNotifier</a> $notifier)</td></tr>
-<tr class="separator:a0495bc2d9e3ea3b64e0645d24bced1ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a62d5614c556dd879023f57af5abb27"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dcd/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_snooze_aware_pthreads_channel_writer.html#a5a62d5614c556dd879023f57af5abb27">__construct</a> (private \ThreadedArray $buffer, private <a class="el" href="../../d2/d16/classpocketmine_1_1snooze_1_1_sleeper_notifier.html">SleeperNotifier</a> $notifier)</td></tr>
+<tr class="separator:a5a62d5614c556dd879023f57af5abb27"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab57cd5e3989fa94111030566d768b1a5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dcd/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_snooze_aware_pthreads_channel_writer.html#ab57cd5e3989fa94111030566d768b1a5">write</a> (string $str)</td></tr>
 <tr class="separator:ab57cd5e3989fa94111030566d768b1a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -123,8 +123,8 @@ Public Member Functions</h2></td></tr>
 <div class="textblock">
 <p class="definition">Definition at line <a class="el" href="../../da/d40/_snooze_aware_pthreads_channel_writer_8php_source.html#l00029">29</a> of file <a class="el" href="../../da/d40/_snooze_aware_pthreads_channel_writer_8php_source.html">SnoozeAwarePthreadsChannelWriter.php</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a0495bc2d9e3ea3b64e0645d24bced1ae" name="a0495bc2d9e3ea3b64e0645d24bced1ae"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0495bc2d9e3ea3b64e0645d24bced1ae">&#9670;&nbsp;</a></span>__construct()</h2>
+<a id="a5a62d5614c556dd879023f57af5abb27" name="a5a62d5614c556dd879023f57af5abb27"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5a62d5614c556dd879023f57af5abb27">&#9670;&nbsp;</a></span>__construct()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -132,7 +132,7 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="memname">pocketmine\network\mcpe\raklib\SnoozeAwarePthreadsChannelWriter::__construct </td>
           <td>(</td>
-          <td class="paramtype">private \Threaded&#160;</td>
+          <td class="paramtype">private \ThreadedArray&#160;</td>
           <td class="paramname"><em>$buffer</em>, </td>
         </tr>
         <tr>
@@ -148,8 +148,9 @@ Public Member Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p >@phpstan-param \ThreadedArray&lt;int, string&gt; $buffer </p>
 
-<p class="definition">Definition at line <a class="el" href="../../da/d40/_snooze_aware_pthreads_channel_writer_8php_source.html#l00030">30</a> of file <a class="el" href="../../da/d40/_snooze_aware_pthreads_channel_writer_8php_source.html">SnoozeAwarePthreadsChannelWriter.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/d40/_snooze_aware_pthreads_channel_writer_8php_source.html#l00033">33</a> of file <a class="el" href="../../da/d40/_snooze_aware_pthreads_channel_writer_8php_source.html">SnoozeAwarePthreadsChannelWriter.php</a>.</p>
 
 </div>
 </div>
@@ -172,7 +173,7 @@ Public Member Functions</h2></td></tr>
 
 <p>Implements <a class="el" href="../../d6/de1/interfaceraklib_1_1server_1_1ipc_1_1_inter_thread_channel_writer.html">raklib\server\ipc\InterThreadChannelWriter</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../da/d40/_snooze_aware_pthreads_channel_writer_8php_source.html#l00035">35</a> of file <a class="el" href="../../da/d40/_snooze_aware_pthreads_channel_writer_8php_source.html">SnoozeAwarePthreadsChannelWriter.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/d40/_snooze_aware_pthreads_channel_writer_8php_source.html#l00038">38</a> of file <a class="el" href="../../da/d40/_snooze_aware_pthreads_channel_writer_8php_source.html">SnoozeAwarePthreadsChannelWriter.php</a>.</p>
 
 </div>
 </div>

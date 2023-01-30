@@ -1,5 +1,5 @@
 <map id="pocketmine\block\Block\getTypeId" name="pocketmine\block\Block\getTypeId">
-<area shape="rect" id="node1" title=" " alt="" coords="277,39,455,80"/>
-<area shape="rect" id="node2" href="$d9/d64/classpocketmine_1_1item_1_1_bucket.html#a26cc1a801d7b165013ef6fc67303a9b7" title=" " alt="" coords="27,5,207,47"/>
-<area shape="rect" id="node3" href="$d0/d6d/classpocketmine_1_1block_1_1_block_factory.html#a76eb27264f1ea77a080b1e7e04eeb4a0" title=" " alt="" coords="5,71,229,112"/>
+<area shape="rect" id="node1" title=" " alt="" coords="253,39,431,80"/>
+<area shape="rect" id="node2" href="$d9/d64/classpocketmine_1_1item_1_1_bucket.html#a26cc1a801d7b165013ef6fc67303a9b7" title=" " alt="" coords="15,5,195,47"/>
+<area shape="rect" id="node3" href="$de/d2c/classpocketmine_1_1block_1_1_runtime_block_state_registry.html#a9009fd4cb57f3716abeebae5b4dac967" title=" " alt="" coords="5,71,205,112"/>
 </map>

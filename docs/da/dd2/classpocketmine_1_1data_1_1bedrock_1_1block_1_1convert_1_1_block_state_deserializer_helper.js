@@ -11,6 +11,7 @@ var classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_deser
     [ "decodeFloorCoralFan", "da/dd2/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_deserializer_helper.html#ad8065144c93213463c44fde15f6db92c", null ],
     [ "decodeFloorSign", "da/dd2/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_deserializer_helper.html#a7a5b6ffe1cc03e6df09f3244a4b9da68", null ],
     [ "decodeGlazedTerracotta", "da/dd2/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_deserializer_helper.html#a0c66ca67dcf7a7159a7b177ea4677d26", null ],
+    [ "decodeLeaves", "da/dd2/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_deserializer_helper.html#a4eb119f90e5432d10efa52f4e24e07b1", null ],
     [ "decodeLiquid", "da/dd2/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_deserializer_helper.html#a369063eef17aa4d5bb5bb66f0c18a1cf", null ],
     [ "decodeLog", "da/dd2/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_deserializer_helper.html#a83e6cf108c417be2b09cbb80aea5b5e6", null ],
     [ "decodeMushroomBlock", "da/dd2/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_deserializer_helper.html#a1b9ba4581490639f47d4d0de01dcf2e2", null ],

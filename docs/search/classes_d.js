@@ -30,13 +30,14 @@ var searchData=
   ['networkstacklatencypacket_27',['NetworkStackLatencyPacket',['../d1/db9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_network_stack_latency_packet.html',1,'pocketmine::network::mcpe::protocol']]],
   ['newincomingconnection_28',['NewIncomingConnection',['../d6/db6/classraklib_1_1protocol_1_1_new_incoming_connection.html',1,'raklib::protocol']]],
   ['noise_29',['Noise',['../d2/dd0/classpocketmine_1_1world_1_1generator_1_1noise_1_1_noise.html',1,'pocketmine::world::generator::noise']]],
-  ['normal_30',['Normal',['../db/d66/classpocketmine_1_1world_1_1generator_1_1normal_1_1_normal.html',1,'pocketmine::world::generator::normal']]],
-  ['normalfurnace_31',['NormalFurnace',['../df/d73/classpocketmine_1_1block_1_1tile_1_1_normal_furnace.html',1,'pocketmine::block::tile']]],
-  ['normaltransactiondata_32',['NormalTransactionData',['../de/da9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_normal_transaction_data.html',1,'pocketmine::network::mcpe::protocol::types::inventory']]],
-  ['nosuchtagexception_33',['NoSuchTagException',['../da/df5/classpocketmine_1_1nbt_1_1_no_such_tag_exception.html',1,'pocketmine::nbt']]],
-  ['note_34',['Note',['../d3/df5/classpocketmine_1_1block_1_1_note.html',1,'pocketmine\block\Note'],['../d8/dab/classpocketmine_1_1block_1_1tile_1_1_note.html',1,'pocketmine\block\tile\Note']]],
-  ['noteinstrument_35',['NoteInstrument',['../d1/dab/classpocketmine_1_1world_1_1sound_1_1_note_instrument.html',1,'pocketmine::world::sound']]],
-  ['notesound_36',['NoteSound',['../d6/d38/classpocketmine_1_1world_1_1sound_1_1_note_sound.html',1,'pocketmine::world::sound']]],
-  ['npcdialoguepacket_37',['NpcDialoguePacket',['../d8/d30/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_npc_dialogue_packet.html',1,'pocketmine::network::mcpe::protocol']]],
-  ['npcrequestpacket_38',['NpcRequestPacket',['../dc/da8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_npc_request_packet.html',1,'pocketmine::network::mcpe::protocol']]]
+  ['nonthreadsafevalue_30',['NonThreadSafeValue',['../d4/d69/classpocketmine_1_1thread_1_1_non_thread_safe_value.html',1,'pocketmine::thread']]],
+  ['normal_31',['Normal',['../db/d66/classpocketmine_1_1world_1_1generator_1_1normal_1_1_normal.html',1,'pocketmine::world::generator::normal']]],
+  ['normalfurnace_32',['NormalFurnace',['../df/d73/classpocketmine_1_1block_1_1tile_1_1_normal_furnace.html',1,'pocketmine::block::tile']]],
+  ['normaltransactiondata_33',['NormalTransactionData',['../de/da9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_normal_transaction_data.html',1,'pocketmine::network::mcpe::protocol::types::inventory']]],
+  ['nosuchtagexception_34',['NoSuchTagException',['../da/df5/classpocketmine_1_1nbt_1_1_no_such_tag_exception.html',1,'pocketmine::nbt']]],
+  ['note_35',['Note',['../d3/df5/classpocketmine_1_1block_1_1_note.html',1,'pocketmine\block\Note'],['../d8/dab/classpocketmine_1_1block_1_1tile_1_1_note.html',1,'pocketmine\block\tile\Note']]],
+  ['noteinstrument_36',['NoteInstrument',['../d1/dab/classpocketmine_1_1world_1_1sound_1_1_note_instrument.html',1,'pocketmine::world::sound']]],
+  ['notesound_37',['NoteSound',['../d6/d38/classpocketmine_1_1world_1_1sound_1_1_note_sound.html',1,'pocketmine::world::sound']]],
+  ['npcdialoguepacket_38',['NpcDialoguePacket',['../d8/d30/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_npc_dialogue_packet.html',1,'pocketmine::network::mcpe::protocol']]],
+  ['npcrequestpacket_39',['NpcRequestPacket',['../dc/da8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_npc_request_packet.html',1,'pocketmine::network::mcpe::protocol']]]
 ];

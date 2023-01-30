@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA8 git-07a30ea1f9a4da89664c1b270edc37f89b1fc7b9</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA9 git-5226300b99d8fdd60f117f6d99b70038ce2d56ef</span>
    </div>
   </td>
  </tr>
@@ -132,6 +132,8 @@ Static Public Member Functions</h2></td></tr>
 <tr class="separator:a39b4f65a09f3849a01780bddc94bb11f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a93b4ad0741178fde85c09b55437cca24"><td class="memItemLeft" align="right" valign="top">static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d3a/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_serializer_helper.html#a93b4ad0741178fde85c09b55437cca24">encodeItemFrame</a> (<a class="el" href="../../d9/dc4/classpocketmine_1_1block_1_1_item_frame.html">ItemFrame</a> $block, string $id)</td></tr>
 <tr class="separator:a93b4ad0741178fde85c09b55437cca24"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a22853b95804a5bbef122682dd2a5c9e8"><td class="memItemLeft" align="right" valign="top">static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d3a/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_serializer_helper.html#a22853b95804a5bbef122682dd2a5c9e8">encodeLeaves</a> (<a class="el" href="../../d8/deb/classpocketmine_1_1block_1_1_leaves.html">Leaves</a> $block, <a class="el" href="../../da/dc5/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_writer.html">BlockStateWriter</a> $out)</td></tr>
+<tr class="separator:a22853b95804a5bbef122682dd2a5c9e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a20f5385d5ff3d00f4c29f9313f1e8e0c"><td class="memItemLeft" align="right" valign="top">static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d3a/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_serializer_helper.html#a20f5385d5ff3d00f4c29f9313f1e8e0c">encodeLeaves1</a> (<a class="el" href="../../d8/deb/classpocketmine_1_1block_1_1_leaves.html">Leaves</a> $block, string $type)</td></tr>
 <tr class="separator:a20f5385d5ff3d00f4c29f9313f1e8e0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4d59bbded33f09e9587022d7d990499e"><td class="memItemLeft" align="right" valign="top">static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d3a/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_serializer_helper.html#a4d59bbded33f09e9587022d7d990499e">encodeLeaves2</a> (<a class="el" href="../../d8/deb/classpocketmine_1_1block_1_1_leaves.html">Leaves</a> $block, string $type)</td></tr>
@@ -702,6 +704,44 @@ Static Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00143">143</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
+
+</div>
+</div>
+<a id="a22853b95804a5bbef122682dd2a5c9e8" name="a22853b95804a5bbef122682dd2a5c9e8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a22853b95804a5bbef122682dd2a5c9e8">&#9670;&nbsp;</a></span>encodeLeaves()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static pocketmine\data\bedrock\block\convert\BlockStateSerializerHelper::encodeLeaves </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/deb/classpocketmine_1_1block_1_1_leaves.html">Leaves</a>&#160;</td>
+          <td class="paramname"><em>$block</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../da/dc5/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_writer.html">BlockStateWriter</a>&#160;</td>
+          <td class="paramname"><em>$out</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html#l00150">150</a> of file <a class="el" href="../../dc/ddb/_block_state_serializer_helper_8php_source.html">BlockStateSerializerHelper.php</a>.</p>
 
 </div>
 </div>
