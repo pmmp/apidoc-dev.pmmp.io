@@ -39,10 +39,10 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="../../d2/da5/classpocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_item_id_meta_upgrade_schema_utils.html#a5dbcd086c0a225cecdfdb7c7e45b2283" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="../../d7/d2e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_utils.html#a3865aac65fe5d24f9ea6445115fd8fcc" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-60.5 0,-101.5 185,-101.5 185,-60.5 0,-60.5"/>
 <text text-anchor="start" x="8" y="-89.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\data\bedrock</text>
-<text text-anchor="start" x="8" y="-78.5" font-family="Helvetica,sans-Serif" font-size="10.00">\item\upgrade\ItemIdMetaUpgrade</text>
+<text text-anchor="start" x="8" y="-78.5" font-family="Helvetica,sans-Serif" font-size="10.00">\block\upgrade\BlockStateUpgrade</text>
 <text text-anchor="middle" x="92.5" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">SchemaUtils\loadSchemas</text>
 </a>
 </g>
@@ -56,10 +56,10 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="../../d7/d2e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_utils.html#a85854f903ba284786fef30b7984279b4" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="../../d2/da5/classpocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_item_id_meta_upgrade_schema_utils.html#ac64e1b8f8f956e9bb3e84a486057cfc9" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-0.5 0,-41.5 185,-41.5 185,-0.5 0,-0.5"/>
 <text text-anchor="start" x="8" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\data\bedrock</text>
-<text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">\block\upgrade\BlockStateUpgrade</text>
+<text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">\item\upgrade\ItemIdMetaUpgrade</text>
 <text text-anchor="middle" x="92.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">SchemaUtils\loadSchemas</text>
 </a>
 </g>

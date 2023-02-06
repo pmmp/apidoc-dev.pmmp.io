@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA9 git-5226300b99d8fdd60f117f6d99b70038ce2d56ef</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA9 git-433b0ca6ccaf415b0d2b012bad4d656dac38c621</span>
    </div>
   </td>
  </tr>
@@ -204,13 +204,13 @@ $(document).ready(function(){initNavTree('d2/d5b/_block_state_upgrade_schema_uti
 <div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span>        };</div>
 <div class="line"><a id="l00111" name="l00111"></a><span class="lineno">  111</span>    }</div>
 <div class="line"><a id="l00112" name="l00112"></a><span class="lineno">  112</span> </div>
-<div class="line"><a id="l00113" name="l00113"></a><span class="lineno">  113</span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> fromJsonModel(<a class="code hl_class" href="../../d3/d85/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model.html">BlockStateUpgradeSchemaModel</a> $model, <span class="keywordtype">int</span> $priority) : <a class="code hl_class" href="../../de/d35/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema.html">BlockStateUpgradeSchema</a>{</div>
+<div class="line"><a id="l00113" name="l00113"></a><span class="lineno">  113</span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> fromJsonModel(<a class="code hl_class" href="../../d3/d85/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model.html">BlockStateUpgradeSchemaModel</a> $model, <span class="keywordtype">int</span> $schemaId) : <a class="code hl_class" href="../../de/d35/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema.html">BlockStateUpgradeSchema</a>{</div>
 <div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span>        $result = <span class="keyword">new</span> <a class="code hl_class" href="../../de/d35/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema.html">BlockStateUpgradeSchema</a>(</div>
 <div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span>            $model-&gt;maxVersionMajor,</div>
 <div class="line"><a id="l00116" name="l00116"></a><span class="lineno">  116</span>            $model-&gt;maxVersionMinor,</div>
 <div class="line"><a id="l00117" name="l00117"></a><span class="lineno">  117</span>            $model-&gt;maxVersionPatch,</div>
 <div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span>            $model-&gt;maxVersionRevision,</div>
-<div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>            $priority</div>
+<div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>            $schemaId</div>
 <div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>        );</div>
 <div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>        $result-&gt;renamedIds = $model-&gt;renamedIds ?? [];</div>
 <div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>        $result-&gt;renamedProperties = $model-&gt;renamedProperties ?? [];</div>
@@ -343,7 +343,7 @@ $(document).ready(function(){initNavTree('d2/d5b/_block_state_upgrade_schema_uti
 <div class="line"><a id="l00249" name="l00249"></a><span class="lineno">  249</span>        <span class="keywordflow">return</span> $result;</div>
 <div class="line"><a id="l00250" name="l00250"></a><span class="lineno">  250</span>    }</div>
 <div class="line"><a id="l00251" name="l00251"></a><span class="lineno">  251</span> </div>
-<div class="line"><a id="l00257" name="l00257"></a><span class="lineno"><a class="line" href="../../d7/d2e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_utils.html#a85854f903ba284786fef30b7984279b4">  257</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d7/d2e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_utils.html#a85854f903ba284786fef30b7984279b4">loadSchemas</a>(<span class="keywordtype">string</span> $path, <span class="keywordtype">int</span> $currentVersion) : array{</div>
+<div class="line"><a id="l00257" name="l00257"></a><span class="lineno"><a class="line" href="../../d7/d2e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_utils.html#a3865aac65fe5d24f9ea6445115fd8fcc">  257</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d7/d2e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_utils.html#a3865aac65fe5d24f9ea6445115fd8fcc">loadSchemas</a>(<span class="keywordtype">string</span> $path, <span class="keywordtype">int</span> $maxSchemaId) : array{</div>
 <div class="line"><a id="l00258" name="l00258"></a><span class="lineno">  258</span>        $iterator = new \RegexIterator(</div>
 <div class="line"><a id="l00259" name="l00259"></a><span class="lineno">  259</span>            new \FilesystemIterator(</div>
 <div class="line"><a id="l00260" name="l00260"></a><span class="lineno">  260</span>                $path,</div>
@@ -358,55 +358,53 @@ $(document).ready(function(){initNavTree('d2/d5b/_block_state_upgrade_schema_uti
 <div class="line"><a id="l00269" name="l00269"></a><span class="lineno">  269</span> </div>
 <div class="line"><a id="l00271" name="l00271"></a><span class="lineno">  271</span>        <span class="keywordflow">foreach</span>($iterator as $matches){</div>
 <div class="line"><a id="l00272" name="l00272"></a><span class="lineno">  272</span>            $filename = $matches[0];</div>
-<div class="line"><a id="l00273" name="l00273"></a><span class="lineno">  273</span>            $priority = (int) $matches[1];</div>
+<div class="line"><a id="l00273" name="l00273"></a><span class="lineno">  273</span>            $schemaId = (int) $matches[1];</div>
 <div class="line"><a id="l00274" name="l00274"></a><span class="lineno">  274</span> </div>
-<div class="line"><a id="l00275" name="l00275"></a><span class="lineno">  275</span>            $fullPath = Path::join($path, $filename);</div>
-<div class="line"><a id="l00276" name="l00276"></a><span class="lineno">  276</span> </div>
-<div class="line"><a id="l00277" name="l00277"></a><span class="lineno">  277</span>            $raw = <a class="code hl_function" href="../../da/ddd/classpocketmine_1_1utils_1_1_filesystem.html#a4d10c13c08994d33c947f5174ec967b5">Filesystem::fileGetContents</a>($fullPath);</div>
+<div class="line"><a id="l00275" name="l00275"></a><span class="lineno">  275</span>            <span class="keywordflow">if</span>($schemaId &gt; $maxSchemaId){</div>
+<div class="line"><a id="l00276" name="l00276"></a><span class="lineno">  276</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><a id="l00277" name="l00277"></a><span class="lineno">  277</span>            }</div>
 <div class="line"><a id="l00278" name="l00278"></a><span class="lineno">  278</span> </div>
-<div class="line"><a id="l00279" name="l00279"></a><span class="lineno">  279</span>            <span class="keywordflow">try</span>{</div>
-<div class="line"><a id="l00280" name="l00280"></a><span class="lineno">  280</span>                $schema = self::loadSchemaFromString($raw, $priority);</div>
-<div class="line"><a id="l00281" name="l00281"></a><span class="lineno">  281</span>            }<span class="keywordflow">catch</span>(\RuntimeException $e){</div>
-<div class="line"><a id="l00282" name="l00282"></a><span class="lineno">  282</span>                <span class="keywordflow">throw</span> new \RuntimeException(<span class="stringliteral">&quot;Loading schema file $fullPath: &quot;</span> . $e-&gt;getMessage(), 0, $e);</div>
-<div class="line"><a id="l00283" name="l00283"></a><span class="lineno">  283</span>            }</div>
-<div class="line"><a id="l00284" name="l00284"></a><span class="lineno">  284</span> </div>
-<div class="line"><a id="l00285" name="l00285"></a><span class="lineno">  285</span>            <span class="keywordflow">if</span>($schema-&gt;getVersionId() &gt; $currentVersion){</div>
-<div class="line"><a id="l00286" name="l00286"></a><span class="lineno">  286</span>                <span class="comment">//this might be a beta schema which shouldn&#39;t be applicable</span></div>
-<div class="line"><a id="l00287" name="l00287"></a><span class="lineno">  287</span>                <span class="comment">//TODO: why do we load the whole schema just to throw it away if it&#39;s too new? ...</span></div>
-<div class="line"><a id="l00288" name="l00288"></a><span class="lineno">  288</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><a id="l00289" name="l00289"></a><span class="lineno">  289</span>            }</div>
-<div class="line"><a id="l00290" name="l00290"></a><span class="lineno">  290</span> </div>
-<div class="line"><a id="l00291" name="l00291"></a><span class="lineno">  291</span>            $result[$priority] = $schema;</div>
-<div class="line"><a id="l00292" name="l00292"></a><span class="lineno">  292</span>        }</div>
-<div class="line"><a id="l00293" name="l00293"></a><span class="lineno">  293</span> </div>
-<div class="line"><a id="l00294" name="l00294"></a><span class="lineno">  294</span>        ksort($result, SORT_NUMERIC);</div>
-<div class="line"><a id="l00295" name="l00295"></a><span class="lineno">  295</span>        <span class="keywordflow">return</span> $result;</div>
-<div class="line"><a id="l00296" name="l00296"></a><span class="lineno">  296</span>    }</div>
-<div class="line"><a id="l00297" name="l00297"></a><span class="lineno">  297</span> </div>
-<div class="line"><a id="l00298" name="l00298"></a><span class="lineno">  298</span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> loadSchemaFromString(<span class="keywordtype">string</span> $raw, <span class="keywordtype">int</span> $priority) : BlockStateUpgradeSchema{</div>
-<div class="line"><a id="l00299" name="l00299"></a><span class="lineno">  299</span>        try{</div>
-<div class="line"><a id="l00300" name="l00300"></a><span class="lineno">  300</span>            $json = json_decode($raw, false, flags: JSON_THROW_ON_ERROR);</div>
-<div class="line"><a id="l00301" name="l00301"></a><span class="lineno">  301</span>        }<span class="keywordflow">catch</span>(\JsonException $e){</div>
-<div class="line"><a id="l00302" name="l00302"></a><span class="lineno">  302</span>            <span class="keywordflow">throw</span> new \RuntimeException($e-&gt;getMessage(), 0, $e);</div>
-<div class="line"><a id="l00303" name="l00303"></a><span class="lineno">  303</span>        }</div>
-<div class="line"><a id="l00304" name="l00304"></a><span class="lineno">  304</span>        <span class="keywordflow">if</span>(!is_object($json)){</div>
-<div class="line"><a id="l00305" name="l00305"></a><span class="lineno">  305</span>            <span class="keywordflow">throw</span> new \RuntimeException(<span class="stringliteral">&quot;Unexpected root type of schema file &quot;</span> . gettype($json) . <span class="stringliteral">&quot;, expected object&quot;</span>);</div>
-<div class="line"><a id="l00306" name="l00306"></a><span class="lineno">  306</span>        }</div>
-<div class="line"><a id="l00307" name="l00307"></a><span class="lineno">  307</span> </div>
-<div class="line"><a id="l00308" name="l00308"></a><span class="lineno">  308</span>        $jsonMapper = new \JsonMapper();</div>
-<div class="line"><a id="l00309" name="l00309"></a><span class="lineno">  309</span>        <span class="keywordflow">try</span>{</div>
-<div class="line"><a id="l00310" name="l00310"></a><span class="lineno">  310</span>            $model = $jsonMapper-&gt;map($json, <span class="keyword">new</span> BlockStateUpgradeSchemaModel());</div>
-<div class="line"><a id="l00311" name="l00311"></a><span class="lineno">  311</span>        }<span class="keywordflow">catch</span>(\JsonMapper_Exception $e){</div>
-<div class="line"><a id="l00312" name="l00312"></a><span class="lineno">  312</span>            <span class="keywordflow">throw</span> new \RuntimeException($e-&gt;getMessage(), 0, $e);</div>
-<div class="line"><a id="l00313" name="l00313"></a><span class="lineno">  313</span>        }</div>
-<div class="line"><a id="l00314" name="l00314"></a><span class="lineno">  314</span> </div>
-<div class="line"><a id="l00315" name="l00315"></a><span class="lineno">  315</span>        <span class="keywordflow">return</span> self::fromJsonModel($model, $priority);</div>
-<div class="line"><a id="l00316" name="l00316"></a><span class="lineno">  316</span>    }</div>
-<div class="line"><a id="l00317" name="l00317"></a><span class="lineno">  317</span>}</div>
+<div class="line"><a id="l00279" name="l00279"></a><span class="lineno">  279</span>            $fullPath = Path::join($path, $filename);</div>
+<div class="line"><a id="l00280" name="l00280"></a><span class="lineno">  280</span> </div>
+<div class="line"><a id="l00281" name="l00281"></a><span class="lineno">  281</span>            $raw = <a class="code hl_function" href="../../da/ddd/classpocketmine_1_1utils_1_1_filesystem.html#a4d10c13c08994d33c947f5174ec967b5">Filesystem::fileGetContents</a>($fullPath);</div>
+<div class="line"><a id="l00282" name="l00282"></a><span class="lineno">  282</span> </div>
+<div class="line"><a id="l00283" name="l00283"></a><span class="lineno">  283</span>            <span class="keywordflow">try</span>{</div>
+<div class="line"><a id="l00284" name="l00284"></a><span class="lineno">  284</span>                $schema = self::loadSchemaFromString($raw, $schemaId);</div>
+<div class="line"><a id="l00285" name="l00285"></a><span class="lineno">  285</span>            }<span class="keywordflow">catch</span>(\RuntimeException $e){</div>
+<div class="line"><a id="l00286" name="l00286"></a><span class="lineno">  286</span>                <span class="keywordflow">throw</span> new \RuntimeException(<span class="stringliteral">&quot;Loading schema file $fullPath: &quot;</span> . $e-&gt;getMessage(), 0, $e);</div>
+<div class="line"><a id="l00287" name="l00287"></a><span class="lineno">  287</span>            }</div>
+<div class="line"><a id="l00288" name="l00288"></a><span class="lineno">  288</span> </div>
+<div class="line"><a id="l00289" name="l00289"></a><span class="lineno">  289</span>            $result[$schemaId] = $schema;</div>
+<div class="line"><a id="l00290" name="l00290"></a><span class="lineno">  290</span>        }</div>
+<div class="line"><a id="l00291" name="l00291"></a><span class="lineno">  291</span> </div>
+<div class="line"><a id="l00292" name="l00292"></a><span class="lineno">  292</span>        ksort($result, SORT_NUMERIC);</div>
+<div class="line"><a id="l00293" name="l00293"></a><span class="lineno">  293</span>        <span class="keywordflow">return</span> $result;</div>
+<div class="line"><a id="l00294" name="l00294"></a><span class="lineno">  294</span>    }</div>
+<div class="line"><a id="l00295" name="l00295"></a><span class="lineno">  295</span> </div>
+<div class="line"><a id="l00296" name="l00296"></a><span class="lineno">  296</span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> loadSchemaFromString(<span class="keywordtype">string</span> $raw, <span class="keywordtype">int</span> $schemaId) : BlockStateUpgradeSchema{</div>
+<div class="line"><a id="l00297" name="l00297"></a><span class="lineno">  297</span>        try{</div>
+<div class="line"><a id="l00298" name="l00298"></a><span class="lineno">  298</span>            $json = json_decode($raw, false, flags: JSON_THROW_ON_ERROR);</div>
+<div class="line"><a id="l00299" name="l00299"></a><span class="lineno">  299</span>        }<span class="keywordflow">catch</span>(\JsonException $e){</div>
+<div class="line"><a id="l00300" name="l00300"></a><span class="lineno">  300</span>            <span class="keywordflow">throw</span> new \RuntimeException($e-&gt;getMessage(), 0, $e);</div>
+<div class="line"><a id="l00301" name="l00301"></a><span class="lineno">  301</span>        }</div>
+<div class="line"><a id="l00302" name="l00302"></a><span class="lineno">  302</span>        <span class="keywordflow">if</span>(!is_object($json)){</div>
+<div class="line"><a id="l00303" name="l00303"></a><span class="lineno">  303</span>            <span class="keywordflow">throw</span> new \RuntimeException(<span class="stringliteral">&quot;Unexpected root type of schema file &quot;</span> . gettype($json) . <span class="stringliteral">&quot;, expected object&quot;</span>);</div>
+<div class="line"><a id="l00304" name="l00304"></a><span class="lineno">  304</span>        }</div>
+<div class="line"><a id="l00305" name="l00305"></a><span class="lineno">  305</span> </div>
+<div class="line"><a id="l00306" name="l00306"></a><span class="lineno">  306</span>        $jsonMapper = new \JsonMapper();</div>
+<div class="line"><a id="l00307" name="l00307"></a><span class="lineno">  307</span>        <span class="keywordflow">try</span>{</div>
+<div class="line"><a id="l00308" name="l00308"></a><span class="lineno">  308</span>            $model = $jsonMapper-&gt;map($json, <span class="keyword">new</span> BlockStateUpgradeSchemaModel());</div>
+<div class="line"><a id="l00309" name="l00309"></a><span class="lineno">  309</span>        }<span class="keywordflow">catch</span>(\JsonMapper_Exception $e){</div>
+<div class="line"><a id="l00310" name="l00310"></a><span class="lineno">  310</span>            <span class="keywordflow">throw</span> new \RuntimeException($e-&gt;getMessage(), 0, $e);</div>
+<div class="line"><a id="l00311" name="l00311"></a><span class="lineno">  311</span>        }</div>
+<div class="line"><a id="l00312" name="l00312"></a><span class="lineno">  312</span> </div>
+<div class="line"><a id="l00313" name="l00313"></a><span class="lineno">  313</span>        <span class="keywordflow">return</span> self::fromJsonModel($model, $schemaId);</div>
+<div class="line"><a id="l00314" name="l00314"></a><span class="lineno">  314</span>    }</div>
+<div class="line"><a id="l00315" name="l00315"></a><span class="lineno">  315</span>}</div>
 <div class="ttc" id="aclasspocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_block_remap_html"><div class="ttname"><a href="../../d7/d03/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_block_remap.html">pocketmine\data\bedrock\block\upgrade\BlockStateUpgradeSchemaBlockRemap</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/dee/_block_state_upgrade_schema_block_remap_8php_source.html#l00028">BlockStateUpgradeSchemaBlockRemap.php:28</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_html"><div class="ttname"><a href="../../de/d35/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema.html">pocketmine\data\bedrock\block\upgrade\BlockStateUpgradeSchema</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d8/de0/_block_state_upgrade_schema_8php_source.html#l00030">BlockStateUpgradeSchema.php:30</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_utils_html"><div class="ttname"><a href="../../d7/d2e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_utils.html">pocketmine\data\bedrock\block\upgrade\BlockStateUpgradeSchemaUtils</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d2/d5b/_block_state_upgrade_schema_utils_8php_source.html#l00051">BlockStateUpgradeSchemaUtils.php:51</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_utils_html_a85854f903ba284786fef30b7984279b4"><div class="ttname"><a href="../../d7/d2e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_utils.html#a85854f903ba284786fef30b7984279b4">pocketmine\data\bedrock\block\upgrade\BlockStateUpgradeSchemaUtils\loadSchemas</a></div><div class="ttdeci">static loadSchemas(string $path, int $currentVersion)</div><div class="ttdef"><b>Definition:</b> <a href="../../d2/d5b/_block_state_upgrade_schema_utils_8php_source.html#l00257">BlockStateUpgradeSchemaUtils.php:257</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_utils_html_a3865aac65fe5d24f9ea6445115fd8fcc"><div class="ttname"><a href="../../d7/d2e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_utils.html#a3865aac65fe5d24f9ea6445115fd8fcc">pocketmine\data\bedrock\block\upgrade\BlockStateUpgradeSchemaUtils\loadSchemas</a></div><div class="ttdeci">static loadSchemas(string $path, int $maxSchemaId)</div><div class="ttdef"><b>Definition:</b> <a href="../../d2/d5b/_block_state_upgrade_schema_utils_8php_source.html#l00257">BlockStateUpgradeSchemaUtils.php:257</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_value_remap_html"><div class="ttname"><a href="../../d9/dfe/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_value_remap.html">pocketmine\data\bedrock\block\upgrade\BlockStateUpgradeSchemaValueRemap</a></div><div class="ttdef"><b>Definition:</b> <a href="../../de/d14/_block_state_upgrade_schema_value_remap_8php_source.html#l00028">BlockStateUpgradeSchemaValueRemap.php:28</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_block_remap_html"><div class="ttname"><a href="../../d0/d9b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_block_remap.html">pocketmine\data\bedrock\block\upgrade\model\BlockStateUpgradeSchemaModelBlockRemap</a></div><div class="ttdef"><b>Definition:</b> <a href="../../de/d87/_block_state_upgrade_schema_model_block_remap_8php_source.html#l00026">BlockStateUpgradeSchemaModelBlockRemap.php:26</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_html"><div class="ttname"><a href="../../d3/d85/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model.html">pocketmine\data\bedrock\block\upgrade\model\BlockStateUpgradeSchemaModel</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d7b/_block_state_upgrade_schema_model_8php_source.html#l00032">BlockStateUpgradeSchemaModel.php:32</a></div></div>
