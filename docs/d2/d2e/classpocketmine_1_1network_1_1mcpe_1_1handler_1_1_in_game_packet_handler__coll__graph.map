@@ -1,5 +1,5 @@
 <map id="pocketmine\network\mcpe\handler\InGamePacketHandler" name="pocketmine\network\mcpe\handler\InGamePacketHandler">
-<area shape="rect" id="node1" title=" " alt="" coords="561,784,802,1096"/>
+<area shape="rect" id="node1" title=" " alt="" coords="561,784,802,1111"/>
 <area shape="rect" id="node2" href="$d5/d23/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_packet_handler.html" title=" " alt="" coords="103,519,315,611"/>
 <area shape="rect" id="node3" href="$d1/d7c/interfacepocketmine_1_1network_1_1mcpe_1_1protocol_1_1_packet_handler_interface.html" title=" " alt="" coords="5,27,221,281"/>
 <area shape="rect" id="node4" href="$db/d5b/classpocketmine_1_1inventory_1_1transaction_1_1_crafting_transaction.html" title=" " alt="" coords="435,475,663,655"/>
