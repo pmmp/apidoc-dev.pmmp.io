@@ -55,7 +55,7 @@ var searchData=
   ['food_52',['Food',['../dc/de1/classpocketmine_1_1item_1_1_food.html',1,'pocketmine::item']]],
   ['foodsource_53',['FoodSource',['../df/dfd/interfacepocketmine_1_1entity_1_1_food_source.html',1,'pocketmine::entity']]],
   ['foodsourceitem_54',['FoodSourceItem',['../de/d44/interfacepocketmine_1_1item_1_1_food_source_item.html',1,'pocketmine::item']]],
-  ['forciblydisconnect_55',['forciblyDisconnect',['../d6/d53/classraklib_1_1server_1_1_session.html#af75a5496b232e0281c7bd33c435b702d',1,'raklib::server::Session']]],
+  ['forciblydisconnect_55',['forciblyDisconnect',['../dd/dca/classraklib_1_1generic_1_1_session.html#aaafee10e90e9e793b322c8506181a07f',1,'raklib::generic::Session']]],
   ['forestbiome_56',['ForestBiome',['../de/df1/classpocketmine_1_1world_1_1biome_1_1_forest_biome.html',1,'pocketmine::world::biome']]],
   ['form_57',['Form',['../d5/d7b/interfacepocketmine_1_1form_1_1_form.html',1,'pocketmine::form']]],
   ['format_58',['format',['../d0/db6/interfacepocketmine_1_1player_1_1chat_1_1_chat_formatter.html#a3c80c76273e94d510cf038ab3b80f8b8',1,'pocketmine\player\chat\ChatFormatter\format()'],['../d4/d87/classpocketmine_1_1player_1_1chat_1_1_legacy_raw_chat_formatter.html#a6885c24e1f0450c63a76bae496beb28c',1,'pocketmine\player\chat\LegacyRawChatFormatter\format()'],['../d6/d17/classpocketmine_1_1player_1_1chat_1_1_standard_chat_formatter.html#ad713a1ee09d3f9c58a4012c467631f73',1,'pocketmine\player\chat\StandardChatFormatter\format()']]],

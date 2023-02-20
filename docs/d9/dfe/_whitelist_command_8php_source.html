@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA9 git-074e7586cb05cb6637a6bbec8cf6b4945db0b6a1</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA9 git-42df1a5c704e870fc3a8377119496b5a6af505df</span>
    </div>
   </td>
  </tr>
@@ -138,14 +138,14 @@ $(document).ready(function(){initNavTree('d9/dfe/_whitelist_command_8php_source.
 <div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>            KnownTranslationFactory::pocketmine_command_whitelist_description(),</div>
 <div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>            KnownTranslationFactory::commands_whitelist_usage()</div>
 <div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>        );</div>
-<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>        $this-&gt;setPermission(implode(<span class="stringliteral">&quot;;&quot;</span>, [</div>
+<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>        $this-&gt;<a class="code hl_function" href="../../d6/df1/classpocketmine_1_1command_1_1_command.html#a8c40c93db847fcf02c3e7b19a729dd10">setPermissions</a>([</div>
 <div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>            DefaultPermissionNames::COMMAND_WHITELIST_RELOAD,</div>
 <div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>            DefaultPermissionNames::COMMAND_WHITELIST_ENABLE,</div>
 <div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>            DefaultPermissionNames::COMMAND_WHITELIST_DISABLE,</div>
 <div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>            DefaultPermissionNames::COMMAND_WHITELIST_LIST,</div>
 <div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>            DefaultPermissionNames::COMMAND_WHITELIST_ADD,</div>
 <div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>            DefaultPermissionNames::COMMAND_WHITELIST_REMOVE</div>
-<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>        ]));</div>
+<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>        ]);</div>
 <div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>    }</div>
 <div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span> </div>
 <div class="line"><a id="l00057" name="l00057"></a><span class="lineno"><a class="line" href="../../d5/d43/classpocketmine_1_1command_1_1defaults_1_1_whitelist_command.html#ab654d2ef3736086f68c939a2e57e7f41">   57</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d5/d43/classpocketmine_1_1command_1_1defaults_1_1_whitelist_command.html#ab654d2ef3736086f68c939a2e57e7f41">execute</a>(<a class="code hl_interface" href="../../d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html">CommandSender</a> $sender, <span class="keywordtype">string</span> $commandLabel, array $args){</div>
@@ -239,7 +239,8 @@ $(document).ready(function(){initNavTree('d9/dfe/_whitelist_command_8php_source.
 <div class="line"><a id="l00145" name="l00145"></a><span class="lineno">  145</span>}</div>
 <div class="ttc" id="aclasspocketmine_1_1_server_html"><div class="ttname"><a href="../../d5/df7/classpocketmine_1_1_server.html">pocketmine\Server</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d05/src_2_server_8php_source.html#l00172">src/Server.php:172</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1_server_html_ab173ee59d49782e9a9fd13a1cdc39cbf"><div class="ttname"><a href="../../d5/df7/classpocketmine_1_1_server.html#ab173ee59d49782e9a9fd13a1cdc39cbf">pocketmine\Server\getOnlinePlayers</a></div><div class="ttdeci">getOnlinePlayers()</div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d05/src_2_server_8php_source.html#l00486">src/Server.php:486</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1command_1_1_command_html"><div class="ttname"><a href="../../d6/df1/classpocketmine_1_1command_1_1_command.html">pocketmine\command\Command</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d1d/_command_8php_source.html#l00039">Command.php:39</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1command_1_1_command_html"><div class="ttname"><a href="../../d6/df1/classpocketmine_1_1command_1_1_command.html">pocketmine\command\Command</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d1d/_command_8php_source.html#l00040">Command.php:40</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1command_1_1_command_html_a8c40c93db847fcf02c3e7b19a729dd10"><div class="ttname"><a href="../../d6/df1/classpocketmine_1_1command_1_1_command.html#a8c40c93db847fcf02c3e7b19a729dd10">pocketmine\command\Command\setPermissions</a></div><div class="ttdeci">setPermissions(array $permissions)</div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d1d/_command_8php_source.html#l00096">Command.php:96</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1command_1_1defaults_1_1_vanilla_command_html"><div class="ttname"><a href="../../d5/dfa/classpocketmine_1_1command_1_1defaults_1_1_vanilla_command.html">pocketmine\command\defaults\VanillaCommand</a></div><div class="ttdef"><b>Definition:</b> <a href="../../df/d10/_vanilla_command_8php_source.html#l00035">VanillaCommand.php:35</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1command_1_1defaults_1_1_whitelist_command_html"><div class="ttname"><a href="../../d5/d43/classpocketmine_1_1command_1_1defaults_1_1_whitelist_command.html">pocketmine\command\defaults\WhitelistCommand</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/dfe/_whitelist_command_8php_source.html#l00039">WhitelistCommand.php:39</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1command_1_1defaults_1_1_whitelist_command_html_ab654d2ef3736086f68c939a2e57e7f41"><div class="ttname"><a href="../../d5/d43/classpocketmine_1_1command_1_1defaults_1_1_whitelist_command.html#ab654d2ef3736086f68c939a2e57e7f41">pocketmine\command\defaults\WhitelistCommand\execute</a></div><div class="ttdeci">execute(CommandSender $sender, string $commandLabel, array $args)</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/dfe/_whitelist_command_8php_source.html#l00057">WhitelistCommand.php:57</a></div></div>

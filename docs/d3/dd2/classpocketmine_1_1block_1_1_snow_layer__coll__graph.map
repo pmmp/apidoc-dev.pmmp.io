@@ -1,5 +1,5 @@
 <map id="pocketmine\block\SnowLayer" name="pocketmine\block\SnowLayer">
-<area shape="rect" id="node1" title=" " alt="" coords="69,2295,296,2519"/>
+<area shape="rect" id="node1" title=" " alt="" coords="69,2295,296,2504"/>
 <area shape="rect" id="node2" href="$d3/d1e/classpocketmine_1_1block_1_1_flowable.html" title=" " alt="" coords="75,2124,290,2245"/>
 <area shape="rect" id="node3" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="103,1997,320,2075"/>
 <area shape="rect" id="node4" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="162,1651,376,1948"/>

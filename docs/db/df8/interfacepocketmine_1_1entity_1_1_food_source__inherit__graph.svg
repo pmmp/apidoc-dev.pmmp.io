@@ -141,26 +141,25 @@ var sectionId = 'dynsection-0';
 <g id="node4" class="node">
 <title>Node4</title>
 <g id="a_node4"><a xlink:href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="604,-298.5 604,-432.5 766,-432.5 766,-298.5 604,-298.5"/>
-<text text-anchor="middle" x="685" y="-420.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Cake</text>
-<polyline fill="none" stroke="#bfbfbf" points="604,-413.5 766,-413.5 "/>
-<text text-anchor="start" x="612" y="-401.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_BITES</text>
-<text text-anchor="start" x="612" y="-390.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $bites</text>
-<polyline fill="none" stroke="#bfbfbf" points="604,-383.5 766,-383.5 "/>
-<text text-anchor="start" x="612" y="-371.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBites()</text>
-<text text-anchor="start" x="612" y="-360.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
-<text text-anchor="start" x="612" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
-<text text-anchor="start" x="612" y="-338.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
-<text text-anchor="start" x="612" y="-327.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setBites()</text>
-<text text-anchor="start" x="612" y="-316.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
-<text text-anchor="start" x="612" y="-305.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
+<polygon fill="white" stroke="#bfbfbf" points="604.5,-304 604.5,-427 765.5,-427 765.5,-304 604.5,-304"/>
+<text text-anchor="middle" x="685" y="-415" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Cake</text>
+<polyline fill="none" stroke="#bfbfbf" points="604.5,-408 765.5,-408 "/>
+<text text-anchor="start" x="612.5" y="-396" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_BITES</text>
+<text text-anchor="start" x="612.5" y="-385" font-family="Helvetica,sans-Serif" font-size="10.00"># $bites</text>
+<polyline fill="none" stroke="#bfbfbf" points="604.5,-378 765.5,-378 "/>
+<text text-anchor="start" x="612.5" y="-366" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBites()</text>
+<text text-anchor="start" x="612.5" y="-355" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
+<text text-anchor="start" x="612.5" y="-344" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
+<text text-anchor="start" x="612.5" y="-333" font-family="Helvetica,sans-Serif" font-size="10.00">+ setBites()</text>
+<text text-anchor="start" x="612.5" y="-322" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="612.5" y="-311" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node4 -->
 <g id="edge3" class="edge">
 <title>Node3&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M784.43,-463.77C773.79,-453.36 763.02,-442.82 752.68,-432.71"/>
+<path fill="none" stroke="midnightblue" d="M784.37,-463.71C771.77,-451.38 758.98,-438.87 746.95,-427.11"/>
 <polygon fill="none" stroke="midnightblue" points="782.17,-466.46 791.77,-470.95 787.07,-461.45 782.17,-466.46"/>
 </g>
 <!-- Node5 -->
@@ -207,8 +206,8 @@ var sectionId = 'dynsection-0';
 <!-- Node5&#45;&gt;Node6 -->
 <g id="edge5" class="edge">
 <title>Node5&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M774.12,-298.3C630,-255.53 284.12,-313.9 161,-262 140.76,-253.47 122.22,-237.96 107.65,-223.04"/>
-<polygon fill="none" stroke="midnightblue" points="773.14,-301.67 783.73,-301.42 775.3,-295.01 773.14,-301.67"/>
+<path fill="none" stroke="midnightblue" d="M774.62,-298.22C774.42,-298.15 774.21,-298.07 774,-298 645.11,-253.18 286.74,-315.01 161,-262 140.76,-253.47 122.22,-237.96 107.65,-223.04"/>
+<polygon fill="none" stroke="midnightblue" points="773.35,-301.48 783.94,-301.9 775.92,-294.97 773.35,-301.48"/>
 </g>
 <!-- Node8 -->
 <g id="node8" class="node">

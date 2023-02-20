@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA9 git-074e7586cb05cb6637a6bbec8cf6b4945db0b6a1</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA9 git-42df1a5c704e870fc3a8377119496b5a6af505df</span>
    </div>
   </td>
  </tr>
@@ -141,10 +141,10 @@ $(document).ready(function(){initNavTree('d7/d68/_give_command_8php_source.html'
 <div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>            KnownTranslationFactory::pocketmine_command_give_description(),</div>
 <div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>            KnownTranslationFactory::pocketmine_command_give_usage()</div>
 <div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>        );</div>
-<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>        $this-&gt;setPermission(implode(<span class="stringliteral">&quot;;&quot;</span>, [</div>
+<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>        $this-&gt;<a class="code hl_function" href="../../d6/df1/classpocketmine_1_1command_1_1_command.html#a8c40c93db847fcf02c3e7b19a729dd10">setPermissions</a>([</div>
 <div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>            DefaultPermissionNames::COMMAND_GIVE_SELF,</div>
 <div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>            DefaultPermissionNames::COMMAND_GIVE_OTHER</div>
-<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>        ]));</div>
+<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>        ]);</div>
 <div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>    }</div>
 <div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span> </div>
 <div class="line"><a id="l00056" name="l00056"></a><span class="lineno"><a class="line" href="../../d8/d3e/classpocketmine_1_1command_1_1defaults_1_1_give_command.html#a442c5a280d0cfedad191b5ea8653b99a">   56</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d8/d3e/classpocketmine_1_1command_1_1defaults_1_1_give_command.html#a442c5a280d0cfedad191b5ea8653b99a">execute</a>(<a class="code hl_interface" href="../../d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html">CommandSender</a> $sender, <span class="keywordtype">string</span> $commandLabel, array $args){</div>
@@ -202,7 +202,8 @@ $(document).ready(function(){initNavTree('d7/d68/_give_command_8php_source.html'
 <div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span>    }</div>
 <div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span>}</div>
-<div class="ttc" id="aclasspocketmine_1_1command_1_1_command_html"><div class="ttname"><a href="../../d6/df1/classpocketmine_1_1command_1_1_command.html">pocketmine\command\Command</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d1d/_command_8php_source.html#l00039">Command.php:39</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1command_1_1_command_html"><div class="ttname"><a href="../../d6/df1/classpocketmine_1_1command_1_1_command.html">pocketmine\command\Command</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d1d/_command_8php_source.html#l00040">Command.php:40</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1command_1_1_command_html_a8c40c93db847fcf02c3e7b19a729dd10"><div class="ttname"><a href="../../d6/df1/classpocketmine_1_1command_1_1_command.html#a8c40c93db847fcf02c3e7b19a729dd10">pocketmine\command\Command\setPermissions</a></div><div class="ttdeci">setPermissions(array $permissions)</div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d1d/_command_8php_source.html#l00096">Command.php:96</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1command_1_1defaults_1_1_give_command_html"><div class="ttname"><a href="../../d8/d3e/classpocketmine_1_1command_1_1defaults_1_1_give_command.html">pocketmine\command\defaults\GiveCommand</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d7/d68/_give_command_8php_source.html#l00042">GiveCommand.php:42</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1command_1_1defaults_1_1_give_command_html_a442c5a280d0cfedad191b5ea8653b99a"><div class="ttname"><a href="../../d8/d3e/classpocketmine_1_1command_1_1defaults_1_1_give_command.html#a442c5a280d0cfedad191b5ea8653b99a">pocketmine\command\defaults\GiveCommand\execute</a></div><div class="ttdeci">execute(CommandSender $sender, string $commandLabel, array $args)</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/d68/_give_command_8php_source.html#l00056">GiveCommand.php:56</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1command_1_1defaults_1_1_vanilla_command_html"><div class="ttname"><a href="../../d5/dfa/classpocketmine_1_1command_1_1defaults_1_1_vanilla_command.html">pocketmine\command\defaults\VanillaCommand</a></div><div class="ttdef"><b>Definition:</b> <a href="../../df/d10/_vanilla_command_8php_source.html#l00035">VanillaCommand.php:35</a></div></div>

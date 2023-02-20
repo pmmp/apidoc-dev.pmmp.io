@@ -59,25 +59,25 @@ var sectionId = 'dynsection-1';
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="245.3,-0.5 245.3,-200.5 407.3,-200.5 407.3,-0.5 245.3,-0.5"/>
+<polygon fill="#bfbfbf" stroke="black" points="245.8,-0.5 245.8,-200.5 406.8,-200.5 406.8,-0.5 245.8,-0.5"/>
 <text text-anchor="middle" x="326.3" y="-188.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Bed</text>
-<polyline fill="none" stroke="black" points="245.3,-181.5 407.3,-181.5 "/>
-<text text-anchor="start" x="253.3" y="-169.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $head</text>
-<text text-anchor="start" x="253.3" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $occupied</text>
-<polyline fill="none" stroke="black" points="245.3,-151.5 407.3,-151.5 "/>
-<text text-anchor="start" x="253.3" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="253.3" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAffectedBlocks()</text>
-<text text-anchor="start" x="253.3" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDrops()</text>
-<text text-anchor="start" x="253.3" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
-<text text-anchor="start" x="253.3" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOtherHalf()</text>
-<text text-anchor="start" x="253.3" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
-<text text-anchor="start" x="253.3" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSupportType()</text>
-<text text-anchor="start" x="253.3" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isHeadPart()</text>
-<text text-anchor="start" x="253.3" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isOccupied()</text>
-<text text-anchor="start" x="253.3" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onEntityLand()</text>
-<text text-anchor="start" x="253.3" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 7 more...</text>
-<text text-anchor="start" x="253.3" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
-<text text-anchor="start" x="253.3" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
+<polyline fill="none" stroke="black" points="245.8,-181.5 406.8,-181.5 "/>
+<text text-anchor="start" x="253.8" y="-169.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $head</text>
+<text text-anchor="start" x="253.8" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $occupied</text>
+<polyline fill="none" stroke="black" points="245.8,-151.5 406.8,-151.5 "/>
+<text text-anchor="start" x="253.8" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="253.8" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAffectedBlocks()</text>
+<text text-anchor="start" x="253.8" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDrops()</text>
+<text text-anchor="start" x="253.8" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
+<text text-anchor="start" x="253.8" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOtherHalf()</text>
+<text text-anchor="start" x="253.8" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSupportType()</text>
+<text text-anchor="start" x="253.8" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isHeadPart()</text>
+<text text-anchor="start" x="253.8" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isOccupied()</text>
+<text text-anchor="start" x="253.8" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onEntityLand()</text>
+<text text-anchor="start" x="253.8" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
+<text text-anchor="start" x="253.8" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 6 more...</text>
+<text text-anchor="start" x="253.8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="253.8" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
 </g>

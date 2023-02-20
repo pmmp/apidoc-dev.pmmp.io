@@ -17,7 +17,7 @@ var searchData=
   ['fixtextblob_14',['fixTextBlob',['../d7/d0d/classpocketmine_1_1block_1_1tile_1_1_sign.html#ae97f2521db72a18e20c0b9565068d0d2',1,'pocketmine::block::tile::Sign']]],
   ['flagfordespawn_15',['flagForDespawn',['../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#ab3c11dd444626eb5ef1d2ab666ce5def',1,'pocketmine::entity::Entity']]],
   ['floorfloat_16',['floorFloat',['../d4/db7/classpocketmine_1_1math_1_1_math.html#a681b7195818601f6aa56c103fd0dfeb9',1,'pocketmine::math::Math']]],
-  ['forciblydisconnect_17',['forciblyDisconnect',['../d6/d53/classraklib_1_1server_1_1_session.html#af75a5496b232e0281c7bd33c435b702d',1,'raklib::server::Session']]],
+  ['forciblydisconnect_17',['forciblyDisconnect',['../dd/dca/classraklib_1_1generic_1_1_session.html#aaafee10e90e9e793b322c8506181a07f',1,'raklib::generic::Session']]],
   ['format_18',['format',['../d0/db6/interfacepocketmine_1_1player_1_1chat_1_1_chat_formatter.html#a3c80c76273e94d510cf038ab3b80f8b8',1,'pocketmine\player\chat\ChatFormatter\format()'],['../d6/d17/classpocketmine_1_1player_1_1chat_1_1_standard_chat_formatter.html#ad713a1ee09d3f9c58a4012c467631f73',1,'pocketmine\player\chat\StandardChatFormatter\format()'],['../d4/d87/classpocketmine_1_1player_1_1chat_1_1_legacy_raw_chat_formatter.html#a6885c24e1f0450c63a76bae496beb28c',1,'pocketmine\player\chat\LegacyRawChatFormatter\format()']]],
   ['fromargb_19',['fromARGB',['../dd/d00/classpocketmine_1_1color_1_1_color.html#a4ba4b7a49fefbcf0e5301b839e5d02e5',1,'pocketmine::color::Color']]],
   ['fromarray_20',['fromArray',['../de/ddf/classpocketmine_1_1plugin_1_1_plugin_graylist.html#a44c8d93105f20d44f292832a15001c92',1,'pocketmine::plugin::PluginGraylist']]],

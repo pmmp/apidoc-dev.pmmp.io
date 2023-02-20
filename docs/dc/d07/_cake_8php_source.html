@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA9 git-074e7586cb05cb6637a6bbec8cf6b4945db0b6a1</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA9 git-42df1a5c704e870fc3a8377119496b5a6af505df</span>
    </div>
   </td>
  </tr>
@@ -117,83 +117,78 @@ $(document).ready(function(){initNavTree('dc/d07/_cake_8php_source.html','../../
 <div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span> </div>
 <div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span><span class="keyword">namespace </span><a class="code hl_namespace" href="../../d0/dc3/namespacepocketmine_1_1block.html">pocketmine\block</a>;</div>
 <div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span> </div>
-<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>use <a class="code hl_class" href="../../de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html">pocketmine\data\runtime\RuntimeDataReader</a>;</div>
-<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>use <a class="code hl_class" href="../../dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer.html">pocketmine\data\runtime\RuntimeDataWriter</a>;</div>
-<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>use <a class="code hl_class" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">pocketmine\item\Item</a>;</div>
-<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>use <a class="code hl_class" href="../../dd/d08/classpocketmine_1_1item_1_1_item_block.html">pocketmine\item\ItemBlock</a>;</div>
-<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>use <a class="code hl_class" href="../../dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html">pocketmine\math\AxisAlignedBB</a>;</div>
-<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>use <a class="code hl_class" href="../../dd/d25/classpocketmine_1_1math_1_1_facing.html">pocketmine\math\Facing</a>;</div>
-<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>use <a class="code hl_class" href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">pocketmine\math\Vector3</a>;</div>
-<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>use <a class="code hl_class" href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html">pocketmine\player\Player</a>;</div>
-<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span> </div>
-<div class="line"><a id="l00035" name="l00035"></a><span class="lineno"><a class="line" href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html">   35</a></span><span class="keyword">class </span><a class="code hl_class" href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html">Cake</a> <span class="keyword">extends</span> <a class="code hl_class" href="../../d6/dc5/classpocketmine_1_1block_1_1_base_cake.html">BaseCake</a>{</div>
-<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>    <span class="keyword">public</span> <span class="keyword">const</span> MAX_BITES = 6;</div>
-<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span> </div>
-<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>    <span class="keyword">protected</span> <span class="keywordtype">int</span> $bites = 0;</div>
-<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span> </div>
-<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>    <span class="keyword">public</span> <span class="keyword">function</span> getRequiredStateDataBits() : <span class="keywordtype">int</span>{ <span class="keywordflow">return</span> 3; }</div>
-<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span> </div>
-<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>    <span class="keyword">protected</span> <span class="keyword">function</span> describeState(<a class="code hl_class" href="../../de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html">RuntimeDataReader</a>|<a class="code hl_class" href="../../dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer.html">RuntimeDataWriter</a> $w) : <span class="keywordtype">void</span>{</div>
-<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>        $w-&gt;boundedInt(3, 0, self::MAX_BITES, $this-&gt;bites);</div>
-<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>    }</div>
-<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span> </div>
-<div class="line"><a id="l00049" name="l00049"></a><span class="lineno"><a class="line" href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html#a1319df762befc499ed0a6841c5b4fb7f">   49</a></span>    <span class="keyword">protected</span> <span class="keyword">function</span> <a class="code hl_function" href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html#a1319df762befc499ed0a6841c5b4fb7f">recalculateCollisionBoxes</a>() : array{</div>
-<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>        return [</div>
-<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>            <a class="code hl_class" href="../../dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html">AxisAlignedBB</a>::one()</div>
-<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>                -&gt;contract(1 / 16, 0, 1 / 16)</div>
-<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>                -&gt;trim(<a class="code hl_class" href="../../dd/d25/classpocketmine_1_1math_1_1_facing.html">Facing</a>::UP, 0.5)</div>
-<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>                -&gt;trim(<a class="code hl_class" href="../../dd/d25/classpocketmine_1_1math_1_1_facing.html">Facing</a>::WEST, $this-&gt;bites / 8)</div>
-<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>        ];</div>
-<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>    }</div>
-<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span> </div>
-<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>    <span class="keyword">public</span> <span class="keyword">function</span> getBites() : int{ return $this-&gt;bites; }</div>
-<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span> </div>
-<div class="line"><a id="l00061" name="l00061"></a><span class="lineno"><a class="line" href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html#a2f80e74304601f83ec5f61907f263b9a">   61</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html#a2f80e74304601f83ec5f61907f263b9a">setBites</a>(<span class="keywordtype">int</span> $bites) : self{</div>
-<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>        if($bites &lt; 0 || $bites &gt; self::MAX_BITES){</div>
-<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>            <span class="keywordflow">throw</span> new \InvalidArgumentException(<span class="stringliteral">&quot;Bites must be in range 0 ... &quot;</span> . self::MAX_BITES);</div>
-<div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>        }</div>
-<div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>        $this-&gt;bites = $bites;</div>
-<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>        <span class="keywordflow">return</span> $this;</div>
-<div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>    }</div>
-<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span> </div>
-<div class="line"><a id="l00069" name="l00069"></a><span class="lineno"><a class="line" href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html#a45815ac91b49c1d30b1ea40fabdd3ce9">   69</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html#a45815ac91b49c1d30b1ea40fabdd3ce9">onInteract</a>(<a class="code hl_class" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">Item</a> $item, <span class="keywordtype">int</span> $face, <a class="code hl_class" href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">Vector3</a> $clickVector, ?<a class="code hl_class" href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html">Player</a> $player = <span class="keyword">null</span>, array &amp;$returnedItems = []) : bool{</div>
-<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>        if($item instanceof <a class="code hl_class" href="../../dd/d08/classpocketmine_1_1item_1_1_item_block.html">ItemBlock</a>){</div>
-<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>            $block = $item-&gt;<a class="code hl_function" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html#a113df9761f1a285d72fae0d9da6b21d6">getBlock</a>();</div>
-<div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>            $resultBlock = <span class="keyword">null</span>;</div>
-<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>            <span class="keywordflow">if</span>($block-&gt;getTypeId() === BlockTypeIds::CANDLE){</div>
-<div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>                $resultBlock = VanillaBlocks::CAKE_WITH_CANDLE();</div>
-<div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span>            }elseif($block instanceof <a class="code hl_class" href="../../dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html">DyedCandle</a>){</div>
-<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>                $resultBlock = VanillaBlocks::CAKE_WITH_DYED_CANDLE()-&gt;setColor($block-&gt;getColor());</div>
-<div class="line"><a id="l00077" name="l00077"></a><span class="lineno">   77</span>            }</div>
-<div class="line"><a id="l00078" name="l00078"></a><span class="lineno">   78</span> </div>
-<div class="line"><a id="l00079" name="l00079"></a><span class="lineno">   79</span>            <span class="keywordflow">if</span>($resultBlock !== <span class="keyword">null</span>){</div>
-<div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span>                $this-&gt;position-&gt;getWorld()-&gt;setBlock($this-&gt;position, $resultBlock);</div>
-<div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span>                $item-&gt;<a class="code hl_function" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html#a67b44433c553602d7c851b1ca23e6e5e">pop</a>();</div>
-<div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>            }</div>
-<div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span>        }</div>
+<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>use <a class="code hl_interface" href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html">pocketmine\data\runtime\RuntimeDataDescriber</a>;</div>
+<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>use <a class="code hl_class" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">pocketmine\item\Item</a>;</div>
+<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>use <a class="code hl_class" href="../../dd/d08/classpocketmine_1_1item_1_1_item_block.html">pocketmine\item\ItemBlock</a>;</div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>use <a class="code hl_class" href="../../dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html">pocketmine\math\AxisAlignedBB</a>;</div>
+<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>use <a class="code hl_class" href="../../dd/d25/classpocketmine_1_1math_1_1_facing.html">pocketmine\math\Facing</a>;</div>
+<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>use <a class="code hl_class" href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">pocketmine\math\Vector3</a>;</div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>use <a class="code hl_class" href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html">pocketmine\player\Player</a>;</div>
+<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span> </div>
+<div class="line"><a id="l00034" name="l00034"></a><span class="lineno"><a class="line" href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html">   34</a></span><span class="keyword">class </span><a class="code hl_class" href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html">Cake</a> <span class="keyword">extends</span> <a class="code hl_class" href="../../d6/dc5/classpocketmine_1_1block_1_1_base_cake.html">BaseCake</a>{</div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>    <span class="keyword">public</span> <span class="keyword">const</span> MAX_BITES = 6;</div>
+<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span> </div>
+<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>    <span class="keyword">protected</span> <span class="keywordtype">int</span> $bites = 0;</div>
+<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span> </div>
+<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>    <span class="keyword">protected</span> <span class="keyword">function</span> describeState(<a class="code hl_interface" href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html">RuntimeDataDescriber</a> $w) : <span class="keywordtype">void</span>{</div>
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>        $w-&gt;boundedInt(3, 0, self::MAX_BITES, $this-&gt;bites);</div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>    }</div>
+<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span> </div>
+<div class="line"><a id="l00046" name="l00046"></a><span class="lineno"><a class="line" href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html#a1319df762befc499ed0a6841c5b4fb7f">   46</a></span>    <span class="keyword">protected</span> <span class="keyword">function</span> <a class="code hl_function" href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html#a1319df762befc499ed0a6841c5b4fb7f">recalculateCollisionBoxes</a>() : array{</div>
+<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>        return [</div>
+<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>            <a class="code hl_class" href="../../dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html">AxisAlignedBB</a>::one()</div>
+<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>                -&gt;contract(1 / 16, 0, 1 / 16)</div>
+<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>                -&gt;trim(<a class="code hl_class" href="../../dd/d25/classpocketmine_1_1math_1_1_facing.html">Facing</a>::UP, 0.5)</div>
+<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>                -&gt;trim(<a class="code hl_class" href="../../dd/d25/classpocketmine_1_1math_1_1_facing.html">Facing</a>::WEST, $this-&gt;bites / 8)</div>
+<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>        ];</div>
+<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>    }</div>
+<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span> </div>
+<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>    <span class="keyword">public</span> <span class="keyword">function</span> getBites() : int{ return $this-&gt;bites; }</div>
+<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span> </div>
+<div class="line"><a id="l00058" name="l00058"></a><span class="lineno"><a class="line" href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html#a2f80e74304601f83ec5f61907f263b9a">   58</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html#a2f80e74304601f83ec5f61907f263b9a">setBites</a>(<span class="keywordtype">int</span> $bites) : self{</div>
+<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>        if($bites &lt; 0 || $bites &gt; self::MAX_BITES){</div>
+<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>            <span class="keywordflow">throw</span> new \InvalidArgumentException(<span class="stringliteral">&quot;Bites must be in range 0 ... &quot;</span> . self::MAX_BITES);</div>
+<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>        }</div>
+<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>        $this-&gt;bites = $bites;</div>
+<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>        <span class="keywordflow">return</span> $this;</div>
+<div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>    }</div>
+<div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span> </div>
+<div class="line"><a id="l00066" name="l00066"></a><span class="lineno"><a class="line" href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html#a45815ac91b49c1d30b1ea40fabdd3ce9">   66</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html#a45815ac91b49c1d30b1ea40fabdd3ce9">onInteract</a>(<a class="code hl_class" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">Item</a> $item, <span class="keywordtype">int</span> $face, <a class="code hl_class" href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">Vector3</a> $clickVector, ?<a class="code hl_class" href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html">Player</a> $player = <span class="keyword">null</span>, array &amp;$returnedItems = []) : bool{</div>
+<div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>        if($item instanceof <a class="code hl_class" href="../../dd/d08/classpocketmine_1_1item_1_1_item_block.html">ItemBlock</a>){</div>
+<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>            $block = $item-&gt;<a class="code hl_function" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html#a113df9761f1a285d72fae0d9da6b21d6">getBlock</a>();</div>
+<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>            $resultBlock = <span class="keyword">null</span>;</div>
+<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>            <span class="keywordflow">if</span>($block-&gt;getTypeId() === BlockTypeIds::CANDLE){</div>
+<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>                $resultBlock = VanillaBlocks::CAKE_WITH_CANDLE();</div>
+<div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>            }elseif($block instanceof <a class="code hl_class" href="../../dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html">DyedCandle</a>){</div>
+<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>                $resultBlock = VanillaBlocks::CAKE_WITH_DYED_CANDLE()-&gt;setColor($block-&gt;getColor());</div>
+<div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>            }</div>
+<div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span> </div>
+<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>            <span class="keywordflow">if</span>($resultBlock !== <span class="keyword">null</span>){</div>
+<div class="line"><a id="l00077" name="l00077"></a><span class="lineno">   77</span>                $this-&gt;position-&gt;getWorld()-&gt;setBlock($this-&gt;position, $resultBlock);</div>
+<div class="line"><a id="l00078" name="l00078"></a><span class="lineno">   78</span>                $item-&gt;<a class="code hl_function" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html#a67b44433c553602d7c851b1ca23e6e5e">pop</a>();</div>
+<div class="line"><a id="l00079" name="l00079"></a><span class="lineno">   79</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span>            }</div>
+<div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span>        }</div>
+<div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span> </div>
+<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>        <span class="keywordflow">return</span> parent::onInteract($item, $face, $clickVector, $player, $returnedItems);</div>
+<div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span>    }</div>
 <div class="line"><a id="l00085" name="l00085"></a><span class="lineno">   85</span> </div>
-<div class="line"><a id="l00086" name="l00086"></a><span class="lineno">   86</span>        <span class="keywordflow">return</span> parent::onInteract($item, $face, $clickVector, $player, $returnedItems);</div>
-<div class="line"><a id="l00087" name="l00087"></a><span class="lineno">   87</span>    }</div>
-<div class="line"><a id="l00088" name="l00088"></a><span class="lineno">   88</span> </div>
-<div class="line"><a id="l00089" name="l00089"></a><span class="lineno">   89</span>    <span class="keyword">public</span> <span class="keyword">function</span> getResidue() : Block{</div>
-<div class="line"><a id="l00090" name="l00090"></a><span class="lineno">   90</span>        $clone = clone $this;</div>
-<div class="line"><a id="l00091" name="l00091"></a><span class="lineno">   91</span>        $clone-&gt;bites++;</div>
-<div class="line"><a id="l00092" name="l00092"></a><span class="lineno">   92</span>        <span class="keywordflow">if</span>($clone-&gt;bites &gt; self::MAX_BITES){</div>
-<div class="line"><a id="l00093" name="l00093"></a><span class="lineno">   93</span>            $clone = VanillaBlocks::AIR();</div>
-<div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span>        }</div>
-<div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span>        <span class="keywordflow">return</span> $clone;</div>
-<div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span>    }</div>
-<div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span>}</div>
+<div class="line"><a id="l00086" name="l00086"></a><span class="lineno">   86</span>    <span class="keyword">public</span> <span class="keyword">function</span> getResidue() : Block{</div>
+<div class="line"><a id="l00087" name="l00087"></a><span class="lineno">   87</span>        $clone = clone $this;</div>
+<div class="line"><a id="l00088" name="l00088"></a><span class="lineno">   88</span>        $clone-&gt;bites++;</div>
+<div class="line"><a id="l00089" name="l00089"></a><span class="lineno">   89</span>        <span class="keywordflow">if</span>($clone-&gt;bites &gt; self::MAX_BITES){</div>
+<div class="line"><a id="l00090" name="l00090"></a><span class="lineno">   90</span>            $clone = VanillaBlocks::AIR();</div>
+<div class="line"><a id="l00091" name="l00091"></a><span class="lineno">   91</span>        }</div>
+<div class="line"><a id="l00092" name="l00092"></a><span class="lineno">   92</span>        <span class="keywordflow">return</span> $clone;</div>
+<div class="line"><a id="l00093" name="l00093"></a><span class="lineno">   93</span>    }</div>
+<div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span>}</div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_base_cake_html"><div class="ttname"><a href="../../d6/dc5/classpocketmine_1_1block_1_1_base_cake.html">pocketmine\block\BaseCake</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d12/_base_cake_8php_source.html#l00036">BaseCake.php:36</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_cake_html"><div class="ttname"><a href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html">pocketmine\block\Cake</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d07/_cake_8php_source.html#l00035">Cake.php:35</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_cake_html_a1319df762befc499ed0a6841c5b4fb7f"><div class="ttname"><a href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html#a1319df762befc499ed0a6841c5b4fb7f">pocketmine\block\Cake\recalculateCollisionBoxes</a></div><div class="ttdeci">recalculateCollisionBoxes()</div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d07/_cake_8php_source.html#l00049">Cake.php:49</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_cake_html_a2f80e74304601f83ec5f61907f263b9a"><div class="ttname"><a href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html#a2f80e74304601f83ec5f61907f263b9a">pocketmine\block\Cake\setBites</a></div><div class="ttdeci">setBites(int $bites)</div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d07/_cake_8php_source.html#l00061">Cake.php:61</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_cake_html_a45815ac91b49c1d30b1ea40fabdd3ce9"><div class="ttname"><a href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html#a45815ac91b49c1d30b1ea40fabdd3ce9">pocketmine\block\Cake\onInteract</a></div><div class="ttdeci">onInteract(Item $item, int $face, Vector3 $clickVector, ?Player $player=null, array &amp;$returnedItems=[])</div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d07/_cake_8php_source.html#l00069">Cake.php:69</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_cake_html"><div class="ttname"><a href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html">pocketmine\block\Cake</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d07/_cake_8php_source.html#l00034">Cake.php:34</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_cake_html_a1319df762befc499ed0a6841c5b4fb7f"><div class="ttname"><a href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html#a1319df762befc499ed0a6841c5b4fb7f">pocketmine\block\Cake\recalculateCollisionBoxes</a></div><div class="ttdeci">recalculateCollisionBoxes()</div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d07/_cake_8php_source.html#l00046">Cake.php:46</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_cake_html_a2f80e74304601f83ec5f61907f263b9a"><div class="ttname"><a href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html#a2f80e74304601f83ec5f61907f263b9a">pocketmine\block\Cake\setBites</a></div><div class="ttdeci">setBites(int $bites)</div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d07/_cake_8php_source.html#l00058">Cake.php:58</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_cake_html_a45815ac91b49c1d30b1ea40fabdd3ce9"><div class="ttname"><a href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html#a45815ac91b49c1d30b1ea40fabdd3ce9">pocketmine\block\Cake\onInteract</a></div><div class="ttdeci">onInteract(Item $item, int $face, Vector3 $clickVector, ?Player $player=null, array &amp;$returnedItems=[])</div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d07/_cake_8php_source.html#l00066">Cake.php:66</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_dyed_candle_html"><div class="ttname"><a href="../../dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html">pocketmine\block\DyedCandle</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d96/_dyed_candle_8php_source.html#l00029">DyedCandle.php:29</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1data_1_1runtime_1_1_runtime_data_reader_html"><div class="ttname"><a href="../../de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html">pocketmine\data\runtime\RuntimeDataReader</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/db2/_runtime_data_reader_8php_source.html#l00033">RuntimeDataReader.php:33</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1data_1_1runtime_1_1_runtime_data_writer_html"><div class="ttname"><a href="../../dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer.html">pocketmine\data\runtime\RuntimeDataWriter</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d31/_runtime_data_writer_8php_source.html#l00033">RuntimeDataWriter.php:33</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1item_1_1_item_block_html"><div class="ttname"><a href="../../dd/d08/classpocketmine_1_1item_1_1_item_block.html">pocketmine\item\ItemBlock</a></div><div class="ttdef"><b>Definition:</b> <a href="../../da/da2/_item_block_8php_source.html#l00038">ItemBlock.php:38</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1item_1_1_item_block_html"><div class="ttname"><a href="../../dd/d08/classpocketmine_1_1item_1_1_item_block.html">pocketmine\item\ItemBlock</a></div><div class="ttdef"><b>Definition:</b> <a href="../../da/da2/_item_block_8php_source.html#l00037">ItemBlock.php:37</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">pocketmine\item\Item</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d98/_item_8php_source.html#l00059">Item.php:59</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html_a113df9761f1a285d72fae0d9da6b21d6"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html#a113df9761f1a285d72fae0d9da6b21d6">pocketmine\item\Item\getBlock</a></div><div class="ttdeci">getBlock(?int $clickedFace=null)</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d98/_item_8php_source.html#l00459">Item.php:459</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html_a67b44433c553602d7c851b1ca23e6e5e"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html#a67b44433c553602d7c851b1ca23e6e5e">pocketmine\item\Item\pop</a></div><div class="ttdeci">pop(int $count=1)</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d98/_item_8php_source.html#l00421">Item.php:421</a></div></div>
@@ -201,6 +196,7 @@ $(document).ready(function(){initNavTree('dc/d07/_cake_8php_source.html','../../
 <div class="ttc" id="aclasspocketmine_1_1math_1_1_facing_html"><div class="ttname"><a href="../../dd/d25/classpocketmine_1_1math_1_1_facing.html">pocketmine\math\Facing</a></div><div class="ttdef"><b>Definition:</b> <a href="../../df/d0d/_facing_8php_source.html#l00028">Facing.php:28</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1math_1_1_vector3_html"><div class="ttname"><a href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">pocketmine\math\Vector3</a></div><div class="ttdef"><b>Definition:</b> <a href="../../de/d7b/_vector3_8php_source.html#l00036">Vector3.php:36</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1player_1_1_player_html"><div class="ttname"><a href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html">pocketmine\player\Player</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d76/_player_8php_source.html#l00162">Player.php:162</a></div></div>
+<div class="ttc" id="ainterfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer_html"><div class="ttname"><a href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html">pocketmine\data\runtime\RuntimeDataDescriber</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d3f/_runtime_data_describer_8php_source.html#l00030">RuntimeDataDescriber.php:30</a></div></div>
 <div class="ttc" id="anamespacepocketmine_1_1block_html"><div class="ttname"><a href="../../d0/dc3/namespacepocketmine_1_1block.html">pocketmine\block</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d2/de9/_activator_rail_8php_source.html#l00024">ActivatorRail.php:24</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->

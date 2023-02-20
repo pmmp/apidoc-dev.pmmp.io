@@ -27,12 +27,12 @@
 <text text-anchor="start" x="11" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getItemDropChance()</text>
 <text text-anchor="start" x="11" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getItemRotation()</text>
 <text text-anchor="start" x="11" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPickedItem()</text>
-<text text-anchor="start" x="11" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
-<text text-anchor="start" x="11" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ hasMap()</text>
-<text text-anchor="start" x="11" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onAttack()</text>
-<text text-anchor="start" x="11" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
-<text text-anchor="start" x="11" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="11" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 7 more...</text>
+<text text-anchor="start" x="11" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ hasMap()</text>
+<text text-anchor="start" x="11" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onAttack()</text>
+<text text-anchor="start" x="11" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
+<text text-anchor="start" x="11" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="11" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="11" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 6 more...</text>
 <text text-anchor="start" x="11" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 </a>
 </g>

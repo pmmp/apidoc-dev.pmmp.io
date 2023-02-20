@@ -114,26 +114,25 @@
 <g id="node4" class="node">
 <title>Node4</title>
 <g id="a_node4"><a xlink:href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="558,-193.5 558,-327.5 720,-327.5 720,-193.5 558,-193.5"/>
-<text text-anchor="middle" x="639" y="-315.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Cake</text>
-<polyline fill="none" stroke="#bfbfbf" points="558,-308.5 720,-308.5 "/>
-<text text-anchor="start" x="566" y="-296.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_BITES</text>
-<text text-anchor="start" x="566" y="-285.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $bites</text>
-<polyline fill="none" stroke="#bfbfbf" points="558,-278.5 720,-278.5 "/>
-<text text-anchor="start" x="566" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBites()</text>
-<text text-anchor="start" x="566" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
-<text text-anchor="start" x="566" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
-<text text-anchor="start" x="566" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
-<text text-anchor="start" x="566" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setBites()</text>
-<text text-anchor="start" x="566" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
-<text text-anchor="start" x="566" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
+<polygon fill="white" stroke="#bfbfbf" points="558.5,-199 558.5,-322 719.5,-322 719.5,-199 558.5,-199"/>
+<text text-anchor="middle" x="639" y="-310" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Cake</text>
+<polyline fill="none" stroke="#bfbfbf" points="558.5,-303 719.5,-303 "/>
+<text text-anchor="start" x="566.5" y="-291" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_BITES</text>
+<text text-anchor="start" x="566.5" y="-280" font-family="Helvetica,sans-Serif" font-size="10.00"># $bites</text>
+<polyline fill="none" stroke="#bfbfbf" points="558.5,-273 719.5,-273 "/>
+<text text-anchor="start" x="566.5" y="-261" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBites()</text>
+<text text-anchor="start" x="566.5" y="-250" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
+<text text-anchor="start" x="566.5" y="-239" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
+<text text-anchor="start" x="566.5" y="-228" font-family="Helvetica,sans-Serif" font-size="10.00">+ setBites()</text>
+<text text-anchor="start" x="566.5" y="-217" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="566.5" y="-206" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node4 -->
 <g id="edge3" class="edge">
 <title>Node3&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M738.43,-358.77C727.79,-348.36 717.02,-337.82 706.68,-327.71"/>
+<path fill="none" stroke="midnightblue" d="M738.37,-358.71C725.77,-346.38 712.98,-333.87 700.95,-322.11"/>
 <polygon fill="none" stroke="midnightblue" points="736.17,-361.46 745.77,-365.95 741.07,-356.45 736.17,-361.46"/>
 </g>
 <!-- Node5 -->
@@ -180,8 +179,8 @@
 <!-- Node5&#45;&gt;Node6 -->
 <g id="edge5" class="edge">
 <title>Node5&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M728.03,-193.09C487.92,-112.6 390.79,-254.5 161,-157 140.96,-148.5 122.58,-133.19 108.07,-118.4"/>
-<polygon fill="none" stroke="midnightblue" points="727.13,-196.48 737.73,-196.43 729.42,-189.86 727.13,-196.48"/>
+<path fill="none" stroke="midnightblue" d="M728.62,-193.22C728.42,-193.15 728.21,-193.07 728,-193 489.7,-109.49 393.44,-255.64 161,-157 140.96,-148.5 122.58,-133.18 108.07,-118.4"/>
+<polygon fill="none" stroke="midnightblue" points="727.34,-196.48 737.93,-196.92 729.93,-189.97 727.34,-196.48"/>
 </g>
 <!-- Node8 -->
 <g id="node8" class="node">

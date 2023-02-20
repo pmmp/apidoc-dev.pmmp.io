@@ -96,7 +96,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="680" y="-278.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlowDecayPerBlock()</text>
 <text text-anchor="start" x="680" y="-267.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlowingForm()</text>
 <text text-anchor="start" x="680" y="-256.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlowVector()</text>
-<text text-anchor="start" x="680" y="-245.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 17 more...</text>
+<text text-anchor="start" x="680" y="-245.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 16 more...</text>
 <text text-anchor="start" x="680" y="-234.5" font-family="Helvetica,sans-Serif" font-size="10.00"># canFlowInto()</text>
 <text text-anchor="start" x="680" y="-223.5" font-family="Helvetica,sans-Serif" font-size="10.00"># checkForHarden()</text>
 <text text-anchor="start" x="680" y="-212.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>

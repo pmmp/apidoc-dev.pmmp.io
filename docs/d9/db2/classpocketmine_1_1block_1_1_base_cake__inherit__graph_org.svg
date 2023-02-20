@@ -35,26 +35,25 @@
 <g id="node6" class="node">
 <title>Node6</title>
 <g id="a_node6"><a xlink:href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="10,-116.5 10,-250.5 172,-250.5 172,-116.5 10,-116.5"/>
-<text text-anchor="middle" x="91" y="-238.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Cake</text>
-<polyline fill="none" stroke="#bfbfbf" points="10,-231.5 172,-231.5 "/>
-<text text-anchor="start" x="18" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_BITES</text>
-<text text-anchor="start" x="18" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $bites</text>
-<polyline fill="none" stroke="#bfbfbf" points="10,-201.5 172,-201.5 "/>
-<text text-anchor="start" x="18" y="-189.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBites()</text>
-<text text-anchor="start" x="18" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRequiredStateDataBits()</text>
-<text text-anchor="start" x="18" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
-<text text-anchor="start" x="18" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
-<text text-anchor="start" x="18" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setBites()</text>
-<text text-anchor="start" x="18" y="-134.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
-<text text-anchor="start" x="18" y="-123.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
+<polygon fill="white" stroke="#bfbfbf" points="10.5,-122 10.5,-245 171.5,-245 171.5,-122 10.5,-122"/>
+<text text-anchor="middle" x="91" y="-233" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Cake</text>
+<polyline fill="none" stroke="#bfbfbf" points="10.5,-226 171.5,-226 "/>
+<text text-anchor="start" x="18.5" y="-214" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_BITES</text>
+<text text-anchor="start" x="18.5" y="-203" font-family="Helvetica,sans-Serif" font-size="10.00"># $bites</text>
+<polyline fill="none" stroke="#bfbfbf" points="10.5,-196 171.5,-196 "/>
+<text text-anchor="start" x="18.5" y="-184" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBites()</text>
+<text text-anchor="start" x="18.5" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
+<text text-anchor="start" x="18.5" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
+<text text-anchor="start" x="18.5" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ setBites()</text>
+<text text-anchor="start" x="18.5" y="-140" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="18.5" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node6 -->
 <g id="edge5" class="edge">
 <title>Node1&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M139.03,-278.46C134.26,-269.13 129.46,-259.74 124.83,-250.69"/>
+<path fill="none" stroke="midnightblue" d="M138.99,-278.4C133.25,-267.16 127.47,-255.84 122,-245.15"/>
 <polygon fill="none" stroke="midnightblue" points="135.92,-280.07 143.58,-287.38 142.15,-276.88 135.92,-280.07"/>
 </g>
 <!-- Node7 -->

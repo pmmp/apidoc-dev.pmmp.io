@@ -131,8 +131,11 @@ var namespacepocketmine =
       ] ],
       [ "runtime", null, [
         [ "InvalidSerializedRuntimeDataException", "de/d29/classpocketmine_1_1data_1_1runtime_1_1_invalid_serialized_runtime_data_exception.html", null ],
+        [ "RuntimeDataDescriber", "d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html", "d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer" ],
         [ "RuntimeDataReader", "de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html", "de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader" ],
-        [ "RuntimeDataWriter", "dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer.html", "dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer" ]
+        [ "RuntimeDataSizeCalculator", "db/dff/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_size_calculator.html", "db/dff/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_size_calculator" ],
+        [ "RuntimeDataWriter", "dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer.html", "dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer" ],
+        [ "RuntimeEnumDescriber", "dc/d84/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_enum_describer.html", null ]
       ] ],
       [ "SavedDataLoadingException", "d5/db4/classpocketmine_1_1data_1_1_saved_data_loading_exception.html", null ]
     ] ],

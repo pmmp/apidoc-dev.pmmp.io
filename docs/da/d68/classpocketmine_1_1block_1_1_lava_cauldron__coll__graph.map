@@ -1,6 +1,6 @@
 <map id="pocketmine\block\LavaCauldron" name="pocketmine\block\LavaCauldron">
-<area shape="rect" id="node1" title=" " alt="" coords="5,2456,236,2621"/>
-<area shape="rect" id="node2" href="$d8/dce/classpocketmine_1_1block_1_1_fillable_cauldron.html" title=" " alt="" coords="13,2139,229,2407"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,2441,236,2607"/>
+<area shape="rect" id="node2" href="$d8/dce/classpocketmine_1_1block_1_1_fillable_cauldron.html" title=" " alt="" coords="13,2139,228,2392"/>
 <area shape="rect" id="node3" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="183,2012,400,2089"/>
 <area shape="rect" id="node4" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="277,1665,492,1963"/>
 <area shape="rect" id="node5" title=" " alt="" coords="169,541,227,619"/>
