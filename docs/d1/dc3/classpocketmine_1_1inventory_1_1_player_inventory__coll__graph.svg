@@ -377,7 +377,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="1549" y="-1293.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeCollidedWith()</text>
 <text text-anchor="start" x="1549" y="-1282.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeMovedByCurrents()</text>
 <text text-anchor="start" x="1549" y="-1271.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canClimb()</text>
-<text text-anchor="start" x="1549" y="-1260.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 89 more...</text>
+<text text-anchor="start" x="1549" y="-1260.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 91 more...</text>
 <text text-anchor="start" x="1549" y="-1249.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNetworkTypeId()</text>
 <text text-anchor="start" x="1549" y="-1238.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ nextRuntimeId()</text>
 <text text-anchor="start" x="1549" y="-1227.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addAttributes()</text>

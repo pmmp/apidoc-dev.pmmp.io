@@ -488,6 +488,7 @@ var annotated_dup =
             [ "UnsupportedItemTypeException", "df/d6b/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_unsupported_item_type_exception.html", null ]
           ] ],
           [ "BannerPatternTypeIdMap", "db/d15/classpocketmine_1_1data_1_1bedrock_1_1_banner_pattern_type_id_map.html", null ],
+          [ "BedrockDataFiles", "d3/dfa/classpocketmine_1_1data_1_1bedrock_1_1_bedrock_data_files.html", null ],
           [ "BiomeIds", "dc/dce/classpocketmine_1_1data_1_1bedrock_1_1_biome_ids.html", null ],
           [ "CompoundTypeIds", "d1/d35/classpocketmine_1_1data_1_1bedrock_1_1_compound_type_ids.html", null ],
           [ "DyeColorIdMap", "d5/d50/classpocketmine_1_1data_1_1bedrock_1_1_dye_color_id_map.html", null ],
@@ -985,6 +986,7 @@ var annotated_dup =
             [ "CompressBatchTask", "d6/dda/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_compress_batch_task.html", "d6/dda/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_compress_batch_task" ],
             [ "Compressor", "d3/d33/interfacepocketmine_1_1network_1_1mcpe_1_1compression_1_1_compressor.html", "d3/d33/interfacepocketmine_1_1network_1_1mcpe_1_1compression_1_1_compressor" ],
             [ "DecompressionException", "d3/d18/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_decompression_exception.html", null ],
+            [ "ThresholdCompressor", "dd/dc1/interfacepocketmine_1_1network_1_1mcpe_1_1compression_1_1_threshold_compressor.html", "dd/dc1/interfacepocketmine_1_1network_1_1mcpe_1_1compression_1_1_threshold_compressor" ],
             [ "ZlibCompressor", "d2/db8/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_zlib_compressor.html", "d2/db8/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_zlib_compressor" ]
           ] ],
           [ "convert", null, [

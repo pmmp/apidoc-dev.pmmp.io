@@ -277,7 +277,7 @@
 <text text-anchor="start" x="708.77" y="-2479.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeCollidedWith()</text>
 <text text-anchor="start" x="708.77" y="-2468.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeMovedByCurrents()</text>
 <text text-anchor="start" x="708.77" y="-2457.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canClimb()</text>
-<text text-anchor="start" x="708.77" y="-2446.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 89 more...</text>
+<text text-anchor="start" x="708.77" y="-2446.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 91 more...</text>
 <text text-anchor="start" x="708.77" y="-2435.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNetworkTypeId()</text>
 <text text-anchor="start" x="708.77" y="-2424.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ nextRuntimeId()</text>
 <text text-anchor="start" x="708.77" y="-2413.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addAttributes()</text>
@@ -1380,32 +1380,33 @@
 <g id="node38" class="node">
 <title>Node45</title>
 <g id="a_node38"><a xlink:href="../../de/d3a/classpocketmine_1_1network_1_1mcpe_1_1_network_session.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="2528.27,-773 2528.27,-962 2719.27,-962 2719.27,-773 2528.27,-773"/>
-<text text-anchor="start" x="2536.27" y="-950" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
-<text text-anchor="middle" x="2623.77" y="-939" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\NetworkSession</text>
-<polyline fill="none" stroke="#bfbfbf" points="2528.27,-932 2719.27,-932 "/>
-<text text-anchor="middle" x="2623.77" y="-920" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="2528.27,-913 2719.27,-913 "/>
-<text text-anchor="start" x="2536.27" y="-901" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="2536.27" y="-890" font-family="Helvetica,sans-Serif" font-size="10.00">+ addToSendBuffer()</text>
-<text text-anchor="start" x="2536.27" y="-879" font-family="Helvetica,sans-Serif" font-size="10.00">+ disconnect()</text>
-<text text-anchor="start" x="2536.27" y="-868" font-family="Helvetica,sans-Serif" font-size="10.00">+ disconnectIncompatibleProtocol()</text>
-<text text-anchor="start" x="2536.27" y="-857" font-family="Helvetica,sans-Serif" font-size="10.00">+ disconnectWithError()</text>
-<text text-anchor="start" x="2536.27" y="-846" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBroadcaster()</text>
-<text text-anchor="start" x="2536.27" y="-835" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCompressor()</text>
-<text text-anchor="start" x="2536.27" y="-824" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDisplayName()</text>
-<text text-anchor="start" x="2536.27" y="-813" font-family="Helvetica,sans-Serif" font-size="10.00">+ getHandler()</text>
-<text text-anchor="start" x="2536.27" y="-802" font-family="Helvetica,sans-Serif" font-size="10.00">+ getInvManager()</text>
-<text text-anchor="start" x="2536.27" y="-791" font-family="Helvetica,sans-Serif" font-size="10.00">and 61 more...</text>
-<text text-anchor="start" x="2536.27" y="-780" font-family="Helvetica,sans-Serif" font-size="10.00"># createPlayer()</text>
+<polygon fill="white" stroke="#bfbfbf" points="2528.27,-767.5 2528.27,-967.5 2719.27,-967.5 2719.27,-767.5 2528.27,-767.5"/>
+<text text-anchor="start" x="2536.27" y="-955.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
+<text text-anchor="middle" x="2623.77" y="-944.5" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\NetworkSession</text>
+<polyline fill="none" stroke="#bfbfbf" points="2528.27,-937.5 2719.27,-937.5 "/>
+<text text-anchor="middle" x="2623.77" y="-925.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="2528.27,-918.5 2719.27,-918.5 "/>
+<text text-anchor="start" x="2536.27" y="-906.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="2536.27" y="-895.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addToSendBuffer()</text>
+<text text-anchor="start" x="2536.27" y="-884.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ disconnect()</text>
+<text text-anchor="start" x="2536.27" y="-873.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ disconnectIncompatibleProtocol()</text>
+<text text-anchor="start" x="2536.27" y="-862.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ disconnectWithError()</text>
+<text text-anchor="start" x="2536.27" y="-851.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBroadcaster()</text>
+<text text-anchor="start" x="2536.27" y="-840.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCompressor()</text>
+<text text-anchor="start" x="2536.27" y="-829.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDisplayName()</text>
+<text text-anchor="start" x="2536.27" y="-818.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getHandler()</text>
+<text text-anchor="start" x="2536.27" y="-807.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getInvManager()</text>
+<text text-anchor="start" x="2536.27" y="-796.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 61 more...</text>
+<text text-anchor="start" x="2536.27" y="-785.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ encodePacketTimed()</text>
+<text text-anchor="start" x="2536.27" y="-774.5" font-family="Helvetica,sans-Serif" font-size="10.00"># createPlayer()</text>
 </a>
 </g>
 </g>
 <!-- Node45&#45;&gt;Node4 -->
 <g id="edge51" class="edge">
 <title>Node45&#45;&gt;Node4</title>
-<path fill="none" stroke="#404040" d="M2690.41,-772.97C2729.28,-718.41 2778.79,-648.92 2820.84,-589.91"/>
-<polygon fill="none" stroke="#404040" points="2821.09,-589.55 2821.32,-582.34 2828.06,-579.78 2827.83,-586.99 2821.09,-589.55"/>
+<path fill="none" stroke="#404040" d="M2694.4,-767.37C2732.73,-713.56 2780.47,-646.57 2821.16,-589.46"/>
+<polygon fill="none" stroke="#404040" points="2821.18,-589.43 2821.4,-582.22 2828.14,-579.66 2827.92,-586.86 2821.18,-589.43"/>
 <text text-anchor="middle" x="2788.27" y="-697" font-family="Helvetica,sans-Serif" font-size="10.00"> #$networkSession</text>
 </g>
 <!-- Node46 -->

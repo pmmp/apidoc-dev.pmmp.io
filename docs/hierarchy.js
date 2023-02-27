@@ -44,6 +44,7 @@ var hierarchy =
     [ "pocketmine\\block\\utils\\BannerPatternLayer", "da/dd4/classpocketmine_1_1block_1_1utils_1_1_banner_pattern_layer.html", null ],
     [ "pocketmine\\block\\utils\\BannerPatternType", "d5/d03/classpocketmine_1_1block_1_1utils_1_1_banner_pattern_type.html", null ],
     [ "pocketmine\\data\\bedrock\\BannerPatternTypeIdMap", "db/d15/classpocketmine_1_1data_1_1bedrock_1_1_banner_pattern_type_id_map.html", null ],
+    [ "pocketmine\\data\\bedrock\\BedrockDataFiles", "d3/dfa/classpocketmine_1_1data_1_1bedrock_1_1_bedrock_data_files.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\resourcepacks\\BehaviorPackInfoEntry", "da/d4a/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1resourcepacks_1_1_behavior_pack_info_entry.html", null ],
     [ "pocketmine\\block\\utils\\BellAttachmentType", "d6/d74/classpocketmine_1_1block_1_1utils_1_1_bell_attachment_type.html", null ],
     [ "pocketmine\\network\\BidirectionalBandwidthStatsTracker", "dd/d87/classpocketmine_1_1network_1_1_bidirectional_bandwidth_stats_tracker.html", null ],
@@ -602,7 +603,9 @@ var hierarchy =
     [ "pocketmine\\network\\mcpe\\compression\\CompressBatchPromise", "d4/d17/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_compress_batch_promise.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\CompressionAlgorithm", "d3/d28/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_compression_algorithm.html", null ],
     [ "pocketmine\\network\\mcpe\\compression\\Compressor", "d3/d33/interfacepocketmine_1_1network_1_1mcpe_1_1compression_1_1_compressor.html", [
-      [ "pocketmine\\network\\mcpe\\compression\\ZlibCompressor", "d2/db8/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_zlib_compressor.html", null ]
+      [ "pocketmine\\network\\mcpe\\compression\\ThresholdCompressor", "dd/dc1/interfacepocketmine_1_1network_1_1mcpe_1_1compression_1_1_threshold_compressor.html", [
+        [ "pocketmine\\network\\mcpe\\compression\\ZlibCompressor", "d2/db8/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_zlib_compressor.html", null ]
+      ] ]
     ] ],
     [ "pocketmine\\utils\\Config", "d6/d2c/classpocketmine_1_1utils_1_1_config.html", null ],
     [ "pocketmine\\console\\ConsoleReader", "d9/d8a/classpocketmine_1_1console_1_1_console_reader.html", null ],

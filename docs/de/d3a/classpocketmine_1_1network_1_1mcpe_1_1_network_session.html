@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA9 git-42df1a5c704e870fc3a8377119496b5a6af505df</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA10 git-7608d5f04e347f9548d2040aa624867571848125</span>
    </div>
   </td>
  </tr>
@@ -91,6 +91,7 @@ $(document).ready(function(){initNavTree('de/d3a/classpocketmine_1_1network_1_1m
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="#pro-methods">Protected Member Functions</a> &#124;
 <a href="../../d7/d18/classpocketmine_1_1network_1_1mcpe_1_1_network_session-members.html">List of all members</a>  </div>
   <div class="headertitle"><div class="title">pocketmine\network\mcpe\NetworkSession Class Reference</div></div>
@@ -101,7 +102,7 @@ $(document).ready(function(){initNavTree('de/d3a/classpocketmine_1_1network_1_1m
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../d8/d9b/classpocketmine_1_1network_1_1mcpe_1_1_network_session__coll__graph.svg" width="266" height="264"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d8/d9b/classpocketmine_1_1network_1_1mcpe_1_1_network_session__coll__graph.svg" width="266" height="279"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 <table class="memberdecls">
@@ -109,8 +110,8 @@ $(document).ready(function(){initNavTree('de/d3a/classpocketmine_1_1network_1_1m
 Public Member Functions</h2></td></tr>
 <tr class="memitem:aa1a2dee74f3ce6253191d40db461fb08"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d3a/classpocketmine_1_1network_1_1mcpe_1_1_network_session.html#aa1a2dee74f3ce6253191d40db461fb08">__construct</a> (private <a class="el" href="../../d5/df7/classpocketmine_1_1_server.html">Server</a> $<a class="el" href="../../d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674">server</a>, private <a class="el" href="../../dd/db0/classpocketmine_1_1network_1_1_network_session_manager.html">NetworkSessionManager</a> $manager, private <a class="el" href="../../d9/d97/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_packet_pool.html">PacketPool</a> $packetPool, private <a class="el" href="../../d4/d6a/interfacepocketmine_1_1network_1_1mcpe_1_1_packet_sender.html">PacketSender</a> $sender, private <a class="el" href="../../d8/d1f/interfacepocketmine_1_1network_1_1mcpe_1_1_packet_broadcaster.html">PacketBroadcaster</a> $broadcaster, private <a class="el" href="../../d3/d33/interfacepocketmine_1_1network_1_1mcpe_1_1compression_1_1_compressor.html">Compressor</a> $compressor, private string $ip, private int $port)</td></tr>
 <tr class="separator:aa1a2dee74f3ce6253191d40db461fb08"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a93a0f6aa6c0a92e78528bf4fd74ded98"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d3a/classpocketmine_1_1network_1_1mcpe_1_1_network_session.html#a93a0f6aa6c0a92e78528bf4fd74ded98">addToSendBuffer</a> (<a class="el" href="../../da/d77/interfacepocketmine_1_1network_1_1mcpe_1_1protocol_1_1_clientbound_packet.html">ClientboundPacket</a> $packet)</td></tr>
-<tr class="separator:a93a0f6aa6c0a92e78528bf4fd74ded98"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aef40f5bf0182911c686b3c70842edf5b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d3a/classpocketmine_1_1network_1_1mcpe_1_1_network_session.html#aef40f5bf0182911c686b3c70842edf5b">addToSendBuffer</a> (string $buffer)</td></tr>
+<tr class="separator:aef40f5bf0182911c686b3c70842edf5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac3513c04252c5de20de324c4605c28ba"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d3a/classpocketmine_1_1network_1_1mcpe_1_1_network_session.html#ac3513c04252c5de20de324c4605c28ba">disconnect</a> (<a class="el" href="../../da/d80/classpocketmine_1_1lang_1_1_translatable.html">Translatable</a>|string $reason, <a class="el" href="../../da/d80/classpocketmine_1_1lang_1_1_translatable.html">Translatable</a>|string|null $disconnectScreenMessage=null, bool $notify=true)</td></tr>
 <tr class="separator:ac3513c04252c5de20de324c4605c28ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a18784538473b4827601e1fb6791ea3b7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d3a/classpocketmine_1_1network_1_1mcpe_1_1_network_session.html#a18784538473b4827601e1fb6791ea3b7">disconnectIncompatibleProtocol</a> (int $protocolVersion)</td></tr>
@@ -250,6 +251,11 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:ad33662fe5a6acd2e3bf08ef37d596bfc"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d3a/classpocketmine_1_1network_1_1mcpe_1_1_network_session.html#ad33662fe5a6acd2e3bf08ef37d596bfc">updatePing</a> (int $ping)</td></tr>
 <tr class="separator:ad33662fe5a6acd2e3bf08ef37d596bfc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:ab4003ec5dc6864ce9eb0486a20c80c57"><td class="memItemLeft" align="right" valign="top">static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d3a/classpocketmine_1_1network_1_1mcpe_1_1_network_session.html#ab4003ec5dc6864ce9eb0486a20c80c57">encodePacketTimed</a> (<a class="el" href="../../d9/d4e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_serializer.html">PacketSerializer</a> $serializer, <a class="el" href="../../da/d77/interfacepocketmine_1_1network_1_1mcpe_1_1protocol_1_1_clientbound_packet.html">ClientboundPacket</a> $packet)</td></tr>
+<tr class="separator:ab4003ec5dc6864ce9eb0486a20c80c57"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
 <tr class="memitem:a1648d2f0a6f55ae8e74232eaf1d27b9e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d3a/classpocketmine_1_1network_1_1mcpe_1_1_network_session.html#a1648d2f0a6f55ae8e74232eaf1d27b9e">createPlayer</a> ()</td></tr>
@@ -257,7 +263,7 @@ Protected Member Functions</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00149">149</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00150">150</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="aa1a2dee74f3ce6253191d40db461fb08" name="aa1a2dee74f3ce6253191d40db461fb08"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#aa1a2dee74f3ce6253191d40db461fb08">&#9670;&nbsp;</a></span>__construct()</h2>
@@ -321,13 +327,13 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00201">201</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00202">202</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a93a0f6aa6c0a92e78528bf4fd74ded98" name="a93a0f6aa6c0a92e78528bf4fd74ded98"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a93a0f6aa6c0a92e78528bf4fd74ded98">&#9670;&nbsp;</a></span>addToSendBuffer()</h2>
+<a id="aef40f5bf0182911c686b3c70842edf5b" name="aef40f5bf0182911c686b3c70842edf5b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aef40f5bf0182911c686b3c70842edf5b">&#9670;&nbsp;</a></span>addToSendBuffer()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -335,14 +341,14 @@ Protected Member Functions</h2></td></tr>
         <tr>
           <td class="memname">pocketmine\network\mcpe\NetworkSession::addToSendBuffer </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/d77/interfacepocketmine_1_1network_1_1mcpe_1_1protocol_1_1_clientbound_packet.html">ClientboundPacket</a>&#160;</td>
-          <td class="paramname"><em>$packet</em></td><td>)</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>$buffer</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00491">491</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00517">517</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -369,7 +375,7 @@ Protected Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00257">257</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00258">258</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -413,7 +419,7 @@ Protected Member Functions</h2></td></tr>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00616">616</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00653">653</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -433,7 +439,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00631">631</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00668">668</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -453,7 +459,45 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00627">627</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00664">664</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+
+</div>
+</div>
+<a id="ab4003ec5dc6864ce9eb0486a20c80c57" name="ab4003ec5dc6864ce9eb0486a20c80c57"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab4003ec5dc6864ce9eb0486a20c80c57">&#9670;&nbsp;</a></span>encodePacketTimed()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static pocketmine\network\mcpe\NetworkSession::encodePacketTimed </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d4e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_serializer.html">PacketSerializer</a>&#160;</td>
+          <td class="paramname"><em>$serializer</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../da/d77/interfacepocketmine_1_1network_1_1mcpe_1_1protocol_1_1_clientbound_packet.html">ClientboundPacket</a>&#160;</td>
+          <td class="paramname"><em>$packet</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00503">503</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -472,7 +516,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00524">524</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00551">551</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -491,7 +535,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00526">526</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00553">553</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -510,7 +554,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00324">324</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00325">325</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -529,7 +573,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00342">342</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00343">343</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -548,7 +592,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01101">1101</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01138">1138</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -567,7 +611,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00316">316</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00317">317</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -586,7 +630,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00236">236</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00237">237</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -605,7 +649,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00522">522</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00549">549</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -625,7 +669,7 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <p >Returns the last recorded ping measurement for this session, in milliseconds, or null if a ping measurement has not yet been recorded. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00331">331</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00332">332</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -644,7 +688,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00304">304</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00305">305</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -663,7 +707,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00308">308</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00309">309</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -682,7 +726,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00320">320</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00321">321</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -718,7 +762,7 @@ Protected Member Functions</h2></td></tr>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00419">419</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00431">431</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -744,7 +788,7 @@ Protected Member Functions</h2></td></tr>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00358">358</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00359">359</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -763,7 +807,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00312">312</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00313">313</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -782,7 +826,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00790">790</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00827">827</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -802,7 +846,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01162">1162</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01199">1199</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -822,7 +866,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01004">1004</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01041">1041</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -841,7 +885,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01166">1166</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01203">1203</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -862,7 +906,7 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <p >Called by the network interface to close the session when the client disconnects without server input, for example in a timeout condition or voluntary client disconnect. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00666">666</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00703">703</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -892,7 +936,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01178">1178</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01215">1215</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -911,7 +955,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01083">1083</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01120">1120</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -947,7 +991,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00944">944</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00981">981</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -977,7 +1021,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00949">949</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00986">986</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -997,7 +1041,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00953">953</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00990">990</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1027,7 +1071,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01036">1036</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01073">1073</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1047,7 +1091,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01016">1016</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01053">1053</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1067,7 +1111,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01119">1119</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01156">1156</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1088,7 +1132,7 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <p >TODO: expand this to more than just humans </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01108">1108</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01145">1145</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1108,7 +1152,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01114">1114</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01151">1151</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1128,7 +1172,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01144">1144</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01181">1181</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1159,7 +1203,7 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <p >Called by the Player when it is closed (for example due to getting kicked). </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00656">656</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00693">693</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1189,7 +1233,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01131">1131</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01168">1168</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1209,7 +1253,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01148">1148</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01185">1185</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1229,7 +1273,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01028">1028</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01065">1065</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1248,7 +1292,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01170">1170</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01207">1207</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1268,7 +1312,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00806">806</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00843">843</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1287,7 +1331,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00812">812</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00849">849</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1307,7 +1351,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01158">1158</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01195">1195</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1327,7 +1371,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01032">1032</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01069">1069</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1347,7 +1391,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01154">1154</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01191">1191</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1383,7 +1427,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01174">1174</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01211">1211</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1413,7 +1457,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01182">1182</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01219">1219</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1434,7 +1478,7 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <dl class="section return"><dt>Returns</dt><dd>string[][] @phpstan-return array{string, string[]} </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00997">997</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01034">1034</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1464,7 +1508,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00530">530</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00557">557</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1494,7 +1538,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00456">456</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00468">468</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1514,7 +1558,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00346">346</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00347">347</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1556,7 +1600,7 @@ Protected Member Functions</h2></td></tr>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01045">1045</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01082">1082</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1586,7 +1630,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01079">1079</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01116">1116</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1606,7 +1650,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00874">874</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00911">911</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1642,7 +1686,7 @@ Protected Member Functions</h2></td></tr>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00937">937</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00974">974</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1661,7 +1705,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00908">908</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00945">945</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1697,7 +1741,7 @@ Protected Member Functions</h2></td></tr>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00925">925</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00962">962</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1716,7 +1760,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00957">957</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00994">994</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1746,7 +1790,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00863">863</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00900">900</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1788,7 +1832,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00821">821</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00858">858</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1814,7 +1858,7 @@ Protected Member Functions</h2></td></tr>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01138">1138</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01175">1175</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1834,7 +1878,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00853">853</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00890">890</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1864,7 +1908,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00849">849</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00886">886</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1884,7 +1928,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00845">845</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00882">882</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1904,7 +1948,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01097">1097</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01134">1134</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1924,7 +1968,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00859">859</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00896">896</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1944,7 +1988,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01093">1093</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01130">1130</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -1963,7 +2007,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01203">1203</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l01240">1240</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -2000,7 +2044,7 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <p >Instructs the remote client to connect to a different server. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00643">643</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00680">680</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
@@ -2020,7 +2064,7 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00338">338</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/dbe/_network_session_8php_source.html#l00339">339</a> of file <a class="el" href="../../dd/dbe/_network_session_8php_source.html">NetworkSession.php</a>.</p>
 
 </div>
 </div>
