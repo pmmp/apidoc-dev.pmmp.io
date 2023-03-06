@@ -13,6 +13,8 @@ var classpocketmine_1_1block_1_1_lever =
     [ "canBeReplaced", "d4/d31/classpocketmine_1_1block_1_1_lever.html#a30a070aa7befb02f9fff5cbf2693c01e", null ],
     [ "canClimb", "d4/d31/classpocketmine_1_1block_1_1_lever.html#a3bffed15a0b8de5f9df11e6f4b407163", null ],
     [ "collidesWithBB", "d4/d31/classpocketmine_1_1block_1_1_lever.html#a912c0f3a42aefc049e119f931a2ec86e", null ],
+    [ "describeState", "d4/d31/classpocketmine_1_1block_1_1_lever.html#a4303ce8a930817e179a36c0829b3975d", null ],
+    [ "describeType", "d4/d31/classpocketmine_1_1block_1_1_lever.html#ae2a31d0326c8dfddaa8823a46aa43785", null ],
     [ "getAffectedBlocks", "d4/d31/classpocketmine_1_1block_1_1_lever.html#ad57a8bddf87431ff034f3a96e7219d63", null ],
     [ "getAllSides", "d4/d31/classpocketmine_1_1block_1_1_lever.html#afe506084e4bb8741a7ac64f6d90c00a5", null ],
     [ "getBreakInfo", "d4/d31/classpocketmine_1_1block_1_1_lever.html#aa4773f0153324728a2f41820fa52442d", null ],

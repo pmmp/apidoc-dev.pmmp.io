@@ -12,6 +12,8 @@ var classpocketmine_1_1block_1_1_farmland =
     [ "canBeReplaced", "dc/d4a/classpocketmine_1_1block_1_1_farmland.html#a30a070aa7befb02f9fff5cbf2693c01e", null ],
     [ "canClimb", "dc/d4a/classpocketmine_1_1block_1_1_farmland.html#a3bffed15a0b8de5f9df11e6f4b407163", null ],
     [ "collidesWithBB", "dc/d4a/classpocketmine_1_1block_1_1_farmland.html#a912c0f3a42aefc049e119f931a2ec86e", null ],
+    [ "describeState", "dc/d4a/classpocketmine_1_1block_1_1_farmland.html#a2567c1d5fb337c8b80b75df3cfb35870", null ],
+    [ "describeType", "dc/d4a/classpocketmine_1_1block_1_1_farmland.html#ae2a31d0326c8dfddaa8823a46aa43785", null ],
     [ "getAffectedBlocks", "dc/d4a/classpocketmine_1_1block_1_1_farmland.html#ad57a8bddf87431ff034f3a96e7219d63", null ],
     [ "getAllSides", "dc/d4a/classpocketmine_1_1block_1_1_farmland.html#afe506084e4bb8741a7ac64f6d90c00a5", null ],
     [ "getBreakInfo", "dc/d4a/classpocketmine_1_1block_1_1_farmland.html#aa4773f0153324728a2f41820fa52442d", null ],

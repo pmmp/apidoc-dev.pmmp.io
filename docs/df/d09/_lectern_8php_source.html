@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA10 git-7608d5f04e347f9548d2040aa624867571848125</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA10 git-6db2b022fb3c062d788f5b7ed393737f99c97039</span>
    </div>
   </td>
  </tr>
@@ -140,13 +140,13 @@ $(document).ready(function(){initNavTree('df/d09/_lectern_8php_source.html','../
 <div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span> </div>
 <div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>    <span class="keyword">protected</span> <span class="keywordtype">bool</span> $producingSignal = <span class="keyword">false</span>;</div>
 <div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span> </div>
-<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>    <span class="keyword">protected</span> <span class="keyword">function</span> describeState(<a class="code hl_interface" href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html">RuntimeDataDescriber</a> $w) : <span class="keywordtype">void</span>{</div>
+<div class="line"><a id="l00049" name="l00049"></a><span class="lineno"><a class="line" href="../../de/d09/classpocketmine_1_1block_1_1_lectern.html#a0e29c77cc3b9a54bf60aede868395863">   49</a></span>    <span class="keyword">protected</span> <span class="keyword">function</span> <a class="code hl_function" href="../../de/d09/classpocketmine_1_1block_1_1_lectern.html#a0e29c77cc3b9a54bf60aede868395863">describeState</a>(<a class="code hl_interface" href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html">RuntimeDataDescriber</a> $w) : void{</div>
 <div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>        $w-&gt;horizontalFacing($this-&gt;facing);</div>
 <div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>        $w-&gt;bool($this-&gt;producingSignal);</div>
 <div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>    }</div>
 <div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span> </div>
 <div class="line"><a id="l00054" name="l00054"></a><span class="lineno"><a class="line" href="../../de/d09/classpocketmine_1_1block_1_1_lectern.html#af17c40736a04c65f9dfe6a3dc39ad745">   54</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../de/d09/classpocketmine_1_1block_1_1_lectern.html#af17c40736a04c65f9dfe6a3dc39ad745">readStateFromWorld</a>() : <a class="code hl_class" href="../../d7/d27/classpocketmine_1_1block_1_1_block.html">Block</a>{</div>
-<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>        parent::<a class="code hl_function" href="../../de/d09/classpocketmine_1_1block_1_1_lectern.html#af17c40736a04c65f9dfe6a3dc39ad745">readStateFromWorld</a>();</div>
+<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>        parent::readStateFromWorld();</div>
 <div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>        $tile = $this-&gt;position-&gt;getWorld()-&gt;getTile($this-&gt;position);</div>
 <div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>        <span class="keywordflow">if</span>($tile instanceof TileLectern){</div>
 <div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>            $this-&gt;viewedPage = $tile-&gt;getViewedPage();</div>
@@ -260,6 +260,7 @@ $(document).ready(function(){initNavTree('df/d09/_lectern_8php_source.html','../
 <div class="line"><a id="l00169" name="l00169"></a><span class="lineno">  169</span>}</div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html">pocketmine\block\Block</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00056">Block.php:56</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_lectern_html"><div class="ttname"><a href="../../de/d09/classpocketmine_1_1block_1_1_lectern.html">pocketmine\block\Lectern</a></div><div class="ttdef"><b>Definition:</b> <a href="../../df/d09/_lectern_8php_source.html#l00040">Lectern.php:40</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_lectern_html_a0e29c77cc3b9a54bf60aede868395863"><div class="ttname"><a href="../../de/d09/classpocketmine_1_1block_1_1_lectern.html#a0e29c77cc3b9a54bf60aede868395863">pocketmine\block\Lectern\describeState</a></div><div class="ttdeci">describeState(RuntimeDataDescriber $w)</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d09/_lectern_8php_source.html#l00049">Lectern.php:49</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_lectern_html_a163d2497146df96023f567d9d51f04a3"><div class="ttname"><a href="../../de/d09/classpocketmine_1_1block_1_1_lectern.html#a163d2497146df96023f567d9d51f04a3">pocketmine\block\Lectern\setViewedPage</a></div><div class="ttdeci">setViewedPage(int $viewedPage)</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d09/_lectern_8php_source.html#l00108">Lectern.php:108</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_lectern_html_a2adb2cb68f79196981a7603ca58aea54"><div class="ttname"><a href="../../de/d09/classpocketmine_1_1block_1_1_lectern.html#a2adb2cb68f79196981a7603ca58aea54">pocketmine\block\Lectern\getDrops</a></div><div class="ttdeci">getDrops(Item $item)</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d09/_lectern_8php_source.html#l00078">Lectern.php:78</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_lectern_html_a4461152a381686bd42b800a71d38f131"><div class="ttname"><a href="../../de/d09/classpocketmine_1_1block_1_1_lectern.html#a4461152a381686bd42b800a71d38f131">pocketmine\block\Lectern\setProducingSignal</a></div><div class="ttdeci">setProducingSignal(bool $producingSignal)</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d09/_lectern_8php_source.html#l00098">Lectern.php:98</a></div></div>

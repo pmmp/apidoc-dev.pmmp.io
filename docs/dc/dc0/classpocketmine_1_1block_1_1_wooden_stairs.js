@@ -12,6 +12,8 @@ var classpocketmine_1_1block_1_1_wooden_stairs =
     [ "canBeReplaced", "dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs.html#a30a070aa7befb02f9fff5cbf2693c01e", null ],
     [ "canClimb", "dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs.html#a3bffed15a0b8de5f9df11e6f4b407163", null ],
     [ "collidesWithBB", "dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs.html#a912c0f3a42aefc049e119f931a2ec86e", null ],
+    [ "describeState", "dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs.html#a35171b09698f1a6a28263f226c265adc", null ],
+    [ "describeType", "dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs.html#ae2a31d0326c8dfddaa8823a46aa43785", null ],
     [ "getAffectedBlocks", "dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs.html#ad57a8bddf87431ff034f3a96e7219d63", null ],
     [ "getAllSides", "dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs.html#afe506084e4bb8741a7ac64f6d90c00a5", null ],
     [ "getBreakInfo", "dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs.html#aa4773f0153324728a2f41820fa52442d", null ],

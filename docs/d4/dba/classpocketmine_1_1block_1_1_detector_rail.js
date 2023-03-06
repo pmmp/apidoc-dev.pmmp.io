@@ -12,6 +12,8 @@ var classpocketmine_1_1block_1_1_detector_rail =
     [ "canBeReplaced", "d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#a30a070aa7befb02f9fff5cbf2693c01e", null ],
     [ "canClimb", "d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#a3bffed15a0b8de5f9df11e6f4b407163", null ],
     [ "collidesWithBB", "d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#a912c0f3a42aefc049e119f931a2ec86e", null ],
+    [ "describeState", "d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#a5e372b66b93cd2dc4b3f5a4834addd77", null ],
+    [ "describeType", "d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#ae2a31d0326c8dfddaa8823a46aa43785", null ],
     [ "getAffectedBlocks", "d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#ad57a8bddf87431ff034f3a96e7219d63", null ],
     [ "getAllSides", "d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#afe506084e4bb8741a7ac64f6d90c00a5", null ],
     [ "getBreakInfo", "d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#aa4773f0153324728a2f41820fa52442d", null ],

@@ -111,8 +111,8 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="8" y="-372.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDescription()</text>
 <text text-anchor="start" x="8" y="-361.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLabel()</text>
 <text text-anchor="start" x="8" y="-350.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getName()</text>
-<text text-anchor="start" x="8" y="-339.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPermission()</text>
-<text text-anchor="start" x="8" y="-328.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPermissionMessage()</text>
+<text text-anchor="start" x="8" y="-339.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPermissionMessage()</text>
+<text text-anchor="start" x="8" y="-328.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPermissions()</text>
 <text text-anchor="start" x="8" y="-317.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUsage()</text>
 <text text-anchor="start" x="8" y="-306.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 12 more...</text>
 <text text-anchor="start" x="8" y="-295.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastCommandMessage()</text>

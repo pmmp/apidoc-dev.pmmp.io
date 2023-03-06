@@ -603,9 +603,7 @@ var hierarchy =
     [ "pocketmine\\network\\mcpe\\compression\\CompressBatchPromise", "d4/d17/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_compress_batch_promise.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\CompressionAlgorithm", "d3/d28/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_compression_algorithm.html", null ],
     [ "pocketmine\\network\\mcpe\\compression\\Compressor", "d3/d33/interfacepocketmine_1_1network_1_1mcpe_1_1compression_1_1_compressor.html", [
-      [ "pocketmine\\network\\mcpe\\compression\\ThresholdCompressor", "dd/dc1/interfacepocketmine_1_1network_1_1mcpe_1_1compression_1_1_threshold_compressor.html", [
-        [ "pocketmine\\network\\mcpe\\compression\\ZlibCompressor", "d2/db8/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_zlib_compressor.html", null ]
-      ] ]
+      [ "pocketmine\\network\\mcpe\\compression\\ZlibCompressor", "d2/db8/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_zlib_compressor.html", null ]
     ] ],
     [ "pocketmine\\utils\\Config", "d6/d2c/classpocketmine_1_1utils_1_1_config.html", null ],
     [ "pocketmine\\console\\ConsoleReader", "d9/d8a/classpocketmine_1_1console_1_1_console_reader.html", null ],

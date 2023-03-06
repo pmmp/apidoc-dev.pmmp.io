@@ -13,6 +13,8 @@ var classpocketmine_1_1block_1_1_froglight =
     [ "canBeReplaced", "de/d96/classpocketmine_1_1block_1_1_froglight.html#a30a070aa7befb02f9fff5cbf2693c01e", null ],
     [ "canClimb", "de/d96/classpocketmine_1_1block_1_1_froglight.html#a3bffed15a0b8de5f9df11e6f4b407163", null ],
     [ "collidesWithBB", "de/d96/classpocketmine_1_1block_1_1_froglight.html#a912c0f3a42aefc049e119f931a2ec86e", null ],
+    [ "describeState", "de/d96/classpocketmine_1_1block_1_1_froglight.html#a755d81f833709943a24b48920ac440e1", null ],
+    [ "describeType", "de/d96/classpocketmine_1_1block_1_1_froglight.html#a08dd9d52843f8b8de30c489738686067", null ],
     [ "getAffectedBlocks", "de/d96/classpocketmine_1_1block_1_1_froglight.html#ad57a8bddf87431ff034f3a96e7219d63", null ],
     [ "getAllSides", "de/d96/classpocketmine_1_1block_1_1_froglight.html#afe506084e4bb8741a7ac64f6d90c00a5", null ],
     [ "getBreakInfo", "de/d96/classpocketmine_1_1block_1_1_froglight.html#aa4773f0153324728a2f41820fa52442d", null ],

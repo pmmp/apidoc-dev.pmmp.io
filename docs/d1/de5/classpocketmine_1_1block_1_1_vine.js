@@ -12,6 +12,8 @@ var classpocketmine_1_1block_1_1_vine =
     [ "canBeReplaced", "d1/de5/classpocketmine_1_1block_1_1_vine.html#ac82e6e16107a87bc331fb3da14940b54", null ],
     [ "canClimb", "d1/de5/classpocketmine_1_1block_1_1_vine.html#aef4bca02a34a9c83408d6df0cadec210", null ],
     [ "collidesWithBB", "d1/de5/classpocketmine_1_1block_1_1_vine.html#a912c0f3a42aefc049e119f931a2ec86e", null ],
+    [ "describeState", "d1/de5/classpocketmine_1_1block_1_1_vine.html#a15e1841783d0474aa63e39863f4cd009", null ],
+    [ "describeType", "d1/de5/classpocketmine_1_1block_1_1_vine.html#ae2a31d0326c8dfddaa8823a46aa43785", null ],
     [ "getAffectedBlocks", "d1/de5/classpocketmine_1_1block_1_1_vine.html#ad57a8bddf87431ff034f3a96e7219d63", null ],
     [ "getAllSides", "d1/de5/classpocketmine_1_1block_1_1_vine.html#afe506084e4bb8741a7ac64f6d90c00a5", null ],
     [ "getBreakInfo", "d1/de5/classpocketmine_1_1block_1_1_vine.html#aa4773f0153324728a2f41820fa52442d", null ],

@@ -13,6 +13,8 @@ var classpocketmine_1_1block_1_1_stained_hardened_glass_pane =
     [ "canBeReplaced", "dc/d6c/classpocketmine_1_1block_1_1_stained_hardened_glass_pane.html#a30a070aa7befb02f9fff5cbf2693c01e", null ],
     [ "canClimb", "dc/d6c/classpocketmine_1_1block_1_1_stained_hardened_glass_pane.html#a3bffed15a0b8de5f9df11e6f4b407163", null ],
     [ "collidesWithBB", "dc/d6c/classpocketmine_1_1block_1_1_stained_hardened_glass_pane.html#a912c0f3a42aefc049e119f931a2ec86e", null ],
+    [ "describeState", "dc/d6c/classpocketmine_1_1block_1_1_stained_hardened_glass_pane.html#a755d81f833709943a24b48920ac440e1", null ],
+    [ "describeType", "dc/d6c/classpocketmine_1_1block_1_1_stained_hardened_glass_pane.html#ae2a31d0326c8dfddaa8823a46aa43785", null ],
     [ "getAffectedBlocks", "dc/d6c/classpocketmine_1_1block_1_1_stained_hardened_glass_pane.html#ad57a8bddf87431ff034f3a96e7219d63", null ],
     [ "getAllSides", "dc/d6c/classpocketmine_1_1block_1_1_stained_hardened_glass_pane.html#afe506084e4bb8741a7ac64f6d90c00a5", null ],
     [ "getBreakInfo", "dc/d6c/classpocketmine_1_1block_1_1_stained_hardened_glass_pane.html#aa4773f0153324728a2f41820fa52442d", null ],

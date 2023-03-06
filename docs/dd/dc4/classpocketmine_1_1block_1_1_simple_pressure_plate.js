@@ -12,6 +12,8 @@ var classpocketmine_1_1block_1_1_simple_pressure_plate =
     [ "canBeReplaced", "dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#a30a070aa7befb02f9fff5cbf2693c01e", null ],
     [ "canClimb", "dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#a3bffed15a0b8de5f9df11e6f4b407163", null ],
     [ "collidesWithBB", "dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#a912c0f3a42aefc049e119f931a2ec86e", null ],
+    [ "describeState", "dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#abbdb348695aa653398223dfa1ee43713", null ],
+    [ "describeType", "dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#ae2a31d0326c8dfddaa8823a46aa43785", null ],
     [ "getAffectedBlocks", "dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#ad57a8bddf87431ff034f3a96e7219d63", null ],
     [ "getAllSides", "dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#afe506084e4bb8741a7ac64f6d90c00a5", null ],
     [ "getBreakInfo", "dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#aa4773f0153324728a2f41820fa52442d", null ],

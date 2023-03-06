@@ -12,6 +12,8 @@ var classpocketmine_1_1block_1_1_sapling =
     [ "canBeReplaced", "d6/d87/classpocketmine_1_1block_1_1_sapling.html#a30a070aa7befb02f9fff5cbf2693c01e", null ],
     [ "canClimb", "d6/d87/classpocketmine_1_1block_1_1_sapling.html#a3bffed15a0b8de5f9df11e6f4b407163", null ],
     [ "collidesWithBB", "d6/d87/classpocketmine_1_1block_1_1_sapling.html#a912c0f3a42aefc049e119f931a2ec86e", null ],
+    [ "describeState", "d6/d87/classpocketmine_1_1block_1_1_sapling.html#a03dd47124b2d2d33ca7aead3805c6aa0", null ],
+    [ "describeType", "d6/d87/classpocketmine_1_1block_1_1_sapling.html#ae2a31d0326c8dfddaa8823a46aa43785", null ],
     [ "getAffectedBlocks", "d6/d87/classpocketmine_1_1block_1_1_sapling.html#ad57a8bddf87431ff034f3a96e7219d63", null ],
     [ "getAllSides", "d6/d87/classpocketmine_1_1block_1_1_sapling.html#afe506084e4bb8741a7ac64f6d90c00a5", null ],
     [ "getBreakInfo", "d6/d87/classpocketmine_1_1block_1_1_sapling.html#aa4773f0153324728a2f41820fa52442d", null ],

@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA10 git-7608d5f04e347f9548d2040aa624867571848125</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA10 git-6db2b022fb3c062d788f5b7ed393737f99c97039</span>
    </div>
   </td>
  </tr>
@@ -132,13 +132,13 @@ $(document).ready(function(){initNavTree('db/d6f/_barrel_8php_source.html','../.
 <div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span> </div>
 <div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>    <span class="keyword">protected</span> <span class="keywordtype">bool</span> $open = <span class="keyword">false</span>;</div>
 <div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span> </div>
-<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>    <span class="keyword">protected</span> <span class="keyword">function</span> describeState(<a class="code hl_interface" href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html">RuntimeDataDescriber</a> $w) : <span class="keywordtype">void</span>{</div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno"><a class="line" href="../../da/d36/classpocketmine_1_1block_1_1_barrel.html#a6d2bff7d1f40aec3fb5bbd83e6f7f3cb">   41</a></span>    <span class="keyword">protected</span> <span class="keyword">function</span> <a class="code hl_function" href="../../da/d36/classpocketmine_1_1block_1_1_barrel.html#a6d2bff7d1f40aec3fb5bbd83e6f7f3cb">describeState</a>(<a class="code hl_interface" href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html">RuntimeDataDescriber</a> $w) : void{</div>
 <div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>        $w-&gt;facing($this-&gt;facing);</div>
 <div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>        $w-&gt;bool($this-&gt;open);</div>
 <div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>    }</div>
 <div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span> </div>
-<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>    <span class="keyword">public</span> <span class="keyword">function</span> isOpen() : <span class="keywordtype">bool</span>{</div>
-<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>        <span class="keywordflow">return</span> $this-&gt;open;</div>
+<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>    <span class="keyword">public</span> <span class="keyword">function</span> isOpen() : bool{</div>
+<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>        return $this-&gt;open;</div>
 <div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>    }</div>
 <div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span> </div>
 <div class="line"><a id="l00051" name="l00051"></a><span class="lineno"><a class="line" href="../../da/d36/classpocketmine_1_1block_1_1_barrel.html#abf2b9d7ec3695bfbaaffc43168614e84">   51</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../da/d36/classpocketmine_1_1block_1_1_barrel.html#abf2b9d7ec3695bfbaaffc43168614e84">setOpen</a>(<span class="keywordtype">bool</span> $open) : <a class="code hl_class" href="../../da/d36/classpocketmine_1_1block_1_1_barrel.html">Barrel</a>{</div>
@@ -156,10 +156,10 @@ $(document).ready(function(){initNavTree('db/d6f/_barrel_8php_source.html','../.
 <div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>                }elseif($this-&gt;position-&gt;getY() - $y &gt; 0){</div>
 <div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>                    $this-&gt;facing = Facing::DOWN;</div>
 <div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>                }<span class="keywordflow">else</span>{</div>
-<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>                    $this-&gt;facing = <a class="code hl_function" href="../../dd/d25/classpocketmine_1_1math_1_1_facing.html#adb0c50bed6e2a948367c7c9ca6b0831d">Facing::opposite</a>($player-&gt;getHorizontalFacing());</div>
+<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>                    $this-&gt;facing = Facing::opposite($player-&gt;getHorizontalFacing());</div>
 <div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>                }</div>
 <div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>            }<span class="keywordflow">else</span>{</div>
-<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>                $this-&gt;facing = <a class="code hl_function" href="../../dd/d25/classpocketmine_1_1math_1_1_facing.html#adb0c50bed6e2a948367c7c9ca6b0831d">Facing::opposite</a>($player-&gt;getHorizontalFacing());</div>
+<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>                $this-&gt;facing = Facing::opposite($player-&gt;getHorizontalFacing());</div>
 <div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>            }</div>
 <div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>        }</div>
 <div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span> </div>
@@ -186,6 +186,7 @@ $(document).ready(function(){initNavTree('db/d6f/_barrel_8php_source.html','../.
 <div class="line"><a id="l00093" name="l00093"></a><span class="lineno">   93</span>    }</div>
 <div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span>}</div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_barrel_html"><div class="ttname"><a href="../../da/d36/classpocketmine_1_1block_1_1_barrel.html">pocketmine\block\Barrel</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d6f/_barrel_8php_source.html#l00036">Barrel.php:36</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_barrel_html_a6d2bff7d1f40aec3fb5bbd83e6f7f3cb"><div class="ttname"><a href="../../da/d36/classpocketmine_1_1block_1_1_barrel.html#a6d2bff7d1f40aec3fb5bbd83e6f7f3cb">pocketmine\block\Barrel\describeState</a></div><div class="ttdeci">describeState(RuntimeDataDescriber $w)</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d6f/_barrel_8php_source.html#l00041">Barrel.php:41</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_barrel_html_a6f72dbdeddc7d73e3f8b865561e8cea7"><div class="ttname"><a href="../../da/d36/classpocketmine_1_1block_1_1_barrel.html#a6f72dbdeddc7d73e3f8b865561e8cea7">pocketmine\block\Barrel\getFuelTime</a></div><div class="ttdeci">getFuelTime()</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d6f/_barrel_8php_source.html#l00091">Barrel.php:91</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_barrel_html_a721bc98619c49e6b9a7a3a622b7033c2"><div class="ttname"><a href="../../da/d36/classpocketmine_1_1block_1_1_barrel.html#a721bc98619c49e6b9a7a3a622b7033c2">pocketmine\block\Barrel\place</a></div><div class="ttdeci">place(BlockTransaction $tx, Item $item, Block $blockReplace, Block $blockClicked, int $face, Vector3 $clickVector, ?Player $player=null)</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d6f/_barrel_8php_source.html#l00056">Barrel.php:56</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_barrel_html_abf2b9d7ec3695bfbaaffc43168614e84"><div class="ttname"><a href="../../da/d36/classpocketmine_1_1block_1_1_barrel.html#abf2b9d7ec3695bfbaaffc43168614e84">pocketmine\block\Barrel\setOpen</a></div><div class="ttdeci">setOpen(bool $open)</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d6f/_barrel_8php_source.html#l00051">Barrel.php:51</a></div></div>
@@ -195,7 +196,6 @@ $(document).ready(function(){initNavTree('db/d6f/_barrel_8php_source.html','../.
 <div class="ttc" id="aclasspocketmine_1_1block_1_1tile_1_1_barrel_html"><div class="ttname"><a href="../../d4/dcc/classpocketmine_1_1block_1_1tile_1_1_barrel.html">pocketmine\block\tile\Barrel</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d8/ddf/tile_2_barrel_8php_source.html#l00031">tile/Barrel.php:31</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">pocketmine\item\Item</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d98/_item_8php_source.html#l00059">Item.php:59</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1math_1_1_facing_html"><div class="ttname"><a href="../../dd/d25/classpocketmine_1_1math_1_1_facing.html">pocketmine\math\Facing</a></div><div class="ttdef"><b>Definition:</b> <a href="../../df/d0d/_facing_8php_source.html#l00028">Facing.php:28</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1math_1_1_facing_html_adb0c50bed6e2a948367c7c9ca6b0831d"><div class="ttname"><a href="../../dd/d25/classpocketmine_1_1math_1_1_facing.html#adb0c50bed6e2a948367c7c9ca6b0831d">pocketmine\math\Facing\opposite</a></div><div class="ttdeci">static opposite(int $direction)</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d0d/_facing_8php_source.html#l00099">Facing.php:99</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1math_1_1_vector3_html"><div class="ttname"><a href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">pocketmine\math\Vector3</a></div><div class="ttdef"><b>Definition:</b> <a href="../../de/d7b/_vector3_8php_source.html#l00036">Vector3.php:36</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1player_1_1_player_html"><div class="ttname"><a href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html">pocketmine\player\Player</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d76/_player_8php_source.html#l00162">Player.php:162</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1_block_transaction_html"><div class="ttname"><a href="../../d4/d3e/classpocketmine_1_1world_1_1_block_transaction.html">pocketmine\world\BlockTransaction</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d1f/_block_transaction_8php_source.html#l00030">BlockTransaction.php:30</a></div></div>

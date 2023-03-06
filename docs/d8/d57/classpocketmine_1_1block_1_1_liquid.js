@@ -12,6 +12,8 @@ var classpocketmine_1_1block_1_1_liquid =
     [ "canBeReplaced", "d8/d57/classpocketmine_1_1block_1_1_liquid.html#a8c35a082da3055d637f0ff28decbc171", null ],
     [ "canClimb", "d8/d57/classpocketmine_1_1block_1_1_liquid.html#a3bffed15a0b8de5f9df11e6f4b407163", null ],
     [ "collidesWithBB", "d8/d57/classpocketmine_1_1block_1_1_liquid.html#a912c0f3a42aefc049e119f931a2ec86e", null ],
+    [ "describeState", "d8/d57/classpocketmine_1_1block_1_1_liquid.html#aa05e439477133dc93d7c72e4b3ef4001", null ],
+    [ "describeType", "d8/d57/classpocketmine_1_1block_1_1_liquid.html#ae2a31d0326c8dfddaa8823a46aa43785", null ],
     [ "getAffectedBlocks", "d8/d57/classpocketmine_1_1block_1_1_liquid.html#ad57a8bddf87431ff034f3a96e7219d63", null ],
     [ "getAllSides", "d8/d57/classpocketmine_1_1block_1_1_liquid.html#afe506084e4bb8741a7ac64f6d90c00a5", null ],
     [ "getBreakInfo", "d8/d57/classpocketmine_1_1block_1_1_liquid.html#aa4773f0153324728a2f41820fa52442d", null ],

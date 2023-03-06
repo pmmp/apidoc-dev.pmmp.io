@@ -15,7 +15,6 @@ var namespacepocketmine_1_1network =
         [ "CompressBatchTask", "d6/dda/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_compress_batch_task.html", "d6/dda/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_compress_batch_task" ],
         [ "Compressor", "d3/d33/interfacepocketmine_1_1network_1_1mcpe_1_1compression_1_1_compressor.html", "d3/d33/interfacepocketmine_1_1network_1_1mcpe_1_1compression_1_1_compressor" ],
         [ "DecompressionException", "d3/d18/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_decompression_exception.html", null ],
-        [ "ThresholdCompressor", "dd/dc1/interfacepocketmine_1_1network_1_1mcpe_1_1compression_1_1_threshold_compressor.html", "dd/dc1/interfacepocketmine_1_1network_1_1mcpe_1_1compression_1_1_threshold_compressor" ],
         [ "ZlibCompressor", "d2/db8/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_zlib_compressor.html", "d2/db8/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_zlib_compressor" ]
       ] ],
       [ "convert", null, [

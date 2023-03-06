@@ -12,6 +12,8 @@ var classpocketmine_1_1block_1_1_double_tall_grass =
     [ "canBeReplaced", "dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a38b6430d74a67c8da82c9804bc9ba3d4", null ],
     [ "canClimb", "dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a3bffed15a0b8de5f9df11e6f4b407163", null ],
     [ "collidesWithBB", "dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a912c0f3a42aefc049e119f931a2ec86e", null ],
+    [ "describeState", "dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a944c4be7c86e19df11077585471d9899", null ],
+    [ "describeType", "dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#ae2a31d0326c8dfddaa8823a46aa43785", null ],
     [ "getAffectedBlocks", "dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#aefe15e588941b1878f3e02aae723f132", null ],
     [ "getAllSides", "dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#afe506084e4bb8741a7ac64f6d90c00a5", null ],
     [ "getBreakInfo", "dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#aa4773f0153324728a2f41820fa52442d", null ],

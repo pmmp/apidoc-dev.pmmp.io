@@ -12,6 +12,8 @@ var classpocketmine_1_1block_1_1_hopper =
     [ "canBeReplaced", "d6/d3a/classpocketmine_1_1block_1_1_hopper.html#a30a070aa7befb02f9fff5cbf2693c01e", null ],
     [ "canClimb", "d6/d3a/classpocketmine_1_1block_1_1_hopper.html#a3bffed15a0b8de5f9df11e6f4b407163", null ],
     [ "collidesWithBB", "d6/d3a/classpocketmine_1_1block_1_1_hopper.html#a912c0f3a42aefc049e119f931a2ec86e", null ],
+    [ "describeState", "d6/d3a/classpocketmine_1_1block_1_1_hopper.html#a1750c5e0e9316f95b20bc0f6a3f5eefd", null ],
+    [ "describeType", "d6/d3a/classpocketmine_1_1block_1_1_hopper.html#ae2a31d0326c8dfddaa8823a46aa43785", null ],
     [ "getAffectedBlocks", "d6/d3a/classpocketmine_1_1block_1_1_hopper.html#ad57a8bddf87431ff034f3a96e7219d63", null ],
     [ "getAllSides", "d6/d3a/classpocketmine_1_1block_1_1_hopper.html#afe506084e4bb8741a7ac64f6d90c00a5", null ],
     [ "getBreakInfo", "d6/d3a/classpocketmine_1_1block_1_1_hopper.html#aa4773f0153324728a2f41820fa52442d", null ],

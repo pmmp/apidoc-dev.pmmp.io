@@ -12,6 +12,8 @@ var classpocketmine_1_1block_1_1_soul_fire =
     [ "canBeReplaced", "d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#a00c557b8214487950580b4f8fb2fc39c", null ],
     [ "canClimb", "d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#a3bffed15a0b8de5f9df11e6f4b407163", null ],
     [ "collidesWithBB", "d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#a912c0f3a42aefc049e119f931a2ec86e", null ],
+    [ "describeState", "d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#a755d81f833709943a24b48920ac440e1", null ],
+    [ "describeType", "d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#ae2a31d0326c8dfddaa8823a46aa43785", null ],
     [ "getAffectedBlocks", "d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#ad57a8bddf87431ff034f3a96e7219d63", null ],
     [ "getAllSides", "d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#afe506084e4bb8741a7ac64f6d90c00a5", null ],
     [ "getBreakInfo", "d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#aa4773f0153324728a2f41820fa52442d", null ],

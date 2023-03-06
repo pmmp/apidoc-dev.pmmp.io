@@ -13,6 +13,8 @@ var classpocketmine_1_1block_1_1_bell =
     [ "canBeReplaced", "df/d78/classpocketmine_1_1block_1_1_bell.html#a30a070aa7befb02f9fff5cbf2693c01e", null ],
     [ "canClimb", "df/d78/classpocketmine_1_1block_1_1_bell.html#a3bffed15a0b8de5f9df11e6f4b407163", null ],
     [ "collidesWithBB", "df/d78/classpocketmine_1_1block_1_1_bell.html#a912c0f3a42aefc049e119f931a2ec86e", null ],
+    [ "describeState", "df/d78/classpocketmine_1_1block_1_1_bell.html#a5269d4b124686b445ec76f12e5c65315", null ],
+    [ "describeType", "df/d78/classpocketmine_1_1block_1_1_bell.html#ae2a31d0326c8dfddaa8823a46aa43785", null ],
     [ "getAffectedBlocks", "df/d78/classpocketmine_1_1block_1_1_bell.html#ad57a8bddf87431ff034f3a96e7219d63", null ],
     [ "getAllSides", "df/d78/classpocketmine_1_1block_1_1_bell.html#afe506084e4bb8741a7ac64f6d90c00a5", null ],
     [ "getBreakInfo", "df/d78/classpocketmine_1_1block_1_1_bell.html#aa4773f0153324728a2f41820fa52442d", null ],

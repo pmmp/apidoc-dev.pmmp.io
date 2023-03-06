@@ -12,6 +12,8 @@ var classpocketmine_1_1block_1_1_tripwire_hook =
     [ "canBeReplaced", "da/df6/classpocketmine_1_1block_1_1_tripwire_hook.html#a30a070aa7befb02f9fff5cbf2693c01e", null ],
     [ "canClimb", "da/df6/classpocketmine_1_1block_1_1_tripwire_hook.html#a3bffed15a0b8de5f9df11e6f4b407163", null ],
     [ "collidesWithBB", "da/df6/classpocketmine_1_1block_1_1_tripwire_hook.html#a912c0f3a42aefc049e119f931a2ec86e", null ],
+    [ "describeState", "da/df6/classpocketmine_1_1block_1_1_tripwire_hook.html#a05f346bf0d734875116f13b2fc64f814", null ],
+    [ "describeType", "da/df6/classpocketmine_1_1block_1_1_tripwire_hook.html#ae2a31d0326c8dfddaa8823a46aa43785", null ],
     [ "getAffectedBlocks", "da/df6/classpocketmine_1_1block_1_1_tripwire_hook.html#ad57a8bddf87431ff034f3a96e7219d63", null ],
     [ "getAllSides", "da/df6/classpocketmine_1_1block_1_1_tripwire_hook.html#afe506084e4bb8741a7ac64f6d90c00a5", null ],
     [ "getBreakInfo", "da/df6/classpocketmine_1_1block_1_1_tripwire_hook.html#aa4773f0153324728a2f41820fa52442d", null ],

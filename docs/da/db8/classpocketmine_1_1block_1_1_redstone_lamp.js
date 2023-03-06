@@ -12,6 +12,8 @@ var classpocketmine_1_1block_1_1_redstone_lamp =
     [ "canBeReplaced", "da/db8/classpocketmine_1_1block_1_1_redstone_lamp.html#a30a070aa7befb02f9fff5cbf2693c01e", null ],
     [ "canClimb", "da/db8/classpocketmine_1_1block_1_1_redstone_lamp.html#a3bffed15a0b8de5f9df11e6f4b407163", null ],
     [ "collidesWithBB", "da/db8/classpocketmine_1_1block_1_1_redstone_lamp.html#a912c0f3a42aefc049e119f931a2ec86e", null ],
+    [ "describeState", "da/db8/classpocketmine_1_1block_1_1_redstone_lamp.html#a664f456c229ca919f046293d15a9684e", null ],
+    [ "describeType", "da/db8/classpocketmine_1_1block_1_1_redstone_lamp.html#ae2a31d0326c8dfddaa8823a46aa43785", null ],
     [ "getAffectedBlocks", "da/db8/classpocketmine_1_1block_1_1_redstone_lamp.html#ad57a8bddf87431ff034f3a96e7219d63", null ],
     [ "getAllSides", "da/db8/classpocketmine_1_1block_1_1_redstone_lamp.html#afe506084e4bb8741a7ac64f6d90c00a5", null ],
     [ "getBreakInfo", "da/db8/classpocketmine_1_1block_1_1_redstone_lamp.html#aa4773f0153324728a2f41820fa52442d", null ],

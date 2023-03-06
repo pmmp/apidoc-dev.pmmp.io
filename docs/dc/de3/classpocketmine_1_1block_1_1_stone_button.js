@@ -12,6 +12,8 @@ var classpocketmine_1_1block_1_1_stone_button =
     [ "canBeReplaced", "dc/de3/classpocketmine_1_1block_1_1_stone_button.html#a30a070aa7befb02f9fff5cbf2693c01e", null ],
     [ "canClimb", "dc/de3/classpocketmine_1_1block_1_1_stone_button.html#a3bffed15a0b8de5f9df11e6f4b407163", null ],
     [ "collidesWithBB", "dc/de3/classpocketmine_1_1block_1_1_stone_button.html#a912c0f3a42aefc049e119f931a2ec86e", null ],
+    [ "describeState", "dc/de3/classpocketmine_1_1block_1_1_stone_button.html#acefb004127660ca681cf058e7a44b859", null ],
+    [ "describeType", "dc/de3/classpocketmine_1_1block_1_1_stone_button.html#ae2a31d0326c8dfddaa8823a46aa43785", null ],
     [ "getAffectedBlocks", "dc/de3/classpocketmine_1_1block_1_1_stone_button.html#ad57a8bddf87431ff034f3a96e7219d63", null ],
     [ "getAllSides", "dc/de3/classpocketmine_1_1block_1_1_stone_button.html#afe506084e4bb8741a7ac64f6d90c00a5", null ],
     [ "getBreakInfo", "dc/de3/classpocketmine_1_1block_1_1_stone_button.html#aa4773f0153324728a2f41820fa52442d", null ],

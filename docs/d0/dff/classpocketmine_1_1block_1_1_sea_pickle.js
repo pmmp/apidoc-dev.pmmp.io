@@ -12,6 +12,8 @@ var classpocketmine_1_1block_1_1_sea_pickle =
     [ "canBeReplaced", "d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#a30a070aa7befb02f9fff5cbf2693c01e", null ],
     [ "canClimb", "d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#a3bffed15a0b8de5f9df11e6f4b407163", null ],
     [ "collidesWithBB", "d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#a912c0f3a42aefc049e119f931a2ec86e", null ],
+    [ "describeState", "d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#a72f9d623cf27373e055be92a1bd9dac1", null ],
+    [ "describeType", "d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#ae2a31d0326c8dfddaa8823a46aa43785", null ],
     [ "getAffectedBlocks", "d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#ad57a8bddf87431ff034f3a96e7219d63", null ],
     [ "getAllSides", "d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#afe506084e4bb8741a7ac64f6d90c00a5", null ],
     [ "getBreakInfo", "d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#aa4773f0153324728a2f41820fa52442d", null ],

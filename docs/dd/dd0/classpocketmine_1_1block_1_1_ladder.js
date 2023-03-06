@@ -12,6 +12,8 @@ var classpocketmine_1_1block_1_1_ladder =
     [ "canBeReplaced", "dd/dd0/classpocketmine_1_1block_1_1_ladder.html#a30a070aa7befb02f9fff5cbf2693c01e", null ],
     [ "canClimb", "dd/dd0/classpocketmine_1_1block_1_1_ladder.html#a7c77e2ae994d510badc3716e73d9de99", null ],
     [ "collidesWithBB", "dd/dd0/classpocketmine_1_1block_1_1_ladder.html#a912c0f3a42aefc049e119f931a2ec86e", null ],
+    [ "describeState", "dd/dd0/classpocketmine_1_1block_1_1_ladder.html#a755d81f833709943a24b48920ac440e1", null ],
+    [ "describeType", "dd/dd0/classpocketmine_1_1block_1_1_ladder.html#ae2a31d0326c8dfddaa8823a46aa43785", null ],
     [ "getAffectedBlocks", "dd/dd0/classpocketmine_1_1block_1_1_ladder.html#ad57a8bddf87431ff034f3a96e7219d63", null ],
     [ "getAllSides", "dd/dd0/classpocketmine_1_1block_1_1_ladder.html#afe506084e4bb8741a7ac64f6d90c00a5", null ],
     [ "getBreakInfo", "dd/dd0/classpocketmine_1_1block_1_1_ladder.html#aa4773f0153324728a2f41820fa52442d", null ],

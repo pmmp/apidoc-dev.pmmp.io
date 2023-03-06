@@ -12,6 +12,8 @@ var classpocketmine_1_1block_1_1_sugarcane =
     [ "canBeReplaced", "da/da9/classpocketmine_1_1block_1_1_sugarcane.html#a30a070aa7befb02f9fff5cbf2693c01e", null ],
     [ "canClimb", "da/da9/classpocketmine_1_1block_1_1_sugarcane.html#a3bffed15a0b8de5f9df11e6f4b407163", null ],
     [ "collidesWithBB", "da/da9/classpocketmine_1_1block_1_1_sugarcane.html#a912c0f3a42aefc049e119f931a2ec86e", null ],
+    [ "describeState", "da/da9/classpocketmine_1_1block_1_1_sugarcane.html#a64654c36c28187ee370fe5485d3ed712", null ],
+    [ "describeType", "da/da9/classpocketmine_1_1block_1_1_sugarcane.html#ae2a31d0326c8dfddaa8823a46aa43785", null ],
     [ "getAffectedBlocks", "da/da9/classpocketmine_1_1block_1_1_sugarcane.html#ad57a8bddf87431ff034f3a96e7219d63", null ],
     [ "getAllSides", "da/da9/classpocketmine_1_1block_1_1_sugarcane.html#afe506084e4bb8741a7ac64f6d90c00a5", null ],
     [ "getBreakInfo", "da/da9/classpocketmine_1_1block_1_1_sugarcane.html#aa4773f0153324728a2f41820fa52442d", null ],

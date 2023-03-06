@@ -12,6 +12,8 @@ var classpocketmine_1_1block_1_1_nether_vines =
     [ "canBeReplaced", "d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#a30a070aa7befb02f9fff5cbf2693c01e", null ],
     [ "canClimb", "d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#ace05065b689f1876c0d42249b3e29c92", null ],
     [ "collidesWithBB", "d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#a912c0f3a42aefc049e119f931a2ec86e", null ],
+    [ "describeState", "d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#afe5cde37e00a3abc97c3d2836a9e0307", null ],
+    [ "describeType", "d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#ae2a31d0326c8dfddaa8823a46aa43785", null ],
     [ "getAffectedBlocks", "d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#ad57a8bddf87431ff034f3a96e7219d63", null ],
     [ "getAllSides", "d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#afe506084e4bb8741a7ac64f6d90c00a5", null ],
     [ "getBreakInfo", "d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#aa4773f0153324728a2f41820fa52442d", null ],
