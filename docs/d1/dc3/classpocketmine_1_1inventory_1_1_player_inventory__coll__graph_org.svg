@@ -483,11 +483,11 @@
 <text text-anchor="start" x="1380.5" y="-2707.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addOp()</text>
 <text text-anchor="start" x="1380.5" y="-2696.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addWhitelist()</text>
 <text text-anchor="start" x="1380.5" y="-2685.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastMessage()</text>
-<text text-anchor="start" x="1380.5" y="-2674.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastPackets()</text>
-<text text-anchor="start" x="1380.5" y="-2663.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastPopup()</text>
-<text text-anchor="start" x="1380.5" y="-2652.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastTip()</text>
-<text text-anchor="start" x="1380.5" y="-2641.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastTitle()</text>
-<text text-anchor="start" x="1380.5" y="-2630.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 81 more...</text>
+<text text-anchor="start" x="1380.5" y="-2674.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastPopup()</text>
+<text text-anchor="start" x="1380.5" y="-2663.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastTip()</text>
+<text text-anchor="start" x="1380.5" y="-2652.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastTitle()</text>
+<text text-anchor="start" x="1380.5" y="-2641.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ crashDump()</text>
+<text text-anchor="start" x="1380.5" y="-2630.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 80 more...</text>
 <text text-anchor="start" x="1380.5" y="-2619.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getInstance()</text>
 </a>
 </g>

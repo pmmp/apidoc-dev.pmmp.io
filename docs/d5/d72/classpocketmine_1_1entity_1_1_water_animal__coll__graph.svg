@@ -358,11 +358,11 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="1109.5" y="-2344.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addOp()</text>
 <text text-anchor="start" x="1109.5" y="-2333.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addWhitelist()</text>
 <text text-anchor="start" x="1109.5" y="-2322.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastMessage()</text>
-<text text-anchor="start" x="1109.5" y="-2311.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastPackets()</text>
-<text text-anchor="start" x="1109.5" y="-2300.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastPopup()</text>
-<text text-anchor="start" x="1109.5" y="-2289.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastTip()</text>
-<text text-anchor="start" x="1109.5" y="-2278.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastTitle()</text>
-<text text-anchor="start" x="1109.5" y="-2267.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 81 more...</text>
+<text text-anchor="start" x="1109.5" y="-2311.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastPopup()</text>
+<text text-anchor="start" x="1109.5" y="-2300.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastTip()</text>
+<text text-anchor="start" x="1109.5" y="-2289.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastTitle()</text>
+<text text-anchor="start" x="1109.5" y="-2278.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ crashDump()</text>
+<text text-anchor="start" x="1109.5" y="-2267.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 80 more...</text>
 <text text-anchor="start" x="1109.5" y="-2256.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getInstance()</text>
 </a>
 </g>

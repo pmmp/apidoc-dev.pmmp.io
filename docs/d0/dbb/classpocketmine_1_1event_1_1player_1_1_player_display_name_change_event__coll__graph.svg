@@ -456,11 +456,11 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="1364.1" y="-3225.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addOp()</text>
 <text text-anchor="start" x="1364.1" y="-3214.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addWhitelist()</text>
 <text text-anchor="start" x="1364.1" y="-3203.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastMessage()</text>
-<text text-anchor="start" x="1364.1" y="-3192.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastPackets()</text>
-<text text-anchor="start" x="1364.1" y="-3181.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastPopup()</text>
-<text text-anchor="start" x="1364.1" y="-3170.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastTip()</text>
-<text text-anchor="start" x="1364.1" y="-3159.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastTitle()</text>
-<text text-anchor="start" x="1364.1" y="-3148.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 81 more...</text>
+<text text-anchor="start" x="1364.1" y="-3192.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastPopup()</text>
+<text text-anchor="start" x="1364.1" y="-3181.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastTip()</text>
+<text text-anchor="start" x="1364.1" y="-3170.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastTitle()</text>
+<text text-anchor="start" x="1364.1" y="-3159.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ crashDump()</text>
+<text text-anchor="start" x="1364.1" y="-3148.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 80 more...</text>
 <text text-anchor="start" x="1364.1" y="-3137.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getInstance()</text>
 </a>
 </g>
@@ -1445,9 +1445,9 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="3461.1" y="-840.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBroadcaster()</text>
 <text text-anchor="start" x="3461.1" y="-829.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCompressor()</text>
 <text text-anchor="start" x="3461.1" y="-818.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDisplayName()</text>
-<text text-anchor="start" x="3461.1" y="-807.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getHandler()</text>
-<text text-anchor="start" x="3461.1" y="-796.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getInvManager()</text>
-<text text-anchor="start" x="3461.1" y="-785.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 61 more...</text>
+<text text-anchor="start" x="3461.1" y="-807.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEntityEventBroadcaster()</text>
+<text text-anchor="start" x="3461.1" y="-796.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getHandler()</text>
+<text text-anchor="start" x="3461.1" y="-785.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 52 more...</text>
 <text text-anchor="start" x="3461.1" y="-774.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ encodePacketTimed()</text>
 <text text-anchor="start" x="3461.1" y="-763.5" font-family="Helvetica,sans-Serif" font-size="10.00"># createPlayer()</text>
 </a>

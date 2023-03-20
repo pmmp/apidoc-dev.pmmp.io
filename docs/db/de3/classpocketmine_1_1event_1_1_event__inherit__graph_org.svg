@@ -350,9 +350,9 @@
 <path fill="none" stroke="midnightblue" d="M4250.17,-692.73C4460.73,-687.37 5031.45,-668.9 5103.5,-625 5138.08,-603.93 5159.53,-561.16 5170.98,-531.09"/>
 <polygon fill="none" stroke="midnightblue" points="4250.03,-689.23 4240.12,-692.98 4250.21,-696.23 4250.03,-689.23"/>
 </g>
-<!-- Node112 -->
+<!-- Node113 -->
 <g id="node49" class="node">
-<title>Node112</title>
+<title>Node113</title>
 <g id="a_node49"><a xlink:href="../../d9/d97/classpocketmine_1_1event_1_1world_1_1_world_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="orangered" points="5268.5,-457.5 5268.5,-536.5 5402.5,-536.5 5402.5,-457.5 5268.5,-457.5"/>
 <text text-anchor="start" x="5276.5" y="-524.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\world</text>
@@ -365,9 +365,9 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node112 -->
+<!-- Node1&#45;&gt;Node113 -->
 <g id="edge48" class="edge">
-<title>Node1&#45;&gt;Node112</title>
+<title>Node1&#45;&gt;Node113</title>
 <path fill="none" stroke="midnightblue" d="M4250.3,-693.67C4484.8,-690.6 5173.95,-677.18 5259.5,-625 5291.75,-605.33 5312.02,-566.38 5323.44,-536.77"/>
 <polygon fill="none" stroke="midnightblue" points="4250.1,-690.17 4240.15,-693.8 4250.19,-697.17 4250.1,-690.17"/>
 </g>

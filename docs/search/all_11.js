@@ -206,7 +206,7 @@ var searchData=
   ['potiontyperecipedata_203',['PotionTypeRecipeData',['../db/d4a/classpocketmine_1_1crafting_1_1json_1_1_potion_type_recipe_data.html',1,'pocketmine::crafting::json']]],
   ['poweredrail_204',['PoweredRail',['../d8/dee/classpocketmine_1_1block_1_1_powered_rail.html',1,'pocketmine::block']]],
   ['prefixedlogger_205',['PrefixedLogger',['../d9/d00/class_prefixed_logger.html',1,'']]],
-  ['preparebatch_206',['prepareBatch',['../d5/df7/classpocketmine_1_1_server.html#ac197930969e14ba07d3e3b3d83ea2c6d',1,'pocketmine::Server']]],
+  ['preparebatch_206',['prepareBatch',['../d5/df7/classpocketmine_1_1_server.html#a46c9c05ba311237d2d8ca19fa4d32ef5',1,'pocketmine::Server']]],
   ['prepareclienttranslatablemessage_207',['prepareClientTranslatableMessage',['../de/d3a/classpocketmine_1_1network_1_1mcpe_1_1_network_session.html#a0b27527ea85f5da782d0400cf302a58c',1,'pocketmine::network::mcpe::NetworkSession']]],
   ['prepareencryptiontask_208',['PrepareEncryptionTask',['../d7/d18/classpocketmine_1_1network_1_1mcpe_1_1encryption_1_1_prepare_encryption_task.html',1,'pocketmine::network::mcpe::encryption']]],
   ['prespawnpackethandler_209',['PreSpawnPacketHandler',['../d0/d3c/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_pre_spawn_packet_handler.html',1,'pocketmine::network::mcpe::handler']]],

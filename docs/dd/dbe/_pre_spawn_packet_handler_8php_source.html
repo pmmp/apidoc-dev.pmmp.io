@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-ALPHA10 git-6db2b022fb3c062d788f5b7ed393737f99c97039</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA2 git-cf0e7b4213d2f6b9793b6f594e9b198e06dbca35</span>
    </div>
   </td>
  </tr>
@@ -205,7 +205,7 @@ $(document).ready(function(){initNavTree('dd/dbe/_pre_spawn_packet_handler_8php_
 <div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span>        $this-&gt;session-&gt;sendDataPacket(StaticPacketCache::getInstance()-&gt;getBiomeDefs());</div>
 <div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span> </div>
 <div class="line"><a id="l00116" name="l00116"></a><span class="lineno">  116</span>        $this-&gt;session-&gt;getLogger()-&gt;debug(<span class="stringliteral">&quot;Sending attributes&quot;</span>);</div>
-<div class="line"><a id="l00117" name="l00117"></a><span class="lineno">  117</span>        $this-&gt;session-&gt;syncAttributes($this-&gt;player, $this-&gt;player-&gt;getAttributeMap()-&gt;getAll());</div>
+<div class="line"><a id="l00117" name="l00117"></a><span class="lineno">  117</span>        $this-&gt;session-&gt;getEntityEventBroadcaster()-&gt;syncAttributes([$this-&gt;session], $this-&gt;player, $this-&gt;player-&gt;getAttributeMap()-&gt;getAll());</div>
 <div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span> </div>
 <div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>        $this-&gt;session-&gt;getLogger()-&gt;debug(<span class="stringliteral">&quot;Sending available commands&quot;</span>);</div>
 <div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>        $this-&gt;session-&gt;syncAvailableCommands();</div>
@@ -216,7 +216,7 @@ $(document).ready(function(){initNavTree('dd/dbe/_pre_spawn_packet_handler_8php_
 <div class="line"><a id="l00125" name="l00125"></a><span class="lineno">  125</span> </div>
 <div class="line"><a id="l00126" name="l00126"></a><span class="lineno">  126</span>        $this-&gt;session-&gt;getLogger()-&gt;debug(<span class="stringliteral">&quot;Sending effects&quot;</span>);</div>
 <div class="line"><a id="l00127" name="l00127"></a><span class="lineno">  127</span>        <span class="keywordflow">foreach</span>($this-&gt;player-&gt;getEffects()-&gt;all() as $effect){</div>
-<div class="line"><a id="l00128" name="l00128"></a><span class="lineno">  128</span>            $this-&gt;session-&gt;onEntityEffectAdded($this-&gt;player, $effect, <span class="keyword">false</span>);</div>
+<div class="line"><a id="l00128" name="l00128"></a><span class="lineno">  128</span>            $this-&gt;session-&gt;getEntityEventBroadcaster()-&gt;onEntityEffectAdded([$this-&gt;session], $this-&gt;player, $effect, <span class="keyword">false</span>);</div>
 <div class="line"><a id="l00129" name="l00129"></a><span class="lineno">  129</span>        }</div>
 <div class="line"><a id="l00130" name="l00130"></a><span class="lineno">  130</span> </div>
 <div class="line"><a id="l00131" name="l00131"></a><span class="lineno">  131</span>        $this-&gt;session-&gt;getLogger()-&gt;debug(<span class="stringliteral">&quot;Sending actor metadata&quot;</span>);</div>
@@ -248,12 +248,12 @@ $(document).ready(function(){initNavTree('dd/dbe/_pre_spawn_packet_handler_8php_
 <div class="line"><a id="l00157" name="l00157"></a><span class="lineno">  157</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><a id="l00158" name="l00158"></a><span class="lineno">  158</span>    }</div>
 <div class="line"><a id="l00159" name="l00159"></a><span class="lineno">  159</span>}</div>
-<div class="ttc" id="aclasspocketmine_1_1_server_html"><div class="ttname"><a href="../../d5/df7/classpocketmine_1_1_server.html">pocketmine\Server</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d05/src_2_server_8php_source.html#l00172">src/Server.php:172</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1_server_html"><div class="ttname"><a href="../../d5/df7/classpocketmine_1_1_server.html">pocketmine\Server</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d05/src_2_server_8php_source.html#l00174">src/Server.php:174</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1_version_info_html"><div class="ttname"><a href="../../d4/db7/classpocketmine_1_1_version_info.html">pocketmine\VersionInfo</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d0/ded/_version_info_8php_source.html#l00032">VersionInfo.php:32</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1nbt_1_1tag_1_1_compound_tag_html"><div class="ttname"><a href="../../de/d67/classpocketmine_1_1nbt_1_1tag_1_1_compound_tag.html">pocketmine\nbt\tag\CompoundTag</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d7/d8c/_compound_tag_8php_source.html#l00042">CompoundTag.php:42</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1nbt_1_1tag_1_1_compound_tag_html_a6a9f48ceb0ebe6587ace8b252a39120e"><div class="ttname"><a href="../../de/d67/classpocketmine_1_1nbt_1_1tag_1_1_compound_tag.html#a6a9f48ceb0ebe6587ace8b252a39120e">pocketmine\nbt\tag\CompoundTag\create</a></div><div class="ttdeci">static create()</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/d8c/_compound_tag_8php_source.html#l00056">CompoundTag.php:56</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1network_1_1mcpe_1_1_inventory_manager_html"><div class="ttname"><a href="../../d3/da1/classpocketmine_1_1network_1_1mcpe_1_1_inventory_manager.html">pocketmine\network\mcpe\InventoryManager</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d9e/_inventory_manager_8php_source.html#l00074">InventoryManager.php:74</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1network_1_1mcpe_1_1_network_session_html"><div class="ttname"><a href="../../de/d3a/classpocketmine_1_1network_1_1mcpe_1_1_network_session.html">pocketmine\network\mcpe\NetworkSession</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dd/dbe/_network_session_8php_source.html#l00150">NetworkSession.php:150</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1network_1_1mcpe_1_1_network_session_html"><div class="ttname"><a href="../../de/d3a/classpocketmine_1_1network_1_1mcpe_1_1_network_session.html">pocketmine\network\mcpe\NetworkSession</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dd/dbe/_network_session_8php_source.html#l00130">NetworkSession.php:130</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1network_1_1mcpe_1_1cache_1_1_crafting_data_cache_html"><div class="ttname"><a href="../../d6/d48/classpocketmine_1_1network_1_1mcpe_1_1cache_1_1_crafting_data_cache.html">pocketmine\network\mcpe\cache\CraftingDataCache</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d17/_crafting_data_cache_8php_source.html#l00052">CraftingDataCache.php:52</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1network_1_1mcpe_1_1cache_1_1_static_packet_cache_html"><div class="ttname"><a href="../../df/dc5/classpocketmine_1_1network_1_1mcpe_1_1cache_1_1_static_packet_cache.html">pocketmine\network\mcpe\cache\StaticPacketCache</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d0a/_static_packet_cache_8php_source.html#l00034">StaticPacketCache.php:34</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1network_1_1mcpe_1_1convert_1_1_global_item_type_dictionary_html"><div class="ttname"><a href="../../d2/d68/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_global_item_type_dictionary.html">pocketmine\network\mcpe\convert\GlobalItemTypeDictionary</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d4/d29/_global_item_type_dictionary_8php_source.html#l00031">GlobalItemTypeDictionary.php:31</a></div></div>

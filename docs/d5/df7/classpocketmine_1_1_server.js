@@ -2,7 +2,6 @@ var classpocketmine_1_1_server =
 [
     [ "__debugInfo", "d5/df7/classpocketmine_1_1_server.html#a5db762a6ed883975faab5d1205dec643", null ],
     [ "broadcastMessage", "d5/df7/classpocketmine_1_1_server.html#ab43bf8e8b916c91b2ea9696b0b0f4f52", null ],
-    [ "broadcastPackets", "d5/df7/classpocketmine_1_1_server.html#a3ee9d214cfb926b694c34173e7d72988", null ],
     [ "broadcastPopup", "d5/df7/classpocketmine_1_1_server.html#ac88d77be813ab3529599b0fed66f1354", null ],
     [ "broadcastTip", "d5/df7/classpocketmine_1_1_server.html#aff0ea18de7bb88f93531dd5e3d6f8b2b", null ],
     [ "broadcastTitle", "d5/df7/classpocketmine_1_1_server.html#a5fc55664671169ee15f3e083ecd538a6", null ],
@@ -25,7 +24,7 @@ var classpocketmine_1_1_server =
     [ "getTickUsage", "d5/df7/classpocketmine_1_1_server.html#a017e48ea17cb60010799409de70a1627", null ],
     [ "getTickUsageAverage", "d5/df7/classpocketmine_1_1_server.html#a74b92b75e35d3baee836fb9fd47d2e04", null ],
     [ "hasOfflinePlayerData", "d5/df7/classpocketmine_1_1_server.html#a892f9b2261f97b2bf464101286621d04", null ],
-    [ "prepareBatch", "d5/df7/classpocketmine_1_1_server.html#ac197930969e14ba07d3e3b3d83ea2c6d", null ],
+    [ "prepareBatch", "d5/df7/classpocketmine_1_1_server.html#a46c9c05ba311237d2d8ca19fa4d32ef5", null ],
     [ "requiresAuthentication", "d5/df7/classpocketmine_1_1_server.html#a433f122c1f2a3147c4141a9219d71f50", null ],
     [ "shutdown", "d5/df7/classpocketmine_1_1_server.html#a5ea673149c3d2e0fbc7146d72d128563", null ],
     [ "subscribeToBroadcastChannel", "d5/df7/classpocketmine_1_1_server.html#acf9ae8acb41723959bd8fd6293d95b89", null ],
