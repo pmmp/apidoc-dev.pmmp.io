@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.3"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>PocketMine-MP: ComplexWindowMapEntry.php Source File</title>
+<title>PocketMine-MP: ItemStackInfo.php Source File</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA2 git-cf0e7b4213d2f6b9793b6f594e9b198e06dbca35</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA2 git-0220a307802eff685e06224c2968c96ed07bb159</span>
    </div>
   </td>
  </tr>
@@ -70,7 +70,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('d3/d98/_complex_window_map_entry_8php_source.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('dc/dec/_item_stack_info_8php_source.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -89,7 +89,7 @@ $(document).ready(function(){initNavTree('d3/d98/_complex_window_map_entry_8php_
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">ComplexWindowMapEntry.php</div></div>
+  <div class="headertitle"><div class="title">ItemStackInfo.php</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span>&lt;?php</div>
@@ -117,43 +117,24 @@ $(document).ready(function(){initNavTree('d3/d98/_complex_window_map_entry_8php_
 <div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span> </div>
 <div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span><span class="keyword">namespace </span>pocketmine\network\mcpe;</div>
 <div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span> </div>
-<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>use <a class="code hl_interface" href="../../db/d39/interfacepocketmine_1_1inventory_1_1_inventory.html">pocketmine\inventory\Inventory</a>;</div>
+<div class="line"><a id="l00026" name="l00026"></a><span class="lineno"><a class="line" href="../../db/dd0/classpocketmine_1_1network_1_1mcpe_1_1_item_stack_info.html">   26</a></span><span class="keyword">final</span> <span class="keyword">class </span><a class="code hl_class" href="../../db/dd0/classpocketmine_1_1network_1_1mcpe_1_1_item_stack_info.html">ItemStackInfo</a>{</div>
 <div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span> </div>
-<div class="line"><a id="l00028" name="l00028"></a><span class="lineno"><a class="line" href="../../db/d59/classpocketmine_1_1network_1_1mcpe_1_1_complex_window_map_entry.html">   28</a></span><span class="keyword">final</span> <span class="keyword">class </span><a class="code hl_class" href="../../db/d59/classpocketmine_1_1network_1_1mcpe_1_1_complex_window_map_entry.html">ComplexWindowMapEntry</a>{</div>
-<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span> </div>
-<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>    <span class="keyword">private</span> array $reverseSlotMap = [];</div>
-<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span> </div>
-<div class="line"><a id="l00040" name="l00040"></a><span class="lineno"><a class="line" href="../../db/d59/classpocketmine_1_1network_1_1mcpe_1_1_complex_window_map_entry.html#aed9494aae5e933731a16af45b985136a">   40</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../db/d59/classpocketmine_1_1network_1_1mcpe_1_1_complex_window_map_entry.html#aed9494aae5e933731a16af45b985136a">__construct</a>(</div>
-<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>        <span class="keyword">private</span> <a class="code hl_interface" href="../../db/d39/interfacepocketmine_1_1inventory_1_1_inventory.html">Inventory</a> $inventory,</div>
-<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>        <span class="keyword">private</span> array $slotMap</div>
-<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>    ){</div>
-<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>        <span class="keywordflow">foreach</span>($slotMap as $slot =&gt; $index){</div>
-<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>            $this-&gt;reverseSlotMap[$index] = $slot;</div>
-<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>        }</div>
-<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>    }</div>
-<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span> </div>
-<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>    <span class="keyword">public</span> <span class="keyword">function</span> getInventory() : <a class="code hl_interface" href="../../db/d39/interfacepocketmine_1_1inventory_1_1_inventory.html">Inventory</a>{ return $this-&gt;inventory; }</div>
-<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span> </div>
-<div class="line"><a id="l00055" name="l00055"></a><span class="lineno"><a class="line" href="../../db/d59/classpocketmine_1_1network_1_1mcpe_1_1_complex_window_map_entry.html#aababe91cafced2bdb3acee201c177d57">   55</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../db/d59/classpocketmine_1_1network_1_1mcpe_1_1_complex_window_map_entry.html#aababe91cafced2bdb3acee201c177d57">getSlotMap</a>() : array{ return $this-&gt;slotMap; }</div>
-<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span> </div>
-<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>    <span class="keyword">public</span> <span class="keyword">function</span> mapNetToCore(<span class="keywordtype">int</span> $slot) : ?int{</div>
-<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>        return $this-&gt;slotMap[$slot] ?? null;</div>
-<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>    }</div>
-<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span> </div>
-<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>    <span class="keyword">public</span> <span class="keyword">function</span> mapCoreToNet(<span class="keywordtype">int</span> $slot) : ?int{</div>
-<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>        return $this-&gt;reverseSlotMap[$slot] ?? null;</div>
-<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>    }</div>
-<div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>}</div>
-<div class="ttc" id="aclasspocketmine_1_1network_1_1mcpe_1_1_complex_window_map_entry_html"><div class="ttname"><a href="../../db/d59/classpocketmine_1_1network_1_1mcpe_1_1_complex_window_map_entry.html">pocketmine\network\mcpe\ComplexWindowMapEntry</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d3/d98/_complex_window_map_entry_8php_source.html#l00028">ComplexWindowMapEntry.php:28</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1network_1_1mcpe_1_1_complex_window_map_entry_html_aababe91cafced2bdb3acee201c177d57"><div class="ttname"><a href="../../db/d59/classpocketmine_1_1network_1_1mcpe_1_1_complex_window_map_entry.html#aababe91cafced2bdb3acee201c177d57">pocketmine\network\mcpe\ComplexWindowMapEntry\getSlotMap</a></div><div class="ttdeci">getSlotMap()</div><div class="ttdef"><b>Definition:</b> <a href="../../d3/d98/_complex_window_map_entry_8php_source.html#l00055">ComplexWindowMapEntry.php:55</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1network_1_1mcpe_1_1_complex_window_map_entry_html_aed9494aae5e933731a16af45b985136a"><div class="ttname"><a href="../../db/d59/classpocketmine_1_1network_1_1mcpe_1_1_complex_window_map_entry.html#aed9494aae5e933731a16af45b985136a">pocketmine\network\mcpe\ComplexWindowMapEntry\__construct</a></div><div class="ttdeci">__construct(private Inventory $inventory, private array $slotMap)</div><div class="ttdef"><b>Definition:</b> <a href="../../d3/d98/_complex_window_map_entry_8php_source.html#l00040">ComplexWindowMapEntry.php:40</a></div></div>
-<div class="ttc" id="ainterfacepocketmine_1_1inventory_1_1_inventory_html"><div class="ttname"><a href="../../db/d39/interfacepocketmine_1_1inventory_1_1_inventory.html">pocketmine\inventory\Inventory</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d2/d3b/_inventory_8php_source.html#l00033">Inventory.php:33</a></div></div>
+<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>    <span class="keyword">public</span> <span class="keyword">function</span> __construct(</div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>        <span class="keyword">private</span> ?<span class="keywordtype">int</span> $requestId,</div>
+<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>        <span class="keyword">private</span> <span class="keywordtype">int</span> $stackId</div>
+<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>    ){}</div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span> </div>
+<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>    <span class="keyword">public</span> <span class="keyword">function</span> getRequestId() : ?<span class="keywordtype">int</span>{ <span class="keywordflow">return</span> $this-&gt;requestId; }</div>
+<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span> </div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>    <span class="keyword">public</span> <span class="keyword">function</span> getStackId() : <span class="keywordtype">int</span>{ <span class="keywordflow">return</span> $this-&gt;stackId; }</div>
+<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>}</div>
+<div class="ttc" id="aclasspocketmine_1_1network_1_1mcpe_1_1_item_stack_info_html"><div class="ttname"><a href="../../db/dd0/classpocketmine_1_1network_1_1mcpe_1_1_item_stack_info.html">pocketmine\network\mcpe\ItemStackInfo</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dc/dec/_item_stack_info_8php_source.html#l00026">ItemStackInfo.php:26</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="../../dir_fc4c7f03e1a69a98c370fae55a743828.html">network</a></li><li class="navelem"><a class="el" href="../../dir_c34322918f2837155f3742220523bcd3.html">mcpe</a></li><li class="navelem"><b>ComplexWindowMapEntry.php</b></li>
+    <li class="navelem"><a class="el" href="../../dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="../../dir_fc4c7f03e1a69a98c370fae55a743828.html">network</a></li><li class="navelem"><a class="el" href="../../dir_c34322918f2837155f3742220523bcd3.html">mcpe</a></li><li class="navelem"><b>ItemStackInfo.php</b></li>
     <li class="footer">Generated by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.3 </li>
   </ul>
 </div>

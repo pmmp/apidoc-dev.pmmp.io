@@ -75,12 +75,11 @@ var searchData=
   ['createfromdata_72',['createFromData',['../de/d36/classpocketmine_1_1entity_1_1_entity_factory.html#a140262fc8d6039b274a4ede9e453dbed',1,'pocketmine::entity::EntityFactory']]],
   ['createfromreflectionfunctionabstract_73',['createFromReflectionFunctionAbstract',['../d9/d22/class_dave_random_1_1_callback_validator_1_1_return_type.html#aea6df13e77aeac8e3bd74c384f4635bb',1,'DaveRandom::CallbackValidator::ReturnType']]],
   ['createfromreflectionparameter_74',['createFromReflectionParameter',['../d4/de9/class_dave_random_1_1_callback_validator_1_1_parameter_type.html#a449dacdbae80cf0ea07d110b902a5998',1,'DaveRandom::CallbackValidator::ParameterType']]],
-  ['createinventoryaction_75',['createInventoryAction',['../d8/d07/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_type_converter.html#a01778bd863c4aa740563f5d105952a02',1,'pocketmine::network::mcpe::convert::TypeConverter']]],
-  ['createlockfile_76',['createLockFile',['../da/ddd/classpocketmine_1_1utils_1_1_filesystem.html#a637d20643fcb722bbc5556b43bda0d59',1,'pocketmine::utils::Filesystem']]],
-  ['createplayer_77',['createPlayer',['../d5/df7/classpocketmine_1_1_server.html#ac73d85e2d8fb3ec1cae21376c9b3f5c6',1,'pocketmine::Server']]],
-  ['createtag_78',['createTag',['../d5/d67/classpocketmine_1_1nbt_1_1_n_b_t.html#a4c7090c27f581d8f15fd9e262fee1279',1,'pocketmine::nbt::NBT']]],
-  ['critical_79',['critical',['../d9/d27/classpocketmine_1_1utils_1_1_main_logger.html#ac8a9d9fc975ce080645320830844196e',1,'pocketmine\utils\MainLogger\critical()'],['../d4/d00/interface_logger.html#ab3bd0b53727682715458c676943f8e98',1,'Logger\critical()'],['../d9/df4/class_simple_logger.html#a025da7129259570211e72094ea4c9944',1,'SimpleLogger\critical()']]],
-  ['critical_5ferror_80',['critical_error',['../d2/d69/namespacepocketmine.html#a4917b9fbb96d9758f51845080b142b69',1,'pocketmine']]],
-  ['current_81',['current',['../da/dce/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_data.html#ad8532b8785c971d65e325e2ed0073ae7',1,'pocketmine::data::bedrock::block::BlockStateData']]],
-  ['currenttrace_82',['currentTrace',['../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a73a9e68983fb530aaa371c800b498d67',1,'pocketmine::utils::Utils']]]
+  ['createlockfile_75',['createLockFile',['../da/ddd/classpocketmine_1_1utils_1_1_filesystem.html#a637d20643fcb722bbc5556b43bda0d59',1,'pocketmine::utils::Filesystem']]],
+  ['createplayer_76',['createPlayer',['../d5/df7/classpocketmine_1_1_server.html#ac73d85e2d8fb3ec1cae21376c9b3f5c6',1,'pocketmine::Server']]],
+  ['createtag_77',['createTag',['../d5/d67/classpocketmine_1_1nbt_1_1_n_b_t.html#a4c7090c27f581d8f15fd9e262fee1279',1,'pocketmine::nbt::NBT']]],
+  ['critical_78',['critical',['../d9/d27/classpocketmine_1_1utils_1_1_main_logger.html#ac8a9d9fc975ce080645320830844196e',1,'pocketmine\utils\MainLogger\critical()'],['../d4/d00/interface_logger.html#ab3bd0b53727682715458c676943f8e98',1,'Logger\critical()'],['../d9/df4/class_simple_logger.html#a025da7129259570211e72094ea4c9944',1,'SimpleLogger\critical()']]],
+  ['critical_5ferror_79',['critical_error',['../d2/d69/namespacepocketmine.html#a4917b9fbb96d9758f51845080b142b69',1,'pocketmine']]],
+  ['current_80',['current',['../da/dce/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_data.html#ad8532b8785c971d65e325e2ed0073ae7',1,'pocketmine::data::bedrock::block::BlockStateData']]],
+  ['currenttrace_81',['currentTrace',['../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a73a9e68983fb530aaa371c800b498d67',1,'pocketmine::utils::Utils']]]
 ];

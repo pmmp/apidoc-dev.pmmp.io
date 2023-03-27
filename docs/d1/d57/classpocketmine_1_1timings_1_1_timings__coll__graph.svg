@@ -64,16 +64,16 @@ var sectionId = 'dynsection-0';
 <text text-anchor="middle" x="94" y="-254.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Timings</text>
 <polyline fill="none" stroke="black" points="0,-247.5 188,-247.5 "/>
 <text text-anchor="start" x="8" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $entityTypeTimingMap</text>
-<text text-anchor="start" x="8" y="-224.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $packetReceiveTimingMap</text>
-<text text-anchor="start" x="8" y="-213.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $packetSendTimingMap</text>
-<text text-anchor="start" x="8" y="-202.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $permissibleCalculation</text>
-<text text-anchor="start" x="8" y="-191.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $permissibleCalculationCallback</text>
-<text text-anchor="start" x="8" y="-180.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $permissibleCalculationDiff</text>
-<text text-anchor="start" x="8" y="-169.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $playerCheckNearEntities</text>
-<text text-anchor="start" x="8" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $playerChunkOrder</text>
-<text text-anchor="start" x="8" y="-147.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $playerChunkSend</text>
-<text text-anchor="start" x="8" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $playerCommand</text>
-<text text-anchor="start" x="8" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 24 more...</text>
+<text text-anchor="start" x="8" y="-224.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $livingEntityBaseTick</text>
+<text text-anchor="start" x="8" y="-213.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $memoryManager</text>
+<text text-anchor="start" x="8" y="-202.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $packetReceiveTimingMap</text>
+<text text-anchor="start" x="8" y="-191.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $packetSendTimingMap</text>
+<text text-anchor="start" x="8" y="-180.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $permissibleCalculation</text>
+<text text-anchor="start" x="8" y="-169.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $permissibleCalculationCallback</text>
+<text text-anchor="start" x="8" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $permissibleCalculationDiff</text>
+<text text-anchor="start" x="8" y="-147.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $playerCheckNearEntities</text>
+<text text-anchor="start" x="8" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $playerChunkOrder</text>
+<text text-anchor="start" x="8" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 30 more...</text>
 <polyline fill="none" stroke="black" points="0,-118.5 188,-118.5 "/>
 <text text-anchor="start" x="8" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCommandDispatchTimings()</text>
 <text text-anchor="start" x="8" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDecodeDataPacketTimings()</text>
@@ -144,11 +144,11 @@ var sectionId = 'dynsection-0';
 <text text-anchor="middle" x="230" y="-387" font-family="Helvetica,sans-Serif" font-size="10.00">+$craftingDataCacheRebuild</text>
 <text text-anchor="middle" x="230" y="-376" font-family="Helvetica,sans-Serif" font-size="10.00">+$entityBaseTick</text>
 <text text-anchor="middle" x="230" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">+$entityMove</text>
-<text text-anchor="middle" x="230" y="-354" font-family="Helvetica,sans-Serif" font-size="10.00">+$fullTick</text>
-<text text-anchor="middle" x="230" y="-343" font-family="Helvetica,sans-Serif" font-size="10.00">+$garbageCollector</text>
-<text text-anchor="middle" x="230" y="-332" font-family="Helvetica,sans-Serif" font-size="10.00">+$generationCallback</text>
-<text text-anchor="middle" x="230" y="-321" font-family="Helvetica,sans-Serif" font-size="10.00">+$livingEntityBaseTick</text>
-<text text-anchor="middle" x="230" y="-310" font-family="Helvetica,sans-Serif" font-size="10.00">+$memoryManager</text>
+<text text-anchor="middle" x="230" y="-354" font-family="Helvetica,sans-Serif" font-size="10.00">+$entityMoveCollision</text>
+<text text-anchor="middle" x="230" y="-343" font-family="Helvetica,sans-Serif" font-size="10.00">+$fullTick</text>
+<text text-anchor="middle" x="230" y="-332" font-family="Helvetica,sans-Serif" font-size="10.00">+$garbageCollector</text>
+<text text-anchor="middle" x="230" y="-321" font-family="Helvetica,sans-Serif" font-size="10.00">+$generationCallback</text>
+<text text-anchor="middle" x="230" y="-310" font-family="Helvetica,sans-Serif" font-size="10.00">+$itemEntityBaseTick</text>
 <text text-anchor="middle" x="230" y="-299" font-family="Helvetica,sans-Serif" font-size="10.00">...</text>
 </g>
 </g>
