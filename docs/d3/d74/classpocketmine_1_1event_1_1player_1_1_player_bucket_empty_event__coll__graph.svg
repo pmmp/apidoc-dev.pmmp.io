@@ -417,17 +417,17 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="1061.32" y="-3611.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
 <text text-anchor="middle" x="1156.32" y="-3600.5" font-family="Helvetica,sans-Serif" font-size="10.00">\EntityDamageEvent</text>
 <polyline fill="none" stroke="red" points="1053.32,-3593.5 1259.32,-3593.5 "/>
-<text text-anchor="start" x="1061.32" y="-3581.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_MAGIC</text>
-<text text-anchor="start" x="1061.32" y="-3570.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_PROJECTILE</text>
-<text text-anchor="start" x="1061.32" y="-3559.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_STARVATION</text>
-<text text-anchor="start" x="1061.32" y="-3548.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_SUFFOCATION</text>
-<text text-anchor="start" x="1061.32" y="-3537.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_SUICIDE</text>
-<text text-anchor="start" x="1061.32" y="-3526.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_VOID</text>
-<text text-anchor="start" x="1061.32" y="-3515.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MODIFIER_ABSORPTION</text>
-<text text-anchor="start" x="1061.32" y="-3504.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MODIFIER_ARMOR</text>
-<text text-anchor="start" x="1061.32" y="-3493.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MODIFIER_ARMOR_ENCHANTMENTS</text>
-<text text-anchor="start" x="1061.32" y="-3482.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MODIFIER_CRITICAL</text>
-<text text-anchor="start" x="1061.32" y="-3471.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 6 more...</text>
+<text text-anchor="start" x="1061.32" y="-3581.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_LAVA</text>
+<text text-anchor="start" x="1061.32" y="-3570.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_MAGIC</text>
+<text text-anchor="start" x="1061.32" y="-3559.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_PROJECTILE</text>
+<text text-anchor="start" x="1061.32" y="-3548.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_STARVATION</text>
+<text text-anchor="start" x="1061.32" y="-3537.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_SUFFOCATION</text>
+<text text-anchor="start" x="1061.32" y="-3526.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_SUICIDE</text>
+<text text-anchor="start" x="1061.32" y="-3515.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_VOID</text>
+<text text-anchor="start" x="1061.32" y="-3504.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MODIFIER_ABSORPTION</text>
+<text text-anchor="start" x="1061.32" y="-3493.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MODIFIER_ARMOR</text>
+<text text-anchor="start" x="1061.32" y="-3482.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MODIFIER_ARMOR_ENCHANTMENTS</text>
+<text text-anchor="start" x="1061.32" y="-3471.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 8 more...</text>
 <polyline fill="none" stroke="red" points="1053.32,-3464.5 1259.32,-3464.5 "/>
 <text text-anchor="start" x="1061.32" y="-3452.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
 <text text-anchor="start" x="1061.32" y="-3441.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeReducedByArmor()</text>
@@ -459,9 +459,9 @@ var sectionId = 'dynsection-1';
 <text text-anchor="middle" x="1193.32" y="-3744" font-family="Helvetica,sans-Serif" font-size="10.00">+CAUSE_ENTITY_ATTACK</text>
 <text text-anchor="middle" x="1193.32" y="-3733" font-family="Helvetica,sans-Serif" font-size="10.00">+CAUSE_ENTITY_EXPLOSION</text>
 <text text-anchor="middle" x="1193.32" y="-3722" font-family="Helvetica,sans-Serif" font-size="10.00">+CAUSE_FALL</text>
-<text text-anchor="middle" x="1193.32" y="-3711" font-family="Helvetica,sans-Serif" font-size="10.00">+CAUSE_FIRE</text>
-<text text-anchor="middle" x="1193.32" y="-3700" font-family="Helvetica,sans-Serif" font-size="10.00">+CAUSE_FIRE_TICK</text>
-<text text-anchor="middle" x="1193.32" y="-3689" font-family="Helvetica,sans-Serif" font-size="10.00">+CAUSE_LAVA</text>
+<text text-anchor="middle" x="1193.32" y="-3711" font-family="Helvetica,sans-Serif" font-size="10.00">+CAUSE_FALLING_BLOCK</text>
+<text text-anchor="middle" x="1193.32" y="-3700" font-family="Helvetica,sans-Serif" font-size="10.00">+CAUSE_FIRE</text>
+<text text-anchor="middle" x="1193.32" y="-3689" font-family="Helvetica,sans-Serif" font-size="10.00">+CAUSE_FIRE_TICK</text>
 <text text-anchor="middle" x="1193.32" y="-3678" font-family="Helvetica,sans-Serif" font-size="10.00">...</text>
 </g>
 <!-- Node23 -->

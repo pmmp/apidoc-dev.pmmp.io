@@ -1,14 +1,14 @@
 <map id="pocketmine\block\Reserved6" name="pocketmine\block\Reserved6">
-<area shape="rect" id="node1" title=" " alt="" coords="335,2124,546,2201"/>
-<area shape="rect" id="node2" href="$db/dc5/classpocketmine_1_1block_1_1_opaque.html" title=" " alt="" coords="345,1997,536,2075"/>
-<area shape="rect" id="node3" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="333,1651,548,1948"/>
-<area shape="rect" id="node4" title=" " alt="" coords="10,541,68,619"/>
-<area shape="rect" id="node9" href="$d4/d2b/classpocketmine_1_1world_1_1_world.html" title=" " alt="" coords="147,901,376,1316"/>
-<area shape="rect" id="node5" href="$dd/d18/classpocketmine_1_1block_1_1_block_identifier.html" title=" " alt="" coords="383,1445,618,1551"/>
-<area shape="rect" id="node6" href="$de/d9a/classpocketmine_1_1block_1_1_block_type_info.html" title=" " alt="" coords="642,1437,874,1559"/>
-<area shape="rect" id="node7" href="$d5/dd2/classpocketmine_1_1world_1_1_position.html" title=" " alt="" coords="164,1408,359,1588"/>
-<area shape="rect" id="node8" href="$d2/d90/classpocketmine_1_1math_1_1_vector3.html" title=" " alt="" coords="400,953,590,1265"/>
-<area shape="rect" id="node10" href="$d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html" title=" " alt="" coords="147,497,387,663"/>
-<area shape="rect" id="node11" href="$d7/d08/classpocketmine_1_1world_1_1_world_timings.html" title=" " alt="" coords="412,483,642,677"/>
-<area shape="rect" id="node12" href="$d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html" title=" " alt="" coords="452,5,602,259"/>
+<area shape="rect" id="node1" title=" " alt="" coords="335,2139,546,2216"/>
+<area shape="rect" id="node2" href="$db/dc5/classpocketmine_1_1block_1_1_opaque.html" title=" " alt="" coords="345,2012,536,2089"/>
+<area shape="rect" id="node3" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="333,1665,548,1963"/>
+<area shape="rect" id="node4" title=" " alt="" coords="10,556,68,633"/>
+<area shape="rect" id="node9" href="$d4/d2b/classpocketmine_1_1world_1_1_world.html" title=" " alt="" coords="147,916,376,1331"/>
+<area shape="rect" id="node5" href="$dd/d18/classpocketmine_1_1block_1_1_block_identifier.html" title=" " alt="" coords="383,1459,618,1566"/>
+<area shape="rect" id="node6" href="$de/d9a/classpocketmine_1_1block_1_1_block_type_info.html" title=" " alt="" coords="642,1452,874,1573"/>
+<area shape="rect" id="node7" href="$d5/dd2/classpocketmine_1_1world_1_1_position.html" title=" " alt="" coords="164,1423,359,1603"/>
+<area shape="rect" id="node8" href="$d2/d90/classpocketmine_1_1math_1_1_vector3.html" title=" " alt="" coords="400,967,590,1279"/>
+<area shape="rect" id="node10" href="$d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html" title=" " alt="" coords="147,512,387,677"/>
+<area shape="rect" id="node11" href="$d7/d08/classpocketmine_1_1world_1_1_world_timings.html" title=" " alt="" coords="412,497,642,692"/>
+<area shape="rect" id="node12" href="$d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html" title=" " alt="" coords="452,5,602,273"/>
 </map>

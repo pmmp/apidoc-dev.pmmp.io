@@ -1,7 +1,7 @@
 <map id="pocketmine\world\World" name="pocketmine\world\World">
-<area shape="rect" id="node1" title=" " alt="" coords="184,901,413,1316"/>
-<area shape="rect" id="node2" href="$d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html" title=" " alt="" coords="5,497,245,663"/>
-<area shape="rect" id="node3" title=" " alt="" coords="270,541,327,619"/>
-<area shape="rect" id="node4" href="$d7/d08/classpocketmine_1_1world_1_1_world_timings.html" title=" " alt="" coords="401,483,631,677"/>
-<area shape="rect" id="node5" href="$d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html" title=" " alt="" coords="441,5,591,259"/>
+<area shape="rect" id="node1" title=" " alt="" coords="184,916,413,1331"/>
+<area shape="rect" id="node2" href="$d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html" title=" " alt="" coords="5,512,245,677"/>
+<area shape="rect" id="node3" title=" " alt="" coords="270,556,327,633"/>
+<area shape="rect" id="node4" href="$d7/d08/classpocketmine_1_1world_1_1_world_timings.html" title=" " alt="" coords="401,497,631,692"/>
+<area shape="rect" id="node5" href="$d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html" title=" " alt="" coords="441,5,591,273"/>
 </map>

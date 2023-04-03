@@ -359,17 +359,17 @@
 <text text-anchor="start" x="3039" y="-2618.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
 <text text-anchor="middle" x="3134" y="-2607.5" font-family="Helvetica,sans-Serif" font-size="10.00">\EntityDamageEvent</text>
 <polyline fill="none" stroke="red" points="3031,-2600.5 3237,-2600.5 "/>
-<text text-anchor="start" x="3039" y="-2588.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_MAGIC</text>
-<text text-anchor="start" x="3039" y="-2577.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_PROJECTILE</text>
-<text text-anchor="start" x="3039" y="-2566.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_STARVATION</text>
-<text text-anchor="start" x="3039" y="-2555.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_SUFFOCATION</text>
-<text text-anchor="start" x="3039" y="-2544.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_SUICIDE</text>
-<text text-anchor="start" x="3039" y="-2533.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_VOID</text>
-<text text-anchor="start" x="3039" y="-2522.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MODIFIER_ABSORPTION</text>
-<text text-anchor="start" x="3039" y="-2511.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MODIFIER_ARMOR</text>
-<text text-anchor="start" x="3039" y="-2500.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MODIFIER_ARMOR_ENCHANTMENTS</text>
-<text text-anchor="start" x="3039" y="-2489.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MODIFIER_CRITICAL</text>
-<text text-anchor="start" x="3039" y="-2478.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 6 more...</text>
+<text text-anchor="start" x="3039" y="-2588.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_LAVA</text>
+<text text-anchor="start" x="3039" y="-2577.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_MAGIC</text>
+<text text-anchor="start" x="3039" y="-2566.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_PROJECTILE</text>
+<text text-anchor="start" x="3039" y="-2555.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_STARVATION</text>
+<text text-anchor="start" x="3039" y="-2544.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_SUFFOCATION</text>
+<text text-anchor="start" x="3039" y="-2533.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_SUICIDE</text>
+<text text-anchor="start" x="3039" y="-2522.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_VOID</text>
+<text text-anchor="start" x="3039" y="-2511.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MODIFIER_ABSORPTION</text>
+<text text-anchor="start" x="3039" y="-2500.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MODIFIER_ARMOR</text>
+<text text-anchor="start" x="3039" y="-2489.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MODIFIER_ARMOR_ENCHANTMENTS</text>
+<text text-anchor="start" x="3039" y="-2478.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 8 more...</text>
 <polyline fill="none" stroke="red" points="3031,-2471.5 3237,-2471.5 "/>
 <text text-anchor="start" x="3039" y="-2459.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
 <text text-anchor="start" x="3039" y="-2448.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeReducedByArmor()</text>
@@ -401,9 +401,9 @@
 <text text-anchor="middle" x="2567" y="-3295" font-family="Helvetica,sans-Serif" font-size="10.00">+CAUSE_ENTITY_ATTACK</text>
 <text text-anchor="middle" x="2567" y="-3284" font-family="Helvetica,sans-Serif" font-size="10.00">+CAUSE_ENTITY_EXPLOSION</text>
 <text text-anchor="middle" x="2567" y="-3273" font-family="Helvetica,sans-Serif" font-size="10.00">+CAUSE_FALL</text>
-<text text-anchor="middle" x="2567" y="-3262" font-family="Helvetica,sans-Serif" font-size="10.00">+CAUSE_FIRE</text>
-<text text-anchor="middle" x="2567" y="-3251" font-family="Helvetica,sans-Serif" font-size="10.00">+CAUSE_FIRE_TICK</text>
-<text text-anchor="middle" x="2567" y="-3240" font-family="Helvetica,sans-Serif" font-size="10.00">+CAUSE_LAVA</text>
+<text text-anchor="middle" x="2567" y="-3262" font-family="Helvetica,sans-Serif" font-size="10.00">+CAUSE_FALLING_BLOCK</text>
+<text text-anchor="middle" x="2567" y="-3251" font-family="Helvetica,sans-Serif" font-size="10.00">+CAUSE_FIRE</text>
+<text text-anchor="middle" x="2567" y="-3240" font-family="Helvetica,sans-Serif" font-size="10.00">+CAUSE_FIRE_TICK</text>
 <text text-anchor="middle" x="2567" y="-3229" font-family="Helvetica,sans-Serif" font-size="10.00">...</text>
 </g>
 <!-- Node22 -->
@@ -857,31 +857,32 @@
 <g id="node17" class="node">
 <title>Node18</title>
 <g id="a_node17"><a xlink:href="../../d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="3445.5,-2370 3445.5,-2559 3558.5,-2559 3558.5,-2370 3445.5,-2370"/>
-<text text-anchor="start" x="3453.5" y="-2547" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\timings</text>
-<text text-anchor="middle" x="3502" y="-2536" font-family="Helvetica,sans-Serif" font-size="10.00">\TimingsHandler</text>
-<polyline fill="none" stroke="#bfbfbf" points="3445.5,-2529 3558.5,-2529 "/>
-<text text-anchor="middle" x="3502" y="-2517" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="3445.5,-2510 3558.5,-2510 "/>
-<text text-anchor="start" x="3453.5" y="-2498" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="3453.5" y="-2487" font-family="Helvetica,sans-Serif" font-size="10.00">+ destroyCycles()</text>
-<text text-anchor="start" x="3453.5" y="-2476" font-family="Helvetica,sans-Serif" font-size="10.00">+ getName()</text>
-<text text-anchor="start" x="3453.5" y="-2465" font-family="Helvetica,sans-Serif" font-size="10.00">+ startTiming()</text>
-<text text-anchor="start" x="3453.5" y="-2454" font-family="Helvetica,sans-Serif" font-size="10.00">+ stopTiming()</text>
-<text text-anchor="start" x="3453.5" y="-2443" font-family="Helvetica,sans-Serif" font-size="10.00">+ time()</text>
-<text text-anchor="start" x="3453.5" y="-2432" font-family="Helvetica,sans-Serif" font-size="10.00">+ getStartTime()</text>
-<text text-anchor="start" x="3453.5" y="-2421" font-family="Helvetica,sans-Serif" font-size="10.00">+ isEnabled()</text>
-<text text-anchor="start" x="3453.5" y="-2410" font-family="Helvetica,sans-Serif" font-size="10.00">+ printTimings()</text>
-<text text-anchor="start" x="3453.5" y="-2399" font-family="Helvetica,sans-Serif" font-size="10.00">+ reload()</text>
-<text text-anchor="start" x="3453.5" y="-2388" font-family="Helvetica,sans-Serif" font-size="10.00">+ setEnabled()</text>
-<text text-anchor="start" x="3453.5" y="-2377" font-family="Helvetica,sans-Serif" font-size="10.00">+ tick()</text>
+<polygon fill="white" stroke="#bfbfbf" points="3445.5,-2364.5 3445.5,-2564.5 3558.5,-2564.5 3558.5,-2364.5 3445.5,-2364.5"/>
+<text text-anchor="start" x="3453.5" y="-2552.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\timings</text>
+<text text-anchor="middle" x="3502" y="-2541.5" font-family="Helvetica,sans-Serif" font-size="10.00">\TimingsHandler</text>
+<polyline fill="none" stroke="#bfbfbf" points="3445.5,-2534.5 3558.5,-2534.5 "/>
+<text text-anchor="middle" x="3502" y="-2522.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="3445.5,-2515.5 3558.5,-2515.5 "/>
+<text text-anchor="start" x="3453.5" y="-2503.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="3453.5" y="-2492.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ destroyCycles()</text>
+<text text-anchor="start" x="3453.5" y="-2481.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getGroup()</text>
+<text text-anchor="start" x="3453.5" y="-2470.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getName()</text>
+<text text-anchor="start" x="3453.5" y="-2459.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ startTiming()</text>
+<text text-anchor="start" x="3453.5" y="-2448.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ stopTiming()</text>
+<text text-anchor="start" x="3453.5" y="-2437.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ time()</text>
+<text text-anchor="start" x="3453.5" y="-2426.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getStartTime()</text>
+<text text-anchor="start" x="3453.5" y="-2415.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isEnabled()</text>
+<text text-anchor="start" x="3453.5" y="-2404.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ printTimings()</text>
+<text text-anchor="start" x="3453.5" y="-2393.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ reload()</text>
+<text text-anchor="start" x="3453.5" y="-2382.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setEnabled()</text>
+<text text-anchor="start" x="3453.5" y="-2371.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ tick()</text>
 </a>
 </g>
 </g>
 <!-- Node18&#45;&gt;Node7 -->
 <g id="edge18" class="edge">
 <title>Node18&#45;&gt;Node7</title>
-<path fill="none" stroke="#404040" d="M3474.72,-2369.8C3451.06,-2299.69 3411.62,-2204.22 3355,-2134 3280.66,-2041.81 3170.5,-1960.67 3094.11,-1910.42"/>
+<path fill="none" stroke="#404040" d="M3472.84,-2364.27C3448.99,-2294.74 3410.15,-2202.39 3355,-2134 3280.66,-2041.81 3170.5,-1960.67 3094.11,-1910.42"/>
 <polygon fill="none" stroke="#404040" points="3094.08,-1910.4 3086.87,-1910.47 3084.03,-1903.84 3091.24,-1903.77 3094.08,-1910.4"/>
 <text text-anchor="middle" x="3466.5" y="-2204.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #$timings</text>
 </g>

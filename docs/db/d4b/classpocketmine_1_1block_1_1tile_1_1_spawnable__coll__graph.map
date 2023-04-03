@@ -1,11 +1,11 @@
 <map id="pocketmine\block\tile\Spawnable" name="pocketmine\block\tile\Spawnable">
-<area shape="rect" id="node1" title=" " alt="" coords="306,1968,559,2163"/>
-<area shape="rect" id="node2" href="$d9/d74/classpocketmine_1_1block_1_1tile_1_1_tile.html" title=" " alt="" coords="333,1665,533,1919"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,541,63,619"/>
-<area shape="rect" id="node6" href="$d4/d2b/classpocketmine_1_1world_1_1_world.html" title=" " alt="" coords="143,901,373,1316"/>
-<area shape="rect" id="node4" href="$d5/dd2/classpocketmine_1_1world_1_1_position.html" title=" " alt="" coords="335,1423,530,1603"/>
-<area shape="rect" id="node5" href="$d2/d90/classpocketmine_1_1math_1_1_vector3.html" title=" " alt="" coords="397,953,586,1265"/>
-<area shape="rect" id="node7" href="$d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html" title=" " alt="" coords="357,497,597,663"/>
-<area shape="rect" id="node8" href="$d7/d08/classpocketmine_1_1world_1_1_world_timings.html" title=" " alt="" coords="101,483,332,677"/>
-<area shape="rect" id="node9" href="$d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html" title=" " alt="" coords="349,5,500,259"/>
+<area shape="rect" id="node1" title=" " alt="" coords="306,1983,559,2177"/>
+<area shape="rect" id="node2" href="$d9/d74/classpocketmine_1_1block_1_1tile_1_1_tile.html" title=" " alt="" coords="333,1680,533,1933"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,556,63,633"/>
+<area shape="rect" id="node6" href="$d4/d2b/classpocketmine_1_1world_1_1_world.html" title=" " alt="" coords="143,916,373,1331"/>
+<area shape="rect" id="node4" href="$d5/dd2/classpocketmine_1_1world_1_1_position.html" title=" " alt="" coords="335,1437,530,1617"/>
+<area shape="rect" id="node5" href="$d2/d90/classpocketmine_1_1math_1_1_vector3.html" title=" " alt="" coords="397,967,586,1279"/>
+<area shape="rect" id="node7" href="$d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html" title=" " alt="" coords="357,512,597,677"/>
+<area shape="rect" id="node8" href="$d7/d08/classpocketmine_1_1world_1_1_world_timings.html" title=" " alt="" coords="101,497,332,692"/>
+<area shape="rect" id="node9" href="$d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html" title=" " alt="" coords="349,5,500,273"/>
 </map>

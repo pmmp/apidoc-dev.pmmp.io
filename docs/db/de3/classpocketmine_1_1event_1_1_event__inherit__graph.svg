@@ -780,10 +780,10 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="2338" y="-246.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_ENTITY_ATTACK</text>
 <text text-anchor="start" x="2338" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_ENTITY_EXPLOSION</text>
 <text text-anchor="start" x="2338" y="-224.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_FALL</text>
-<text text-anchor="start" x="2338" y="-213.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_FIRE</text>
-<text text-anchor="start" x="2338" y="-202.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_FIRE_TICK</text>
-<text text-anchor="start" x="2338" y="-191.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_LAVA</text>
-<text text-anchor="start" x="2338" y="-180.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 16 more...</text>
+<text text-anchor="start" x="2338" y="-213.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_FALLING_BLOCK</text>
+<text text-anchor="start" x="2338" y="-202.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_FIRE</text>
+<text text-anchor="start" x="2338" y="-191.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_FIRE_TICK</text>
+<text text-anchor="start" x="2338" y="-180.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 18 more...</text>
 <polyline fill="none" stroke="red" points="2330,-173.5 2491,-173.5 "/>
 <text text-anchor="start" x="2338" y="-161.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
 <text text-anchor="start" x="2338" y="-150.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeReducedByArmor()</text>
