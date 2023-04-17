@@ -1,7 +1,7 @@
 <map id="pocketmine\block\BaseSign" name="pocketmine\block\BaseSign">
-<area shape="rect" id="node1" title=" " alt="" coords="76,2260,291,2543"/>
-<area shape="rect" id="node2" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="223,2133,440,2211"/>
-<area shape="rect" id="node3" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="287,1787,501,2084"/>
+<area shape="rect" id="node1" title=" " alt="" coords="76,2245,291,2528"/>
+<area shape="rect" id="node2" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="223,2119,440,2196"/>
+<area shape="rect" id="node3" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="287,1787,501,2069"/>
 <area shape="rect" id="node4" title=" " alt="" coords="179,556,236,633"/>
 <area shape="rect" id="node9" href="$d4/d2b/classpocketmine_1_1world_1_1_world.html" title=" " alt="" coords="333,916,562,1331"/>
 <area shape="rect" id="node13" href="$d3/d1c/classpocketmine_1_1block_1_1utils_1_1_sign_text.html" title=" " alt="" coords="5,1355,175,1520"/>

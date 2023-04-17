@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA2 git-dbcd2b1e65c3dc46b7231521773d7aeef7c3dd1c</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-1026811741cb26bd6442b65645afa6a9b1bbc4d0</span>
    </div>
   </td>
  </tr>
@@ -156,6 +156,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ac5c383e2cac0d681e6d372c2a85c2bc4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a033ecdaec9f837510e0b1de52be9c7db"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a033ecdaec9f837510e0b1de52be9c7db">getBoundingBox</a> ()</td></tr>
 <tr class="separator:a033ecdaec9f837510e0b1de52be9c7db"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9eab073e3b0a09af995fba1e53291a1f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a9eab073e3b0a09af995fba1e53291a1f">getDespawnDelay</a> ()</td></tr>
+<tr class="separator:a9eab073e3b0a09af995fba1e53291a1f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a930855c353ab95390e26ff608b5541a0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a930855c353ab95390e26ff608b5541a0">getDirectionPlane</a> ()</td></tr>
 <tr class="separator:a930855c353ab95390e26ff608b5541a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abacf7fc4f84e0ad112ba17638dc5cd1d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#abacf7fc4f84e0ad112ba17638dc5cd1d">getDirectionVector</a> ()</td></tr>
@@ -276,6 +278,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a1c05137f3b4e08df3be0b372726021b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5c4fe1ec80833443b6f4954ba4d443c9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a5c4fe1ec80833443b6f4954ba4d443c9">setCanSaveWithChunk</a> (bool $value)</td></tr>
 <tr class="separator:a5c4fe1ec80833443b6f4954ba4d443c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a633bad5eaab9826dda89e563fe10001c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a633bad5eaab9826dda89e563fe10001c">setDespawnDelay</a> (int $despawnDelay)</td></tr>
+<tr class="separator:a633bad5eaab9826dda89e563fe10001c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa8fb284a463ff2daab011f906b410054"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#aa8fb284a463ff2daab011f906b410054">setFallDistance</a> (float $fallDistance)</td></tr>
 <tr class="separator:aa8fb284a463ff2daab011f906b410054"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8e8d7ab0bf7a9de85e23b1202e9bb496"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a8e8d7ab0bf7a9de85e23b1202e9bb496">setFireTicks</a> (int $fireTicks)</td></tr>
@@ -364,10 +368,16 @@ Public Attributes</h2></td></tr>
 <tr class="separator:a6b87861597116851fa684cde3f87886a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a166f41885903158ef07c93a3a058c70b"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a166f41885903158ef07c93a3a058c70b">$ticksLived</a> = 0</td></tr>
 <tr class="separator:a166f41885903158ef07c93a3a058c70b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab7c06a4c866f92ed24eaee948a6d5b70"><td class="memItemLeft" align="right" valign="top">const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#ab7c06a4c866f92ed24eaee948a6d5b70">DEFAULT_DESPAWN_DELAY</a> = 6000</td></tr>
+<tr class="separator:ab7c06a4c866f92ed24eaee948a6d5b70"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a70b5a842a9dddc482c8b1ec3d935757a"><td class="memItemLeft" align="right" valign="top">const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a70b5a842a9dddc482c8b1ec3d935757a">MAX_DESPAWN_DELAY</a> = 32767 + self::DEFAULT_DESPAWN_DELAY</td></tr>
+<tr class="separator:a70b5a842a9dddc482c8b1ec3d935757a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:adc9119ef662d43a499aab07adf30b2c0"><td class="memItemLeft" align="right" valign="top">const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#adc9119ef662d43a499aab07adf30b2c0">MAX_TARGET_DISTANCE</a> = 8.0</td></tr>
 <tr class="separator:adc9119ef662d43a499aab07adf30b2c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a27bef8eb3b886f13e0a2ded4c43b506c"><td class="memItemLeft" align="right" valign="top">const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a27bef8eb3b886f13e0a2ded4c43b506c">MOTION_THRESHOLD</a> = 0.00001</td></tr>
 <tr class="separator:a27bef8eb3b886f13e0a2ded4c43b506c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a70b54430494910afe825ccf4ec03e7e6"><td class="memItemLeft" align="right" valign="top">const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a70b54430494910afe825ccf4ec03e7e6">NEVER_DESPAWN</a> = -1</td></tr>
+<tr class="separator:a70b54430494910afe825ccf4ec03e7e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a70cf8b292934a30414b3eb55340652b6"><td class="memItemLeft" align="right" valign="top">const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a70cf8b292934a30414b3eb55340652b6">ORB_SPLIT_SIZES</a> = [2477, 1237, 617, 307, 149, 73, 37, 17, 7, 3, 1]</td></tr>
 <tr class="separator:a70cf8b292934a30414b3eb55340652b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acb0f8f80d25285b110e8dc7bdf944c3b"><td class="memItemLeft" align="right" valign="top">const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#acb0f8f80d25285b110e8dc7bdf944c3b">TAG_MOTION</a> = &quot;Motion&quot;</td></tr>
@@ -456,8 +466,6 @@ Protected Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
 Protected Attributes</h2></td></tr>
-<tr class="memitem:ae3cfcfd2434b2ccef2e152ae494148bd"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#ae3cfcfd2434b2ccef2e152ae494148bd">$age</a> = 0</td></tr>
-<tr class="separator:ae3cfcfd2434b2ccef2e152ae494148bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aaa8c311948f393c3340ee814d59b4a7d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#aaa8c311948f393c3340ee814d59b4a7d">$alwaysShowNameTag</a> = false</td></tr>
 <tr class="separator:aaa8c311948f393c3340ee814d59b4a7d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a67859bf7ee5a3f94b857acfa4e03382b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d76/classpocketmine_1_1entity_1_1_attribute_map.html">AttributeMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a67859bf7ee5a3f94b857acfa4e03382b">$attributeMap</a></td></tr>
@@ -535,7 +543,7 @@ Protected Attributes</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00037">37</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00038">38</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a4c57f69047affa702ee23a1a5aa8fc99" name="a4c57f69047affa702ee23a1a5aa8fc99"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a4c57f69047affa702ee23a1a5aa8fc99">&#9670;&nbsp;</a></span>__construct()</h2>
@@ -569,7 +577,7 @@ Protected Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00092">92</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00097">97</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -912,7 +920,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html">pocketmine\entity\Entity</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00206">206</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00230">230</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -1402,7 +1410,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html">pocketmine\entity\Entity</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00153">153</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00177">177</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -1598,6 +1606,25 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="../../d1/d1d/_entity_8php_source.html#l00289">289</a> of file <a class="el" href="../../d1/d1d/_entity_8php_source.html">Entity.php</a>.</p>
+
+</div>
+</div>
+<a id="a9eab073e3b0a09af995fba1e53291a1f" name="a9eab073e3b0a09af995fba1e53291a1f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9eab073e3b0a09af995fba1e53291a1f">&#9670;&nbsp;</a></span>getDespawnDelay()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">pocketmine\entity\object\ExperienceOrb::getDespawnDelay </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00135">135</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -1926,7 +1953,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a853515497add5cc74078aa696148a41e">pocketmine\entity\Entity</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00099">99</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00104">104</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -1957,7 +1984,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a020854e1ad1eb9bbc132710b1c09537d">pocketmine\entity\Entity</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00101">101</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00106">106</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -1986,7 +2013,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html">pocketmine\entity\Entity</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00097">97</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00102">102</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -2096,7 +2123,7 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p >Returns the largest size of normal XP orb that will be spawned for the specified amount of XP. Used to split XP up into multiple orbs when an amount of XP is dropped. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00055">55</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00060">60</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -2206,7 +2233,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html">pocketmine\entity\Entity</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00039">39</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00040">40</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -2493,7 +2520,7 @@ Protected Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00136">136</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00160">160</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -2567,7 +2594,7 @@ Protected Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00120">120</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00144">144</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -2643,7 +2670,7 @@ Protected Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00132">132</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00156">156</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -2701,7 +2728,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html">pocketmine\entity\Entity</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00103">103</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00108">108</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -3595,7 +3622,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html">pocketmine\entity\Entity</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00109">109</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00119">119</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -3791,6 +3818,26 @@ Protected Attributes</h2></td></tr>
 <p>Reimplemented in <a class="el" href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html#a3545865bf08257a29c916ba386edd419">pocketmine\player\Player</a>.</p>
 
 <p class="definition">Definition at line <a class="el" href="../../d1/d1d/_entity_8php_source.html#l00445">445</a> of file <a class="el" href="../../d1/d1d/_entity_8php_source.html">Entity.php</a>.</p>
+
+</div>
+</div>
+<a id="a633bad5eaab9826dda89e563fe10001c" name="a633bad5eaab9826dda89e563fe10001c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a633bad5eaab9826dda89e563fe10001c">&#9670;&nbsp;</a></span>setDespawnDelay()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">pocketmine\entity\object\ExperienceOrb::setDespawnDelay </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>$despawnDelay</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00137">137</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -4535,7 +4582,7 @@ Protected Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00149">149</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00173">173</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -4555,7 +4602,7 @@ Protected Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00124">124</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00148">148</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -4640,7 +4687,7 @@ Protected Attributes</h2></td></tr>
 <p >Splits the specified amount of XP into an array of acceptable XP orb sizes.</p>
 <dl class="section return"><dt>Returns</dt><dd>int[] </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00070">70</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00075">75</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -4670,7 +4717,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html">pocketmine\entity\Entity</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00210">210</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00234">234</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -4761,7 +4808,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html">pocketmine\entity\Entity</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00201">201</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00225">225</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -4832,30 +4879,6 @@ Protected Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="ae3cfcfd2434b2ccef2e152ae494148bd" name="ae3cfcfd2434b2ccef2e152ae494148bd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae3cfcfd2434b2ccef2e152ae494148bd">&#9670;&nbsp;</a></span>$age</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">int pocketmine\entity\object\ExperienceOrb::$age = 0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00082">82</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
-
-</div>
-</div>
 <a id="aaa8c311948f393c3340ee814d59b4a7d" name="aaa8c311948f393c3340ee814d59b4a7d"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#aaa8c311948f393c3340ee814d59b4a7d">&#9670;&nbsp;</a></span>$alwaysShowNameTag</h2>
 
@@ -5525,7 +5548,7 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p >Ticker used for determining interval in which to look for new target players. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00085">85</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00088">88</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -5886,7 +5909,7 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p >Runtime entity ID of the player this XP orb is targeting. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00088">88</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00091">91</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -5958,7 +5981,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00090">90</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00093">93</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -5986,6 +6009,38 @@ Protected Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="ab7c06a4c866f92ed24eaee948a6d5b70" name="ab7c06a4c866f92ed24eaee948a6d5b70"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab7c06a4c866f92ed24eaee948a6d5b70">&#9670;&nbsp;</a></span>DEFAULT_DESPAWN_DELAY</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const pocketmine\entity\object\ExperienceOrb::DEFAULT_DESPAWN_DELAY = 6000</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00052">52</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+
+</div>
+</div>
+<a id="a70b5a842a9dddc482c8b1ec3d935757a" name="a70b5a842a9dddc482c8b1ec3d935757a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a70b5a842a9dddc482c8b1ec3d935757a">&#9670;&nbsp;</a></span>MAX_DESPAWN_DELAY</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const pocketmine\entity\object\ExperienceOrb::MAX_DESPAWN_DELAY = 32767 + self::DEFAULT_DESPAWN_DELAY</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00054">54</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+
+</div>
+</div>
 <a id="adc9119ef662d43a499aab07adf30b2c0" name="adc9119ef662d43a499aab07adf30b2c0"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#adc9119ef662d43a499aab07adf30b2c0">&#9670;&nbsp;</a></span>MAX_TARGET_DISTANCE</h2>
 
@@ -5999,7 +6054,7 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p >Max distance an orb will follow a player across. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00046">46</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00047">47</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -6027,6 +6082,22 @@ Protected Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="a70b54430494910afe825ccf4ec03e7e6" name="a70b54430494910afe825ccf4ec03e7e6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a70b54430494910afe825ccf4ec03e7e6">&#9670;&nbsp;</a></span>NEVER_DESPAWN</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const pocketmine\entity\object\ExperienceOrb::NEVER_DESPAWN = -1</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00053">53</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+
+</div>
+</div>
 <a id="a70cf8b292934a30414b3eb55340652b6" name="a70cf8b292934a30414b3eb55340652b6"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a70cf8b292934a30414b3eb55340652b6">&#9670;&nbsp;</a></span>ORB_SPLIT_SIZES</h2>
 
@@ -6040,7 +6111,7 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p >Split sizes used for dropping experience orbs. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00049">49</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00050">50</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -6152,7 +6223,7 @@ Protected Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00041">41</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00042">42</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>
@@ -6168,7 +6239,7 @@ Protected Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00042">42</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d68/_experience_orb_8php_source.html#l00043">43</a> of file <a class="el" href="../../df/d68/_experience_orb_8php_source.html">ExperienceOrb.php</a>.</p>
 
 </div>
 </div>

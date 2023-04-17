@@ -1,8 +1,8 @@
 <map id="pocketmine\block\ChorusFlower" name="pocketmine\block\ChorusFlower">
-<area shape="rect" id="node1" title=" " alt="" coords="5,2309,236,2504"/>
-<area shape="rect" id="node2" href="$d3/d1e/classpocketmine_1_1block_1_1_flowable.html" title=" " alt="" coords="135,2139,349,2260"/>
-<area shape="rect" id="node3" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="160,2012,377,2089"/>
-<area shape="rect" id="node4" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="213,1665,428,1963"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,2295,236,2489"/>
+<area shape="rect" id="node2" href="$d3/d1e/classpocketmine_1_1block_1_1_flowable.html" title=" " alt="" coords="135,2124,349,2245"/>
+<area shape="rect" id="node3" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="160,1997,377,2075"/>
+<area shape="rect" id="node4" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="213,1665,428,1948"/>
 <area shape="rect" id="node5" title=" " alt="" coords="92,556,149,633"/>
 <area shape="rect" id="node10" href="$d4/d2b/classpocketmine_1_1world_1_1_world.html" title=" " alt="" coords="246,916,475,1331"/>
 <area shape="rect" id="node6" href="$dd/d18/classpocketmine_1_1block_1_1_block_identifier.html" title=" " alt="" coords="442,1459,677,1566"/>

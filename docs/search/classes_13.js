@@ -28,7 +28,7 @@ var searchData=
   ['throwable_25',['Throwable',['../d0/d86/classpocketmine_1_1entity_1_1projectile_1_1_throwable.html',1,'pocketmine::entity::projectile']]],
   ['throwsound_26',['ThrowSound',['../d9/d18/classpocketmine_1_1world_1_1sound_1_1_throw_sound.html',1,'pocketmine::world::sound']]],
   ['tickingareasloadstatuspacket_27',['TickingAreasLoadStatusPacket',['../d1/da2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_ticking_areas_load_status_packet.html',1,'pocketmine::network::mcpe::protocol']]],
-  ['tickingchunkloader_28',['TickingChunkLoader',['../d0/d04/interfacepocketmine_1_1world_1_1_ticking_chunk_loader.html',1,'pocketmine::world']]],
+  ['tickingchunkentry_28',['TickingChunkEntry',['../d1/d78/classpocketmine_1_1world_1_1_ticking_chunk_entry.html',1,'pocketmine::world']]],
   ['ticksyncpacket_29',['TickSyncPacket',['../dc/d46/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_tick_sync_packet.html',1,'pocketmine::network::mcpe::protocol']]],
   ['tieredtool_30',['TieredTool',['../de/dee/classpocketmine_1_1item_1_1_tiered_tool.html',1,'pocketmine::item']]],
   ['tile_31',['Tile',['../d9/d74/classpocketmine_1_1block_1_1tile_1_1_tile.html',1,'pocketmine::block::tile']]],

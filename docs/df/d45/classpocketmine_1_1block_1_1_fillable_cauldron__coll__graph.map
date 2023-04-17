@@ -1,7 +1,7 @@
 <map id="pocketmine\block\FillableCauldron" name="pocketmine\block\FillableCauldron">
-<area shape="rect" id="node1" title=" " alt="" coords="5,2153,220,2407"/>
-<area shape="rect" id="node2" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="175,2027,392,2104"/>
-<area shape="rect" id="node3" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="269,1680,484,1977"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,2139,220,2392"/>
+<area shape="rect" id="node2" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="175,2012,392,2089"/>
+<area shape="rect" id="node3" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="269,1680,484,1963"/>
 <area shape="rect" id="node4" title=" " alt="" coords="161,556,219,633"/>
 <area shape="rect" id="node9" href="$d4/d2b/classpocketmine_1_1world_1_1_world.html" title=" " alt="" coords="315,916,545,1331"/>
 <area shape="rect" id="node5" href="$dd/d18/classpocketmine_1_1block_1_1_block_identifier.html" title=" " alt="" coords="498,1459,733,1566"/>

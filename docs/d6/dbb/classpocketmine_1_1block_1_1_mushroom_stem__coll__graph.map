@@ -1,7 +1,7 @@
 <map id="pocketmine\block\MushroomStem" name="pocketmine\block\MushroomStem">
-<area shape="rect" id="node1" title=" " alt="" coords="318,2139,562,2231"/>
-<area shape="rect" id="node2" href="$db/dc5/classpocketmine_1_1block_1_1_opaque.html" title=" " alt="" coords="345,2012,536,2089"/>
-<area shape="rect" id="node3" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="333,1665,548,1963"/>
+<area shape="rect" id="node1" title=" " alt="" coords="318,2124,562,2216"/>
+<area shape="rect" id="node2" href="$db/dc5/classpocketmine_1_1block_1_1_opaque.html" title=" " alt="" coords="345,1997,536,2075"/>
+<area shape="rect" id="node3" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="333,1665,548,1948"/>
 <area shape="rect" id="node4" title=" " alt="" coords="10,556,68,633"/>
 <area shape="rect" id="node9" href="$d4/d2b/classpocketmine_1_1world_1_1_world.html" title=" " alt="" coords="147,916,376,1331"/>
 <area shape="rect" id="node5" href="$dd/d18/classpocketmine_1_1block_1_1_block_identifier.html" title=" " alt="" coords="383,1459,618,1566"/>

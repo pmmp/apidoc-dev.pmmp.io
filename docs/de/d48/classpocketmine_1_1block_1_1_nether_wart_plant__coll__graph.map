@@ -1,8 +1,8 @@
 <map id="pocketmine\block\NetherWartPlant" name="pocketmine\block\NetherWartPlant">
-<area shape="rect" id="node1" title=" " alt="" coords="5,2309,232,2504"/>
-<area shape="rect" id="node2" href="$d3/d1e/classpocketmine_1_1block_1_1_flowable.html" title=" " alt="" coords="133,2139,347,2260"/>
-<area shape="rect" id="node3" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="158,2012,375,2089"/>
-<area shape="rect" id="node4" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="211,1665,426,1963"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,2295,232,2489"/>
+<area shape="rect" id="node2" href="$d3/d1e/classpocketmine_1_1block_1_1_flowable.html" title=" " alt="" coords="133,2124,347,2245"/>
+<area shape="rect" id="node3" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="158,1997,375,2075"/>
+<area shape="rect" id="node4" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="211,1665,426,1948"/>
 <area shape="rect" id="node5" title=" " alt="" coords="90,556,147,633"/>
 <area shape="rect" id="node10" href="$d4/d2b/classpocketmine_1_1world_1_1_world.html" title=" " alt="" coords="244,916,473,1331"/>
 <area shape="rect" id="node6" href="$dd/d18/classpocketmine_1_1block_1_1_block_identifier.html" title=" " alt="" coords="440,1459,675,1566"/>

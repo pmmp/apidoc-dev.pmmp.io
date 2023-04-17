@@ -1,7 +1,7 @@
 <map id="pocketmine\block\Cactus" name="pocketmine\block\Cactus">
-<area shape="rect" id="node1" title=" " alt="" coords="5,2139,220,2363"/>
-<area shape="rect" id="node2" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="159,2012,376,2089"/>
-<area shape="rect" id="node3" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="231,1665,445,1963"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,2124,220,2348"/>
+<area shape="rect" id="node2" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="159,1997,376,2075"/>
+<area shape="rect" id="node3" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="231,1665,445,1948"/>
 <area shape="rect" id="node4" title=" " alt="" coords="123,556,180,633"/>
 <area shape="rect" id="node9" href="$d4/d2b/classpocketmine_1_1world_1_1_world.html" title=" " alt="" coords="277,916,506,1331"/>
 <area shape="rect" id="node5" href="$dd/d18/classpocketmine_1_1block_1_1_block_identifier.html" title=" " alt="" coords="459,1459,694,1566"/>

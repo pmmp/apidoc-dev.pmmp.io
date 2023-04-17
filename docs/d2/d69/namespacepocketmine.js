@@ -177,7 +177,6 @@ var namespacepocketmine =
       [ "IPlayer", "d2/df5/interfacepocketmine_1_1player_1_1_i_player.html", null ],
       [ "OfflinePlayer", "dd/d09/classpocketmine_1_1player_1_1_offline_player.html", null ],
       [ "Player", "d0/d6f/classpocketmine_1_1player_1_1_player.html", "d0/d6f/classpocketmine_1_1player_1_1_player" ],
-      [ "PlayerChunkLoader", "d0/dec/classpocketmine_1_1player_1_1_player_chunk_loader.html", null ],
       [ "PlayerDataLoadException", "d6/d83/classpocketmine_1_1player_1_1_player_data_load_exception.html", null ],
       [ "PlayerDataProvider", "d4/d27/interfacepocketmine_1_1player_1_1_player_data_provider.html", "d4/d27/interfacepocketmine_1_1player_1_1_player_data_provider" ],
       [ "PlayerDataSaveException", "dc/d86/classpocketmine_1_1player_1_1_player_data_save_exception.html", null ],

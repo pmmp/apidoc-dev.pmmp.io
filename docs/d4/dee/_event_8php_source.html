@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA2 git-dbcd2b1e65c3dc46b7231521773d7aeef7c3dd1c</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-1026811741cb26bd6442b65645afa6a9b1bbc4d0</span>
    </div>
   </td>
  </tr>
@@ -144,22 +144,15 @@ $(document).ready(function(){initNavTree('d4/dee/_event_8php_source.html','../..
 <div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span> </div>
 <div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>        ++self::$eventCallDepth;</div>
 <div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>        <span class="keywordflow">try</span>{</div>
-<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>            <span class="keywordflow">foreach</span>(EventPriority::ALL as $priority){</div>
-<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>                $currentList = $handlerList;</div>
-<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>                <span class="keywordflow">while</span>($currentList !== <span class="keyword">null</span>){</div>
-<div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>                    <span class="keywordflow">foreach</span>($currentList-&gt;getListenersByPriority($priority) as $registration){</div>
-<div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>                        $registration-&gt;callEvent($this);</div>
-<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>                    }</div>
-<div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span> </div>
-<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>                    $currentList = $currentList-&gt;getParent();</div>
-<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>                }</div>
-<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>            }</div>
-<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>        }<span class="keywordflow">finally</span>{</div>
-<div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>            --self::$eventCallDepth;</div>
-<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>            $timings-&gt;stopTiming();</div>
-<div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>        }</div>
-<div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span>    }</div>
-<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>}</div>
+<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>            <span class="keywordflow">foreach</span>($handlerList-&gt;getListenerList() as $registration){</div>
+<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>                $registration-&gt;callEvent($this);</div>
+<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>            }</div>
+<div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>        }<span class="keywordflow">finally</span>{</div>
+<div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>            --self::$eventCallDepth;</div>
+<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>            $timings-&gt;stopTiming();</div>
+<div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>        }</div>
+<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>    }</div>
+<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>}</div>
 <div class="ttc" id="aclasspocketmine_1_1event_1_1_event_html"><div class="ttname"><a href="../../d1/d2f/classpocketmine_1_1event_1_1_event.html">pocketmine\event\Event</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d4/dee/_event_8php_source.html#l00032">Event.php:32</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1event_1_1_event_html_a3d979a673428c9ae66e1039bf796e945"><div class="ttname"><a href="../../d1/d2f/classpocketmine_1_1event_1_1_event.html#a3d979a673428c9ae66e1039bf796e945">pocketmine\event\Event\call</a></div><div class="ttdeci">call()</div><div class="ttdef"><b>Definition:</b> <a href="../../d4/dee/_event_8php_source.html#l00048">Event.php:48</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1timings_1_1_timings_html"><div class="ttname"><a href="../../de/d8c/classpocketmine_1_1timings_1_1_timings.html">pocketmine\timings\Timings</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dc/da0/_timings_8php_source.html#l00036">Timings.php:36</a></div></div>

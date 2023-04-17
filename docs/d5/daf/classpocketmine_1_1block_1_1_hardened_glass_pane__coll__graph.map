@@ -1,8 +1,8 @@
 <map id="pocketmine\block\HardenedGlassPane" name="pocketmine\block\HardenedGlassPane">
-<area shape="rect" id="node1" title=" " alt="" coords="338,2295,542,2387"/>
-<area shape="rect" id="node2" href="$d2/d75/classpocketmine_1_1block_1_1_thin.html" title=" " alt="" coords="333,2139,548,2245"/>
-<area shape="rect" id="node3" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="332,2012,549,2089"/>
-<area shape="rect" id="node4" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="333,1665,548,1963"/>
+<area shape="rect" id="node1" title=" " alt="" coords="338,2280,542,2372"/>
+<area shape="rect" id="node2" href="$d2/d75/classpocketmine_1_1block_1_1_thin.html" title=" " alt="" coords="333,2124,548,2231"/>
+<area shape="rect" id="node3" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="332,1997,549,2075"/>
+<area shape="rect" id="node4" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="333,1665,548,1948"/>
 <area shape="rect" id="node5" title=" " alt="" coords="10,556,68,633"/>
 <area shape="rect" id="node10" href="$d4/d2b/classpocketmine_1_1world_1_1_world.html" title=" " alt="" coords="147,916,376,1331"/>
 <area shape="rect" id="node6" href="$dd/d18/classpocketmine_1_1block_1_1_block_identifier.html" title=" " alt="" coords="383,1459,618,1566"/>
