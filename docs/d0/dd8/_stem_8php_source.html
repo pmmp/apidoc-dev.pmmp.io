@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-1026811741cb26bd6442b65645afa6a9b1bbc4d0</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-edcaeef83136fa18219dd6d36e71568a19093bd5</span>
    </div>
   </td>
  </tr>
@@ -141,7 +141,7 @@ $(document).ready(function(){initNavTree('d0/dd8/_stem_8php_source.html','../../
 <div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>            }<span class="keywordflow">else</span>{</div>
 <div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>                $grow = $this-&gt;getPlant();</div>
 <div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>                <span class="keywordflow">foreach</span>(Facing::HORIZONTAL as $side){</div>
-<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>                    <span class="keywordflow">if</span>($this-&gt;<a class="code hl_function" href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#a6f13ff76dad934b1b2e078a5b57dd7a5">getSide</a>($side)-&gt;<a class="code hl_function" href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#a92f39092503063e6270a9c1b72f2c984">isSameType</a>($grow)){</div>
+<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>                    <span class="keywordflow">if</span>($this-&gt;<a class="code hl_function" href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#a6f13ff76dad934b1b2e078a5b57dd7a5">getSide</a>($side)-&gt;<a class="code hl_function" href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#acfa7766036568571b645ae89ceb1029e">hasSameTypeId</a>($grow)){</div>
 <div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>                        <span class="keywordflow">return</span>;</div>
 <div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>                    }</div>
 <div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>                }</div>
@@ -164,9 +164,9 @@ $(document).ready(function(){initNavTree('d0/dd8/_stem_8php_source.html','../../
 <div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>        ];</div>
 <div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>    }</div>
 <div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>}</div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html">pocketmine\block\Block</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00056">Block.php:56</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html_a6f13ff76dad934b1b2e078a5b57dd7a5"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#a6f13ff76dad934b1b2e078a5b57dd7a5">pocketmine\block\Block\getSide</a></div><div class="ttdeci">getSide(int $side, int $step=1)</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00671">Block.php:671</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html_a92f39092503063e6270a9c1b72f2c984"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#a92f39092503063e6270a9c1b72f2c984">pocketmine\block\Block\isSameType</a></div><div class="ttdeci">isSameType(Block $other)</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00147">Block.php:147</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html">pocketmine\block\Block</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00057">Block.php:57</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html_a6f13ff76dad934b1b2e078a5b57dd7a5"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#a6f13ff76dad934b1b2e078a5b57dd7a5">pocketmine\block\Block\getSide</a></div><div class="ttdeci">getSide(int $side, int $step=1)</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00687">Block.php:687</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html_acfa7766036568571b645ae89ceb1029e"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#acfa7766036568571b645ae89ceb1029e">pocketmine\block\Block\hasSameTypeId</a></div><div class="ttdeci">hasSameTypeId(Block $other)</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00148">Block.php:148</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_crops_html"><div class="ttname"><a href="../../d2/d70/classpocketmine_1_1block_1_1_crops.html">pocketmine\block\Crops</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d0/dde/_crops_8php_source.html#l00036">Crops.php:36</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_stem_html"><div class="ttname"><a href="../../dc/d0c/classpocketmine_1_1block_1_1_stem.html">pocketmine\block\Stem</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d0/dd8/_stem_8php_source.html#l00032">Stem.php:32</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_stem_html_a33559fe245f1130d88f7e742ac1afb5a"><div class="ttname"><a href="../../dc/d0c/classpocketmine_1_1block_1_1_stem.html#a33559fe245f1130d88f7e742ac1afb5a">pocketmine\block\Stem\onRandomTick</a></div><div class="ttdeci">onRandomTick()</div><div class="ttdef"><b>Definition:</b> <a href="../../d0/dd8/_stem_8php_source.html#l00036">Stem.php:36</a></div></div>

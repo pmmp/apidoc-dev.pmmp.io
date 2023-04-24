@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-1026811741cb26bd6442b65645afa6a9b1bbc4d0</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-edcaeef83136fa18219dd6d36e71568a19093bd5</span>
    </div>
   </td>
  </tr>
@@ -134,7 +134,7 @@ $(document).ready(function(){initNavTree('d3/dd4/object_2_ore_8php_source.html',
 <div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>    }</div>
 <div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span> </div>
 <div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>    <span class="keyword">public</span> <span class="keyword">function</span> canPlaceObject(<a class="code hl_interface" href="../../d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html">ChunkManager</a> $world, <span class="keywordtype">int</span> $x, <span class="keywordtype">int</span> $y, <span class="keywordtype">int</span> $z) : <span class="keywordtype">bool</span>{</div>
-<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>        <span class="keywordflow">return</span> $world-&gt;<a class="code hl_function" href="../../d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html#a489c46e71074c77c8c2d751f21aec0c5">getBlockAt</a>($x, $y, $z)-&gt;isSameType($this-&gt;type-&gt;replaces);</div>
+<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>        <span class="keywordflow">return</span> $world-&gt;<a class="code hl_function" href="../../d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html#a489c46e71074c77c8c2d751f21aec0c5">getBlockAt</a>($x, $y, $z)-&gt;hasSameTypeId($this-&gt;type-&gt;replaces);</div>
 <div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>    }</div>
 <div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span> </div>
 <div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>    <span class="keyword">public</span> <span class="keyword">function</span> placeObject(<a class="code hl_interface" href="../../d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html">ChunkManager</a> $world, <span class="keywordtype">int</span> $x, <span class="keywordtype">int</span> $y, <span class="keywordtype">int</span> $z) : <span class="keywordtype">void</span>{</div>
@@ -174,7 +174,7 @@ $(document).ready(function(){initNavTree('d3/dd4/object_2_ore_8php_source.html',
 <div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span>                                $sizeZ = ($zz + 0.5 - $seedZ) / $size;</div>
 <div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span>                                $sizeZ *= $sizeZ;</div>
 <div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span> </div>
-<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>                                <span class="keywordflow">if</span>(($sizeX + $sizeY + $sizeZ) &lt; 1 &amp;&amp; $world-&gt;<a class="code hl_function" href="../../d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html#a489c46e71074c77c8c2d751f21aec0c5">getBlockAt</a>($xx, $yy, $zz)-&gt;isSameType($this-&gt;type-&gt;replaces)){</div>
+<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>                                <span class="keywordflow">if</span>(($sizeX + $sizeY + $sizeZ) &lt; 1 &amp;&amp; $world-&gt;<a class="code hl_function" href="../../d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html#a489c46e71074c77c8c2d751f21aec0c5">getBlockAt</a>($xx, $yy, $zz)-&gt;hasSameTypeId($this-&gt;type-&gt;replaces)){</div>
 <div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span>                                    $world-&gt;<a class="code hl_function" href="../../d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html#a94304c87d2659a6dde338fd96a6d756b">setBlockAt</a>($xx, $yy, $zz, $this-&gt;type-&gt;material);</div>
 <div class="line"><a id="l00085" name="l00085"></a><span class="lineno">   85</span>                                }</div>
 <div class="line"><a id="l00086" name="l00086"></a><span class="lineno">   86</span>                            }</div>

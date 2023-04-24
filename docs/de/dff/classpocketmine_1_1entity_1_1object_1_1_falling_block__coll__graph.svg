@@ -365,7 +365,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="8" y="-1302.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ calculateIntercept()</text>
 <text text-anchor="start" x="8" y="-1291.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
 <text text-anchor="start" x="8" y="-1280.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
-<text text-anchor="start" x="8" y="-1269.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 62 more...</text>
+<text text-anchor="start" x="8" y="-1269.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 59 more...</text>
 <text text-anchor="start" x="8" y="-1258.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 <text text-anchor="start" x="8" y="-1247.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getXpDropAmount()</text>
 <text text-anchor="start" x="8" y="-1236.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>

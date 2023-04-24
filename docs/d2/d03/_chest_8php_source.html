@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-1026811741cb26bd6442b65645afa6a9b1bbc4d0</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-edcaeef83136fa18219dd6d36e71568a19093bd5</span>
    </div>
   </td>
  </tr>
@@ -148,13 +148,13 @@ $(document).ready(function(){initNavTree('d2/d03/_chest_8php_source.html','../..
 <div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>            <span class="keywordflow">foreach</span>([<span class="keyword">false</span>, <span class="keyword">true</span>] as $clockwise){</div>
 <div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>                $side = Facing::rotateY($this-&gt;facing, $clockwise);</div>
 <div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>                $c = $this-&gt;getSide($side);</div>
-<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>                <span class="keywordflow">if</span>($c instanceof <a class="code hl_class" href="../../d8/d5c/classpocketmine_1_1block_1_1_chest.html">Chest</a> &amp;&amp; $c-&gt;<a class="code hl_function" href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#a92f39092503063e6270a9c1b72f2c984">isSameType</a>($this) &amp;&amp; $c-&gt;facing === $this-&gt;facing){</div>
+<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>                <span class="keywordflow">if</span>($c instanceof <a class="code hl_class" href="../../d8/d5c/classpocketmine_1_1block_1_1_chest.html">Chest</a> &amp;&amp; $c-&gt;<a class="code hl_function" href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#acfa7766036568571b645ae89ceb1029e">hasSameTypeId</a>($this) &amp;&amp; $c-&gt;facing === $this-&gt;facing){</div>
 <div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>                    $pair = $world-&gt;getTile($c-&gt;position);</div>
 <div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>                    <span class="keywordflow">if</span>($pair instanceof TileChest &amp;&amp; !$pair-&gt;isPaired()){</div>
 <div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>                        [$left, $right] = $clockwise ? [$c, $this] : [$this, $c];</div>
 <div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>                        $ev = <span class="keyword">new</span> <a class="code hl_class" href="../../de/dd7/classpocketmine_1_1event_1_1block_1_1_chest_pair_event.html">ChestPairEvent</a>($left, $right);</div>
 <div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>                        $ev-&gt;call();</div>
-<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>                        <span class="keywordflow">if</span>(!$ev-&gt;isCancelled() &amp;&amp; $world-&gt;getBlock($this-&gt;position)-&gt;isSameType($this) &amp;&amp; $world-&gt;getBlock($c-&gt;position)-&gt;isSameType($c)){</div>
+<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>                        <span class="keywordflow">if</span>(!$ev-&gt;isCancelled() &amp;&amp; $world-&gt;getBlock($this-&gt;position)-&gt;hasSameTypeId($this) &amp;&amp; $world-&gt;getBlock($c-&gt;position)-&gt;hasSameTypeId($c)){</div>
 <div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>                            $pair-&gt;pairWith($tile);</div>
 <div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>                            $tile-&gt;pairWith($pair);</div>
 <div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>                            <span class="keywordflow">break</span>;</div>
@@ -189,7 +189,7 @@ $(document).ready(function(){initNavTree('d2/d03/_chest_8php_source.html','../..
 <div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span>        return 300;</div>
 <div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span>    }</div>
 <div class="line"><a id="l00100" name="l00100"></a><span class="lineno">  100</span>}</div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html_a92f39092503063e6270a9c1b72f2c984"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#a92f39092503063e6270a9c1b72f2c984">pocketmine\block\Block\isSameType</a></div><div class="ttdeci">isSameType(Block $other)</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00147">Block.php:147</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html_acfa7766036568571b645ae89ceb1029e"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#acfa7766036568571b645ae89ceb1029e">pocketmine\block\Block\hasSameTypeId</a></div><div class="ttdeci">hasSameTypeId(Block $other)</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00148">Block.php:148</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_chest_html"><div class="ttname"><a href="../../d8/d5c/classpocketmine_1_1block_1_1_chest.html">pocketmine\block\Chest</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d2/d03/_chest_8php_source.html#l00037">Chest.php:37</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_chest_html_a29701eeffca02503f801ad2dbebad222"><div class="ttname"><a href="../../d8/d5c/classpocketmine_1_1block_1_1_chest.html#a29701eeffca02503f801ad2dbebad222">pocketmine\block\Chest\getSupportType</a></div><div class="ttdeci">getSupportType(int $facing)</div><div class="ttdef"><b>Definition:</b> <a href="../../d2/d03/_chest_8php_source.html#l00049">Chest.php:49</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_chest_html_a2ba577f3fb89130e8405beabbaeeb319"><div class="ttname"><a href="../../d8/d5c/classpocketmine_1_1block_1_1_chest.html#a2ba577f3fb89130e8405beabbaeeb319">pocketmine\block\Chest\getFuelTime</a></div><div class="ttdeci">getFuelTime()</div><div class="ttdef"><b>Definition:</b> <a href="../../d2/d03/_chest_8php_source.html#l00097">Chest.php:97</a></div></div>

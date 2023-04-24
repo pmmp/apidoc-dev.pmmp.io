@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-1026811741cb26bd6442b65645afa6a9b1bbc4d0</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-edcaeef83136fa18219dd6d36e71568a19093bd5</span>
    </div>
   </td>
  </tr>
@@ -227,7 +227,7 @@ $(document).ready(function(){initNavTree('d7/d0a/_liquid_8php_source.html','../.
 <div class="line"><a id="l00144" name="l00144"></a><span class="lineno">  144</span>    }</div>
 <div class="line"><a id="l00145" name="l00145"></a><span class="lineno">  145</span> </div>
 <div class="line"><a id="l00146" name="l00146"></a><span class="lineno">  146</span>    <span class="keyword">protected</span> <span class="keyword">function</span> getEffectiveFlowDecay(<a class="code hl_class" href="../../d7/d27/classpocketmine_1_1block_1_1_block.html">Block</a> $block) : int{</div>
-<div class="line"><a id="l00147" name="l00147"></a><span class="lineno">  147</span>        if(!($block instanceof <a class="code hl_class" href="../../d8/d57/classpocketmine_1_1block_1_1_liquid.html">Liquid</a>) || !$block-&gt;isSameType($this)){</div>
+<div class="line"><a id="l00147" name="l00147"></a><span class="lineno">  147</span>        if(!($block instanceof <a class="code hl_class" href="../../d8/d57/classpocketmine_1_1block_1_1_liquid.html">Liquid</a>) || !$block-&gt;hasSameTypeId($this)){</div>
 <div class="line"><a id="l00148" name="l00148"></a><span class="lineno">  148</span>            <span class="keywordflow">return</span> -1;</div>
 <div class="line"><a id="l00149" name="l00149"></a><span class="lineno">  149</span>        }</div>
 <div class="line"><a id="l00150" name="l00150"></a><span class="lineno">  150</span> </div>
@@ -358,7 +358,7 @@ $(document).ready(function(){initNavTree('d7/d0a/_liquid_8php_source.html','../.
 <div class="line"><a id="l00282" name="l00282"></a><span class="lineno">  282</span>            $minAdjacentSources = $this-&gt;getMinAdjacentSourcesToFormSource();</div>
 <div class="line"><a id="l00283" name="l00283"></a><span class="lineno">  283</span>            <span class="keywordflow">if</span>($minAdjacentSources !== <span class="keyword">null</span> &amp;&amp; $this-&gt;adjacentSources &gt;= $minAdjacentSources){</div>
 <div class="line"><a id="l00284" name="l00284"></a><span class="lineno">  284</span>                $bottomBlock = $world-&gt;getBlockAt($this-&gt;position-&gt;x, $this-&gt;position-&gt;y - 1, $this-&gt;position-&gt;z);</div>
-<div class="line"><a id="l00285" name="l00285"></a><span class="lineno">  285</span>                <span class="keywordflow">if</span>($bottomBlock-&gt;isSolid() || ($bottomBlock instanceof <a class="code hl_class" href="../../d8/d57/classpocketmine_1_1block_1_1_liquid.html">Liquid</a> &amp;&amp; $bottomBlock-&gt;<a class="code hl_function" href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#a92f39092503063e6270a9c1b72f2c984">isSameType</a>($this) &amp;&amp; $bottomBlock-&gt;isSource())){</div>
+<div class="line"><a id="l00285" name="l00285"></a><span class="lineno">  285</span>                <span class="keywordflow">if</span>($bottomBlock-&gt;isSolid() || ($bottomBlock instanceof <a class="code hl_class" href="../../d8/d57/classpocketmine_1_1block_1_1_liquid.html">Liquid</a> &amp;&amp; $bottomBlock-&gt;<a class="code hl_function" href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#acfa7766036568571b645ae89ceb1029e">hasSameTypeId</a>($this) &amp;&amp; $bottomBlock-&gt;isSource())){</div>
 <div class="line"><a id="l00286" name="l00286"></a><span class="lineno">  286</span>                    $newDecay = 0;</div>
 <div class="line"><a id="l00287" name="l00287"></a><span class="lineno">  287</span>                    $falling = <span class="keyword">false</span>;</div>
 <div class="line"><a id="l00288" name="l00288"></a><span class="lineno">  288</span>                }</div>
@@ -418,7 +418,7 @@ $(document).ready(function(){initNavTree('d7/d0a/_liquid_8php_source.html','../.
 <div class="line"><a id="l00342" name="l00342"></a><span class="lineno">  342</span>    }</div>
 <div class="line"><a id="l00343" name="l00343"></a><span class="lineno">  343</span> </div>
 <div class="line"><a id="l00345" name="l00345"></a><span class="lineno">  345</span>    <span class="keyword">private</span> <span class="keyword">function</span> getSmallestFlowDecay(Block $block, <span class="keywordtype">int</span> $decay) : int{</div>
-<div class="line"><a id="l00346" name="l00346"></a><span class="lineno">  346</span>        if(!($block instanceof Liquid) || !$block-&gt;isSameType($this)){</div>
+<div class="line"><a id="l00346" name="l00346"></a><span class="lineno">  346</span>        if(!($block instanceof Liquid) || !$block-&gt;hasSameTypeId($this)){</div>
 <div class="line"><a id="l00347" name="l00347"></a><span class="lineno">  347</span>            <span class="keywordflow">return</span> $decay;</div>
 <div class="line"><a id="l00348" name="l00348"></a><span class="lineno">  348</span>        }</div>
 <div class="line"><a id="l00349" name="l00349"></a><span class="lineno">  349</span> </div>
@@ -455,8 +455,8 @@ $(document).ready(function(){initNavTree('d7/d0a/_liquid_8php_source.html','../.
 <div class="line"><a id="l00380" name="l00380"></a><span class="lineno">  380</span>            !($block instanceof Liquid &amp;&amp; $block-&gt;isSource()); <span class="comment">//TODO: I think this should only be liquids of the same type</span></div>
 <div class="line"><a id="l00381" name="l00381"></a><span class="lineno">  381</span>    }</div>
 <div class="line"><a id="l00382" name="l00382"></a><span class="lineno">  382</span>}</div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html">pocketmine\block\Block</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00056">Block.php:56</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html_a92f39092503063e6270a9c1b72f2c984"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#a92f39092503063e6270a9c1b72f2c984">pocketmine\block\Block\isSameType</a></div><div class="ttdeci">isSameType(Block $other)</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00147">Block.php:147</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html">pocketmine\block\Block</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00057">Block.php:57</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html_acfa7766036568571b645ae89ceb1029e"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#acfa7766036568571b645ae89ceb1029e">pocketmine\block\Block\hasSameTypeId</a></div><div class="ttdeci">hasSameTypeId(Block $other)</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00148">Block.php:148</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_liquid_html"><div class="ttname"><a href="../../d8/d57/classpocketmine_1_1block_1_1_liquid.html">pocketmine\block\Liquid</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d7/d0a/_liquid_8php_source.html#l00040">Liquid.php:40</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_liquid_html_a0e06498810709cd9b0b6441aff9ff176"><div class="ttname"><a href="../../d8/d57/classpocketmine_1_1block_1_1_liquid.html#a0e06498810709cd9b0b6441aff9ff176">pocketmine\block\Liquid\readStateFromWorld</a></div><div class="ttdeci">readStateFromWorld()</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/d0a/_liquid_8php_source.html#l00154">Liquid.php:154</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_liquid_html_a0f7e42d98be15838ea8c0d64fa4d86b1"><div class="ttname"><a href="../../d8/d57/classpocketmine_1_1block_1_1_liquid.html#a0f7e42d98be15838ea8c0d64fa4d86b1">pocketmine\block\Liquid\addVelocityToEntity</a></div><div class="ttdeci">addVelocityToEntity(Entity $entity)</div><div class="ttdef"><b>Definition:</b> <a href="../../d7/d0a/_liquid_8php_source.html#l00228">Liquid.php:228</a></div></div>
