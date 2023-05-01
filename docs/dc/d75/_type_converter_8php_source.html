@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-edcaeef83136fa18219dd6d36e71568a19093bd5</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-17fe894229c14349841a17c0fe4c7cf545b00203</span>
    </div>
   </td>
  </tr>
@@ -276,7 +276,7 @@ $(document).ready(function(){initNavTree('dc/d75/_type_converter_8php_source.htm
 <div class="line"><a id="l00188" name="l00188"></a><span class="lineno">  188</span>            <span class="keywordflow">if</span>($nbt === <span class="keyword">null</span>){</div>
 <div class="line"><a id="l00189" name="l00189"></a><span class="lineno">  189</span>                $nbt = <span class="keyword">new</span> CompoundTag();</div>
 <div class="line"><a id="l00190" name="l00190"></a><span class="lineno">  190</span>            }</div>
-<div class="line"><a id="l00191" name="l00191"></a><span class="lineno">  191</span>            $nbt-&gt;setInt(self::PM_ID_TAG, morton2d_encode($itemStack-&gt;getTypeId(), $itemStack-&gt;computeTypeData()));</div>
+<div class="line"><a id="l00191" name="l00191"></a><span class="lineno">  191</span>            $nbt-&gt;setLong(self::PM_ID_TAG, morton2d_encode($itemStack-&gt;getTypeId(), $itemStack-&gt;computeTypeData()));</div>
 <div class="line"><a id="l00192" name="l00192"></a><span class="lineno">  192</span>        }<span class="keywordflow">else</span>{</div>
 <div class="line"><a id="l00193" name="l00193"></a><span class="lineno">  193</span>            [$id, $meta, $blockRuntimeId] = $idMeta;</div>
 <div class="line"><a id="l00194" name="l00194"></a><span class="lineno">  194</span>        }</div>

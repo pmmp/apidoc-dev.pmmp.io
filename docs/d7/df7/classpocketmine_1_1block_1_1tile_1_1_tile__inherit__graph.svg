@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 3632;
+var viewWidth = 3648;
 var viewHeight = 854;
 var sectionId = 'dynsection-0';
 </script>
@@ -54,7 +54,7 @@ var sectionId = 'dynsection-0';
 <svg id="graph" class="graph">
 <g id="viewport">
 <title>pocketmine\block\tile\Tile</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-850 3628,-850 3628,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-850 3644,-850 3644,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
@@ -691,83 +691,88 @@ var sectionId = 'dynsection-0';
 <g id="node28" class="node">
 <title>Node28</title>
 <g id="a_node28"><a xlink:href="../../d7/d0d/classpocketmine_1_1block_1_1tile_1_1_sign.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="3105.5,-133 3105.5,-344 3272.5,-344 3272.5,-133 3105.5,-133"/>
-<text text-anchor="middle" x="3189" y="-332" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\tile\Sign</text>
-<polyline fill="none" stroke="black" points="3105.5,-325 3272.5,-325 "/>
-<text text-anchor="start" x="3113.5" y="-313" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_GLOWING_TEXT</text>
-<text text-anchor="start" x="3113.5" y="-302" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_LEGACY_BUG_RESOLVE</text>
-<text text-anchor="start" x="3113.5" y="-291" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_TEXT_BLOB</text>
-<text text-anchor="start" x="3113.5" y="-280" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_TEXT_COLOR</text>
-<text text-anchor="start" x="3113.5" y="-269" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_TEXT_LINE</text>
-<text text-anchor="start" x="3113.5" y="-258" font-family="Helvetica,sans-Serif" font-size="10.00"># $editorEntityRuntimeId</text>
-<text text-anchor="start" x="3113.5" y="-247" font-family="Helvetica,sans-Serif" font-size="10.00"># $text</text>
-<polyline fill="none" stroke="black" points="3105.5,-240 3272.5,-240 "/>
-<text text-anchor="start" x="3113.5" y="-228" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="3113.5" y="-217" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEditorEntityRuntimeId()</text>
-<text text-anchor="start" x="3113.5" y="-206" font-family="Helvetica,sans-Serif" font-size="10.00">+ getText()</text>
-<text text-anchor="start" x="3113.5" y="-195" font-family="Helvetica,sans-Serif" font-size="10.00">+ readSaveData()</text>
-<text text-anchor="start" x="3113.5" y="-184" font-family="Helvetica,sans-Serif" font-size="10.00">+ setEditorEntityRuntimeId()</text>
-<text text-anchor="start" x="3113.5" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ setText()</text>
-<text text-anchor="start" x="3113.5" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ fixTextBlob()</text>
-<text text-anchor="start" x="3113.5" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00"># addAdditionalSpawnData()</text>
-<text text-anchor="start" x="3113.5" y="-140" font-family="Helvetica,sans-Serif" font-size="10.00"># writeSaveData()</text>
+<polygon fill="white" stroke="black" points="3106.5,-105.5 3106.5,-371.5 3287.5,-371.5 3287.5,-105.5 3106.5,-105.5"/>
+<text text-anchor="middle" x="3197" y="-359.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\tile\Sign</text>
+<polyline fill="none" stroke="black" points="3106.5,-352.5 3287.5,-352.5 "/>
+<text text-anchor="start" x="3114.5" y="-340.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_BACK_TEXT</text>
+<text text-anchor="start" x="3114.5" y="-329.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_FRONT_TEXT</text>
+<text text-anchor="start" x="3114.5" y="-318.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_GLOWING_TEXT</text>
+<text text-anchor="start" x="3114.5" y="-307.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_LEGACY_BUG_RESOLVE</text>
+<text text-anchor="start" x="3114.5" y="-296.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_LOCKED_FOR_EDITING_BY</text>
+<text text-anchor="start" x="3114.5" y="-285.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_PERSIST_FORMATTING</text>
+<text text-anchor="start" x="3114.5" y="-274.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_TEXT_BLOB</text>
+<text text-anchor="start" x="3114.5" y="-263.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_TEXT_COLOR</text>
+<text text-anchor="start" x="3114.5" y="-252.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_TEXT_LINE</text>
+<text text-anchor="start" x="3114.5" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ TAG_WAXED</text>
+<text text-anchor="start" x="3114.5" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $editorEntityRuntimeId</text>
+<text text-anchor="start" x="3114.5" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $text</text>
+<polyline fill="none" stroke="black" points="3106.5,-212.5 3287.5,-212.5 "/>
+<text text-anchor="start" x="3114.5" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="3114.5" y="-189.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEditorEntityRuntimeId()</text>
+<text text-anchor="start" x="3114.5" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getText()</text>
+<text text-anchor="start" x="3114.5" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ readSaveData()</text>
+<text text-anchor="start" x="3114.5" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setEditorEntityRuntimeId()</text>
+<text text-anchor="start" x="3114.5" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setText()</text>
+<text text-anchor="start" x="3114.5" y="-134.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ fixTextBlob()</text>
+<text text-anchor="start" x="3114.5" y="-123.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addAdditionalSpawnData()</text>
+<text text-anchor="start" x="3114.5" y="-112.5" font-family="Helvetica,sans-Serif" font-size="10.00"># writeSaveData()</text>
 </a>
 </g>
 </g>
 <!-- Node5&#45;&gt;Node28 -->
 <g id="edge27" class="edge">
 <title>Node5&#45;&gt;Node28</title>
-<path fill="none" stroke="midnightblue" d="M1920.5,-476.25C2208.99,-465.27 2996.18,-430.26 3097,-372 3109.49,-364.78 3120.67,-355.11 3130.58,-344.26"/>
-<polygon fill="none" stroke="midnightblue" points="1920.32,-472.75 1910.45,-476.63 1920.58,-479.75 1920.32,-472.75"/>
+<path fill="none" stroke="midnightblue" d="M1920.39,-476.04C2208.57,-464.52 2995.05,-428.25 3097,-372 3100.15,-370.26 3103.24,-368.37 3106.25,-366.36"/>
+<polygon fill="none" stroke="midnightblue" points="1920.2,-472.54 1910.35,-476.44 1920.48,-479.54 1920.2,-472.54"/>
 </g>
 <!-- Node29 -->
 <g id="node29" class="node">
 <title>Node29</title>
 <g id="a_node29"><a xlink:href="../../db/d8d/classpocketmine_1_1block_1_1tile_1_1_skull.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="3290,-166 3290,-311 3448,-311 3448,-166 3290,-166"/>
-<text text-anchor="start" x="3298" y="-299" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\tile</text>
-<text text-anchor="middle" x="3369" y="-288" font-family="Helvetica,sans-Serif" font-size="10.00">\Skull</text>
-<polyline fill="none" stroke="black" points="3290,-281 3448,-281 "/>
-<text text-anchor="middle" x="3369" y="-269" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="3290,-262 3448,-262 "/>
-<text text-anchor="start" x="3298" y="-250" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="3298" y="-239" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRotation()</text>
-<text text-anchor="start" x="3298" y="-228" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSkullType()</text>
-<text text-anchor="start" x="3298" y="-217" font-family="Helvetica,sans-Serif" font-size="10.00">+ readSaveData()</text>
-<text text-anchor="start" x="3298" y="-206" font-family="Helvetica,sans-Serif" font-size="10.00">+ setRotation()</text>
-<text text-anchor="start" x="3298" y="-195" font-family="Helvetica,sans-Serif" font-size="10.00">+ setSkullType()</text>
-<text text-anchor="start" x="3298" y="-184" font-family="Helvetica,sans-Serif" font-size="10.00"># addAdditionalSpawnData()</text>
-<text text-anchor="start" x="3298" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00"># writeSaveData()</text>
+<polygon fill="white" stroke="black" points="3306,-166 3306,-311 3464,-311 3464,-166 3306,-166"/>
+<text text-anchor="start" x="3314" y="-299" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\tile</text>
+<text text-anchor="middle" x="3385" y="-288" font-family="Helvetica,sans-Serif" font-size="10.00">\Skull</text>
+<polyline fill="none" stroke="black" points="3306,-281 3464,-281 "/>
+<text text-anchor="middle" x="3385" y="-269" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="3306,-262 3464,-262 "/>
+<text text-anchor="start" x="3314" y="-250" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="3314" y="-239" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRotation()</text>
+<text text-anchor="start" x="3314" y="-228" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSkullType()</text>
+<text text-anchor="start" x="3314" y="-217" font-family="Helvetica,sans-Serif" font-size="10.00">+ readSaveData()</text>
+<text text-anchor="start" x="3314" y="-206" font-family="Helvetica,sans-Serif" font-size="10.00">+ setRotation()</text>
+<text text-anchor="start" x="3314" y="-195" font-family="Helvetica,sans-Serif" font-size="10.00">+ setSkullType()</text>
+<text text-anchor="start" x="3314" y="-184" font-family="Helvetica,sans-Serif" font-size="10.00"># addAdditionalSpawnData()</text>
+<text text-anchor="start" x="3314" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00"># writeSaveData()</text>
 </a>
 </g>
 </g>
 <!-- Node5&#45;&gt;Node29 -->
 <g id="edge28" class="edge">
 <title>Node5&#45;&gt;Node29</title>
-<path fill="none" stroke="midnightblue" d="M1920.28,-477.59C2236.83,-469.62 3165.39,-440.58 3282,-372 3305.84,-357.98 3324.37,-334.55 3338.08,-311.25"/>
-<polygon fill="none" stroke="midnightblue" points="1920.1,-474.1 1910.19,-477.85 1920.27,-481.09 1920.1,-474.1"/>
+<path fill="none" stroke="midnightblue" d="M1920.22,-477.65C2238.89,-469.81 3178.86,-441 3297,-372 3320.96,-358 3339.68,-334.57 3353.56,-311.28"/>
+<polygon fill="none" stroke="midnightblue" points="1919.97,-474.16 1910.06,-477.9 1920.15,-481.15 1919.97,-474.16"/>
 </g>
 <!-- Node30 -->
 <g id="node30" class="node">
 <title>Node30</title>
 <g id="a_node30"><a xlink:href="../../d2/d51/classpocketmine_1_1block_1_1tile_1_1_spore_blossom.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="3466,-193.5 3466,-283.5 3624,-283.5 3624,-193.5 3466,-193.5"/>
-<text text-anchor="start" x="3474" y="-271.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\tile</text>
-<text text-anchor="middle" x="3545" y="-260.5" font-family="Helvetica,sans-Serif" font-size="10.00">\SporeBlossom</text>
-<polyline fill="none" stroke="black" points="3466,-253.5 3624,-253.5 "/>
-<text text-anchor="middle" x="3545" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="3466,-234.5 3624,-234.5 "/>
-<text text-anchor="start" x="3474" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ readSaveData()</text>
-<text text-anchor="start" x="3474" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addAdditionalSpawnData()</text>
-<text text-anchor="start" x="3474" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00"># writeSaveData()</text>
+<polygon fill="white" stroke="black" points="3482,-193.5 3482,-283.5 3640,-283.5 3640,-193.5 3482,-193.5"/>
+<text text-anchor="start" x="3490" y="-271.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\tile</text>
+<text text-anchor="middle" x="3561" y="-260.5" font-family="Helvetica,sans-Serif" font-size="10.00">\SporeBlossom</text>
+<polyline fill="none" stroke="black" points="3482,-253.5 3640,-253.5 "/>
+<text text-anchor="middle" x="3561" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="3482,-234.5 3640,-234.5 "/>
+<text text-anchor="start" x="3490" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ readSaveData()</text>
+<text text-anchor="start" x="3490" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addAdditionalSpawnData()</text>
+<text text-anchor="start" x="3490" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00"># writeSaveData()</text>
 </a>
 </g>
 </g>
 <!-- Node5&#45;&gt;Node30 -->
 <g id="edge29" class="edge">
 <title>Node5&#45;&gt;Node30</title>
-<path fill="none" stroke="midnightblue" d="M1920.22,-478.46C2261.67,-472.71 3324.47,-448.78 3457,-372 3490.81,-352.41 3514.13,-314 3528.23,-283.55"/>
-<polygon fill="none" stroke="midnightblue" points="1920.02,-474.96 1910.08,-478.63 1920.14,-481.96 1920.02,-474.96"/>
+<path fill="none" stroke="midnightblue" d="M1920.35,-478.53C2264.16,-472.98 3339.04,-449.55 3473,-372 3506.82,-352.42 3530.14,-314.01 3544.23,-283.56"/>
+<polygon fill="none" stroke="midnightblue" points="1920.09,-475.03 1910.15,-478.69 1920.2,-482.03 1920.09,-475.03"/>
 </g>
 <!-- Node18 -->
 <g id="node18" class="node">

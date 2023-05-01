@@ -164,7 +164,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="2538.75" y="-555.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastAnimation()</text>
 <text text-anchor="start" x="2538.75" y="-544.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastSound()</text>
 <text text-anchor="start" x="2538.75" y="-533.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeCollidedWith()</text>
-<text text-anchor="start" x="2538.75" y="-522.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 121 more...</text>
+<text text-anchor="start" x="2538.75" y="-522.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 122 more...</text>
 <text text-anchor="start" x="2538.75" y="-511.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isValidUserName()</text>
 <text text-anchor="start" x="2538.75" y="-500.5" font-family="Helvetica,sans-Serif" font-size="10.00"># actuallyRespawn()</text>
 <text text-anchor="start" x="2538.75" y="-489.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addDefaultWindows()</text>
@@ -1465,7 +1465,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="2147.75" y="-957.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDisplayName()</text>
 <text text-anchor="start" x="2147.75" y="-946.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEntityEventBroadcaster()</text>
 <text text-anchor="start" x="2147.75" y="-935.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getHandler()</text>
-<text text-anchor="start" x="2147.75" y="-924.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 52 more...</text>
+<text text-anchor="start" x="2147.75" y="-924.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 53 more...</text>
 <text text-anchor="start" x="2147.75" y="-913.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ encodePacketTimed()</text>
 <text text-anchor="start" x="2147.75" y="-902.5" font-family="Helvetica,sans-Serif" font-size="10.00"># createPlayer()</text>
 </a>

@@ -1347,6 +1347,7 @@ var hierarchy =
         [ "pocketmine\\network\\mcpe\\protocol\\CodeBuilderPacket", "da/dce/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_code_builder_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\CommandOutputPacket", "d0/da3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_command_output_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\CompletedUsingItemPacket", "db/d15/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_completed_using_item_packet.html", null ],
+        [ "pocketmine\\network\\mcpe\\protocol\\CompressedBiomeDefinitionListPacket", "d0/d91/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_compressed_biome_definition_list_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\ContainerClosePacket", "d7/deb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_container_close_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\ContainerOpenPacket", "d7/de2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_container_open_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\ContainerSetDataPacket", "db/d82/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_container_set_data_packet.html", null ],
@@ -1394,6 +1395,7 @@ var hierarchy =
         [ "pocketmine\\network\\mcpe\\protocol\\NetworkStackLatencyPacket", "d1/db9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_network_stack_latency_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\NpcDialoguePacket", "d8/d30/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_npc_dialogue_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\OnScreenTextureAnimationPacket", "d7/d8c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_on_screen_texture_animation_packet.html", null ],
+        [ "pocketmine\\network\\mcpe\\protocol\\OpenSignPacket", "d1/de5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_open_sign_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\PhotoTransferPacket", "dc/d77/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_photo_transfer_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\PlaySoundPacket", "d9/db3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_play_sound_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\PlayStatusPacket", "d1/d10/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_play_status_packet.html", null ],
@@ -1451,6 +1453,7 @@ var hierarchy =
         [ "pocketmine\\network\\mcpe\\protocol\\TickingAreasLoadStatusPacket", "d1/da2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_ticking_areas_load_status_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\ToastRequestPacket", "df/d6a/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_toast_request_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\TransferPacket", "d0/d0b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_transfer_packet.html", null ],
+        [ "pocketmine\\network\\mcpe\\protocol\\TrimDataPacket", "d7/d12/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_trim_data_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\UnlockedRecipesPacket", "d7/dfb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_unlocked_recipes_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\UpdateAbilitiesPacket", "de/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_abilities_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\UpdateAdventureSettingsPacket", "d9/dd3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_adventure_settings_packet.html", null ],
@@ -1508,6 +1511,7 @@ var hierarchy =
         [ "pocketmine\\network\\mcpe\\protocol\\CommandOutputPacket", "d0/da3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_command_output_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\CommandRequestPacket", "dd/d5b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_command_request_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\CompletedUsingItemPacket", "db/d15/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_completed_using_item_packet.html", null ],
+        [ "pocketmine\\network\\mcpe\\protocol\\CompressedBiomeDefinitionListPacket", "d0/d91/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_compressed_biome_definition_list_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\ContainerClosePacket", "d7/deb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_container_close_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\ContainerOpenPacket", "d7/de2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_container_open_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\ContainerSetDataPacket", "db/d82/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_container_set_data_packet.html", null ],
@@ -1569,9 +1573,9 @@ var hierarchy =
         [ "pocketmine\\network\\mcpe\\protocol\\NpcDialoguePacket", "d8/d30/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_npc_dialogue_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\NpcRequestPacket", "dc/da8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_npc_request_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\OnScreenTextureAnimationPacket", "d7/d8c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_on_screen_texture_animation_packet.html", null ],
+        [ "pocketmine\\network\\mcpe\\protocol\\OpenSignPacket", "d1/de5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_open_sign_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\PacketViolationWarningPacket", "da/dcb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_packet_violation_warning_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\PassengerJumpPacket", "db/d1c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_passenger_jump_packet.html", null ],
-        [ "pocketmine\\network\\mcpe\\protocol\\PhotoInfoRequestPacket", "dd/d2a/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_photo_info_request_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\PhotoTransferPacket", "dc/d77/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_photo_transfer_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\PlaySoundPacket", "d9/db3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_play_sound_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\PlayStatusPacket", "d1/d10/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_play_status_packet.html", null ],
@@ -1648,6 +1652,7 @@ var hierarchy =
         [ "pocketmine\\network\\mcpe\\protocol\\TickingAreasLoadStatusPacket", "d1/da2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_ticking_areas_load_status_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\ToastRequestPacket", "df/d6a/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_toast_request_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\TransferPacket", "d0/d0b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_transfer_packet.html", null ],
+        [ "pocketmine\\network\\mcpe\\protocol\\TrimDataPacket", "d7/d12/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_trim_data_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\UnlockedRecipesPacket", "d7/dfb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_unlocked_recipes_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\UpdateAbilitiesPacket", "de/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_abilities_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\UpdateAdventureSettingsPacket", "d9/dd3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_adventure_settings_packet.html", null ],
@@ -1931,7 +1936,8 @@ var hierarchy =
       [ "pocketmine\\network\\mcpe\\protocol\\types\\recipe\\MultiRecipe", "d1/da0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1recipe_1_1_multi_recipe.html", null ],
       [ "pocketmine\\network\\mcpe\\protocol\\types\\recipe\\ShapedRecipe", "d3/d06/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1recipe_1_1_shaped_recipe.html", null ],
       [ "pocketmine\\network\\mcpe\\protocol\\types\\recipe\\ShapelessRecipe", "da/d6d/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1recipe_1_1_shapeless_recipe.html", null ],
-      [ "pocketmine\\network\\mcpe\\protocol\\types\\recipe\\SmithingTransformRecipe", "de/dae/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1recipe_1_1_smithing_transform_recipe.html", null ]
+      [ "pocketmine\\network\\mcpe\\protocol\\types\\recipe\\SmithingTransformRecipe", "de/dae/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1recipe_1_1_smithing_transform_recipe.html", null ],
+      [ "pocketmine\\network\\mcpe\\protocol\\types\\recipe\\SmithingTrimRecipe", "d3/d1c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1recipe_1_1_smithing_trim_recipe.html", null ]
     ] ],
     [ "pocketmine\\block\\utils\\RecordType", "d6/d93/classpocketmine_1_1block_1_1utils_1_1_record_type.html", null ],
     [ "pocketmine\\world\\format\\io\\region\\RegionGarbageMap", "d1/dd5/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_region_garbage_map.html", null ],
@@ -2063,6 +2069,7 @@ var hierarchy =
       [ "pocketmine\\TimeTrackingSleeperHandler", "d9/d43/classpocketmine_1_1_time_tracking_sleeper_handler.html", null ]
     ] ],
     [ "pocketmine\\crafting\\json\\SmithingTransformRecipeData", "d7/d02/classpocketmine_1_1crafting_1_1json_1_1_smithing_transform_recipe_data.html", null ],
+    [ "pocketmine\\crafting\\json\\SmithingTrimRecipeData", "d7/ddf/classpocketmine_1_1crafting_1_1json_1_1_smithing_trim_recipe_data.html", null ],
     [ "raklib\\generic\\Socket", "d9/d5c/classraklib_1_1generic_1_1_socket.html", [
       [ "raklib\\client\\ClientSocket", "d5/d70/classraklib_1_1client_1_1_client_socket.html", null ],
       [ "raklib\\server\\ServerSocket", "da/daa/classraklib_1_1server_1_1_server_socket.html", null ]
@@ -2303,6 +2310,8 @@ var hierarchy =
     [ "pocketmine\\world\\generator\\object\\TreeFactory", "da/d12/classpocketmine_1_1world_1_1generator_1_1object_1_1_tree_factory.html", null ],
     [ "pocketmine\\nbt\\TreeRoot", "d7/d89/classpocketmine_1_1nbt_1_1_tree_root.html", null ],
     [ "pocketmine\\block\\utils\\TreeType", "d7/de7/classpocketmine_1_1block_1_1utils_1_1_tree_type.html", null ],
+    [ "pocketmine\\network\\mcpe\\protocol\\types\\TrimMaterial", "d8/db2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_trim_material.html", null ],
+    [ "pocketmine\\network\\mcpe\\protocol\\types\\TrimPattern", "d9/df6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_trim_pattern.html", null ],
     [ "DaveRandom\\CallbackValidator\\Type", "d6/d33/class_dave_random_1_1_callback_validator_1_1_type.html", [
       [ "DaveRandom\\CallbackValidator\\ParameterType", "d4/de9/class_dave_random_1_1_callback_validator_1_1_parameter_type.html", null ],
       [ "DaveRandom\\CallbackValidator\\ReturnType", "d9/d22/class_dave_random_1_1_callback_validator_1_1_return_type.html", null ]

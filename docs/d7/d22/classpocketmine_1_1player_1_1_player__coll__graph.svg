@@ -85,7 +85,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="1843.5" y="-172.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastAnimation()</text>
 <text text-anchor="start" x="1843.5" y="-161.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastSound()</text>
 <text text-anchor="start" x="1843.5" y="-150.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeCollidedWith()</text>
-<text text-anchor="start" x="1843.5" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 121 more...</text>
+<text text-anchor="start" x="1843.5" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 122 more...</text>
 <text text-anchor="start" x="1843.5" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isValidUserName()</text>
 <text text-anchor="start" x="1843.5" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00"># actuallyRespawn()</text>
 <text text-anchor="start" x="1843.5" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addDefaultWindows()</text>
@@ -1482,7 +1482,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="879.5" y="-574.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDisplayName()</text>
 <text text-anchor="start" x="879.5" y="-563.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEntityEventBroadcaster()</text>
 <text text-anchor="start" x="879.5" y="-552.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getHandler()</text>
-<text text-anchor="start" x="879.5" y="-541.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 52 more...</text>
+<text text-anchor="start" x="879.5" y="-541.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 53 more...</text>
 <text text-anchor="start" x="879.5" y="-530.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ encodePacketTimed()</text>
 <text text-anchor="start" x="879.5" y="-519.5" font-family="Helvetica,sans-Serif" font-size="10.00"># createPlayer()</text>
 </a>

@@ -19,7 +19,8 @@ var namespacepocketmine =
         [ "RecipeIngredientData", "d2/de3/classpocketmine_1_1crafting_1_1json_1_1_recipe_ingredient_data.html", null ],
         [ "ShapedRecipeData", "d2/db2/classpocketmine_1_1crafting_1_1json_1_1_shaped_recipe_data.html", "d2/db2/classpocketmine_1_1crafting_1_1json_1_1_shaped_recipe_data" ],
         [ "ShapelessRecipeData", "d6/d3c/classpocketmine_1_1crafting_1_1json_1_1_shapeless_recipe_data.html", "d6/d3c/classpocketmine_1_1crafting_1_1json_1_1_shapeless_recipe_data" ],
-        [ "SmithingTransformRecipeData", "d7/d02/classpocketmine_1_1crafting_1_1json_1_1_smithing_transform_recipe_data.html", "d7/d02/classpocketmine_1_1crafting_1_1json_1_1_smithing_transform_recipe_data" ]
+        [ "SmithingTransformRecipeData", "d7/d02/classpocketmine_1_1crafting_1_1json_1_1_smithing_transform_recipe_data.html", "d7/d02/classpocketmine_1_1crafting_1_1json_1_1_smithing_transform_recipe_data" ],
+        [ "SmithingTrimRecipeData", "d7/ddf/classpocketmine_1_1crafting_1_1json_1_1_smithing_trim_recipe_data.html", "d7/ddf/classpocketmine_1_1crafting_1_1json_1_1_smithing_trim_recipe_data" ]
       ] ],
       [ "BrewingRecipe", "d9/d63/interfacepocketmine_1_1crafting_1_1_brewing_recipe.html", null ],
       [ "CraftingGrid", "de/d7a/classpocketmine_1_1crafting_1_1_crafting_grid.html", "de/d7a/classpocketmine_1_1crafting_1_1_crafting_grid" ],

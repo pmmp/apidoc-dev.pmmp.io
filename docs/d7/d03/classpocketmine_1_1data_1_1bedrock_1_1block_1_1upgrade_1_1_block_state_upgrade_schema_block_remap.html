@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-edcaeef83136fa18219dd6d36e71568a19093bd5</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-17fe894229c14349841a17c0fe4c7cf545b00203</span>
    </div>
   </td>
  </tr>
@@ -106,15 +106,15 @@ $(document).ready(function(){initNavTree('d7/d03/classpocketmine_1_1data_1_1bedr
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:af5ad382958d28d0d1f23a9f9efee5024"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d03/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_block_remap.html#af5ad382958d28d0d1f23a9f9efee5024">__construct</a> (public array $oldState, public string $newName, public array $newState)</td></tr>
-<tr class="separator:af5ad382958d28d0d1f23a9f9efee5024"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4297e9a603f308f55eaf6793b0174664"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d03/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_block_remap.html#a4297e9a603f308f55eaf6793b0174664">__construct</a> (public array $oldState, public string $newName, public array $newState, public array $copiedState)</td></tr>
+<tr class="separator:a4297e9a603f308f55eaf6793b0174664"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
 <p class="definition">Definition at line <a class="el" href="../../db/dee/_block_state_upgrade_schema_block_remap_8php_source.html#l00028">28</a> of file <a class="el" href="../../db/dee/_block_state_upgrade_schema_block_remap_8php_source.html">BlockStateUpgradeSchemaBlockRemap.php</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="af5ad382958d28d0d1f23a9f9efee5024" name="af5ad382958d28d0d1f23a9f9efee5024"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af5ad382958d28d0d1f23a9f9efee5024">&#9670;&nbsp;</a></span>__construct()</h2>
+<a id="a4297e9a603f308f55eaf6793b0174664" name="a4297e9a603f308f55eaf6793b0174664"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4297e9a603f308f55eaf6793b0174664">&#9670;&nbsp;</a></span>__construct()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -135,7 +135,13 @@ Public Member Functions</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">public array&#160;</td>
-          <td class="paramname"><em>$newState</em>&#160;</td>
+          <td class="paramname"><em>$newState</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">public array&#160;</td>
+          <td class="paramname"><em>$copiedState</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -147,12 +153,14 @@ Public Member Functions</h2></td></tr>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramtype">Tag[]</td><td class="paramname">$oldState</td><td></td></tr>
-    <tr><td class="paramtype">Tag[]</td><td class="paramname">$newState</td><td>@phpstan-param array&lt;string, Tag&gt; $oldState @phpstan-param array&lt;string, Tag&gt; $newState </td></tr>
+    <tr><td class="paramtype">Tag[]</td><td class="paramname">$newState</td><td></td></tr>
+    <tr><td class="paramtype">string[]</td><td class="paramname">$copiedState</td><td></td></tr>
   </table>
   </dd>
 </dl>
+<p>@phpstan-param array&lt;string, Tag&gt; $oldState @phpstan-param array&lt;string, Tag&gt; $newState @phpstan-param list&lt;string&gt; $copiedState </p>
 
-<p class="definition">Definition at line <a class="el" href="../../db/dee/_block_state_upgrade_schema_block_remap_8php_source.html#l00035">35</a> of file <a class="el" href="../../db/dee/_block_state_upgrade_schema_block_remap_8php_source.html">BlockStateUpgradeSchemaBlockRemap.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/dee/_block_state_upgrade_schema_block_remap_8php_source.html#l00038">38</a> of file <a class="el" href="../../db/dee/_block_state_upgrade_schema_block_remap_8php_source.html">BlockStateUpgradeSchemaBlockRemap.php</a>.</p>
 
 </div>
 </div>
