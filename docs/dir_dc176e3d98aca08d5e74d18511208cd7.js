@@ -14,6 +14,7 @@ var dir_dc176e3d98aca08d5e74d18511208cd7 =
     [ "BeetrootSoup.php", "dd/d4b/_beetroot_soup_8php_source.html", null ],
     [ "BlazeRod.php", "d9/d27/_blaze_rod_8php_source.html", null ],
     [ "Boat.php", "dd/dc6/_boat_8php_source.html", null ],
+    [ "BoatType.php", "dd/d24/_boat_type_8php_source.html", null ],
     [ "Book.php", "d8/d39/_book_8php_source.html", null ],
     [ "Bow.php", "d1/df2/_bow_8php_source.html", null ],
     [ "Bowl.php", "d5/da2/_bowl_8php_source.html", null ],

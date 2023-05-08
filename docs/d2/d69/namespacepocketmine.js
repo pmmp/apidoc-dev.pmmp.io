@@ -66,7 +66,7 @@ var namespacepocketmine =
               [ "BlockStateUpgradeSchemaModelTag", "d0/d06/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_tag.html", null ],
               [ "BlockStateUpgradeSchemaModelValueRemap", "d5/d5f/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_value_remap.html", "d5/d5f/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_value_remap" ]
             ] ],
-            [ "BlockDataUpgrader", "d2/dcf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_data_upgrader.html", null ],
+            [ "BlockDataUpgrader", "d2/dcf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_data_upgrader.html", "d2/dcf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_data_upgrader" ],
             [ "BlockIdMetaUpgrader", "df/db9/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_id_meta_upgrader.html", "df/db9/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_id_meta_upgrader" ],
             [ "BlockStateUpgrader", "d3/d19/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrader.html", "d3/d19/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrader" ],
             [ "BlockStateUpgradeSchema", "de/d35/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema.html", "de/d35/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema" ],
@@ -221,7 +221,7 @@ var namespacepocketmine =
       [ "Worker", "d2/d42/classpocketmine_1_1thread_1_1_worker.html", "d2/d42/classpocketmine_1_1thread_1_1_worker" ]
     ] ],
     [ "timings", null, [
-      [ "Timings", "de/d8c/classpocketmine_1_1timings_1_1_timings.html", null ],
+      [ "Timings", "de/d8c/classpocketmine_1_1timings_1_1_timings.html", "de/d8c/classpocketmine_1_1timings_1_1_timings" ],
       [ "TimingsHandler", "d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html", "d7/d9b/classpocketmine_1_1timings_1_1_timings_handler" ],
       [ "TimingsRecord", "da/df9/classpocketmine_1_1timings_1_1_timings_record.html", "da/df9/classpocketmine_1_1timings_1_1_timings_record" ]
     ] ],

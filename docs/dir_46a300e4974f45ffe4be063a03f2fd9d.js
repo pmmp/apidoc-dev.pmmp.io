@@ -23,7 +23,6 @@ var dir_46a300e4974f45ffe4be063a03f2fd9d =
     [ "Block.php", "db/d89/_block_8php_source.html", null ],
     [ "BlockBreakInfo.php", "d9/d61/_block_break_info_8php_source.html", null ],
     [ "BlockIdentifier.php", "df/d0b/_block_identifier_8php_source.html", null ],
-    [ "BlockLegacyIdHelper.php", "de/da1/_block_legacy_id_helper_8php_source.html", null ],
     [ "BlockToolType.php", "df/d37/_block_tool_type_8php_source.html", null ],
     [ "BlockTypeIds.php", "d8/dbd/_block_type_ids_8php_source.html", null ],
     [ "BlockTypeInfo.php", "d1/df3/_block_type_info_8php_source.html", null ],
@@ -235,5 +234,6 @@ var dir_46a300e4974f45ffe4be063a03f2fd9d =
     [ "WoodenSlab.php", "de/d9b/_wooden_slab_8php_source.html", null ],
     [ "WoodenStairs.php", "d4/d29/_wooden_stairs_8php_source.html", null ],
     [ "WoodenTrapdoor.php", "d5/ddd/_wooden_trapdoor_8php_source.html", null ],
+    [ "WoodLikeBlockIdHelper.php", "d1/d36/_wood_like_block_id_helper_8php_source.html", null ],
     [ "Wool.php", "d1/d3c/_wool_8php_source.html", null ]
 ];

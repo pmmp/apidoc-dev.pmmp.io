@@ -36,12 +36,12 @@ var namespacepocketmine_1_1block =
       [ "MushroomBlockType", "de/d72/classpocketmine_1_1block_1_1utils_1_1_mushroom_block_type.html", null ],
       [ "RailConnectionInfo", "d7/df9/classpocketmine_1_1block_1_1utils_1_1_rail_connection_info.html", null ],
       [ "RecordType", "d6/d93/classpocketmine_1_1block_1_1utils_1_1_record_type.html", null ],
+      [ "SaplingType", "dd/d77/classpocketmine_1_1block_1_1utils_1_1_sapling_type.html", null ],
       [ "SignText", "d3/d1c/classpocketmine_1_1block_1_1utils_1_1_sign_text.html", "d3/d1c/classpocketmine_1_1block_1_1utils_1_1_sign_text" ],
       [ "SkullType", "d8/dbc/classpocketmine_1_1block_1_1utils_1_1_skull_type.html", null ],
       [ "SlabType", "dd/da9/classpocketmine_1_1block_1_1utils_1_1_slab_type.html", null ],
       [ "StairShape", "df/d5a/classpocketmine_1_1block_1_1utils_1_1_stair_shape.html", null ],
       [ "SupportType", "d2/dbe/classpocketmine_1_1block_1_1utils_1_1_support_type.html", null ],
-      [ "TreeType", "d7/de7/classpocketmine_1_1block_1_1utils_1_1_tree_type.html", null ],
       [ "WallConnectionType", "d1/dfb/classpocketmine_1_1block_1_1utils_1_1_wall_connection_type.html", null ],
       [ "WoodType", "d8/d35/classpocketmine_1_1block_1_1utils_1_1_wood_type.html", null ]
     ] ],
@@ -65,7 +65,6 @@ var namespacepocketmine_1_1block =
     [ "Block", "d7/d27/classpocketmine_1_1block_1_1_block.html", "d7/d27/classpocketmine_1_1block_1_1_block" ],
     [ "BlockBreakInfo", "d3/d10/classpocketmine_1_1block_1_1_block_break_info.html", "d3/d10/classpocketmine_1_1block_1_1_block_break_info" ],
     [ "BlockIdentifier", "dd/d18/classpocketmine_1_1block_1_1_block_identifier.html", "dd/d18/classpocketmine_1_1block_1_1_block_identifier" ],
-    [ "BlockLegacyIdHelper", "d8/d6b/classpocketmine_1_1block_1_1_block_legacy_id_helper.html", "d8/d6b/classpocketmine_1_1block_1_1_block_legacy_id_helper" ],
     [ "BlockToolType", "dd/d5a/classpocketmine_1_1block_1_1_block_tool_type.html", null ],
     [ "BlockTypeIds", "db/dbe/classpocketmine_1_1block_1_1_block_type_ids.html", "db/dbe/classpocketmine_1_1block_1_1_block_type_ids" ],
     [ "BlockTypeInfo", "de/d9a/classpocketmine_1_1block_1_1_block_type_info.html", "de/d9a/classpocketmine_1_1block_1_1_block_type_info" ],
@@ -277,5 +276,6 @@ var namespacepocketmine_1_1block =
     [ "WoodenSlab", "df/d7b/classpocketmine_1_1block_1_1_wooden_slab.html", "df/d7b/classpocketmine_1_1block_1_1_wooden_slab" ],
     [ "WoodenStairs", "dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs.html", "dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs" ],
     [ "WoodenTrapdoor", "d3/da4/classpocketmine_1_1block_1_1_wooden_trapdoor.html", "d3/da4/classpocketmine_1_1block_1_1_wooden_trapdoor" ],
+    [ "WoodLikeBlockIdHelper", "d9/de8/classpocketmine_1_1block_1_1_wood_like_block_id_helper.html", "d9/de8/classpocketmine_1_1block_1_1_wood_like_block_id_helper" ],
     [ "Wool", "da/d71/classpocketmine_1_1block_1_1_wool.html", "da/d71/classpocketmine_1_1block_1_1_wool" ]
 ];

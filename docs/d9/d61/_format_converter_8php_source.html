@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-17fe894229c14349841a17c0fe4c7cf545b00203</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-6f0eb019d2797155ee6533cce02d016886fd88b9</span>
    </div>
   </td>
  </tr>
@@ -161,7 +161,7 @@ $(document).ready(function(){initNavTree('d9/d61/_format_converter_8php_source.h
 <div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>        <span class="keywordflow">return</span> $this-&gt;backupPath;</div>
 <div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>    }</div>
 <div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span> </div>
-<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>    <span class="keyword">public</span> <span class="keyword">function</span> execute() : <a class="code hl_interface" href="../../d1/d1b/interfacepocketmine_1_1world_1_1format_1_1io_1_1_writable_world_provider.html">WritableWorldProvider</a>{</div>
+<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>    <span class="keyword">public</span> <span class="keyword">function</span> execute() : <span class="keywordtype">void</span>{</div>
 <div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>        $new = $this-&gt;generateNew();</div>
 <div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span> </div>
 <div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>        $this-&gt;populateLevelData($new-&gt;getWorldData());</div>
@@ -185,72 +185,71 @@ $(document).ready(function(){initNavTree('d9/d61/_format_converter_8php_source.h
 <div class="line"><a id="l00091" name="l00091"></a><span class="lineno">   91</span>        }</div>
 <div class="line"><a id="l00092" name="l00092"></a><span class="lineno">   92</span> </div>
 <div class="line"><a id="l00093" name="l00093"></a><span class="lineno">   93</span>        $this-&gt;logger-&gt;info(<span class="stringliteral">&quot;Conversion completed&quot;</span>);</div>
-<div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span>        <span class="keywordflow">return</span> $this-&gt;newProvider-&gt;fromPath($path);</div>
-<div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span>    }</div>
-<div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span> </div>
-<div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span>    <span class="keyword">private</span> <span class="keyword">function</span> generateNew() : <a class="code hl_interface" href="../../d1/d1b/interfacepocketmine_1_1world_1_1format_1_1io_1_1_writable_world_provider.html">WritableWorldProvider</a>{</div>
-<div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span>        $this-&gt;logger-&gt;info(<span class="stringliteral">&quot;Generating new world&quot;</span>);</div>
-<div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span>        $data = $this-&gt;oldProvider-&gt;<a class="code hl_function" href="../../d8/d94/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_provider.html#ad2c18e0533b43f69c181d967a1f1085b">getWorldData</a>();</div>
-<div class="line"><a id="l00100" name="l00100"></a><span class="lineno">  100</span> </div>
-<div class="line"><a id="l00101" name="l00101"></a><span class="lineno">  101</span>        $convertedOutput = rtrim($this-&gt;oldProvider-&gt;getPath(), <span class="stringliteral">&quot;/&quot;</span> . DIRECTORY_SEPARATOR) . <span class="stringliteral">&quot;_converted&quot;</span> . DIRECTORY_SEPARATOR;</div>
-<div class="line"><a id="l00102" name="l00102"></a><span class="lineno">  102</span>        <span class="keywordflow">if</span>(file_exists($convertedOutput)){</div>
-<div class="line"><a id="l00103" name="l00103"></a><span class="lineno">  103</span>            $this-&gt;logger-&gt;info(<span class="stringliteral">&quot;Found previous conversion attempt, deleting...&quot;</span>);</div>
-<div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span>            Filesystem::recursiveUnlink($convertedOutput);</div>
-<div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span>        }</div>
-<div class="line"><a id="l00106" name="l00106"></a><span class="lineno">  106</span>        $this-&gt;newProvider-&gt;generate($convertedOutput, $data-&gt;getName(), WorldCreationOptions::create()</div>
-<div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span>            <span class="comment">//TODO: defaulting to NORMAL here really isn&#39;t very good behaviour, but it&#39;s consistent with what we already</span></div>
-<div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span>            <span class="comment">//did previously; besides, WorldManager checks for unknown generators before this is reached anyway.</span></div>
-<div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span>            -&gt;setGeneratorClass(GeneratorManager::getInstance()-&gt;getGenerator($data-&gt;getGenerator())?-&gt;getGeneratorClass() ?? Normal::class)</div>
-<div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span>            -&gt;setGeneratorOptions($data-&gt;getGeneratorOptions())</div>
-<div class="line"><a id="l00111" name="l00111"></a><span class="lineno">  111</span>            -&gt;setSeed($data-&gt;getSeed())</div>
-<div class="line"><a id="l00112" name="l00112"></a><span class="lineno">  112</span>            -&gt;setSpawnPosition($data-&gt;getSpawn())</div>
-<div class="line"><a id="l00113" name="l00113"></a><span class="lineno">  113</span>            -&gt;setDifficulty($data-&gt;getDifficulty())</div>
-<div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span>        );</div>
-<div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span> </div>
-<div class="line"><a id="l00116" name="l00116"></a><span class="lineno">  116</span>        <span class="keywordflow">return</span> $this-&gt;newProvider-&gt;fromPath($convertedOutput);</div>
-<div class="line"><a id="l00117" name="l00117"></a><span class="lineno">  117</span>    }</div>
-<div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span> </div>
-<div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>    <span class="keyword">private</span> <span class="keyword">function</span> populateLevelData(<a class="code hl_interface" href="../../d7/d4e/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_data.html">WorldData</a> $data) : <span class="keywordtype">void</span>{</div>
-<div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>        $this-&gt;logger-&gt;info(<span class="stringliteral">&quot;Converting world manifest&quot;</span>);</div>
-<div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>        $oldData = $this-&gt;oldProvider-&gt;getWorldData();</div>
-<div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>        $data-&gt;<a class="code hl_function" href="../../d7/d4e/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_data.html#abd677a15b8c7fbec7df6e8314d4c0d5a">setDifficulty</a>($oldData-&gt;getDifficulty());</div>
-<div class="line"><a id="l00123" name="l00123"></a><span class="lineno">  123</span>        $data-&gt;<a class="code hl_function" href="../../d7/d4e/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_data.html#ab24cc4ea7c41f48aa2cca53d21b2eb8c">setLightningLevel</a>($oldData-&gt;getLightningLevel());</div>
-<div class="line"><a id="l00124" name="l00124"></a><span class="lineno">  124</span>        $data-&gt;<a class="code hl_function" href="../../d7/d4e/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_data.html#ae4b1484ac7b766d3e4e5ab455fd73133">setLightningTime</a>($oldData-&gt;getLightningTime());</div>
-<div class="line"><a id="l00125" name="l00125"></a><span class="lineno">  125</span>        $data-&gt;<a class="code hl_function" href="../../d7/d4e/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_data.html#aec29a66e36e8f6c91acca5a2e95116c9">setRainLevel</a>($oldData-&gt;getRainLevel());</div>
-<div class="line"><a id="l00126" name="l00126"></a><span class="lineno">  126</span>        $data-&gt;<a class="code hl_function" href="../../d7/d4e/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_data.html#aef9fe06abb9cd576febadee23fa7bc3a">setRainTime</a>($oldData-&gt;getRainTime());</div>
-<div class="line"><a id="l00127" name="l00127"></a><span class="lineno">  127</span>        $data-&gt;setSpawn($oldData-&gt;getSpawn());</div>
-<div class="line"><a id="l00128" name="l00128"></a><span class="lineno">  128</span>        $data-&gt;setTime($oldData-&gt;getTime());</div>
-<div class="line"><a id="l00129" name="l00129"></a><span class="lineno">  129</span> </div>
-<div class="line"><a id="l00130" name="l00130"></a><span class="lineno">  130</span>        $data-&gt;<a class="code hl_function" href="../../d7/d4e/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_data.html#a4349fe0c6e389070e904ff1e2d1c8653">save</a>();</div>
-<div class="line"><a id="l00131" name="l00131"></a><span class="lineno">  131</span>        $this-&gt;logger-&gt;info(<span class="stringliteral">&quot;Finished converting manifest&quot;</span>);</div>
-<div class="line"><a id="l00132" name="l00132"></a><span class="lineno">  132</span>        <span class="comment">//TODO: add more properties as-needed</span></div>
-<div class="line"><a id="l00133" name="l00133"></a><span class="lineno">  133</span>    }</div>
-<div class="line"><a id="l00134" name="l00134"></a><span class="lineno">  134</span> </div>
-<div class="line"><a id="l00135" name="l00135"></a><span class="lineno">  135</span>    <span class="keyword">private</span> <span class="keyword">function</span> convertTerrain(<a class="code hl_interface" href="../../d1/d1b/interfacepocketmine_1_1world_1_1format_1_1io_1_1_writable_world_provider.html">WritableWorldProvider</a> $new) : <span class="keywordtype">void</span>{</div>
-<div class="line"><a id="l00136" name="l00136"></a><span class="lineno">  136</span>        $this-&gt;logger-&gt;info(<span class="stringliteral">&quot;Calculating chunk count&quot;</span>);</div>
-<div class="line"><a id="l00137" name="l00137"></a><span class="lineno">  137</span>        $count = $this-&gt;oldProvider-&gt;calculateChunkCount();</div>
-<div class="line"><a id="l00138" name="l00138"></a><span class="lineno">  138</span>        $this-&gt;logger-&gt;info(<span class="stringliteral">&quot;Discovered $count chunks&quot;</span>);</div>
-<div class="line"><a id="l00139" name="l00139"></a><span class="lineno">  139</span> </div>
-<div class="line"><a id="l00140" name="l00140"></a><span class="lineno">  140</span>        $counter = 0;</div>
-<div class="line"><a id="l00141" name="l00141"></a><span class="lineno">  141</span> </div>
-<div class="line"><a id="l00142" name="l00142"></a><span class="lineno">  142</span>        $start = microtime(<span class="keyword">true</span>);</div>
-<div class="line"><a id="l00143" name="l00143"></a><span class="lineno">  143</span>        $thisRound = $start;</div>
-<div class="line"><a id="l00144" name="l00144"></a><span class="lineno">  144</span>        <span class="keywordflow">foreach</span>($this-&gt;oldProvider-&gt;getAllChunks(<span class="keyword">true</span>, $this-&gt;logger) as $coords =&gt; $chunk){</div>
-<div class="line"><a id="l00145" name="l00145"></a><span class="lineno">  145</span>            [$chunkX, $chunkZ] = $coords;</div>
-<div class="line"><a id="l00146" name="l00146"></a><span class="lineno">  146</span>            $chunk-&gt;getChunk()-&gt;setTerrainDirty();</div>
-<div class="line"><a id="l00147" name="l00147"></a><span class="lineno">  147</span>            $new-&gt;<a class="code hl_function" href="../../d1/d1b/interfacepocketmine_1_1world_1_1format_1_1io_1_1_writable_world_provider.html#a1381e497ea76cc795cfe22ba97bd826b">saveChunk</a>($chunkX, $chunkZ, $chunk);</div>
-<div class="line"><a id="l00148" name="l00148"></a><span class="lineno">  148</span>            $counter++;</div>
-<div class="line"><a id="l00149" name="l00149"></a><span class="lineno">  149</span>            <span class="keywordflow">if</span>(($counter % $this-&gt;chunksPerProgressUpdate) === 0){</div>
-<div class="line"><a id="l00150" name="l00150"></a><span class="lineno">  150</span>                $time = microtime(<span class="keyword">true</span>);</div>
-<div class="line"><a id="l00151" name="l00151"></a><span class="lineno">  151</span>                $diff = $time - $thisRound;</div>
-<div class="line"><a id="l00152" name="l00152"></a><span class="lineno">  152</span>                $thisRound = $time;</div>
-<div class="line"><a id="l00153" name="l00153"></a><span class="lineno">  153</span>                $this-&gt;logger-&gt;info(<span class="stringliteral">&quot;Converted $counter / $count chunks (&quot;</span> . floor($this-&gt;chunksPerProgressUpdate / $diff) . <span class="stringliteral">&quot; chunks/sec)&quot;</span>);</div>
-<div class="line"><a id="l00154" name="l00154"></a><span class="lineno">  154</span>            }</div>
-<div class="line"><a id="l00155" name="l00155"></a><span class="lineno">  155</span>        }</div>
-<div class="line"><a id="l00156" name="l00156"></a><span class="lineno">  156</span>        $total = microtime(<span class="keyword">true</span>) - $start;</div>
-<div class="line"><a id="l00157" name="l00157"></a><span class="lineno">  157</span>        $this-&gt;logger-&gt;info(<span class="stringliteral">&quot;Converted $counter / $counter chunks in &quot;</span> . round($total, 3) . <span class="stringliteral">&quot; seconds (&quot;</span> . floor($counter / $total) . <span class="stringliteral">&quot; chunks/sec)&quot;</span>);</div>
-<div class="line"><a id="l00158" name="l00158"></a><span class="lineno">  158</span>    }</div>
-<div class="line"><a id="l00159" name="l00159"></a><span class="lineno">  159</span>}</div>
+<div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span>    }</div>
+<div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span> </div>
+<div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span>    <span class="keyword">private</span> <span class="keyword">function</span> generateNew() : <a class="code hl_interface" href="../../d1/d1b/interfacepocketmine_1_1world_1_1format_1_1io_1_1_writable_world_provider.html">WritableWorldProvider</a>{</div>
+<div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span>        $this-&gt;logger-&gt;info(<span class="stringliteral">&quot;Generating new world&quot;</span>);</div>
+<div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span>        $data = $this-&gt;oldProvider-&gt;<a class="code hl_function" href="../../d8/d94/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_provider.html#ad2c18e0533b43f69c181d967a1f1085b">getWorldData</a>();</div>
+<div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span> </div>
+<div class="line"><a id="l00100" name="l00100"></a><span class="lineno">  100</span>        $convertedOutput = rtrim($this-&gt;oldProvider-&gt;getPath(), <span class="stringliteral">&quot;/&quot;</span> . DIRECTORY_SEPARATOR) . <span class="stringliteral">&quot;_converted&quot;</span> . DIRECTORY_SEPARATOR;</div>
+<div class="line"><a id="l00101" name="l00101"></a><span class="lineno">  101</span>        <span class="keywordflow">if</span>(file_exists($convertedOutput)){</div>
+<div class="line"><a id="l00102" name="l00102"></a><span class="lineno">  102</span>            $this-&gt;logger-&gt;info(<span class="stringliteral">&quot;Found previous conversion attempt, deleting...&quot;</span>);</div>
+<div class="line"><a id="l00103" name="l00103"></a><span class="lineno">  103</span>            Filesystem::recursiveUnlink($convertedOutput);</div>
+<div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span>        }</div>
+<div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span>        $this-&gt;newProvider-&gt;generate($convertedOutput, $data-&gt;getName(), WorldCreationOptions::create()</div>
+<div class="line"><a id="l00106" name="l00106"></a><span class="lineno">  106</span>            <span class="comment">//TODO: defaulting to NORMAL here really isn&#39;t very good behaviour, but it&#39;s consistent with what we already</span></div>
+<div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span>            <span class="comment">//did previously; besides, WorldManager checks for unknown generators before this is reached anyway.</span></div>
+<div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span>            -&gt;setGeneratorClass(GeneratorManager::getInstance()-&gt;getGenerator($data-&gt;getGenerator())?-&gt;getGeneratorClass() ?? Normal::class)</div>
+<div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span>            -&gt;setGeneratorOptions($data-&gt;getGeneratorOptions())</div>
+<div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span>            -&gt;setSeed($data-&gt;getSeed())</div>
+<div class="line"><a id="l00111" name="l00111"></a><span class="lineno">  111</span>            -&gt;setSpawnPosition($data-&gt;getSpawn())</div>
+<div class="line"><a id="l00112" name="l00112"></a><span class="lineno">  112</span>            -&gt;setDifficulty($data-&gt;getDifficulty())</div>
+<div class="line"><a id="l00113" name="l00113"></a><span class="lineno">  113</span>        );</div>
+<div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span> </div>
+<div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span>        <span class="keywordflow">return</span> $this-&gt;newProvider-&gt;fromPath($convertedOutput, $this-&gt;logger);</div>
+<div class="line"><a id="l00116" name="l00116"></a><span class="lineno">  116</span>    }</div>
+<div class="line"><a id="l00117" name="l00117"></a><span class="lineno">  117</span> </div>
+<div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span>    <span class="keyword">private</span> <span class="keyword">function</span> populateLevelData(<a class="code hl_interface" href="../../d7/d4e/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_data.html">WorldData</a> $data) : <span class="keywordtype">void</span>{</div>
+<div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>        $this-&gt;logger-&gt;info(<span class="stringliteral">&quot;Converting world manifest&quot;</span>);</div>
+<div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>        $oldData = $this-&gt;oldProvider-&gt;getWorldData();</div>
+<div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>        $data-&gt;<a class="code hl_function" href="../../d7/d4e/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_data.html#abd677a15b8c7fbec7df6e8314d4c0d5a">setDifficulty</a>($oldData-&gt;getDifficulty());</div>
+<div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>        $data-&gt;<a class="code hl_function" href="../../d7/d4e/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_data.html#ab24cc4ea7c41f48aa2cca53d21b2eb8c">setLightningLevel</a>($oldData-&gt;getLightningLevel());</div>
+<div class="line"><a id="l00123" name="l00123"></a><span class="lineno">  123</span>        $data-&gt;<a class="code hl_function" href="../../d7/d4e/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_data.html#ae4b1484ac7b766d3e4e5ab455fd73133">setLightningTime</a>($oldData-&gt;getLightningTime());</div>
+<div class="line"><a id="l00124" name="l00124"></a><span class="lineno">  124</span>        $data-&gt;<a class="code hl_function" href="../../d7/d4e/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_data.html#aec29a66e36e8f6c91acca5a2e95116c9">setRainLevel</a>($oldData-&gt;getRainLevel());</div>
+<div class="line"><a id="l00125" name="l00125"></a><span class="lineno">  125</span>        $data-&gt;<a class="code hl_function" href="../../d7/d4e/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_data.html#aef9fe06abb9cd576febadee23fa7bc3a">setRainTime</a>($oldData-&gt;getRainTime());</div>
+<div class="line"><a id="l00126" name="l00126"></a><span class="lineno">  126</span>        $data-&gt;setSpawn($oldData-&gt;getSpawn());</div>
+<div class="line"><a id="l00127" name="l00127"></a><span class="lineno">  127</span>        $data-&gt;setTime($oldData-&gt;getTime());</div>
+<div class="line"><a id="l00128" name="l00128"></a><span class="lineno">  128</span> </div>
+<div class="line"><a id="l00129" name="l00129"></a><span class="lineno">  129</span>        $data-&gt;<a class="code hl_function" href="../../d7/d4e/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_data.html#a4349fe0c6e389070e904ff1e2d1c8653">save</a>();</div>
+<div class="line"><a id="l00130" name="l00130"></a><span class="lineno">  130</span>        $this-&gt;logger-&gt;info(<span class="stringliteral">&quot;Finished converting manifest&quot;</span>);</div>
+<div class="line"><a id="l00131" name="l00131"></a><span class="lineno">  131</span>        <span class="comment">//TODO: add more properties as-needed</span></div>
+<div class="line"><a id="l00132" name="l00132"></a><span class="lineno">  132</span>    }</div>
+<div class="line"><a id="l00133" name="l00133"></a><span class="lineno">  133</span> </div>
+<div class="line"><a id="l00134" name="l00134"></a><span class="lineno">  134</span>    <span class="keyword">private</span> <span class="keyword">function</span> convertTerrain(<a class="code hl_interface" href="../../d1/d1b/interfacepocketmine_1_1world_1_1format_1_1io_1_1_writable_world_provider.html">WritableWorldProvider</a> $new) : <span class="keywordtype">void</span>{</div>
+<div class="line"><a id="l00135" name="l00135"></a><span class="lineno">  135</span>        $this-&gt;logger-&gt;info(<span class="stringliteral">&quot;Calculating chunk count&quot;</span>);</div>
+<div class="line"><a id="l00136" name="l00136"></a><span class="lineno">  136</span>        $count = $this-&gt;oldProvider-&gt;calculateChunkCount();</div>
+<div class="line"><a id="l00137" name="l00137"></a><span class="lineno">  137</span>        $this-&gt;logger-&gt;info(<span class="stringliteral">&quot;Discovered $count chunks&quot;</span>);</div>
+<div class="line"><a id="l00138" name="l00138"></a><span class="lineno">  138</span> </div>
+<div class="line"><a id="l00139" name="l00139"></a><span class="lineno">  139</span>        $counter = 0;</div>
+<div class="line"><a id="l00140" name="l00140"></a><span class="lineno">  140</span> </div>
+<div class="line"><a id="l00141" name="l00141"></a><span class="lineno">  141</span>        $start = microtime(<span class="keyword">true</span>);</div>
+<div class="line"><a id="l00142" name="l00142"></a><span class="lineno">  142</span>        $thisRound = $start;</div>
+<div class="line"><a id="l00143" name="l00143"></a><span class="lineno">  143</span>        <span class="keywordflow">foreach</span>($this-&gt;oldProvider-&gt;getAllChunks(<span class="keyword">true</span>, $this-&gt;logger) as $coords =&gt; $chunk){</div>
+<div class="line"><a id="l00144" name="l00144"></a><span class="lineno">  144</span>            [$chunkX, $chunkZ] = $coords;</div>
+<div class="line"><a id="l00145" name="l00145"></a><span class="lineno">  145</span>            $chunk-&gt;getChunk()-&gt;setTerrainDirty();</div>
+<div class="line"><a id="l00146" name="l00146"></a><span class="lineno">  146</span>            $new-&gt;<a class="code hl_function" href="../../d1/d1b/interfacepocketmine_1_1world_1_1format_1_1io_1_1_writable_world_provider.html#a1381e497ea76cc795cfe22ba97bd826b">saveChunk</a>($chunkX, $chunkZ, $chunk);</div>
+<div class="line"><a id="l00147" name="l00147"></a><span class="lineno">  147</span>            $counter++;</div>
+<div class="line"><a id="l00148" name="l00148"></a><span class="lineno">  148</span>            <span class="keywordflow">if</span>(($counter % $this-&gt;chunksPerProgressUpdate) === 0){</div>
+<div class="line"><a id="l00149" name="l00149"></a><span class="lineno">  149</span>                $time = microtime(<span class="keyword">true</span>);</div>
+<div class="line"><a id="l00150" name="l00150"></a><span class="lineno">  150</span>                $diff = $time - $thisRound;</div>
+<div class="line"><a id="l00151" name="l00151"></a><span class="lineno">  151</span>                $thisRound = $time;</div>
+<div class="line"><a id="l00152" name="l00152"></a><span class="lineno">  152</span>                $this-&gt;logger-&gt;info(<span class="stringliteral">&quot;Converted $counter / $count chunks (&quot;</span> . floor($this-&gt;chunksPerProgressUpdate / $diff) . <span class="stringliteral">&quot; chunks/sec)&quot;</span>);</div>
+<div class="line"><a id="l00153" name="l00153"></a><span class="lineno">  153</span>            }</div>
+<div class="line"><a id="l00154" name="l00154"></a><span class="lineno">  154</span>        }</div>
+<div class="line"><a id="l00155" name="l00155"></a><span class="lineno">  155</span>        $total = microtime(<span class="keyword">true</span>) - $start;</div>
+<div class="line"><a id="l00156" name="l00156"></a><span class="lineno">  156</span>        $this-&gt;logger-&gt;info(<span class="stringliteral">&quot;Converted $counter / $counter chunks in &quot;</span> . round($total, 3) . <span class="stringliteral">&quot; seconds (&quot;</span> . floor($counter / $total) . <span class="stringliteral">&quot; chunks/sec)&quot;</span>);</div>
+<div class="line"><a id="l00157" name="l00157"></a><span class="lineno">  157</span>    }</div>
+<div class="line"><a id="l00158" name="l00158"></a><span class="lineno">  158</span>}</div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_filesystem_html"><div class="ttname"><a href="../../da/ddd/classpocketmine_1_1utils_1_1_filesystem.html">pocketmine\utils\Filesystem</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d2f/_filesystem_8php_source.html#l00063">Filesystem.php:63</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_filesystem_html_a414d066751a7b3cc582344123835f5ff"><div class="ttname"><a href="../../da/ddd/classpocketmine_1_1utils_1_1_filesystem.html#a414d066751a7b3cc582344123835f5ff">pocketmine\utils\Filesystem\recursiveCopy</a></div><div class="ttdeci">static recursiveCopy(string $origin, string $destination)</div><div class="ttdef"><b>Definition:</b> <a href="../../dd/d2f/_filesystem_8php_source.html#l00103">Filesystem.php:103</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1_world_creation_options_html"><div class="ttname"><a href="../../d0/d15/classpocketmine_1_1world_1_1_world_creation_options.html">pocketmine\world\WorldCreationOptions</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d5/d89/_world_creation_options_8php_source.html#l00036">WorldCreationOptions.php:36</a></div></div>

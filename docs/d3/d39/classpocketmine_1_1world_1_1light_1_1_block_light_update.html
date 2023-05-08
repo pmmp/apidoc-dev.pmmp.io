@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-17fe894229c14349841a17c0fe4c7cf545b00203</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-6f0eb019d2797155ee6533cce02d016886fd88b9</span>
    </div>
   </td>
  </tr>
@@ -135,10 +135,10 @@ Public Attributes</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
-<tr class="memitem:ae106bf58c7417aced07e8fa7a4b7cc0f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dfe/classpocketmine_1_1world_1_1light_1_1_light_update.html#ae106bf58c7417aced07e8fa7a4b7cc0f">computeRemoveLight</a> (int $x, int $y, int $z, int $oldAdjacentLevel, <a class="el" href="../../d2/d3c/classpocketmine_1_1world_1_1light_1_1_light_propagation_context.html">LightPropagationContext</a> $context)</td></tr>
-<tr class="separator:ae106bf58c7417aced07e8fa7a4b7cc0f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af141c5f92d885826ac8f5a0858669db4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dfe/classpocketmine_1_1world_1_1light_1_1_light_update.html#af141c5f92d885826ac8f5a0858669db4">computeSpreadLight</a> (int $x, int $y, int $z, int $newAdjacentLevel, <a class="el" href="../../d2/d3c/classpocketmine_1_1world_1_1light_1_1_light_propagation_context.html">LightPropagationContext</a> $context)</td></tr>
-<tr class="separator:af141c5f92d885826ac8f5a0858669db4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0800c1837c73b56696cec972ad32e15b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dfe/classpocketmine_1_1world_1_1light_1_1_light_update.html#a0800c1837c73b56696cec972ad32e15b">computeRemoveLight</a> (int $x, int $y, int $z, int $oldAdjacentLevel, <a class="el" href="../../d2/d3c/classpocketmine_1_1world_1_1light_1_1_light_propagation_context.html">LightPropagationContext</a> $context, LightArray $lightArray)</td></tr>
+<tr class="separator:a0800c1837c73b56696cec972ad32e15b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7e7bdae6aab23fa066865ae12838dc8b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dfe/classpocketmine_1_1world_1_1light_1_1_light_update.html#a7e7bdae6aab23fa066865ae12838dc8b">computeSpreadLight</a> (int $x, int $y, int $z, int $newAdjacentLevel, <a class="el" href="../../d2/d3c/classpocketmine_1_1world_1_1light_1_1_light_propagation_context.html">LightPropagationContext</a> $context, LightArray $lightArray, <a class="el" href="../../de/dda/classpocketmine_1_1world_1_1format_1_1_sub_chunk.html">SubChunk</a> $subChunk)</td></tr>
+<tr class="separator:a7e7bdae6aab23fa066865ae12838dc8b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a411b6f5f0722ce542ad946cbf26ca400"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d39/classpocketmine_1_1world_1_1light_1_1_block_light_update.html#a411b6f5f0722ce542ad946cbf26ca400">getCurrentLightArray</a> ()</td></tr>
 <tr class="separator:a411b6f5f0722ce542ad946cbf26ca400"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afe10393430952e472575edd31a6d30f8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dfe/classpocketmine_1_1world_1_1light_1_1_light_update.html#afe10393430952e472575edd31a6d30f8">getEffectiveLight</a> (int $x, int $y, int $z)</td></tr>
@@ -199,8 +199,8 @@ Protected Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="ae106bf58c7417aced07e8fa7a4b7cc0f" name="ae106bf58c7417aced07e8fa7a4b7cc0f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae106bf58c7417aced07e8fa7a4b7cc0f">&#9670;&nbsp;</a></span>computeRemoveLight()</h2>
+<a id="a0800c1837c73b56696cec972ad32e15b" name="a0800c1837c73b56696cec972ad32e15b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0800c1837c73b56696cec972ad32e15b">&#9670;&nbsp;</a></span>computeRemoveLight()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -236,7 +236,13 @@ Protected Attributes</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="../../d2/d3c/classpocketmine_1_1world_1_1light_1_1_light_propagation_context.html">LightPropagationContext</a>&#160;</td>
-          <td class="paramname"><em>$context</em>&#160;</td>
+          <td class="paramname"><em>$context</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">LightArray&#160;</td>
+          <td class="paramname"><em>$lightArray</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -251,12 +257,12 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d4/daa/_light_update_8php_source.html#l00164">164</a> of file <a class="el" href="../../d4/daa/_light_update_8php_source.html">LightUpdate.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/daa/_light_update_8php_source.html#l00187">187</a> of file <a class="el" href="../../d4/daa/_light_update_8php_source.html">LightUpdate.php</a>.</p>
 
 </div>
 </div>
-<a id="af141c5f92d885826ac8f5a0858669db4" name="af141c5f92d885826ac8f5a0858669db4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af141c5f92d885826ac8f5a0858669db4">&#9670;&nbsp;</a></span>computeSpreadLight()</h2>
+<a id="a7e7bdae6aab23fa066865ae12838dc8b" name="a7e7bdae6aab23fa066865ae12838dc8b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7e7bdae6aab23fa066865ae12838dc8b">&#9670;&nbsp;</a></span>computeSpreadLight()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -292,7 +298,19 @@ Protected Attributes</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="../../d2/d3c/classpocketmine_1_1world_1_1light_1_1_light_propagation_context.html">LightPropagationContext</a>&#160;</td>
-          <td class="paramname"><em>$context</em>&#160;</td>
+          <td class="paramname"><em>$context</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">LightArray&#160;</td>
+          <td class="paramname"><em>$lightArray</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/dda/classpocketmine_1_1world_1_1format_1_1_sub_chunk.html">SubChunk</a>&#160;</td>
+          <td class="paramname"><em>$subChunk</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -307,7 +325,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d4/daa/_light_update_8php_source.html#l00188">188</a> of file <a class="el" href="../../d4/daa/_light_update_8php_source.html">LightUpdate.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/daa/_light_update_8php_source.html#l00210">210</a> of file <a class="el" href="../../d4/daa/_light_update_8php_source.html">LightUpdate.php</a>.</p>
 
 </div>
 </div>
@@ -334,7 +352,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d4/daa/_light_update_8php_source.html#l00117">117</a> of file <a class="el" href="../../d4/daa/_light_update_8php_source.html">LightUpdate.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/daa/_light_update_8php_source.html#l00115">115</a> of file <a class="el" href="../../d4/daa/_light_update_8php_source.html">LightUpdate.php</a>.</p>
 
 </div>
 </div>
@@ -407,7 +425,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d4/daa/_light_update_8php_source.html#l00071">71</a> of file <a class="el" href="../../d4/daa/_light_update_8php_source.html">LightUpdate.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/daa/_light_update_8php_source.html#l00072">72</a> of file <a class="el" href="../../d4/daa/_light_update_8php_source.html">LightUpdate.php</a>.</p>
 
 </div>
 </div>
@@ -451,7 +469,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d4/daa/_light_update_8php_source.html#l00078">78</a> of file <a class="el" href="../../d4/daa/_light_update_8php_source.html">LightUpdate.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/daa/_light_update_8php_source.html#l00079">79</a> of file <a class="el" href="../../d4/daa/_light_update_8php_source.html">LightUpdate.php</a>.</p>
 
 </div>
 </div>
@@ -572,7 +590,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d4/daa/_light_update_8php_source.html#l00088">88</a> of file <a class="el" href="../../d4/daa/_light_update_8php_source.html">LightUpdate.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/daa/_light_update_8php_source.html#l00089">89</a> of file <a class="el" href="../../d4/daa/_light_update_8php_source.html">LightUpdate.php</a>.</p>
 
 </div>
 </div>
@@ -597,7 +615,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d4/daa/_light_update_8php_source.html#l00050">50</a> of file <a class="el" href="../../d4/daa/_light_update_8php_source.html">LightUpdate.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/daa/_light_update_8php_source.html#l00051">51</a> of file <a class="el" href="../../d4/daa/_light_update_8php_source.html">LightUpdate.php</a>.</p>
 
 </div>
 </div>
@@ -621,7 +639,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d4/daa/_light_update_8php_source.html#l00044">44</a> of file <a class="el" href="../../d4/daa/_light_update_8php_source.html">LightUpdate.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d4/daa/_light_update_8php_source.html#l00045">45</a> of file <a class="el" href="../../d4/daa/_light_update_8php_source.html">LightUpdate.php</a>.</p>
 
 </div>
 </div>

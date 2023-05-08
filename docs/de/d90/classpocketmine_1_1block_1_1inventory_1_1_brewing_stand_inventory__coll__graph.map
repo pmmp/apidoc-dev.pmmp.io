@@ -1,10 +1,10 @@
 <map id="pocketmine\block\inventory\BrewingStandInventory" name="pocketmine\block\inventory\BrewingStandInventory">
-<area shape="rect" id="node1" title=" " alt="" coords="111,1023,313,1115"/>
-<area shape="rect" id="node2" href="$d6/dc1/classpocketmine_1_1inventory_1_1_simple_inventory.html" title=" " alt="" coords="124,808,300,973"/>
-<area shape="rect" id="node3" href="$d5/dc4/classpocketmine_1_1inventory_1_1_base_inventory.html" title=" " alt="" coords="190,447,397,759"/>
+<area shape="rect" id="node1" title=" " alt="" coords="116,1067,319,1159"/>
+<area shape="rect" id="node2" href="$d6/dc1/classpocketmine_1_1inventory_1_1_simple_inventory.html" title=" " alt="" coords="119,823,315,1017"/>
+<area shape="rect" id="node3" href="$d5/dc4/classpocketmine_1_1inventory_1_1_base_inventory.html" title=" " alt="" coords="190,447,397,773"/>
 <area shape="rect" id="node4" href="$db/d39/interfacepocketmine_1_1inventory_1_1_inventory.html" title=" " alt="" coords="43,145,250,384"/>
 <area shape="rect" id="node5" title=" " alt="" coords="23,5,81,83"/>
 <area shape="rect" id="node6" href="$dd/de5/classpocketmine_1_1utils_1_1_object_set.html" title=" " alt="" coords="275,189,472,340"/>
 <area shape="rect" id="node7" title=" " alt="" coords="305,5,442,83"/>
-<area shape="rect" id="node8" href="$d4/d3a/interfacepocketmine_1_1block_1_1inventory_1_1_block_inventory.html" title=" " alt="" coords="324,845,527,937"/>
+<area shape="rect" id="node8" href="$d4/d3a/interfacepocketmine_1_1block_1_1inventory_1_1_block_inventory.html" title=" " alt="" coords="340,874,543,966"/>
 </map>

@@ -364,7 +364,6 @@ var hierarchy =
       [ "pocketmine\\block\\inventory\\StonecutterInventory", "db/d21/classpocketmine_1_1block_1_1inventory_1_1_stonecutter_inventory.html", null ]
     ] ],
     [ "pocketmine\\data\\bedrock\\item\\BlockItemIdMap", "d1/d52/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_block_item_id_map.html", null ],
-    [ "pocketmine\\block\\BlockLegacyIdHelper", "d8/d6b/classpocketmine_1_1block_1_1_block_legacy_id_helper.html", null ],
     [ "pocketmine\\data\\bedrock\\block\\BlockLegacyMetadata", "df/d5e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_block_legacy_metadata.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\BlockPaletteEntry", "dc/d64/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_block_palette_entry.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\BlockPosition", "d1/d5f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_block_position.html", null ],
@@ -375,7 +374,6 @@ var hierarchy =
     [ "pocketmine\\data\\bedrock\\block\\convert\\BlockStateDeserializerHelper", "da/dd2/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_deserializer_helper.html", null ],
     [ "pocketmine\\network\\mcpe\\convert\\BlockStateDictionary", "da/d25/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary.html", null ],
     [ "pocketmine\\network\\mcpe\\convert\\BlockStateDictionaryEntry", "d1/d2e/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary_entry.html", null ],
-    [ "pocketmine\\network\\mcpe\\convert\\BlockStateLookupCache", "db/dd9/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_lookup_cache.html", null ],
     [ "pocketmine\\data\\bedrock\\block\\BlockStateNames", "d3/de7/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_names.html", null ],
     [ "pocketmine\\data\\bedrock\\block\\convert\\BlockStateReader", "d5/de5/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_reader.html", null ],
     [ "pocketmine\\data\\bedrock\\block\\BlockStateSerializer", "db/dc6/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_serializer.html", [
@@ -394,10 +392,12 @@ var hierarchy =
     [ "pocketmine\\data\\bedrock\\block\\convert\\BlockStateWriter", "da/dc5/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_writer.html", null ],
     [ "pocketmine\\block\\BlockToolType", "dd/d5a/classpocketmine_1_1block_1_1_block_tool_type.html", null ],
     [ "pocketmine\\world\\BlockTransaction", "d4/d3e/classpocketmine_1_1world_1_1_block_transaction.html", null ],
+    [ "pocketmine\\network\\mcpe\\convert\\BlockTranslator", "d8/d98/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_translator.html", null ],
     [ "pocketmine\\block\\BlockTypeIds", "db/dbe/classpocketmine_1_1block_1_1_block_type_ids.html", null ],
     [ "pocketmine\\block\\BlockTypeInfo", "de/d9a/classpocketmine_1_1block_1_1_block_type_info.html", null ],
     [ "pocketmine\\data\\bedrock\\block\\BlockTypeNames", "d1/ddc/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_block_type_names.html", null ],
     [ "pocketmine\\block\\BlockTypeTags", "d6/dbc/classpocketmine_1_1block_1_1_block_type_tags.html", null ],
+    [ "pocketmine\\item\\BoatType", "d3/d85/classpocketmine_1_1item_1_1_boat_type.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\BossBarColor", "d1/ded/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_boss_bar_color.html", null ],
     [ "pocketmine\\crafting\\BrewingRecipe", "d9/d63/interfacepocketmine_1_1crafting_1_1_brewing_recipe.html", [
       [ "pocketmine\\crafting\\PotionContainerChangeRecipe", "d1/d65/classpocketmine_1_1crafting_1_1_potion_container_change_recipe.html", null ],
@@ -891,6 +891,7 @@ var hierarchy =
           [ "pocketmine\\event\\world\\ChunkUnloadEvent", "d1/df4/classpocketmine_1_1event_1_1world_1_1_chunk_unload_event.html", null ]
         ] ],
         [ "pocketmine\\event\\world\\SpawnChangeEvent", "d3/d42/classpocketmine_1_1event_1_1world_1_1_spawn_change_event.html", null ],
+        [ "pocketmine\\event\\world\\WorldDisplayNameChangeEvent", "da/d8e/classpocketmine_1_1event_1_1world_1_1_world_display_name_change_event.html", null ],
         [ "pocketmine\\event\\world\\WorldInitEvent", "da/d9d/classpocketmine_1_1event_1_1world_1_1_world_init_event.html", null ],
         [ "pocketmine\\event\\world\\WorldLoadEvent", "dc/d09/classpocketmine_1_1event_1_1world_1_1_world_load_event.html", null ],
         [ "pocketmine\\event\\world\\WorldParticleEvent", "da/d76/classpocketmine_1_1event_1_1world_1_1_world_particle_event.html", null ],
@@ -952,7 +953,6 @@ var hierarchy =
     [ "pocketmine\\utils\\Git", "d1/db8/classpocketmine_1_1utils_1_1_git.html", null ],
     [ "pocketmine\\world\\format\\io\\GlobalBlockStateHandlers", "da/d68/classpocketmine_1_1world_1_1format_1_1io_1_1_global_block_state_handlers.html", null ],
     [ "pocketmine\\world\\format\\io\\GlobalItemDataHandlers", "d2/df3/classpocketmine_1_1world_1_1format_1_1io_1_1_global_item_data_handlers.html", null ],
-    [ "pocketmine\\network\\mcpe\\convert\\GlobalItemTypeDictionary", "d2/d68/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_global_item_type_dictionary.html", null ],
     [ "GlobalLogger", "df/db6/class_global_logger.html", null ],
     [ "pocketmine\\event\\HandlerList", "d0/d8a/classpocketmine_1_1event_1_1_handler_list.html", null ],
     [ "pocketmine\\event\\HandlerListManager", "d5/dfd/classpocketmine_1_1event_1_1_handler_list_manager.html", null ],
@@ -1961,7 +1961,6 @@ var hierarchy =
     [ "pocketmine\\plugin\\ResourceProvider", "de/d0d/interfacepocketmine_1_1plugin_1_1_resource_provider.html", [
       [ "pocketmine\\plugin\\DiskResourceProvider", "de/d85/classpocketmine_1_1plugin_1_1_disk_resource_provider.html", null ]
     ] ],
-    [ "pocketmine\\network\\mcpe\\convert\\RuntimeBlockMapping", "d5/dfe/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_runtime_block_mapping.html", null ],
     [ "pocketmine\\block\\RuntimeBlockStateRegistry", "de/d2c/classpocketmine_1_1block_1_1_runtime_block_state_registry.html", null ],
     [ "pocketmine\\data\\runtime\\RuntimeEnumDescriber", "dc/d84/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_enum_describer.html", [
       [ "pocketmine\\data\\runtime\\RuntimeDataDescriber", "d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html", [
@@ -2028,6 +2027,7 @@ var hierarchy =
       ] ],
       [ "raklib\\generic\\SocketException", "df/d21/classraklib_1_1generic_1_1_socket_exception.html", null ]
     ] ],
+    [ "pocketmine\\block\\utils\\SaplingType", "dd/d77/classpocketmine_1_1block_1_1utils_1_1_sapling_type.html", null ],
     [ "pocketmine\\data\\bedrock\\item\\SavedItemData", "df/d33/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_saved_item_data.html", null ],
     [ "pocketmine\\data\\bedrock\\item\\SavedItemStackData", "db/d16/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_saved_item_stack_data.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\ScoreboardIdentityPacketEntry", "d7/d42/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_scoreboard_identity_packet_entry.html", null ],
@@ -2059,7 +2059,6 @@ var hierarchy =
     [ "pocketmine\\network\\mcpe\\convert\\SkinAdapter", "d2/d77/interfacepocketmine_1_1network_1_1mcpe_1_1convert_1_1_skin_adapter.html", [
       [ "pocketmine\\network\\mcpe\\convert\\LegacySkinAdapter", "d3/de8/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_legacy_skin_adapter.html", null ]
     ] ],
-    [ "pocketmine\\network\\mcpe\\convert\\SkinAdapterSingleton", "d4/d6d/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_skin_adapter_singleton.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\skin\\SkinAnimation", "d3/dcd/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1skin_1_1_skin_animation.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\skin\\SkinData", "d3/dce/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1skin_1_1_skin_data.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\skin\\SkinImage", "de/dfa/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1skin_1_1_skin_image.html", null ],
@@ -2255,7 +2254,6 @@ var hierarchy =
       ] ]
     ] ],
     [ "pocketmine\\world\\generator\\ThreadLocalGeneratorContext", "d0/d9d/classpocketmine_1_1world_1_1generator_1_1_thread_local_generator_context.html", null ],
-    [ "pocketmine\\world\\TickingChunkEntry", "d1/d78/classpocketmine_1_1world_1_1_ticking_chunk_entry.html", null ],
     [ "pocketmine\\block\\tile\\Tile", "d9/d74/classpocketmine_1_1block_1_1tile_1_1_tile.html", [
       [ "pocketmine\\block\\tile\\Comparator", "df/de7/classpocketmine_1_1block_1_1tile_1_1_comparator.html", null ],
       [ "pocketmine\\block\\tile\\DaylightSensor", "de/df4/classpocketmine_1_1block_1_1tile_1_1_daylight_sensor.html", null ],
@@ -2309,7 +2307,7 @@ var hierarchy =
     ] ],
     [ "pocketmine\\world\\generator\\object\\TreeFactory", "da/d12/classpocketmine_1_1world_1_1generator_1_1object_1_1_tree_factory.html", null ],
     [ "pocketmine\\nbt\\TreeRoot", "d7/d89/classpocketmine_1_1nbt_1_1_tree_root.html", null ],
-    [ "pocketmine\\block\\utils\\TreeType", "d7/de7/classpocketmine_1_1block_1_1utils_1_1_tree_type.html", null ],
+    [ "pocketmine\\world\\generator\\object\\TreeType", "d6/d14/classpocketmine_1_1world_1_1generator_1_1object_1_1_tree_type.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\TrimMaterial", "d8/db2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_trim_material.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\TrimPattern", "d9/df6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_trim_pattern.html", null ],
     [ "DaveRandom\\CallbackValidator\\Type", "d6/d33/class_dave_random_1_1_callback_validator_1_1_type.html", [
@@ -2348,6 +2346,7 @@ var hierarchy =
     [ "pocketmine\\math\\VoxelRayTrace", "d4/d39/classpocketmine_1_1math_1_1_voxel_ray_trace.html", null ],
     [ "pocketmine\\block\\utils\\WallConnectionType", "d1/dfb/classpocketmine_1_1block_1_1utils_1_1_wall_connection_type.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\WindowTypes", "d4/df2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_window_types.html", null ],
+    [ "pocketmine\\block\\WoodLikeBlockIdHelper", "d9/de8/classpocketmine_1_1block_1_1_wood_like_block_id_helper.html", null ],
     [ "pocketmine\\block\\utils\\WoodType", "d8/d35/classpocketmine_1_1block_1_1utils_1_1_wood_type.html", null ],
     [ "Worker", null, [
       [ "pocketmine\\thread\\Worker", "d2/d42/classpocketmine_1_1thread_1_1_worker.html", [

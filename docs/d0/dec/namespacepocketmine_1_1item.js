@@ -26,6 +26,7 @@ var namespacepocketmine_1_1item =
     [ "BeetrootSoup", "df/d75/classpocketmine_1_1item_1_1_beetroot_soup.html", "df/d75/classpocketmine_1_1item_1_1_beetroot_soup" ],
     [ "BlazeRod", "d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html", "d8/d16/classpocketmine_1_1item_1_1_blaze_rod" ],
     [ "Boat", "d6/d41/classpocketmine_1_1item_1_1_boat.html", "d6/d41/classpocketmine_1_1item_1_1_boat" ],
+    [ "BoatType", "d3/d85/classpocketmine_1_1item_1_1_boat_type.html", null ],
     [ "Book", "d3/d6c/classpocketmine_1_1item_1_1_book.html", "d3/d6c/classpocketmine_1_1item_1_1_book" ],
     [ "Bow", "d5/dbc/classpocketmine_1_1item_1_1_bow.html", "d5/dbc/classpocketmine_1_1item_1_1_bow" ],
     [ "Bowl", "db/d8c/classpocketmine_1_1item_1_1_bowl.html", "db/d8c/classpocketmine_1_1item_1_1_bowl" ],

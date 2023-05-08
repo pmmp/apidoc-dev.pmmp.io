@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-17fe894229c14349841a17c0fe4c7cf545b00203</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-6f0eb019d2797155ee6533cce02d016886fd88b9</span>
    </div>
   </td>
  </tr>
@@ -109,8 +109,8 @@ $(document).ready(function(){initNavTree('da/d25/classpocketmine_1_1network_1_1m
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a3d94f521f2a5b1a2396ae32540b09c91"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d25/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary.html#a3d94f521f2a5b1a2396ae32540b09c91">__construct</a> (private array $states)</td></tr>
 <tr class="separator:a3d94f521f2a5b1a2396ae32540b09c91"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0ce70d33de01732a4a3199c50ca955f6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d25/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary.html#a0ce70d33de01732a4a3199c50ca955f6">getDataFromStateId</a> (int $networkRuntimeId)</td></tr>
-<tr class="separator:a0ce70d33de01732a4a3199c50ca955f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a917565e8d6090d8874c5b6956ddfe017"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d25/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary.html#a917565e8d6090d8874c5b6956ddfe017">generateDataFromStateId</a> (int $networkRuntimeId)</td></tr>
+<tr class="separator:a917565e8d6090d8874c5b6956ddfe017"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a45eef958e5e271266ffb1835a2d65250"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d25/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary.html#a45eef958e5e271266ffb1835a2d65250">getMetaFromStateId</a> (int $networkRuntimeId)</td></tr>
 <tr class="separator:a45eef958e5e271266ffb1835a2d65250"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a33714033e8c24d69a803c58d11bf7afe"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d25/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary.html#a33714033e8c24d69a803c58d11bf7afe">getStates</a> ()</td></tr>
@@ -130,7 +130,7 @@ Static Public Member Functions</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p >Handles translation of network block runtime IDs into blockstate data, and vice versa </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html#l00044">44</a> of file <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html">BlockStateDictionary.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html#l00045">45</a> of file <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html">BlockStateDictionary.php</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a3d94f521f2a5b1a2396ae32540b09c91" name="a3d94f521f2a5b1a2396ae32540b09c91"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a3d94f521f2a5b1a2396ae32540b09c91">&#9670;&nbsp;</a></span>__construct()</h2>
@@ -155,19 +155,29 @@ Static Public Member Functions</h2></td></tr>
 </dl>
 <p>@phpstan-param list&lt;BlockStateDictionaryEntry&gt; $states </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html#l00058">58</a> of file <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html">BlockStateDictionary.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html#l00063">63</a> of file <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html">BlockStateDictionary.php</a>.</p>
+
+<p class="reference">References <a class="el" href="../../de/dca/_utils_8php_source.html#l00579">pocketmine\utils\Utils\stringifyKeys()</a>.</p>
+<div id="dynsection-1" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-1-trigger" src="../../closed.png" alt="+"/> Here is the call graph for this function:</div>
+<div id="dynsection-1-summary" class="dynsummary" style="display:block;">
+</div>
+<div id="dynsection-1-content" class="dyncontent" style="display:none;">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../da/d25/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary_a3d94f521f2a5b1a2396ae32540b09c91_cgraph.svg" width="479" height="67"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a0ce70d33de01732a4a3199c50ca955f6" name="a0ce70d33de01732a4a3199c50ca955f6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0ce70d33de01732a4a3199c50ca955f6">&#9670;&nbsp;</a></span>getDataFromStateId()</h2>
+<a id="a917565e8d6090d8874c5b6956ddfe017" name="a917565e8d6090d8874c5b6956ddfe017"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a917565e8d6090d8874c5b6956ddfe017">&#9670;&nbsp;</a></span>generateDataFromStateId()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">pocketmine\network\mcpe\convert\BlockStateDictionary::getDataFromStateId </td>
+          <td class="memname">pocketmine\network\mcpe\convert\BlockStateDictionary::generateDataFromStateId </td>
           <td>(</td>
           <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>$networkRuntimeId</em></td><td>)</td>
@@ -176,7 +186,7 @@ Static Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html#l00081">81</a> of file <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html">BlockStateDictionary.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html#l00108">108</a> of file <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html">BlockStateDictionary.php</a>.</p>
 
 </div>
 </div>
@@ -197,7 +207,7 @@ Static Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <p >Returns the blockstate meta value associated with the given blockstate runtime ID. This is used for serializing crafting recipe inputs. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html#l00097">97</a> of file <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html">BlockStateDictionary.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html#l00131">131</a> of file <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html">BlockStateDictionary.php</a>.</p>
 
 </div>
 </div>
@@ -217,7 +227,7 @@ Static Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <p >Returns an array mapping runtime ID =&gt; blockstate data. </p><dl class="section return"><dt>Returns</dt><dd><a class="el" href="../../d1/d2e/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary_entry.html">BlockStateDictionaryEntry</a>[] @phpstan-return array&lt;int, BlockStateDictionaryEntry&gt; </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html#l00114">114</a> of file <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html">BlockStateDictionary.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html#l00153">153</a> of file <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html">BlockStateDictionary.php</a>.</p>
 
 </div>
 </div>
@@ -255,7 +265,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html#l00161">161</a> of file <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html">BlockStateDictionary.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html#l00168">168</a> of file <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html">BlockStateDictionary.php</a>.</p>
 
 </div>
 </div>
@@ -290,17 +300,7 @@ Static Public Member Functions</h2></td></tr>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html#l00149">149</a> of file <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html">BlockStateDictionary.php</a>.</p>
-
-<p class="reference">References <a class="el" href="../../de/d8d/_tree_root_8php_source.html#l00054">pocketmine\nbt\TreeRoot\mustGetCompoundTag()</a>.</p>
-<div id="dynsection-1" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-1-trigger" src="../../closed.png" alt="+"/> Here is the call graph for this function:</div>
-<div id="dynsection-1-summary" class="dynsummary" style="display:block;">
-</div>
-<div id="dynsection-1-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../da/d25/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary_a63c5c20648d363ec5263c31e510cbe6f_cgraph.svg" width="499" height="67"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
-</div>
+<p class="definition">Definition at line <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html#l00161">161</a> of file <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html">BlockStateDictionary.php</a>.</p>
 
 </div>
 </div>
@@ -321,7 +321,17 @@ Static Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <p >Searches for the appropriate state ID which matches the given blockstate NBT. Returns null if there were no matches. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html#l00089">89</a> of file <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html">BlockStateDictionary.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html#l00116">116</a> of file <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html">BlockStateDictionary.php</a>.</p>
+
+<p class="reference">References <a class="el" href="../../d6/d1e/_block_state_data_8php_source.html#l00075">pocketmine\data\bedrock\block\BlockStateData\getStates()</a>.</p>
+<div id="dynsection-2" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-2-trigger" src="../../closed.png" alt="+"/> Here is the call graph for this function:</div>
+<div id="dynsection-2-summary" class="dynsummary" style="display:block;">
+</div>
+<div id="dynsection-2-content" class="dyncontent" style="display:none;">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../da/d25/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary_a7486a9abdbbf4cf7baeb02b4283c0a1c_cgraph.svg" width="502" height="67"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
 
 </div>
 </div>
@@ -352,7 +362,7 @@ Static Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <p >Returns the blockstate data associated with the given block ID and meta value. This is used for deserializing crafting recipe inputs. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html#l00105">105</a> of file <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html">BlockStateDictionary.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html#l00139">139</a> of file <a class="el" href="../../dd/d6f/_block_state_dictionary_8php_source.html">BlockStateDictionary.php</a>.</p>
 
 </div>
 </div>

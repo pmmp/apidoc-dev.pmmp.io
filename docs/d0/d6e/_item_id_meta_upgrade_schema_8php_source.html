@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-17fe894229c14349841a17c0fe4c7cf545b00203</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-6f0eb019d2797155ee6533cce02d016886fd88b9</span>
    </div>
   </td>
  </tr>
@@ -129,15 +129,21 @@ $(document).ready(function(){initNavTree('d0/d6e/_item_id_meta_upgrade_schema_8p
 <div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span> </div>
 <div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>    <span class="keyword">public</span> <span class="keyword">function</span> getSchemaId() : int{ return $this-&gt;schemaId; }</div>
 <div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span> </div>
-<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>    <span class="keyword">public</span> <span class="keyword">function</span> renameId(<span class="keywordtype">string</span> $id) : ?string{</div>
-<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>        return $this-&gt;renamedIds[mb_strtolower($id, <span class="stringliteral">&#39;US-ASCII&#39;</span>)] ?? null;</div>
-<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>    }</div>
-<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span> </div>
-<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>    <span class="keyword">public</span> <span class="keyword">function</span> remapMeta(<span class="keywordtype">string</span> $id, <span class="keywordtype">int</span> $meta) : ?string{</div>
-<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>        return $this-&gt;remappedMetas[mb_strtolower($id, <span class="stringliteral">&#39;US-ASCII&#39;</span>)][$meta] ?? null;</div>
-<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>    }</div>
-<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>}</div>
+<div class="line"><a id="l00048" name="l00048"></a><span class="lineno"><a class="line" href="../../dd/df4/classpocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_item_id_meta_upgrade_schema.html#a4c49ef901a2d06bc72a739c3b0e753bc">   48</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../dd/df4/classpocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_item_id_meta_upgrade_schema.html#a4c49ef901a2d06bc72a739c3b0e753bc">getRenamedIds</a>() : array{ return $this-&gt;renamedIds; }</div>
+<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span> </div>
+<div class="line"><a id="l00054" name="l00054"></a><span class="lineno"><a class="line" href="../../dd/df4/classpocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_item_id_meta_upgrade_schema.html#aa0df48056116ce3c33588e88e6436b7d">   54</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../dd/df4/classpocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_item_id_meta_upgrade_schema.html#aa0df48056116ce3c33588e88e6436b7d">getRemappedMetas</a>() : array{ return $this-&gt;remappedMetas; }</div>
+<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span> </div>
+<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>    <span class="keyword">public</span> <span class="keyword">function</span> renameId(<span class="keywordtype">string</span> $id) : ?string{</div>
+<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>        return $this-&gt;renamedIds[mb_strtolower($id, <span class="stringliteral">&#39;US-ASCII&#39;</span>)] ?? null;</div>
+<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>    }</div>
+<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span> </div>
+<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>    <span class="keyword">public</span> <span class="keyword">function</span> remapMeta(<span class="keywordtype">string</span> $id, <span class="keywordtype">int</span> $meta) : ?string{</div>
+<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>        return $this-&gt;remappedMetas[mb_strtolower($id, <span class="stringliteral">&#39;US-ASCII&#39;</span>)][$meta] ?? null;</div>
+<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>    }</div>
+<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>}</div>
 <div class="ttc" id="aclasspocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_item_id_meta_upgrade_schema_html"><div class="ttname"><a href="../../dd/df4/classpocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_item_id_meta_upgrade_schema.html">pocketmine\data\bedrock\item\upgrade\ItemIdMetaUpgradeSchema</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d6e/_item_id_meta_upgrade_schema_8php_source.html#l00028">ItemIdMetaUpgradeSchema.php:28</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_item_id_meta_upgrade_schema_html_a4c49ef901a2d06bc72a739c3b0e753bc"><div class="ttname"><a href="../../dd/df4/classpocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_item_id_meta_upgrade_schema.html#a4c49ef901a2d06bc72a739c3b0e753bc">pocketmine\data\bedrock\item\upgrade\ItemIdMetaUpgradeSchema\getRenamedIds</a></div><div class="ttdeci">getRenamedIds()</div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d6e/_item_id_meta_upgrade_schema_8php_source.html#l00048">ItemIdMetaUpgradeSchema.php:48</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_item_id_meta_upgrade_schema_html_aa0df48056116ce3c33588e88e6436b7d"><div class="ttname"><a href="../../dd/df4/classpocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_item_id_meta_upgrade_schema.html#aa0df48056116ce3c33588e88e6436b7d">pocketmine\data\bedrock\item\upgrade\ItemIdMetaUpgradeSchema\getRemappedMetas</a></div><div class="ttdeci">getRemappedMetas()</div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d6e/_item_id_meta_upgrade_schema_8php_source.html#l00054">ItemIdMetaUpgradeSchema.php:54</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_item_id_meta_upgrade_schema_html_ab2916b0020f25c0422bd17eb69832f33"><div class="ttname"><a href="../../dd/df4/classpocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_item_id_meta_upgrade_schema.html#ab2916b0020f25c0422bd17eb69832f33">pocketmine\data\bedrock\item\upgrade\ItemIdMetaUpgradeSchema\__construct</a></div><div class="ttdeci">__construct(private array $renamedIds, private array $remappedMetas, private int $schemaId)</div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d6e/_item_id_meta_upgrade_schema_8php_source.html#l00036">ItemIdMetaUpgradeSchema.php:36</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->

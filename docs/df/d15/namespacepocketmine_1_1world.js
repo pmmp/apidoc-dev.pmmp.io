@@ -216,7 +216,6 @@ var namespacepocketmine_1_1world =
     [ "Explosion", "d9/df8/classpocketmine_1_1world_1_1_explosion.html", "d9/df8/classpocketmine_1_1world_1_1_explosion" ],
     [ "Position", "d5/dd2/classpocketmine_1_1world_1_1_position.html", "d5/dd2/classpocketmine_1_1world_1_1_position" ],
     [ "SimpleChunkManager", "dc/d3e/classpocketmine_1_1world_1_1_simple_chunk_manager.html", "dc/d3e/classpocketmine_1_1world_1_1_simple_chunk_manager" ],
-    [ "TickingChunkEntry", "d1/d78/classpocketmine_1_1world_1_1_ticking_chunk_entry.html", null ],
     [ "World", "d4/d2b/classpocketmine_1_1world_1_1_world.html", "d4/d2b/classpocketmine_1_1world_1_1_world" ],
     [ "WorldCreationOptions", "d0/d15/classpocketmine_1_1world_1_1_world_creation_options.html", "d0/d15/classpocketmine_1_1world_1_1_world_creation_options" ],
     [ "WorldException", "d1/d24/classpocketmine_1_1world_1_1_world_exception.html", null ],

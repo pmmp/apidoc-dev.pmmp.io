@@ -203,7 +203,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="166" y="-722.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRainTime()</text>
 <text text-anchor="start" x="166" y="-711.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSeed()</text>
 <text text-anchor="start" x="166" y="-700.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSpawn()</text>
-<text text-anchor="start" x="166" y="-689.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 9 more...</text>
+<text text-anchor="start" x="166" y="-689.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 10 more...</text>
 </a>
 </g>
 </g>

@@ -83,12 +83,12 @@ var annotated_dup =
           [ "MushroomBlockType", "de/d72/classpocketmine_1_1block_1_1utils_1_1_mushroom_block_type.html", null ],
           [ "RailConnectionInfo", "d7/df9/classpocketmine_1_1block_1_1utils_1_1_rail_connection_info.html", null ],
           [ "RecordType", "d6/d93/classpocketmine_1_1block_1_1utils_1_1_record_type.html", null ],
+          [ "SaplingType", "dd/d77/classpocketmine_1_1block_1_1utils_1_1_sapling_type.html", null ],
           [ "SignText", "d3/d1c/classpocketmine_1_1block_1_1utils_1_1_sign_text.html", "d3/d1c/classpocketmine_1_1block_1_1utils_1_1_sign_text" ],
           [ "SkullType", "d8/dbc/classpocketmine_1_1block_1_1utils_1_1_skull_type.html", null ],
           [ "SlabType", "dd/da9/classpocketmine_1_1block_1_1utils_1_1_slab_type.html", null ],
           [ "StairShape", "df/d5a/classpocketmine_1_1block_1_1utils_1_1_stair_shape.html", null ],
           [ "SupportType", "d2/dbe/classpocketmine_1_1block_1_1utils_1_1_support_type.html", null ],
-          [ "TreeType", "d7/de7/classpocketmine_1_1block_1_1utils_1_1_tree_type.html", null ],
           [ "WallConnectionType", "d1/dfb/classpocketmine_1_1block_1_1utils_1_1_wall_connection_type.html", null ],
           [ "WoodType", "d8/d35/classpocketmine_1_1block_1_1utils_1_1_wood_type.html", null ]
         ] ],
@@ -112,7 +112,6 @@ var annotated_dup =
         [ "Block", "d7/d27/classpocketmine_1_1block_1_1_block.html", "d7/d27/classpocketmine_1_1block_1_1_block" ],
         [ "BlockBreakInfo", "d3/d10/classpocketmine_1_1block_1_1_block_break_info.html", "d3/d10/classpocketmine_1_1block_1_1_block_break_info" ],
         [ "BlockIdentifier", "dd/d18/classpocketmine_1_1block_1_1_block_identifier.html", "dd/d18/classpocketmine_1_1block_1_1_block_identifier" ],
-        [ "BlockLegacyIdHelper", "d8/d6b/classpocketmine_1_1block_1_1_block_legacy_id_helper.html", "d8/d6b/classpocketmine_1_1block_1_1_block_legacy_id_helper" ],
         [ "BlockToolType", "dd/d5a/classpocketmine_1_1block_1_1_block_tool_type.html", null ],
         [ "BlockTypeIds", "db/dbe/classpocketmine_1_1block_1_1_block_type_ids.html", "db/dbe/classpocketmine_1_1block_1_1_block_type_ids" ],
         [ "BlockTypeInfo", "de/d9a/classpocketmine_1_1block_1_1_block_type_info.html", "de/d9a/classpocketmine_1_1block_1_1_block_type_info" ],
@@ -324,6 +323,7 @@ var annotated_dup =
         [ "WoodenSlab", "df/d7b/classpocketmine_1_1block_1_1_wooden_slab.html", "df/d7b/classpocketmine_1_1block_1_1_wooden_slab" ],
         [ "WoodenStairs", "dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs.html", "dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs" ],
         [ "WoodenTrapdoor", "d3/da4/classpocketmine_1_1block_1_1_wooden_trapdoor.html", "d3/da4/classpocketmine_1_1block_1_1_wooden_trapdoor" ],
+        [ "WoodLikeBlockIdHelper", "d9/de8/classpocketmine_1_1block_1_1_wood_like_block_id_helper.html", "d9/de8/classpocketmine_1_1block_1_1_wood_like_block_id_helper" ],
         [ "Wool", "da/d71/classpocketmine_1_1block_1_1_wool.html", "da/d71/classpocketmine_1_1block_1_1_wool" ]
       ] ],
       [ "color", null, [
@@ -447,7 +447,7 @@ var annotated_dup =
                 [ "BlockStateUpgradeSchemaModelTag", "d0/d06/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_tag.html", null ],
                 [ "BlockStateUpgradeSchemaModelValueRemap", "d5/d5f/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_value_remap.html", "d5/d5f/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_value_remap" ]
               ] ],
-              [ "BlockDataUpgrader", "d2/dcf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_data_upgrader.html", null ],
+              [ "BlockDataUpgrader", "d2/dcf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_data_upgrader.html", "d2/dcf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_data_upgrader" ],
               [ "BlockIdMetaUpgrader", "df/db9/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_id_meta_upgrader.html", "df/db9/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_id_meta_upgrader" ],
               [ "BlockStateUpgrader", "d3/d19/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrader.html", "d3/d19/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrader" ],
               [ "BlockStateUpgradeSchema", "de/d35/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema.html", "de/d35/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema" ],
@@ -738,6 +738,7 @@ var annotated_dup =
           [ "ChunkPopulateEvent", "dd/d9c/classpocketmine_1_1event_1_1world_1_1_chunk_populate_event.html", "dd/d9c/classpocketmine_1_1event_1_1world_1_1_chunk_populate_event" ],
           [ "ChunkUnloadEvent", "d1/df4/classpocketmine_1_1event_1_1world_1_1_chunk_unload_event.html", "d1/df4/classpocketmine_1_1event_1_1world_1_1_chunk_unload_event" ],
           [ "SpawnChangeEvent", "d3/d42/classpocketmine_1_1event_1_1world_1_1_spawn_change_event.html", "d3/d42/classpocketmine_1_1event_1_1world_1_1_spawn_change_event" ],
+          [ "WorldDisplayNameChangeEvent", "da/d8e/classpocketmine_1_1event_1_1world_1_1_world_display_name_change_event.html", "da/d8e/classpocketmine_1_1event_1_1world_1_1_world_display_name_change_event" ],
           [ "WorldEvent", "d9/d97/classpocketmine_1_1event_1_1world_1_1_world_event.html", "d9/d97/classpocketmine_1_1event_1_1world_1_1_world_event" ],
           [ "WorldInitEvent", "da/d9d/classpocketmine_1_1event_1_1world_1_1_world_init_event.html", "da/d9d/classpocketmine_1_1event_1_1world_1_1_world_init_event" ],
           [ "WorldLoadEvent", "dc/d09/classpocketmine_1_1event_1_1world_1_1_world_load_event.html", "dc/d09/classpocketmine_1_1event_1_1world_1_1_world_load_event" ],
@@ -820,6 +821,7 @@ var annotated_dup =
         [ "BeetrootSoup", "df/d75/classpocketmine_1_1item_1_1_beetroot_soup.html", "df/d75/classpocketmine_1_1item_1_1_beetroot_soup" ],
         [ "BlazeRod", "d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html", "d8/d16/classpocketmine_1_1item_1_1_blaze_rod" ],
         [ "Boat", "d6/d41/classpocketmine_1_1item_1_1_boat.html", "d6/d41/classpocketmine_1_1item_1_1_boat" ],
+        [ "BoatType", "d3/d85/classpocketmine_1_1item_1_1_boat_type.html", null ],
         [ "Book", "d3/d6c/classpocketmine_1_1item_1_1_book.html", "d3/d6c/classpocketmine_1_1item_1_1_book" ],
         [ "Bow", "d5/dbc/classpocketmine_1_1item_1_1_bow.html", "d5/dbc/classpocketmine_1_1item_1_1_bow" ],
         [ "Bowl", "db/d8c/classpocketmine_1_1item_1_1_bowl.html", "db/d8c/classpocketmine_1_1item_1_1_bowl" ],
@@ -994,15 +996,12 @@ var annotated_dup =
           ] ],
           [ "convert", null, [
             [ "BlockStateDictionary", "da/d25/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary.html", "da/d25/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary" ],
-            [ "BlockStateDictionaryEntry", "d1/d2e/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary_entry.html", null ],
-            [ "BlockStateLookupCache", "db/dd9/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_lookup_cache.html", "db/dd9/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_lookup_cache" ],
-            [ "GlobalItemTypeDictionary", "d2/d68/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_global_item_type_dictionary.html", null ],
+            [ "BlockStateDictionaryEntry", "d1/d2e/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary_entry.html", "d1/d2e/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary_entry" ],
+            [ "BlockTranslator", "d8/d98/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_translator.html", "d8/d98/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_translator" ],
             [ "ItemTranslator", "d6/dbd/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_item_translator.html", "d6/dbd/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_item_translator" ],
             [ "ItemTypeDictionaryFromDataHelper", "d6/dfe/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_item_type_dictionary_from_data_helper.html", null ],
             [ "LegacySkinAdapter", "d3/de8/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_legacy_skin_adapter.html", "d3/de8/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_legacy_skin_adapter" ],
-            [ "RuntimeBlockMapping", "d5/dfe/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_runtime_block_mapping.html", "d5/dfe/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_runtime_block_mapping" ],
             [ "SkinAdapter", "d2/d77/interfacepocketmine_1_1network_1_1mcpe_1_1convert_1_1_skin_adapter.html", "d2/d77/interfacepocketmine_1_1network_1_1mcpe_1_1convert_1_1_skin_adapter" ],
-            [ "SkinAdapterSingleton", "d4/d6d/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_skin_adapter_singleton.html", null ],
             [ "TypeConversionException", "dd/de4/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_type_conversion_exception.html", null ],
             [ "TypeConverter", "d8/d07/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_type_converter.html", "d8/d07/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_type_converter" ]
           ] ],
@@ -1016,7 +1015,7 @@ var annotated_dup =
             [ "DeathPacketHandler", "d9/dca/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_death_packet_handler.html", null ],
             [ "HandshakePacketHandler", "d5/d2e/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_handshake_packet_handler.html", "d5/d2e/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_handshake_packet_handler" ],
             [ "InGamePacketHandler", "d9/ded/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_in_game_packet_handler.html", null ],
-            [ "ItemStackContainerIdTranslator", "d7/d96/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_item_stack_container_id_translator.html", null ],
+            [ "ItemStackContainerIdTranslator", "d7/d96/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_item_stack_container_id_translator.html", "d7/d96/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_item_stack_container_id_translator" ],
             [ "ItemStackRequestExecutor", "dd/d0a/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_item_stack_request_executor.html", "dd/d0a/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_item_stack_request_executor" ],
             [ "ItemStackRequestProcessException", "d7/d1f/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_item_stack_request_process_exception.html", null ],
             [ "ItemStackResponseBuilder", "dd/d6f/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_item_stack_response_builder.html", null ],
@@ -1598,7 +1597,7 @@ var annotated_dup =
         [ "Worker", "d2/d42/classpocketmine_1_1thread_1_1_worker.html", "d2/d42/classpocketmine_1_1thread_1_1_worker" ]
       ] ],
       [ "timings", null, [
-        [ "Timings", "de/d8c/classpocketmine_1_1timings_1_1_timings.html", null ],
+        [ "Timings", "de/d8c/classpocketmine_1_1timings_1_1_timings.html", "de/d8c/classpocketmine_1_1timings_1_1_timings" ],
         [ "TimingsHandler", "d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html", "d7/d9b/classpocketmine_1_1timings_1_1_timings_handler" ],
         [ "TimingsRecord", "da/df9/classpocketmine_1_1timings_1_1_timings_record.html", "da/df9/classpocketmine_1_1timings_1_1_timings_record" ]
       ] ],
@@ -1733,7 +1732,8 @@ var annotated_dup =
             [ "SpruceTree", "dd/dff/classpocketmine_1_1world_1_1generator_1_1object_1_1_spruce_tree.html", "dd/dff/classpocketmine_1_1world_1_1generator_1_1object_1_1_spruce_tree" ],
             [ "TallGrass", "d1/de9/classpocketmine_1_1world_1_1generator_1_1object_1_1_tall_grass.html", null ],
             [ "Tree", "d2/da7/classpocketmine_1_1world_1_1generator_1_1object_1_1_tree.html", "d2/da7/classpocketmine_1_1world_1_1generator_1_1object_1_1_tree" ],
-            [ "TreeFactory", "da/d12/classpocketmine_1_1world_1_1generator_1_1object_1_1_tree_factory.html", "da/d12/classpocketmine_1_1world_1_1generator_1_1object_1_1_tree_factory" ]
+            [ "TreeFactory", "da/d12/classpocketmine_1_1world_1_1generator_1_1object_1_1_tree_factory.html", "da/d12/classpocketmine_1_1world_1_1generator_1_1object_1_1_tree_factory" ],
+            [ "TreeType", "d6/d14/classpocketmine_1_1world_1_1generator_1_1object_1_1_tree_type.html", null ]
           ] ],
           [ "populator", "d1/d99/namespacepocketmine_1_1world_1_1generator_1_1populator.html", [
             [ "GroundCover", "d3/d77/classpocketmine_1_1world_1_1generator_1_1populator_1_1_ground_cover.html", null ],
@@ -1900,7 +1900,6 @@ var annotated_dup =
         [ "Explosion", "d9/df8/classpocketmine_1_1world_1_1_explosion.html", "d9/df8/classpocketmine_1_1world_1_1_explosion" ],
         [ "Position", "d5/dd2/classpocketmine_1_1world_1_1_position.html", "d5/dd2/classpocketmine_1_1world_1_1_position" ],
         [ "SimpleChunkManager", "dc/d3e/classpocketmine_1_1world_1_1_simple_chunk_manager.html", "dc/d3e/classpocketmine_1_1world_1_1_simple_chunk_manager" ],
-        [ "TickingChunkEntry", "d1/d78/classpocketmine_1_1world_1_1_ticking_chunk_entry.html", null ],
         [ "World", "d4/d2b/classpocketmine_1_1world_1_1_world.html", "d4/d2b/classpocketmine_1_1world_1_1_world" ],
         [ "WorldCreationOptions", "d0/d15/classpocketmine_1_1world_1_1_world_creation_options.html", "d0/d15/classpocketmine_1_1world_1_1_world_creation_options" ],
         [ "WorldException", "d1/d24/classpocketmine_1_1world_1_1_world_exception.html", null ],
