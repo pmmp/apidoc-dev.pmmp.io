@@ -44,6 +44,7 @@ var dir_46a300e4974f45ffe4be063a03f2fd9d =
     [ "CartographyTable.php", "d5/d83/_cartography_table_8php_source.html", null ],
     [ "CarvedPumpkin.php", "de/ddd/_carved_pumpkin_8php_source.html", null ],
     [ "Cauldron.php", "d2/d66/_cauldron_8php_source.html", null ],
+    [ "CaveVines.php", "df/d10/_cave_vines_8php_source.html", null ],
     [ "Chain.php", "d1/da5/_chain_8php_source.html", null ],
     [ "ChemicalHeat.php", "d0/d90/_chemical_heat_8php_source.html", null ],
     [ "ChemistryTable.php", "d6/d19/_chemistry_table_8php_source.html", null ],

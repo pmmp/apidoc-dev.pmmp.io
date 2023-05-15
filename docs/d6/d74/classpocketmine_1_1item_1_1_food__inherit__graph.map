@@ -1,5 +1,5 @@
 <map id="pocketmine\item\Food" name="pocketmine\item\Food">
-<area shape="rect" id="node1" title=" " alt="" coords="4378,821,4557,957"/>
+<area shape="rect" id="node1" title=" " alt="" coords="4505,821,4683,957"/>
 <area shape="rect" id="node9" href="$dd/dd1/classpocketmine_1_1item_1_1_apple.html" title=" " alt="" coords="5,1064,191,1156"/>
 <area shape="rect" id="node10" href="$d2/d25/classpocketmine_1_1item_1_1_baked_potato.html" title=" " alt="" coords="215,1064,434,1156"/>
 <area shape="rect" id="node11" href="$d2/dd2/classpocketmine_1_1item_1_1_beetroot.html" title=" " alt="" coords="458,1064,650,1156"/>
@@ -16,34 +16,35 @@
 <area shape="rect" id="node22" href="$dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html" title=" " alt="" coords="3067,1064,3300,1156"/>
 <area shape="rect" id="node23" href="$d9/d0a/classpocketmine_1_1item_1_1_cookie.html" title=" " alt="" coords="3324,1064,3509,1156"/>
 <area shape="rect" id="node24" href="$d8/d04/classpocketmine_1_1item_1_1_dried_kelp.html" title=" " alt="" coords="3533,1064,3732,1156"/>
-<area shape="rect" id="node25" href="$db/dc4/classpocketmine_1_1item_1_1_golden_apple.html" title=" " alt="" coords="3757,1049,3975,1171"/>
-<area shape="rect" id="node27" href="$d3/d87/classpocketmine_1_1item_1_1_golden_carrot.html" title=" " alt="" coords="4000,1064,4223,1156"/>
-<area shape="rect" id="node28" href="$d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html" title=" " alt="" coords="4247,1035,4464,1185"/>
-<area shape="rect" id="node29" href="$d7/da1/classpocketmine_1_1item_1_1_melon.html" title=" " alt="" coords="4488,1064,4673,1156"/>
-<area shape="rect" id="node30" href="$dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html" title=" " alt="" coords="4698,1049,4935,1171"/>
-<area shape="rect" id="node31" href="$d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html" title=" " alt="" coords="4959,1049,5162,1171"/>
-<area shape="rect" id="node32" href="$db/d9d/classpocketmine_1_1item_1_1_potato.html" title=" " alt="" coords="5187,1057,5372,1163"/>
-<area shape="rect" id="node33" href="$d6/d29/classpocketmine_1_1item_1_1_pufferfish.html" title=" " alt="" coords="5397,1057,5594,1163"/>
-<area shape="rect" id="node34" href="$d3/da8/classpocketmine_1_1item_1_1_pumpkin_pie.html" title=" " alt="" coords="5618,1064,5831,1156"/>
-<area shape="rect" id="node35" href="$d9/dda/classpocketmine_1_1item_1_1_rabbit_stew.html" title=" " alt="" coords="5855,1049,6066,1171"/>
-<area shape="rect" id="node36" href="$d9/d44/classpocketmine_1_1item_1_1_raw_beef.html" title=" " alt="" coords="6090,1064,6285,1156"/>
-<area shape="rect" id="node37" href="$df/d8a/classpocketmine_1_1item_1_1_raw_chicken.html" title=" " alt="" coords="6309,1057,6524,1163"/>
-<area shape="rect" id="node38" href="$d6/d9e/classpocketmine_1_1item_1_1_raw_fish.html" title=" " alt="" coords="6548,1064,6739,1156"/>
-<area shape="rect" id="node39" href="$d4/dc8/classpocketmine_1_1item_1_1_raw_mutton.html" title=" " alt="" coords="6763,1064,6974,1156"/>
-<area shape="rect" id="node40" href="$d7/dfe/classpocketmine_1_1item_1_1_raw_porkchop.html" title=" " alt="" coords="6998,1064,7222,1156"/>
-<area shape="rect" id="node41" href="$d3/d58/classpocketmine_1_1item_1_1_raw_rabbit.html" title=" " alt="" coords="7247,1064,7453,1156"/>
-<area shape="rect" id="node42" href="$df/da2/classpocketmine_1_1item_1_1_raw_salmon.html" title=" " alt="" coords="7478,1064,7691,1156"/>
-<area shape="rect" id="node43" href="$dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html" title=" " alt="" coords="7716,1057,7931,1163"/>
-<area shape="rect" id="node44" href="$d8/d83/classpocketmine_1_1item_1_1_spider_eye.html" title=" " alt="" coords="7955,1057,8156,1163"/>
-<area shape="rect" id="node45" href="$df/dac/classpocketmine_1_1item_1_1_steak.html" title=" " alt="" coords="8180,1064,8365,1156"/>
-<area shape="rect" id="node46" href="$d5/d12/classpocketmine_1_1item_1_1_suspicious_stew.html" title=" " alt="" coords="8390,1005,8627,1215"/>
-<area shape="rect" id="node47" href="$d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html" title=" " alt="" coords="8651,1057,8873,1163"/>
-<area shape="rect" id="node2" href="$d5/d8a/classpocketmine_1_1item_1_1_item.html" title=" " alt="" coords="4237,300,4447,773"/>
-<area shape="rect" id="node3" title=" " alt="" coords="4279,160,4405,237"/>
-<area shape="rect" id="node4" href="$de/d44/interfacepocketmine_1_1item_1_1_food_source_item.html" title=" " alt="" coords="4472,498,4713,575"/>
-<area shape="rect" id="node5" href="$d2/de2/interfacepocketmine_1_1item_1_1_consumable_item.html" title=" " alt="" coords="4449,160,4696,237"/>
-<area shape="rect" id="node6" href="$db/d3f/interfacepocketmine_1_1entity_1_1_consumable.html" title=" " alt="" coords="4709,5,4935,97"/>
-<area shape="rect" id="node8" href="$df/dfd/interfacepocketmine_1_1entity_1_1_food_source.html" title=" " alt="" coords="4721,145,4939,252"/>
-<area shape="rect" id="node7" href="$d4/d35/interfacepocketmine_1_1item_1_1_releasable.html" title=" " alt="" coords="4469,13,4677,90"/>
-<area shape="rect" id="node26" href="$d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html" title=" " alt="" coords="3757,1263,3975,1355"/>
+<area shape="rect" id="node25" href="$d0/d18/classpocketmine_1_1item_1_1_glow_berries.html" title=" " alt="" coords="3756,1057,3971,1163"/>
+<area shape="rect" id="node26" href="$db/dc4/classpocketmine_1_1item_1_1_golden_apple.html" title=" " alt="" coords="3995,1049,4214,1171"/>
+<area shape="rect" id="node28" href="$d3/d87/classpocketmine_1_1item_1_1_golden_carrot.html" title=" " alt="" coords="4239,1064,4461,1156"/>
+<area shape="rect" id="node29" href="$d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html" title=" " alt="" coords="4485,1035,4703,1185"/>
+<area shape="rect" id="node30" href="$d7/da1/classpocketmine_1_1item_1_1_melon.html" title=" " alt="" coords="4727,1064,4912,1156"/>
+<area shape="rect" id="node31" href="$dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html" title=" " alt="" coords="4937,1049,5174,1171"/>
+<area shape="rect" id="node32" href="$d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html" title=" " alt="" coords="5198,1049,5401,1171"/>
+<area shape="rect" id="node33" href="$db/d9d/classpocketmine_1_1item_1_1_potato.html" title=" " alt="" coords="5425,1057,5611,1163"/>
+<area shape="rect" id="node34" href="$d6/d29/classpocketmine_1_1item_1_1_pufferfish.html" title=" " alt="" coords="5635,1057,5833,1163"/>
+<area shape="rect" id="node35" href="$d3/da8/classpocketmine_1_1item_1_1_pumpkin_pie.html" title=" " alt="" coords="5857,1064,6070,1156"/>
+<area shape="rect" id="node36" href="$d9/dda/classpocketmine_1_1item_1_1_rabbit_stew.html" title=" " alt="" coords="6094,1049,6305,1171"/>
+<area shape="rect" id="node37" href="$d9/d44/classpocketmine_1_1item_1_1_raw_beef.html" title=" " alt="" coords="6329,1064,6523,1156"/>
+<area shape="rect" id="node38" href="$df/d8a/classpocketmine_1_1item_1_1_raw_chicken.html" title=" " alt="" coords="6548,1057,6763,1163"/>
+<area shape="rect" id="node39" href="$d6/d9e/classpocketmine_1_1item_1_1_raw_fish.html" title=" " alt="" coords="6787,1064,6977,1156"/>
+<area shape="rect" id="node40" href="$d4/dc8/classpocketmine_1_1item_1_1_raw_mutton.html" title=" " alt="" coords="7002,1064,7213,1156"/>
+<area shape="rect" id="node41" href="$d7/dfe/classpocketmine_1_1item_1_1_raw_porkchop.html" title=" " alt="" coords="7237,1064,7461,1156"/>
+<area shape="rect" id="node42" href="$d3/d58/classpocketmine_1_1item_1_1_raw_rabbit.html" title=" " alt="" coords="7485,1064,7692,1156"/>
+<area shape="rect" id="node43" href="$df/da2/classpocketmine_1_1item_1_1_raw_salmon.html" title=" " alt="" coords="7717,1064,7930,1156"/>
+<area shape="rect" id="node44" href="$dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html" title=" " alt="" coords="7955,1057,8169,1163"/>
+<area shape="rect" id="node45" href="$d8/d83/classpocketmine_1_1item_1_1_spider_eye.html" title=" " alt="" coords="8193,1057,8395,1163"/>
+<area shape="rect" id="node46" href="$df/dac/classpocketmine_1_1item_1_1_steak.html" title=" " alt="" coords="8419,1064,8604,1156"/>
+<area shape="rect" id="node47" href="$d5/d12/classpocketmine_1_1item_1_1_suspicious_stew.html" title=" " alt="" coords="8629,1005,8866,1215"/>
+<area shape="rect" id="node48" href="$d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html" title=" " alt="" coords="8889,1057,9112,1163"/>
+<area shape="rect" id="node2" href="$d5/d8a/classpocketmine_1_1item_1_1_item.html" title=" " alt="" coords="4363,300,4574,773"/>
+<area shape="rect" id="node3" title=" " alt="" coords="4406,160,4531,237"/>
+<area shape="rect" id="node4" href="$de/d44/interfacepocketmine_1_1item_1_1_food_source_item.html" title=" " alt="" coords="4599,498,4840,575"/>
+<area shape="rect" id="node5" href="$d2/de2/interfacepocketmine_1_1item_1_1_consumable_item.html" title=" " alt="" coords="4576,160,4823,237"/>
+<area shape="rect" id="node6" href="$db/d3f/interfacepocketmine_1_1entity_1_1_consumable.html" title=" " alt="" coords="4836,5,5061,97"/>
+<area shape="rect" id="node8" href="$df/dfd/interfacepocketmine_1_1entity_1_1_food_source.html" title=" " alt="" coords="4847,145,5066,252"/>
+<area shape="rect" id="node7" href="$d4/d35/interfacepocketmine_1_1item_1_1_releasable.html" title=" " alt="" coords="4595,13,4803,90"/>
+<area shape="rect" id="node27" href="$d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html" title=" " alt="" coords="3995,1263,4214,1355"/>
 </map>

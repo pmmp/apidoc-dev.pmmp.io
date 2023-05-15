@@ -173,6 +173,7 @@ var namespacepocketmine_1_1world =
       [ "FurnaceSound", "dd/d28/classpocketmine_1_1world_1_1sound_1_1_furnace_sound.html", "dd/d28/classpocketmine_1_1world_1_1sound_1_1_furnace_sound" ],
       [ "GhastShootSound", "d9/d29/classpocketmine_1_1world_1_1sound_1_1_ghast_shoot_sound.html", "d9/d29/classpocketmine_1_1world_1_1sound_1_1_ghast_shoot_sound" ],
       [ "GhastSound", "d0/d46/classpocketmine_1_1world_1_1sound_1_1_ghast_sound.html", "d0/d46/classpocketmine_1_1world_1_1sound_1_1_ghast_sound" ],
+      [ "GlowBerriesPickSound", "d4/d66/classpocketmine_1_1world_1_1sound_1_1_glow_berries_pick_sound.html", "d4/d66/classpocketmine_1_1world_1_1sound_1_1_glow_berries_pick_sound" ],
       [ "IgniteSound", "d2/d6c/classpocketmine_1_1world_1_1sound_1_1_ignite_sound.html", "d2/d6c/classpocketmine_1_1world_1_1sound_1_1_ignite_sound" ],
       [ "InkSacUseSound", "df/d0d/classpocketmine_1_1world_1_1sound_1_1_ink_sac_use_sound.html", "df/d0d/classpocketmine_1_1world_1_1sound_1_1_ink_sac_use_sound" ],
       [ "ItemBreakSound", "df/d35/classpocketmine_1_1world_1_1sound_1_1_item_break_sound.html", "df/d35/classpocketmine_1_1world_1_1sound_1_1_item_break_sound" ],

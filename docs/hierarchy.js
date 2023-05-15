@@ -231,6 +231,7 @@ var hierarchy =
             [ "pocketmine\\block\\WoodenButton", "da/dba/classpocketmine_1_1block_1_1_wooden_button.html", null ]
           ] ],
           [ "pocketmine\\block\\Carpet", "d8/d55/classpocketmine_1_1block_1_1_carpet.html", null ],
+          [ "pocketmine\\block\\CaveVines", "dc/d11/classpocketmine_1_1block_1_1_cave_vines.html", null ],
           [ "pocketmine\\block\\ChorusFlower", "d8/d5a/classpocketmine_1_1block_1_1_chorus_flower.html", null ],
           [ "pocketmine\\block\\ChorusPlant", "d8/dd4/classpocketmine_1_1block_1_1_chorus_plant.html", null ],
           [ "pocketmine\\block\\Cobweb", "db/ddc/classpocketmine_1_1block_1_1_cobweb.html", null ],
@@ -627,6 +628,7 @@ var hierarchy =
             [ "pocketmine\\item\\CookedSalmon", "dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html", null ],
             [ "pocketmine\\item\\Cookie", "d9/d0a/classpocketmine_1_1item_1_1_cookie.html", null ],
             [ "pocketmine\\item\\DriedKelp", "d8/d04/classpocketmine_1_1item_1_1_dried_kelp.html", null ],
+            [ "pocketmine\\item\\GlowBerries", "d0/d18/classpocketmine_1_1item_1_1_glow_berries.html", null ],
             [ "pocketmine\\item\\GoldenApple", "db/dc4/classpocketmine_1_1item_1_1_golden_apple.html", [
               [ "pocketmine\\item\\GoldenAppleEnchanted", "d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html", null ]
             ] ],
@@ -2130,6 +2132,7 @@ var hierarchy =
       [ "pocketmine\\world\\sound\\FurnaceSound", "dd/d28/classpocketmine_1_1world_1_1sound_1_1_furnace_sound.html", null ],
       [ "pocketmine\\world\\sound\\GhastShootSound", "d9/d29/classpocketmine_1_1world_1_1sound_1_1_ghast_shoot_sound.html", null ],
       [ "pocketmine\\world\\sound\\GhastSound", "d0/d46/classpocketmine_1_1world_1_1sound_1_1_ghast_sound.html", null ],
+      [ "pocketmine\\world\\sound\\GlowBerriesPickSound", "d4/d66/classpocketmine_1_1world_1_1sound_1_1_glow_berries_pick_sound.html", null ],
       [ "pocketmine\\world\\sound\\IgniteSound", "d2/d6c/classpocketmine_1_1world_1_1sound_1_1_ignite_sound.html", null ],
       [ "pocketmine\\world\\sound\\InkSacUseSound", "df/d0d/classpocketmine_1_1world_1_1sound_1_1_ink_sac_use_sound.html", null ],
       [ "pocketmine\\world\\sound\\ItemBreakSound", "df/d35/classpocketmine_1_1world_1_1sound_1_1_item_break_sound.html", null ],

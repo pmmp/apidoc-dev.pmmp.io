@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-6f0eb019d2797155ee6533cce02d016886fd88b9</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-30f1d3e01617748f57d04fa0d2f8b3c276fa19ff</span>
    </div>
   </td>
  </tr>
@@ -145,7 +145,7 @@ $(document).ready(function(){initNavTree('d9/d2d/_sugarcane_8php_source.html','.
 <div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>        <span class="keywordflow">return</span> $bottom;</div>
 <div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>    }</div>
 <div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span> </div>
-<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>    <span class="keyword">private</span> <span class="keyword">function</span> grow(Position $pos) : bool{</div>
+<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>    <span class="keyword">private</span> <span class="keyword">function</span> grow(Position $pos, ?Player $player = <span class="keyword">null</span>) : bool{</div>
 <div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>        $grew = false;</div>
 <div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>        $world = $pos-&gt;getWorld();</div>
 <div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>        <span class="keywordflow">for</span>($y = 1; $y &lt; 3; ++$y){</div>
@@ -154,7 +154,7 @@ $(document).ready(function(){initNavTree('d9/d2d/_sugarcane_8php_source.html','.
 <div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>            }</div>
 <div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>            $b = $world-&gt;getBlockAt($pos-&gt;x, $pos-&gt;y + $y, $pos-&gt;z);</div>
 <div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>            <span class="keywordflow">if</span>($b-&gt;getTypeId() === BlockTypeIds::AIR){</div>
-<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>                $ev = <span class="keyword">new</span> BlockGrowEvent($b, VanillaBlocks::SUGARCANE());</div>
+<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>                $ev = <span class="keyword">new</span> BlockGrowEvent($b, VanillaBlocks::SUGARCANE(), $player);</div>
 <div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>                $ev-&gt;call();</div>
 <div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>                <span class="keywordflow">if</span>($ev-&gt;isCancelled()){</div>
 <div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>                    <span class="keywordflow">break</span>;</div>
@@ -182,7 +182,7 @@ $(document).ready(function(){initNavTree('d9/d2d/_sugarcane_8php_source.html','.
 <div class="line"><a id="l00089" name="l00089"></a><span class="lineno">   89</span> </div>
 <div class="line"><a id="l00090" name="l00090"></a><span class="lineno"><a class="line" href="../../da/da9/classpocketmine_1_1block_1_1_sugarcane.html#a7442fd80109d1e73aa4d62a0d1b85a6b">   90</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../da/da9/classpocketmine_1_1block_1_1_sugarcane.html#a7442fd80109d1e73aa4d62a0d1b85a6b">onInteract</a>(<a class="code hl_class" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">Item</a> $item, <span class="keywordtype">int</span> $face, <a class="code hl_class" href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">Vector3</a> $clickVector, ?<a class="code hl_class" href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html">Player</a> $player = <span class="keyword">null</span>, array &amp;$returnedItems = []) : bool{</div>
 <div class="line"><a id="l00091" name="l00091"></a><span class="lineno">   91</span>        if($item instanceof <a class="code hl_class" href="../../d2/df4/classpocketmine_1_1item_1_1_fertilizer.html">Fertilizer</a>){</div>
-<div class="line"><a id="l00092" name="l00092"></a><span class="lineno">   92</span>            <span class="keywordflow">if</span>($this-&gt;grow($this-&gt;seekToBottom())){</div>
+<div class="line"><a id="l00092" name="l00092"></a><span class="lineno">   92</span>            <span class="keywordflow">if</span>($this-&gt;grow($this-&gt;seekToBottom(), $player)){</div>
 <div class="line"><a id="l00093" name="l00093"></a><span class="lineno">   93</span>                $item-&gt;<a class="code hl_function" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html#a67b44433c553602d7c851b1ca23e6e5e">pop</a>();</div>
 <div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span>            }</div>
 <div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span> </div>
@@ -249,7 +249,7 @@ $(document).ready(function(){initNavTree('d9/d2d/_sugarcane_8php_source.html','.
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_sugarcane_html_ae975864e5866e44878b1f57da2bd0393"><div class="ttname"><a href="../../da/da9/classpocketmine_1_1block_1_1_sugarcane.html#ae975864e5866e44878b1f57da2bd0393">pocketmine\block\Sugarcane\onRandomTick</a></div><div class="ttdeci">onRandomTick()</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d2d/_sugarcane_8php_source.html#l00120">Sugarcane.php:120</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_sugarcane_html_af8118122de0101bce0287baf430b6741"><div class="ttname"><a href="../../da/da9/classpocketmine_1_1block_1_1_sugarcane.html#af8118122de0101bce0287baf430b6741">pocketmine\block\Sugarcane\setAge</a></div><div class="ttdeci">setAge(int $age)</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d2d/_sugarcane_8php_source.html#l00082">Sugarcane.php:82</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_water_html"><div class="ttname"><a href="../../d2/d3e/classpocketmine_1_1block_1_1_water.html">pocketmine\block\Water</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d7/d90/_water_8php_source.html#l00031">Water.php:31</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1event_1_1block_1_1_block_grow_event_html"><div class="ttname"><a href="../../db/d04/classpocketmine_1_1event_1_1block_1_1_block_grow_event.html">pocketmine\event\block\BlockGrowEvent</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d5/d36/_block_grow_event_8php_source.html#l00029">BlockGrowEvent.php:29</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1event_1_1block_1_1_block_grow_event_html"><div class="ttname"><a href="../../db/d04/classpocketmine_1_1event_1_1block_1_1_block_grow_event.html">pocketmine\event\block\BlockGrowEvent</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d5/d36/_block_grow_event_8php_source.html#l00032">BlockGrowEvent.php:32</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_fertilizer_html"><div class="ttname"><a href="../../d2/df4/classpocketmine_1_1item_1_1_fertilizer.html">pocketmine\item\Fertilizer</a></div><div class="ttdef"><b>Definition:</b> <a href="../../df/d0d/_fertilizer_8php_source.html#l00026">Fertilizer.php:26</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">pocketmine\item\Item</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d98/_item_8php_source.html#l00059">Item.php:59</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html_a67b44433c553602d7c851b1ca23e6e5e"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html#a67b44433c553602d7c851b1ca23e6e5e">pocketmine\item\Item\pop</a></div><div class="ttdeci">pop(int $count=1)</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d98/_item_8php_source.html#l00426">Item.php:426</a></div></div>

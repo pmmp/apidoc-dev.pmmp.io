@@ -61,6 +61,7 @@ var namespacepocketmine_1_1item =
     [ "Food", "dc/de1/classpocketmine_1_1item_1_1_food.html", "dc/de1/classpocketmine_1_1item_1_1_food" ],
     [ "FoodSourceItem", "de/d44/interfacepocketmine_1_1item_1_1_food_source_item.html", "de/d44/interfacepocketmine_1_1item_1_1_food_source_item" ],
     [ "GlassBottle", "d2/d57/classpocketmine_1_1item_1_1_glass_bottle.html", "d2/d57/classpocketmine_1_1item_1_1_glass_bottle" ],
+    [ "GlowBerries", "d0/d18/classpocketmine_1_1item_1_1_glow_berries.html", "d0/d18/classpocketmine_1_1item_1_1_glow_berries" ],
     [ "GoldenApple", "db/dc4/classpocketmine_1_1item_1_1_golden_apple.html", "db/dc4/classpocketmine_1_1item_1_1_golden_apple" ],
     [ "GoldenAppleEnchanted", "d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html", "d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted" ],
     [ "GoldenCarrot", "d3/d87/classpocketmine_1_1item_1_1_golden_carrot.html", "d3/d87/classpocketmine_1_1item_1_1_golden_carrot" ],

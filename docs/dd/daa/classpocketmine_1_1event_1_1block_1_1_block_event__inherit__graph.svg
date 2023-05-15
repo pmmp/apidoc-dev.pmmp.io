@@ -439,20 +439,21 @@ var sectionId = 'dynsection-0';
 <g id="node6" class="node">
 <title>Node6</title>
 <g id="a_node6"><a xlink:href="../../db/d04/classpocketmine_1_1event_1_1block_1_1_block_grow_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="304,-6 304,-74 438,-74 438,-6 304,-6"/>
-<text text-anchor="start" x="312" y="-62" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\block</text>
-<text text-anchor="middle" x="371" y="-51" font-family="Helvetica,sans-Serif" font-size="10.00">\BlockGrowEvent</text>
-<polyline fill="none" stroke="black" points="304,-44 438,-44 "/>
-<text text-anchor="middle" x="371" y="-32" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="304,-25 438,-25 "/>
-<text text-anchor="middle" x="371" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="black" points="304,-0.5 304,-79.5 438,-79.5 438,-0.5 304,-0.5"/>
+<text text-anchor="start" x="312" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\block</text>
+<text text-anchor="middle" x="371" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">\BlockGrowEvent</text>
+<polyline fill="none" stroke="black" points="304,-49.5 438,-49.5 "/>
+<text text-anchor="middle" x="371" y="-37.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="304,-30.5 438,-30.5 "/>
+<text text-anchor="start" x="312" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="312" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPlayer()</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node6 -->
 <g id="edge5" class="edge">
 <title>Node3&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M371,-150.1C371,-125.44 371,-96.18 371,-74.17"/>
+<path fill="none" stroke="midnightblue" d="M371,-150.21C371,-127.48 371,-100.82 371,-79.53"/>
 <polygon fill="none" stroke="midnightblue" points="367.5,-150.35 371,-160.35 374.5,-150.35 367.5,-150.35"/>
 </g>
 <!-- Node7 -->

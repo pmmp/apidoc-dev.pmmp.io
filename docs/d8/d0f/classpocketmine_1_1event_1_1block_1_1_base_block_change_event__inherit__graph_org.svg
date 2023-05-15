@@ -69,20 +69,21 @@
 <g id="node7" class="node">
 <title>Node7</title>
 <g id="a_node7"><a xlink:href="../../db/d04/classpocketmine_1_1event_1_1block_1_1_block_grow_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="304,-6 304,-74 438,-74 438,-6 304,-6"/>
-<text text-anchor="start" x="312" y="-62" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\block</text>
-<text text-anchor="middle" x="371" y="-51" font-family="Helvetica,sans-Serif" font-size="10.00">\BlockGrowEvent</text>
-<polyline fill="none" stroke="black" points="304,-44 438,-44 "/>
-<text text-anchor="middle" x="371" y="-32" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="304,-25 438,-25 "/>
-<text text-anchor="middle" x="371" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="black" points="304,-0.5 304,-79.5 438,-79.5 438,-0.5 304,-0.5"/>
+<text text-anchor="start" x="312" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\block</text>
+<text text-anchor="middle" x="371" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">\BlockGrowEvent</text>
+<polyline fill="none" stroke="black" points="304,-49.5 438,-49.5 "/>
+<text text-anchor="middle" x="371" y="-37.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="304,-30.5 438,-30.5 "/>
+<text text-anchor="start" x="312" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="312" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPlayer()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node7 -->
 <g id="edge6" class="edge">
 <title>Node1&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M371,-106.23C371,-95.43 371,-84.23 371,-74.22"/>
+<path fill="none" stroke="midnightblue" d="M371,-106.15C371,-97.26 371,-88.1 371,-79.56"/>
 <polygon fill="none" stroke="midnightblue" points="367.5,-106.4 371,-116.4 374.5,-106.4 367.5,-106.4"/>
 </g>
 <!-- Node8 -->

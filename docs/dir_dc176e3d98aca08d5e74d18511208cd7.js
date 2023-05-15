@@ -49,6 +49,7 @@ var dir_dc176e3d98aca08d5e74d18511208cd7 =
     [ "Food.php", "da/d0a/_food_8php_source.html", null ],
     [ "FoodSourceItem.php", "d3/d2f/_food_source_item_8php_source.html", null ],
     [ "GlassBottle.php", "d0/d51/_glass_bottle_8php_source.html", null ],
+    [ "GlowBerries.php", "d3/da9/_glow_berries_8php_source.html", null ],
     [ "GoldenApple.php", "db/d7c/_golden_apple_8php_source.html", null ],
     [ "GoldenAppleEnchanted.php", "d0/d15/_golden_apple_enchanted_8php_source.html", null ],
     [ "GoldenCarrot.php", "d7/dd0/_golden_carrot_8php_source.html", null ],
