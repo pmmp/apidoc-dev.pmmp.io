@@ -1234,8 +1234,8 @@ var hierarchy =
           [ "pocketmine\\plugin\\PluginLogger", "de/dc8/classpocketmine_1_1plugin_1_1_plugin_logger.html", null ]
         ] ]
       ] ],
-      [ "ThreadedLogger", "d0/d55/class_threaded_logger.html", [
-        [ "AttachableThreadedLogger", "d3/db3/class_attachable_threaded_logger.html", [
+      [ "pocketmine\\thread\\log\\ThreadSafeLogger", "da/df4/classpocketmine_1_1thread_1_1log_1_1_thread_safe_logger.html", [
+        [ "pocketmine\\thread\\log\\AttachableThreadSafeLogger", "d8/daf/classpocketmine_1_1thread_1_1log_1_1_attachable_thread_safe_logger.html", [
           [ "pocketmine\\utils\\MainLogger", "d9/d27/classpocketmine_1_1utils_1_1_main_logger.html", null ]
         ] ]
       ] ]
@@ -1287,6 +1287,18 @@ var hierarchy =
       [ "pocketmine\\block\\tile\\Furnace", "db/d1f/classpocketmine_1_1block_1_1tile_1_1_furnace.html", null ],
       [ "pocketmine\\block\\tile\\Hopper", "d2/d1d/classpocketmine_1_1block_1_1tile_1_1_hopper.html", null ],
       [ "pocketmine\\block\\tile\\ShulkerBox", "dd/dd0/classpocketmine_1_1block_1_1tile_1_1_shulker_box.html", null ]
+    ] ],
+    [ "NativeThread", null, [
+      [ "pocketmine\\thread\\Thread", "d0/d6e/classpocketmine_1_1thread_1_1_thread.html", [
+        [ "pocketmine\\network\\mcpe\\raklib\\RakLibServer", "de/dc9/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_server.html", null ],
+        [ "pocketmine\\utils\\MainLoggerThread", "d7/d71/classpocketmine_1_1utils_1_1_main_logger_thread.html", null ],
+        [ "pocketmine\\utils\\ServerKiller", "d2/d87/classpocketmine_1_1utils_1_1_server_killer.html", null ]
+      ] ]
+    ] ],
+    [ "NativeWorker", null, [
+      [ "pocketmine\\thread\\Worker", "d2/d42/classpocketmine_1_1thread_1_1_worker.html", [
+        [ "pocketmine\\scheduler\\AsyncWorker", "d1/d4e/classpocketmine_1_1scheduler_1_1_async_worker.html", null ]
+      ] ]
     ] ],
     [ "pocketmine\\nbt\\NBT", "d5/d67/classpocketmine_1_1nbt_1_1_n_b_t.html", null ],
     [ "pocketmine\\nbt\\NbtStreamReader", "d1/d97/interfacepocketmine_1_1nbt_1_1_nbt_stream_reader.html", [
@@ -2224,38 +2236,6 @@ var hierarchy =
     [ "pocketmine\\scheduler\\TaskScheduler", "db/d5a/classpocketmine_1_1scheduler_1_1_task_scheduler.html", null ],
     [ "pocketmine\\utils\\Terminal", "da/d57/classpocketmine_1_1utils_1_1_terminal.html", null ],
     [ "pocketmine\\utils\\TextFormat", "dd/db5/classpocketmine_1_1utils_1_1_text_format.html", null ],
-    [ "Thread", null, [
-      [ "pocketmine\\thread\\Thread", "d0/d6e/classpocketmine_1_1thread_1_1_thread.html", [
-        [ "pocketmine\\network\\mcpe\\raklib\\RakLibServer", "de/dc9/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_server.html", null ],
-        [ "pocketmine\\utils\\MainLoggerThread", "d7/d71/classpocketmine_1_1utils_1_1_main_logger_thread.html", null ],
-        [ "pocketmine\\utils\\ServerKiller", "d2/d87/classpocketmine_1_1utils_1_1_server_killer.html", null ]
-      ] ]
-    ] ],
-    [ "ThreadedBase", null, [
-      [ "BaseClassLoader", "da/d17/class_base_class_loader.html", null ],
-      [ "ThreadedLogger", "d0/d55/class_threaded_logger.html", null ],
-      [ "ThreadedLoggerAttachment", "d2/d6c/class_threaded_logger_attachment.html", null ],
-      [ "pocketmine\\snooze\\SleeperNotifier", "d2/d16/classpocketmine_1_1snooze_1_1_sleeper_notifier.html", null ],
-      [ "pocketmine\\thread\\NonThreadSafeValue", "d4/d69/classpocketmine_1_1thread_1_1_non_thread_safe_value.html", null ],
-      [ "pocketmine\\thread\\ThreadManager", "df/dca/classpocketmine_1_1thread_1_1_thread_manager.html", null ]
-    ] ],
-    [ "ThreadedRunnable", null, [
-      [ "pocketmine\\scheduler\\AsyncTask", "df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html", [
-        [ "pocketmine\\network\\mcpe\\ChunkRequestTask", "d2/d46/classpocketmine_1_1network_1_1mcpe_1_1_chunk_request_task.html", null ],
-        [ "pocketmine\\network\\mcpe\\auth\\ProcessLoginTask", "df/df7/classpocketmine_1_1network_1_1mcpe_1_1auth_1_1_process_login_task.html", null ],
-        [ "pocketmine\\network\\mcpe\\compression\\CompressBatchTask", "d6/dda/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_compress_batch_task.html", null ],
-        [ "pocketmine\\network\\mcpe\\encryption\\PrepareEncryptionTask", "d7/d18/classpocketmine_1_1network_1_1mcpe_1_1encryption_1_1_prepare_encryption_task.html", null ],
-        [ "pocketmine\\scheduler\\BulkCurlTask", "df/d18/classpocketmine_1_1scheduler_1_1_bulk_curl_task.html", null ],
-        [ "pocketmine\\scheduler\\DumpWorkerMemoryTask", "d7/d53/classpocketmine_1_1scheduler_1_1_dump_worker_memory_task.html", null ],
-        [ "pocketmine\\scheduler\\GarbageCollectionTask", "d9/dae/classpocketmine_1_1scheduler_1_1_garbage_collection_task.html", null ],
-        [ "pocketmine\\stats\\SendUsageTask", "df/d2c/classpocketmine_1_1stats_1_1_send_usage_task.html", null ],
-        [ "pocketmine\\updater\\UpdateCheckTask", "d7/d6f/classpocketmine_1_1updater_1_1_update_check_task.html", null ],
-        [ "pocketmine\\world\\generator\\GeneratorRegisterTask", "d2/d88/classpocketmine_1_1world_1_1generator_1_1_generator_register_task.html", null ],
-        [ "pocketmine\\world\\generator\\GeneratorUnregisterTask", "d0/dac/classpocketmine_1_1world_1_1generator_1_1_generator_unregister_task.html", null ],
-        [ "pocketmine\\world\\generator\\PopulationTask", "d9/d4a/classpocketmine_1_1world_1_1generator_1_1_population_task.html", null ],
-        [ "pocketmine\\world\\light\\LightPopulationTask", "d9/d7c/classpocketmine_1_1world_1_1light_1_1_light_population_task.html", null ]
-      ] ]
-    ] ],
     [ "pocketmine\\world\\generator\\ThreadLocalGeneratorContext", "d0/d9d/classpocketmine_1_1world_1_1generator_1_1_thread_local_generator_context.html", null ],
     [ "pocketmine\\block\\tile\\Tile", "d9/d74/classpocketmine_1_1block_1_1tile_1_1_tile.html", [
       [ "pocketmine\\block\\tile\\Comparator", "df/de7/classpocketmine_1_1block_1_1tile_1_1_comparator.html", null ],
@@ -2351,11 +2331,6 @@ var hierarchy =
     [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\WindowTypes", "d4/df2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_window_types.html", null ],
     [ "pocketmine\\block\\WoodLikeBlockIdHelper", "d9/de8/classpocketmine_1_1block_1_1_wood_like_block_id_helper.html", null ],
     [ "pocketmine\\block\\utils\\WoodType", "d8/d35/classpocketmine_1_1block_1_1utils_1_1_wood_type.html", null ],
-    [ "Worker", null, [
-      [ "pocketmine\\thread\\Worker", "d2/d42/classpocketmine_1_1thread_1_1_worker.html", [
-        [ "pocketmine\\scheduler\\AsyncWorker", "d1/d4e/classpocketmine_1_1scheduler_1_1_async_worker.html", null ]
-      ] ]
-    ] ],
     [ "pocketmine\\world\\WorldCreationOptions", "d0/d15/classpocketmine_1_1world_1_1_world_creation_options.html", null ],
     [ "pocketmine\\world\\format\\io\\WorldData", "d7/d4e/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_data.html", [
       [ "pocketmine\\world\\format\\io\\data\\BaseNbtWorldData", "d1/def/classpocketmine_1_1world_1_1format_1_1io_1_1data_1_1_base_nbt_world_data.html", [
@@ -2389,5 +2364,30 @@ var hierarchy =
     [ "InvalidArgumentException", null, [
       [ "pocketmine\\entity\\InvalidSkinException", "d6/d6d/classpocketmine_1_1entity_1_1_invalid_skin_exception.html", null ],
       [ "pocketmine\\nbt\\InvalidTagValueException", "d3/d5f/classpocketmine_1_1nbt_1_1_invalid_tag_value_exception.html", null ]
+    ] ],
+    [ "Runnable", null, [
+      [ "pocketmine\\scheduler\\AsyncTask", "df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html", [
+        [ "pocketmine\\network\\mcpe\\ChunkRequestTask", "d2/d46/classpocketmine_1_1network_1_1mcpe_1_1_chunk_request_task.html", null ],
+        [ "pocketmine\\network\\mcpe\\auth\\ProcessLoginTask", "df/df7/classpocketmine_1_1network_1_1mcpe_1_1auth_1_1_process_login_task.html", null ],
+        [ "pocketmine\\network\\mcpe\\compression\\CompressBatchTask", "d6/dda/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_compress_batch_task.html", null ],
+        [ "pocketmine\\network\\mcpe\\encryption\\PrepareEncryptionTask", "d7/d18/classpocketmine_1_1network_1_1mcpe_1_1encryption_1_1_prepare_encryption_task.html", null ],
+        [ "pocketmine\\scheduler\\BulkCurlTask", "df/d18/classpocketmine_1_1scheduler_1_1_bulk_curl_task.html", null ],
+        [ "pocketmine\\scheduler\\DumpWorkerMemoryTask", "d7/d53/classpocketmine_1_1scheduler_1_1_dump_worker_memory_task.html", null ],
+        [ "pocketmine\\scheduler\\GarbageCollectionTask", "d9/dae/classpocketmine_1_1scheduler_1_1_garbage_collection_task.html", null ],
+        [ "pocketmine\\stats\\SendUsageTask", "df/d2c/classpocketmine_1_1stats_1_1_send_usage_task.html", null ],
+        [ "pocketmine\\updater\\UpdateCheckTask", "d7/d6f/classpocketmine_1_1updater_1_1_update_check_task.html", null ],
+        [ "pocketmine\\world\\generator\\GeneratorRegisterTask", "d2/d88/classpocketmine_1_1world_1_1generator_1_1_generator_register_task.html", null ],
+        [ "pocketmine\\world\\generator\\GeneratorUnregisterTask", "d0/dac/classpocketmine_1_1world_1_1generator_1_1_generator_unregister_task.html", null ],
+        [ "pocketmine\\world\\generator\\PopulationTask", "d9/d4a/classpocketmine_1_1world_1_1generator_1_1_population_task.html", null ],
+        [ "pocketmine\\world\\light\\LightPopulationTask", "d9/d7c/classpocketmine_1_1world_1_1light_1_1_light_population_task.html", null ]
+      ] ]
+    ] ],
+    [ "ThreadSafe", null, [
+      [ "BaseClassLoader", "da/d17/class_base_class_loader.html", null ],
+      [ "pocketmine\\snooze\\SleeperNotifier", "d2/d16/classpocketmine_1_1snooze_1_1_sleeper_notifier.html", null ],
+      [ "pocketmine\\thread\\NonThreadSafeValue", "d4/d69/classpocketmine_1_1thread_1_1_non_thread_safe_value.html", null ],
+      [ "pocketmine\\thread\\ThreadManager", "df/dca/classpocketmine_1_1thread_1_1_thread_manager.html", null ],
+      [ "pocketmine\\thread\\log\\ThreadSafeLogger", "da/df4/classpocketmine_1_1thread_1_1log_1_1_thread_safe_logger.html", null ],
+      [ "pocketmine\\thread\\log\\ThreadSafeLoggerAttachment", "df/d2c/classpocketmine_1_1thread_1_1log_1_1_thread_safe_logger_attachment.html", null ]
     ] ]
 ];

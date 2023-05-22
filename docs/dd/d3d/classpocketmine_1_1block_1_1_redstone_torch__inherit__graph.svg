@@ -68,7 +68,7 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="20" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLightLevel()</text>
 <text text-anchor="start" x="20" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isLit()</text>
 <text text-anchor="start" x="20" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setLit()</text>
-<text text-anchor="start" x="20" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="20" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 </a>
 </g>
 </g>
@@ -76,17 +76,17 @@ var sectionId = 'dynsection-0';
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="../../d2/d00/classpocketmine_1_1block_1_1_torch.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="15,-138.5 15,-250.5 161,-250.5 161,-138.5 15,-138.5"/>
+<polygon fill="white" stroke="#bfbfbf" points="12,-138.5 12,-250.5 164,-250.5 164,-138.5 12,-138.5"/>
 <text text-anchor="middle" x="88" y="-238.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Torch</text>
-<polyline fill="none" stroke="#bfbfbf" points="15,-231.5 161,-231.5 "/>
-<text text-anchor="start" x="23" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $facing</text>
-<polyline fill="none" stroke="#bfbfbf" points="15,-212.5 161,-212.5 "/>
-<text text-anchor="start" x="23" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFacing()</text>
-<text text-anchor="start" x="23" y="-189.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLightLevel()</text>
-<text text-anchor="start" x="23" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="23" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
-<text text-anchor="start" x="23" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFacing()</text>
-<text text-anchor="start" x="23" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<polyline fill="none" stroke="#bfbfbf" points="12,-231.5 164,-231.5 "/>
+<text text-anchor="start" x="20" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $facing</text>
+<polyline fill="none" stroke="#bfbfbf" points="12,-212.5 164,-212.5 "/>
+<text text-anchor="start" x="20" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFacing()</text>
+<text text-anchor="start" x="20" y="-189.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLightLevel()</text>
+<text text-anchor="start" x="20" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="20" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="20" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFacing()</text>
+<text text-anchor="start" x="20" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 </a>
 </g>
 </g>
@@ -163,7 +163,7 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="8" y="-570.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
 <text text-anchor="start" x="8" y="-559.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
 <text text-anchor="start" x="8" y="-548.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 59 more...</text>
-<text text-anchor="start" x="8" y="-537.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="8" y="-537.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 <text text-anchor="start" x="8" y="-526.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getXpDropAmount()</text>
 <text text-anchor="start" x="8" y="-515.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>

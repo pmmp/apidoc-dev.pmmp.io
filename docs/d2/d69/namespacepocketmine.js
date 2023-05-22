@@ -214,6 +214,11 @@ var namespacepocketmine =
       [ "SendUsageTask", "df/d2c/classpocketmine_1_1stats_1_1_send_usage_task.html", "df/d2c/classpocketmine_1_1stats_1_1_send_usage_task" ]
     ] ],
     [ "thread", null, [
+      [ "log", null, [
+        [ "AttachableThreadSafeLogger", "d8/daf/classpocketmine_1_1thread_1_1log_1_1_attachable_thread_safe_logger.html", "d8/daf/classpocketmine_1_1thread_1_1log_1_1_attachable_thread_safe_logger" ],
+        [ "ThreadSafeLogger", "da/df4/classpocketmine_1_1thread_1_1log_1_1_thread_safe_logger.html", "da/df4/classpocketmine_1_1thread_1_1log_1_1_thread_safe_logger" ],
+        [ "ThreadSafeLoggerAttachment", "df/d2c/classpocketmine_1_1thread_1_1log_1_1_thread_safe_logger_attachment.html", null ]
+      ] ],
       [ "NonThreadSafeValue", "d4/d69/classpocketmine_1_1thread_1_1_non_thread_safe_value.html", "d4/d69/classpocketmine_1_1thread_1_1_non_thread_safe_value" ],
       [ "Thread", "d0/d6e/classpocketmine_1_1thread_1_1_thread.html", "d0/d6e/classpocketmine_1_1thread_1_1_thread" ],
       [ "ThreadException", "d0/df0/classpocketmine_1_1thread_1_1_thread_exception.html", null ],

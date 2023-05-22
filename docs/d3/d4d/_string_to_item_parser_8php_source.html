@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-30f1d3e01617748f57d04fa0d2f8b3c276fa19ff</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA4 git-815b4e2babe9a2d3ac53f9e73a2f89181b23e7d7</span>
    </div>
   </td>
  </tr>
@@ -1625,7 +1625,7 @@ $(document).ready(function(){initNavTree('d3/d4d/_string_to_item_parser_8php_sou
 <div class="line"><a id="l01540" name="l01540"></a><span class="lineno"><a class="line" href="../../de/d75/classpocketmine_1_1item_1_1_string_to_item_parser.html#a2ba173aca56fe93a24161e7b37d363cd"> 1540</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <span class="keyword">register</span>(<span class="keywordtype">string</span> $alias, \Closure $callback) : <span class="keywordtype">void</span>{</div>
 <div class="line"><a id="l01541" name="l01541"></a><span class="lineno"> 1541</span>        parent::register($alias, $callback);</div>
 <div class="line"><a id="l01542" name="l01542"></a><span class="lineno"> 1542</span>        $item = $callback($alias);</div>
-<div class="line"><a id="l01543" name="l01543"></a><span class="lineno"> 1543</span>        $this-&gt;reverseMap[$item-&gt;getTypeId()][$item-&gt;computeTypeData()][$alias] = <span class="keyword">true</span>;</div>
+<div class="line"><a id="l01543" name="l01543"></a><span class="lineno"> 1543</span>        $this-&gt;reverseMap[$item-&gt;getStateId()][$alias] = <span class="keyword">true</span>;</div>
 <div class="line"><a id="l01544" name="l01544"></a><span class="lineno"> 1544</span>    }</div>
 <div class="line"><a id="l01545" name="l01545"></a><span class="lineno"> 1545</span> </div>
 <div class="line"><a id="l01547" name="l01547"></a><span class="lineno"><a class="line" href="../../de/d75/classpocketmine_1_1item_1_1_string_to_item_parser.html#ac725cbcd1bca11a11bc6bd0daea49a0e"> 1547</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../de/d75/classpocketmine_1_1item_1_1_string_to_item_parser.html#ac725cbcd1bca11a11bc6bd0daea49a0e">registerBlock</a>(<span class="keywordtype">string</span> $alias, \Closure $callback) : void{</div>
@@ -1637,7 +1637,7 @@ $(document).ready(function(){initNavTree('d3/d4d/_string_to_item_parser_8php_sou
 <div class="line"><a id="l01553" name="l01553"></a><span class="lineno"> 1553</span>    }</div>
 <div class="line"><a id="l01554" name="l01554"></a><span class="lineno"> 1554</span> </div>
 <div class="line"><a id="l01561" name="l01561"></a><span class="lineno"><a class="line" href="../../de/d75/classpocketmine_1_1item_1_1_string_to_item_parser.html#a0fa700929bfe45262ca29b6c4e30e737"> 1561</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../de/d75/classpocketmine_1_1item_1_1_string_to_item_parser.html#a0fa700929bfe45262ca29b6c4e30e737">lookupAliases</a>(<a class="code hl_class" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">Item</a> $item) : array{</div>
-<div class="line"><a id="l01562" name="l01562"></a><span class="lineno"> 1562</span>        $aliases = $this-&gt;reverseMap[$item-&gt;getTypeId()][$item-&gt;computeTypeData()] ?? [];</div>
+<div class="line"><a id="l01562" name="l01562"></a><span class="lineno"> 1562</span>        $aliases = $this-&gt;reverseMap[$item-&gt;getStateId()] ?? [];</div>
 <div class="line"><a id="l01563" name="l01563"></a><span class="lineno"> 1563</span>        <span class="keywordflow">return</span> array_keys($aliases);</div>
 <div class="line"><a id="l01564" name="l01564"></a><span class="lineno"> 1564</span>    }</div>
 <div class="line"><a id="l01565" name="l01565"></a><span class="lineno"> 1565</span> </div>
@@ -1655,7 +1655,7 @@ $(document).ready(function(){initNavTree('d3/d4d/_string_to_item_parser_8php_sou
 <div class="ttc" id="aclasspocketmine_1_1block_1_1utils_1_1_froglight_type_html"><div class="ttname"><a href="../../de/df4/classpocketmine_1_1block_1_1utils_1_1_froglight_type.html">pocketmine\block\utils\FroglightType</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dd/dac/_froglight_type_8php_source.html#l00038">FroglightType.php:38</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1utils_1_1_skull_type_html"><div class="ttname"><a href="../../d8/dbc/classpocketmine_1_1block_1_1utils_1_1_skull_type.html">pocketmine\block\utils\SkullType</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d5/d94/_skull_type_8php_source.html#l00041">SkullType.php:41</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1utils_1_1_slab_type_html"><div class="ttname"><a href="../../dd/da9/classpocketmine_1_1block_1_1utils_1_1_slab_type.html">pocketmine\block\utils\SlabType</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d7/d23/_slab_type_8php_source.html#l00038">SlabType.php:38</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">pocketmine\item\Item</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d98/_item_8php_source.html#l00059">Item.php:59</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">pocketmine\item\Item</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d98/_item_8php_source.html#l00060">Item.php:60</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_string_to_item_parser_html"><div class="ttname"><a href="../../de/d75/classpocketmine_1_1item_1_1_string_to_item_parser.html">pocketmine\item\StringToItemParser</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d3/d4d/_string_to_item_parser_8php_source.html#l00046">StringToItemParser.php:46</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_string_to_item_parser_html_a0fa700929bfe45262ca29b6c4e30e737"><div class="ttname"><a href="../../de/d75/classpocketmine_1_1item_1_1_string_to_item_parser.html#a0fa700929bfe45262ca29b6c4e30e737">pocketmine\item\StringToItemParser\lookupAliases</a></div><div class="ttdeci">lookupAliases(Item $item)</div><div class="ttdef"><b>Definition:</b> <a href="../../d3/d4d/_string_to_item_parser_8php_source.html#l01561">StringToItemParser.php:1561</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_string_to_item_parser_html_a2ba173aca56fe93a24161e7b37d363cd"><div class="ttname"><a href="../../de/d75/classpocketmine_1_1item_1_1_string_to_item_parser.html#a2ba173aca56fe93a24161e7b37d363cd">pocketmine\item\StringToItemParser\register</a></div><div class="ttdeci">register(string $alias, \Closure $callback)</div><div class="ttdef"><b>Definition:</b> <a href="../../d3/d4d/_string_to_item_parser_8php_source.html#l01540">StringToItemParser.php:1540</a></div></div>

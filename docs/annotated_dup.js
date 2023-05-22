@@ -1592,6 +1592,11 @@ var annotated_dup =
         [ "SendUsageTask", "df/d2c/classpocketmine_1_1stats_1_1_send_usage_task.html", "df/d2c/classpocketmine_1_1stats_1_1_send_usage_task" ]
       ] ],
       [ "thread", null, [
+        [ "log", null, [
+          [ "AttachableThreadSafeLogger", "d8/daf/classpocketmine_1_1thread_1_1log_1_1_attachable_thread_safe_logger.html", "d8/daf/classpocketmine_1_1thread_1_1log_1_1_attachable_thread_safe_logger" ],
+          [ "ThreadSafeLogger", "da/df4/classpocketmine_1_1thread_1_1log_1_1_thread_safe_logger.html", "da/df4/classpocketmine_1_1thread_1_1log_1_1_thread_safe_logger" ],
+          [ "ThreadSafeLoggerAttachment", "df/d2c/classpocketmine_1_1thread_1_1log_1_1_thread_safe_logger_attachment.html", null ]
+        ] ],
         [ "NonThreadSafeValue", "d4/d69/classpocketmine_1_1thread_1_1_non_thread_safe_value.html", "d4/d69/classpocketmine_1_1thread_1_1_non_thread_safe_value" ],
         [ "Thread", "d0/d6e/classpocketmine_1_1thread_1_1_thread.html", "d0/d6e/classpocketmine_1_1thread_1_1_thread" ],
         [ "ThreadException", "d0/df0/classpocketmine_1_1thread_1_1_thread_exception.html", null ],
@@ -1985,7 +1990,6 @@ var annotated_dup =
       [ "RakLib", "d8/df8/classraklib_1_1_rak_lib.html", "d8/df8/classraklib_1_1_rak_lib" ]
     ] ],
     [ "AttachableLogger", "d9/d4f/interface_attachable_logger.html", "d9/d4f/interface_attachable_logger" ],
-    [ "AttachableThreadedLogger", "d3/db3/class_attachable_threaded_logger.html", "d3/db3/class_attachable_threaded_logger" ],
     [ "BaseClassLoader", "da/d17/class_base_class_loader.html", "da/d17/class_base_class_loader" ],
     [ "BufferedLogger", "d3/d4b/interface_buffered_logger.html", "d3/d4b/interface_buffered_logger" ],
     [ "ClassLoader", "dc/de7/interface_class_loader.html", "dc/de7/interface_class_loader" ],
@@ -1995,7 +1999,5 @@ var annotated_dup =
     [ "Logger", "d4/d00/interface_logger.html", "d4/d00/interface_logger" ],
     [ "LogLevel", "dd/de7/interface_log_level.html", null ],
     [ "PrefixedLogger", "d9/d00/class_prefixed_logger.html", "d9/d00/class_prefixed_logger" ],
-    [ "SimpleLogger", "d9/df4/class_simple_logger.html", "d9/df4/class_simple_logger" ],
-    [ "ThreadedLogger", "d0/d55/class_threaded_logger.html", "d0/d55/class_threaded_logger" ],
-    [ "ThreadedLoggerAttachment", "d2/d6c/class_threaded_logger_attachment.html", "d2/d6c/class_threaded_logger_attachment" ]
+    [ "SimpleLogger", "d9/df4/class_simple_logger.html", "d9/df4/class_simple_logger" ]
 ];

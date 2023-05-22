@@ -102,7 +102,7 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="18" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSupportType()</text>
 <text text-anchor="start" x="18" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFillLevel()</text>
 <text text-anchor="start" x="18" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addFillLevels()</text>
-<text text-anchor="start" x="18" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="18" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 <text text-anchor="start" x="18" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00"># mix()</text>
 <text text-anchor="start" x="18" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 <text text-anchor="start" x="18" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00"># removeFillLevels()</text>
@@ -161,7 +161,7 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="10.5" y="-663.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
 <text text-anchor="start" x="10.5" y="-652.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
 <text text-anchor="start" x="10.5" y="-641.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 59 more...</text>
-<text text-anchor="start" x="10.5" y="-630.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="10.5" y="-630.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 <text text-anchor="start" x="10.5" y="-619.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getXpDropAmount()</text>
 <text text-anchor="start" x="10.5" y="-608.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>

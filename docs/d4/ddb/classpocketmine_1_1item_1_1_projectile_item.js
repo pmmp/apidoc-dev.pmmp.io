@@ -4,6 +4,7 @@ var classpocketmine_1_1item_1_1_projectile_item =
     [ "clearCustomBlockData", "d4/ddb/classpocketmine_1_1item_1_1_projectile_item.html#a11483f8bbc44517bf2a25e40a3aa7558", null ],
     [ "clearCustomName", "d4/ddb/classpocketmine_1_1item_1_1_projectile_item.html#a336d6f91be72079853413f5b4036a57d", null ],
     [ "clearNamedTag", "d4/ddb/classpocketmine_1_1item_1_1_projectile_item.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a", null ],
+    [ "describeState", "d4/ddb/classpocketmine_1_1item_1_1_projectile_item.html#a1df151eb419168f838e6d927c50f9210", null ],
     [ "deserializeCompoundTag", "d4/ddb/classpocketmine_1_1item_1_1_projectile_item.html#a568624515bba5ff57e21ec8c828ade56", null ],
     [ "equals", "d4/ddb/classpocketmine_1_1item_1_1_projectile_item.html#a4a9aa55600bb30c4d55ad63337874a07", null ],
     [ "equalsExact", "d4/ddb/classpocketmine_1_1item_1_1_projectile_item.html#af737301b899b7a7c9e9b0bb9a234a119", null ],

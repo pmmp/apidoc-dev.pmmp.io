@@ -13,36 +13,36 @@
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="868,-370.5 868,-691.5 1022,-691.5 1022,-370.5 868,-370.5"/>
-<text text-anchor="start" x="876" y="-679.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\entity\object</text>
-<text text-anchor="middle" x="945" y="-668.5" font-family="Helvetica,sans-Serif" font-size="10.00">\ItemEntity</text>
-<polyline fill="none" stroke="black" points="868,-661.5 1022,-661.5 "/>
-<text text-anchor="start" x="876" y="-649.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $despawnDelay</text>
-<text text-anchor="start" x="876" y="-638.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $owner</text>
-<text text-anchor="start" x="876" y="-627.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $pickupDelay</text>
-<text text-anchor="start" x="876" y="-616.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $thrower</text>
-<polyline fill="none" stroke="black" points="868,-609.5 1022,-609.5 "/>
-<text text-anchor="start" x="876" y="-597.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="876" y="-586.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeCollidedWith()</text>
-<text text-anchor="start" x="876" y="-575.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canCollideWith()</text>
-<text text-anchor="start" x="876" y="-564.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canSaveWithChunk()</text>
-<text text-anchor="start" x="876" y="-553.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDespawnDelay()</text>
-<text text-anchor="start" x="876" y="-542.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getItem()</text>
-<text text-anchor="start" x="876" y="-531.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOffsetPosition()</text>
-<text text-anchor="start" x="876" y="-520.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOwner()</text>
-<text text-anchor="start" x="876" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPickupDelay()</text>
-<text text-anchor="start" x="876" y="-498.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getThrower()</text>
-<text text-anchor="start" x="876" y="-487.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 10 more...</text>
-<text text-anchor="start" x="876" y="-476.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNetworkTypeId()</text>
-<text text-anchor="start" x="876" y="-465.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyDragBeforeGravity()</text>
-<text text-anchor="start" x="876" y="-454.5" font-family="Helvetica,sans-Serif" font-size="10.00"># entityBaseTick()</text>
-<text text-anchor="start" x="876" y="-443.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getInitialDragMultiplier()</text>
-<text text-anchor="start" x="876" y="-432.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getInitialGravity()</text>
-<text text-anchor="start" x="876" y="-421.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getInitialSizeInfo()</text>
-<text text-anchor="start" x="876" y="-410.5" font-family="Helvetica,sans-Serif" font-size="10.00"># initEntity()</text>
-<text text-anchor="start" x="876" y="-399.5" font-family="Helvetica,sans-Serif" font-size="10.00"># onFirstUpdate()</text>
-<text text-anchor="start" x="876" y="-388.5" font-family="Helvetica,sans-Serif" font-size="10.00"># sendSpawnPacket()</text>
-<text text-anchor="start" x="876" y="-377.5" font-family="Helvetica,sans-Serif" font-size="10.00"># tryChangeMovement()</text>
+<polygon fill="#bfbfbf" stroke="black" points="867,-370.5 867,-691.5 1021,-691.5 1021,-370.5 867,-370.5"/>
+<text text-anchor="start" x="875" y="-679.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\entity\object</text>
+<text text-anchor="middle" x="944" y="-668.5" font-family="Helvetica,sans-Serif" font-size="10.00">\ItemEntity</text>
+<polyline fill="none" stroke="black" points="867,-661.5 1021,-661.5 "/>
+<text text-anchor="start" x="875" y="-649.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $despawnDelay</text>
+<text text-anchor="start" x="875" y="-638.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $owner</text>
+<text text-anchor="start" x="875" y="-627.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $pickupDelay</text>
+<text text-anchor="start" x="875" y="-616.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $thrower</text>
+<polyline fill="none" stroke="black" points="867,-609.5 1021,-609.5 "/>
+<text text-anchor="start" x="875" y="-597.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="875" y="-586.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeCollidedWith()</text>
+<text text-anchor="start" x="875" y="-575.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canCollideWith()</text>
+<text text-anchor="start" x="875" y="-564.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canSaveWithChunk()</text>
+<text text-anchor="start" x="875" y="-553.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDespawnDelay()</text>
+<text text-anchor="start" x="875" y="-542.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getItem()</text>
+<text text-anchor="start" x="875" y="-531.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOffsetPosition()</text>
+<text text-anchor="start" x="875" y="-520.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOwner()</text>
+<text text-anchor="start" x="875" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPickupDelay()</text>
+<text text-anchor="start" x="875" y="-498.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getThrower()</text>
+<text text-anchor="start" x="875" y="-487.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 10 more...</text>
+<text text-anchor="start" x="875" y="-476.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNetworkTypeId()</text>
+<text text-anchor="start" x="875" y="-465.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyDragBeforeGravity()</text>
+<text text-anchor="start" x="875" y="-454.5" font-family="Helvetica,sans-Serif" font-size="10.00"># entityBaseTick()</text>
+<text text-anchor="start" x="875" y="-443.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getInitialDragMultiplier()</text>
+<text text-anchor="start" x="875" y="-432.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getInitialGravity()</text>
+<text text-anchor="start" x="875" y="-421.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getInitialSizeInfo()</text>
+<text text-anchor="start" x="875" y="-410.5" font-family="Helvetica,sans-Serif" font-size="10.00"># initEntity()</text>
+<text text-anchor="start" x="875" y="-399.5" font-family="Helvetica,sans-Serif" font-size="10.00"># onFirstUpdate()</text>
+<text text-anchor="start" x="875" y="-388.5" font-family="Helvetica,sans-Serif" font-size="10.00"># sendSpawnPacket()</text>
+<text text-anchor="start" x="875" y="-377.5" font-family="Helvetica,sans-Serif" font-size="10.00"># tryChangeMovement()</text>
 </a>
 </g>
 </g>
@@ -104,28 +104,28 @@
 <!-- Node2&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
 <title>Node2&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M743.64,-869.87C778.3,-815.38 818.68,-750.94 854,-692 858.6,-684.33 863.28,-676.41 867.97,-668.41"/>
-<polygon fill="none" stroke="midnightblue" points="740.54,-868.21 738.13,-878.52 746.45,-871.97 740.54,-868.21"/>
+<path fill="none" stroke="midnightblue" d="M743.6,-869.11C777.97,-814.77 817.95,-750.64 853,-692 857.59,-684.32 862.27,-676.41 866.95,-668.4"/>
+<polygon fill="none" stroke="midnightblue" points="740.52,-867.43 738.13,-877.75 746.44,-871.17 740.52,-867.43"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
 <g id="a_node5"><a xlink:href="../../de/d84/classpocketmine_1_1event_1_1entity_1_1_entity_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="571,-497 571,-565 707,-565 707,-497 571,-497"/>
-<text text-anchor="start" x="579" y="-553" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
-<text text-anchor="middle" x="639" y="-542" font-family="Helvetica,sans-Serif" font-size="10.00">\EntityEvent</text>
-<polyline fill="none" stroke="black" points="571,-535 707,-535 "/>
-<text text-anchor="middle" x="639" y="-523" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="571,-516 707,-516 "/>
-<text text-anchor="start" x="579" y="-504" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEntity()</text>
+<polygon fill="white" stroke="black" points="570,-497 570,-565 706,-565 706,-497 570,-497"/>
+<text text-anchor="start" x="578" y="-553" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
+<text text-anchor="middle" x="638" y="-542" font-family="Helvetica,sans-Serif" font-size="10.00">\EntityEvent</text>
+<polyline fill="none" stroke="black" points="570,-535 706,-535 "/>
+<text text-anchor="middle" x="638" y="-523" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="570,-516 706,-516 "/>
+<text text-anchor="start" x="578" y="-504" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEntity()</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node5 -->
 <g id="edge6" class="edge">
 <title>Node2&#45;&gt;Node5</title>
-<path fill="none" stroke="#404040" d="M648.79,-739.45C645.83,-676.75 642.99,-616.55 641.14,-577.3"/>
-<polygon fill="none" stroke="#404040" points="641.13,-577.06 636.85,-571.25 640.56,-565.07 644.84,-570.88 641.13,-577.06"/>
+<path fill="none" stroke="#404040" d="M648.24,-739.45C645.14,-676.75 642.17,-616.55 640.24,-577.3"/>
+<polygon fill="none" stroke="#404040" points="640.22,-577.06 635.93,-571.26 639.63,-565.07 643.92,-570.87 640.22,-577.06"/>
 <text text-anchor="middle" x="670" y="-713" font-family="Helvetica,sans-Serif" font-size="10.00"> #$entity</text>
 </g>
 <!-- Node3 -->
@@ -144,13 +144,13 @@
 <!-- Node3&#45;&gt;Node1 -->
 <g id="edge24" class="edge">
 <title>Node3&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M885.88,-2614.38C893.12,-2507 919.24,-2106.92 930,-1777 942.49,-1393.97 944.87,-944.34 945.16,-704.07"/>
-<polygon fill="none" stroke="#404040" points="945.16,-703.73 941.17,-697.72 945.17,-691.73 949.17,-697.73 945.16,-703.73"/>
-<text text-anchor="middle" x="1007.5" y="-1616" font-family="Helvetica,sans-Serif" font-size="10.00"> +DEFAULT_DESPAWN_DELAY</text>
-<text text-anchor="middle" x="1007.5" y="-1605" font-family="Helvetica,sans-Serif" font-size="10.00">+MAX_DESPAWN_DELAY</text>
-<text text-anchor="middle" x="1007.5" y="-1594" font-family="Helvetica,sans-Serif" font-size="10.00">+MERGE_CHECK_PERIOD</text>
-<text text-anchor="middle" x="1007.5" y="-1583" font-family="Helvetica,sans-Serif" font-size="10.00">+NEVER_DESPAWN</text>
-<text text-anchor="middle" x="1007.5" y="-1572" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_ITEM</text>
+<path fill="none" stroke="#404040" d="M886.77,-2614.19C898.57,-2493.39 944,-2002.09 944,-1597.5 944,-1597.5 944,-1597.5 944,-998 944,-900.54 944,-791.62 944,-703.6"/>
+<polygon fill="none" stroke="#404040" points="944,-703.6 940,-697.6 944,-691.6 948,-697.6 944,-703.6"/>
+<text text-anchor="middle" x="1016.5" y="-1616" font-family="Helvetica,sans-Serif" font-size="10.00"> +DEFAULT_DESPAWN_DELAY</text>
+<text text-anchor="middle" x="1016.5" y="-1605" font-family="Helvetica,sans-Serif" font-size="10.00">+MAX_DESPAWN_DELAY</text>
+<text text-anchor="middle" x="1016.5" y="-1594" font-family="Helvetica,sans-Serif" font-size="10.00">+MERGE_CHECK_PERIOD</text>
+<text text-anchor="middle" x="1016.5" y="-1583" font-family="Helvetica,sans-Serif" font-size="10.00">+NEVER_DESPAWN</text>
+<text text-anchor="middle" x="1016.5" y="-1572" font-family="Helvetica,sans-Serif" font-size="10.00">+TAG_ITEM</text>
 </g>
 <!-- Node3&#45;&gt;Node2 -->
 <g id="edge2" class="edge">
@@ -167,45 +167,45 @@
 <g id="node4" class="node">
 <title>Node4</title>
 <g id="a_node4"><a xlink:href="../../d5/de3/classpocketmine_1_1event_1_1entity_1_1_entity_damage_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="821,-0.5 821,-332.5 1027,-332.5 1027,-0.5 821,-0.5"/>
-<text text-anchor="start" x="829" y="-320.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
-<text text-anchor="middle" x="924" y="-309.5" font-family="Helvetica,sans-Serif" font-size="10.00">\EntityDamageEvent</text>
-<polyline fill="none" stroke="black" points="821,-302.5 1027,-302.5 "/>
-<text text-anchor="start" x="829" y="-290.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_LAVA</text>
-<text text-anchor="start" x="829" y="-279.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_MAGIC</text>
-<text text-anchor="start" x="829" y="-268.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_PROJECTILE</text>
-<text text-anchor="start" x="829" y="-257.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_STARVATION</text>
-<text text-anchor="start" x="829" y="-246.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_SUFFOCATION</text>
-<text text-anchor="start" x="829" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_SUICIDE</text>
-<text text-anchor="start" x="829" y="-224.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_VOID</text>
-<text text-anchor="start" x="829" y="-213.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MODIFIER_ABSORPTION</text>
-<text text-anchor="start" x="829" y="-202.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MODIFIER_ARMOR</text>
-<text text-anchor="start" x="829" y="-191.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MODIFIER_ARMOR_ENCHANTMENTS</text>
-<text text-anchor="start" x="829" y="-180.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 8 more...</text>
-<polyline fill="none" stroke="black" points="821,-173.5 1027,-173.5 "/>
-<text text-anchor="start" x="829" y="-161.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="829" y="-150.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeReducedByArmor()</text>
-<text text-anchor="start" x="829" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAttackCooldown()</text>
-<text text-anchor="start" x="829" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBaseDamage()</text>
-<text text-anchor="start" x="829" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCause()</text>
-<text text-anchor="start" x="829" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFinalDamage()</text>
-<text text-anchor="start" x="829" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getModifier()</text>
-<text text-anchor="start" x="829" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getModifiers()</text>
-<text text-anchor="start" x="829" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOriginalBaseDamage()</text>
-<text text-anchor="start" x="829" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOriginalModifier()</text>
-<text text-anchor="start" x="829" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOriginalModifiers()</text>
-<text text-anchor="start" x="829" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isApplicable()</text>
-<text text-anchor="start" x="829" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAttackCooldown()</text>
-<text text-anchor="start" x="829" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setBaseDamage()</text>
-<text text-anchor="start" x="829" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setModifier()</text>
+<polygon fill="white" stroke="black" points="820,-0.5 820,-332.5 1026,-332.5 1026,-0.5 820,-0.5"/>
+<text text-anchor="start" x="828" y="-320.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
+<text text-anchor="middle" x="923" y="-309.5" font-family="Helvetica,sans-Serif" font-size="10.00">\EntityDamageEvent</text>
+<polyline fill="none" stroke="black" points="820,-302.5 1026,-302.5 "/>
+<text text-anchor="start" x="828" y="-290.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_LAVA</text>
+<text text-anchor="start" x="828" y="-279.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_MAGIC</text>
+<text text-anchor="start" x="828" y="-268.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_PROJECTILE</text>
+<text text-anchor="start" x="828" y="-257.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_STARVATION</text>
+<text text-anchor="start" x="828" y="-246.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_SUFFOCATION</text>
+<text text-anchor="start" x="828" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_SUICIDE</text>
+<text text-anchor="start" x="828" y="-224.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ CAUSE_VOID</text>
+<text text-anchor="start" x="828" y="-213.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MODIFIER_ABSORPTION</text>
+<text text-anchor="start" x="828" y="-202.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MODIFIER_ARMOR</text>
+<text text-anchor="start" x="828" y="-191.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MODIFIER_ARMOR_ENCHANTMENTS</text>
+<text text-anchor="start" x="828" y="-180.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 8 more...</text>
+<polyline fill="none" stroke="black" points="820,-173.5 1026,-173.5 "/>
+<text text-anchor="start" x="828" y="-161.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="828" y="-150.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeReducedByArmor()</text>
+<text text-anchor="start" x="828" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAttackCooldown()</text>
+<text text-anchor="start" x="828" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBaseDamage()</text>
+<text text-anchor="start" x="828" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCause()</text>
+<text text-anchor="start" x="828" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFinalDamage()</text>
+<text text-anchor="start" x="828" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getModifier()</text>
+<text text-anchor="start" x="828" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getModifiers()</text>
+<text text-anchor="start" x="828" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOriginalBaseDamage()</text>
+<text text-anchor="start" x="828" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOriginalModifier()</text>
+<text text-anchor="start" x="828" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOriginalModifiers()</text>
+<text text-anchor="start" x="828" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isApplicable()</text>
+<text text-anchor="start" x="828" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAttackCooldown()</text>
+<text text-anchor="start" x="828" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setBaseDamage()</text>
+<text text-anchor="start" x="828" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setModifier()</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node4 -->
 <g id="edge8" class="edge">
 <title>Node3&#45;&gt;Node4</title>
-<path fill="none" stroke="#404040" d="M892.9,-2614.27C934.06,-2483.45 1104,-1914.25 1104,-1435 1104,-1435 1104,-1435 1104,-530 1104,-453.12 1071.12,-375.75 1033.47,-312.34"/>
-<polygon fill="none" stroke="#404040" points="1033.35,-312.15 1026.83,-309.08 1027.14,-301.88 1033.67,-304.94 1033.35,-312.15"/>
+<path fill="none" stroke="#404040" d="M892.9,-2614.27C934.06,-2483.45 1104,-1914.25 1104,-1435 1104,-1435 1104,-1435 1104,-530 1104,-452.71 1070.65,-374.98 1032.59,-311.43"/>
+<polygon fill="none" stroke="#404040" points="1032.44,-311.2 1025.9,-308.16 1026.19,-300.95 1032.73,-303.99 1032.44,-311.2"/>
 <text text-anchor="middle" x="1176" y="-1486.5" font-family="Helvetica,sans-Serif" font-size="10.00"> +CAUSE_BLOCK_EXPLOSION</text>
 <text text-anchor="middle" x="1176" y="-1475.5" font-family="Helvetica,sans-Serif" font-size="10.00">+CAUSE_CONTACT</text>
 <text text-anchor="middle" x="1176" y="-1464.5" font-family="Helvetica,sans-Serif" font-size="10.00">+CAUSE_CUSTOM</text>
@@ -341,12 +341,12 @@
 <text text-anchor="start" x="1213" y="-2126" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomBlockData()</text>
 <text text-anchor="start" x="1213" y="-2115" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomName()</text>
 <text text-anchor="start" x="1213" y="-2104" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearNamedTag()</text>
-<text text-anchor="start" x="1213" y="-2093" font-family="Helvetica,sans-Serif" font-size="10.00">+ computeTypeData()</text>
-<text text-anchor="start" x="1213" y="-2082" font-family="Helvetica,sans-Serif" font-size="10.00">+ equals()</text>
+<text text-anchor="start" x="1213" y="-2093" font-family="Helvetica,sans-Serif" font-size="10.00">+ equals()</text>
+<text text-anchor="start" x="1213" y="-2082" font-family="Helvetica,sans-Serif" font-size="10.00">+ equalsExact()</text>
 <text text-anchor="start" x="1213" y="-2071" font-family="Helvetica,sans-Serif" font-size="10.00">and 45 more...</text>
 <text text-anchor="start" x="1213" y="-2060" font-family="Helvetica,sans-Serif" font-size="10.00">+ legacyJsonDeserialize()</text>
 <text text-anchor="start" x="1213" y="-2049" font-family="Helvetica,sans-Serif" font-size="10.00">+ nbtDeserialize()</text>
-<text text-anchor="start" x="1213" y="-2038" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
+<text text-anchor="start" x="1213" y="-2038" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 <text text-anchor="start" x="1213" y="-2027" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
 <text text-anchor="start" x="1213" y="-2016" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeCompoundTag()</text>
 </a>
@@ -367,15 +367,15 @@
 <!-- Node4&#45;&gt;Node2 -->
 <g id="edge3" class="edge">
 <title>Node4&#45;&gt;Node2</title>
-<path fill="none" stroke="#404040" d="M820.92,-265.22C794.17,-296.15 768.32,-332.21 752,-370 694.9,-502.2 736.75,-549.5 716,-692 714.31,-703.62 712.51,-715.47 710.63,-727.43"/>
-<polygon fill="none" stroke="#404040" points="710.6,-727.58 713.61,-734.13 708.72,-739.43 705.71,-732.88 710.6,-727.58"/>
-<text text-anchor="middle" x="805.5" y="-528.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #$lastDamageCause</text>
+<path fill="none" stroke="#404040" d="M819.92,-265.22C793.17,-296.15 767.32,-332.21 751,-370 693.9,-502.2 735.52,-549.47 715,-692 713.33,-703.61 711.55,-715.46 709.7,-727.42"/>
+<polygon fill="none" stroke="#404040" points="709.68,-727.56 712.7,-734.11 707.82,-739.42 704.8,-732.87 709.68,-727.56"/>
+<text text-anchor="middle" x="804.5" y="-528.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #$lastDamageCause</text>
 </g>
 <!-- Node5&#45;&gt;Node4 -->
 <g id="edge4" class="edge">
 <title>Node5&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M655.58,-486.99C671.3,-449.15 697.22,-393.62 729,-351 755.4,-315.6 789.06,-281.2 820.96,-251.94"/>
-<polygon fill="none" stroke="midnightblue" points="652.16,-486.1 651.61,-496.69 658.64,-488.76 652.16,-486.1"/>
+<path fill="none" stroke="midnightblue" d="M654.58,-486.99C670.3,-449.15 696.22,-393.62 728,-351 754.4,-315.6 788.06,-281.2 819.96,-251.94"/>
+<polygon fill="none" stroke="midnightblue" points="651.16,-486.1 650.61,-496.69 657.64,-488.76 651.16,-486.1"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">
@@ -394,8 +394,8 @@
 <!-- Node6&#45;&gt;Node5 -->
 <g id="edge5" class="edge">
 <title>Node6&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M510.61,-955.08C525.74,-903.67 551.97,-814.97 575,-739 593.61,-677.62 615.82,-606.18 628.58,-565.31"/>
-<polygon fill="none" stroke="midnightblue" points="507.2,-954.27 507.73,-964.85 513.91,-956.24 507.2,-954.27"/>
+<path fill="none" stroke="midnightblue" d="M510.66,-955.1C525.85,-903.7 552.13,-815.02 575,-739 593.45,-677.67 615.27,-606.21 627.79,-565.32"/>
+<polygon fill="none" stroke="midnightblue" points="507.25,-954.28 507.78,-964.86 513.97,-956.26 507.25,-954.28"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node">
@@ -413,8 +413,8 @@
 <!-- Node7&#45;&gt;Node4 -->
 <g id="edge7" class="edge">
 <title>Node7&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M1198.29,-492.73C1181.43,-455.01 1152.41,-396 1118,-351 1091.6,-316.47 1058.52,-282.62 1027.19,-253.59"/>
-<polygon fill="none" stroke="midnightblue" points="1195.27,-494.56 1202.51,-502.3 1201.68,-491.74 1195.27,-494.56"/>
+<path fill="none" stroke="midnightblue" d="M1198.31,-492.71C1181.48,-454.98 1152.46,-395.96 1118,-351 1091.34,-316.23 1057.88,-282.19 1026.24,-253.05"/>
+<polygon fill="none" stroke="midnightblue" points="1195.29,-494.55 1202.53,-502.29 1201.7,-491.73 1195.29,-494.55"/>
 </g>
 <!-- Node8 -->
 <g id="node8" class="node">
@@ -549,9 +549,11 @@
 <g id="node13" class="node">
 <title>Node13</title>
 <g id="a_node13"><a xlink:href="../../d7/d08/classpocketmine_1_1world_1_1_world_timings.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="242.5,-2570.5 242.5,-2715.5 415.5,-2715.5 415.5,-2570.5 242.5,-2570.5"/>
-<text text-anchor="middle" x="329" y="-2703.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\WorldTimings</text>
-<polyline fill="none" stroke="#bfbfbf" points="242.5,-2696.5 415.5,-2696.5 "/>
+<polygon fill="white" stroke="#bfbfbf" points="242.5,-2548.5 242.5,-2737.5 415.5,-2737.5 415.5,-2548.5 242.5,-2548.5"/>
+<text text-anchor="middle" x="329" y="-2725.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\WorldTimings</text>
+<polyline fill="none" stroke="#bfbfbf" points="242.5,-2718.5 415.5,-2718.5 "/>
+<text text-anchor="start" x="250.5" y="-2706.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $scheduledBlockUpdates</text>
+<text text-anchor="start" x="250.5" y="-2695.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $setBlock</text>
 <text text-anchor="start" x="250.5" y="-2684.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $syncChunkLoad</text>
 <text text-anchor="start" x="250.5" y="-2673.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $syncChunkLoadData</text>
 <text text-anchor="start" x="250.5" y="-2662.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $syncChunkLoadEntities</text>
@@ -561,68 +563,70 @@
 <text text-anchor="start" x="250.5" y="-2618.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $syncChunkSave</text>
 <text text-anchor="start" x="250.5" y="-2607.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $syncChunkSend</text>
 <text text-anchor="start" x="250.5" y="-2596.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $syncChunkSendPrepare</text>
-<polyline fill="none" stroke="#bfbfbf" points="242.5,-2589.5 415.5,-2589.5 "/>
-<text text-anchor="start" x="250.5" y="-2577.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="250.5" y="-2585.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $syncDataSave</text>
+<text text-anchor="start" x="250.5" y="-2574.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $tileTick</text>
+<polyline fill="none" stroke="#bfbfbf" points="242.5,-2567.5 415.5,-2567.5 "/>
+<text text-anchor="start" x="250.5" y="-2555.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
 </a>
 </g>
 </g>
 <!-- Node13&#45;&gt;Node11 -->
 <g id="edge15" class="edge">
 <title>Node13&#45;&gt;Node11</title>
-<path fill="none" stroke="#404040" d="M340.05,-2570.24C350.33,-2503.47 366.04,-2401.48 379.43,-2314.52"/>
-<polygon fill="none" stroke="#404040" points="379.44,-2314.49 376.4,-2307.95 381.26,-2302.63 384.3,-2309.17 379.44,-2314.49"/>
+<path fill="none" stroke="#404040" d="M343.43,-2548.31C353.56,-2482.5 367.4,-2392.68 379.38,-2314.85"/>
+<polygon fill="none" stroke="#404040" points="379.39,-2314.82 376.35,-2308.28 381.21,-2302.96 384.25,-2309.5 379.39,-2314.82"/>
 <text text-anchor="middle" x="406.5" y="-2412" font-family="Helvetica,sans-Serif" font-size="10.00"> +$timings</text>
 </g>
 <!-- Node14 -->
 <g id="node14" class="node">
 <title>Node14</title>
 <g id="a_node14"><a xlink:href="../../d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="815.5,-2928.5 815.5,-3128.5 928.5,-3128.5 928.5,-2928.5 815.5,-2928.5"/>
-<text text-anchor="start" x="823.5" y="-3116.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\timings</text>
-<text text-anchor="middle" x="872" y="-3105.5" font-family="Helvetica,sans-Serif" font-size="10.00">\TimingsHandler</text>
-<polyline fill="none" stroke="#bfbfbf" points="815.5,-3098.5 928.5,-3098.5 "/>
-<text text-anchor="middle" x="872" y="-3086.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="815.5,-3079.5 928.5,-3079.5 "/>
-<text text-anchor="start" x="823.5" y="-3067.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="823.5" y="-3056.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getGroup()</text>
-<text text-anchor="start" x="823.5" y="-3045.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getName()</text>
-<text text-anchor="start" x="823.5" y="-3034.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ reset()</text>
-<text text-anchor="start" x="823.5" y="-3023.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ startTiming()</text>
-<text text-anchor="start" x="823.5" y="-3012.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ stopTiming()</text>
-<text text-anchor="start" x="823.5" y="-3001.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ time()</text>
-<text text-anchor="start" x="823.5" y="-2990.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getStartTime()</text>
-<text text-anchor="start" x="823.5" y="-2979.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isEnabled()</text>
-<text text-anchor="start" x="823.5" y="-2968.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ printTimings()</text>
-<text text-anchor="start" x="823.5" y="-2957.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ reload()</text>
-<text text-anchor="start" x="823.5" y="-2946.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setEnabled()</text>
-<text text-anchor="start" x="823.5" y="-2935.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ tick()</text>
+<polygon fill="white" stroke="#bfbfbf" points="953.5,-2928.5 953.5,-3128.5 1066.5,-3128.5 1066.5,-2928.5 953.5,-2928.5"/>
+<text text-anchor="start" x="961.5" y="-3116.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\timings</text>
+<text text-anchor="middle" x="1010" y="-3105.5" font-family="Helvetica,sans-Serif" font-size="10.00">\TimingsHandler</text>
+<polyline fill="none" stroke="#bfbfbf" points="953.5,-3098.5 1066.5,-3098.5 "/>
+<text text-anchor="middle" x="1010" y="-3086.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="953.5,-3079.5 1066.5,-3079.5 "/>
+<text text-anchor="start" x="961.5" y="-3067.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="961.5" y="-3056.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getGroup()</text>
+<text text-anchor="start" x="961.5" y="-3045.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getName()</text>
+<text text-anchor="start" x="961.5" y="-3034.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ reset()</text>
+<text text-anchor="start" x="961.5" y="-3023.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ startTiming()</text>
+<text text-anchor="start" x="961.5" y="-3012.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ stopTiming()</text>
+<text text-anchor="start" x="961.5" y="-3001.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ time()</text>
+<text text-anchor="start" x="961.5" y="-2990.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getStartTime()</text>
+<text text-anchor="start" x="961.5" y="-2979.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isEnabled()</text>
+<text text-anchor="start" x="961.5" y="-2968.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ printTimings()</text>
+<text text-anchor="start" x="961.5" y="-2957.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ reload()</text>
+<text text-anchor="start" x="961.5" y="-2946.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setEnabled()</text>
+<text text-anchor="start" x="961.5" y="-2935.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ tick()</text>
 </a>
 </g>
 </g>
 <!-- Node14&#45;&gt;Node2 -->
 <g id="edge23" class="edge">
 <title>Node14&#45;&gt;Node2</title>
-<path fill="none" stroke="#404040" d="M928.73,-2944.41C992.48,-2845.54 1092.14,-2673.05 1131,-2508 1182.69,-2288.46 1224.43,-1952.71 1084,-1569 1011.86,-1371.88 848.13,-1184.89 746.84,-1082.01"/>
-<polygon fill="none" stroke="#404040" points="746.59,-1081.75 739.53,-1080.3 738.15,-1073.23 745.21,-1074.68 746.59,-1081.75"/>
-<text text-anchor="middle" x="1200.5" y="-1882" font-family="Helvetica,sans-Serif" font-size="10.00"> #$timings</text>
+<path fill="none" stroke="#404040" d="M1041.76,-2928.48C1113.7,-2687.15 1269.62,-2052.95 1093,-1569 1088.15,-1555.7 870.25,-1271.65 745.83,-1110.03"/>
+<polygon fill="none" stroke="#404040" points="745.46,-1109.55 738.63,-1107.23 738.14,-1100.04 744.97,-1102.35 745.46,-1109.55"/>
+<text text-anchor="middle" x="1198.5" y="-1882" font-family="Helvetica,sans-Serif" font-size="10.00"> #$timings</text>
 </g>
 <!-- Node14&#45;&gt;Node13 -->
 <g id="edge16" class="edge">
 <title>Node14&#45;&gt;Node13</title>
-<path fill="none" stroke="#404040" d="M815.41,-3001.47C726.47,-2958.91 551.09,-2868.24 425,-2760 412.71,-2749.45 400.75,-2737.21 389.67,-2724.72"/>
-<polygon fill="none" stroke="#404040" points="389.63,-2724.67 382.67,-2722.75 381.77,-2715.6 388.72,-2717.52 389.63,-2724.67"/>
-<text text-anchor="middle" x="711" y="-2902" font-family="Helvetica,sans-Serif" font-size="10.00"> +$doBlockLightUpdates</text>
-<text text-anchor="middle" x="711" y="-2891" font-family="Helvetica,sans-Serif" font-size="10.00">+$doBlockSkyLightUpdates</text>
-<text text-anchor="middle" x="711" y="-2880" font-family="Helvetica,sans-Serif" font-size="10.00">+$doChunkGC</text>
-<text text-anchor="middle" x="711" y="-2869" font-family="Helvetica,sans-Serif" font-size="10.00">+$doChunkUnload</text>
-<text text-anchor="middle" x="711" y="-2858" font-family="Helvetica,sans-Serif" font-size="10.00">+$doTick</text>
-<text text-anchor="middle" x="711" y="-2847" font-family="Helvetica,sans-Serif" font-size="10.00">+$entityTick</text>
-<text text-anchor="middle" x="711" y="-2836" font-family="Helvetica,sans-Serif" font-size="10.00">+$randomChunkUpdates</text>
-<text text-anchor="start" x="634" y="-2825" font-family="Helvetica,sans-Serif" font-size="10.00">+$randomChunkUpdatesChunk</text>
-<text text-anchor="middle" x="711" y="-2814" font-family="Helvetica,sans-Serif" font-size="10.00">Selection</text>
-<text text-anchor="middle" x="711" y="-2803" font-family="Helvetica,sans-Serif" font-size="10.00">+$scheduledBlockUpdates</text>
-<text text-anchor="middle" x="711" y="-2792" font-family="Helvetica,sans-Serif" font-size="10.00">+$setBlock</text>
-<text text-anchor="middle" x="711" y="-2781" font-family="Helvetica,sans-Serif" font-size="10.00">...</text>
+<path fill="none" stroke="#404040" d="M953.08,-3010.97C842.96,-2977.03 596.48,-2891.49 425,-2760 419.42,-2755.72 413.95,-2751.06 408.63,-2746.14"/>
+<polygon fill="none" stroke="#404040" points="408.47,-2745.98 401.37,-2744.7 399.83,-2737.65 406.93,-2738.94 408.47,-2745.98"/>
+<text text-anchor="middle" x="759.5" y="-2902" font-family="Helvetica,sans-Serif" font-size="10.00"> +$chunkPopulationCompletion</text>
+<text text-anchor="middle" x="759.5" y="-2891" font-family="Helvetica,sans-Serif" font-size="10.00">+$chunkPopulationOrder</text>
+<text text-anchor="middle" x="759.5" y="-2880" font-family="Helvetica,sans-Serif" font-size="10.00">+$doBlockLightUpdates</text>
+<text text-anchor="middle" x="759.5" y="-2869" font-family="Helvetica,sans-Serif" font-size="10.00">+$doBlockSkyLightUpdates</text>
+<text text-anchor="middle" x="759.5" y="-2858" font-family="Helvetica,sans-Serif" font-size="10.00">+$doChunkGC</text>
+<text text-anchor="middle" x="759.5" y="-2847" font-family="Helvetica,sans-Serif" font-size="10.00">+$doChunkUnload</text>
+<text text-anchor="middle" x="759.5" y="-2836" font-family="Helvetica,sans-Serif" font-size="10.00">+$doTick</text>
+<text text-anchor="middle" x="759.5" y="-2825" font-family="Helvetica,sans-Serif" font-size="10.00">+$entityTick</text>
+<text text-anchor="middle" x="759.5" y="-2814" font-family="Helvetica,sans-Serif" font-size="10.00">+$randomChunkUpdates</text>
+<text text-anchor="start" x="682" y="-2803" font-family="Helvetica,sans-Serif" font-size="10.00">+$randomChunkUpdatesChunk</text>
+<text text-anchor="middle" x="759.5" y="-2792" font-family="Helvetica,sans-Serif" font-size="10.00">Selection</text>
+<text text-anchor="middle" x="759.5" y="-2781" font-family="Helvetica,sans-Serif" font-size="10.00">...</text>
 </g>
 <!-- Node15 -->
 <g id="node15" class="node">
@@ -718,8 +722,8 @@
 <!-- Node19&#45;&gt;Node1 -->
 <g id="edge25" class="edge">
 <title>Node19&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M1292.58,-2008.66C1299.74,-1842.67 1301.93,-1556.31 1252,-1317 1205.34,-1093.34 1101.41,-850.51 1027.41,-695.09"/>
-<polygon fill="none" stroke="#404040" points="1027.31,-694.87 1021.12,-691.19 1022.14,-684.05 1028.33,-687.74 1027.31,-694.87"/>
+<path fill="none" stroke="#404040" d="M1292.63,-2008.65C1299.83,-1842.65 1302.06,-1556.28 1252,-1317 1205.12,-1092.92 1100.59,-849.7 1026.34,-694.32"/>
+<polygon fill="none" stroke="#404040" points="1026.23,-694.11 1020.03,-690.43 1021.04,-683.29 1027.24,-686.97 1026.23,-694.11"/>
 <text text-anchor="middle" x="1304" y="-1431.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #$item</text>
 </g>
 <!-- Node20 -->

@@ -13,21 +13,21 @@
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="15,-0.5 15,-156.5 161,-156.5 161,-0.5 15,-0.5"/>
+<polygon fill="#bfbfbf" stroke="black" points="12,-0.5 12,-156.5 164,-156.5 164,-0.5 12,-0.5"/>
 <text text-anchor="middle" x="88" y="-144.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Sapling</text>
-<polyline fill="none" stroke="black" points="15,-137.5 161,-137.5 "/>
-<text text-anchor="start" x="23" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $ready</text>
-<polyline fill="none" stroke="black" points="15,-118.5 161,-118.5 "/>
-<text text-anchor="start" x="23" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="23" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFuelTime()</text>
-<text text-anchor="start" x="23" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isReady()</text>
-<text text-anchor="start" x="23" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
-<text text-anchor="start" x="23" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="23" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onRandomTick()</text>
-<text text-anchor="start" x="23" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
-<text text-anchor="start" x="23" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setReady()</text>
-<text text-anchor="start" x="23" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ticksRandomly()</text>
-<text text-anchor="start" x="23" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<polyline fill="none" stroke="black" points="12,-137.5 164,-137.5 "/>
+<text text-anchor="start" x="20" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $ready</text>
+<polyline fill="none" stroke="black" points="12,-118.5 164,-118.5 "/>
+<text text-anchor="start" x="20" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="20" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFuelTime()</text>
+<text text-anchor="start" x="20" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isReady()</text>
+<text text-anchor="start" x="20" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
+<text text-anchor="start" x="20" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="20" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onRandomTick()</text>
+<text text-anchor="start" x="20" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="20" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setReady()</text>
+<text text-anchor="start" x="20" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ticksRandomly()</text>
+<text text-anchor="start" x="20" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 </a>
 </g>
 </g>
@@ -98,7 +98,7 @@
 <text text-anchor="start" x="8" y="-476.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
 <text text-anchor="start" x="8" y="-465.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
 <text text-anchor="start" x="8" y="-454.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 59 more...</text>
-<text text-anchor="start" x="8" y="-443.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="8" y="-443.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 <text text-anchor="start" x="8" y="-432.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getXpDropAmount()</text>
 <text text-anchor="start" x="8" y="-421.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>

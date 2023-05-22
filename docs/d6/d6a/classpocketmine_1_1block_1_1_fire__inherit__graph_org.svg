@@ -13,20 +13,20 @@
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="15,-0.5 15,-145.5 161,-145.5 161,-0.5 15,-0.5"/>
+<polygon fill="#bfbfbf" stroke="black" points="12,-0.5 12,-145.5 164,-145.5 164,-0.5 12,-0.5"/>
 <text text-anchor="middle" x="88" y="-133.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Fire</text>
-<polyline fill="none" stroke="black" points="15,-126.5 161,-126.5 "/>
-<text text-anchor="start" x="23" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_AGE</text>
-<text text-anchor="start" x="23" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $age</text>
-<polyline fill="none" stroke="black" points="15,-96.5 161,-96.5 "/>
-<text text-anchor="start" x="23" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAge()</text>
-<text text-anchor="start" x="23" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="23" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onRandomTick()</text>
-<text text-anchor="start" x="23" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onScheduledUpdate()</text>
-<text text-anchor="start" x="23" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAge()</text>
-<text text-anchor="start" x="23" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ticksRandomly()</text>
-<text text-anchor="start" x="23" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
-<text text-anchor="start" x="23" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getFireDamage()</text>
+<polyline fill="none" stroke="black" points="12,-126.5 164,-126.5 "/>
+<text text-anchor="start" x="20" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_AGE</text>
+<text text-anchor="start" x="20" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $age</text>
+<polyline fill="none" stroke="black" points="12,-96.5 164,-96.5 "/>
+<text text-anchor="start" x="20" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAge()</text>
+<text text-anchor="start" x="20" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="20" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onRandomTick()</text>
+<text text-anchor="start" x="20" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onScheduledUpdate()</text>
+<text text-anchor="start" x="20" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAge()</text>
+<text text-anchor="start" x="20" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ticksRandomly()</text>
+<text text-anchor="start" x="20" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
+<text text-anchor="start" x="20" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getFireDamage()</text>
 </a>
 </g>
 </g>
@@ -120,7 +120,7 @@
 <text text-anchor="start" x="8" y="-603.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
 <text text-anchor="start" x="8" y="-592.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
 <text text-anchor="start" x="8" y="-581.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 59 more...</text>
-<text text-anchor="start" x="8" y="-570.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="8" y="-570.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 <text text-anchor="start" x="8" y="-559.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getXpDropAmount()</text>
 <text text-anchor="start" x="8" y="-548.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>

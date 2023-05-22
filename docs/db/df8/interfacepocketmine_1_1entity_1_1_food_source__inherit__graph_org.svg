@@ -105,7 +105,7 @@
 <text text-anchor="start" x="566.5" y="-355" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
 <text text-anchor="start" x="566.5" y="-344" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
 <text text-anchor="start" x="566.5" y="-333" font-family="Helvetica,sans-Serif" font-size="10.00">+ setBites()</text>
-<text text-anchor="start" x="566.5" y="-322" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="566.5" y="-322" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 <text text-anchor="start" x="566.5" y="-311" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
@@ -968,7 +968,7 @@
 <text text-anchor="start" x="6646" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
 <text text-anchor="start" x="6646" y="-134.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ requiresHunger()</text>
 <text text-anchor="start" x="6646" y="-123.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setType()</text>
-<text text-anchor="start" x="6646" y="-112.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
+<text text-anchor="start" x="6646" y="-112.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 </a>
 </g>
 </g>

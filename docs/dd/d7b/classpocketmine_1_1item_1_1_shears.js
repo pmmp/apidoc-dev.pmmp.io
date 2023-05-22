@@ -5,6 +5,7 @@ var classpocketmine_1_1item_1_1_shears =
     [ "clearCustomBlockData", "dd/d7b/classpocketmine_1_1item_1_1_shears.html#a11483f8bbc44517bf2a25e40a3aa7558", null ],
     [ "clearCustomName", "dd/d7b/classpocketmine_1_1item_1_1_shears.html#a336d6f91be72079853413f5b4036a57d", null ],
     [ "clearNamedTag", "dd/d7b/classpocketmine_1_1item_1_1_shears.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a", null ],
+    [ "describeState", "dd/d7b/classpocketmine_1_1item_1_1_shears.html#a1df151eb419168f838e6d927c50f9210", null ],
     [ "deserializeCompoundTag", "dd/d7b/classpocketmine_1_1item_1_1_shears.html#a444bab7a652a1dc604048e392f5887cd", null ],
     [ "equals", "dd/d7b/classpocketmine_1_1item_1_1_shears.html#a4a9aa55600bb30c4d55ad63337874a07", null ],
     [ "equalsExact", "dd/d7b/classpocketmine_1_1item_1_1_shears.html#af737301b899b7a7c9e9b0bb9a234a119", null ],

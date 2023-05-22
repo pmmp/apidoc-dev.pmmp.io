@@ -59,16 +59,16 @@ var sectionId = 'dynsection-0';
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="13.5,-0.5 13.5,-101.5 162.5,-101.5 162.5,-0.5 13.5,-0.5"/>
+<polygon fill="#bfbfbf" stroke="black" points="12,-0.5 12,-101.5 164,-101.5 164,-0.5 12,-0.5"/>
 <text text-anchor="middle" x="88" y="-89.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Froglight</text>
-<polyline fill="none" stroke="black" points="13.5,-82.5 162.5,-82.5 "/>
+<polyline fill="none" stroke="black" points="12,-82.5 164,-82.5 "/>
 <text text-anchor="middle" x="88" y="-70.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="13.5,-63.5 162.5,-63.5 "/>
-<text text-anchor="start" x="21.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="21.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ describeType()</text>
-<text text-anchor="start" x="21.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFroglightType()</text>
-<text text-anchor="start" x="21.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLightLevel()</text>
-<text text-anchor="start" x="21.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFroglightType()</text>
+<polyline fill="none" stroke="black" points="12,-63.5 164,-63.5 "/>
+<text text-anchor="start" x="20" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="20" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ describeBlockItemState()</text>
+<text text-anchor="start" x="20" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFroglightType()</text>
+<text text-anchor="start" x="20" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLightLevel()</text>
+<text text-anchor="start" x="20" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFroglightType()</text>
 </a>
 </g>
 </g>
@@ -136,7 +136,7 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="8" y="-388.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
 <text text-anchor="start" x="8" y="-377.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
 <text text-anchor="start" x="8" y="-366.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 59 more...</text>
-<text text-anchor="start" x="8" y="-355.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="8" y="-355.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 <text text-anchor="start" x="8" y="-344.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getXpDropAmount()</text>
 <text text-anchor="start" x="8" y="-333.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>

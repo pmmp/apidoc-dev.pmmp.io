@@ -38,12 +38,12 @@
 <text text-anchor="start" x="3048.5" y="-635.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomBlockData()</text>
 <text text-anchor="start" x="3048.5" y="-624.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomName()</text>
 <text text-anchor="start" x="3048.5" y="-613.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearNamedTag()</text>
-<text text-anchor="start" x="3048.5" y="-602.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ computeTypeData()</text>
-<text text-anchor="start" x="3048.5" y="-591.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ equals()</text>
+<text text-anchor="start" x="3048.5" y="-602.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ equals()</text>
+<text text-anchor="start" x="3048.5" y="-591.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ equalsExact()</text>
 <text text-anchor="start" x="3048.5" y="-580.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 45 more...</text>
 <text text-anchor="start" x="3048.5" y="-569.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ legacyJsonDeserialize()</text>
 <text text-anchor="start" x="3048.5" y="-558.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ nbtDeserialize()</text>
-<text text-anchor="start" x="3048.5" y="-547.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
+<text text-anchor="start" x="3048.5" y="-547.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 <text text-anchor="start" x="3048.5" y="-536.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
 <text text-anchor="start" x="3048.5" y="-525.5" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeCompoundTag()</text>
 </a>
@@ -296,7 +296,7 @@
 <text text-anchor="start" x="1868.5" y="-360" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBlock()</text>
 <text text-anchor="start" x="1868.5" y="-349" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFuelTime()</text>
 <text text-anchor="start" x="1868.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
-<text text-anchor="start" x="1868.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
+<text text-anchor="start" x="1868.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 </a>
 </g>
 </g>
@@ -347,7 +347,7 @@
 <text text-anchor="start" x="2246.5" y="-365.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
 <text text-anchor="start" x="2246.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getColor()</text>
 <text text-anchor="start" x="2246.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setColor()</text>
-<text text-anchor="start" x="2246.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
+<text text-anchor="start" x="2246.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 </a>
 </g>
 </g>
@@ -451,7 +451,7 @@
 <text text-anchor="start" x="3051.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFuelTime()</text>
 <text text-anchor="start" x="3051.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
 <text text-anchor="start" x="3051.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isFireProof()</text>
-<text text-anchor="start" x="3051.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
+<text text-anchor="start" x="3051.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 </a>
 </g>
 </g>
@@ -525,7 +525,7 @@
 <text text-anchor="start" x="3573.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
 <text text-anchor="start" x="3573.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
 <text text-anchor="start" x="3573.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ setType()</text>
-<text text-anchor="start" x="3573.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
+<text text-anchor="start" x="3573.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 </a>
 </g>
 </g>
@@ -632,7 +632,7 @@
 <text text-anchor="start" x="4437.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
 <text text-anchor="start" x="4437.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
 <text text-anchor="start" x="4437.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ setType()</text>
-<text text-anchor="start" x="4437.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
+<text text-anchor="start" x="4437.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 </a>
 </g>
 </g>

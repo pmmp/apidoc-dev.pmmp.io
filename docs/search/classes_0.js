@@ -47,7 +47,7 @@ var searchData=
   ['asynctask_44',['AsyncTask',['../df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html',1,'pocketmine::scheduler']]],
   ['asyncworker_45',['AsyncWorker',['../d1/d4e/classpocketmine_1_1scheduler_1_1_async_worker.html',1,'pocketmine::scheduler']]],
   ['attachablelogger_46',['AttachableLogger',['../d9/d4f/interface_attachable_logger.html',1,'']]],
-  ['attachablethreadedlogger_47',['AttachableThreadedLogger',['../d3/db3/class_attachable_threaded_logger.html',1,'']]],
+  ['attachablethreadsafelogger_47',['AttachableThreadSafeLogger',['../d8/daf/classpocketmine_1_1thread_1_1log_1_1_attachable_thread_safe_logger.html',1,'pocketmine::thread::log']]],
   ['attribute_48',['Attribute',['../d1/d8b/classpocketmine_1_1entity_1_1_attribute.html',1,'pocketmine\entity\Attribute'],['../da/de0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_attribute.html',1,'pocketmine\network\mcpe\protocol\types\entity\Attribute']]],
   ['attributefactory_49',['AttributeFactory',['../dd/da4/classpocketmine_1_1entity_1_1_attribute_factory.html',1,'pocketmine::entity']]],
   ['attributemap_50',['AttributeMap',['../d0/d76/classpocketmine_1_1entity_1_1_attribute_map.html',1,'pocketmine::entity']]],

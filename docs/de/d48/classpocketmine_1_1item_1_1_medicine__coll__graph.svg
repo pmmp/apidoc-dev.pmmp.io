@@ -72,7 +72,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="214" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
 <text text-anchor="start" x="214" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
 <text text-anchor="start" x="214" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setType()</text>
-<text text-anchor="start" x="214" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
+<text text-anchor="start" x="214" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 </a>
 </g>
 </g>
@@ -98,12 +98,12 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="114" y="-300.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomBlockData()</text>
 <text text-anchor="start" x="114" y="-289.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomName()</text>
 <text text-anchor="start" x="114" y="-278.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearNamedTag()</text>
-<text text-anchor="start" x="114" y="-267.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ computeTypeData()</text>
-<text text-anchor="start" x="114" y="-256.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ equals()</text>
+<text text-anchor="start" x="114" y="-267.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ equals()</text>
+<text text-anchor="start" x="114" y="-256.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ equalsExact()</text>
 <text text-anchor="start" x="114" y="-245.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 45 more...</text>
 <text text-anchor="start" x="114" y="-234.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ legacyJsonDeserialize()</text>
 <text text-anchor="start" x="114" y="-223.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ nbtDeserialize()</text>
-<text text-anchor="start" x="114" y="-212.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
+<text text-anchor="start" x="114" y="-212.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 <text text-anchor="start" x="114" y="-201.5" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
 <text text-anchor="start" x="114" y="-190.5" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeCompoundTag()</text>
 </a>

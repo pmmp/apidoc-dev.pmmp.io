@@ -59,24 +59,24 @@ var sectionId = 'dynsection-0';
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="16,-0.5 16,-189.5 160,-189.5 160,-0.5 16,-0.5"/>
+<polygon fill="#bfbfbf" stroke="black" points="12,-0.5 12,-189.5 164,-189.5 164,-0.5 12,-0.5"/>
 <text text-anchor="middle" x="88" y="-177.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Tripwire</text>
-<polyline fill="none" stroke="black" points="16,-170.5 160,-170.5 "/>
-<text text-anchor="start" x="24" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $connected</text>
-<text text-anchor="start" x="24" y="-147.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $disarmed</text>
-<text text-anchor="start" x="24" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $suspended</text>
-<text text-anchor="start" x="24" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $triggered</text>
-<polyline fill="none" stroke="black" points="16,-118.5 160,-118.5 "/>
-<text text-anchor="start" x="24" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ asItem()</text>
-<text text-anchor="start" x="24" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isConnected()</text>
-<text text-anchor="start" x="24" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isDisarmed()</text>
-<text text-anchor="start" x="24" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isSuspended()</text>
-<text text-anchor="start" x="24" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isTriggered()</text>
-<text text-anchor="start" x="24" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setConnected()</text>
-<text text-anchor="start" x="24" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setDisarmed()</text>
-<text text-anchor="start" x="24" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setSuspended()</text>
-<text text-anchor="start" x="24" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setTriggered()</text>
-<text text-anchor="start" x="24" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<polyline fill="none" stroke="black" points="12,-170.5 164,-170.5 "/>
+<text text-anchor="start" x="20" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $connected</text>
+<text text-anchor="start" x="20" y="-147.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $disarmed</text>
+<text text-anchor="start" x="20" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $suspended</text>
+<text text-anchor="start" x="20" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $triggered</text>
+<polyline fill="none" stroke="black" points="12,-118.5 164,-118.5 "/>
+<text text-anchor="start" x="20" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ asItem()</text>
+<text text-anchor="start" x="20" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isConnected()</text>
+<text text-anchor="start" x="20" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isDisarmed()</text>
+<text text-anchor="start" x="20" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isSuspended()</text>
+<text text-anchor="start" x="20" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isTriggered()</text>
+<text text-anchor="start" x="20" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setConnected()</text>
+<text text-anchor="start" x="20" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setDisarmed()</text>
+<text text-anchor="start" x="20" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setSuspended()</text>
+<text text-anchor="start" x="20" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setTriggered()</text>
+<text text-anchor="start" x="20" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 </a>
 </g>
 </g>
@@ -147,7 +147,7 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="8" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
 <text text-anchor="start" x="8" y="-498.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
 <text text-anchor="start" x="8" y="-487.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 59 more...</text>
-<text text-anchor="start" x="8" y="-476.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="8" y="-476.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 <text text-anchor="start" x="8" y="-465.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getXpDropAmount()</text>
 <text text-anchor="start" x="8" y="-454.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>

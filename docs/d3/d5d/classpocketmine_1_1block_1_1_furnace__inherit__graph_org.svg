@@ -13,20 +13,20 @@
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="16,-0.5 16,-145.5 160,-145.5 160,-0.5 16,-0.5"/>
+<polygon fill="#bfbfbf" stroke="black" points="12,-0.5 12,-145.5 164,-145.5 164,-0.5 12,-0.5"/>
 <text text-anchor="middle" x="88" y="-133.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Furnace</text>
-<polyline fill="none" stroke="black" points="16,-126.5 160,-126.5 "/>
-<text text-anchor="start" x="24" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $furnaceType</text>
-<text text-anchor="start" x="24" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $lit</text>
-<polyline fill="none" stroke="black" points="16,-96.5 160,-96.5 "/>
-<text text-anchor="start" x="24" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="24" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFurnaceType()</text>
-<text text-anchor="start" x="24" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLightLevel()</text>
-<text text-anchor="start" x="24" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isLit()</text>
-<text text-anchor="start" x="24" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
-<text text-anchor="start" x="24" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onScheduledUpdate()</text>
-<text text-anchor="start" x="24" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setLit()</text>
-<text text-anchor="start" x="24" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<polyline fill="none" stroke="black" points="12,-126.5 164,-126.5 "/>
+<text text-anchor="start" x="20" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $furnaceType</text>
+<text text-anchor="start" x="20" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $lit</text>
+<polyline fill="none" stroke="black" points="12,-96.5 164,-96.5 "/>
+<text text-anchor="start" x="20" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="20" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFurnaceType()</text>
+<text text-anchor="start" x="20" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLightLevel()</text>
+<text text-anchor="start" x="20" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isLit()</text>
+<text text-anchor="start" x="20" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
+<text text-anchor="start" x="20" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onScheduledUpdate()</text>
+<text text-anchor="start" x="20" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setLit()</text>
+<text text-anchor="start" x="20" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 </a>
 </g>
 </g>
@@ -75,7 +75,7 @@
 <text text-anchor="start" x="8" y="-338.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
 <text text-anchor="start" x="8" y="-327.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
 <text text-anchor="start" x="8" y="-316.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 59 more...</text>
-<text text-anchor="start" x="8" y="-305.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="8" y="-305.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 <text text-anchor="start" x="8" y="-294.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getXpDropAmount()</text>
 <text text-anchor="start" x="8" y="-283.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>

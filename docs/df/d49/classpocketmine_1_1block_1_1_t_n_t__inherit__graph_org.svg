@@ -19,7 +19,7 @@
 <text text-anchor="start" x="17" y="-169.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $unstable</text>
 <text text-anchor="start" x="17" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $worksUnderwater</text>
 <polyline fill="none" stroke="black" points="9,-151.5 167,-151.5 "/>
-<text text-anchor="start" x="17" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ describeType()</text>
+<text text-anchor="start" x="17" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ describeBlockItemState()</text>
 <text text-anchor="start" x="17" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlameEncouragement()</text>
 <text text-anchor="start" x="17" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlammability()</text>
 <text text-anchor="start" x="17" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ignite()</text>
@@ -31,7 +31,7 @@
 <text text-anchor="start" x="17" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setUnstable()</text>
 <text text-anchor="start" x="17" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setWorksUnderwater()</text>
 <text text-anchor="start" x="17" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ worksUnderwater()</text>
-<text text-anchor="start" x="17" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="17" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 </a>
 </g>
 </g>
@@ -80,7 +80,7 @@
 <text text-anchor="start" x="8" y="-393.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
 <text text-anchor="start" x="8" y="-382.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
 <text text-anchor="start" x="8" y="-371.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 59 more...</text>
-<text text-anchor="start" x="8" y="-360.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="8" y="-360.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 <text text-anchor="start" x="8" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getXpDropAmount()</text>
 <text text-anchor="start" x="8" y="-338.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>

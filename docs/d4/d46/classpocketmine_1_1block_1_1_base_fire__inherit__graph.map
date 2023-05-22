@@ -1,8 +1,8 @@
 <map id="pocketmine\block\BaseFire" name="pocketmine\block\BaseFire">
-<area shape="rect" id="node1" title=" " alt="" coords="99,704,325,840"/>
-<area shape="rect" id="node5" href="$da/d18/classpocketmine_1_1block_1_1_fire.html" title=" " alt="" coords="5,888,200,1083"/>
-<area shape="rect" id="node6" href="$d9/d23/classpocketmine_1_1block_1_1_soul_fire.html" title=" " alt="" coords="224,925,419,1046"/>
-<area shape="rect" id="node2" href="$d3/d1e/classpocketmine_1_1block_1_1_flowable.html" title=" " alt="" coords="105,535,319,656"/>
-<area shape="rect" id="node3" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="103,409,321,487"/>
-<area shape="rect" id="node4" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="95,5,329,361"/>
+<area shape="rect" id="node1" title=" " alt="" coords="104,704,331,840"/>
+<area shape="rect" id="node5" href="$da/d18/classpocketmine_1_1block_1_1_fire.html" title=" " alt="" coords="5,888,208,1083"/>
+<area shape="rect" id="node6" href="$d9/d23/classpocketmine_1_1block_1_1_soul_fire.html" title=" " alt="" coords="232,925,427,1046"/>
+<area shape="rect" id="node2" href="$d3/d1e/classpocketmine_1_1block_1_1_flowable.html" title=" " alt="" coords="110,535,325,656"/>
+<area shape="rect" id="node3" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="109,409,326,487"/>
+<area shape="rect" id="node4" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="100,5,335,361"/>
 </map>

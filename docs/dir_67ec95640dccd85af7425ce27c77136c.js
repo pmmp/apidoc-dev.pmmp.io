@@ -8,7 +8,6 @@ var dir_67ec95640dccd85af7425ce27c77136c =
     [ "color", "dir_a63ebcc2f7b1a63914b5dceb3f4b5e8b.html", "dir_a63ebcc2f7b1a63914b5dceb3f4b5e8b" ],
     [ "errorhandler", "dir_582ef234c2298aaaef29e10a5ae7bbce.html", "dir_582ef234c2298aaaef29e10a5ae7bbce" ],
     [ "log", "dir_efb60bdb276935829773856a552a996d.html", "dir_efb60bdb276935829773856a552a996d" ],
-    [ "log-pthreads", "dir_155f5667b7d8c77864c92f17dd012376.html", "dir_155f5667b7d8c77864c92f17dd012376" ],
     [ "math", "dir_6af29372318209bdbb325ad6a4576b13.html", "dir_6af29372318209bdbb325ad6a4576b13" ],
     [ "nbt", "dir_1a17901ef04850eab3788e99ea4fdab1.html", "dir_1a17901ef04850eab3788e99ea4fdab1" ],
     [ "raklib", "dir_b8c246ef830a7a3f40b614f5ad5d50aa.html", "dir_b8c246ef830a7a3f40b614f5ad5d50aa" ],

@@ -11,5 +11,5 @@ var classpocketmine_1_1network_1_1mcpe_1_1auth_1_1_process_login_task =
     [ "publishProgress", "df/df7/classpocketmine_1_1network_1_1mcpe_1_1auth_1_1_process_login_task.html#a1ec846ee57cc2aae1b5604d5bfcb9948", null ],
     [ "reallyDestruct", "df/df7/classpocketmine_1_1network_1_1mcpe_1_1auth_1_1_process_login_task.html#adad32212908878d6e70423161dbae0bf", null ],
     [ "storeLocal", "df/df7/classpocketmine_1_1network_1_1mcpe_1_1auth_1_1_process_login_task.html#ad5e0edb131fe81a8b68e64c70ba06d2b", null ],
-    [ "$progressUpdates", "df/df7/classpocketmine_1_1network_1_1mcpe_1_1auth_1_1_process_login_task.html#a918d7e9d83e5cd78feccc7e19081f526", null ]
+    [ "$progressUpdates", "df/df7/classpocketmine_1_1network_1_1mcpe_1_1auth_1_1_process_login_task.html#ac53490645128426de21ae1ef050722a4", null ]
 ];

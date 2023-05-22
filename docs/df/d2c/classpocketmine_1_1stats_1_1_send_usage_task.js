@@ -11,5 +11,5 @@ var classpocketmine_1_1stats_1_1_send_usage_task =
     [ "publishProgress", "df/d2c/classpocketmine_1_1stats_1_1_send_usage_task.html#a1ec846ee57cc2aae1b5604d5bfcb9948", null ],
     [ "reallyDestruct", "df/d2c/classpocketmine_1_1stats_1_1_send_usage_task.html#adad32212908878d6e70423161dbae0bf", null ],
     [ "storeLocal", "df/d2c/classpocketmine_1_1stats_1_1_send_usage_task.html#ad5e0edb131fe81a8b68e64c70ba06d2b", null ],
-    [ "$progressUpdates", "df/d2c/classpocketmine_1_1stats_1_1_send_usage_task.html#a918d7e9d83e5cd78feccc7e19081f526", null ]
+    [ "$progressUpdates", "df/d2c/classpocketmine_1_1stats_1_1_send_usage_task.html#ac53490645128426de21ae1ef050722a4", null ]
 ];

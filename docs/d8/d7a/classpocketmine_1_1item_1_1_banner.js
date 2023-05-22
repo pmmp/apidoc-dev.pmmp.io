@@ -4,6 +4,7 @@ var classpocketmine_1_1item_1_1_banner =
     [ "clearCustomBlockData", "d8/d7a/classpocketmine_1_1item_1_1_banner.html#a11483f8bbc44517bf2a25e40a3aa7558", null ],
     [ "clearCustomName", "d8/d7a/classpocketmine_1_1item_1_1_banner.html#a336d6f91be72079853413f5b4036a57d", null ],
     [ "clearNamedTag", "d8/d7a/classpocketmine_1_1item_1_1_banner.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a", null ],
+    [ "describeState", "d8/d7a/classpocketmine_1_1item_1_1_banner.html#aaae145a5ed835f29ca66842653536837", null ],
     [ "deserializeCompoundTag", "d8/d7a/classpocketmine_1_1item_1_1_banner.html#af82c5c19849bccc207fad44bf12769ba", null ],
     [ "equals", "d8/d7a/classpocketmine_1_1item_1_1_banner.html#a4a9aa55600bb30c4d55ad63337874a07", null ],
     [ "equalsExact", "d8/d7a/classpocketmine_1_1item_1_1_banner.html#af737301b899b7a7c9e9b0bb9a234a119", null ],

@@ -13,17 +13,17 @@
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="91,-138.5 91,-250.5 237,-250.5 237,-138.5 91,-138.5"/>
+<polygon fill="#bfbfbf" stroke="black" points="88,-138.5 88,-250.5 240,-250.5 240,-138.5 88,-138.5"/>
 <text text-anchor="middle" x="164" y="-238.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Torch</text>
-<polyline fill="none" stroke="black" points="91,-231.5 237,-231.5 "/>
-<text text-anchor="start" x="99" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $facing</text>
-<polyline fill="none" stroke="black" points="91,-212.5 237,-212.5 "/>
-<text text-anchor="start" x="99" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFacing()</text>
-<text text-anchor="start" x="99" y="-189.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLightLevel()</text>
-<text text-anchor="start" x="99" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="99" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
-<text text-anchor="start" x="99" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFacing()</text>
-<text text-anchor="start" x="99" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<polyline fill="none" stroke="black" points="88,-231.5 240,-231.5 "/>
+<text text-anchor="start" x="96" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $facing</text>
+<polyline fill="none" stroke="black" points="88,-212.5 240,-212.5 "/>
+<text text-anchor="start" x="96" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFacing()</text>
+<text text-anchor="start" x="96" y="-189.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLightLevel()</text>
+<text text-anchor="start" x="96" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="96" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="96" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFacing()</text>
+<text text-anchor="start" x="96" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 </a>
 </g>
 </g>
@@ -40,7 +40,7 @@
 <text text-anchor="start" x="8" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLightLevel()</text>
 <text text-anchor="start" x="8" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isLit()</text>
 <text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setLit()</text>
-<text text-anchor="start" x="8" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="8" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 </a>
 </g>
 </g>
@@ -137,7 +137,7 @@
 <text text-anchor="start" x="84" y="-570.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
 <text text-anchor="start" x="84" y="-559.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
 <text text-anchor="start" x="84" y="-548.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 59 more...</text>
-<text text-anchor="start" x="84" y="-537.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="84" y="-537.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 <text text-anchor="start" x="84" y="-526.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getXpDropAmount()</text>
 <text text-anchor="start" x="84" y="-515.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>

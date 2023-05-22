@@ -6,6 +6,7 @@ var classpocketmine_1_1item_1_1_turtle_helmet =
     [ "clearCustomColor", "d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html#a50973c09ed15d39bce9f0d3a3ebff24b", null ],
     [ "clearCustomName", "d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html#a336d6f91be72079853413f5b4036a57d", null ],
     [ "clearNamedTag", "d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a", null ],
+    [ "describeState", "d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html#a1df151eb419168f838e6d927c50f9210", null ],
     [ "deserializeCompoundTag", "d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html#a32bd3c59c838b1d8df28230f5f5814e2", null ],
     [ "equals", "d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html#a4a9aa55600bb30c4d55ad63337874a07", null ],
     [ "equalsExact", "d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html#af737301b899b7a7c9e9b0bb9a234a119", null ],

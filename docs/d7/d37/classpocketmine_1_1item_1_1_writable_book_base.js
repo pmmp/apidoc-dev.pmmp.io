@@ -6,6 +6,7 @@ var classpocketmine_1_1item_1_1_writable_book_base =
     [ "clearCustomName", "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a336d6f91be72079853413f5b4036a57d", null ],
     [ "clearNamedTag", "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a", null ],
     [ "deletePage", "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a46e9597cc1a492c84e5f32d006a4a1d3", null ],
+    [ "describeState", "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a1df151eb419168f838e6d927c50f9210", null ],
     [ "deserializeCompoundTag", "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a6a95cea665344fe13b4f7f5847aad733", null ],
     [ "equals", "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a4a9aa55600bb30c4d55ad63337874a07", null ],
     [ "equalsExact", "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#af737301b899b7a7c9e9b0bb9a234a119", null ],

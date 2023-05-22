@@ -124,7 +124,7 @@
 <text text-anchor="start" x="565.5" y="-206" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
 <text text-anchor="start" x="565.5" y="-195" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
 <text text-anchor="start" x="565.5" y="-184" font-family="Helvetica,sans-Serif" font-size="10.00">+ setBites()</text>
-<text text-anchor="start" x="565.5" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="565.5" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 <text text-anchor="start" x="565.5" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
@@ -992,7 +992,7 @@
 <text text-anchor="start" x="2616" y="-366" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
 <text text-anchor="start" x="2616" y="-355" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
 <text text-anchor="start" x="2616" y="-344" font-family="Helvetica,sans-Serif" font-size="10.00">+ setType()</text>
-<text text-anchor="start" x="2616" y="-333" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
+<text text-anchor="start" x="2616" y="-333" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 </a>
 </g>
 </g>
@@ -1042,7 +1042,7 @@
 <text text-anchor="start" x="2954" y="-366" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
 <text text-anchor="start" x="2954" y="-355" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
 <text text-anchor="start" x="2954" y="-344" font-family="Helvetica,sans-Serif" font-size="10.00">+ setType()</text>
-<text text-anchor="start" x="2954" y="-333" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
+<text text-anchor="start" x="2954" y="-333" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 </a>
 </g>
 </g>

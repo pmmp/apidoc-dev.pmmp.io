@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA3 git-30f1d3e01617748f57d04fa0d2f8b3c276fa19ff</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA4 git-815b4e2babe9a2d3ac53f9e73a2f89181b23e7d7</span>
    </div>
   </td>
  </tr>
@@ -114,8 +114,8 @@ $(document).ready(function(){initNavTree('d2/d16/classpocketmine_1_1snooze_1_1_s
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a94cdd3ba350d3f7faebe7fea5e3a505c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d16/classpocketmine_1_1snooze_1_1_sleeper_notifier.html#a94cdd3ba350d3f7faebe7fea5e3a505c">attachSleeper</a> (\ThreadedArray $sharedObject, int $id)</td></tr>
-<tr class="separator:a94cdd3ba350d3f7faebe7fea5e3a505c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a49541acfa6aa2c5127647f8f20376aa7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d16/classpocketmine_1_1snooze_1_1_sleeper_notifier.html#a49541acfa6aa2c5127647f8f20376aa7">attachSleeper</a> (ThreadSafeArray $sharedObject, int $id)</td></tr>
+<tr class="separator:a49541acfa6aa2c5127647f8f20376aa7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7becd12b86e820c62713d340cc558fdd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d16/classpocketmine_1_1snooze_1_1_sleeper_notifier.html#a7becd12b86e820c62713d340cc558fdd">getSleeperId</a> ()</td></tr>
 <tr class="separator:a7becd12b86e820c62713d340cc558fdd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8795ca6aa6db11299f7aac28eb86c0fd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d16/classpocketmine_1_1snooze_1_1_sleeper_notifier.html#a8795ca6aa6db11299f7aac28eb86c0fd">wakeupSleeper</a> ()</td></tr>
@@ -124,10 +124,10 @@ Public Member Functions</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p >Notifiers are Threaded objects which can be attached to threaded sleepers in order to wake them up. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d5/dd3/_sleeper_notifier_8php_source.html#l00031">31</a> of file <a class="el" href="../../d5/dd3/_sleeper_notifier_8php_source.html">SleeperNotifier.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/dd3/_sleeper_notifier_8php_source.html#l00033">33</a> of file <a class="el" href="../../d5/dd3/_sleeper_notifier_8php_source.html">SleeperNotifier.php</a>.</p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a94cdd3ba350d3f7faebe7fea5e3a505c" name="a94cdd3ba350d3f7faebe7fea5e3a505c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a94cdd3ba350d3f7faebe7fea5e3a505c">&#9670;&nbsp;</a></span>attachSleeper()</h2>
+<a id="a49541acfa6aa2c5127647f8f20376aa7" name="a49541acfa6aa2c5127647f8f20376aa7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a49541acfa6aa2c5127647f8f20376aa7">&#9670;&nbsp;</a></span>attachSleeper()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -138,7 +138,7 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="memname">pocketmine\snooze\SleeperNotifier::attachSleeper </td>
           <td>(</td>
-          <td class="paramtype">\ThreadedArray&#160;</td>
+          <td class="paramtype">ThreadSafeArray&#160;</td>
           <td class="paramname"><em>$sharedObject</em>, </td>
         </tr>
         <tr>
@@ -159,9 +159,9 @@ Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<p >@phpstan-param \ThreadedArray&lt;int, int&gt; $sharedObject </p>
+<p >@phpstan-param ThreadSafeArray&lt;int, int&gt; $sharedObject </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d5/dd3/_sleeper_notifier_8php_source.html#l00044">44</a> of file <a class="el" href="../../d5/dd3/_sleeper_notifier_8php_source.html">SleeperNotifier.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/dd3/_sleeper_notifier_8php_source.html#l00046">46</a> of file <a class="el" href="../../d5/dd3/_sleeper_notifier_8php_source.html">SleeperNotifier.php</a>.</p>
 
 </div>
 </div>
@@ -188,7 +188,7 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d5/dd3/_sleeper_notifier_8php_source.html#l00049">49</a> of file <a class="el" href="../../d5/dd3/_sleeper_notifier_8php_source.html">SleeperNotifier.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/dd3/_sleeper_notifier_8php_source.html#l00051">51</a> of file <a class="el" href="../../d5/dd3/_sleeper_notifier_8php_source.html">SleeperNotifier.php</a>.</p>
 
 </div>
 </div>
@@ -216,7 +216,7 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <p >Call this method from other threads to wake up the main server thread. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d5/dd3/_sleeper_notifier_8php_source.html#l00056">56</a> of file <a class="el" href="../../d5/dd3/_sleeper_notifier_8php_source.html">SleeperNotifier.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/dd3/_sleeper_notifier_8php_source.html#l00058">58</a> of file <a class="el" href="../../d5/dd3/_sleeper_notifier_8php_source.html">SleeperNotifier.php</a>.</p>
 
 </div>
 </div>

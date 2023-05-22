@@ -34,7 +34,7 @@
 <text text-anchor="start" x="270" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setProducingSignal()</text>
 <text text-anchor="start" x="270" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setViewedPage()</text>
 <text text-anchor="start" x="270" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ writeStateToWorld()</text>
-<text text-anchor="start" x="270" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="270" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 <text text-anchor="start" x="270" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
@@ -79,7 +79,7 @@
 <text text-anchor="start" x="481" y="-449.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
 <text text-anchor="start" x="481" y="-438.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
 <text text-anchor="start" x="481" y="-427.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 59 more...</text>
-<text text-anchor="start" x="481" y="-416.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<text text-anchor="start" x="481" y="-416.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 <text text-anchor="start" x="481" y="-405.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getXpDropAmount()</text>
 <text text-anchor="start" x="481" y="-394.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
@@ -224,12 +224,12 @@
 <text text-anchor="start" x="121.5" y="-1050" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomBlockData()</text>
 <text text-anchor="start" x="121.5" y="-1039" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearCustomName()</text>
 <text text-anchor="start" x="121.5" y="-1028" font-family="Helvetica,sans-Serif" font-size="10.00">+ clearNamedTag()</text>
-<text text-anchor="start" x="121.5" y="-1017" font-family="Helvetica,sans-Serif" font-size="10.00">+ computeTypeData()</text>
-<text text-anchor="start" x="121.5" y="-1006" font-family="Helvetica,sans-Serif" font-size="10.00">+ equals()</text>
+<text text-anchor="start" x="121.5" y="-1017" font-family="Helvetica,sans-Serif" font-size="10.00">+ equals()</text>
+<text text-anchor="start" x="121.5" y="-1006" font-family="Helvetica,sans-Serif" font-size="10.00">+ equalsExact()</text>
 <text text-anchor="start" x="121.5" y="-995" font-family="Helvetica,sans-Serif" font-size="10.00">and 45 more...</text>
 <text text-anchor="start" x="121.5" y="-984" font-family="Helvetica,sans-Serif" font-size="10.00">+ legacyJsonDeserialize()</text>
 <text text-anchor="start" x="121.5" y="-973" font-family="Helvetica,sans-Serif" font-size="10.00">+ nbtDeserialize()</text>
-<text text-anchor="start" x="121.5" y="-962" font-family="Helvetica,sans-Serif" font-size="10.00"># describeType()</text>
+<text text-anchor="start" x="121.5" y="-962" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 <text text-anchor="start" x="121.5" y="-951" font-family="Helvetica,sans-Serif" font-size="10.00"># deserializeCompoundTag()</text>
 <text text-anchor="start" x="121.5" y="-940" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeCompoundTag()</text>
 </a>
@@ -390,9 +390,11 @@
 <g id="node11" class="node">
 <title>Node11</title>
 <g id="a_node11"><a xlink:href="../../d7/d08/classpocketmine_1_1world_1_1_world_timings.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="600,-1439.5 600,-1584.5 773,-1584.5 773,-1439.5 600,-1439.5"/>
-<text text-anchor="middle" x="686.5" y="-1572.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\WorldTimings</text>
-<polyline fill="none" stroke="#bfbfbf" points="600,-1565.5 773,-1565.5 "/>
+<polygon fill="white" stroke="#bfbfbf" points="600,-1417.5 600,-1606.5 773,-1606.5 773,-1417.5 600,-1417.5"/>
+<text text-anchor="middle" x="686.5" y="-1594.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\WorldTimings</text>
+<polyline fill="none" stroke="#bfbfbf" points="600,-1587.5 773,-1587.5 "/>
+<text text-anchor="start" x="608" y="-1575.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $scheduledBlockUpdates</text>
+<text text-anchor="start" x="608" y="-1564.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $setBlock</text>
 <text text-anchor="start" x="608" y="-1553.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $syncChunkLoad</text>
 <text text-anchor="start" x="608" y="-1542.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $syncChunkLoadData</text>
 <text text-anchor="start" x="608" y="-1531.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $syncChunkLoadEntities</text>
@@ -402,15 +404,17 @@
 <text text-anchor="start" x="608" y="-1487.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $syncChunkSave</text>
 <text text-anchor="start" x="608" y="-1476.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $syncChunkSend</text>
 <text text-anchor="start" x="608" y="-1465.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $syncChunkSendPrepare</text>
-<polyline fill="none" stroke="#bfbfbf" points="600,-1458.5 773,-1458.5 "/>
-<text text-anchor="start" x="608" y="-1446.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="608" y="-1454.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $syncDataSave</text>
+<text text-anchor="start" x="608" y="-1443.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ $tileTick</text>
+<polyline fill="none" stroke="#bfbfbf" points="600,-1436.5 773,-1436.5 "/>
+<text text-anchor="start" x="608" y="-1424.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
 </a>
 </g>
 </g>
 <!-- Node11&#45;&gt;Node9 -->
 <g id="edge11" class="edge">
 <title>Node11&#45;&gt;Node9</title>
-<path fill="none" stroke="#404040" d="M712.47,-1439.19C718.56,-1419.31 724.22,-1397.54 727.5,-1377 734.62,-1332.42 737.65,-1283.72 738.54,-1238.59"/>
+<path fill="none" stroke="#404040" d="M718.73,-1417.33C722.29,-1403.93 725.39,-1390.21 727.5,-1377 734.62,-1332.42 737.65,-1283.72 738.54,-1238.59"/>
 <polygon fill="none" stroke="#404040" points="738.54,-1238.58 734.64,-1232.52 738.73,-1226.58 742.63,-1232.64 738.54,-1238.58"/>
 <text text-anchor="middle" x="765" y="-1308.5" font-family="Helvetica,sans-Serif" font-size="10.00"> +$timings</text>
 </g>
@@ -443,20 +447,20 @@
 <!-- Node12&#45;&gt;Node11 -->
 <g id="edge12" class="edge">
 <title>Node12&#45;&gt;Node11</title>
-<path fill="none" stroke="#404040" d="M686.5,-1797.24C686.5,-1735.08 686.5,-1655.87 686.5,-1596.87"/>
-<polygon fill="none" stroke="#404040" points="686.5,-1596.6 682.5,-1590.6 686.5,-1584.6 690.5,-1590.6 686.5,-1596.6"/>
-<text text-anchor="middle" x="763.5" y="-1771" font-family="Helvetica,sans-Serif" font-size="10.00"> +$doBlockLightUpdates</text>
-<text text-anchor="middle" x="763.5" y="-1760" font-family="Helvetica,sans-Serif" font-size="10.00">+$doBlockSkyLightUpdates</text>
-<text text-anchor="middle" x="763.5" y="-1749" font-family="Helvetica,sans-Serif" font-size="10.00">+$doChunkGC</text>
-<text text-anchor="middle" x="763.5" y="-1738" font-family="Helvetica,sans-Serif" font-size="10.00">+$doChunkUnload</text>
-<text text-anchor="middle" x="763.5" y="-1727" font-family="Helvetica,sans-Serif" font-size="10.00">+$doTick</text>
-<text text-anchor="middle" x="763.5" y="-1716" font-family="Helvetica,sans-Serif" font-size="10.00">+$entityTick</text>
-<text text-anchor="middle" x="763.5" y="-1705" font-family="Helvetica,sans-Serif" font-size="10.00">+$randomChunkUpdates</text>
-<text text-anchor="start" x="686.5" y="-1694" font-family="Helvetica,sans-Serif" font-size="10.00">+$randomChunkUpdatesChunk</text>
-<text text-anchor="middle" x="763.5" y="-1683" font-family="Helvetica,sans-Serif" font-size="10.00">Selection</text>
-<text text-anchor="middle" x="763.5" y="-1672" font-family="Helvetica,sans-Serif" font-size="10.00">+$scheduledBlockUpdates</text>
-<text text-anchor="middle" x="763.5" y="-1661" font-family="Helvetica,sans-Serif" font-size="10.00">+$setBlock</text>
-<text text-anchor="middle" x="763.5" y="-1650" font-family="Helvetica,sans-Serif" font-size="10.00">...</text>
+<path fill="none" stroke="#404040" d="M686.5,-1797.24C686.5,-1742.45 686.5,-1674.41 686.5,-1618.64"/>
+<polygon fill="none" stroke="#404040" points="686.5,-1618.57 682.5,-1612.57 686.5,-1606.57 690.5,-1612.57 686.5,-1618.57"/>
+<text text-anchor="middle" x="764" y="-1771" font-family="Helvetica,sans-Serif" font-size="10.00"> +$chunkPopulationCompletion</text>
+<text text-anchor="middle" x="764" y="-1760" font-family="Helvetica,sans-Serif" font-size="10.00">+$chunkPopulationOrder</text>
+<text text-anchor="middle" x="764" y="-1749" font-family="Helvetica,sans-Serif" font-size="10.00">+$doBlockLightUpdates</text>
+<text text-anchor="middle" x="764" y="-1738" font-family="Helvetica,sans-Serif" font-size="10.00">+$doBlockSkyLightUpdates</text>
+<text text-anchor="middle" x="764" y="-1727" font-family="Helvetica,sans-Serif" font-size="10.00">+$doChunkGC</text>
+<text text-anchor="middle" x="764" y="-1716" font-family="Helvetica,sans-Serif" font-size="10.00">+$doChunkUnload</text>
+<text text-anchor="middle" x="764" y="-1705" font-family="Helvetica,sans-Serif" font-size="10.00">+$doTick</text>
+<text text-anchor="middle" x="764" y="-1694" font-family="Helvetica,sans-Serif" font-size="10.00">+$entityTick</text>
+<text text-anchor="middle" x="764" y="-1683" font-family="Helvetica,sans-Serif" font-size="10.00">+$randomChunkUpdates</text>
+<text text-anchor="start" x="686.5" y="-1672" font-family="Helvetica,sans-Serif" font-size="10.00">+$randomChunkUpdatesChunk</text>
+<text text-anchor="middle" x="764" y="-1661" font-family="Helvetica,sans-Serif" font-size="10.00">Selection</text>
+<text text-anchor="middle" x="764" y="-1650" font-family="Helvetica,sans-Serif" font-size="10.00">...</text>
 </g>
 <!-- Node13&#45;&gt;Node1 -->
 <g id="edge13" class="edge">
