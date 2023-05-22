@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    uses: pmmp/ApiDocsBuildAction/.github/workflows/build-docs.yml@858cbc757712c26999b8151b9a2dac7165ec8d12
+    uses: pmmp/ApiDocsBuildAction/.github/workflows/build-docs.yml@4d9c533afbbe36608c245cf22d5b100b8a95ed3b
     with:
       src-repo: pmmp/PocketMine-MP
       ref: major-next
