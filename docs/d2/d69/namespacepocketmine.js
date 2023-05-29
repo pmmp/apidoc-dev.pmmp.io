@@ -123,7 +123,9 @@ var namespacepocketmine =
         [ "LegacyToStringIdMap", "d1/d8a/classpocketmine_1_1data_1_1bedrock_1_1_legacy_to_string_id_map.html", "d1/d8a/classpocketmine_1_1data_1_1bedrock_1_1_legacy_to_string_id_map" ],
         [ "MedicineTypeIdMap", "d2/d53/classpocketmine_1_1data_1_1bedrock_1_1_medicine_type_id_map.html", null ],
         [ "MedicineTypeIds", "d9/df2/classpocketmine_1_1data_1_1bedrock_1_1_medicine_type_ids.html", null ],
+        [ "MobHeadTypeIdMap", "d7/de9/classpocketmine_1_1data_1_1bedrock_1_1_mob_head_type_id_map.html", null ],
         [ "MushroomBlockTypeIdMap", "db/db9/classpocketmine_1_1data_1_1bedrock_1_1_mushroom_block_type_id_map.html", null ],
+        [ "NoteInstrumentIdMap", "d7/d8a/classpocketmine_1_1data_1_1bedrock_1_1_note_instrument_id_map.html", null ],
         [ "PotionTypeIdMap", "d9/d5d/classpocketmine_1_1data_1_1bedrock_1_1_potion_type_id_map.html", null ],
         [ "PotionTypeIds", "d2/dff/classpocketmine_1_1data_1_1bedrock_1_1_potion_type_ids.html", null ],
         [ "SuspiciousStewTypeIdMap", "d9/d16/classpocketmine_1_1data_1_1bedrock_1_1_suspicious_stew_type_id_map.html", null ],
@@ -208,6 +210,7 @@ var namespacepocketmine =
     [ "scheduler", "d3/d75/namespacepocketmine_1_1scheduler.html", "d3/d75/namespacepocketmine_1_1scheduler" ],
     [ "snooze", null, [
       [ "SleeperHandler", "d7/d08/classpocketmine_1_1snooze_1_1_sleeper_handler.html", "d7/d08/classpocketmine_1_1snooze_1_1_sleeper_handler" ],
+      [ "SleeperHandlerEntry", "d8/d3f/classpocketmine_1_1snooze_1_1_sleeper_handler_entry.html", "d8/d3f/classpocketmine_1_1snooze_1_1_sleeper_handler_entry" ],
       [ "SleeperNotifier", "d2/d16/classpocketmine_1_1snooze_1_1_sleeper_notifier.html", "d2/d16/classpocketmine_1_1snooze_1_1_sleeper_notifier" ]
     ] ],
     [ "stats", null, [
@@ -223,6 +226,7 @@ var namespacepocketmine =
       [ "Thread", "d0/d6e/classpocketmine_1_1thread_1_1_thread.html", "d0/d6e/classpocketmine_1_1thread_1_1_thread" ],
       [ "ThreadException", "d0/df0/classpocketmine_1_1thread_1_1_thread_exception.html", null ],
       [ "ThreadManager", "df/dca/classpocketmine_1_1thread_1_1_thread_manager.html", "df/dca/classpocketmine_1_1thread_1_1_thread_manager" ],
+      [ "ThreadSafeClassLoader", "df/d2b/classpocketmine_1_1thread_1_1_thread_safe_class_loader.html", "df/d2b/classpocketmine_1_1thread_1_1_thread_safe_class_loader" ],
       [ "Worker", "d2/d42/classpocketmine_1_1thread_1_1_worker.html", "d2/d42/classpocketmine_1_1thread_1_1_worker" ]
     ] ],
     [ "timings", null, [

@@ -42,6 +42,7 @@ var classpocketmine_1_1entity_1_1_zombie =
     [ "getViewers", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#acaced48bc41cc13b10c1e99ba76bdabd", null ],
     [ "getXpDropAmount", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#af208f94f6e7be291700b56c8596a0dc2", null ],
     [ "hasMovementUpdate", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#a99366099f1f673cfcf93a585e10c5f4e", null ],
+    [ "hasNoClientPredictions", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#a265cb93031a89ccc4a4236b3702c690b", null ],
     [ "isBreathing", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#af412cd40918d6a86e39b9f5348ea105c", null ],
     [ "isClosed", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#ae8a891986a06e3621c4486538b0e5a60", null ],
     [ "jump", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#ad0800b31de14ef7ebb1354eb01588010", null ],
@@ -66,6 +67,7 @@ var classpocketmine_1_1entity_1_1_zombie =
     [ "setForceMovementUpdate", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#a7b2b97ba4ef36a9896c6c00f0997c7d5", null ],
     [ "setHealth", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#a640ba4e1b113e3f857306a3d6d12f4d9", null ],
     [ "setMaxAirSupplyTicks", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#a2dd0b61975dd1ccdf2d0ddc161f85013", null ],
+    [ "setNoClientPredictions", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#a099fce07daf8c0ce633456ea00b4272b", null ],
     [ "setOwningEntity", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#a8db17c4dcd6375fe3b610841c2b189bf", null ],
     [ "setTargetEntity", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#ae3d1faacc118b9fd25a401a995fcb1f4", null ],
     [ "teleport", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#a5661f8a252c5324dd54ed3534ab47a6b", null ]

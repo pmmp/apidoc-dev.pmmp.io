@@ -28,6 +28,7 @@ var classpocketmine_1_1entity_1_1projectile_1_1_projectile =
     [ "getTargetEntityId", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#a1cb36d5dd35dc4ee35b2f6e59d93e17b", null ],
     [ "getViewers", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#acaced48bc41cc13b10c1e99ba76bdabd", null ],
     [ "hasMovementUpdate", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#a3710089794f8a7cabba26cf8cad2b79b", null ],
+    [ "hasNoClientPredictions", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#a265cb93031a89ccc4a4236b3702c690b", null ],
     [ "isClosed", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#ae8a891986a06e3621c4486538b0e5a60", null ],
     [ "nextRuntimeId", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#a7a0ab51bbdfe50c4c8c58424974b47a7", null ],
     [ "onDeath", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#aac17dc3f3f88b2f3bcd614503d9a34ae", null ],
@@ -49,6 +50,7 @@ var classpocketmine_1_1entity_1_1projectile_1_1_projectile =
     [ "setFireTicks", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#a8e8d7ab0bf7a9de85e23b1202e9bb496", null ],
     [ "setForceMovementUpdate", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#a7b2b97ba4ef36a9896c6c00f0997c7d5", null ],
     [ "setHealth", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#ae6385e7ea9eab6233e17ea4fe680108b", null ],
+    [ "setNoClientPredictions", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#a099fce07daf8c0ce633456ea00b4272b", null ],
     [ "setOwningEntity", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#a8db17c4dcd6375fe3b610841c2b189bf", null ],
     [ "setTargetEntity", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#ae3d1faacc118b9fd25a401a995fcb1f4", null ],
     [ "teleport", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#a5661f8a252c5324dd54ed3534ab47a6b", null ]

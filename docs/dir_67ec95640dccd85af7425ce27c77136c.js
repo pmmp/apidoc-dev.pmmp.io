@@ -4,7 +4,6 @@ var dir_67ec95640dccd85af7425ce27c77136c =
     [ "bedrock-protocol", "dir_35c25ee8b73bfc2a0e7ec3dc66e7b1c9.html", "dir_35c25ee8b73bfc2a0e7ec3dc66e7b1c9" ],
     [ "binaryutils", "dir_20d97ab9eb4f51a93ceb36f1352bd8f0.html", "dir_20d97ab9eb4f51a93ceb36f1352bd8f0" ],
     [ "callback-validator", "dir_4d4b67f10f5c573de213794e1c34a860.html", "dir_4d4b67f10f5c573de213794e1c34a860" ],
-    [ "classloader", "dir_f9be796ac29a8a491d5d247acb51b67e.html", "dir_f9be796ac29a8a491d5d247acb51b67e" ],
     [ "color", "dir_a63ebcc2f7b1a63914b5dceb3f4b5e8b.html", "dir_a63ebcc2f7b1a63914b5dceb3f4b5e8b" ],
     [ "errorhandler", "dir_582ef234c2298aaaef29e10a5ae7bbce.html", "dir_582ef234c2298aaaef29e10a5ae7bbce" ],
     [ "log", "dir_efb60bdb276935829773856a552a996d.html", "dir_efb60bdb276935829773856a552a996d" ],

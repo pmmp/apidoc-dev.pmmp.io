@@ -62,6 +62,5 @@ var searchData=
   ['dyecoloridmap_59',['DyeColorIdMap',['../d5/d50/classpocketmine_1_1data_1_1bedrock_1_1_dye_color_id_map.html',1,'pocketmine::data::bedrock']]],
   ['dyedcandle_60',['DyedCandle',['../dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html',1,'pocketmine::block']]],
   ['dyedshulkerbox_61',['DyedShulkerBox',['../dd/d62/classpocketmine_1_1block_1_1_dyed_shulker_box.html',1,'pocketmine::block']]],
-  ['dyeusesound_62',['DyeUseSound',['../d1/dc4/classpocketmine_1_1world_1_1sound_1_1_dye_use_sound.html',1,'pocketmine::world::sound']]],
-  ['dynamicclassloader_63',['DynamicClassLoader',['../d1/d4f/interface_dynamic_class_loader.html',1,'']]]
+  ['dyeusesound_62',['DyeUseSound',['../d1/dc4/classpocketmine_1_1world_1_1sound_1_1_dye_use_sound.html',1,'pocketmine::world::sound']]]
 ];

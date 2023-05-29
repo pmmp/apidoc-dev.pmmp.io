@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA4 git-815b4e2babe9a2d3ac53f9e73a2f89181b23e7d7</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.0.0-BETA5 git-7f1550ef0466571fbfd6193a771f4396e488d786</span>
    </div>
   </td>
  </tr>
@@ -852,7 +852,7 @@ $(document).ready(function(){initNavTree('dd/dbe/_network_session_8php_source.ht
 <div class="line"><a id="l00809" name="l00809"></a><span class="lineno">  809</span> </div>
 <div class="line"><a id="l00810" name="l00810"></a><span class="lineno">  810</span>    <span class="keyword">private</span> <span class="keyword">function</span> beginSpawnSequence() : void{</div>
 <div class="line"><a id="l00811" name="l00811"></a><span class="lineno">  811</span>        $this-&gt;setHandler(new PreSpawnPacketHandler($this-&gt;<a class="code hl_function" href="../../d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674">server</a>, $this-&gt;player, $this, $this-&gt;invManager));</div>
-<div class="line"><a id="l00812" name="l00812"></a><span class="lineno">  812</span>        $this-&gt;player-&gt;setImmobile(); <span class="comment">//TODO: HACK: fix client-side falling pre-spawn</span></div>
+<div class="line"><a id="l00812" name="l00812"></a><span class="lineno">  812</span>        $this-&gt;player-&gt;setNoClientPredictions(); <span class="comment">//TODO: HACK: fix client-side falling pre-spawn</span></div>
 <div class="line"><a id="l00813" name="l00813"></a><span class="lineno">  813</span> </div>
 <div class="line"><a id="l00814" name="l00814"></a><span class="lineno">  814</span>        $this-&gt;logger-&gt;debug(<span class="stringliteral">&quot;Waiting for chunk radius request&quot;</span>);</div>
 <div class="line"><a id="l00815" name="l00815"></a><span class="lineno">  815</span>    }</div>
@@ -867,7 +867,7 @@ $(document).ready(function(){initNavTree('dd/dbe/_network_session_8php_source.ht
 <div class="line"><a id="l00824" name="l00824"></a><span class="lineno">  824</span> </div>
 <div class="line"><a id="l00825" name="l00825"></a><span class="lineno">  825</span>    <span class="keyword">private</span> <span class="keyword">function</span> onClientSpawnResponse() : void{</div>
 <div class="line"><a id="l00826" name="l00826"></a><span class="lineno">  826</span>        $this-&gt;logger-&gt;debug(<span class="stringliteral">&quot;Received spawn response, entering in-game phase&quot;</span>);</div>
-<div class="line"><a id="l00827" name="l00827"></a><span class="lineno">  827</span>        $this-&gt;player-&gt;setImmobile(<span class="keyword">false</span>); <span class="comment">//TODO: HACK: we set this during the spawn sequence to prevent the client sending junk movements</span></div>
+<div class="line"><a id="l00827" name="l00827"></a><span class="lineno">  827</span>        $this-&gt;player-&gt;setNoClientPredictions(<span class="keyword">false</span>); <span class="comment">//TODO: HACK: we set this during the spawn sequence to prevent the client sending junk movements</span></div>
 <div class="line"><a id="l00828" name="l00828"></a><span class="lineno">  828</span>        $this-&gt;player-&gt;doFirstSpawn();</div>
 <div class="line"><a id="l00829" name="l00829"></a><span class="lineno">  829</span>        $this-&gt;forceAsyncCompression = <span class="keyword">false</span>;</div>
 <div class="line"><a id="l00830" name="l00830"></a><span class="lineno">  830</span>        $this-&gt;setHandler(<span class="keyword">new</span> InGamePacketHandler($this-&gt;player, $this, $this-&gt;invManager));</div>
@@ -1222,7 +1222,7 @@ $(document).ready(function(){initNavTree('dd/dbe/_network_session_8php_source.ht
 <div class="line"><a id="l01191" name="l01191"></a><span class="lineno"> 1191</span>        $this-&gt;flushSendBuffer();</div>
 <div class="line"><a id="l01192" name="l01192"></a><span class="lineno"> 1192</span>    }</div>
 <div class="line"><a id="l01193" name="l01193"></a><span class="lineno"> 1193</span>}</div>
-<div class="ttc" id="aclasspocketmine_1_1_server_html"><div class="ttname"><a href="../../d5/df7/classpocketmine_1_1_server.html">pocketmine\Server</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d05/src_2_server_8php_source.html#l00175">src/Server.php:175</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1_server_html"><div class="ttname"><a href="../../d5/df7/classpocketmine_1_1_server.html">pocketmine\Server</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d05/src_2_server_8php_source.html#l00176">src/Server.php:176</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1entity_1_1effect_1_1_effect_instance_html"><div class="ttname"><a href="../../dc/d2e/classpocketmine_1_1entity_1_1effect_1_1_effect_instance.html">pocketmine\entity\effect\EffectInstance</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/db0/_effect_instance_8php_source.html#l00030">EffectInstance.php:30</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1event_1_1player_1_1_player_duplicate_login_event_html"><div class="ttname"><a href="../../d0/d41/classpocketmine_1_1event_1_1player_1_1_player_duplicate_login_event.html">pocketmine\event\player\PlayerDuplicateLoginEvent</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d8/df9/_player_duplicate_login_event_8php_source.html#l00036">PlayerDuplicateLoginEvent.php:36</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1event_1_1server_1_1_data_packet_decode_event_html"><div class="ttname"><a href="../../da/d79/classpocketmine_1_1event_1_1server_1_1_data_packet_decode_event.html">pocketmine\event\server\DataPacketDecodeEvent</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d3/d78/_data_packet_decode_event_8php_source.html#l00034">DataPacketDecodeEvent.php:34</a></div></div>
@@ -1325,7 +1325,7 @@ $(document).ready(function(){initNavTree('dd/dbe/_network_session_8php_source.ht
 <div class="ttc" id="ainterfacepocketmine_1_1network_1_1mcpe_1_1protocol_1_1_clientbound_packet_html"><div class="ttname"><a href="../../da/d77/interfacepocketmine_1_1network_1_1mcpe_1_1protocol_1_1_clientbound_packet.html">pocketmine\network\mcpe\protocol\ClientboundPacket</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d1/d49/_clientbound_packet_8php_source.html#l00017">ClientboundPacket.php:17</a></div></div>
 <div class="ttc" id="ainterfacepocketmine_1_1network_1_1mcpe_1_1protocol_1_1_packet_html"><div class="ttname"><a href="../../d4/d5d/interfacepocketmine_1_1network_1_1mcpe_1_1protocol_1_1_packet.html">pocketmine\network\mcpe\protocol\Packet</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d4/d21/bedrock-protocol_2src_2_packet_8php_source.html#l00019">bedrock-protocol/src/Packet.php:19</a></div></div>
 <div class="ttc" id="ainterfacepocketmine_1_1network_1_1mcpe_1_1protocol_1_1_serverbound_packet_html"><div class="ttname"><a href="../../dd/de6/interfacepocketmine_1_1network_1_1mcpe_1_1protocol_1_1_serverbound_packet.html">pocketmine\network\mcpe\protocol\ServerboundPacket</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d3/dfc/_serverbound_packet_8php_source.html#l00017">ServerboundPacket.php:17</a></div></div>
-<div class="ttc" id="anamespacepocketmine_html_ac8040f61ade1040754abb856b9707674"><div class="ttname"><a href="../../d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674">pocketmine\server</a></div><div class="ttdeci">server()</div><div class="ttdef"><b>Definition:</b> <a href="../../de/d55/_pocket_mine_8php_source.html#l00223">PocketMine.php:223</a></div></div>
+<div class="ttc" id="anamespacepocketmine_html_ac8040f61ade1040754abb856b9707674"><div class="ttname"><a href="../../d2/d69/namespacepocketmine.html#ac8040f61ade1040754abb856b9707674">pocketmine\server</a></div><div class="ttdeci">server()</div><div class="ttdef"><b>Definition:</b> <a href="../../de/d55/_pocket_mine_8php_source.html#l00224">PocketMine.php:224</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

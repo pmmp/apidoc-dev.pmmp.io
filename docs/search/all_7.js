@@ -20,7 +20,7 @@ var searchData=
   ['filesystem_17',['Filesystem',['../da/ddd/classpocketmine_1_1utils_1_1_filesystem.html',1,'pocketmine::utils']]],
   ['fillablecauldron_18',['FillableCauldron',['../d8/dce/classpocketmine_1_1block_1_1_fillable_cauldron.html',1,'pocketmine::block']]],
   ['filtertextpacket_19',['FilterTextPacket',['../dd/d0e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_filter_text_packet.html',1,'pocketmine::network::mcpe::protocol']]],
-  ['findclass_20',['findClass',['../da/d17/class_base_class_loader.html#a970687df36972da8af081e9fdbe60b59',1,'BaseClassLoader']]],
+  ['findclass_20',['findClass',['../df/d2b/classpocketmine_1_1thread_1_1_thread_safe_class_loader.html#aae97429ca039b314bad1e83058a57c38',1,'pocketmine::thread::ThreadSafeClassLoader']]],
   ['findentity_21',['findEntity',['../d8/d70/classpocketmine_1_1world_1_1_world_manager.html#a8ccce211f975d7d070bdade8b7688b0b',1,'pocketmine::world::WorldManager']]],
   ['findlog_22',['findLog',['../d8/deb/classpocketmine_1_1block_1_1_leaves.html#a1c46b1b33db92ff44357f5fb34ecf417',1,'pocketmine::block::Leaves']]],
   ['findresultitem_23',['findResultItem',['../d3/de1/classpocketmine_1_1inventory_1_1transaction_1_1_inventory_transaction.html#a19eca710abe2264e3de36b3159e0e559',1,'pocketmine::inventory::transaction::InventoryTransaction']]],

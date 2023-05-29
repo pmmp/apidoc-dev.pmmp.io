@@ -42,6 +42,7 @@ var classpocketmine_1_1entity_1_1_water_animal =
     [ "getViewers", "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#acaced48bc41cc13b10c1e99ba76bdabd", null ],
     [ "getXpDropAmount", "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#afeda8ddcc77181100f2934068c76facb", null ],
     [ "hasMovementUpdate", "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a99366099f1f673cfcf93a585e10c5f4e", null ],
+    [ "hasNoClientPredictions", "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a265cb93031a89ccc4a4236b3702c690b", null ],
     [ "isBreathing", "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#af412cd40918d6a86e39b9f5348ea105c", null ],
     [ "isClosed", "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#ae8a891986a06e3621c4486538b0e5a60", null ],
     [ "jump", "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#ad0800b31de14ef7ebb1354eb01588010", null ],
@@ -66,6 +67,7 @@ var classpocketmine_1_1entity_1_1_water_animal =
     [ "setForceMovementUpdate", "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a7b2b97ba4ef36a9896c6c00f0997c7d5", null ],
     [ "setHealth", "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a640ba4e1b113e3f857306a3d6d12f4d9", null ],
     [ "setMaxAirSupplyTicks", "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a2dd0b61975dd1ccdf2d0ddc161f85013", null ],
+    [ "setNoClientPredictions", "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a099fce07daf8c0ce633456ea00b4272b", null ],
     [ "setOwningEntity", "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a8db17c4dcd6375fe3b610841c2b189bf", null ],
     [ "setTargetEntity", "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#ae3d1faacc118b9fd25a401a995fcb1f4", null ],
     [ "teleport", "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a5661f8a252c5324dd54ed3534ab47a6b", null ]

@@ -28,6 +28,7 @@ var classpocketmine_1_1entity_1_1projectile_1_1_arrow =
     [ "getTargetEntityId", "d9/dac/classpocketmine_1_1entity_1_1projectile_1_1_arrow.html#a1cb36d5dd35dc4ee35b2f6e59d93e17b", null ],
     [ "getViewers", "d9/dac/classpocketmine_1_1entity_1_1projectile_1_1_arrow.html#acaced48bc41cc13b10c1e99ba76bdabd", null ],
     [ "hasMovementUpdate", "d9/dac/classpocketmine_1_1entity_1_1projectile_1_1_arrow.html#a3710089794f8a7cabba26cf8cad2b79b", null ],
+    [ "hasNoClientPredictions", "d9/dac/classpocketmine_1_1entity_1_1projectile_1_1_arrow.html#a265cb93031a89ccc4a4236b3702c690b", null ],
     [ "isClosed", "d9/dac/classpocketmine_1_1entity_1_1projectile_1_1_arrow.html#ae8a891986a06e3621c4486538b0e5a60", null ],
     [ "nextRuntimeId", "d9/dac/classpocketmine_1_1entity_1_1projectile_1_1_arrow.html#a7a0ab51bbdfe50c4c8c58424974b47a7", null ],
     [ "onDeath", "d9/dac/classpocketmine_1_1entity_1_1projectile_1_1_arrow.html#aac17dc3f3f88b2f3bcd614503d9a34ae", null ],
@@ -49,6 +50,7 @@ var classpocketmine_1_1entity_1_1projectile_1_1_arrow =
     [ "setFireTicks", "d9/dac/classpocketmine_1_1entity_1_1projectile_1_1_arrow.html#a8e8d7ab0bf7a9de85e23b1202e9bb496", null ],
     [ "setForceMovementUpdate", "d9/dac/classpocketmine_1_1entity_1_1projectile_1_1_arrow.html#a7b2b97ba4ef36a9896c6c00f0997c7d5", null ],
     [ "setHealth", "d9/dac/classpocketmine_1_1entity_1_1projectile_1_1_arrow.html#ae6385e7ea9eab6233e17ea4fe680108b", null ],
+    [ "setNoClientPredictions", "d9/dac/classpocketmine_1_1entity_1_1projectile_1_1_arrow.html#a099fce07daf8c0ce633456ea00b4272b", null ],
     [ "setOwningEntity", "d9/dac/classpocketmine_1_1entity_1_1projectile_1_1_arrow.html#a8db17c4dcd6375fe3b610841c2b189bf", null ],
     [ "setTargetEntity", "d9/dac/classpocketmine_1_1entity_1_1projectile_1_1_arrow.html#ae3d1faacc118b9fd25a401a995fcb1f4", null ],
     [ "teleport", "d9/dac/classpocketmine_1_1entity_1_1projectile_1_1_arrow.html#a5661f8a252c5324dd54ed3534ab47a6b", null ]

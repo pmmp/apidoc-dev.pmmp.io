@@ -1,6 +1,7 @@
 var namespacepocketmine_1_1scheduler =
 [
     [ "AsyncPool", "d8/db6/classpocketmine_1_1scheduler_1_1_async_pool.html", "d8/db6/classpocketmine_1_1scheduler_1_1_async_pool" ],
+    [ "AsyncPoolWorkerEntry", "d1/dcf/classpocketmine_1_1scheduler_1_1_async_pool_worker_entry.html", null ],
     [ "AsyncTask", "df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html", "df/dfa/classpocketmine_1_1scheduler_1_1_async_task" ],
     [ "AsyncWorker", "d1/d4e/classpocketmine_1_1scheduler_1_1_async_worker.html", "d1/d4e/classpocketmine_1_1scheduler_1_1_async_worker" ],
     [ "BulkCurlTask", "df/d18/classpocketmine_1_1scheduler_1_1_bulk_curl_task.html", "df/d18/classpocketmine_1_1scheduler_1_1_bulk_curl_task" ],

@@ -48,7 +48,7 @@ var searchData=
   ['getallsides_45',['getAllSides',['../d7/d27/classpocketmine_1_1block_1_1_block.html#afe506084e4bb8741a7ac64f6d90c00a5',1,'pocketmine::block::Block']]],
   ['getallvalues_46',['getAllValues',['../d5/df4/classpocketmine_1_1nbt_1_1tag_1_1_list_tag.html#a8252bbea3896bf76784d98905135944f',1,'pocketmine::nbt::tag::ListTag']]],
   ['getandclearlastsilencederror_47',['getAndClearLastSilencedError',['../df/d6a/classpocketmine_1_1errorhandler_1_1_error_to_exception_handler.html#a24f4a4702575f5868ed1ae268830bb25',1,'pocketmine::errorhandler::ErrorToExceptionHandler']]],
-  ['getandremovelookupentries_48',['getAndRemoveLookupEntries',['../da/d17/class_base_class_loader.html#a213551f001b7aef8a100b686c724a202',1,'BaseClassLoader']]],
+  ['getandremovelookupentries_48',['getAndRemoveLookupEntries',['../df/d2b/classpocketmine_1_1thread_1_1_thread_safe_class_loader.html#afb1c05fd5444e7805032ea46d4d05c28',1,'pocketmine::thread::ThreadSafeClassLoader']]],
   ['getanimations_49',['getAnimations',['../d3/dce/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1skin_1_1_skin_data.html#a65e6c56c66263922024777b38a0f2759',1,'pocketmine::network::mcpe::protocol::types::skin::SkinData']]],
   ['getarmorpoints_50',['getArmorPoints',['../df/d0c/classpocketmine_1_1entity_1_1_living.html#a8cbade5804cac7d6e0c1a6d9d7629e0d',1,'pocketmine::entity::Living']]],
   ['getarmorslot_51',['getArmorSlot',['../db/d85/classpocketmine_1_1item_1_1_armor.html#aaff81f6952ad8686aac4afbac1221c16',1,'pocketmine::item::Armor']]],
