@@ -56,6 +56,7 @@ var namespacepocketmine_1_1world =
         [ "FormatConverter", "dd/dc7/classpocketmine_1_1world_1_1format_1_1io_1_1_format_converter.html", null ],
         [ "GlobalBlockStateHandlers", "da/d68/classpocketmine_1_1world_1_1format_1_1io_1_1_global_block_state_handlers.html", null ],
         [ "GlobalItemDataHandlers", "d2/df3/classpocketmine_1_1world_1_1format_1_1io_1_1_global_item_data_handlers.html", null ],
+        [ "LoadedChunkData", "d2/da3/classpocketmine_1_1world_1_1format_1_1io_1_1_loaded_chunk_data.html", null ],
         [ "ReadOnlyWorldProviderManagerEntry", "df/dab/classpocketmine_1_1world_1_1format_1_1io_1_1_read_only_world_provider_manager_entry.html", "df/dab/classpocketmine_1_1world_1_1format_1_1io_1_1_read_only_world_provider_manager_entry" ],
         [ "WorldData", "d7/d4e/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_data.html", "d7/d4e/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_data" ],
         [ "WorldProvider", "d8/d94/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_provider.html", "d8/d94/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_provider" ],

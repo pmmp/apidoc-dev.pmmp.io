@@ -681,6 +681,7 @@ var hierarchy =
     [ "pocketmine\\crash\\CrashDumpRenderer", "d5/d37/classpocketmine_1_1crash_1_1_crash_dump_renderer.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\CreativeContentEntry", "d8/d72/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_creative_content_entry.html", null ],
     [ "pocketmine\\inventory\\CreativeInventory", "d3/d3e/classpocketmine_1_1inventory_1_1_creative_inventory.html", null ],
+    [ "pocketmine\\network\\mcpe\\cache\\CreativeInventoryCache", "dc/df6/classpocketmine_1_1network_1_1mcpe_1_1cache_1_1_creative_inventory_cache.html", null ],
     [ "pocketmine\\permission\\DefaultPermissionNames", "da/dca/classpocketmine_1_1permission_1_1_default_permission_names.html", null ],
     [ "pocketmine\\permission\\DefaultPermissions", "d3/dc9/classpocketmine_1_1permission_1_1_default_permissions.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\DeviceOS", "df/da5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_device_o_s.html", null ],
@@ -900,6 +901,7 @@ var hierarchy =
     ] ],
     [ "pocketmine\\event\\EventPriority", "d6/d55/classpocketmine_1_1event_1_1_event_priority.html", null ],
     [ "Exception", null, [
+      [ "JsonMapper_Exception", "d4/d67/class_json_mapper___exception.html", null ],
       [ "pocketmine\\scheduler\\CancelTaskException", "d0/d2b/classpocketmine_1_1scheduler_1_1_cancel_task_exception.html", null ]
     ] ],
     [ "raklib\\utils\\ExceptionTraceCleaner", "d0/d23/classraklib_1_1utils_1_1_exception_trace_cleaner.html", null ],
@@ -1113,6 +1115,7 @@ var hierarchy =
       [ "pocketmine\\nbt\\tag\\ListTag", "d5/df4/classpocketmine_1_1nbt_1_1tag_1_1_list_tag.html", null ],
       [ "pocketmine\\utils\\ObjectSet", "dd/de5/classpocketmine_1_1utils_1_1_object_set.html", null ]
     ] ],
+    [ "JsonMapper", "df/d33/class_json_mapper.html", null ],
     [ "pocketmine\\nbt\\JsonNbtParser", "d7/dca/classpocketmine_1_1nbt_1_1_json_nbt_parser.html", null ],
     [ "JsonSerializable", null, [
       [ "pocketmine\\crash\\CrashDumpData", "d8/da3/classpocketmine_1_1crash_1_1_crash_dump_data.html", null ],
@@ -1218,6 +1221,7 @@ var hierarchy =
     [ "pocketmine\\utils\\Limits", "db/da7/classpocketmine_1_1utils_1_1_limits.html", null ],
     [ "pocketmine\\event\\Listener", "d2/d5e/interfacepocketmine_1_1event_1_1_listener.html", null ],
     [ "pocketmine\\event\\ListenerMethodTags", "d0/d10/classpocketmine_1_1event_1_1_listener_method_tags.html", null ],
+    [ "pocketmine\\world\\format\\io\\LoadedChunkData", "d2/da3/classpocketmine_1_1world_1_1format_1_1io_1_1_loaded_chunk_data.html", null ],
     [ "Logger", "d4/d00/interface_logger.html", [
       [ "AttachableLogger", "d9/d4f/interface_attachable_logger.html", [
         [ "pocketmine\\plugin\\PluginLogger", "de/dc8/classpocketmine_1_1plugin_1_1_plugin_logger.html", null ]

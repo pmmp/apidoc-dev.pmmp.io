@@ -1,5 +1,5 @@
 <map id="pocketmine\event\player\PlayerDeathEvent" name="pocketmine\event\player\PlayerDeathEvent">
-<area shape="rect" id="node1" title=" " alt="" coords="117,5091,301,5315"/>
+<area shape="rect" id="node1" title=" " alt="" coords="104,5091,313,5344"/>
 <area shape="rect" id="node2" href="$d7/d1e/classpocketmine_1_1event_1_1entity_1_1_entity_death_event.html" title=" " alt="" coords="258,3829,439,3995"/>
 <area shape="rect" id="node3" href="$de/d84/classpocketmine_1_1event_1_1entity_1_1_entity_event.html" title=" " alt="" coords="906,1023,1087,1115"/>
 <area shape="rect" id="node7" href="$d5/de3/classpocketmine_1_1event_1_1entity_1_1_entity_damage_event.html" title=" " alt="" coords="477,1695,751,2139"/>

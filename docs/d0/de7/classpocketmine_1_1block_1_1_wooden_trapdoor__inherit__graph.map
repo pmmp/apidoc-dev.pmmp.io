@@ -1,6 +1,6 @@
 <map id="pocketmine\block\WoodenTrapdoor" name="pocketmine\block\WoodenTrapdoor">
-<area shape="rect" id="node1" title=" " alt="" coords="5,792,255,869"/>
-<area shape="rect" id="node2" href="$d1/d5f/classpocketmine_1_1block_1_1_trapdoor.html" title=" " alt="" coords="23,535,237,744"/>
-<area shape="rect" id="node3" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="21,409,239,487"/>
-<area shape="rect" id="node4" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="13,5,247,361"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,807,255,884"/>
+<area shape="rect" id="node2" href="$d1/d5f/classpocketmine_1_1block_1_1_trapdoor.html" title=" " alt="" coords="23,549,237,759"/>
+<area shape="rect" id="node3" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="21,424,239,501"/>
+<area shape="rect" id="node4" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="13,5,247,376"/>
 </map>

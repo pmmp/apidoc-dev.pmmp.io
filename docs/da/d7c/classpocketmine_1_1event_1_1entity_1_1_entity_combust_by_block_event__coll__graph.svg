@@ -412,9 +412,10 @@ var sectionId = 'dynsection-1';
 <title>Node6&#45;&gt;Node20</title>
 <path fill="none" stroke="#404040" d="M1245.26,-1940.65C1132.57,-1907.32 615.84,-1749.73 505,-1630 400.45,-1517.07 425.87,-1452.17 397,-1301 369.27,-1155.8 398.89,-1115.19 377,-969 371.75,-933.95 363.65,-896.33 355.3,-862.14"/>
 <polygon fill="none" stroke="#404040" points="355.23,-861.84 349.91,-856.98 352.35,-850.2 357.67,-855.06 355.23,-861.84"/>
-<text text-anchor="start" x="397" y="-1220" font-family="Helvetica,sans-Serif" font-size="10.00"> +INTERNAL_STATE_DATA</text>
-<text text-anchor="middle" x="475.5" y="-1209" font-family="Helvetica,sans-Serif" font-size="10.00">_BITS</text>
-<text text-anchor="middle" x="475.5" y="-1198" font-family="Helvetica,sans-Serif" font-size="10.00">+INTERNAL_STATE_DATA_MASK</text>
+<text text-anchor="middle" x="475.5" y="-1225.5" font-family="Helvetica,sans-Serif" font-size="10.00"> +EMPTY_STATE_ID</text>
+<text text-anchor="start" x="397" y="-1214.5" font-family="Helvetica,sans-Serif" font-size="10.00">+INTERNAL_STATE_DATA</text>
+<text text-anchor="middle" x="475.5" y="-1203.5" font-family="Helvetica,sans-Serif" font-size="10.00">_BITS</text>
+<text text-anchor="middle" x="475.5" y="-1192.5" font-family="Helvetica,sans-Serif" font-size="10.00">+INTERNAL_STATE_DATA_MASK</text>
 </g>
 <!-- Node7&#45;&gt;Node5 -->
 <g id="edge6" class="edge">

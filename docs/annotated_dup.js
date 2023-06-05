@@ -989,6 +989,7 @@ var annotated_dup =
           [ "cache", null, [
             [ "ChunkCache", "d0/deb/classpocketmine_1_1network_1_1mcpe_1_1cache_1_1_chunk_cache.html", "d0/deb/classpocketmine_1_1network_1_1mcpe_1_1cache_1_1_chunk_cache" ],
             [ "CraftingDataCache", "d6/d48/classpocketmine_1_1network_1_1mcpe_1_1cache_1_1_crafting_data_cache.html", null ],
+            [ "CreativeInventoryCache", "dc/df6/classpocketmine_1_1network_1_1mcpe_1_1cache_1_1_creative_inventory_cache.html", null ],
             [ "StaticPacketCache", "df/dc5/classpocketmine_1_1network_1_1mcpe_1_1cache_1_1_static_packet_cache.html", null ]
           ] ],
           [ "compression", null, [
@@ -1708,6 +1709,7 @@ var annotated_dup =
             [ "FormatConverter", "dd/dc7/classpocketmine_1_1world_1_1format_1_1io_1_1_format_converter.html", null ],
             [ "GlobalBlockStateHandlers", "da/d68/classpocketmine_1_1world_1_1format_1_1io_1_1_global_block_state_handlers.html", null ],
             [ "GlobalItemDataHandlers", "d2/df3/classpocketmine_1_1world_1_1format_1_1io_1_1_global_item_data_handlers.html", null ],
+            [ "LoadedChunkData", "d2/da3/classpocketmine_1_1world_1_1format_1_1io_1_1_loaded_chunk_data.html", null ],
             [ "ReadOnlyWorldProviderManagerEntry", "df/dab/classpocketmine_1_1world_1_1format_1_1io_1_1_read_only_world_provider_manager_entry.html", "df/dab/classpocketmine_1_1world_1_1format_1_1io_1_1_read_only_world_provider_manager_entry" ],
             [ "WorldData", "d7/d4e/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_data.html", "d7/d4e/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_data" ],
             [ "WorldProvider", "d8/d94/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_provider.html", "d8/d94/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_provider" ],
@@ -1923,7 +1925,7 @@ var annotated_dup =
       [ "Server", "d5/df7/classpocketmine_1_1_server.html", "d5/df7/classpocketmine_1_1_server" ],
       [ "ServerConfigGroup", "d1/d84/classpocketmine_1_1_server_config_group.html", null ],
       [ "TimeTrackingSleeperHandler", "d9/d43/classpocketmine_1_1_time_tracking_sleeper_handler.html", "d9/d43/classpocketmine_1_1_time_tracking_sleeper_handler" ],
-      [ "VersionInfo", "d4/db7/classpocketmine_1_1_version_info.html", null ]
+      [ "VersionInfo", "d4/db7/classpocketmine_1_1_version_info.html", "d4/db7/classpocketmine_1_1_version_info" ]
     ] ],
     [ "raklib", null, [
       [ "client", null, [
@@ -1998,6 +2000,8 @@ var annotated_dup =
     [ "BufferedLogger", "d3/d4b/interface_buffered_logger.html", "d3/d4b/interface_buffered_logger" ],
     [ "ClientSession", "d8/d4c/class_client_session.html", null ],
     [ "GlobalLogger", "df/db6/class_global_logger.html", null ],
+    [ "JsonMapper", "df/d33/class_json_mapper.html", "df/d33/class_json_mapper" ],
+    [ "JsonMapper_Exception", "d4/d67/class_json_mapper___exception.html", null ],
     [ "Logger", "d4/d00/interface_logger.html", "d4/d00/interface_logger" ],
     [ "LogLevel", "dd/de7/interface_log_level.html", null ],
     [ "PrefixedLogger", "d9/d00/class_prefixed_logger.html", "d9/d00/class_prefixed_logger" ],

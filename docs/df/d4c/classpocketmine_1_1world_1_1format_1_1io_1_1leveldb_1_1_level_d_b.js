@@ -12,5 +12,5 @@ var classpocketmine_1_1world_1_1format_1_1io_1_1leveldb_1_1_level_d_b =
     [ "getWorldMinY", "df/d4c/classpocketmine_1_1world_1_1format_1_1io_1_1leveldb_1_1_level_d_b.html#a4fdb365948d2e792038a732a9197a3e0", null ],
     [ "loadChunk", "df/d4c/classpocketmine_1_1world_1_1format_1_1io_1_1leveldb_1_1_level_d_b.html#a3a33cae8ceee5f67454e54ab15f5f49f", null ],
     [ "loadLevelData", "df/d4c/classpocketmine_1_1world_1_1format_1_1io_1_1leveldb_1_1_level_d_b.html#a4d9a9acc30fef12fd51fda2875fc4a11", null ],
-    [ "saveChunk", "df/d4c/classpocketmine_1_1world_1_1format_1_1io_1_1leveldb_1_1_level_d_b.html#ae19a243e9ef2efb236c0a268db5a20b6", null ]
+    [ "saveChunk", "df/d4c/classpocketmine_1_1world_1_1format_1_1io_1_1leveldb_1_1_level_d_b.html#ad1e05b62d1c0efb8eb5b33911362fa7c", null ]
 ];

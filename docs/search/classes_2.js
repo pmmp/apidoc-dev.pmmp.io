@@ -201,7 +201,8 @@ var searchData=
   ['creativecontentpacket_198',['CreativeContentPacket',['../d5/d75/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_creative_content_packet.html',1,'pocketmine::network::mcpe::protocol']]],
   ['creativecreatestackrequestaction_199',['CreativeCreateStackRequestAction',['../d7/da4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_creative_create_stack_request_action.html',1,'pocketmine::network::mcpe::protocol::types::inventory::stackrequest']]],
   ['creativeinventory_200',['CreativeInventory',['../d3/d3e/classpocketmine_1_1inventory_1_1_creative_inventory.html',1,'pocketmine::inventory']]],
-  ['criticalhitanimation_201',['CriticalHitAnimation',['../dd/d0b/classpocketmine_1_1entity_1_1animation_1_1_critical_hit_animation.html',1,'pocketmine::entity::animation']]],
-  ['criticalparticle_202',['CriticalParticle',['../de/d96/classpocketmine_1_1world_1_1particle_1_1_critical_particle.html',1,'pocketmine::world::particle']]],
-  ['crops_203',['Crops',['../d2/d70/classpocketmine_1_1block_1_1_crops.html',1,'pocketmine::block']]]
+  ['creativeinventorycache_201',['CreativeInventoryCache',['../dc/df6/classpocketmine_1_1network_1_1mcpe_1_1cache_1_1_creative_inventory_cache.html',1,'pocketmine::network::mcpe::cache']]],
+  ['criticalhitanimation_202',['CriticalHitAnimation',['../dd/d0b/classpocketmine_1_1entity_1_1animation_1_1_critical_hit_animation.html',1,'pocketmine::entity::animation']]],
+  ['criticalparticle_203',['CriticalParticle',['../de/d96/classpocketmine_1_1world_1_1particle_1_1_critical_particle.html',1,'pocketmine::world::particle']]],
+  ['crops_204',['Crops',['../d2/d70/classpocketmine_1_1block_1_1_crops.html',1,'pocketmine::block']]]
 ];

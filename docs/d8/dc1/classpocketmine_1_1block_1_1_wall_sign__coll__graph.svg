@@ -170,9 +170,10 @@ var sectionId = 'dynsection-1';
 <title>Node5&#45;&gt;Node4</title>
 <path fill="none" stroke="#404040" d="M149.96,-1527.29C143.81,-1412.65 122.55,-975.16 148.5,-840 161.19,-773.91 191.37,-705.6 220.75,-650.43"/>
 <polygon fill="none" stroke="#404040" points="220.9,-650.14 220.24,-642.96 226.61,-639.58 227.27,-646.76 220.9,-650.14"/>
-<text text-anchor="start" x="148.5" y="-910.5" font-family="Helvetica,sans-Serif" font-size="10.00"> +INTERNAL_STATE_DATA</text>
-<text text-anchor="middle" x="227" y="-899.5" font-family="Helvetica,sans-Serif" font-size="10.00">_BITS</text>
-<text text-anchor="middle" x="227" y="-888.5" font-family="Helvetica,sans-Serif" font-size="10.00">+INTERNAL_STATE_DATA_MASK</text>
+<text text-anchor="middle" x="227" y="-916" font-family="Helvetica,sans-Serif" font-size="10.00"> +EMPTY_STATE_ID</text>
+<text text-anchor="start" x="148.5" y="-905" font-family="Helvetica,sans-Serif" font-size="10.00">+INTERNAL_STATE_DATA</text>
+<text text-anchor="middle" x="227" y="-894" font-family="Helvetica,sans-Serif" font-size="10.00">_BITS</text>
+<text text-anchor="middle" x="227" y="-883" font-family="Helvetica,sans-Serif" font-size="10.00">+INTERNAL_STATE_DATA_MASK</text>
 </g>
 <!-- Node10 -->
 <g id="node10" class="node">

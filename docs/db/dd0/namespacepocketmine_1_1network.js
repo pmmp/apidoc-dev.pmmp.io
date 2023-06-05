@@ -8,6 +8,7 @@ var namespacepocketmine_1_1network =
       [ "cache", null, [
         [ "ChunkCache", "d0/deb/classpocketmine_1_1network_1_1mcpe_1_1cache_1_1_chunk_cache.html", "d0/deb/classpocketmine_1_1network_1_1mcpe_1_1cache_1_1_chunk_cache" ],
         [ "CraftingDataCache", "d6/d48/classpocketmine_1_1network_1_1mcpe_1_1cache_1_1_crafting_data_cache.html", null ],
+        [ "CreativeInventoryCache", "dc/df6/classpocketmine_1_1network_1_1mcpe_1_1cache_1_1_creative_inventory_cache.html", null ],
         [ "StaticPacketCache", "df/dc5/classpocketmine_1_1network_1_1mcpe_1_1cache_1_1_static_packet_cache.html", null ]
       ] ],
       [ "compression", null, [

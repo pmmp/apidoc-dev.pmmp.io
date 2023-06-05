@@ -11,6 +11,7 @@ var namespaces_dup =
         [ "Type", "d6/d33/class_dave_random_1_1_callback_validator_1_1_type.html", "d6/d33/class_dave_random_1_1_callback_validator_1_1_type" ]
       ] ]
     ] ],
+    [ "JsonMapper", "d6/d57/namespace_json_mapper.html", null ],
     [ "pocketmine", "d2/d69/namespacepocketmine.html", "d2/d69/namespacepocketmine" ],
     [ "raklib", null, [
       [ "client", null, [
