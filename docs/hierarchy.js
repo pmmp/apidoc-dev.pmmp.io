@@ -285,6 +285,7 @@ var hierarchy =
         [ "pocketmine\\block\\Glass", "d1/d73/classpocketmine_1_1block_1_1_glass.html", [
           [ "pocketmine\\block\\StainedGlass", "d7/d26/classpocketmine_1_1block_1_1_stained_glass.html", null ]
         ] ],
+        [ "pocketmine\\block\\GlowLichen", "d4/dc5/classpocketmine_1_1block_1_1_glow_lichen.html", null ],
         [ "pocketmine\\block\\Glowstone", "d5/d20/classpocketmine_1_1block_1_1_glowstone.html", null ],
         [ "pocketmine\\block\\GrassPath", "d9/d5d/classpocketmine_1_1block_1_1_grass_path.html", null ],
         [ "pocketmine\\block\\HardenedGlass", "d0/d1c/classpocketmine_1_1block_1_1_hardened_glass.html", [
@@ -1323,6 +1324,7 @@ var hierarchy =
       [ "pocketmine\\network\\upnp\\UPnPNetworkInterface", "d0/d45/classpocketmine_1_1network_1_1upnp_1_1_u_pn_p_network_interface.html", null ]
     ] ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\NetworkInventoryAction", "d5/da8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_network_inventory_action.html", null ],
+    [ "pocketmine\\network\\mcpe\\protocol\\types\\NetworkPermissions", "d9/dfb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_network_permissions.html", null ],
     [ "pocketmine\\network\\mcpe\\NetworkSession", "de/d3a/classpocketmine_1_1network_1_1mcpe_1_1_network_session.html", null ],
     [ "pocketmine\\network\\NetworkSessionManager", "dd/db0/classpocketmine_1_1network_1_1_network_session_manager.html", null ],
     [ "pocketmine\\world\\generator\\noise\\Noise", "d2/dd0/classpocketmine_1_1world_1_1generator_1_1noise_1_1_noise.html", [
