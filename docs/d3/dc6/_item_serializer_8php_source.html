@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.2.0 git-833f9401f99b470e8fbbf9b6661bf1575e7c3f67</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.2.0 git-a2a700687866de0721275875a45df8748295e6a2</span>
    </div>
   </td>
  </tr>
@@ -219,20 +219,21 @@ $(document).ready(function(){initNavTree('d3/dc6/_item_serializer_8php_source.ht
 <div class="line"><a id="l00177" name="l00177"></a><span class="lineno">  177</span>            <span class="keywordflow">throw</span> <span class="keyword">new</span> ItemTypeSerializeException($e-&gt;getMessage(), 0, $e);</div>
 <div class="line"><a id="l00178" name="l00178"></a><span class="lineno">  178</span>        }</div>
 <div class="line"><a id="l00179" name="l00179"></a><span class="lineno">  179</span> </div>
-<div class="line"><a id="l00180" name="l00180"></a><span class="lineno">  180</span>        $itemNameId = BlockItemIdMap::getInstance()-&gt;lookupItemId($blockStateData-&gt;getName()) ?? $blockStateData-&gt;getName();</div>
-<div class="line"><a id="l00181" name="l00181"></a><span class="lineno">  181</span> </div>
-<div class="line"><a id="l00182" name="l00182"></a><span class="lineno">  182</span>        <span class="keywordflow">return</span> <span class="keyword">new</span> Data($itemNameId, 0, $blockStateData);</div>
-<div class="line"><a id="l00183" name="l00183"></a><span class="lineno">  183</span>    }</div>
-<div class="line"><a id="l00184" name="l00184"></a><span class="lineno">  184</span> </div>
-<div class="line"><a id="l00185" name="l00185"></a><span class="lineno">  185</span>    <span class="keyword">private</span> <span class="keyword">function</span> registerSpecialBlockSerializers() : void{</div>
-<div class="line"><a id="l00186" name="l00186"></a><span class="lineno">  186</span>        <span class="comment">//these are encoded as regular blocks, but they have to be accounted for explicitly since they don&#39;t use ItemBlock</span></div>
-<div class="line"><a id="l00187" name="l00187"></a><span class="lineno">  187</span>        <span class="comment">//Bamboo-&gt;getBlock() returns BambooSapling :(</span></div>
-<div class="line"><a id="l00188" name="l00188"></a><span class="lineno">  188</span>        $this-&gt;map(Items::BAMBOO(), fn() =&gt; $this-&gt;standardBlock(Blocks::BAMBOO()));</div>
-<div class="line"><a id="l00189" name="l00189"></a><span class="lineno">  189</span>        $this-&gt;map(Items::CORAL_FAN(), fn(CoralFan $item) =&gt; $this-&gt;standardBlock($item-&gt;getBlock()));</div>
-<div class="line"><a id="l00190" name="l00190"></a><span class="lineno">  190</span>    }</div>
-<div class="line"><a id="l00191" name="l00191"></a><span class="lineno">  191</span>}</div>
+<div class="line"><a id="l00180" name="l00180"></a><span class="lineno">  180</span>        <span class="comment">//TODO: this really ought to throw if there&#39;s no blockitem ID</span></div>
+<div class="line"><a id="l00181" name="l00181"></a><span class="lineno">  181</span>        $itemNameId = BlockItemIdMap::getInstance()-&gt;lookupItemId($blockStateData-&gt;getName()) ?? $blockStateData-&gt;getName();</div>
+<div class="line"><a id="l00182" name="l00182"></a><span class="lineno">  182</span> </div>
+<div class="line"><a id="l00183" name="l00183"></a><span class="lineno">  183</span>        <span class="keywordflow">return</span> <span class="keyword">new</span> Data($itemNameId, 0, $blockStateData);</div>
+<div class="line"><a id="l00184" name="l00184"></a><span class="lineno">  184</span>    }</div>
+<div class="line"><a id="l00185" name="l00185"></a><span class="lineno">  185</span> </div>
+<div class="line"><a id="l00186" name="l00186"></a><span class="lineno">  186</span>    <span class="keyword">private</span> <span class="keyword">function</span> registerSpecialBlockSerializers() : void{</div>
+<div class="line"><a id="l00187" name="l00187"></a><span class="lineno">  187</span>        <span class="comment">//these are encoded as regular blocks, but they have to be accounted for explicitly since they don&#39;t use ItemBlock</span></div>
+<div class="line"><a id="l00188" name="l00188"></a><span class="lineno">  188</span>        <span class="comment">//Bamboo-&gt;getBlock() returns BambooSapling :(</span></div>
+<div class="line"><a id="l00189" name="l00189"></a><span class="lineno">  189</span>        $this-&gt;map(Items::BAMBOO(), fn() =&gt; $this-&gt;standardBlock(Blocks::BAMBOO()));</div>
+<div class="line"><a id="l00190" name="l00190"></a><span class="lineno">  190</span>        $this-&gt;map(Items::CORAL_FAN(), fn(CoralFan $item) =&gt; $this-&gt;standardBlock($item-&gt;getBlock()));</div>
+<div class="line"><a id="l00191" name="l00191"></a><span class="lineno">  191</span>    }</div>
+<div class="line"><a id="l00192" name="l00192"></a><span class="lineno">  192</span>}</div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html">pocketmine\block\Block</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00057">Block.php:57</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_vanilla_blocks_html"><div class="ttname"><a href="../../df/dec/classpocketmine_1_1block_1_1_vanilla_blocks.html">pocketmine\block\VanillaBlocks</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d4/d7b/_vanilla_blocks_8php_source.html#l00740">VanillaBlocks.php:740</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_vanilla_blocks_html"><div class="ttname"><a href="../../df/dec/classpocketmine_1_1block_1_1_vanilla_blocks.html">pocketmine\block\VanillaBlocks</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d4/d7b/_vanilla_blocks_8php_source.html#l00754">VanillaBlocks.php:754</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_serialize_exception_html"><div class="ttname"><a href="../../d9/d34/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_serialize_exception.html">pocketmine\data\bedrock\block\BlockStateSerializeException</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d7/d41/_block_state_serialize_exception_8php_source.html#l00026">BlockStateSerializeException.php:26</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1data_1_1bedrock_1_1item_1_1_item_serializer_deserializer_registrar_html"><div class="ttname"><a href="../../d9/dea/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_serializer_deserializer_registrar.html">pocketmine\data\bedrock\item\ItemSerializerDeserializerRegistrar</a></div><div class="ttdef"><b>Definition:</b> <a href="../../df/de9/_item_serializer_deserializer_registrar_8php_source.html#l00048">ItemSerializerDeserializerRegistrar.php:48</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1data_1_1bedrock_1_1item_1_1_item_serializer_html"><div class="ttname"><a href="../../de/d5c/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_serializer.html">pocketmine\data\bedrock\item\ItemSerializer</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d3/dc6/_item_serializer_8php_source.html#l00037">ItemSerializer.php:37</a></div></div>
@@ -247,7 +248,7 @@ $(document).ready(function(){initNavTree('d3/dc6/_item_serializer_8php_source.ht
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html_a2b35e6f346e5955b086fcc07ead985a7"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html#a2b35e6f346e5955b086fcc07ead985a7">pocketmine\item\Item\getNamedTag</a></div><div class="ttdeci">getNamedTag()</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d98/_item_8php_source.html#l00249">Item.php:249</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html_a2ee3936259ed3fd96fa07dcbcc4797c1"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html#a2ee3936259ed3fd96fa07dcbcc4797c1">pocketmine\item\Item\getName</a></div><div class="ttdeci">getName()</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d98/_item_8php_source.html#l00447">Item.php:447</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html_ad2d004e5063f6ca465ed956b024217b1"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html#ad2d004e5063f6ca465ed956b024217b1">pocketmine\item\Item\hasNamedTag</a></div><div class="ttdeci">hasNamedTag()</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d98/_item_8php_source.html#l00241">Item.php:241</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1item_1_1_vanilla_items_html"><div class="ttname"><a href="../../d9/dff/classpocketmine_1_1item_1_1_vanilla_items.html">pocketmine\item\VanillaItems</a></div><div class="ttdef"><b>Definition:</b> <a href="../../df/da6/_vanilla_items_8php_source.html#l00312">VanillaItems.php:312</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1item_1_1_vanilla_items_html"><div class="ttname"><a href="../../d9/dff/classpocketmine_1_1item_1_1_vanilla_items.html">pocketmine\item\VanillaItems</a></div><div class="ttdef"><b>Definition:</b> <a href="../../df/da6/_vanilla_items_8php_source.html#l00313">VanillaItems.php:313</a></div></div>
 <div class="ttc" id="ainterfacepocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_serializer_html"><div class="ttname"><a href="../../db/dc6/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_serializer.html">pocketmine\data\bedrock\block\BlockStateSerializer</a></div><div class="ttdef"><b>Definition:</b> <a href="../../df/d82/_block_state_serializer_8php_source.html#l00031">BlockStateSerializer.php:31</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
