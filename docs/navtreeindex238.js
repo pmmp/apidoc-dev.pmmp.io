@@ -1,5 +1,9 @@
 var NAVTREEINDEX238 =
 {
+"df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a2e4cc0c081880b50937523a6dbdb4886":[2,0,2,7,2,0,17],
+"df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a4087e033dc45159d7379699024657047":[2,0,2,7,2,0,14],
+"df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a4087e033dc45159d7379699024657047":[3,0,1,7,2,0,14],
+"df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a4101d0cffe7303801b827969c461ed8b":[3,0,1,7,2,0,4],
 "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a4101d0cffe7303801b827969c461ed8b":[2,0,2,7,2,0,4],
 "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a4b1a5210337efa1cbc001cd937cc6723":[3,0,1,7,2,0,38],
 "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a4b1a5210337efa1cbc001cd937cc6723":[2,0,2,7,2,0,38],
@@ -245,9 +249,5 @@ var NAVTREEINDEX238 =
 "df/df3/_entity_attack_sound_8php_source.html":[4,0,0,25,5,45],
 "df/df3/_set_default_game_type_packet_8php_source.html":[4,0,1,0,1,0,159],
 "df/df5/_honey_bottle_8php_source.html":[4,0,0,10,54],
-"df/df7/classpocketmine_1_1network_1_1mcpe_1_1auth_1_1_process_login_task.html":[3,0,1,16,0,0,0],
-"df/df7/classpocketmine_1_1network_1_1mcpe_1_1auth_1_1_process_login_task.html":[2,0,2,16,0,0,0],
-"df/df7/classpocketmine_1_1network_1_1mcpe_1_1auth_1_1_process_login_task.html#a1ba680fdef8ef3e5832322b56dc460f0":[3,0,1,16,0,0,0,1],
-"df/df7/classpocketmine_1_1network_1_1mcpe_1_1auth_1_1_process_login_task.html#a1ba680fdef8ef3e5832322b56dc460f0":[2,0,2,16,0,0,0,1],
-"df/df7/classpocketmine_1_1network_1_1mcpe_1_1auth_1_1_process_login_task.html#a1ec846ee57cc2aae1b5604d5bfcb9948":[2,0,2,16,0,0,0,9]
+"df/df7/classpocketmine_1_1network_1_1mcpe_1_1auth_1_1_process_login_task.html":[3,0,1,16,0,0,0]
 };

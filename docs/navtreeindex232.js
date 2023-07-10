@@ -1,5 +1,9 @@
 var NAVTREEINDEX232 =
 {
+"df/d79/classpocketmine_1_1block_1_1_stonecutter.html#a30a070aa7befb02f9fff5cbf2693c01e":[3,0,1,0,197,9],
+"df/d79/classpocketmine_1_1block_1_1_stonecutter.html#a36afea9f0214193963f75577e8d48c26":[2,0,2,0,197,56],
+"df/d79/classpocketmine_1_1block_1_1_stonecutter.html#a36afea9f0214193963f75577e8d48c26":[3,0,1,0,197,56],
+"df/d79/classpocketmine_1_1block_1_1_stonecutter.html#a3a46169e7d256b3a1f3af8c54ddba832":[2,0,2,0,197,59],
 "df/d79/classpocketmine_1_1block_1_1_stonecutter.html#a3a46169e7d256b3a1f3af8c54ddba832":[3,0,1,0,197,59],
 "df/d79/classpocketmine_1_1block_1_1_stonecutter.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,2,0,197,10],
 "df/d79/classpocketmine_1_1block_1_1_stonecutter.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,197,10],
@@ -245,9 +249,5 @@ var NAVTREEINDEX232 =
 "df/d81/classpocketmine_1_1event_1_1player_1_1_player_quit_event.html":[3,0,1,9,3,32],
 "df/d81/classpocketmine_1_1event_1_1player_1_1_player_quit_event.html":[2,0,2,9,3,32],
 "df/d81/classpocketmine_1_1event_1_1player_1_1_player_quit_event.html#a2e8087e1f9e841174477a266884efaaa":[3,0,1,9,3,32,3],
-"df/d81/classpocketmine_1_1event_1_1player_1_1_player_quit_event.html#a2e8087e1f9e841174477a266884efaaa":[2,0,2,9,3,32,3],
-"df/d81/classpocketmine_1_1event_1_1player_1_1_player_quit_event.html#a3aea575bc25658fe57943fa29d208c8b":[3,0,1,9,3,32,2],
-"df/d81/classpocketmine_1_1event_1_1player_1_1_player_quit_event.html#a3aea575bc25658fe57943fa29d208c8b":[2,0,2,9,3,32,2],
-"df/d81/classpocketmine_1_1event_1_1player_1_1_player_quit_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,3,32,0],
-"df/d81/classpocketmine_1_1event_1_1player_1_1_player_quit_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,2,9,3,32,0]
+"df/d81/classpocketmine_1_1event_1_1player_1_1_player_quit_event.html#a2e8087e1f9e841174477a266884efaaa":[2,0,2,9,3,32,3]
 };

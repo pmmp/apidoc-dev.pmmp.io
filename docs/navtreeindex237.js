@@ -1,5 +1,9 @@
 var NAVTREEINDEX237 =
 {
+"df/dc3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_enum.html":[2,0,2,16,0,6,1,0,1],
+"df/dc3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_enum.html#a4d981ac35e0ab12c630731563ef3b68b":[3,0,1,16,0,6,1,0,1,2],
+"df/dc3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_enum.html#a4d981ac35e0ab12c630731563ef3b68b":[2,0,2,16,0,6,1,0,1,2],
+"df/dc3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_enum.html#a67b18bf41cd3077cb4694b59bf85b730":[3,0,1,16,0,6,1,0,1,1],
 "df/dc3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_enum.html#a67b18bf41cd3077cb4694b59bf85b730":[2,0,2,16,0,6,1,0,1,1],
 "df/dc3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_enum.html#ac8b2ec11482dae16be7c04f32e9fbde1":[2,0,2,16,0,6,1,0,1,0],
 "df/dc3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_enum.html#ac8b2ec11482dae16be7c04f32e9fbde1":[3,0,1,16,0,6,1,0,1,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX237 =
 "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a265cb93031a89ccc4a4236b3702c690b":[3,0,1,7,2,0,26],
 "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a2bd1fab41c3720c1ec9f75997958c223":[3,0,1,7,2,0,35],
 "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a2bd1fab41c3720c1ec9f75997958c223":[2,0,2,7,2,0,35],
-"df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a2e4cc0c081880b50937523a6dbdb4886":[3,0,1,7,2,0,17],
-"df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a2e4cc0c081880b50937523a6dbdb4886":[2,0,2,7,2,0,17],
-"df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a4087e033dc45159d7379699024657047":[2,0,2,7,2,0,14],
-"df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a4087e033dc45159d7379699024657047":[3,0,1,7,2,0,14],
-"df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a4101d0cffe7303801b827969c461ed8b":[3,0,1,7,2,0,4]
+"df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a2e4cc0c081880b50937523a6dbdb4886":[3,0,1,7,2,0,17]
 };
