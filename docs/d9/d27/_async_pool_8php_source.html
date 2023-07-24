@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.3.2 git-280bf60830d1f3908cc152c1230ca21fe8eecf85</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.3.3 git-2ab3393568239fa283f131d5d24ecab121c3f83b</span>
    </div>
   </td>
  </tr>
@@ -292,7 +292,7 @@ $(document).ready(function(){initNavTree('d9/d27/_async_pool_8php_source.html','
 <div class="line"><a id="l00259" name="l00259"></a><span class="lineno">  259</span>                <span class="keywordflow">if</span>($task-&gt;isTerminated()){</div>
 <div class="line"><a id="l00260" name="l00260"></a><span class="lineno">  260</span>                    $this-&gt;checkCrashedWorker($worker, $task);</div>
 <div class="line"><a id="l00261" name="l00261"></a><span class="lineno">  261</span>                    <span class="keywordflow">throw</span> <span class="keyword">new</span> AssumptionFailedError(<span class="stringliteral">&quot;checkCrashedWorker() should have thrown an exception, making this unreachable&quot;</span>);</div>
-<div class="line"><a id="l00262" name="l00262"></a><span class="lineno">  262</span>                }elseif(!$task-&gt;hasCancelledRun()){</div>
+<div class="line"><a id="l00262" name="l00262"></a><span class="lineno">  262</span>                }<span class="keywordflow">else</span>{</div>
 <div class="line"><a id="l00263" name="l00263"></a><span class="lineno">  263</span>                    <span class="comment">/*</span></div>
 <div class="line"><a id="l00264" name="l00264"></a><span class="lineno">  264</span><span class="comment">                     * It&#39;s possible for a task to submit a progress update and then finish before the progress</span></div>
 <div class="line"><a id="l00265" name="l00265"></a><span class="lineno">  265</span><span class="comment">                     * update is detected by the parent thread, so here we consume any missed updates.</span></div>

@@ -165,6 +165,10 @@ var hierarchy =
           [ "pocketmine\\block\\FloorBanner", "dc/d69/classpocketmine_1_1block_1_1_floor_banner.html", null ],
           [ "pocketmine\\block\\WallBanner", "df/dee/classpocketmine_1_1block_1_1_wall_banner.html", null ]
         ] ],
+        [ "pocketmine\\block\\BaseBigDripleaf", "d5/d5a/classpocketmine_1_1block_1_1_base_big_dripleaf.html", [
+          [ "pocketmine\\block\\BigDripleafHead", "d0/dd5/classpocketmine_1_1block_1_1_big_dripleaf_head.html", null ],
+          [ "pocketmine\\block\\BigDripleafStem", "d3/d09/classpocketmine_1_1block_1_1_big_dripleaf_stem.html", null ]
+        ] ],
         [ "pocketmine\\block\\BaseCake", "d6/dc5/classpocketmine_1_1block_1_1_base_cake.html", [
           [ "pocketmine\\block\\Cake", "df/d1c/classpocketmine_1_1block_1_1_cake.html", null ],
           [ "pocketmine\\block\\CakeWithCandle", "da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html", [
@@ -324,6 +328,7 @@ var hierarchy =
           [ "pocketmine\\block\\WoodenSlab", "df/d7b/classpocketmine_1_1block_1_1_wooden_slab.html", null ]
         ] ],
         [ "pocketmine\\block\\Slime", "db/d38/classpocketmine_1_1block_1_1_slime.html", null ],
+        [ "pocketmine\\block\\SmallDripleaf", "df/d71/classpocketmine_1_1block_1_1_small_dripleaf.html", null ],
         [ "pocketmine\\block\\Stair", "d7/d95/classpocketmine_1_1block_1_1_stair.html", [
           [ "pocketmine\\block\\CopperStairs", "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html", null ],
           [ "pocketmine\\block\\WoodenStairs", "dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs.html", null ]
@@ -696,6 +701,7 @@ var hierarchy =
     [ "pocketmine\\network\\mcpe\\protocol\\types\\DimensionNameIds", "d0/df7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_dimension_name_ids.html", null ],
     [ "pocketmine\\block\\utils\\DirtType", "df/d0e/classpocketmine_1_1block_1_1utils_1_1_dirt_type.html", null ],
     [ "raklib\\generic\\DisconnectReason", "d7/d33/classraklib_1_1generic_1_1_disconnect_reason.html", null ],
+    [ "pocketmine\\block\\utils\\DripleafState", "d7/d2a/classpocketmine_1_1block_1_1utils_1_1_dripleaf_state.html", null ],
     [ "pocketmine\\block\\utils\\DyeColor", "d0/d5a/classpocketmine_1_1block_1_1utils_1_1_dye_color.html", null ],
     [ "pocketmine\\data\\bedrock\\DyeColorIdMap", "d5/d50/classpocketmine_1_1data_1_1bedrock_1_1_dye_color_id_map.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\EducationEditionOffer", "d4/dd8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_education_edition_offer.html", null ],
@@ -932,6 +938,7 @@ var hierarchy =
     [ "pocketmine\\utils\\Filesystem", "da/ddd/classpocketmine_1_1utils_1_1_filesystem.html", null ],
     [ "pocketmine\\world\\generator\\FlatGeneratorOptions", "d9/de9/classpocketmine_1_1world_1_1generator_1_1_flat_generator_options.html", null ],
     [ "pocketmine\\world\\format\\io\\FormatConverter", "dd/dc7/classpocketmine_1_1world_1_1format_1_1io_1_1_format_converter.html", null ],
+    [ "pocketmine\\block\\utils\\FortuneDropHelper", "dd/dfb/classpocketmine_1_1block_1_1utils_1_1_fortune_drop_helper.html", null ],
     [ "pocketmine\\block\\utils\\FroglightType", "de/df4/classpocketmine_1_1block_1_1utils_1_1_froglight_type.html", null ],
     [ "pocketmine\\crafting\\FurnaceRecipe", "da/d41/classpocketmine_1_1crafting_1_1_furnace_recipe.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\recipe\\FurnaceRecipeBlockName", "d6/d97/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1recipe_1_1_furnace_recipe_block_name.html", null ],
@@ -1902,6 +1909,7 @@ var hierarchy =
     [ "pocketmine\\plugin\\PluginGraylist", "de/ddf/classpocketmine_1_1plugin_1_1_plugin_graylist.html", null ],
     [ "pocketmine\\plugin\\PluginLoadabilityChecker", "dd/d86/classpocketmine_1_1plugin_1_1_plugin_loadability_checker.html", null ],
     [ "pocketmine\\plugin\\PluginLoader", "d5/d36/interfacepocketmine_1_1plugin_1_1_plugin_loader.html", [
+      [ "pocketmine\\plugin\\FolderPluginLoader", "d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html", null ],
       [ "pocketmine\\plugin\\PharPluginLoader", "d5/dbf/classpocketmine_1_1plugin_1_1_phar_plugin_loader.html", null ],
       [ "pocketmine\\plugin\\ScriptPluginLoader", "d5/d4a/classpocketmine_1_1plugin_1_1_script_plugin_loader.html", null ]
     ] ],
@@ -2136,6 +2144,8 @@ var hierarchy =
       [ "pocketmine\\world\\sound\\DoorBumpSound", "d9/d16/classpocketmine_1_1world_1_1sound_1_1_door_bump_sound.html", null ],
       [ "pocketmine\\world\\sound\\DoorCrashSound", "db/d7d/classpocketmine_1_1world_1_1sound_1_1_door_crash_sound.html", null ],
       [ "pocketmine\\world\\sound\\DoorSound", "d5/db5/classpocketmine_1_1world_1_1sound_1_1_door_sound.html", null ],
+      [ "pocketmine\\world\\sound\\DripleafTiltDownSound", "da/daf/classpocketmine_1_1world_1_1sound_1_1_dripleaf_tilt_down_sound.html", null ],
+      [ "pocketmine\\world\\sound\\DripleafTiltUpSound", "d9/dc2/classpocketmine_1_1world_1_1sound_1_1_dripleaf_tilt_up_sound.html", null ],
       [ "pocketmine\\world\\sound\\DyeUseSound", "d1/dc4/classpocketmine_1_1world_1_1sound_1_1_dye_use_sound.html", null ],
       [ "pocketmine\\world\\sound\\EnderChestCloseSound", "d4/def/classpocketmine_1_1world_1_1sound_1_1_ender_chest_close_sound.html", null ],
       [ "pocketmine\\world\\sound\\EnderChestOpenSound", "dd/df2/classpocketmine_1_1world_1_1sound_1_1_ender_chest_open_sound.html", null ],
@@ -2291,6 +2301,7 @@ var hierarchy =
     ] ],
     [ "pocketmine\\lang\\Translatable", "da/d80/classpocketmine_1_1lang_1_1_translatable.html", null ],
     [ "pocketmine\\world\\generator\\object\\Tree", "d2/da7/classpocketmine_1_1world_1_1generator_1_1object_1_1_tree.html", [
+      [ "pocketmine\\world\\generator\\object\\AcaciaTree", "dd/d40/classpocketmine_1_1world_1_1generator_1_1object_1_1_acacia_tree.html", null ],
       [ "pocketmine\\world\\generator\\object\\BirchTree", "d6/d75/classpocketmine_1_1world_1_1generator_1_1object_1_1_birch_tree.html", null ],
       [ "pocketmine\\world\\generator\\object\\JungleTree", "dc/ded/classpocketmine_1_1world_1_1generator_1_1object_1_1_jungle_tree.html", null ],
       [ "pocketmine\\world\\generator\\object\\OakTree", "d5/d61/classpocketmine_1_1world_1_1generator_1_1object_1_1_oak_tree.html", null ],
