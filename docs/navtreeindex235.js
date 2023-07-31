@@ -1,5 +1,7 @@
 var NAVTREEINDEX235 =
 {
+"df/d7b/classpocketmine_1_1block_1_1_wooden_slab.html#a20c2f4e242017361f050ede75c4666f5":[2,0,2,0,237,8],
+"df/d7b/classpocketmine_1_1block_1_1_wooden_slab.html#a2127737ad69279d366e4462b54f693f2":[2,0,2,0,237,3],
 "df/d7b/classpocketmine_1_1block_1_1_wooden_slab.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,237,3],
 "df/d7b/classpocketmine_1_1block_1_1_wooden_slab.html#a286fc64348f13417dcb6106c2695911b":[2,0,2,0,237,2],
 "df/d7b/classpocketmine_1_1block_1_1_wooden_slab.html#a286fc64348f13417dcb6106c2695911b":[3,0,1,0,237,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX235 =
 "df/d8a/classpocketmine_1_1item_1_1_raw_chicken.html#aa2834fb1656bc61244f5a24091aaa600":[3,0,1,12,83,33],
 "df/d8a/classpocketmine_1_1item_1_1_raw_chicken.html#aa807b0fa5751723fed80570a4de1231b":[2,0,2,12,83,43],
 "df/d8a/classpocketmine_1_1item_1_1_raw_chicken.html#aa807b0fa5751723fed80570a4de1231b":[3,0,1,12,83,43],
-"df/d8a/classpocketmine_1_1item_1_1_raw_chicken.html#aad9f6fbf32449170a157b787d4227ee6":[2,0,2,12,83,27],
-"df/d8a/classpocketmine_1_1item_1_1_raw_chicken.html#aad9f6fbf32449170a157b787d4227ee6":[3,0,1,12,83,27],
-"df/d8a/classpocketmine_1_1item_1_1_raw_chicken.html#aba073e91196cf2978057ec4d3842aa76":[2,0,2,12,83,39]
+"df/d8a/classpocketmine_1_1item_1_1_raw_chicken.html#aad9f6fbf32449170a157b787d4227ee6":[2,0,2,12,83,27]
 };

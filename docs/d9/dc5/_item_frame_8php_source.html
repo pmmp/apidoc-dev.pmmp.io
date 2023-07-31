@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.3.3 git-2ab3393568239fa283f131d5d24ecab121c3f83b</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.3.3 git-89f8f421a66fc8b0d6a89287562e5728fb8c021d</span>
    </div>
   </td>
  </tr>
@@ -248,18 +248,18 @@ $(document).ready(function(){initNavTree('d9/dc5/_item_frame_8php_source.html','
 <div class="line"><a id="l00163" name="l00163"></a><span class="lineno">  163</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><a id="l00164" name="l00164"></a><span class="lineno">  164</span>    }</div>
 <div class="line"><a id="l00165" name="l00165"></a><span class="lineno">  165</span> </div>
-<div class="line"><a id="l00166" name="l00166"></a><span class="lineno">  166</span>    <span class="keyword">private</span> <span class="keyword">function</span> canBeSupportedBy(Block $block, <span class="keywordtype">int</span> $face) : bool{</div>
-<div class="line"><a id="l00167" name="l00167"></a><span class="lineno">  167</span>        return !$block-&gt;getSupportType($face)-&gt;equals(SupportType::NONE());</div>
+<div class="line"><a id="l00166" name="l00166"></a><span class="lineno">  166</span>    <span class="keyword">private</span> <span class="keyword">function</span> canBeSupportedAt(Block $block, <span class="keywordtype">int</span> $face) : bool{</div>
+<div class="line"><a id="l00167" name="l00167"></a><span class="lineno">  167</span>        return !$block-&gt;getAdjacentSupportType($face)-&gt;equals(SupportType::NONE());</div>
 <div class="line"><a id="l00168" name="l00168"></a><span class="lineno">  168</span>    }</div>
 <div class="line"><a id="l00169" name="l00169"></a><span class="lineno">  169</span> </div>
 <div class="line"><a id="l00170" name="l00170"></a><span class="lineno"><a class="line" href="../../d9/dc4/classpocketmine_1_1block_1_1_item_frame.html#ac65aca5f0dd33310fc1f28b49d9dd362">  170</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d9/dc4/classpocketmine_1_1block_1_1_item_frame.html#ac65aca5f0dd33310fc1f28b49d9dd362">onNearbyBlockChange</a>() : void{</div>
-<div class="line"><a id="l00171" name="l00171"></a><span class="lineno">  171</span>        if(!$this-&gt;canBeSupportedBy($this-&gt;getSide(<a class="code hl_class" href="../../dd/d25/classpocketmine_1_1math_1_1_facing.html">Facing</a>::opposite($this-&gt;facing)), $this-&gt;facing)){</div>
+<div class="line"><a id="l00171" name="l00171"></a><span class="lineno">  171</span>        if(!$this-&gt;canBeSupportedAt($this, <a class="code hl_class" href="../../dd/d25/classpocketmine_1_1math_1_1_facing.html">Facing</a>::opposite($this-&gt;facing))){</div>
 <div class="line"><a id="l00172" name="l00172"></a><span class="lineno">  172</span>            $this-&gt;position-&gt;getWorld()-&gt;useBreakOn($this-&gt;position);</div>
 <div class="line"><a id="l00173" name="l00173"></a><span class="lineno">  173</span>        }</div>
 <div class="line"><a id="l00174" name="l00174"></a><span class="lineno">  174</span>    }</div>
 <div class="line"><a id="l00175" name="l00175"></a><span class="lineno">  175</span> </div>
 <div class="line"><a id="l00176" name="l00176"></a><span class="lineno"><a class="line" href="../../d9/dc4/classpocketmine_1_1block_1_1_item_frame.html#a3414867da74c97607b677bfcb9c954ce">  176</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d9/dc4/classpocketmine_1_1block_1_1_item_frame.html#a3414867da74c97607b677bfcb9c954ce">place</a>(<a class="code hl_class" href="../../d4/d3e/classpocketmine_1_1world_1_1_block_transaction.html">BlockTransaction</a> $tx, <a class="code hl_class" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">Item</a> $item, <a class="code hl_class" href="../../d7/d27/classpocketmine_1_1block_1_1_block.html">Block</a> $blockReplace, <a class="code hl_class" href="../../d7/d27/classpocketmine_1_1block_1_1_block.html">Block</a> $blockClicked, <span class="keywordtype">int</span> $face, <a class="code hl_class" href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">Vector3</a> $clickVector, ?<a class="code hl_class" href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html">Player</a> $player = <span class="keyword">null</span>) : bool{</div>
-<div class="line"><a id="l00177" name="l00177"></a><span class="lineno">  177</span>        if(!$this-&gt;canBeSupportedBy($blockReplace-&gt;getSide(<a class="code hl_class" href="../../dd/d25/classpocketmine_1_1math_1_1_facing.html">Facing</a>::opposite($face)), $face)){</div>
+<div class="line"><a id="l00177" name="l00177"></a><span class="lineno">  177</span>        if(!$this-&gt;canBeSupportedAt($blockReplace, <a class="code hl_class" href="../../dd/d25/classpocketmine_1_1math_1_1_facing.html">Facing</a>::opposite($face))){</div>
 <div class="line"><a id="l00178" name="l00178"></a><span class="lineno">  178</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><a id="l00179" name="l00179"></a><span class="lineno">  179</span>        }</div>
 <div class="line"><a id="l00180" name="l00180"></a><span class="lineno">  180</span> </div>
@@ -281,7 +281,7 @@ $(document).ready(function(){initNavTree('d9/dc5/_item_frame_8php_source.html','
 <div class="line"><a id="l00196" name="l00196"></a><span class="lineno">  196</span>        return $this-&gt;framedItem !== null ? clone $this-&gt;framedItem : parent::getPickedItem($addUserData);</div>
 <div class="line"><a id="l00197" name="l00197"></a><span class="lineno">  197</span>    }</div>
 <div class="line"><a id="l00198" name="l00198"></a><span class="lineno">  198</span>}</div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html">pocketmine\block\Block</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00057">Block.php:57</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html">pocketmine\block\Block</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00058">Block.php:58</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_flowable_html"><div class="ttname"><a href="../../d3/d1e/classpocketmine_1_1block_1_1_flowable.html">pocketmine\block\Flowable</a></div><div class="ttdef"><b>Definition:</b> <a href="../../da/d33/_flowable_8php_source.html#l00033">Flowable.php:33</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_item_frame_html"><div class="ttname"><a href="../../d9/dc4/classpocketmine_1_1block_1_1_item_frame.html">pocketmine\block\ItemFrame</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/dc5/_item_frame_8php_source.html#l00042">ItemFrame.php:42</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_item_frame_html_a0783fbc3eaaaf615e146297997057a92"><div class="ttname"><a href="../../d9/dc4/classpocketmine_1_1block_1_1_item_frame.html#a0783fbc3eaaaf615e146297997057a92">pocketmine\block\ItemFrame\onAttack</a></div><div class="ttdeci">onAttack(Item $item, int $face, ?Player $player=null)</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/dc5/_item_frame_8php_source.html#l00152">ItemFrame.php:152</a></div></div>

@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.3.3 git-2ab3393568239fa283f131d5d24ecab121c3f83b</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.3.3 git-89f8f421a66fc8b0d6a89287562e5728fb8c021d</span>
    </div>
   </td>
  </tr>
@@ -170,8 +170,8 @@ $(document).ready(function(){initNavTree('df/dc2/_snow_layer_8php_source.html','
 <div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span>        <span class="keywordflow">return</span> SupportType::NONE();</div>
 <div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span>    }</div>
 <div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span> </div>
-<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>    <span class="keyword">private</span> <span class="keyword">function</span> canBeSupportedBy(Block $b) : bool{</div>
-<div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span>        return $b-&gt;getSupportType(Facing::UP)-&gt;equals(SupportType::FULL());</div>
+<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>    <span class="keyword">private</span> <span class="keyword">function</span> canBeSupportedAt(Block $block) : bool{</div>
+<div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span>        return $block-&gt;getAdjacentSupportType(Facing::DOWN)-&gt;equals(SupportType::FULL());</div>
 <div class="line"><a id="l00085" name="l00085"></a><span class="lineno">   85</span>    }</div>
 <div class="line"><a id="l00086" name="l00086"></a><span class="lineno">   86</span> </div>
 <div class="line"><a id="l00087" name="l00087"></a><span class="lineno"><a class="line" href="../../d6/dfd/classpocketmine_1_1block_1_1_snow_layer.html#ac2700c069e59959c9eaecd9b2360e05a">   87</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d6/dfd/classpocketmine_1_1block_1_1_snow_layer.html#ac2700c069e59959c9eaecd9b2360e05a">place</a>(<a class="code hl_class" href="../../d4/d3e/classpocketmine_1_1world_1_1_block_transaction.html">BlockTransaction</a> $tx, <a class="code hl_class" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">Item</a> $item, <a class="code hl_class" href="../../d7/d27/classpocketmine_1_1block_1_1_block.html">Block</a> $blockReplace, <a class="code hl_class" href="../../d7/d27/classpocketmine_1_1block_1_1_block.html">Block</a> $blockClicked, <span class="keywordtype">int</span> $face, <a class="code hl_class" href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">Vector3</a> $clickVector, ?<a class="code hl_class" href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html">Player</a> $player = <span class="keyword">null</span>) : bool{</div>
@@ -181,7 +181,7 @@ $(document).ready(function(){initNavTree('df/dc2/_snow_layer_8php_source.html','
 <div class="line"><a id="l00091" name="l00091"></a><span class="lineno">   91</span>            }</div>
 <div class="line"><a id="l00092" name="l00092"></a><span class="lineno">   92</span>            $this-&gt;layers = $blockReplace-&gt;layers + 1;</div>
 <div class="line"><a id="l00093" name="l00093"></a><span class="lineno">   93</span>        }</div>
-<div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span>        <span class="keywordflow">if</span>($this-&gt;canBeSupportedBy($blockReplace-&gt;getSide(Facing::DOWN))){</div>
+<div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span>        <span class="keywordflow">if</span>($this-&gt;canBeSupportedAt($blockReplace)){</div>
 <div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span>            <span class="keywordflow">return</span> parent::place($tx, $item, $blockReplace, $blockClicked, $face, $clickVector, $player);</div>
 <div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span>        }</div>
 <div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span> </div>
@@ -209,7 +209,7 @@ $(document).ready(function(){initNavTree('df/dc2/_snow_layer_8php_source.html','
 <div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>        ];</div>
 <div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>    }</div>
 <div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>}</div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html">pocketmine\block\Block</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00057">Block.php:57</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html">pocketmine\block\Block</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00058">Block.php:58</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_flowable_html"><div class="ttname"><a href="../../d3/d1e/classpocketmine_1_1block_1_1_flowable.html">pocketmine\block\Flowable</a></div><div class="ttdef"><b>Definition:</b> <a href="../../da/d33/_flowable_8php_source.html#l00033">Flowable.php:33</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_snow_layer_html"><div class="ttname"><a href="../../d6/dfd/classpocketmine_1_1block_1_1_snow_layer.html">pocketmine\block\SnowLayer</a></div><div class="ttdef"><b>Definition:</b> <a href="../../df/dc2/_snow_layer_8php_source.html#l00041">SnowLayer.php:41</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_snow_layer_html_a08b5560359c938a9616c7a1b9b8826fa"><div class="ttname"><a href="../../d6/dfd/classpocketmine_1_1block_1_1_snow_layer.html#a08b5560359c938a9616c7a1b9b8826fa">pocketmine\block\SnowLayer\ticksRandomly</a></div><div class="ttdeci">ticksRandomly()</div><div class="ttdef"><b>Definition:</b> <a href="../../df/dc2/_snow_layer_8php_source.html#l00101">SnowLayer.php:101</a></div></div>

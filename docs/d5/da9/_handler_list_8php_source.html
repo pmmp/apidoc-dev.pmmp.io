@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.3.3 git-2ab3393568239fa283f131d5d24ecab121c3f83b</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.3.3 git-89f8f421a66fc8b0d6a89287562e5728fb8c021d</span>
    </div>
   </td>
  </tr>
@@ -155,11 +155,11 @@ $(document).ready(function(){initNavTree('d5/da9/_handler_list_8php_source.html'
 <div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>        $this-&gt;invalidateAffectedCaches();</div>
 <div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>    }</div>
 <div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span> </div>
-<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>    <span class="keyword">public</span> <span class="keyword">function</span> unregister(RegisteredListener|<a class="code hl_interface" href="../../d4/d92/interfacepocketmine_1_1plugin_1_1_plugin.html">Plugin</a>|Listener $object) : void{</div>
-<div class="line"><a id="l00077" name="l00077"></a><span class="lineno">   77</span>        if($object instanceof <a class="code hl_interface" href="../../d4/d92/interfacepocketmine_1_1plugin_1_1_plugin.html">Plugin</a> || $object instanceof Listener){</div>
+<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>    <span class="keyword">public</span> <span class="keyword">function</span> unregister(RegisteredListener|Plugin|Listener $object) : void{</div>
+<div class="line"><a id="l00077" name="l00077"></a><span class="lineno">   77</span>        if($object instanceof Plugin || $object instanceof Listener){</div>
 <div class="line"><a id="l00078" name="l00078"></a><span class="lineno">   78</span>            <span class="keywordflow">foreach</span>($this-&gt;handlerSlots as $priority =&gt; $list){</div>
 <div class="line"><a id="l00079" name="l00079"></a><span class="lineno">   79</span>                <span class="keywordflow">foreach</span>($list as $hash =&gt; $listener){</div>
-<div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span>                    <span class="keywordflow">if</span>(($object instanceof <a class="code hl_interface" href="../../d4/d92/interfacepocketmine_1_1plugin_1_1_plugin.html">Plugin</a> &amp;&amp; $listener-&gt;getPlugin() === $object)</div>
+<div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span>                    <span class="keywordflow">if</span>(($object instanceof Plugin &amp;&amp; $listener-&gt;getPlugin() === $object)</div>
 <div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span>                        || ($object instanceof Listener &amp;&amp; (<span class="keyword">new</span> \ReflectionFunction($listener-&gt;getHandler()))-&gt;getClosureThis() === $object) <span class="comment">//this doesn&#39;t even need to be a listener :D</span></div>
 <div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span>                    ){</div>
 <div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>                        unset($this-&gt;handlerSlots[$priority][$hash]);</div>
