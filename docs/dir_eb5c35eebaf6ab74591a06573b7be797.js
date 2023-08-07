@@ -37,6 +37,7 @@ var dir_eb5c35eebaf6ab74591a06573b7be797 =
     [ "SlabType.php", "d7/d23/_slab_type_8php_source.html", null ],
     [ "StairShape.php", "d0/dbc/_stair_shape_8php_source.html", null ],
     [ "SupportType.php", "dd/da3/_support_type_8php_source.html", null ],
+    [ "TallGrassTrait.php", "d8/d91/_tall_grass_trait_8php_source.html", null ],
     [ "WallConnectionType.php", "d5/d7a/_wall_connection_type_8php_source.html", null ],
     [ "WoodType.php", "d7/d4c/_wood_type_8php_source.html", null ],
     [ "WoodTypeTrait.php", "db/d05/_wood_type_trait_8php_source.html", null ]

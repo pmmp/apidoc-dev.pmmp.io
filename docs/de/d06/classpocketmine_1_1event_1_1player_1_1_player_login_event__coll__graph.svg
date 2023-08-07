@@ -141,7 +141,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="1347.36" y="-416.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastAnimation()</text>
 <text text-anchor="start" x="1347.36" y="-405.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastSound()</text>
 <text text-anchor="start" x="1347.36" y="-394.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeCollidedWith()</text>
-<text text-anchor="start" x="1347.36" y="-383.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 123 more...</text>
+<text text-anchor="start" x="1347.36" y="-383.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 124 more...</text>
 <text text-anchor="start" x="1347.36" y="-372.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isValidUserName()</text>
 <text text-anchor="start" x="1347.36" y="-361.5" font-family="Helvetica,sans-Serif" font-size="10.00"># actuallyRespawn()</text>
 <text text-anchor="start" x="1347.36" y="-350.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addDefaultWindows()</text>
@@ -373,7 +373,11 @@ var sectionId = 'dynsection-1';
 <title>Node8&#45;&gt;Node6</title>
 <path fill="none" stroke="#404040" d="M3079.6,-3756.58C3169.05,-3749.44 3510.83,-3709.33 3657.86,-3507 3701.38,-3447.1 3676.86,-3415.54 3676.86,-3341.5 3676.86,-3341.5 3676.86,-3341.5 3676.86,-1646 3676.86,-1538.95 3617.91,-1431.56 3563.7,-1355.44"/>
 <polygon fill="none" stroke="#404040" points="3563.46,-1355.1 3556.71,-1352.58 3556.44,-1345.37 3563.19,-1347.9 3563.46,-1355.1"/>
-<text text-anchor="middle" x="3743.36" y="-2180.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #DEFAULT_BREATH_TICKS</text>
+<text text-anchor="middle" x="3743.36" y="-2202.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #DEFAULT_BREATH_TICKS</text>
+<text text-anchor="start" x="3676.86" y="-2191.5" font-family="Helvetica,sans-Serif" font-size="10.00">+DEFAULT_KNOCKBACK</text>
+<text text-anchor="middle" x="3743.36" y="-2180.5" font-family="Helvetica,sans-Serif" font-size="10.00">_FORCE</text>
+<text text-anchor="start" x="3676.86" y="-2169.5" font-family="Helvetica,sans-Serif" font-size="10.00">+DEFAULT_KNOCKBACK</text>
+<text text-anchor="middle" x="3743.36" y="-2158.5" font-family="Helvetica,sans-Serif" font-size="10.00">_VERTICAL_LIMIT</text>
 </g>
 <!-- Node8&#45;&gt;Node7 -->
 <g id="edge7" class="edge">

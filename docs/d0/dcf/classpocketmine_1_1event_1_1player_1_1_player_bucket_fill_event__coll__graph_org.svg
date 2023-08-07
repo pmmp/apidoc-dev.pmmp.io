@@ -118,7 +118,7 @@
 <text text-anchor="start" x="2564.07" y="-555.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastAnimation()</text>
 <text text-anchor="start" x="2564.07" y="-544.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastSound()</text>
 <text text-anchor="start" x="2564.07" y="-533.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeCollidedWith()</text>
-<text text-anchor="start" x="2564.07" y="-522.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 123 more...</text>
+<text text-anchor="start" x="2564.07" y="-522.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 124 more...</text>
 <text text-anchor="start" x="2564.07" y="-511.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isValidUserName()</text>
 <text text-anchor="start" x="2564.07" y="-500.5" font-family="Helvetica,sans-Serif" font-size="10.00"># actuallyRespawn()</text>
 <text text-anchor="start" x="2564.07" y="-489.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addDefaultWindows()</text>
@@ -350,7 +350,11 @@
 <title>Node9&#45;&gt;Node7</title>
 <path fill="none" stroke="#404040" d="M1646.06,-3896.51C1538.12,-3893.95 1058.37,-3880.91 999.57,-3851 807.95,-3753.52 688.57,-3695.49 688.57,-3480.5 688.57,-3480.5 688.57,-3480.5 688.57,-1785 688.57,-1644.37 528.82,-1697.07 442.57,-1586 441.88,-1585.12 441.2,-1584.23 440.52,-1583.33"/>
 <polygon fill="none" stroke="#404040" points="440.45,-1583.23 433.68,-1580.73 433.39,-1573.52 440.15,-1576.02 440.45,-1583.23"/>
-<text text-anchor="middle" x="755.07" y="-2319.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #DEFAULT_BREATH_TICKS</text>
+<text text-anchor="middle" x="755.07" y="-2341.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #DEFAULT_BREATH_TICKS</text>
+<text text-anchor="start" x="688.57" y="-2330.5" font-family="Helvetica,sans-Serif" font-size="10.00">+DEFAULT_KNOCKBACK</text>
+<text text-anchor="middle" x="755.07" y="-2319.5" font-family="Helvetica,sans-Serif" font-size="10.00">_FORCE</text>
+<text text-anchor="start" x="688.57" y="-2308.5" font-family="Helvetica,sans-Serif" font-size="10.00">+DEFAULT_KNOCKBACK</text>
+<text text-anchor="middle" x="755.07" y="-2297.5" font-family="Helvetica,sans-Serif" font-size="10.00">_VERTICAL_LIMIT</text>
 </g>
 <!-- Node9&#45;&gt;Node8 -->
 <g id="edge8" class="edge">

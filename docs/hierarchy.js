@@ -492,6 +492,7 @@ var hierarchy =
       [ "pocketmine\\event\\player\\PlayerItemUseEvent", "dd/dbd/classpocketmine_1_1event_1_1player_1_1_player_item_use_event.html", null ],
       [ "pocketmine\\event\\player\\PlayerKickEvent", "d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event.html", null ],
       [ "pocketmine\\event\\player\\PlayerLoginEvent", "d6/d15/classpocketmine_1_1event_1_1player_1_1_player_login_event.html", null ],
+      [ "pocketmine\\event\\player\\PlayerMissSwingEvent", "d4/d27/classpocketmine_1_1event_1_1player_1_1_player_miss_swing_event.html", null ],
       [ "pocketmine\\event\\player\\PlayerMoveEvent", "d3/d49/classpocketmine_1_1event_1_1player_1_1_player_move_event.html", null ],
       [ "pocketmine\\event\\player\\PlayerToggleFlightEvent", "df/d48/classpocketmine_1_1event_1_1player_1_1_player_toggle_flight_event.html", null ],
       [ "pocketmine\\event\\player\\PlayerToggleGlideEvent", "d7/d32/classpocketmine_1_1event_1_1player_1_1_player_toggle_glide_event.html", null ],
@@ -865,6 +866,7 @@ var hierarchy =
         [ "pocketmine\\event\\player\\PlayerJumpEvent", "d8/d8f/classpocketmine_1_1event_1_1player_1_1_player_jump_event.html", null ],
         [ "pocketmine\\event\\player\\PlayerKickEvent", "d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event.html", null ],
         [ "pocketmine\\event\\player\\PlayerLoginEvent", "d6/d15/classpocketmine_1_1event_1_1player_1_1_player_login_event.html", null ],
+        [ "pocketmine\\event\\player\\PlayerMissSwingEvent", "d4/d27/classpocketmine_1_1event_1_1player_1_1_player_miss_swing_event.html", null ],
         [ "pocketmine\\event\\player\\PlayerMoveEvent", "d3/d49/classpocketmine_1_1event_1_1player_1_1_player_move_event.html", null ],
         [ "pocketmine\\event\\player\\PlayerPostChunkSendEvent", "dd/dd7/classpocketmine_1_1event_1_1player_1_1_player_post_chunk_send_event.html", null ],
         [ "pocketmine\\event\\player\\PlayerQuitEvent", "df/d81/classpocketmine_1_1event_1_1player_1_1_player_quit_event.html", null ],
@@ -1948,7 +1950,6 @@ var hierarchy =
     [ "pocketmine\\data\\bedrock\\item\\upgrade\\R12ItemIdToBlockIdMap", "dd/dcf/classpocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_r12_item_id_to_block_id_map.html", null ],
     [ "pocketmine\\block\\utils\\RailConnectionInfo", "d7/df9/classpocketmine_1_1block_1_1utils_1_1_rail_connection_info.html", null ],
     [ "raklib\\RakLib", "d8/df8/classraklib_1_1_rak_lib.html", null ],
-    [ "pocketmine\\network\\mcpe\\raklib\\RakLibThreadCrashInfo", "d3/dd3/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_thread_crash_info.html", null ],
     [ "raklib\\server\\ipc\\RakLibToUserThreadMessageProtocol", "d4/ddf/classraklib_1_1server_1_1ipc_1_1_rak_lib_to_user_thread_message_protocol.html", null ],
     [ "raklib\\server\\ipc\\RakLibToUserThreadMessageReceiver", "d3/dc1/classraklib_1_1server_1_1ipc_1_1_rak_lib_to_user_thread_message_receiver.html", null ],
     [ "pocketmine\\utils\\Random", "db/dcb/classpocketmine_1_1utils_1_1_random.html", null ],
@@ -2036,7 +2037,9 @@ var hierarchy =
       [ "pocketmine\\player\\PlayerDataSaveException", "dc/d86/classpocketmine_1_1player_1_1_player_data_save_exception.html", null ],
       [ "pocketmine\\plugin\\DisablePluginException", "d2/db2/classpocketmine_1_1plugin_1_1_disable_plugin_exception.html", null ],
       [ "pocketmine\\resourcepacks\\ResourcePackException", "de/da2/classpocketmine_1_1resourcepacks_1_1_resource_pack_exception.html", null ],
-      [ "pocketmine\\thread\\ThreadException", "d0/df0/classpocketmine_1_1thread_1_1_thread_exception.html", null ],
+      [ "pocketmine\\thread\\ThreadException", "d0/df0/classpocketmine_1_1thread_1_1_thread_exception.html", [
+        [ "pocketmine\\thread\\ThreadCrashException", "d4/dd1/classpocketmine_1_1thread_1_1_thread_crash_exception.html", null ]
+      ] ],
       [ "pocketmine\\utils\\BinaryDataException", "de/da7/classpocketmine_1_1utils_1_1_binary_data_exception.html", null ],
       [ "pocketmine\\utils\\ConfigLoadException", "d0/db9/classpocketmine_1_1utils_1_1_config_load_exception.html", null ],
       [ "pocketmine\\utils\\InternetException", "dd/dbe/classpocketmine_1_1utils_1_1_internet_exception.html", null ],
@@ -2404,6 +2407,8 @@ var hierarchy =
     [ "ThreadSafe", null, [
       [ "pocketmine\\snooze\\SleeperHandlerEntry", "d8/d3f/classpocketmine_1_1snooze_1_1_sleeper_handler_entry.html", null ],
       [ "pocketmine\\thread\\NonThreadSafeValue", "d4/d69/classpocketmine_1_1thread_1_1_non_thread_safe_value.html", null ],
+      [ "pocketmine\\thread\\ThreadCrashInfo", "d4/dd3/classpocketmine_1_1thread_1_1_thread_crash_info.html", null ],
+      [ "pocketmine\\thread\\ThreadCrashInfoFrame", "d8/d9f/classpocketmine_1_1thread_1_1_thread_crash_info_frame.html", null ],
       [ "pocketmine\\thread\\ThreadManager", "df/dca/classpocketmine_1_1thread_1_1_thread_manager.html", null ],
       [ "pocketmine\\thread\\ThreadSafeClassLoader", "df/d2b/classpocketmine_1_1thread_1_1_thread_safe_class_loader.html", null ],
       [ "pocketmine\\thread\\log\\ThreadSafeLogger", "da/df4/classpocketmine_1_1thread_1_1log_1_1_thread_safe_logger.html", null ],

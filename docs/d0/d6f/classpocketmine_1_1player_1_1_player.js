@@ -95,6 +95,7 @@ var classpocketmine_1_1player_1_1_player =
     [ "jump", "d0/d6f/classpocketmine_1_1player_1_1_player.html#a72409f71ffb844f58eae7f49bff1ade7", null ],
     [ "kick", "d0/d6f/classpocketmine_1_1player_1_1_player.html#a364cf9c2e41ff64b75d85263734bd479", null ],
     [ "lookAt", "d0/d6f/classpocketmine_1_1player_1_1_player.html#a3c11bfc681ed5ee937345d05c9a8fbae", null ],
+    [ "missSwing", "d0/d6f/classpocketmine_1_1player_1_1_player.html#aa89875efe2495be60eb3c87391b2f198", null ],
     [ "nextRuntimeId", "d0/d6f/classpocketmine_1_1player_1_1_player.html#a7a0ab51bbdfe50c4c8c58424974b47a7", null ],
     [ "onAirExpired", "d0/d6f/classpocketmine_1_1player_1_1_player.html#ae1aee29c6e41e00628698b302030b9bf", null ],
     [ "onBlockChanged", "d0/d6f/classpocketmine_1_1player_1_1_player.html#a0a51a24d984e69d954f4d7bc301e7b08", null ],
@@ -157,5 +158,7 @@ var classpocketmine_1_1player_1_1_player =
     [ "transfer", "d0/d6f/classpocketmine_1_1player_1_1_player.html#a505a7b7c0a9b4763c9110666d2fba635", null ],
     [ "unsetBasePermission", "d0/d6f/classpocketmine_1_1player_1_1_player.html#ab811d359621f6d634eaf165917f43d2b", null ],
     [ "useHeldItem", "d0/d6f/classpocketmine_1_1player_1_1_player.html#acb1c1056567862abccfc2e51b98d3e32", null ],
-    [ "$lineHeight", "d0/d6f/classpocketmine_1_1player_1_1_player.html#adfcba9cccc68470973953f9c1c35050d", null ]
+    [ "$lineHeight", "d0/d6f/classpocketmine_1_1player_1_1_player.html#adfcba9cccc68470973953f9c1c35050d", null ],
+    [ "DEFAULT_KNOCKBACK_FORCE", "d0/d6f/classpocketmine_1_1player_1_1_player.html#a4e8978f8b3b0896c5279379b1b950099", null ],
+    [ "DEFAULT_KNOCKBACK_VERTICAL_LIMIT", "d0/d6f/classpocketmine_1_1player_1_1_player.html#a72313b6172199315104d3a77a86d3b9d", null ]
 ];

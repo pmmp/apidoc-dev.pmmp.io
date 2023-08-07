@@ -713,6 +713,7 @@ var annotated_dup =
           [ "PlayerJumpEvent", "d8/d8f/classpocketmine_1_1event_1_1player_1_1_player_jump_event.html", "d8/d8f/classpocketmine_1_1event_1_1player_1_1_player_jump_event" ],
           [ "PlayerKickEvent", "d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event.html", "d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event" ],
           [ "PlayerLoginEvent", "d6/d15/classpocketmine_1_1event_1_1player_1_1_player_login_event.html", "d6/d15/classpocketmine_1_1event_1_1player_1_1_player_login_event" ],
+          [ "PlayerMissSwingEvent", "d4/d27/classpocketmine_1_1event_1_1player_1_1_player_miss_swing_event.html", "d4/d27/classpocketmine_1_1event_1_1player_1_1_player_miss_swing_event" ],
           [ "PlayerMoveEvent", "d3/d49/classpocketmine_1_1event_1_1player_1_1_player_move_event.html", "d3/d49/classpocketmine_1_1event_1_1player_1_1_player_move_event" ],
           [ "PlayerPostChunkSendEvent", "dd/dd7/classpocketmine_1_1event_1_1player_1_1_player_post_chunk_send_event.html", "dd/dd7/classpocketmine_1_1event_1_1player_1_1_player_post_chunk_send_event" ],
           [ "PlayerPreLoginEvent", "d2/d1e/classpocketmine_1_1event_1_1player_1_1_player_pre_login_event.html", "d2/d1e/classpocketmine_1_1event_1_1player_1_1_player_pre_login_event" ],
@@ -1467,7 +1468,6 @@ var annotated_dup =
             [ "RakLibInterface", "d9/dc4/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_interface.html", "d9/dc4/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_interface" ],
             [ "RakLibPacketSender", "dc/d49/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_packet_sender.html", "dc/d49/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_packet_sender" ],
             [ "RakLibServer", "de/dc9/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_server.html", "de/dc9/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_server" ],
-            [ "RakLibThreadCrashInfo", "d3/dd3/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_thread_crash_info.html", "d3/dd3/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_thread_crash_info" ],
             [ "SnoozeAwarePthreadsChannelWriter", "d0/dcd/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_snooze_aware_pthreads_channel_writer.html", "d0/dcd/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_snooze_aware_pthreads_channel_writer" ]
           ] ],
           [ "serializer", null, [
@@ -1617,6 +1617,9 @@ var annotated_dup =
         ] ],
         [ "NonThreadSafeValue", "d4/d69/classpocketmine_1_1thread_1_1_non_thread_safe_value.html", "d4/d69/classpocketmine_1_1thread_1_1_non_thread_safe_value" ],
         [ "Thread", "d0/d6e/classpocketmine_1_1thread_1_1_thread.html", "d0/d6e/classpocketmine_1_1thread_1_1_thread" ],
+        [ "ThreadCrashException", "d4/dd1/classpocketmine_1_1thread_1_1_thread_crash_exception.html", null ],
+        [ "ThreadCrashInfo", "d4/dd3/classpocketmine_1_1thread_1_1_thread_crash_info.html", "d4/dd3/classpocketmine_1_1thread_1_1_thread_crash_info" ],
+        [ "ThreadCrashInfoFrame", "d8/d9f/classpocketmine_1_1thread_1_1_thread_crash_info_frame.html", null ],
         [ "ThreadException", "d0/df0/classpocketmine_1_1thread_1_1_thread_exception.html", null ],
         [ "ThreadManager", "df/dca/classpocketmine_1_1thread_1_1_thread_manager.html", "df/dca/classpocketmine_1_1thread_1_1_thread_manager" ],
         [ "ThreadSafeClassLoader", "df/d2b/classpocketmine_1_1thread_1_1_thread_safe_class_loader.html", "df/d2b/classpocketmine_1_1thread_1_1_thread_safe_class_loader" ],
