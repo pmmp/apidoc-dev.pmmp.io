@@ -2,7 +2,6 @@ var namespacepocketmine_1_1plugin =
 [
     [ "ApiVersion", "d0/df2/classpocketmine_1_1plugin_1_1_api_version.html", "d0/df2/classpocketmine_1_1plugin_1_1_api_version" ],
     [ "DisablePluginException", "d2/db2/classpocketmine_1_1plugin_1_1_disable_plugin_exception.html", null ],
-    [ "DiskResourceProvider", "de/d85/classpocketmine_1_1plugin_1_1_disk_resource_provider.html", "de/d85/classpocketmine_1_1plugin_1_1_disk_resource_provider" ],
     [ "FolderPluginLoader", "d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html", "d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader" ],
     [ "PharPluginLoader", "d5/dbf/classpocketmine_1_1plugin_1_1_phar_plugin_loader.html", "d5/dbf/classpocketmine_1_1plugin_1_1_phar_plugin_loader" ],
     [ "Plugin", "d4/d92/interfacepocketmine_1_1plugin_1_1_plugin.html", "d4/d92/interfacepocketmine_1_1plugin_1_1_plugin" ],
@@ -20,7 +19,6 @@ var namespacepocketmine_1_1plugin =
     [ "PluginLogger", "de/dc8/classpocketmine_1_1plugin_1_1_plugin_logger.html", "de/dc8/classpocketmine_1_1plugin_1_1_plugin_logger" ],
     [ "PluginManager", "db/d14/classpocketmine_1_1plugin_1_1_plugin_manager.html", "db/d14/classpocketmine_1_1plugin_1_1_plugin_manager" ],
     [ "PluginOwned", "d0/dcc/interfacepocketmine_1_1plugin_1_1_plugin_owned.html", null ],
-    [ "ResourceProvider", "de/d0d/interfacepocketmine_1_1plugin_1_1_resource_provider.html", "de/d0d/interfacepocketmine_1_1plugin_1_1_resource_provider" ],
     [ "ScriptPluginLoader", "d5/d4a/classpocketmine_1_1plugin_1_1_script_plugin_loader.html", "d5/d4a/classpocketmine_1_1plugin_1_1_script_plugin_loader" ],
     [ "PluginOwnedTrait", "d1/dd8/namespacepocketmine_1_1plugin.html#a765c2f413a4fa914c11812f29f153151", null ]
 ];

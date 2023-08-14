@@ -280,43 +280,41 @@
 <g id="node9" class="node">
 <title>Node9</title>
 <g id="a_node9"><a xlink:href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="672,-1095 672,-1328 814,-1328 814,-1095 672,-1095"/>
-<text text-anchor="middle" x="743" y="-1316" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\math\Vector3</text>
-<polyline fill="none" stroke="#bfbfbf" points="672,-1309 814,-1309 "/>
-<text text-anchor="start" x="680" y="-1297" font-family="Helvetica,sans-Serif" font-size="10.00">+ $x</text>
-<text text-anchor="start" x="680" y="-1286" font-family="Helvetica,sans-Serif" font-size="10.00">+ $y</text>
-<text text-anchor="start" x="680" y="-1275" font-family="Helvetica,sans-Serif" font-size="10.00">+ $z</text>
-<polyline fill="none" stroke="#bfbfbf" points="672,-1268 814,-1268 "/>
-<text text-anchor="start" x="680" y="-1256" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="680" y="-1245" font-family="Helvetica,sans-Serif" font-size="10.00">+ __toString()</text>
-<text text-anchor="start" x="680" y="-1234" font-family="Helvetica,sans-Serif" font-size="10.00">+ abs()</text>
-<text text-anchor="start" x="680" y="-1223" font-family="Helvetica,sans-Serif" font-size="10.00">+ add()</text>
-<text text-anchor="start" x="680" y="-1212" font-family="Helvetica,sans-Serif" font-size="10.00">+ addVector()</text>
-<text text-anchor="start" x="680" y="-1201" font-family="Helvetica,sans-Serif" font-size="10.00">+ asVector3()</text>
-<text text-anchor="start" x="680" y="-1190" font-family="Helvetica,sans-Serif" font-size="10.00">+ ceil()</text>
-<text text-anchor="start" x="680" y="-1179" font-family="Helvetica,sans-Serif" font-size="10.00">+ cross()</text>
-<text text-anchor="start" x="680" y="-1168" font-family="Helvetica,sans-Serif" font-size="10.00">+ distance()</text>
-<text text-anchor="start" x="680" y="-1157" font-family="Helvetica,sans-Serif" font-size="10.00">+ distanceSquared()</text>
-<text text-anchor="start" x="680" y="-1146" font-family="Helvetica,sans-Serif" font-size="10.00">and 32 more...</text>
-<text text-anchor="start" x="680" y="-1135" font-family="Helvetica,sans-Serif" font-size="10.00">+ maxComponents()</text>
-<text text-anchor="start" x="680" y="-1124" font-family="Helvetica,sans-Serif" font-size="10.00">+ minComponents()</text>
-<text text-anchor="start" x="680" y="-1113" font-family="Helvetica,sans-Serif" font-size="10.00">+ sum()</text>
-<text text-anchor="start" x="680" y="-1102" font-family="Helvetica,sans-Serif" font-size="10.00">+ zero()</text>
+<polygon fill="white" stroke="#bfbfbf" points="672,-1106 672,-1317 814,-1317 814,-1106 672,-1106"/>
+<text text-anchor="middle" x="743" y="-1305" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\math\Vector3</text>
+<polyline fill="none" stroke="#bfbfbf" points="672,-1298 814,-1298 "/>
+<text text-anchor="middle" x="743" y="-1286" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="672,-1279 814,-1279 "/>
+<text text-anchor="start" x="680" y="-1267" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="680" y="-1256" font-family="Helvetica,sans-Serif" font-size="10.00">+ __toString()</text>
+<text text-anchor="start" x="680" y="-1245" font-family="Helvetica,sans-Serif" font-size="10.00">+ abs()</text>
+<text text-anchor="start" x="680" y="-1234" font-family="Helvetica,sans-Serif" font-size="10.00">+ add()</text>
+<text text-anchor="start" x="680" y="-1223" font-family="Helvetica,sans-Serif" font-size="10.00">+ addVector()</text>
+<text text-anchor="start" x="680" y="-1212" font-family="Helvetica,sans-Serif" font-size="10.00">+ asVector3()</text>
+<text text-anchor="start" x="680" y="-1201" font-family="Helvetica,sans-Serif" font-size="10.00">+ ceil()</text>
+<text text-anchor="start" x="680" y="-1190" font-family="Helvetica,sans-Serif" font-size="10.00">+ cross()</text>
+<text text-anchor="start" x="680" y="-1179" font-family="Helvetica,sans-Serif" font-size="10.00">+ distance()</text>
+<text text-anchor="start" x="680" y="-1168" font-family="Helvetica,sans-Serif" font-size="10.00">+ distanceSquared()</text>
+<text text-anchor="start" x="680" y="-1157" font-family="Helvetica,sans-Serif" font-size="10.00">and 32 more...</text>
+<text text-anchor="start" x="680" y="-1146" font-family="Helvetica,sans-Serif" font-size="10.00">+ maxComponents()</text>
+<text text-anchor="start" x="680" y="-1135" font-family="Helvetica,sans-Serif" font-size="10.00">+ minComponents()</text>
+<text text-anchor="start" x="680" y="-1124" font-family="Helvetica,sans-Serif" font-size="10.00">+ sum()</text>
+<text text-anchor="start" x="680" y="-1113" font-family="Helvetica,sans-Serif" font-size="10.00">+ zero()</text>
 </a>
 </g>
 </g>
 <!-- Node9&#45;&gt;Node2 -->
 <g id="edge15" class="edge">
 <title>Node9&#45;&gt;Node2</title>
-<path fill="none" stroke="#404040" d="M750.9,-1094.78C754.08,-1038.84 757,-970.71 757,-909.5 757,-909.5 757,-909.5 757,-504 757,-486.74 757,-468.65 757,-450.68"/>
+<path fill="none" stroke="#404040" d="M750.27,-1105.73C753.68,-1047.9 757,-974.76 757,-909.5 757,-909.5 757,-909.5 757,-504 757,-486.74 757,-468.65 757,-450.68"/>
 <polygon fill="none" stroke="#404040" points="757,-450.59 753,-444.59 757,-438.59 761,-444.59 757,-450.59"/>
 <text text-anchor="middle" x="791.5" y="-680" font-family="Helvetica,sans-Serif" font-size="10.00"> #$flowVector</text>
 </g>
 <!-- Node9&#45;&gt;Node8 -->
 <g id="edge8" class="edge">
 <title>Node9&#45;&gt;Node8</title>
-<path fill="none" stroke="midnightblue" d="M742.21,-1084.56C739.13,-1044.5 732.28,-1007.14 718,-994 694.97,-972.81 184.32,-986.93 155,-976 151.99,-974.88 149.02,-973.6 146.08,-972.19"/>
-<polygon fill="none" stroke="midnightblue" points="738.74,-1085.06 742.91,-1094.79 745.72,-1084.58 738.74,-1085.06"/>
+<path fill="none" stroke="midnightblue" d="M742.97,-1095.71C740.33,-1051.6 733.6,-1008.35 718,-994 694.97,-972.81 184.32,-986.93 155,-976 151.99,-974.88 149.02,-973.6 146.08,-972.19"/>
+<polygon fill="none" stroke="midnightblue" points="739.48,-1095.92 743.5,-1105.72 746.47,-1095.55 739.48,-1095.92"/>
 </g>
 <!-- Node10&#45;&gt;Node8 -->
 <g id="edge9" class="edge">

@@ -321,36 +321,34 @@ var sectionId = 'dynsection-1';
 <g id="node10" class="node">
 <title>Node10</title>
 <g id="a_node10"><a xlink:href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="297.89,-1003 297.89,-1236 439.89,-1236 439.89,-1003 297.89,-1003"/>
-<text text-anchor="middle" x="368.89" y="-1224" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\math\Vector3</text>
-<polyline fill="none" stroke="#bfbfbf" points="297.89,-1217 439.89,-1217 "/>
-<text text-anchor="start" x="305.89" y="-1205" font-family="Helvetica,sans-Serif" font-size="10.00">+ $x</text>
-<text text-anchor="start" x="305.89" y="-1194" font-family="Helvetica,sans-Serif" font-size="10.00">+ $y</text>
-<text text-anchor="start" x="305.89" y="-1183" font-family="Helvetica,sans-Serif" font-size="10.00">+ $z</text>
-<polyline fill="none" stroke="#bfbfbf" points="297.89,-1176 439.89,-1176 "/>
-<text text-anchor="start" x="305.89" y="-1164" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="305.89" y="-1153" font-family="Helvetica,sans-Serif" font-size="10.00">+ __toString()</text>
-<text text-anchor="start" x="305.89" y="-1142" font-family="Helvetica,sans-Serif" font-size="10.00">+ abs()</text>
-<text text-anchor="start" x="305.89" y="-1131" font-family="Helvetica,sans-Serif" font-size="10.00">+ add()</text>
-<text text-anchor="start" x="305.89" y="-1120" font-family="Helvetica,sans-Serif" font-size="10.00">+ addVector()</text>
-<text text-anchor="start" x="305.89" y="-1109" font-family="Helvetica,sans-Serif" font-size="10.00">+ asVector3()</text>
-<text text-anchor="start" x="305.89" y="-1098" font-family="Helvetica,sans-Serif" font-size="10.00">+ ceil()</text>
-<text text-anchor="start" x="305.89" y="-1087" font-family="Helvetica,sans-Serif" font-size="10.00">+ cross()</text>
-<text text-anchor="start" x="305.89" y="-1076" font-family="Helvetica,sans-Serif" font-size="10.00">+ distance()</text>
-<text text-anchor="start" x="305.89" y="-1065" font-family="Helvetica,sans-Serif" font-size="10.00">+ distanceSquared()</text>
-<text text-anchor="start" x="305.89" y="-1054" font-family="Helvetica,sans-Serif" font-size="10.00">and 32 more...</text>
-<text text-anchor="start" x="305.89" y="-1043" font-family="Helvetica,sans-Serif" font-size="10.00">+ maxComponents()</text>
-<text text-anchor="start" x="305.89" y="-1032" font-family="Helvetica,sans-Serif" font-size="10.00">+ minComponents()</text>
-<text text-anchor="start" x="305.89" y="-1021" font-family="Helvetica,sans-Serif" font-size="10.00">+ sum()</text>
-<text text-anchor="start" x="305.89" y="-1010" font-family="Helvetica,sans-Serif" font-size="10.00">+ zero()</text>
+<polygon fill="white" stroke="#bfbfbf" points="297.89,-1014 297.89,-1225 439.89,-1225 439.89,-1014 297.89,-1014"/>
+<text text-anchor="middle" x="368.89" y="-1213" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\math\Vector3</text>
+<polyline fill="none" stroke="#bfbfbf" points="297.89,-1206 439.89,-1206 "/>
+<text text-anchor="middle" x="368.89" y="-1194" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="297.89,-1187 439.89,-1187 "/>
+<text text-anchor="start" x="305.89" y="-1175" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="305.89" y="-1164" font-family="Helvetica,sans-Serif" font-size="10.00">+ __toString()</text>
+<text text-anchor="start" x="305.89" y="-1153" font-family="Helvetica,sans-Serif" font-size="10.00">+ abs()</text>
+<text text-anchor="start" x="305.89" y="-1142" font-family="Helvetica,sans-Serif" font-size="10.00">+ add()</text>
+<text text-anchor="start" x="305.89" y="-1131" font-family="Helvetica,sans-Serif" font-size="10.00">+ addVector()</text>
+<text text-anchor="start" x="305.89" y="-1120" font-family="Helvetica,sans-Serif" font-size="10.00">+ asVector3()</text>
+<text text-anchor="start" x="305.89" y="-1109" font-family="Helvetica,sans-Serif" font-size="10.00">+ ceil()</text>
+<text text-anchor="start" x="305.89" y="-1098" font-family="Helvetica,sans-Serif" font-size="10.00">+ cross()</text>
+<text text-anchor="start" x="305.89" y="-1087" font-family="Helvetica,sans-Serif" font-size="10.00">+ distance()</text>
+<text text-anchor="start" x="305.89" y="-1076" font-family="Helvetica,sans-Serif" font-size="10.00">+ distanceSquared()</text>
+<text text-anchor="start" x="305.89" y="-1065" font-family="Helvetica,sans-Serif" font-size="10.00">and 32 more...</text>
+<text text-anchor="start" x="305.89" y="-1054" font-family="Helvetica,sans-Serif" font-size="10.00">+ maxComponents()</text>
+<text text-anchor="start" x="305.89" y="-1043" font-family="Helvetica,sans-Serif" font-size="10.00">+ minComponents()</text>
+<text text-anchor="start" x="305.89" y="-1032" font-family="Helvetica,sans-Serif" font-size="10.00">+ sum()</text>
+<text text-anchor="start" x="305.89" y="-1021" font-family="Helvetica,sans-Serif" font-size="10.00">+ zero()</text>
 </a>
 </g>
 </g>
 <!-- Node10&#45;&gt;Node9 -->
 <g id="edge9" class="edge">
 <title>Node10&#45;&gt;Node9</title>
-<path fill="none" stroke="midnightblue" d="M305.64,-993.75C300.09,-983.62 294.47,-973.59 288.89,-964 273.36,-937.27 255.12,-908.58 238.8,-883.74"/>
-<polygon fill="none" stroke="midnightblue" points="302.63,-995.55 310.48,-1002.67 308.79,-992.21 302.63,-995.55"/>
+<path fill="none" stroke="midnightblue" d="M311.62,-1004.78C304.17,-990.93 296.49,-977.07 288.89,-964 273.36,-937.27 255.12,-908.58 238.8,-883.74"/>
+<polygon fill="none" stroke="midnightblue" points="308.67,-1006.69 316.47,-1013.86 314.85,-1003.39 308.67,-1006.69"/>
 </g>
 <!-- Node11&#45;&gt;Node9 -->
 <g id="edge10" class="edge">

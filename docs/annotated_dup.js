@@ -70,6 +70,7 @@ var annotated_dup =
           [ "BannerPatternLayer", "da/dd4/classpocketmine_1_1block_1_1utils_1_1_banner_pattern_layer.html", null ],
           [ "BannerPatternType", "d5/d03/classpocketmine_1_1block_1_1utils_1_1_banner_pattern_type.html", null ],
           [ "BellAttachmentType", "d6/d74/classpocketmine_1_1block_1_1utils_1_1_bell_attachment_type.html", null ],
+          [ "BlockEventHelper", "d4/d5d/classpocketmine_1_1block_1_1utils_1_1_block_event_helper.html", null ],
           [ "BrewingStandSlot", "dc/dbd/classpocketmine_1_1block_1_1utils_1_1_brewing_stand_slot.html", "dc/dbd/classpocketmine_1_1block_1_1utils_1_1_brewing_stand_slot" ],
           [ "CopperOxidation", "de/d31/classpocketmine_1_1block_1_1utils_1_1_copper_oxidation.html", null ],
           [ "CoralType", "d8/d9f/classpocketmine_1_1block_1_1utils_1_1_coral_type.html", null ],
@@ -246,6 +247,7 @@ var annotated_dup =
         [ "Note", "d3/df5/classpocketmine_1_1block_1_1_note.html", "d3/df5/classpocketmine_1_1block_1_1_note" ],
         [ "Opaque", "db/dc5/classpocketmine_1_1block_1_1_opaque.html", "db/dc5/classpocketmine_1_1block_1_1_opaque" ],
         [ "PackedIce", "d9/d15/classpocketmine_1_1block_1_1_packed_ice.html", "d9/d15/classpocketmine_1_1block_1_1_packed_ice" ],
+        [ "PinkPetals", "db/dc0/classpocketmine_1_1block_1_1_pink_petals.html", "db/dc0/classpocketmine_1_1block_1_1_pink_petals" ],
         [ "Planks", "d5/dd4/classpocketmine_1_1block_1_1_planks.html", "d5/dd4/classpocketmine_1_1block_1_1_planks" ],
         [ "Podzol", "d1/d30/classpocketmine_1_1block_1_1_podzol.html", "d1/d30/classpocketmine_1_1block_1_1_podzol" ],
         [ "Potato", "d4/d42/classpocketmine_1_1block_1_1_potato.html", "d4/d42/classpocketmine_1_1block_1_1_potato" ],
@@ -638,6 +640,7 @@ var annotated_dup =
           [ "BrewingFuelUseEvent", "d6/d91/classpocketmine_1_1event_1_1block_1_1_brewing_fuel_use_event.html", "d6/d91/classpocketmine_1_1event_1_1block_1_1_brewing_fuel_use_event" ],
           [ "BrewItemEvent", "d0/df2/classpocketmine_1_1event_1_1block_1_1_brew_item_event.html", "d0/df2/classpocketmine_1_1event_1_1block_1_1_brew_item_event" ],
           [ "ChestPairEvent", "de/dd7/classpocketmine_1_1event_1_1block_1_1_chest_pair_event.html", "de/dd7/classpocketmine_1_1event_1_1block_1_1_chest_pair_event" ],
+          [ "FarmlandHydrationChangeEvent", "d1/dd3/classpocketmine_1_1event_1_1block_1_1_farmland_hydration_change_event.html", "d1/dd3/classpocketmine_1_1event_1_1block_1_1_farmland_hydration_change_event" ],
           [ "LeavesDecayEvent", "d1/d8d/classpocketmine_1_1event_1_1block_1_1_leaves_decay_event.html", "d1/d8d/classpocketmine_1_1event_1_1block_1_1_leaves_decay_event" ],
           [ "SignChangeEvent", "dd/d93/classpocketmine_1_1event_1_1block_1_1_sign_change_event.html", "dd/d93/classpocketmine_1_1event_1_1block_1_1_sign_change_event" ],
           [ "StructureGrowEvent", "dd/d17/classpocketmine_1_1event_1_1block_1_1_structure_grow_event.html", "dd/d17/classpocketmine_1_1event_1_1block_1_1_structure_grow_event" ]
@@ -751,6 +754,7 @@ var annotated_dup =
           [ "ChunkPopulateEvent", "dd/d9c/classpocketmine_1_1event_1_1world_1_1_chunk_populate_event.html", "dd/d9c/classpocketmine_1_1event_1_1world_1_1_chunk_populate_event" ],
           [ "ChunkUnloadEvent", "d1/df4/classpocketmine_1_1event_1_1world_1_1_chunk_unload_event.html", "d1/df4/classpocketmine_1_1event_1_1world_1_1_chunk_unload_event" ],
           [ "SpawnChangeEvent", "d3/d42/classpocketmine_1_1event_1_1world_1_1_spawn_change_event.html", "d3/d42/classpocketmine_1_1event_1_1world_1_1_spawn_change_event" ],
+          [ "WorldDifficultyChangeEvent", "d4/df0/classpocketmine_1_1event_1_1world_1_1_world_difficulty_change_event.html", "d4/df0/classpocketmine_1_1event_1_1world_1_1_world_difficulty_change_event" ],
           [ "WorldDisplayNameChangeEvent", "da/d8e/classpocketmine_1_1event_1_1world_1_1_world_display_name_change_event.html", "da/d8e/classpocketmine_1_1event_1_1world_1_1_world_display_name_change_event" ],
           [ "WorldEvent", "d9/d97/classpocketmine_1_1event_1_1world_1_1_world_event.html", "d9/d97/classpocketmine_1_1event_1_1world_1_1_world_event" ],
           [ "WorldInitEvent", "da/d9d/classpocketmine_1_1event_1_1world_1_1_world_init_event.html", "da/d9d/classpocketmine_1_1event_1_1world_1_1_world_init_event" ],
@@ -1547,7 +1551,6 @@ var annotated_dup =
       [ "plugin", "d1/dd8/namespacepocketmine_1_1plugin.html", [
         [ "ApiVersion", "d0/df2/classpocketmine_1_1plugin_1_1_api_version.html", "d0/df2/classpocketmine_1_1plugin_1_1_api_version" ],
         [ "DisablePluginException", "d2/db2/classpocketmine_1_1plugin_1_1_disable_plugin_exception.html", null ],
-        [ "DiskResourceProvider", "de/d85/classpocketmine_1_1plugin_1_1_disk_resource_provider.html", "de/d85/classpocketmine_1_1plugin_1_1_disk_resource_provider" ],
         [ "FolderPluginLoader", "d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html", "d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader" ],
         [ "PharPluginLoader", "d5/dbf/classpocketmine_1_1plugin_1_1_phar_plugin_loader.html", "d5/dbf/classpocketmine_1_1plugin_1_1_phar_plugin_loader" ],
         [ "Plugin", "d4/d92/interfacepocketmine_1_1plugin_1_1_plugin.html", "d4/d92/interfacepocketmine_1_1plugin_1_1_plugin" ],
@@ -1565,7 +1568,6 @@ var annotated_dup =
         [ "PluginLogger", "de/dc8/classpocketmine_1_1plugin_1_1_plugin_logger.html", "de/dc8/classpocketmine_1_1plugin_1_1_plugin_logger" ],
         [ "PluginManager", "db/d14/classpocketmine_1_1plugin_1_1_plugin_manager.html", "db/d14/classpocketmine_1_1plugin_1_1_plugin_manager" ],
         [ "PluginOwned", "d0/dcc/interfacepocketmine_1_1plugin_1_1_plugin_owned.html", null ],
-        [ "ResourceProvider", "de/d0d/interfacepocketmine_1_1plugin_1_1_resource_provider.html", "de/d0d/interfacepocketmine_1_1plugin_1_1_resource_provider" ],
         [ "ScriptPluginLoader", "d5/d4a/classpocketmine_1_1plugin_1_1_script_plugin_loader.html", "d5/d4a/classpocketmine_1_1plugin_1_1_script_plugin_loader" ]
       ] ],
       [ "promise", null, [

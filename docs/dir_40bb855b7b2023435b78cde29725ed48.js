@@ -2,7 +2,6 @@ var dir_40bb855b7b2023435b78cde29725ed48 =
 [
     [ "ApiVersion.php", "d1/dcb/_api_version_8php_source.html", null ],
     [ "DisablePluginException.php", "dc/d8f/_disable_plugin_exception_8php_source.html", null ],
-    [ "DiskResourceProvider.php", "d1/d55/_disk_resource_provider_8php_source.html", null ],
     [ "FolderPluginLoader.php", "d9/d8d/_folder_plugin_loader_8php_source.html", null ],
     [ "PharPluginLoader.php", "d8/da3/_phar_plugin_loader_8php_source.html", null ],
     [ "Plugin.php", "dd/de9/_plugin_8php_source.html", null ],
@@ -21,6 +20,5 @@ var dir_40bb855b7b2023435b78cde29725ed48 =
     [ "PluginManager.php", "db/d3b/_plugin_manager_8php_source.html", null ],
     [ "PluginOwned.php", "d2/d60/_plugin_owned_8php_source.html", null ],
     [ "PluginOwnedTrait.php", "d2/df3/_plugin_owned_trait_8php_source.html", null ],
-    [ "ResourceProvider.php", "d6/dd4/_resource_provider_8php_source.html", null ],
     [ "ScriptPluginLoader.php", "d8/db3/_script_plugin_loader_8php_source.html", null ]
 ];
