@@ -137,7 +137,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="255.39" y="-490.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ calculateIntercept()</text>
 <text text-anchor="start" x="255.39" y="-479.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
 <text text-anchor="start" x="255.39" y="-468.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
-<text text-anchor="start" x="255.39" y="-457.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 59 more...</text>
+<text text-anchor="start" x="255.39" y="-457.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 60 more...</text>
 <text text-anchor="start" x="255.39" y="-446.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 <text text-anchor="start" x="255.39" y="-435.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getAdjacentSupportType()</text>
 <text text-anchor="start" x="255.39" y="-424.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getXpDropAmount()</text>
@@ -254,23 +254,24 @@ var sectionId = 'dynsection-1';
 <g id="node7" class="node">
 <title>Node7</title>
 <g id="a_node7"><a xlink:href="../../de/d9a/classpocketmine_1_1block_1_1_block_type_info.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="478.89,-698.5 478.89,-788.5 652.89,-788.5 652.89,-698.5 478.89,-698.5"/>
-<text text-anchor="middle" x="565.89" y="-776.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\BlockTypeInfo</text>
-<polyline fill="none" stroke="#bfbfbf" points="478.89,-769.5 652.89,-769.5 "/>
-<text text-anchor="middle" x="565.89" y="-757.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="478.89,-750.5 652.89,-750.5 "/>
-<text text-anchor="start" x="486.89" y="-738.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="486.89" y="-727.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBreakInfo()</text>
-<text text-anchor="start" x="486.89" y="-716.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getTypeTags()</text>
-<text text-anchor="start" x="486.89" y="-705.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ hasTypeTag()</text>
+<polygon fill="white" stroke="#bfbfbf" points="478.89,-693 478.89,-794 652.89,-794 652.89,-693 478.89,-693"/>
+<text text-anchor="middle" x="565.89" y="-782" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\BlockTypeInfo</text>
+<polyline fill="none" stroke="#bfbfbf" points="478.89,-775 652.89,-775 "/>
+<text text-anchor="middle" x="565.89" y="-763" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="478.89,-756 652.89,-756 "/>
+<text text-anchor="start" x="486.89" y="-744" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="486.89" y="-733" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBreakInfo()</text>
+<text text-anchor="start" x="486.89" y="-722" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEnchantmentTags()</text>
+<text text-anchor="start" x="486.89" y="-711" font-family="Helvetica,sans-Serif" font-size="10.00">+ getTypeTags()</text>
+<text text-anchor="start" x="486.89" y="-700" font-family="Helvetica,sans-Serif" font-size="10.00">+ hasTypeTag()</text>
 </a>
 </g>
 </g>
 <!-- Node7&#45;&gt;Node4 -->
 <g id="edge6" class="edge">
 <title>Node7&#45;&gt;Node4</title>
-<path fill="none" stroke="#404040" d="M518.87,-698.24C490.02,-671.09 452.13,-635.43 417.71,-603.03"/>
-<polygon fill="none" stroke="#404040" points="417.31,-602.66 410.2,-601.46 408.57,-594.43 415.68,-595.63 417.31,-602.66"/>
+<path fill="none" stroke="#404040" d="M513.07,-692.79C485.03,-666.4 449.81,-633.24 417.62,-602.95"/>
+<polygon fill="none" stroke="#404040" points="417.37,-602.72 410.26,-601.52 408.64,-594.49 415.75,-595.69 417.37,-602.72"/>
 <text text-anchor="middle" x="504.89" y="-650" font-family="Helvetica,sans-Serif" font-size="10.00"> #$typeInfo</text>
 </g>
 <!-- Node8 -->

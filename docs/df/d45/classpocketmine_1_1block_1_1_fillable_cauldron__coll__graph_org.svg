@@ -73,7 +73,7 @@
 <text text-anchor="start" x="206" y="-406.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ calculateIntercept()</text>
 <text text-anchor="start" x="206" y="-395.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
 <text text-anchor="start" x="206" y="-384.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
-<text text-anchor="start" x="206" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 59 more...</text>
+<text text-anchor="start" x="206" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 60 more...</text>
 <text text-anchor="start" x="206" y="-362.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 <text text-anchor="start" x="206" y="-351.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getAdjacentSupportType()</text>
 <text text-anchor="start" x="206" y="-340.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getXpDropAmount()</text>
@@ -198,22 +198,23 @@
 <g id="node6" class="node">
 <title>Node6</title>
 <g id="a_node6"><a xlink:href="../../de/d9a/classpocketmine_1_1block_1_1_block_type_info.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="563.5,-625.5 563.5,-715.5 737.5,-715.5 737.5,-625.5 563.5,-625.5"/>
-<text text-anchor="middle" x="650.5" y="-703.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\BlockTypeInfo</text>
-<polyline fill="none" stroke="#bfbfbf" points="563.5,-696.5 737.5,-696.5 "/>
-<text text-anchor="middle" x="650.5" y="-684.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="563.5,-677.5 737.5,-677.5 "/>
-<text text-anchor="start" x="571.5" y="-665.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="571.5" y="-654.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBreakInfo()</text>
-<text text-anchor="start" x="571.5" y="-643.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getTypeTags()</text>
-<text text-anchor="start" x="571.5" y="-632.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ hasTypeTag()</text>
+<polygon fill="white" stroke="#bfbfbf" points="563.5,-620 563.5,-721 737.5,-721 737.5,-620 563.5,-620"/>
+<text text-anchor="middle" x="650.5" y="-709" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\BlockTypeInfo</text>
+<polyline fill="none" stroke="#bfbfbf" points="563.5,-702 737.5,-702 "/>
+<text text-anchor="middle" x="650.5" y="-690" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="563.5,-683 737.5,-683 "/>
+<text text-anchor="start" x="571.5" y="-671" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="571.5" y="-660" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBreakInfo()</text>
+<text text-anchor="start" x="571.5" y="-649" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEnchantmentTags()</text>
+<text text-anchor="start" x="571.5" y="-638" font-family="Helvetica,sans-Serif" font-size="10.00">+ getTypeTags()</text>
+<text text-anchor="start" x="571.5" y="-627" font-family="Helvetica,sans-Serif" font-size="10.00">+ hasTypeTag()</text>
 </a>
 </g>
 </g>
 <!-- Node6&#45;&gt;Node3 -->
 <g id="edge5" class="edge">
 <title>Node6&#45;&gt;Node3</title>
-<path fill="none" stroke="#404040" d="M587.85,-625.33C576.81,-617.77 565.38,-610.08 554.5,-603 493.74,-563.45 424.04,-520.93 369.89,-488.49"/>
+<path fill="none" stroke="#404040" d="M579.78,-619.83C571.31,-614.08 562.74,-608.36 554.5,-603 493.74,-563.45 424.04,-520.93 369.89,-488.49"/>
 <polygon fill="none" stroke="#404040" points="369.57,-488.3 362.37,-488.65 359.28,-482.14 366.48,-481.79 369.57,-488.3"/>
 <text text-anchor="middle" x="553.5" y="-571.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #$typeInfo</text>
 </g>

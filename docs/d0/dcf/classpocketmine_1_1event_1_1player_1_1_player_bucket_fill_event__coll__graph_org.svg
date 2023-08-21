@@ -146,41 +146,41 @@
 <g id="node6" class="node">
 <title>Node6</title>
 <g id="a_node6"><a xlink:href="../../d4/ddf/classpocketmine_1_1entity_1_1_human.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="856.07,-851.5 856.07,-1139.5 1019.07,-1139.5 1019.07,-851.5 856.07,-851.5"/>
+<polygon fill="white" stroke="#bfbfbf" points="854.07,-851.5 854.07,-1139.5 1021.07,-1139.5 1021.07,-851.5 854.07,-851.5"/>
 <text text-anchor="middle" x="937.57" y="-1127.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\entity\Human</text>
-<polyline fill="none" stroke="#bfbfbf" points="856.07,-1120.5 1019.07,-1120.5 "/>
-<text text-anchor="start" x="864.07" y="-1108.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $xpSeed</text>
-<polyline fill="none" stroke="#bfbfbf" points="856.07,-1101.5 1019.07,-1101.5 "/>
-<text text-anchor="start" x="864.07" y="-1089.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="864.07" y="-1078.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ applyDamageModifiers()</text>
-<text text-anchor="start" x="864.07" y="-1067.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ consumeObject()</text>
-<text text-anchor="start" x="864.07" y="-1056.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ emote()</text>
-<text text-anchor="start" x="864.07" y="-1045.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDrops()</text>
-<text text-anchor="start" x="864.07" y="-1034.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEnderInventory()</text>
-<text text-anchor="start" x="864.07" y="-1023.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getHungerManager()</text>
-<text text-anchor="start" x="864.07" y="-1012.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getInventory()</text>
-<text text-anchor="start" x="864.07" y="-1001.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getName()</text>
-<text text-anchor="start" x="864.07" y="-990.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOffHandInventory()</text>
-<text text-anchor="start" x="864.07" y="-979.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 10 more...</text>
-<text text-anchor="start" x="864.07" y="-968.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNetworkTypeId()</text>
-<text text-anchor="start" x="864.07" y="-957.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ parseSkinNBT()</text>
-<text text-anchor="start" x="864.07" y="-946.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyConsumptionResults()</text>
-<text text-anchor="start" x="864.07" y="-935.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyPostDamageEffects()</text>
-<text text-anchor="start" x="864.07" y="-924.5" font-family="Helvetica,sans-Serif" font-size="10.00"># destroyCycles()</text>
-<text text-anchor="start" x="864.07" y="-913.5" font-family="Helvetica,sans-Serif" font-size="10.00"># entityBaseTick()</text>
-<text text-anchor="start" x="864.07" y="-902.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getInitialSizeInfo()</text>
-<text text-anchor="start" x="864.07" y="-891.5" font-family="Helvetica,sans-Serif" font-size="10.00"># initEntity()</text>
-<text text-anchor="start" x="864.07" y="-880.5" font-family="Helvetica,sans-Serif" font-size="10.00"># initHumanData()</text>
-<text text-anchor="start" x="864.07" y="-869.5" font-family="Helvetica,sans-Serif" font-size="10.00"># onDispose()</text>
-<text text-anchor="start" x="864.07" y="-858.5" font-family="Helvetica,sans-Serif" font-size="10.00"># sendSpawnPacket()</text>
+<polyline fill="none" stroke="#bfbfbf" points="854.07,-1120.5 1021.07,-1120.5 "/>
+<text text-anchor="start" x="862.07" y="-1108.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $xpSeed</text>
+<polyline fill="none" stroke="#bfbfbf" points="854.07,-1101.5 1021.07,-1101.5 "/>
+<text text-anchor="start" x="862.07" y="-1089.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="862.07" y="-1078.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ applyDamageModifiers()</text>
+<text text-anchor="start" x="862.07" y="-1067.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ consumeObject()</text>
+<text text-anchor="start" x="862.07" y="-1056.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ emote()</text>
+<text text-anchor="start" x="862.07" y="-1045.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ generateEnchantmentSeed()</text>
+<text text-anchor="start" x="862.07" y="-1034.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDrops()</text>
+<text text-anchor="start" x="862.07" y="-1023.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEnchantmentSeed()</text>
+<text text-anchor="start" x="862.07" y="-1012.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEnderInventory()</text>
+<text text-anchor="start" x="862.07" y="-1001.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getHungerManager()</text>
+<text text-anchor="start" x="862.07" y="-990.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getInventory()</text>
+<text text-anchor="start" x="862.07" y="-979.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 13 more...</text>
+<text text-anchor="start" x="862.07" y="-968.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNetworkTypeId()</text>
+<text text-anchor="start" x="862.07" y="-957.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ parseSkinNBT()</text>
+<text text-anchor="start" x="862.07" y="-946.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyConsumptionResults()</text>
+<text text-anchor="start" x="862.07" y="-935.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyPostDamageEffects()</text>
+<text text-anchor="start" x="862.07" y="-924.5" font-family="Helvetica,sans-Serif" font-size="10.00"># destroyCycles()</text>
+<text text-anchor="start" x="862.07" y="-913.5" font-family="Helvetica,sans-Serif" font-size="10.00"># entityBaseTick()</text>
+<text text-anchor="start" x="862.07" y="-902.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getInitialSizeInfo()</text>
+<text text-anchor="start" x="862.07" y="-891.5" font-family="Helvetica,sans-Serif" font-size="10.00"># initEntity()</text>
+<text text-anchor="start" x="862.07" y="-880.5" font-family="Helvetica,sans-Serif" font-size="10.00"># initHumanData()</text>
+<text text-anchor="start" x="862.07" y="-869.5" font-family="Helvetica,sans-Serif" font-size="10.00"># onDispose()</text>
+<text text-anchor="start" x="862.07" y="-858.5" font-family="Helvetica,sans-Serif" font-size="10.00"># sendSpawnPacket()</text>
 </a>
 </g>
 </g>
 <!-- Node6&#45;&gt;Node5 -->
 <g id="edge5" class="edge">
 <title>Node6&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M1028.44,-955.55C1121.27,-917.02 1270.28,-858.67 1403.57,-822 1830.41,-704.56 2357.23,-630.14 2555.79,-604.5"/>
-<polygon fill="none" stroke="midnightblue" points="1026.97,-952.37 1019.08,-959.44 1029.66,-958.83 1026.97,-952.37"/>
+<path fill="none" stroke="midnightblue" d="M1030.55,-954.67C1123.51,-916.15 1271.29,-858.4 1403.57,-822 1830.41,-704.56 2357.23,-630.14 2555.79,-604.5"/>
+<polygon fill="none" stroke="midnightblue" points="1029.06,-951.5 1021.17,-958.57 1031.75,-957.96 1029.06,-951.5"/>
 </g>
 <!-- Node35 -->
 <g id="node27" class="node">
@@ -259,7 +259,7 @@
 <!-- Node7&#45;&gt;Node6 -->
 <g id="edge6" class="edge">
 <title>Node7&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M440.5,-1188.98C441.18,-1188.31 441.87,-1187.65 442.57,-1187 560.19,-1076.51 748.74,-1028.02 856,-1008.43"/>
+<path fill="none" stroke="midnightblue" d="M440.5,-1188.98C441.18,-1188.31 441.87,-1187.65 442.57,-1187 559.35,-1077.3 746.06,-1028.72 853.69,-1008.85"/>
 <polygon fill="none" stroke="midnightblue" points="437.81,-1186.73 433.34,-1196.33 442.82,-1191.61 437.81,-1186.73"/>
 </g>
 <!-- Node8 -->
@@ -1140,7 +1140,7 @@
 <!-- Node33&#45;&gt;Node6 -->
 <g id="edge31" class="edge">
 <title>Node33&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M538.78,-1342.48C550.86,-1299.12 574.55,-1232.31 614.57,-1187 680.82,-1111.97 784,-1058.35 855.86,-1027.49"/>
+<path fill="none" stroke="midnightblue" d="M538.78,-1342.48C550.86,-1299.12 574.55,-1232.31 614.57,-1187 680.18,-1112.7 781.99,-1059.4 853.74,-1028.4"/>
 <polygon fill="none" stroke="midnightblue" points="535.4,-1341.59 536.17,-1352.16 542.15,-1343.42 535.4,-1341.59"/>
 </g>
 <!-- Node34 -->
@@ -1160,7 +1160,7 @@
 <!-- Node34&#45;&gt;Node6 -->
 <g id="edge32" class="edge">
 <title>Node34&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M695.12,-1342.48C705.66,-1300.63 725.27,-1236.33 755.57,-1187 782.62,-1142.96 821.25,-1100.68 855.97,-1067.19"/>
+<path fill="none" stroke="midnightblue" d="M695.12,-1342.48C705.66,-1300.63 725.27,-1236.33 755.57,-1187 782.02,-1143.93 819.55,-1102.55 853.66,-1069.42"/>
 <polygon fill="none" stroke="midnightblue" points="691.68,-1341.8 692.69,-1352.35 698.48,-1343.47 691.68,-1341.8"/>
 </g>
 <!-- Node35&#45;&gt;Node6 -->
@@ -1173,15 +1173,15 @@
 <!-- Node36&#45;&gt;Node6 -->
 <g id="edge37" class="edge">
 <title>Node36&#45;&gt;Node6</title>
-<path fill="none" stroke="#404040" d="M1375.32,-1604.48C1372.27,-1598.48 1369.54,-1592.21 1367.57,-1586 1340.63,-1501.15 1382.22,-1260.21 1331.57,-1187 1261.89,-1086.29 1123.76,-1036.88 1031,-1014.09"/>
-<polygon fill="none" stroke="#404040" points="1030.75,-1014.03 1023.98,-1016.53 1019.08,-1011.25 1025.84,-1008.75 1030.75,-1014.03"/>
+<path fill="none" stroke="#404040" d="M1375.32,-1604.48C1372.27,-1598.48 1369.54,-1592.21 1367.57,-1586 1340.63,-1501.15 1382.22,-1260.21 1331.57,-1187 1262.41,-1087.03 1125.81,-1037.61 1033.08,-1014.6"/>
+<polygon fill="none" stroke="#404040" points="1032.81,-1014.54 1026.04,-1017.02 1021.15,-1011.73 1027.92,-1009.25 1032.81,-1014.54"/>
 <text text-anchor="middle" x="1419.07" y="-1384" font-family="Helvetica,sans-Serif" font-size="10.00"> #$offHandInventory</text>
 </g>
 <!-- Node37&#45;&gt;Node6 -->
 <g id="edge39" class="edge">
 <title>Node37&#45;&gt;Node6</title>
-<path fill="none" stroke="#404040" d="M1245.71,-1604.33C1243.32,-1598.3 1241.17,-1592.06 1239.57,-1586 1194.11,-1413.63 1287.35,-1341.58 1198.57,-1187 1160.43,-1120.6 1088.76,-1070.84 1030.15,-1038.87"/>
-<polygon fill="none" stroke="#404040" points="1029.96,-1038.76 1022.78,-1039.46 1019.37,-1033.1 1026.55,-1032.4 1029.96,-1038.76"/>
+<path fill="none" stroke="#404040" d="M1245.71,-1604.33C1243.32,-1598.3 1241.17,-1592.06 1239.57,-1586 1194.11,-1413.63 1287.35,-1341.58 1198.57,-1187 1160.83,-1121.28 1090.24,-1071.88 1031.98,-1039.87"/>
+<polygon fill="none" stroke="#404040" points="1031.82,-1039.78 1024.64,-1040.46 1021.25,-1034.09 1028.43,-1033.41 1031.82,-1039.78"/>
 <text text-anchor="middle" x="1285.57" y="-1384" font-family="Helvetica,sans-Serif" font-size="10.00"> #$enderInventory</text>
 </g>
 <!-- Node38 -->
@@ -1207,8 +1207,8 @@
 <!-- Node39&#45;&gt;Node6 -->
 <g id="edge42" class="edge">
 <title>Node39&#45;&gt;Node6</title>
-<path fill="none" stroke="#404040" d="M181.76,-2265.88C205.46,-2196.13 241.57,-2071.83 241.57,-1962 241.57,-1962 241.57,-1962 241.57,-1385.5 241.57,-1296.87 203.75,-1255.01 260.57,-1187 335.4,-1097.42 676.06,-1035.39 843.75,-1009.72"/>
-<polygon fill="none" stroke="#404040" points="843.9,-1009.7 849.23,-1004.85 855.77,-1007.9 850.43,-1012.76 843.9,-1009.7"/>
+<path fill="none" stroke="#404040" d="M181.76,-2265.88C205.46,-2196.13 241.57,-2071.83 241.57,-1962 241.57,-1962 241.57,-1962 241.57,-1385.5 241.57,-1296.87 203.75,-1255.01 260.57,-1187 335.11,-1097.77 673.46,-1035.87 841.82,-1010.02"/>
+<polygon fill="none" stroke="#404040" points="842.02,-1009.99 847.35,-1005.13 853.89,-1008.18 848.56,-1013.04 842.02,-1009.99"/>
 <text text-anchor="middle" x="260.57" y="-1783.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #$skin</text>
 </g>
 <!-- Node40 -->
@@ -1269,8 +1269,8 @@
 <!-- Node41&#45;&gt;Node6 -->
 <g id="edge45" class="edge">
 <title>Node41&#45;&gt;Node6</title>
-<path fill="none" stroke="#404040" d="M1085.51,-1297.27C1072.98,-1254.35 1055.88,-1202.53 1035.57,-1158 1032.23,-1150.68 1028.63,-1143.28 1024.86,-1135.89"/>
-<polygon fill="none" stroke="#404040" points="1024.76,-1135.7 1018.44,-1132.24 1019.2,-1125.07 1025.53,-1128.53 1024.76,-1135.7"/>
+<path fill="none" stroke="#404040" d="M1085.51,-1297.27C1072.98,-1254.35 1055.88,-1202.53 1035.57,-1158 1032.8,-1151.94 1029.86,-1145.82 1026.79,-1139.7"/>
+<polygon fill="none" stroke="#404040" points="1026.61,-1139.35 1020.3,-1135.84 1021.12,-1128.68 1027.42,-1132.18 1026.61,-1139.35"/>
 <text text-anchor="middle" x="1075.07" y="-1161" font-family="Helvetica,sans-Serif" font-size="10.00"> #$xpManager</text>
 </g>
 <!-- Node42 -->

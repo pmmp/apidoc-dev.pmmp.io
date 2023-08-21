@@ -18,6 +18,7 @@ var dir_4bd3bd4cdf138ad29edb61d8aa883928 =
     [ "ChestPairEvent.php", "d3/dfe/_chest_pair_event_8php_source.html", null ],
     [ "FarmlandHydrationChangeEvent.php", "d3/dfb/_farmland_hydration_change_event_8php_source.html", null ],
     [ "LeavesDecayEvent.php", "da/d78/_leaves_decay_event_8php_source.html", null ],
+    [ "PressurePlateUpdateEvent.php", "d6/d36/_pressure_plate_update_event_8php_source.html", null ],
     [ "SignChangeEvent.php", "d1/d1d/_sign_change_event_8php_source.html", null ],
     [ "StructureGrowEvent.php", "d0/d5c/_structure_grow_event_8php_source.html", null ]
 ];

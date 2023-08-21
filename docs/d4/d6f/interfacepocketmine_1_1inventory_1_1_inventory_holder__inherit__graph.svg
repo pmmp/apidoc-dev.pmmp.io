@@ -128,48 +128,48 @@ var sectionId = 'dynsection-0';
 <g id="node13" class="node">
 <title>Node13</title>
 <g id="a_node13"><a xlink:href="../../d4/ddf/classpocketmine_1_1entity_1_1_human.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="789.5,-606.5 789.5,-971.5 952.5,-971.5 952.5,-606.5 789.5,-606.5"/>
-<text text-anchor="middle" x="871" y="-959.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\entity\Human</text>
-<polyline fill="none" stroke="#bfbfbf" points="789.5,-952.5 952.5,-952.5 "/>
-<text text-anchor="start" x="797.5" y="-940.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $enderInventory</text>
-<text text-anchor="start" x="797.5" y="-929.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $hungerManager</text>
-<text text-anchor="start" x="797.5" y="-918.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $inventory</text>
-<text text-anchor="start" x="797.5" y="-907.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $offHandInventory</text>
-<text text-anchor="start" x="797.5" y="-896.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $skin</text>
-<text text-anchor="start" x="797.5" y="-885.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $uuid</text>
-<text text-anchor="start" x="797.5" y="-874.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $xpManager</text>
-<text text-anchor="start" x="797.5" y="-863.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $xpSeed</text>
-<polyline fill="none" stroke="#bfbfbf" points="789.5,-856.5 952.5,-856.5 "/>
-<text text-anchor="start" x="797.5" y="-844.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="797.5" y="-833.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ applyDamageModifiers()</text>
-<text text-anchor="start" x="797.5" y="-822.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ consumeObject()</text>
-<text text-anchor="start" x="797.5" y="-811.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ emote()</text>
-<text text-anchor="start" x="797.5" y="-800.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDrops()</text>
-<text text-anchor="start" x="797.5" y="-789.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEnderInventory()</text>
-<text text-anchor="start" x="797.5" y="-778.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getHungerManager()</text>
-<text text-anchor="start" x="797.5" y="-767.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getInventory()</text>
-<text text-anchor="start" x="797.5" y="-756.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getName()</text>
-<text text-anchor="start" x="797.5" y="-745.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getOffHandInventory()</text>
-<text text-anchor="start" x="797.5" y="-734.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 10 more...</text>
-<text text-anchor="start" x="797.5" y="-723.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNetworkTypeId()</text>
-<text text-anchor="start" x="797.5" y="-712.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ parseSkinNBT()</text>
-<text text-anchor="start" x="797.5" y="-701.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyConsumptionResults()</text>
-<text text-anchor="start" x="797.5" y="-690.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyPostDamageEffects()</text>
-<text text-anchor="start" x="797.5" y="-679.5" font-family="Helvetica,sans-Serif" font-size="10.00"># destroyCycles()</text>
-<text text-anchor="start" x="797.5" y="-668.5" font-family="Helvetica,sans-Serif" font-size="10.00"># entityBaseTick()</text>
-<text text-anchor="start" x="797.5" y="-657.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getInitialSizeInfo()</text>
-<text text-anchor="start" x="797.5" y="-646.5" font-family="Helvetica,sans-Serif" font-size="10.00"># initEntity()</text>
-<text text-anchor="start" x="797.5" y="-635.5" font-family="Helvetica,sans-Serif" font-size="10.00"># initHumanData()</text>
-<text text-anchor="start" x="797.5" y="-624.5" font-family="Helvetica,sans-Serif" font-size="10.00"># onDispose()</text>
-<text text-anchor="start" x="797.5" y="-613.5" font-family="Helvetica,sans-Serif" font-size="10.00"># sendSpawnPacket()</text>
+<polygon fill="white" stroke="#bfbfbf" points="788.5,-606.5 788.5,-971.5 955.5,-971.5 955.5,-606.5 788.5,-606.5"/>
+<text text-anchor="middle" x="872" y="-959.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\entity\Human</text>
+<polyline fill="none" stroke="#bfbfbf" points="788.5,-952.5 955.5,-952.5 "/>
+<text text-anchor="start" x="796.5" y="-940.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $enderInventory</text>
+<text text-anchor="start" x="796.5" y="-929.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $hungerManager</text>
+<text text-anchor="start" x="796.5" y="-918.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $inventory</text>
+<text text-anchor="start" x="796.5" y="-907.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $offHandInventory</text>
+<text text-anchor="start" x="796.5" y="-896.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $skin</text>
+<text text-anchor="start" x="796.5" y="-885.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $uuid</text>
+<text text-anchor="start" x="796.5" y="-874.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $xpManager</text>
+<text text-anchor="start" x="796.5" y="-863.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $xpSeed</text>
+<polyline fill="none" stroke="#bfbfbf" points="788.5,-856.5 955.5,-856.5 "/>
+<text text-anchor="start" x="796.5" y="-844.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="796.5" y="-833.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ applyDamageModifiers()</text>
+<text text-anchor="start" x="796.5" y="-822.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ consumeObject()</text>
+<text text-anchor="start" x="796.5" y="-811.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ emote()</text>
+<text text-anchor="start" x="796.5" y="-800.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ generateEnchantmentSeed()</text>
+<text text-anchor="start" x="796.5" y="-789.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDrops()</text>
+<text text-anchor="start" x="796.5" y="-778.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEnchantmentSeed()</text>
+<text text-anchor="start" x="796.5" y="-767.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEnderInventory()</text>
+<text text-anchor="start" x="796.5" y="-756.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getHungerManager()</text>
+<text text-anchor="start" x="796.5" y="-745.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getInventory()</text>
+<text text-anchor="start" x="796.5" y="-734.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 13 more...</text>
+<text text-anchor="start" x="796.5" y="-723.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNetworkTypeId()</text>
+<text text-anchor="start" x="796.5" y="-712.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ parseSkinNBT()</text>
+<text text-anchor="start" x="796.5" y="-701.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyConsumptionResults()</text>
+<text text-anchor="start" x="796.5" y="-690.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyPostDamageEffects()</text>
+<text text-anchor="start" x="796.5" y="-679.5" font-family="Helvetica,sans-Serif" font-size="10.00"># destroyCycles()</text>
+<text text-anchor="start" x="796.5" y="-668.5" font-family="Helvetica,sans-Serif" font-size="10.00"># entityBaseTick()</text>
+<text text-anchor="start" x="796.5" y="-657.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getInitialSizeInfo()</text>
+<text text-anchor="start" x="796.5" y="-646.5" font-family="Helvetica,sans-Serif" font-size="10.00"># initEntity()</text>
+<text text-anchor="start" x="796.5" y="-635.5" font-family="Helvetica,sans-Serif" font-size="10.00"># initHumanData()</text>
+<text text-anchor="start" x="796.5" y="-624.5" font-family="Helvetica,sans-Serif" font-size="10.00"># onDispose()</text>
+<text text-anchor="start" x="796.5" y="-613.5" font-family="Helvetica,sans-Serif" font-size="10.00"># sendSpawnPacket()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node13 -->
 <g id="edge12" class="edge">
 <title>Node1&#45;&gt;Node13</title>
-<path fill="none" stroke="midnightblue" d="M602.98,-1001.97C652.94,-962.46 730.59,-901.05 789.47,-854.48"/>
-<polygon fill="none" stroke="midnightblue" points="600.57,-999.41 594.9,-1008.36 604.91,-1004.9 600.57,-999.41"/>
+<path fill="none" stroke="midnightblue" d="M603.05,-1002.04C652.62,-962.96 729.43,-902.4 788.29,-855.99"/>
+<polygon fill="none" stroke="midnightblue" points="600.72,-999.42 595.03,-1008.36 605.05,-1004.92 600.72,-999.42"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
@@ -470,8 +470,8 @@ var sectionId = 'dynsection-0';
 <!-- Node13&#45;&gt;Node14 -->
 <g id="edge13" class="edge">
 <title>Node13&#45;&gt;Node14</title>
-<path fill="none" stroke="midnightblue" d="M938.19,-596.84C941.59,-587.18 945.01,-577.44 948.44,-567.68"/>
-<polygon fill="none" stroke="midnightblue" points="934.82,-595.87 934.81,-606.47 941.43,-598.19 934.82,-595.87"/>
+<path fill="none" stroke="midnightblue" d="M938.74,-596.92C941.95,-587.72 945.19,-578.45 948.43,-569.17"/>
+<polygon fill="none" stroke="midnightblue" points="935.4,-595.87 935.41,-606.47 942.01,-598.18 935.4,-595.87"/>
 </g>
 </g>
 </svg>

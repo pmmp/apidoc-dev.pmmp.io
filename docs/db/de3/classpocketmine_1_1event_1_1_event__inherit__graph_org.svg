@@ -45,9 +45,9 @@
 <path fill="none" stroke="midnightblue" d="M4213.63,-695.02C3774.21,-666.92 1609.66,-528.51 1199.61,-502.29"/>
 <polygon fill="none" stroke="midnightblue" points="4213.49,-698.52 4223.69,-695.66 4213.93,-691.53 4213.49,-698.52"/>
 </g>
-<!-- Node22 -->
+<!-- Node23 -->
 <g id="node17" class="node">
-<title>Node22</title>
+<title>Node23</title>
 <g id="a_node17"><a xlink:href="../../de/d85/classpocketmine_1_1event_1_1block_1_1_block_place_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="3248.5,-441 3248.5,-553 3382.5,-553 3382.5,-441 3248.5,-441"/>
 <text text-anchor="start" x="3256.5" y="-541" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\block</text>
@@ -63,15 +63,15 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node22 -->
+<!-- Node1&#45;&gt;Node23 -->
 <g id="edge16" class="edge">
-<title>Node1&#45;&gt;Node22</title>
+<title>Node1&#45;&gt;Node23</title>
 <path fill="none" stroke="midnightblue" d="M4213.52,-697.55C4007.63,-690.52 3460.44,-667.97 3391.5,-625 3365.22,-608.62 3346.84,-579.53 3334.75,-553.31"/>
 <polygon fill="none" stroke="midnightblue" points="4213.54,-701.05 4223.65,-697.89 4213.78,-694.06 4213.54,-701.05"/>
 </g>
-<!-- Node23 -->
+<!-- Node24 -->
 <g id="node18" class="node">
-<title>Node23</title>
+<title>Node24</title>
 <g id="a_node18"><a xlink:href="../../de/dd7/classpocketmine_1_1event_1_1block_1_1_chest_pair_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="3400.5,-452 3400.5,-542 3534.5,-542 3534.5,-452 3400.5,-452"/>
 <text text-anchor="start" x="3408.5" y="-530" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\block</text>
@@ -85,15 +85,15 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node23 -->
+<!-- Node1&#45;&gt;Node24 -->
 <g id="edge17" class="edge">
-<title>Node1&#45;&gt;Node23</title>
+<title>Node1&#45;&gt;Node24</title>
 <path fill="none" stroke="midnightblue" d="M4213.84,-700.85C4045.5,-701.34 3653.29,-694.72 3543.5,-625 3513.67,-606.06 3493.96,-570.83 3482.11,-542.27"/>
 <polygon fill="none" stroke="midnightblue" points="4213.89,-704.35 4223.87,-700.81 4213.86,-697.35 4213.89,-704.35"/>
 </g>
-<!-- Node24 -->
+<!-- Node25 -->
 <g id="node19" class="node">
-<title>Node24</title>
+<title>Node25</title>
 <g id="a_node19"><a xlink:href="../../de/d84/classpocketmine_1_1event_1_1entity_1_1_entity_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="red" points="3552.5,-463 3552.5,-531 3688.5,-531 3688.5,-463 3552.5,-463"/>
 <text text-anchor="start" x="3560.5" y="-519" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
@@ -105,15 +105,15 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node24 -->
+<!-- Node1&#45;&gt;Node25 -->
 <g id="edge18" class="edge">
-<title>Node1&#45;&gt;Node24</title>
+<title>Node1&#45;&gt;Node25</title>
 <path fill="none" stroke="midnightblue" d="M4213.46,-698.44C4072.2,-694.28 3781.02,-679.21 3697.5,-625 3663.87,-603.17 3642.68,-561 3631.23,-531.26"/>
 <polygon fill="none" stroke="midnightblue" points="4213.68,-701.95 4223.77,-698.73 4213.88,-694.95 4213.68,-701.95"/>
 </g>
-<!-- Node57 -->
+<!-- Node58 -->
 <g id="node39" class="node">
-<title>Node57</title>
+<title>Node58</title>
 <g id="a_node39"><a xlink:href="../../d0/d1a/classpocketmine_1_1event_1_1inventory_1_1_craft_item_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="3706.5,-430 3706.5,-564 3860.5,-564 3860.5,-430 3706.5,-430"/>
 <text text-anchor="start" x="3714.5" y="-552" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\inventory</text>
@@ -131,15 +131,15 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node57 -->
+<!-- Node1&#45;&gt;Node58 -->
 <g id="edge38" class="edge">
-<title>Node1&#45;&gt;Node57</title>
+<title>Node1&#45;&gt;Node58</title>
 <path fill="none" stroke="midnightblue" d="M4213.76,-693.44C4107.88,-683.29 3925.13,-661.11 3869.5,-625 3846.61,-610.14 3828.26,-586.82 3814.49,-564.2"/>
 <polygon fill="none" stroke="midnightblue" points="4213.48,-696.93 4223.76,-694.38 4214.13,-689.96 4213.48,-696.93"/>
 </g>
-<!-- Node58 -->
+<!-- Node59 -->
 <g id="node40" class="node">
-<title>Node58</title>
+<title>Node59</title>
 <g id="a_node40"><a xlink:href="../../db/dbc/classpocketmine_1_1event_1_1inventory_1_1_inventory_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="orangered" points="3878.5,-452 3878.5,-542 4032.5,-542 4032.5,-452 3878.5,-452"/>
 <text text-anchor="start" x="3886.5" y="-530" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\inventory</text>
@@ -153,15 +153,15 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node58 -->
+<!-- Node1&#45;&gt;Node59 -->
 <g id="edge39" class="edge">
-<title>Node1&#45;&gt;Node58</title>
+<title>Node1&#45;&gt;Node59</title>
 <path fill="none" stroke="midnightblue" d="M4213.89,-690.6C4161.18,-681.08 4092.11,-662.17 4041.5,-625 4012.53,-603.72 3990.2,-569.57 3975.56,-542.03"/>
 <polygon fill="none" stroke="midnightblue" points="4213.42,-694.07 4223.87,-692.33 4214.62,-687.17 4213.42,-694.07"/>
 </g>
-<!-- Node61 -->
+<!-- Node62 -->
 <g id="node41" class="node">
-<title>Node61</title>
+<title>Node62</title>
 <g id="a_node41"><a xlink:href="../../dc/dd1/classpocketmine_1_1event_1_1inventory_1_1_inventory_transaction_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="4050.5,-457.5 4050.5,-536.5 4204.5,-536.5 4204.5,-457.5 4050.5,-457.5"/>
 <text text-anchor="start" x="4058.5" y="-524.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\inventory</text>
@@ -174,15 +174,15 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node61 -->
+<!-- Node1&#45;&gt;Node62 -->
 <g id="edge40" class="edge">
-<title>Node1&#45;&gt;Node61</title>
+<title>Node1&#45;&gt;Node62</title>
 <path fill="none" stroke="midnightblue" d="M4240.95,-654.41C4231.46,-645.03 4221.89,-634.96 4213.5,-625 4190,-597.1 4167.02,-562.69 4150.74,-536.73"/>
 <polygon fill="none" stroke="midnightblue" points="4238.56,-656.97 4248.17,-661.44 4243.45,-651.96 4238.56,-656.97"/>
 </g>
-<!-- Node62 -->
+<!-- Node63 -->
 <g id="node42" class="node">
-<title>Node62</title>
+<title>Node63</title>
 <g id="a_node42"><a xlink:href="../../d8/dda/classpocketmine_1_1event_1_1player_1_1_player_creation_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="4222.5,-424.5 4222.5,-569.5 4360.5,-569.5 4360.5,-424.5 4222.5,-424.5"/>
 <text text-anchor="start" x="4230.5" y="-557.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
@@ -201,15 +201,15 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node62 -->
+<!-- Node1&#45;&gt;Node63 -->
 <g id="edge41" class="edge">
-<title>Node1&#45;&gt;Node62</title>
+<title>Node1&#45;&gt;Node63</title>
 <path fill="none" stroke="midnightblue" d="M4291.5,-650.94C4291.5,-626.5 4291.5,-596.49 4291.5,-569.54"/>
 <polygon fill="none" stroke="midnightblue" points="4288,-651.05 4291.5,-661.05 4295,-651.05 4288,-651.05"/>
 </g>
-<!-- Node63 -->
+<!-- Node64 -->
 <g id="node43" class="node">
-<title>Node63</title>
+<title>Node64</title>
 <g id="a_node43"><a xlink:href="../../dc/d83/classpocketmine_1_1event_1_1player_1_1_player_data_save_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="4378.5,-441 4378.5,-553 4516.5,-553 4516.5,-441 4378.5,-441"/>
 <text text-anchor="start" x="4386.5" y="-541" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
@@ -225,15 +225,15 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node63 -->
+<!-- Node1&#45;&gt;Node64 -->
 <g id="edge42" class="edge">
-<title>Node1&#45;&gt;Node63</title>
+<title>Node1&#45;&gt;Node64</title>
 <path fill="none" stroke="midnightblue" d="M4343.01,-654.11C4352.27,-644.86 4361.5,-634.93 4369.5,-625 4387.35,-602.83 4404.26,-576.26 4417.75,-553.17"/>
 <polygon fill="none" stroke="midnightblue" points="4340.3,-651.86 4335.6,-661.35 4345.2,-656.86 4340.3,-651.86"/>
 </g>
-<!-- Node64 -->
+<!-- Node65 -->
 <g id="node44" class="node">
-<title>Node64</title>
+<title>Node65</title>
 <g id="a_node44"><a xlink:href="../../d0/d41/classpocketmine_1_1event_1_1player_1_1_player_duplicate_login_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="4535,-452 4535,-542 4686,-542 4686,-452 4535,-452"/>
 <text text-anchor="start" x="4543" y="-530" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
@@ -247,15 +247,15 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node64 -->
+<!-- Node1&#45;&gt;Node65 -->
 <g id="edge43" class="edge">
-<title>Node1&#45;&gt;Node64</title>
+<title>Node1&#45;&gt;Node65</title>
 <path fill="none" stroke="midnightblue" d="M4368.9,-688.63C4417.63,-678.4 4479.75,-659.46 4525.5,-625 4554,-603.53 4576.02,-569.56 4590.5,-542.16"/>
 <polygon fill="none" stroke="midnightblue" points="4368.13,-685.21 4359.02,-690.62 4369.52,-692.07 4368.13,-685.21"/>
 </g>
-<!-- Node65 -->
+<!-- Node66 -->
 <g id="node45" class="node">
-<title>Node65</title>
+<title>Node66</title>
 <g id="a_node45"><a xlink:href="../../d1/db1/classpocketmine_1_1event_1_1player_1_1_player_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="orangered" points="4704.5,-463 4704.5,-531 4842.5,-531 4842.5,-463 4704.5,-463"/>
 <text text-anchor="start" x="4712.5" y="-519" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
@@ -267,15 +267,15 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node65 -->
+<!-- Node1&#45;&gt;Node66 -->
 <g id="edge44" class="edge">
-<title>Node1&#45;&gt;Node65</title>
+<title>Node1&#45;&gt;Node66</title>
 <path fill="none" stroke="midnightblue" d="M4368.97,-693.13C4471,-682.82 4643.57,-660.66 4695.5,-625 4728.56,-602.3 4750.18,-560.53 4762.09,-531.1"/>
 <polygon fill="none" stroke="midnightblue" points="4368.62,-689.64 4359.01,-694.12 4369.31,-696.61 4368.62,-689.64"/>
 </g>
-<!-- Node100 -->
+<!-- Node103 -->
 <g id="node46" class="node">
-<title>Node100</title>
+<title>Node103</title>
 <g id="a_node46"><a xlink:href="../../d2/d1e/classpocketmine_1_1event_1_1player_1_1_player_pre_login_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="4861,-369.5 4861,-624.5 5058,-624.5 5058,-369.5 4861,-369.5"/>
 <text text-anchor="start" x="4869" y="-612.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\player</text>
@@ -304,15 +304,15 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node100 -->
+<!-- Node1&#45;&gt;Node103 -->
 <g id="edge45" class="edge">
-<title>Node1&#45;&gt;Node100</title>
+<title>Node1&#45;&gt;Node103</title>
 <path fill="none" stroke="midnightblue" d="M4369.36,-696.43C4503.12,-689.17 4770.05,-669.45 4851.5,-625 4854.68,-623.27 4857.8,-621.4 4860.87,-619.42"/>
 <polygon fill="none" stroke="midnightblue" points="4368.98,-692.94 4359.18,-696.97 4369.35,-699.93 4368.98,-692.94"/>
 </g>
-<!-- Node101 -->
+<!-- Node104 -->
 <g id="node47" class="node">
-<title>Node101</title>
+<title>Node104</title>
 <g id="a_node47"><a xlink:href="../../de/d58/classpocketmine_1_1event_1_1plugin_1_1_plugin_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="orangered" points="5076,-457.5 5076,-536.5 5213,-536.5 5213,-457.5 5076,-457.5"/>
 <text text-anchor="start" x="5084" y="-524.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\plugin</text>
@@ -325,15 +325,15 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node101 -->
+<!-- Node1&#45;&gt;Node104 -->
 <g id="edge46" class="edge">
-<title>Node1&#45;&gt;Node101</title>
+<title>Node1&#45;&gt;Node104</title>
 <path fill="none" stroke="midnightblue" d="M4369.26,-696.42C4554.21,-687.36 5009.26,-661.6 5067.5,-625 5099.48,-604.9 5120.08,-566.21 5131.84,-536.8"/>
 <polygon fill="none" stroke="midnightblue" points="4368.88,-692.94 4359.07,-696.92 4369.22,-699.93 4368.88,-692.94"/>
 </g>
-<!-- Node104 -->
+<!-- Node107 -->
 <g id="node48" class="node">
-<title>Node104</title>
+<title>Node107</title>
 <g id="a_node48"><a xlink:href="../../d1/d77/classpocketmine_1_1event_1_1server_1_1_server_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="orangered" points="5231.5,-463 5231.5,-531 5369.5,-531 5369.5,-463 5231.5,-463"/>
 <text text-anchor="start" x="5239.5" y="-519" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\server</text>
@@ -345,15 +345,15 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node104 -->
+<!-- Node1&#45;&gt;Node107 -->
 <g id="edge47" class="edge">
-<title>Node1&#45;&gt;Node104</title>
+<title>Node1&#45;&gt;Node107</title>
 <path fill="none" stroke="midnightblue" d="M4369.18,-697.75C4579.76,-691.09 5150.55,-669.13 5222.5,-625 5257.02,-603.83 5278.48,-561.08 5289.95,-531.05"/>
 <polygon fill="none" stroke="midnightblue" points="4369.02,-694.25 4359.13,-698.06 4369.24,-701.25 4369.02,-694.25"/>
 </g>
-<!-- Node115 -->
+<!-- Node118 -->
 <g id="node49" class="node">
-<title>Node115</title>
+<title>Node118</title>
 <g id="a_node49"><a xlink:href="../../d9/d97/classpocketmine_1_1event_1_1world_1_1_world_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="orangered" points="5387.5,-457.5 5387.5,-536.5 5521.5,-536.5 5521.5,-457.5 5387.5,-457.5"/>
 <text text-anchor="start" x="5395.5" y="-524.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\world</text>
@@ -366,9 +366,9 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node115 -->
+<!-- Node1&#45;&gt;Node118 -->
 <g id="edge48" class="edge">
-<title>Node1&#45;&gt;Node115</title>
+<title>Node1&#45;&gt;Node118</title>
 <path fill="none" stroke="midnightblue" d="M4369.31,-698.76C4603.84,-694.45 5293.05,-677.41 5378.5,-625 5410.7,-605.25 5430.98,-566.31 5442.41,-536.72"/>
 <polygon fill="none" stroke="midnightblue" points="4369.09,-695.26 4359.15,-698.94 4369.22,-702.26 4369.09,-695.26"/>
 </g>
@@ -393,9 +393,9 @@
 <path fill="none" stroke="midnightblue" d="M1055.01,-492.41C848.02,-481.42 288.15,-442.07 144.5,-333 103.86,-302.15 83.89,-244.64 74.65,-206.21"/>
 <polygon fill="none" stroke="midnightblue" points="1055.02,-495.91 1065.19,-492.94 1055.39,-488.92 1055.02,-495.91"/>
 </g>
-<!-- Node9 -->
+<!-- Node10 -->
 <g id="node4" class="node">
-<title>Node9</title>
+<title>Node10</title>
 <g id="a_node4"><a xlink:href="../../de/d3a/classpocketmine_1_1event_1_1block_1_1_block_break_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="153.5,-83 153.5,-250 287.5,-250 287.5,-83 153.5,-83"/>
 <text text-anchor="start" x="161.5" y="-238" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\block</text>
@@ -416,15 +416,15 @@
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node9 -->
+<!-- Node2&#45;&gt;Node10 -->
 <g id="edge3" class="edge">
-<title>Node2&#45;&gt;Node9</title>
+<title>Node2&#45;&gt;Node10</title>
 <path fill="none" stroke="midnightblue" d="M1055.11,-489.87C871.19,-473.93 414.5,-425.8 296.5,-333 270.16,-312.28 252.6,-280.35 241.07,-250.03"/>
 <polygon fill="none" stroke="midnightblue" points="1054.98,-493.37 1065.24,-490.74 1055.58,-486.4 1054.98,-493.37"/>
 </g>
-<!-- Node10 -->
+<!-- Node11 -->
 <g id="node5" class="node">
-<title>Node10</title>
+<title>Node11</title>
 <g id="a_node5"><a xlink:href="../../db/da8/classpocketmine_1_1event_1_1block_1_1_block_burn_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="305.5,-127 305.5,-206 439.5,-206 439.5,-127 305.5,-127"/>
 <text text-anchor="start" x="313.5" y="-194" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\block</text>
@@ -437,15 +437,15 @@
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node10 -->
+<!-- Node2&#45;&gt;Node11 -->
 <g id="edge4" class="edge">
-<title>Node2&#45;&gt;Node10</title>
+<title>Node2&#45;&gt;Node11</title>
 <path fill="none" stroke="midnightblue" d="M1055.18,-486.19C896.57,-464.71 541.48,-409.29 448.5,-333 409.39,-300.91 389.48,-244.29 380.05,-206.33"/>
 <polygon fill="none" stroke="midnightblue" points="1054.96,-489.69 1065.34,-487.55 1055.9,-482.75 1054.96,-489.69"/>
 </g>
-<!-- Node11 -->
+<!-- Node12 -->
 <g id="node6" class="node">
-<title>Node11</title>
+<title>Node12</title>
 <g id="a_node6"><a xlink:href="../../d6/dfa/classpocketmine_1_1event_1_1block_1_1_block_item_pickup_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="457.5,-105 457.5,-228 591.5,-228 591.5,-105 457.5,-105"/>
 <text text-anchor="start" x="465.5" y="-216" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\block</text>
@@ -462,15 +462,15 @@
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node11 -->
+<!-- Node2&#45;&gt;Node12 -->
 <g id="edge5" class="edge">
-<title>Node2&#45;&gt;Node11</title>
+<title>Node2&#45;&gt;Node12</title>
 <path fill="none" stroke="midnightblue" d="M1054.97,-491.77C942.07,-481.71 731.63,-447.73 600.5,-333 569.45,-305.83 550.3,-263.35 539,-228.24"/>
 <polygon fill="none" stroke="midnightblue" points="1054.99,-495.28 1065.25,-492.64 1055.59,-488.31 1054.99,-495.28"/>
 </g>
-<!-- Node12 -->
+<!-- Node13 -->
 <g id="node7" class="node">
-<title>Node12</title>
+<title>Node13</title>
 <g id="a_node7"><a xlink:href="../../d9/dc5/classpocketmine_1_1event_1_1block_1_1_block_teleport_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="609.5,-121.5 609.5,-211.5 743.5,-211.5 743.5,-121.5 609.5,-121.5"/>
 <text text-anchor="start" x="617.5" y="-199.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\block</text>
@@ -484,15 +484,15 @@
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node12 -->
+<!-- Node2&#45;&gt;Node13 -->
 <g id="edge6" class="edge">
-<title>Node2&#45;&gt;Node12</title>
+<title>Node2&#45;&gt;Node13</title>
 <path fill="none" stroke="midnightblue" d="M1055.42,-480.37C971.38,-459.74 837.54,-415.91 752.5,-333 718.43,-299.78 698.15,-248.42 687.23,-211.73"/>
 <polygon fill="none" stroke="midnightblue" points="1054.62,-483.77 1065.16,-482.71 1056.26,-476.97 1054.62,-483.77"/>
 </g>
-<!-- Node13 -->
+<!-- Node14 -->
 <g id="node8" class="node">
-<title>Node13</title>
+<title>Node14</title>
 <g id="a_node8"><a xlink:href="../../d2/dfc/classpocketmine_1_1event_1_1block_1_1_block_update_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="761.5,-132.5 761.5,-200.5 895.5,-200.5 895.5,-132.5 761.5,-132.5"/>
 <text text-anchor="start" x="769.5" y="-188.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\block</text>
@@ -504,15 +504,15 @@
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node13 -->
+<!-- Node2&#45;&gt;Node14 -->
 <g id="edge7" class="edge">
-<title>Node2&#45;&gt;Node13</title>
+<title>Node2&#45;&gt;Node14</title>
 <path fill="none" stroke="midnightblue" d="M1056.48,-455.49C1007.96,-426.56 946.5,-383.86 904.5,-333 871.48,-293.02 849.58,-236.34 838.1,-200.77"/>
 <polygon fill="none" stroke="midnightblue" points="1054.99,-458.67 1065.38,-460.72 1058.54,-452.64 1054.99,-458.67"/>
 </g>
-<!-- Node14 -->
+<!-- Node15 -->
 <g id="node9" class="node">
-<title>Node14</title>
+<title>Node15</title>
 <g id="a_node9"><a xlink:href="../../d0/df2/classpocketmine_1_1event_1_1block_1_1_brew_item_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="913.5,-99.5 913.5,-233.5 1047.5,-233.5 1047.5,-99.5 913.5,-99.5"/>
 <text text-anchor="start" x="921.5" y="-221.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\block</text>
@@ -530,15 +530,15 @@
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node14 -->
+<!-- Node2&#45;&gt;Node15 -->
 <g id="edge8" class="edge">
-<title>Node2&#45;&gt;Node14</title>
+<title>Node2&#45;&gt;Node15</title>
 <path fill="none" stroke="midnightblue" d="M1110.14,-448.23C1094.96,-415.76 1074.46,-371.82 1056.5,-333 1041.36,-300.29 1024.64,-263.89 1010.74,-233.58"/>
 <polygon fill="none" stroke="midnightblue" points="1107.06,-449.92 1114.47,-457.5 1113.41,-446.96 1107.06,-449.92"/>
 </g>
-<!-- Node15 -->
+<!-- Node16 -->
 <g id="node10" class="node">
-<title>Node15</title>
+<title>Node16</title>
 <g id="a_node10"><a xlink:href="../../d6/d91/classpocketmine_1_1event_1_1block_1_1_brewing_fuel_use_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="1065.5,-116 1065.5,-217 1199.5,-217 1199.5,-116 1065.5,-116"/>
 <text text-anchor="start" x="1073.5" y="-205" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\block</text>
@@ -553,15 +553,15 @@
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node15 -->
+<!-- Node2&#45;&gt;Node16 -->
 <g id="edge9" class="edge">
-<title>Node2&#45;&gt;Node15</title>
+<title>Node2&#45;&gt;Node16</title>
 <path fill="none" stroke="midnightblue" d="M1132.5,-447.08C1132.5,-385.26 1132.5,-279.44 1132.5,-217.24"/>
 <polygon fill="none" stroke="midnightblue" points="1129,-447.35 1132.5,-457.35 1136,-447.35 1129,-447.35"/>
 </g>
-<!-- Node16 -->
+<!-- Node17 -->
 <g id="node11" class="node">
-<title>Node16</title>
+<title>Node17</title>
 <g id="a_node11"><a xlink:href="../../d1/dd3/classpocketmine_1_1event_1_1block_1_1_farmland_hydration_change_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="1218,-116 1218,-217 1395,-217 1395,-116 1218,-116"/>
 <text text-anchor="start" x="1226" y="-205" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\block</text>
@@ -576,15 +576,15 @@
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node16 -->
+<!-- Node2&#45;&gt;Node17 -->
 <g id="edge10" class="edge">
-<title>Node2&#45;&gt;Node16</title>
+<title>Node2&#45;&gt;Node17</title>
 <path fill="none" stroke="midnightblue" d="M1157.81,-448.23C1190.46,-386.57 1247,-279.83 1280.16,-217.24"/>
 <polygon fill="none" stroke="midnightblue" points="1154.56,-446.88 1152.97,-457.35 1160.75,-450.15 1154.56,-446.88"/>
 </g>
-<!-- Node17 -->
+<!-- Node18 -->
 <g id="node12" class="node">
-<title>Node17</title>
+<title>Node18</title>
 <g id="a_node12"><a xlink:href="../../d1/d8d/classpocketmine_1_1event_1_1block_1_1_leaves_decay_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="1413.5,-132.5 1413.5,-200.5 1547.5,-200.5 1547.5,-132.5 1413.5,-132.5"/>
 <text text-anchor="start" x="1421.5" y="-188.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\block</text>
@@ -596,15 +596,15 @@
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node17 -->
+<!-- Node2&#45;&gt;Node18 -->
 <g id="edge11" class="edge">
-<title>Node2&#45;&gt;Node17</title>
+<title>Node2&#45;&gt;Node18</title>
 <path fill="none" stroke="midnightblue" d="M1209.12,-464.96C1268.57,-437.64 1349.66,-392.87 1403.5,-333 1438.46,-294.12 1460.34,-236.61 1471.48,-200.63"/>
 <polygon fill="none" stroke="midnightblue" points="1207.44,-461.88 1199.77,-469.19 1210.33,-468.26 1207.44,-461.88"/>
 </g>
-<!-- Node18 -->
+<!-- Node19 -->
 <g id="node13" class="node">
-<title>Node18</title>
+<title>Node19</title>
 <g id="a_node13"><a xlink:href="../../dd/d93/classpocketmine_1_1event_1_1block_1_1_sign_change_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="1565.5,-105 1565.5,-228 1699.5,-228 1699.5,-105 1565.5,-105"/>
 <text text-anchor="start" x="1573.5" y="-216" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\block</text>
@@ -621,15 +621,15 @@
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node18 -->
+<!-- Node2&#45;&gt;Node19 -->
 <g id="edge12" class="edge">
-<title>Node2&#45;&gt;Node18</title>
+<title>Node2&#45;&gt;Node19</title>
 <path fill="none" stroke="midnightblue" d="M1209.53,-484.48C1302.42,-466.9 1458.29,-425.16 1556.5,-333 1586.36,-304.98 1605.45,-262.96 1617.04,-228.27"/>
 <polygon fill="none" stroke="midnightblue" points="1208.83,-481.05 1199.63,-486.3 1210.1,-487.93 1208.83,-481.05"/>
 </g>
-<!-- Node19 -->
+<!-- Node20 -->
 <g id="node14" class="node">
-<title>Node19</title>
+<title>Node20</title>
 <g id="a_node14"><a xlink:href="../../dd/d17/classpocketmine_1_1event_1_1block_1_1_structure_grow_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="1717.5,-121.5 1717.5,-211.5 1851.5,-211.5 1851.5,-121.5 1717.5,-121.5"/>
 <text text-anchor="start" x="1725.5" y="-199.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\block</text>
@@ -643,15 +643,15 @@
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node19 -->
+<!-- Node2&#45;&gt;Node20 -->
 <g id="edge13" class="edge">
-<title>Node2&#45;&gt;Node19</title>
+<title>Node2&#45;&gt;Node20</title>
 <path fill="none" stroke="midnightblue" d="M1209.78,-494.04C1330.12,-487.05 1563.52,-457.12 1708.5,-333 1745.01,-301.75 1764.95,-249.26 1775.14,-211.77"/>
 <polygon fill="none" stroke="midnightblue" points="1209.35,-490.56 1199.55,-494.6 1209.72,-497.55 1209.35,-490.56"/>
 </g>
-<!-- Node20 -->
+<!-- Node21 -->
 <g id="node15" class="node">
-<title>Node20</title>
+<title>Node21</title>
 <g id="a_node15"><a xlink:href="../../d5/d82/classpocketmine_1_1event_1_1inventory_1_1_furnace_burn_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="1869.5,-99.5 1869.5,-233.5 2023.5,-233.5 2023.5,-99.5 1869.5,-99.5"/>
 <text text-anchor="start" x="1877.5" y="-221.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\inventory</text>
@@ -669,15 +669,15 @@
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node20 -->
+<!-- Node2&#45;&gt;Node21 -->
 <g id="edge14" class="edge">
-<title>Node2&#45;&gt;Node20</title>
+<title>Node2&#45;&gt;Node21</title>
 <path fill="none" stroke="midnightblue" d="M1209.92,-486.99C1375.75,-466.4 1758.46,-411.53 1860.5,-333 1892.58,-308.31 1913.83,-268.28 1927.19,-233.77"/>
 <polygon fill="none" stroke="midnightblue" points="1209.29,-483.55 1199.79,-488.24 1210.15,-490.49 1209.29,-483.55"/>
 </g>
-<!-- Node21 -->
+<!-- Node22 -->
 <g id="node16" class="node">
-<title>Node21</title>
+<title>Node22</title>
 <g id="a_node16"><a xlink:href="../../d8/df1/classpocketmine_1_1event_1_1inventory_1_1_furnace_smelt_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="2041.5,-110.5 2041.5,-222.5 2195.5,-222.5 2195.5,-110.5 2041.5,-110.5"/>
 <text text-anchor="start" x="2049.5" y="-210.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\inventory</text>
@@ -693,15 +693,15 @@
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node21 -->
+<!-- Node2&#45;&gt;Node22 -->
 <g id="edge15" class="edge">
-<title>Node2&#45;&gt;Node21</title>
+<title>Node2&#45;&gt;Node22</title>
 <path fill="none" stroke="midnightblue" d="M1209.6,-490.69C1402.79,-476.05 1901.45,-429.63 2032.5,-333 2068.73,-306.29 2090.97,-259.79 2103.73,-222.87"/>
 <polygon fill="none" stroke="midnightblue" points="1209.24,-487.21 1199.53,-491.44 1209.76,-494.19 1209.24,-487.21"/>
 </g>
-<!-- Node25 -->
+<!-- Node26 -->
 <g id="node20" class="node">
-<title>Node25</title>
+<title>Node26</title>
 <g id="a_node20"><a xlink:href="../../d5/d98/classpocketmine_1_1event_1_1entity_1_1_entity_block_change_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="2213.5,-121.5 2213.5,-211.5 2353.5,-211.5 2353.5,-121.5 2213.5,-121.5"/>
 <text text-anchor="start" x="2221.5" y="-199.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
@@ -715,15 +715,15 @@
 </a>
 </g>
 </g>
-<!-- Node24&#45;&gt;Node25 -->
+<!-- Node25&#45;&gt;Node26 -->
 <g id="edge19" class="edge">
-<title>Node24&#45;&gt;Node25</title>
+<title>Node25&#45;&gt;Node26</title>
 <path fill="none" stroke="midnightblue" d="M3606.87,-453.27C3595.09,-424.01 3574.92,-387.33 3543.5,-369 3430.1,-302.85 2472.46,-404.72 2362.5,-333 2321.17,-306.04 2300.92,-251.06 2291.39,-211.87"/>
 <polygon fill="none" stroke="midnightblue" points="3603.7,-454.78 3610.55,-462.86 3610.24,-452.27 3603.7,-454.78"/>
 </g>
-<!-- Node26 -->
+<!-- Node27 -->
 <g id="node21" class="node">
-<title>Node26</title>
+<title>Node27</title>
 <g id="a_node21"><a xlink:href="../../dd/de3/classpocketmine_1_1event_1_1entity_1_1_entity_combust_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="red" points="2371.5,-121.5 2371.5,-211.5 2507.5,-211.5 2507.5,-121.5 2371.5,-121.5"/>
 <text text-anchor="start" x="2379.5" y="-199.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
@@ -737,15 +737,15 @@
 </a>
 </g>
 </g>
-<!-- Node24&#45;&gt;Node26 -->
+<!-- Node25&#45;&gt;Node27 -->
 <g id="edge20" class="edge">
-<title>Node24&#45;&gt;Node26</title>
+<title>Node25&#45;&gt;Node27</title>
 <path fill="none" stroke="midnightblue" d="M3606.84,-453.31C3595.05,-424.08 3574.87,-387.4 3543.5,-369 3445.01,-311.24 2611.68,-396.07 2516.5,-333 2475.55,-305.87 2455.96,-250.92 2446.88,-211.79"/>
 <polygon fill="none" stroke="midnightblue" points="3603.67,-454.82 3610.53,-462.9 3610.21,-452.31 3603.67,-454.82"/>
 </g>
-<!-- Node29 -->
+<!-- Node30 -->
 <g id="node22" class="node">
-<title>Node29</title>
+<title>Node30</title>
 <g id="a_node22"><a xlink:href="../../d5/de3/classpocketmine_1_1event_1_1entity_1_1_entity_damage_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="red" points="2526,-0.5 2526,-332.5 2687,-332.5 2687,-0.5 2526,-0.5"/>
 <text text-anchor="start" x="2534" y="-320.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
@@ -781,15 +781,15 @@
 </a>
 </g>
 </g>
-<!-- Node24&#45;&gt;Node29 -->
+<!-- Node25&#45;&gt;Node30 -->
 <g id="edge21" class="edge">
-<title>Node24&#45;&gt;Node29</title>
+<title>Node25&#45;&gt;Node30</title>
 <path fill="none" stroke="midnightblue" d="M3606.8,-453.38C3594.99,-424.18 3574.8,-387.52 3543.5,-369 3381.35,-273.09 2856.36,-432.69 2696.5,-333 2693.31,-331.01 2690.22,-328.86 2687.24,-326.58"/>
 <polygon fill="none" stroke="midnightblue" points="3603.63,-454.88 3610.49,-462.96 3610.16,-452.37 3603.63,-454.88"/>
 </g>
-<!-- Node33 -->
+<!-- Node34 -->
 <g id="node23" class="node">
-<title>Node33</title>
+<title>Node34</title>
 <g id="a_node23"><a xlink:href="../../d7/d1e/classpocketmine_1_1event_1_1entity_1_1_entity_death_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="red" points="2705.5,-105 2705.5,-228 2841.5,-228 2841.5,-105 2705.5,-105"/>
 <text text-anchor="start" x="2713.5" y="-216" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
@@ -806,15 +806,15 @@
 </a>
 </g>
 </g>
-<!-- Node24&#45;&gt;Node33 -->
+<!-- Node25&#45;&gt;Node34 -->
 <g id="edge22" class="edge">
-<title>Node24&#45;&gt;Node33</title>
+<title>Node25&#45;&gt;Node34</title>
 <path fill="none" stroke="midnightblue" d="M3606.64,-453.19C3594.78,-424.08 3574.62,-387.6 3543.5,-369 3411.14,-289.87 2978.33,-419.26 2850.5,-333 2815.3,-309.25 2795.85,-265.02 2785.31,-228.25"/>
 <polygon fill="none" stroke="midnightblue" points="3603.46,-454.68 3610.34,-462.74 3609.99,-452.15 3603.46,-454.68"/>
 </g>
-<!-- Node35 -->
+<!-- Node36 -->
 <g id="node24" class="node">
-<title>Node35</title>
+<title>Node36</title>
 <g id="a_node24"><a xlink:href="../../dc/d06/classpocketmine_1_1event_1_1entity_1_1_entity_despawn_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="2859.5,-132.5 2859.5,-200.5 2995.5,-200.5 2995.5,-132.5 2859.5,-132.5"/>
 <text text-anchor="start" x="2867.5" y="-188.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
@@ -826,15 +826,15 @@
 </a>
 </g>
 </g>
-<!-- Node24&#45;&gt;Node35 -->
+<!-- Node25&#45;&gt;Node36 -->
 <g id="edge23" class="edge">
-<title>Node24&#45;&gt;Node35</title>
+<title>Node25&#45;&gt;Node36</title>
 <path fill="none" stroke="midnightblue" d="M3606.55,-453.33C3594.66,-424.29 3574.48,-387.83 3543.5,-369 3440.92,-306.64 3103.51,-400.88 3004.5,-333 2960.07,-302.54 2940.69,-239.55 2932.69,-200.67"/>
 <polygon fill="none" stroke="midnightblue" points="3603.38,-454.82 3610.27,-462.86 3609.9,-452.27 3603.38,-454.82"/>
 </g>
-<!-- Node36 -->
+<!-- Node37 -->
 <g id="node25" class="node">
-<title>Node36</title>
+<title>Node37</title>
 <g id="a_node25"><a xlink:href="../../d9/d22/classpocketmine_1_1event_1_1entity_1_1_entity_effect_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="red" points="3013.5,-127 3013.5,-206 3149.5,-206 3149.5,-127 3013.5,-127"/>
 <text text-anchor="start" x="3021.5" y="-194" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
@@ -847,15 +847,15 @@
 </a>
 </g>
 </g>
-<!-- Node24&#45;&gt;Node36 -->
+<!-- Node25&#45;&gt;Node37 -->
 <g id="edge24" class="edge">
-<title>Node24&#45;&gt;Node36</title>
+<title>Node25&#45;&gt;Node37</title>
 <path fill="none" stroke="midnightblue" d="M3606.28,-453.3C3594.3,-424.43 3574.13,-388.18 3543.5,-369 3397.85,-277.78 3298.94,-432.05 3158.5,-333 3116.55,-303.41 3096.86,-245 3088.05,-206.09"/>
 <polygon fill="none" stroke="midnightblue" points="3603.1,-454.77 3610.04,-462.78 3609.61,-452.19 3603.1,-454.77"/>
 </g>
-<!-- Node39 -->
+<!-- Node40 -->
 <g id="node26" class="node">
-<title>Node39</title>
+<title>Node40</title>
 <g id="a_node26"><a xlink:href="../../d9/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_explode_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="3167.5,-105 3167.5,-228 3303.5,-228 3303.5,-105 3167.5,-105"/>
 <text text-anchor="start" x="3175.5" y="-216" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
@@ -872,15 +872,15 @@
 </a>
 </g>
 </g>
-<!-- Node24&#45;&gt;Node39 -->
+<!-- Node25&#45;&gt;Node40 -->
 <g id="edge25" class="edge">
-<title>Node24&#45;&gt;Node39</title>
+<title>Node25&#45;&gt;Node40</title>
 <path fill="none" stroke="midnightblue" d="M3605.8,-453.6C3593.62,-425.04 3573.43,-389.05 3543.5,-369 3457.17,-311.18 3395.53,-395.47 3312.5,-333 3278.95,-307.76 3259.5,-264.31 3248.54,-228.26"/>
 <polygon fill="none" stroke="midnightblue" points="3602.6,-455.03 3609.62,-462.97 3609.08,-452.38 3602.6,-455.03"/>
 </g>
-<!-- Node40 -->
+<!-- Node41 -->
 <g id="node27" class="node">
-<title>Node40</title>
+<title>Node41</title>
 <g id="a_node27"><a xlink:href="../../dc/d5b/classpocketmine_1_1event_1_1entity_1_1_entity_item_pickup_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="3321.5,-105 3321.5,-228 3457.5,-228 3457.5,-105 3321.5,-105"/>
 <text text-anchor="start" x="3329.5" y="-216" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
@@ -897,15 +897,15 @@
 </a>
 </g>
 </g>
-<!-- Node24&#45;&gt;Node40 -->
+<!-- Node25&#45;&gt;Node41 -->
 <g id="edge26" class="edge">
-<title>Node24&#45;&gt;Node40</title>
+<title>Node25&#45;&gt;Node41</title>
 <path fill="none" stroke="midnightblue" d="M3602.67,-453.6C3589.55,-426.56 3569.5,-392.34 3543.5,-369 3515.39,-343.76 3493.19,-359.74 3466.5,-333 3437.73,-304.18 3418.44,-262.59 3406.37,-228.32"/>
 <polygon fill="none" stroke="midnightblue" points="3599.59,-455.28 3607.01,-462.84 3605.92,-452.3 3599.59,-455.28"/>
 </g>
-<!-- Node41 -->
+<!-- Node42 -->
 <g id="node28" class="node">
-<title>Node41</title>
+<title>Node42</title>
 <g id="a_node28"><a xlink:href="../../d5/d70/classpocketmine_1_1event_1_1entity_1_1_entity_motion_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="3475.5,-127 3475.5,-206 3611.5,-206 3611.5,-127 3475.5,-127"/>
 <text text-anchor="start" x="3483.5" y="-194" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
@@ -918,15 +918,15 @@
 </a>
 </g>
 </g>
-<!-- Node24&#45;&gt;Node41 -->
+<!-- Node25&#45;&gt;Node42 -->
 <g id="edge27" class="edge">
-<title>Node24&#45;&gt;Node41</title>
+<title>Node25&#45;&gt;Node42</title>
 <path fill="none" stroke="midnightblue" d="M3610.46,-453.16C3595.35,-388.72 3567.02,-267.83 3552.53,-206.02"/>
 <polygon fill="none" stroke="midnightblue" points="3607.07,-454.06 3612.76,-463 3613.89,-452.46 3607.07,-454.06"/>
 </g>
-<!-- Node42 -->
+<!-- Node43 -->
 <g id="node29" class="node">
-<title>Node42</title>
+<title>Node43</title>
 <g id="a_node29"><a xlink:href="../../d4/dd2/classpocketmine_1_1event_1_1entity_1_1_entity_pre_explode_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="3629.5,-110.5 3629.5,-222.5 3765.5,-222.5 3765.5,-110.5 3629.5,-110.5"/>
 <text text-anchor="start" x="3637.5" y="-210.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
@@ -942,15 +942,15 @@
 </a>
 </g>
 </g>
-<!-- Node24&#45;&gt;Node42 -->
+<!-- Node25&#45;&gt;Node43 -->
 <g id="edge28" class="edge">
-<title>Node24&#45;&gt;Node42</title>
+<title>Node25&#45;&gt;Node43</title>
 <path fill="none" stroke="midnightblue" d="M3630.52,-453.25C3644.35,-394.25 3669.31,-287.79 3684.54,-222.79"/>
 <polygon fill="none" stroke="midnightblue" points="3627.11,-452.46 3628.24,-463 3633.93,-454.06 3627.11,-452.46"/>
 </g>
-<!-- Node43 -->
+<!-- Node44 -->
 <g id="node30" class="node">
-<title>Node43</title>
+<title>Node44</title>
 <g id="a_node30"><a xlink:href="../../da/d3f/classpocketmine_1_1event_1_1entity_1_1_entity_regain_health_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="3783.5,-94 3783.5,-239 3925.5,-239 3925.5,-94 3783.5,-94"/>
 <text text-anchor="start" x="3791.5" y="-227" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
@@ -969,15 +969,15 @@
 </a>
 </g>
 </g>
-<!-- Node24&#45;&gt;Node43 -->
+<!-- Node25&#45;&gt;Node44 -->
 <g id="edge29" class="edge">
-<title>Node24&#45;&gt;Node43</title>
+<title>Node25&#45;&gt;Node44</title>
 <path fill="none" stroke="midnightblue" d="M3638.33,-453.6C3651.45,-426.56 3671.5,-392.34 3697.5,-369 3725.61,-343.76 3747.61,-359.54 3774.5,-333 3800.62,-307.22 3819.41,-271.2 3832.2,-239.35"/>
 <polygon fill="none" stroke="midnightblue" points="3635.08,-452.3 3633.99,-462.84 3641.41,-455.28 3635.08,-452.3"/>
 </g>
-<!-- Node44 -->
+<!-- Node45 -->
 <g id="node31" class="node">
-<title>Node44</title>
+<title>Node45</title>
 <g id="a_node31"><a xlink:href="../../d2/d96/classpocketmine_1_1event_1_1entity_1_1_entity_shoot_bow_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="3943.5,-99.5 3943.5,-233.5 4079.5,-233.5 4079.5,-99.5 3943.5,-99.5"/>
 <text text-anchor="start" x="3951.5" y="-221.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
@@ -995,15 +995,15 @@
 </a>
 </g>
 </g>
-<!-- Node24&#45;&gt;Node44 -->
+<!-- Node25&#45;&gt;Node45 -->
 <g id="edge30" class="edge">
-<title>Node24&#45;&gt;Node44</title>
+<title>Node25&#45;&gt;Node45</title>
 <path fill="none" stroke="midnightblue" d="M3635.18,-453.56C3647.34,-424.98 3667.53,-388.99 3697.5,-369 3786.13,-309.88 3849.24,-396.89 3934.5,-333 3966.45,-309.06 3985.61,-268.59 3996.82,-233.67"/>
 <polygon fill="none" stroke="midnightblue" points="3631.89,-452.35 3631.36,-462.94 3638.38,-455 3631.89,-452.35"/>
 </g>
-<!-- Node45 -->
+<!-- Node46 -->
 <g id="node32" class="node">
-<title>Node45</title>
+<title>Node46</title>
 <g id="a_node32"><a xlink:href="../../df/d6f/classpocketmine_1_1event_1_1entity_1_1_entity_spawn_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="4097.5,-132.5 4097.5,-200.5 4233.5,-200.5 4233.5,-132.5 4097.5,-132.5"/>
 <text text-anchor="start" x="4105.5" y="-188.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
@@ -1015,15 +1015,15 @@
 </a>
 </g>
 </g>
-<!-- Node24&#45;&gt;Node45 -->
+<!-- Node25&#45;&gt;Node46 -->
 <g id="edge31" class="edge">
-<title>Node24&#45;&gt;Node45</title>
+<title>Node25&#45;&gt;Node46</title>
 <path fill="none" stroke="midnightblue" d="M3634.71,-453.29C3646.69,-424.41 3666.86,-388.16 3697.5,-369 3845.47,-276.48 3945.82,-433.48 4088.5,-333 4132.42,-302.07 4151.93,-239.55 4160.11,-200.82"/>
 <polygon fill="none" stroke="midnightblue" points="3631.38,-452.18 3630.96,-462.77 3637.89,-454.76 3631.38,-452.18"/>
 </g>
-<!-- Node46 -->
+<!-- Node47 -->
 <g id="node33" class="node">
-<title>Node46</title>
+<title>Node47</title>
 <g id="a_node33"><a xlink:href="../../dc/df2/classpocketmine_1_1event_1_1entity_1_1_entity_teleport_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="4251.5,-116 4251.5,-217 4387.5,-217 4387.5,-116 4251.5,-116"/>
 <text text-anchor="start" x="4259.5" y="-205" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
@@ -1038,15 +1038,15 @@
 </a>
 </g>
 </g>
-<!-- Node24&#45;&gt;Node46 -->
+<!-- Node25&#45;&gt;Node47 -->
 <g id="edge32" class="edge">
-<title>Node24&#45;&gt;Node46</title>
+<title>Node25&#45;&gt;Node47</title>
 <path fill="none" stroke="midnightblue" d="M3634.44,-453.32C3646.34,-424.28 3666.51,-387.82 3697.5,-369 3801.24,-305.99 4142.37,-401.6 4242.5,-333 4281.06,-306.58 4300.75,-255.66 4310.51,-217.25"/>
 <polygon fill="none" stroke="midnightblue" points="3631.1,-452.26 3630.72,-462.85 3637.62,-454.81 3631.1,-452.26"/>
 </g>
-<!-- Node47 -->
+<!-- Node48 -->
 <g id="node34" class="node">
-<title>Node47</title>
+<title>Node48</title>
 <g id="a_node34"><a xlink:href="../../d0/d41/classpocketmine_1_1event_1_1entity_1_1_entity_trample_farmland_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="4405.5,-127 4405.5,-206 4565.5,-206 4565.5,-127 4405.5,-127"/>
 <text text-anchor="start" x="4413.5" y="-194" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
@@ -1059,15 +1059,15 @@
 </a>
 </g>
 </g>
-<!-- Node24&#45;&gt;Node47 -->
+<!-- Node25&#45;&gt;Node48 -->
 <g id="edge33" class="edge">
-<title>Node24&#45;&gt;Node47</title>
+<title>Node25&#45;&gt;Node48</title>
 <path fill="none" stroke="midnightblue" d="M3634.36,-453.19C3646.21,-424.08 3666.38,-387.6 3697.5,-369 3831.02,-289.22 4265.09,-416.2 4396.5,-333 4441.29,-304.64 4465.08,-245.6 4476.48,-206.26"/>
 <polygon fill="none" stroke="midnightblue" points="3631.01,-452.15 3630.66,-462.74 3637.53,-454.68 3631.01,-452.15"/>
 </g>
-<!-- Node48 -->
+<!-- Node49 -->
 <g id="node35" class="node">
-<title>Node48</title>
+<title>Node49</title>
 <g id="a_node35"><a xlink:href="../../da/d1a/classpocketmine_1_1event_1_1entity_1_1_item_despawn_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="4583.5,-127 4583.5,-206 4719.5,-206 4719.5,-127 4583.5,-127"/>
 <text text-anchor="start" x="4591.5" y="-194" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
@@ -1080,15 +1080,15 @@
 </a>
 </g>
 </g>
-<!-- Node24&#45;&gt;Node48 -->
+<!-- Node25&#45;&gt;Node49 -->
 <g id="edge34" class="edge">
-<title>Node24&#45;&gt;Node48</title>
+<title>Node25&#45;&gt;Node49</title>
 <path fill="none" stroke="midnightblue" d="M3634.19,-453.37C3646,-424.16 3666.18,-387.49 3697.5,-369 3781.48,-319.41 4493.36,-387.11 4574.5,-333 4617.34,-304.43 4636.82,-245.44 4645.33,-206.17"/>
 <polygon fill="none" stroke="midnightblue" points="3630.83,-452.36 3630.5,-462.95 3637.36,-454.87 3630.83,-452.36"/>
 </g>
-<!-- Node49 -->
+<!-- Node50 -->
 <g id="node36" class="node">
-<title>Node49</title>
+<title>Node50</title>
 <g id="a_node36"><a xlink:href="../../d7/dd6/classpocketmine_1_1event_1_1entity_1_1_item_merge_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="4737.5,-127 4737.5,-206 4873.5,-206 4873.5,-127 4737.5,-127"/>
 <text text-anchor="start" x="4745.5" y="-194" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
@@ -1101,15 +1101,15 @@
 </a>
 </g>
 </g>
-<!-- Node24&#45;&gt;Node49 -->
+<!-- Node25&#45;&gt;Node50 -->
 <g id="edge35" class="edge">
-<title>Node24&#45;&gt;Node49</title>
+<title>Node25&#45;&gt;Node50</title>
 <path fill="none" stroke="midnightblue" d="M3634.15,-453.31C3645.95,-424.08 3666.13,-387.4 3697.5,-369 3796.38,-311.02 4632.94,-396.31 4728.5,-333 4771.43,-304.56 4790.88,-245.54 4799.37,-206.22"/>
 <polygon fill="none" stroke="midnightblue" points="3630.79,-452.31 3630.47,-462.9 3637.32,-454.82 3630.79,-452.31"/>
 </g>
-<!-- Node50 -->
+<!-- Node51 -->
 <g id="node37" class="node">
-<title>Node50</title>
+<title>Node51</title>
 <g id="a_node37"><a xlink:href="../../d6/df9/classpocketmine_1_1event_1_1entity_1_1_item_spawn_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="4891.5,-127 4891.5,-206 5027.5,-206 5027.5,-127 4891.5,-127"/>
 <text text-anchor="start" x="4899.5" y="-194" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
@@ -1122,15 +1122,15 @@
 </a>
 </g>
 </g>
-<!-- Node24&#45;&gt;Node50 -->
+<!-- Node25&#45;&gt;Node51 -->
 <g id="edge36" class="edge">
-<title>Node24&#45;&gt;Node50</title>
+<title>Node25&#45;&gt;Node51</title>
 <path fill="none" stroke="midnightblue" d="M3634.13,-453.26C3645.91,-424.01 3666.08,-387.33 3697.5,-369 3811.28,-302.63 4772.52,-405.5 4882.5,-333 4925.49,-304.66 4944.93,-245.61 4953.39,-206.26"/>
 <polygon fill="none" stroke="midnightblue" points="3630.76,-452.27 3630.45,-462.86 3637.3,-454.78 3630.76,-452.27"/>
 </g>
-<!-- Node51 -->
+<!-- Node52 -->
 <g id="node38" class="node">
-<title>Node51</title>
+<title>Node52</title>
 <g id="a_node38"><a xlink:href="../../d3/d75/classpocketmine_1_1event_1_1entity_1_1_projectile_hit_event.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="red" points="5045.5,-121.5 5045.5,-211.5 5181.5,-211.5 5181.5,-121.5 5045.5,-121.5"/>
 <text text-anchor="start" x="5053.5" y="-199.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
@@ -1144,9 +1144,9 @@
 </a>
 </g>
 </g>
-<!-- Node24&#45;&gt;Node51 -->
+<!-- Node25&#45;&gt;Node52 -->
 <g id="edge37" class="edge">
-<title>Node24&#45;&gt;Node51</title>
+<title>Node25&#45;&gt;Node52</title>
 <path fill="none" stroke="midnightblue" d="M3634.11,-453.23C3645.88,-423.96 3666.05,-387.27 3697.5,-369 3826.19,-294.23 4912.1,-414.7 5036.5,-333 5077.56,-306.04 5097.12,-251.05 5106.17,-211.86"/>
 <polygon fill="none" stroke="midnightblue" points="3630.74,-452.24 3630.44,-462.83 3637.28,-454.75 3630.74,-452.24"/>
 </g>

@@ -29,7 +29,7 @@ var dir_55bc17615453bf062ec3fe223a89c893 =
     [ "EducationSettingsExternalLinkSettings.php", "d9/d89/_education_settings_external_link_settings_8php_source.html", null ],
     [ "EducationUriResource.php", "da/df3/_education_uri_resource_8php_source.html", null ],
     [ "Enchant.php", "d8/db7/_enchant_8php_source.html", null ],
-    [ "EnchantOption.php", "d1/d50/_enchant_option_8php_source.html", null ],
+    [ "vendor/pocketmine/bedrock-protocol/src/types/EnchantOption.php", "de/d81/vendor_2pocketmine_2bedrock-protocol_2src_2types_2_enchant_option_8php_source.html", null ],
     [ "Experiments.php", "d3/d78/_experiments_8php_source.html", null ],
     [ "FeatureRegistryPacketEntry.php", "d2/dc7/_feature_registry_packet_entry_8php_source.html", null ],
     [ "FloatGameRule.php", "d5/d32/_float_game_rule_8php_source.html", null ],

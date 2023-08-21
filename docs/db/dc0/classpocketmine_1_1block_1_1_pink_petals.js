@@ -22,6 +22,7 @@ var classpocketmine_1_1block_1_1_pink_petals =
     [ "getDrops", "db/dc0/classpocketmine_1_1block_1_1_pink_petals.html#ab4d678fcc49f71fc70fff710482f3f4e", null ],
     [ "getDropsForCompatibleTool", "db/dc0/classpocketmine_1_1block_1_1_pink_petals.html#a765379a94d5e7abab7f832b20d468311", null ],
     [ "getDropsForIncompatibleTool", "db/dc0/classpocketmine_1_1block_1_1_pink_petals.html#afe4928a6da38d63eccea78bd1a2fdcd3", null ],
+    [ "getEnchantmentTags", "db/dc0/classpocketmine_1_1block_1_1_pink_petals.html#a26bbbd2a3058bb57bd16a6f73b32d9d0", null ],
     [ "getFlameEncouragement", "db/dc0/classpocketmine_1_1block_1_1_pink_petals.html#a46455532eeac9c815a6b96bc705f44ce", null ],
     [ "getFlammability", "db/dc0/classpocketmine_1_1block_1_1_pink_petals.html#abccc3faf8ba77670336cfe71222d6c56", null ],
     [ "getFrictionFactor", "db/dc0/classpocketmine_1_1block_1_1_pink_petals.html#a2cbe9ba6733a72db2c2630aaab7cefe9", null ],

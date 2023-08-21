@@ -24,6 +24,7 @@ var classpocketmine_1_1block_1_1_base_sign =
     [ "getDropsForCompatibleTool", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a6d3cefce63d654d994f2e1b5dcc11c54", null ],
     [ "getDropsForIncompatibleTool", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#afe4928a6da38d63eccea78bd1a2fdcd3", null ],
     [ "getEditorEntityRuntimeId", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#ab0814959ce6f9aec51ba564a42662419", null ],
+    [ "getEnchantmentTags", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a26bbbd2a3058bb57bd16a6f73b32d9d0", null ],
     [ "getFlameEncouragement", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#aad121ffc31a225748d5bcc0e0752a9f0", null ],
     [ "getFlammability", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#acb7cc5bba94398c6a329b3b2af8fa859", null ],
     [ "getFrictionFactor", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a2cbe9ba6733a72db2c2630aaab7cefe9", null ],
