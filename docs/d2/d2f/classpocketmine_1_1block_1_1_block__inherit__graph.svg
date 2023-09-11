@@ -366,7 +366,7 @@ var sectionId = 'dynsection-0';
 <polyline fill="none" stroke="#bfbfbf" points="2004.5,-93.5 2153.5,-93.5 "/>
 <text text-anchor="middle" x="2079" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 <polyline fill="none" stroke="#bfbfbf" points="2004.5,-74.5 2153.5,-74.5 "/>
-<text text-anchor="start" x="2012.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="middle" x="2079" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 </a>
 </g>
 </g>
@@ -380,22 +380,21 @@ var sectionId = 'dynsection-0';
 <g id="node15" class="node">
 <title>Node16</title>
 <g id="a_node15"><a xlink:href="../../d1/dda/classpocketmine_1_1block_1_1_concrete_powder.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="2171.5,-39 2171.5,-129 2320.5,-129 2320.5,-39 2171.5,-39"/>
-<text text-anchor="start" x="2179.5" y="-117" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Concrete</text>
-<text text-anchor="middle" x="2246" y="-106" font-family="Helvetica,sans-Serif" font-size="10.00">Powder</text>
-<polyline fill="none" stroke="#bfbfbf" points="2171.5,-99 2320.5,-99 "/>
-<text text-anchor="middle" x="2246" y="-87" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="2171.5,-80 2320.5,-80 "/>
-<text text-anchor="start" x="2179.5" y="-68" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="2179.5" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="2179.5" y="-46" font-family="Helvetica,sans-Serif" font-size="10.00">+ tickFalling()</text>
+<polygon fill="white" stroke="#bfbfbf" points="2171.5,-44.5 2171.5,-123.5 2320.5,-123.5 2320.5,-44.5 2171.5,-44.5"/>
+<text text-anchor="start" x="2179.5" y="-111.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Concrete</text>
+<text text-anchor="middle" x="2246" y="-100.5" font-family="Helvetica,sans-Serif" font-size="10.00">Powder</text>
+<polyline fill="none" stroke="#bfbfbf" points="2171.5,-93.5 2320.5,-93.5 "/>
+<text text-anchor="middle" x="2246" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="2171.5,-74.5 2320.5,-74.5 "/>
+<text text-anchor="start" x="2179.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="2179.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ tickFalling()</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node16 -->
 <g id="edge14" class="edge">
 <title>Node2&#45;&gt;Node16</title>
-<path fill="none" stroke="midnightblue" d="M4007.12,-232.5C3681,-234.01 2484.84,-234.91 2330,-168 2310.43,-159.54 2292.89,-144.26 2278.97,-129.09"/>
+<path fill="none" stroke="midnightblue" d="M4007.12,-232.5C3681,-234.01 2484.84,-234.91 2330,-168 2308.17,-158.57 2288.88,-140.64 2274.3,-123.85"/>
 <polygon fill="none" stroke="midnightblue" points="4007.45,-236 4017.43,-232.45 4007.41,-229 4007.45,-236"/>
 </g>
 <!-- Node17 -->
@@ -441,23 +440,22 @@ var sectionId = 'dynsection-0';
 <g id="node18" class="node">
 <title>Node19</title>
 <g id="a_node18"><a xlink:href="../../d5/df9/classpocketmine_1_1block_1_1_coral_block.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="2685,-33.5 2685,-134.5 2855,-134.5 2855,-33.5 2685,-33.5"/>
-<text text-anchor="middle" x="2770" y="-122.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\CoralBlock</text>
-<polyline fill="none" stroke="#bfbfbf" points="2685,-115.5 2855,-115.5 "/>
-<text text-anchor="middle" x="2770" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="2685,-96.5 2855,-96.5 "/>
-<text text-anchor="start" x="2693" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="2693" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
-<text text-anchor="start" x="2693" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isAffectedBySilkTouch()</text>
-<text text-anchor="start" x="2693" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="2693" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onScheduledUpdate()</text>
+<polygon fill="white" stroke="#bfbfbf" points="2685,-39 2685,-129 2855,-129 2855,-39 2685,-39"/>
+<text text-anchor="middle" x="2770" y="-117" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\CoralBlock</text>
+<polyline fill="none" stroke="#bfbfbf" points="2685,-110 2855,-110 "/>
+<text text-anchor="middle" x="2770" y="-98" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="2685,-91 2855,-91 "/>
+<text text-anchor="start" x="2693" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDropsForCompatibleTool()</text>
+<text text-anchor="start" x="2693" y="-68" font-family="Helvetica,sans-Serif" font-size="10.00">+ isAffectedBySilkTouch()</text>
+<text text-anchor="start" x="2693" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="2693" y="-46" font-family="Helvetica,sans-Serif" font-size="10.00">+ onScheduledUpdate()</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node19 -->
 <g id="edge17" class="edge">
 <title>Node2&#45;&gt;Node19</title>
-<path fill="none" stroke="midnightblue" d="M4007.26,-230.84C3750.22,-226.77 2969.18,-210.96 2864,-168 2845.66,-160.51 2828.48,-147.86 2813.95,-134.66"/>
+<path fill="none" stroke="midnightblue" d="M4007.26,-230.84C3750.22,-226.77 2969.18,-210.96 2864,-168 2843.24,-159.52 2823.97,-144.43 2808.35,-129.42"/>
 <polygon fill="none" stroke="midnightblue" points="4007.22,-234.34 4017.28,-231 4007.33,-227.34 4007.22,-234.34"/>
 </g>
 <!-- Node20 -->
@@ -506,23 +504,22 @@ var sectionId = 'dynsection-0';
 <g id="node21" class="node">
 <title>Node22</title>
 <g id="a_node21"><a xlink:href="../../d0/d14/classpocketmine_1_1block_1_1_dirt.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="3223,-33.5 3223,-134.5 3375,-134.5 3375,-33.5 3223,-33.5"/>
-<text text-anchor="middle" x="3299" y="-122.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Dirt</text>
-<polyline fill="none" stroke="#bfbfbf" points="3223,-115.5 3375,-115.5 "/>
-<text text-anchor="start" x="3231" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $dirtType</text>
-<polyline fill="none" stroke="#bfbfbf" points="3223,-96.5 3375,-96.5 "/>
-<text text-anchor="start" x="3231" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="3231" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ describeBlockItemState()</text>
-<text text-anchor="start" x="3231" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirtType()</text>
-<text text-anchor="start" x="3231" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
-<text text-anchor="start" x="3231" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setDirtType()</text>
+<polygon fill="white" stroke="#bfbfbf" points="3223,-39 3223,-129 3375,-129 3375,-39 3223,-39"/>
+<text text-anchor="middle" x="3299" y="-117" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Dirt</text>
+<polyline fill="none" stroke="#bfbfbf" points="3223,-110 3375,-110 "/>
+<text text-anchor="start" x="3231" y="-98" font-family="Helvetica,sans-Serif" font-size="10.00"># $dirtType</text>
+<polyline fill="none" stroke="#bfbfbf" points="3223,-91 3375,-91 "/>
+<text text-anchor="start" x="3231" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">+ describeBlockItemState()</text>
+<text text-anchor="start" x="3231" y="-68" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirtType()</text>
+<text text-anchor="start" x="3231" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
+<text text-anchor="start" x="3231" y="-46" font-family="Helvetica,sans-Serif" font-size="10.00">+ setDirtType()</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node22 -->
 <g id="edge20" class="edge">
 <title>Node2&#45;&gt;Node22</title>
-<path fill="none" stroke="midnightblue" d="M4007.06,-231.38C3845.68,-229.07 3492.94,-218.23 3384,-168 3367.14,-160.23 3351.63,-147.66 3338.61,-134.63"/>
+<path fill="none" stroke="midnightblue" d="M4007.06,-231.38C3845.68,-229.07 3492.94,-218.23 3384,-168 3364.89,-159.19 3347.52,-144.23 3333.53,-129.41"/>
 <polygon fill="none" stroke="midnightblue" points="4007.36,-234.89 4017.41,-231.52 4007.45,-227.89 4007.36,-234.89"/>
 </g>
 <!-- Node23 -->
@@ -689,7 +686,7 @@ var sectionId = 'dynsection-0';
 <polyline fill="none" stroke="#bfbfbf" points="4650,-93.5 4838,-93.5 "/>
 <text text-anchor="middle" x="4744" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 <polyline fill="none" stroke="#bfbfbf" points="4650,-74.5 4838,-74.5 "/>
-<text text-anchor="start" x="4658" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="middle" x="4744" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 </a>
 </g>
 </g>

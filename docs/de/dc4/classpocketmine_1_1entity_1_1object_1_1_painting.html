@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.4.3 git-258038c9a9081e870edd5de8abf80d7dd923eaca</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.5.1 git-fa9bba470c36e5ae3cc6c3a6b1b7b4e8781506db</span>
    </div>
   </td>
  </tr>
@@ -192,6 +192,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:afc6a31b840d718f7318efdf52f06431f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7b1ce593ae1b49915a303a096b85c713"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a7b1ce593ae1b49915a303a096b85c713">getNetworkProperties</a> ()</td></tr>
 <tr class="separator:a7b1ce593ae1b49915a303a096b85c713"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5b63cae026ce82820d55a501de180741"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dc4/classpocketmine_1_1entity_1_1object_1_1_painting.html#a5b63cae026ce82820d55a501de180741">getNetworkTypeId</a> ()</td></tr>
+<tr class="separator:a5b63cae026ce82820d55a501de180741"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3a34d4399e827bf43fe246366e8c01a6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a3a34d4399e827bf43fe246366e8c01a6">getOffsetPosition</a> (<a class="el" href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">Vector3</a> $vector3)</td></tr>
 <tr class="separator:a3a34d4399e827bf43fe246366e8c01a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afdd4efc12fe21730ceb104af111f576d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#afdd4efc12fe21730ceb104af111f576d">getOwningEntity</a> ()</td></tr>
@@ -327,8 +329,6 @@ Public Member Functions</h2></td></tr>
 Static Public Member Functions</h2></td></tr>
 <tr class="memitem:a1ef620b149de55804305fd526f43e463"><td class="memItemLeft" align="right" valign="top">static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dc4/classpocketmine_1_1entity_1_1object_1_1_painting.html#a1ef620b149de55804305fd526f43e463">canFit</a> (<a class="el" href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html">World</a> $world, <a class="el" href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">Vector3</a> $blockIn, int $facing, bool $checkOverlap, <a class="el" href="../../de/d26/classpocketmine_1_1entity_1_1object_1_1_painting_motive.html">PaintingMotive</a> $motive)</td></tr>
 <tr class="separator:a1ef620b149de55804305fd526f43e463"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6fb89989c838e35488ac17b49888b7c5"><td class="memItemLeft" align="right" valign="top">static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dc4/classpocketmine_1_1entity_1_1object_1_1_painting.html#a6fb89989c838e35488ac17b49888b7c5">getNetworkTypeId</a> ()</td></tr>
-<tr class="separator:a6fb89989c838e35488ac17b49888b7c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7a0ab51bbdfe50c4c8c58424974b47a7"><td class="memItemLeft" align="right" valign="top">static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a7a0ab51bbdfe50c4c8c58424974b47a7">nextRuntimeId</a> ()</td></tr>
 <tr class="separator:a7a0ab51bbdfe50c4c8c58424974b47a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -1348,7 +1348,7 @@ Protected Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<dl class="deprecated"><dt><b><a class="el" href="../../da/d58/deprecated.html#_deprecated000017">Deprecated:</a></b></dt><dd>WARNING: This function DOES NOT permanently hide the entity from the player. As soon as the entity or player moves, the player will once again be able to see the entity. </dd></dl>
+<dl class="deprecated"><dt><b><a class="el" href="../../da/d58/deprecated.html#_deprecated000015">Deprecated:</a></b></dt><dd>WARNING: This function DOES NOT permanently hide the entity from the player. As soon as the entity or player moves, the player will once again be able to see the entity. </dd></dl>
 
 <p class="definition">Definition at line <a class="el" href="../../d1/d1d/_entity_8php_source.html#l01533">1533</a> of file <a class="el" href="../../d1/d1d/_entity_8php_source.html">Entity.php</a>.</p>
 
@@ -1376,7 +1376,7 @@ Protected Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<dl class="deprecated"><dt><b><a class="el" href="../../da/d58/deprecated.html#_deprecated000018">Deprecated:</a></b></dt><dd>WARNING: This function DOES NOT permanently hide the entity from viewers. As soon as the entity or player moves, viewers will once again be able to see the entity. </dd></dl>
+<dl class="deprecated"><dt><b><a class="el" href="../../da/d58/deprecated.html#_deprecated000016">Deprecated:</a></b></dt><dd>WARNING: This function DOES NOT permanently hide the entity from viewers. As soon as the entity or player moves, viewers will once again be able to see the entity. </dd></dl>
 
 <p class="definition">Definition at line <a class="el" href="../../d1/d1d/_entity_8php_source.html#l01547">1547</a> of file <a class="el" href="../../d1/d1d/_entity_8php_source.html">Entity.php</a>.</p>
 
@@ -2254,27 +2254,19 @@ Protected Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a6fb89989c838e35488ac17b49888b7c5" name="a6fb89989c838e35488ac17b49888b7c5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6fb89989c838e35488ac17b49888b7c5">&#9670;&nbsp;</a></span>getNetworkTypeId()</h2>
+<a id="a5b63cae026ce82820d55a501de180741" name="a5b63cae026ce82820d55a501de180741"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5b63cae026ce82820d55a501de180741">&#9670;&nbsp;</a></span>getNetworkTypeId()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static pocketmine\entity\object\Painting::getNetworkTypeId </td>
+          <td class="memname">pocketmine\entity\object\Painting::getNetworkTypeId </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html">pocketmine\entity\Entity</a>.</p>
@@ -3231,7 +3223,7 @@ Protected Attributes</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="../../d0/d86/_painting_8php_source.html#l00106">106</a> of file <a class="el" href="../../d0/d86/_painting_8php_source.html">Painting.php</a>.</p>
 
-<p class="reference">References <a class="el" href="../../d9/d76/_player_8php_source.html#l01199">pocketmine\player\Player\hasFiniteResources()</a>.</p>
+<p class="reference">References <a class="el" href="../../d9/d76/_player_8php_source.html#l01201">pocketmine\player\Player\hasFiniteResources()</a>.</p>
 <div id="dynsection-7" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-7-trigger" src="../../closed.png" alt="+"/> Here is the call graph for this function:</div>
 <div id="dynsection-7-summary" class="dynsummary" style="display:block;">

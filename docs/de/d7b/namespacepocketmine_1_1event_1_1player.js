@@ -16,7 +16,7 @@ var namespacepocketmine_1_1event_1_1player =
     [ "PlayerDuplicateLoginEvent", "d0/d41/classpocketmine_1_1event_1_1player_1_1_player_duplicate_login_event.html", "d0/d41/classpocketmine_1_1event_1_1player_1_1_player_duplicate_login_event" ],
     [ "PlayerEditBookEvent", "d5/d38/classpocketmine_1_1event_1_1player_1_1_player_edit_book_event.html", "d5/d38/classpocketmine_1_1event_1_1player_1_1_player_edit_book_event" ],
     [ "PlayerEmoteEvent", "d5/d7c/classpocketmine_1_1event_1_1player_1_1_player_emote_event.html", "d5/d7c/classpocketmine_1_1event_1_1player_1_1_player_emote_event" ],
-    [ "PlayerEnchantOptionsRequestEvent", "de/df0/classpocketmine_1_1event_1_1player_1_1_player_enchant_options_request_event.html", "de/df0/classpocketmine_1_1event_1_1player_1_1_player_enchant_options_request_event" ],
+    [ "PlayerEnchantingOptionsRequestEvent", "d4/db8/classpocketmine_1_1event_1_1player_1_1_player_enchanting_options_request_event.html", "d4/db8/classpocketmine_1_1event_1_1player_1_1_player_enchanting_options_request_event" ],
     [ "PlayerEntityInteractEvent", "d0/d26/classpocketmine_1_1event_1_1player_1_1_player_entity_interact_event.html", "d0/d26/classpocketmine_1_1event_1_1player_1_1_player_entity_interact_event" ],
     [ "PlayerEvent", "d1/db1/classpocketmine_1_1event_1_1player_1_1_player_event.html", "d1/db1/classpocketmine_1_1event_1_1player_1_1_player_event" ],
     [ "PlayerExhaustEvent", "d9/dfb/classpocketmine_1_1event_1_1player_1_1_player_exhaust_event.html", "d9/dfb/classpocketmine_1_1event_1_1player_1_1_player_exhaust_event" ],

@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.4.3 git-258038c9a9081e870edd5de8abf80d7dd923eaca</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.5.1 git-fa9bba470c36e5ae3cc6c3a6b1b7b4e8781506db</span>
    </div>
   </td>
  </tr>
@@ -117,17 +117,17 @@ $(document).ready(function(){initNavTree('d9/db2/_runtime_data_reader_8php_sourc
 <div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span> </div>
 <div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span><span class="keyword">namespace </span>pocketmine\data\runtime;</div>
 <div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span> </div>
-<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>use <a class="code hl_class" href="../../dc/dbd/classpocketmine_1_1block_1_1utils_1_1_brewing_stand_slot.html">pocketmine\block\utils\BrewingStandSlot</a>;</div>
+<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>use pocketmine\block\utils\BrewingStandSlot;</div>
 <div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>use <a class="code hl_class" href="../../d7/df9/classpocketmine_1_1block_1_1utils_1_1_rail_connection_info.html">pocketmine\block\utils\RailConnectionInfo</a>;</div>
-<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>use <a class="code hl_class" href="../../d1/dfb/classpocketmine_1_1block_1_1utils_1_1_wall_connection_type.html">pocketmine\block\utils\WallConnectionType</a>;</div>
+<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>use pocketmine\block\utils\WallConnectionType;</div>
 <div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>use <a class="code hl_class" href="../../db/d25/classpocketmine_1_1math_1_1_axis.html">pocketmine\math\Axis</a>;</div>
 <div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>use <a class="code hl_class" href="../../dd/d25/classpocketmine_1_1math_1_1_facing.html">pocketmine\math\Facing</a>;</div>
 <div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>use <a class="code hl_class" href="../../d1/d30/classpocketmine_1_1utils_1_1_assumption_failed_error.html">pocketmine\utils\AssumptionFailedError</a>;</div>
-<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>use <span class="keyword">function</span> intdiv;</div>
-<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span> </div>
-<div class="line"><a id="l00034" name="l00034"></a><span class="lineno"><a class="line" href="../../de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html">   34</a></span><span class="keyword">final</span> <span class="keyword">class </span><a class="code hl_class" href="../../de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html">RuntimeDataReader</a> <span class="keyword">implements</span> <a class="code hl_interface" href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html">RuntimeDataDescriber</a>{</div>
-<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>    use RuntimeEnumDeserializerTrait;</div>
-<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span> </div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>use <span class="keyword">function</span> get_class;</div>
+<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>use <span class="keyword">function</span> intdiv;</div>
+<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>use <span class="keyword">function</span> spl_object_id;</div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span> </div>
+<div class="line"><a id="l00036" name="l00036"></a><span class="lineno"><a class="line" href="../../de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html">   36</a></span><span class="keyword">final</span> <span class="keyword">class </span><a class="code hl_class" href="../../de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html">RuntimeDataReader</a> <span class="keyword">implements</span> <a class="code hl_interface" href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html">RuntimeDataDescriber</a>{</div>
 <div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>    <span class="keyword">private</span> <span class="keywordtype">int</span> $offset = 0;</div>
 <div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span> </div>
 <div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>    <span class="keyword">public</span> <span class="keyword">function</span> __construct(</div>
@@ -249,8 +249,8 @@ $(document).ready(function(){initNavTree('d9/db2/_runtime_data_reader_8php_sourc
 <div class="line"><a id="l00165" name="l00165"></a><span class="lineno">  165</span>            $type = intdiv($packed,  (3 ** $offset)) % 3;</div>
 <div class="line"><a id="l00166" name="l00166"></a><span class="lineno">  166</span>            <span class="keywordflow">if</span>($type !== 0){</div>
 <div class="line"><a id="l00167" name="l00167"></a><span class="lineno">  167</span>                $result[$facing] = match($type){</div>
-<div class="line"><a id="l00168" name="l00168"></a><span class="lineno">  168</span>                    1 =&gt; WallConnectionType::SHORT(),</div>
-<div class="line"><a id="l00169" name="l00169"></a><span class="lineno">  169</span>                    2 =&gt; WallConnectionType::TALL(),</div>
+<div class="line"><a id="l00168" name="l00168"></a><span class="lineno">  168</span>                    1 =&gt; WallConnectionType::SHORT,</div>
+<div class="line"><a id="l00169" name="l00169"></a><span class="lineno">  169</span>                    2 =&gt; WallConnectionType::TALL,</div>
 <div class="line"><a id="l00170" name="l00170"></a><span class="lineno">  170</span>                    <span class="keywordflow">default</span> =&gt; <span class="keywordflow">throw</span> <span class="keyword">new</span> <a class="code hl_class" href="../../d1/d30/classpocketmine_1_1utils_1_1_assumption_failed_error.html">AssumptionFailedError</a>(<span class="stringliteral">&quot;Unreachable&quot;</span>)</div>
 <div class="line"><a id="l00171" name="l00171"></a><span class="lineno">  171</span>                };</div>
 <div class="line"><a id="l00172" name="l00172"></a><span class="lineno">  172</span>            }</div>
@@ -262,44 +262,49 @@ $(document).ready(function(){initNavTree('d9/db2/_runtime_data_reader_8php_sourc
 <div class="line"><a id="l00178" name="l00178"></a><span class="lineno">  178</span> </div>
 <div class="line"><a id="l00183" name="l00183"></a><span class="lineno"><a class="line" href="../../de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html#aa09fc4d5f553e61c0184aa84587e7c66">  183</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html#aa09fc4d5f553e61c0184aa84587e7c66">brewingStandSlots</a>(array &amp;$slots) : void{</div>
 <div class="line"><a id="l00184" name="l00184"></a><span class="lineno">  184</span>        $result = [];</div>
-<div class="line"><a id="l00185" name="l00185"></a><span class="lineno">  185</span>        <span class="keywordflow">foreach</span>([</div>
-<div class="line"><a id="l00186" name="l00186"></a><span class="lineno">  186</span>            BrewingStandSlot::EAST(),</div>
-<div class="line"><a id="l00187" name="l00187"></a><span class="lineno">  187</span>            BrewingStandSlot::NORTHWEST(),</div>
-<div class="line"><a id="l00188" name="l00188"></a><span class="lineno">  188</span>            BrewingStandSlot::SOUTHWEST(),</div>
-<div class="line"><a id="l00189" name="l00189"></a><span class="lineno">  189</span>        ] as $member){</div>
-<div class="line"><a id="l00190" name="l00190"></a><span class="lineno">  190</span>            <span class="keywordflow">if</span>($this-&gt;readBool()){</div>
-<div class="line"><a id="l00191" name="l00191"></a><span class="lineno">  191</span>                $result[$member-&gt;id()] = $member;</div>
-<div class="line"><a id="l00192" name="l00192"></a><span class="lineno">  192</span>            }</div>
-<div class="line"><a id="l00193" name="l00193"></a><span class="lineno">  193</span>        }</div>
-<div class="line"><a id="l00194" name="l00194"></a><span class="lineno">  194</span> </div>
-<div class="line"><a id="l00195" name="l00195"></a><span class="lineno">  195</span>        $slots = $result;</div>
-<div class="line"><a id="l00196" name="l00196"></a><span class="lineno">  196</span>    }</div>
-<div class="line"><a id="l00197" name="l00197"></a><span class="lineno">  197</span> </div>
-<div class="line"><a id="l00198" name="l00198"></a><span class="lineno">  198</span>    <span class="keyword">public</span> <span class="keyword">function</span> railShape(<span class="keywordtype">int</span> &amp;$railShape) : void{</div>
-<div class="line"><a id="l00199" name="l00199"></a><span class="lineno">  199</span>        $result = $this-&gt;readInt(4);</div>
-<div class="line"><a id="l00200" name="l00200"></a><span class="lineno">  200</span>        <span class="keywordflow">if</span>(!isset(RailConnectionInfo::CONNECTIONS[$result]) &amp;&amp; !isset(RailConnectionInfo::CURVE_CONNECTIONS[$result])){</div>
-<div class="line"><a id="l00201" name="l00201"></a><span class="lineno">  201</span>            <span class="keywordflow">throw</span> <span class="keyword">new</span> InvalidSerializedRuntimeDataException(<span class="stringliteral">&quot;Invalid rail shape $result&quot;</span>);</div>
-<div class="line"><a id="l00202" name="l00202"></a><span class="lineno">  202</span>        }</div>
-<div class="line"><a id="l00203" name="l00203"></a><span class="lineno">  203</span> </div>
-<div class="line"><a id="l00204" name="l00204"></a><span class="lineno">  204</span>        $railShape = $result;</div>
-<div class="line"><a id="l00205" name="l00205"></a><span class="lineno">  205</span>    }</div>
-<div class="line"><a id="l00206" name="l00206"></a><span class="lineno">  206</span> </div>
-<div class="line"><a id="l00207" name="l00207"></a><span class="lineno">  207</span>    <span class="keyword">public</span> <span class="keyword">function</span> straightOnlyRailShape(<span class="keywordtype">int</span> &amp;$railShape) : void{</div>
-<div class="line"><a id="l00208" name="l00208"></a><span class="lineno">  208</span>        $result = $this-&gt;readInt(3);</div>
-<div class="line"><a id="l00209" name="l00209"></a><span class="lineno">  209</span>        <span class="keywordflow">if</span>(!isset(RailConnectionInfo::CONNECTIONS[$result])){</div>
-<div class="line"><a id="l00210" name="l00210"></a><span class="lineno">  210</span>            <span class="keywordflow">throw</span> <span class="keyword">new</span> InvalidSerializedRuntimeDataException(<span class="stringliteral">&quot;No rail shape matches meta $result&quot;</span>);</div>
-<div class="line"><a id="l00211" name="l00211"></a><span class="lineno">  211</span>        }</div>
-<div class="line"><a id="l00212" name="l00212"></a><span class="lineno">  212</span> </div>
-<div class="line"><a id="l00213" name="l00213"></a><span class="lineno">  213</span>        $railShape = $result;</div>
-<div class="line"><a id="l00214" name="l00214"></a><span class="lineno">  214</span>    }</div>
-<div class="line"><a id="l00215" name="l00215"></a><span class="lineno">  215</span> </div>
-<div class="line"><a id="l00216" name="l00216"></a><span class="lineno">  216</span>    <span class="keyword">public</span> <span class="keyword">function</span> getOffset() : int{ return $this-&gt;offset; }</div>
-<div class="line"><a id="l00217" name="l00217"></a><span class="lineno">  217</span>}</div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1utils_1_1_brewing_stand_slot_html"><div class="ttname"><a href="../../dc/dbd/classpocketmine_1_1block_1_1utils_1_1_brewing_stand_slot.html">pocketmine\block\utils\BrewingStandSlot</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d8/daf/_brewing_stand_slot_8php_source.html#l00039">BrewingStandSlot.php:39</a></div></div>
+<div class="line"><a id="l00185" name="l00185"></a><span class="lineno">  185</span>        <span class="keywordflow">foreach</span>(BrewingStandSlot::cases() as $member){</div>
+<div class="line"><a id="l00186" name="l00186"></a><span class="lineno">  186</span>            <span class="keywordflow">if</span>($this-&gt;readBool()){</div>
+<div class="line"><a id="l00187" name="l00187"></a><span class="lineno">  187</span>                $result[spl_object_id($member)] = $member;</div>
+<div class="line"><a id="l00188" name="l00188"></a><span class="lineno">  188</span>            }</div>
+<div class="line"><a id="l00189" name="l00189"></a><span class="lineno">  189</span>        }</div>
+<div class="line"><a id="l00190" name="l00190"></a><span class="lineno">  190</span> </div>
+<div class="line"><a id="l00191" name="l00191"></a><span class="lineno">  191</span>        $slots = $result;</div>
+<div class="line"><a id="l00192" name="l00192"></a><span class="lineno">  192</span>    }</div>
+<div class="line"><a id="l00193" name="l00193"></a><span class="lineno">  193</span> </div>
+<div class="line"><a id="l00194" name="l00194"></a><span class="lineno">  194</span>    <span class="keyword">public</span> <span class="keyword">function</span> railShape(<span class="keywordtype">int</span> &amp;$railShape) : void{</div>
+<div class="line"><a id="l00195" name="l00195"></a><span class="lineno">  195</span>        $result = $this-&gt;readInt(4);</div>
+<div class="line"><a id="l00196" name="l00196"></a><span class="lineno">  196</span>        <span class="keywordflow">if</span>(!isset(RailConnectionInfo::CONNECTIONS[$result]) &amp;&amp; !isset(RailConnectionInfo::CURVE_CONNECTIONS[$result])){</div>
+<div class="line"><a id="l00197" name="l00197"></a><span class="lineno">  197</span>            <span class="keywordflow">throw</span> <span class="keyword">new</span> InvalidSerializedRuntimeDataException(<span class="stringliteral">&quot;Invalid rail shape $result&quot;</span>);</div>
+<div class="line"><a id="l00198" name="l00198"></a><span class="lineno">  198</span>        }</div>
+<div class="line"><a id="l00199" name="l00199"></a><span class="lineno">  199</span> </div>
+<div class="line"><a id="l00200" name="l00200"></a><span class="lineno">  200</span>        $railShape = $result;</div>
+<div class="line"><a id="l00201" name="l00201"></a><span class="lineno">  201</span>    }</div>
+<div class="line"><a id="l00202" name="l00202"></a><span class="lineno">  202</span> </div>
+<div class="line"><a id="l00203" name="l00203"></a><span class="lineno">  203</span>    <span class="keyword">public</span> <span class="keyword">function</span> straightOnlyRailShape(<span class="keywordtype">int</span> &amp;$railShape) : void{</div>
+<div class="line"><a id="l00204" name="l00204"></a><span class="lineno">  204</span>        $result = $this-&gt;readInt(3);</div>
+<div class="line"><a id="l00205" name="l00205"></a><span class="lineno">  205</span>        <span class="keywordflow">if</span>(!isset(RailConnectionInfo::CONNECTIONS[$result])){</div>
+<div class="line"><a id="l00206" name="l00206"></a><span class="lineno">  206</span>            <span class="keywordflow">throw</span> <span class="keyword">new</span> InvalidSerializedRuntimeDataException(<span class="stringliteral">&quot;No rail shape matches meta $result&quot;</span>);</div>
+<div class="line"><a id="l00207" name="l00207"></a><span class="lineno">  207</span>        }</div>
+<div class="line"><a id="l00208" name="l00208"></a><span class="lineno">  208</span> </div>
+<div class="line"><a id="l00209" name="l00209"></a><span class="lineno">  209</span>        $railShape = $result;</div>
+<div class="line"><a id="l00210" name="l00210"></a><span class="lineno">  210</span>    }</div>
+<div class="line"><a id="l00211" name="l00211"></a><span class="lineno">  211</span> </div>
+<div class="line"><a id="l00212" name="l00212"></a><span class="lineno"><a class="line" href="../../de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html#a7bb3228a539fee6b1b7f3d8c89bce8c0">  212</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <span class="keyword">enum</span>(\UnitEnum &amp;$case) : <span class="keywordtype">void</span>{</div>
+<div class="line"><a id="l00213" name="l00213"></a><span class="lineno">  213</span>        $metadata = RuntimeEnumMetadata::from($case);</div>
+<div class="line"><a id="l00214" name="l00214"></a><span class="lineno">  214</span>        $raw = $this-&gt;readInt($metadata-&gt;bits);</div>
+<div class="line"><a id="l00215" name="l00215"></a><span class="lineno">  215</span>        $result = $metadata-&gt;intToEnum($raw);</div>
+<div class="line"><a id="l00216" name="l00216"></a><span class="lineno">  216</span>        <span class="keywordflow">if</span>($result === <span class="keyword">null</span>){</div>
+<div class="line"><a id="l00217" name="l00217"></a><span class="lineno">  217</span>            <span class="keywordflow">throw</span> <span class="keyword">new</span> <a class="code hl_class" href="../../de/d29/classpocketmine_1_1data_1_1runtime_1_1_invalid_serialized_runtime_data_exception.html">InvalidSerializedRuntimeDataException</a>(<span class="stringliteral">&quot;Invalid serialized value $raw for &quot;</span> . get_class($case));</div>
+<div class="line"><a id="l00218" name="l00218"></a><span class="lineno">  218</span>        }</div>
+<div class="line"><a id="l00219" name="l00219"></a><span class="lineno">  219</span> </div>
+<div class="line"><a id="l00220" name="l00220"></a><span class="lineno">  220</span>        $case = $result;</div>
+<div class="line"><a id="l00221" name="l00221"></a><span class="lineno">  221</span>    }</div>
+<div class="line"><a id="l00222" name="l00222"></a><span class="lineno">  222</span> </div>
+<div class="line"><a id="l00223" name="l00223"></a><span class="lineno">  223</span>    <span class="keyword">public</span> <span class="keyword">function</span> getOffset() : int{ return $this-&gt;offset; }</div>
+<div class="line"><a id="l00224" name="l00224"></a><span class="lineno">  224</span>}</div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1utils_1_1_rail_connection_info_html"><div class="ttname"><a href="../../d7/df9/classpocketmine_1_1block_1_1utils_1_1_rail_connection_info.html">pocketmine\block\utils\RailConnectionInfo</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d7/dc8/_rail_connection_info_8php_source.html#l00029">RailConnectionInfo.php:29</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1utils_1_1_wall_connection_type_html"><div class="ttname"><a href="../../d1/dfb/classpocketmine_1_1block_1_1utils_1_1_wall_connection_type.html">pocketmine\block\utils\WallConnectionType</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d5/d7a/_wall_connection_type_8php_source.html#l00037">WallConnectionType.php:37</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1data_1_1runtime_1_1_invalid_serialized_runtime_data_exception_html"><div class="ttname"><a href="../../de/d29/classpocketmine_1_1data_1_1runtime_1_1_invalid_serialized_runtime_data_exception.html">pocketmine\data\runtime\InvalidSerializedRuntimeDataException</a></div><div class="ttdef"><b>Definition:</b> <a href="../../dc/d46/_invalid_serialized_runtime_data_exception_8php_source.html#l00026">InvalidSerializedRuntimeDataException.php:26</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1data_1_1runtime_1_1_runtime_data_reader_html"><div class="ttname"><a href="../../de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html">pocketmine\data\runtime\RuntimeDataReader</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/db2/_runtime_data_reader_8php_source.html#l00034">RuntimeDataReader.php:34</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1data_1_1runtime_1_1_runtime_data_reader_html"><div class="ttname"><a href="../../de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html">pocketmine\data\runtime\RuntimeDataReader</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/db2/_runtime_data_reader_8php_source.html#l00036">RuntimeDataReader.php:36</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1data_1_1runtime_1_1_runtime_data_reader_html_a1319449d56999d8c7698cf876dcf6c8d"><div class="ttname"><a href="../../de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html#a1319449d56999d8c7698cf876dcf6c8d">pocketmine\data\runtime\RuntimeDataReader\horizontalFacingFlags</a></div><div class="ttdeci">horizontalFacingFlags(array &amp;$faces)</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/db2/_runtime_data_reader_8php_source.html#l00106">RuntimeDataReader.php:106</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1data_1_1runtime_1_1_runtime_data_reader_html_a67251731ae3c8a5a96317a39504b1768"><div class="ttname"><a href="../../de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html#a67251731ae3c8a5a96317a39504b1768">pocketmine\data\runtime\RuntimeDataReader\facingFlags</a></div><div class="ttdeci">facingFlags(array &amp;$faces)</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/db2/_runtime_data_reader_8php_source.html#l00092">RuntimeDataReader.php:92</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1data_1_1runtime_1_1_runtime_data_reader_html_aa09fc4d5f553e61c0184aa84587e7c66"><div class="ttname"><a href="../../de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html#aa09fc4d5f553e61c0184aa84587e7c66">pocketmine\data\runtime\RuntimeDataReader\brewingStandSlots</a></div><div class="ttdeci">brewingStandSlots(array &amp;$slots)</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/db2/_runtime_data_reader_8php_source.html#l00183">RuntimeDataReader.php:183</a></div></div>

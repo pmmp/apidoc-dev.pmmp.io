@@ -9,7 +9,6 @@ var namespacepocketmine_1_1plugin =
     [ "PluginDescription", "d3/d16/classpocketmine_1_1plugin_1_1_plugin_description.html", "d3/d16/classpocketmine_1_1plugin_1_1_plugin_description" ],
     [ "PluginDescriptionCommandEntry", "d7/d0b/classpocketmine_1_1plugin_1_1_plugin_description_command_entry.html", "d7/d0b/classpocketmine_1_1plugin_1_1_plugin_description_command_entry" ],
     [ "PluginDescriptionParseException", "d0/d47/classpocketmine_1_1plugin_1_1_plugin_description_parse_exception.html", null ],
-    [ "PluginEnableOrder", "de/dc4/classpocketmine_1_1plugin_1_1_plugin_enable_order.html", "de/dc4/classpocketmine_1_1plugin_1_1_plugin_enable_order" ],
     [ "PluginException", "d0/d7b/classpocketmine_1_1plugin_1_1_plugin_exception.html", null ],
     [ "PluginGraylist", "de/ddf/classpocketmine_1_1plugin_1_1_plugin_graylist.html", "de/ddf/classpocketmine_1_1plugin_1_1_plugin_graylist" ],
     [ "PluginLoadabilityChecker", "dd/d86/classpocketmine_1_1plugin_1_1_plugin_loadability_checker.html", null ],

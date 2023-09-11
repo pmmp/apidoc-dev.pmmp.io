@@ -51,6 +51,7 @@ var classpocketmine_1_1block_1_1_base_sign =
     [ "isAffectedBySilkTouch", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a8307fc850da5c3f36e9dfc7ce639fe55", null ],
     [ "isFlammable", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e", null ],
     [ "isSameState", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a1ce2444f76246982cfbb507fed99a48e", null ],
+    [ "isWaxed", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a4e4dba286a9374624bf6d9ddefb50b07", null ],
     [ "onAttack", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a6d937579e316caf0a9f92c20753a66cb", null ],
     [ "onBreak", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#ac85f12ad4e4d729db9f27ecb8e97998b", null ],
     [ "onEntityInside", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a49395de82d025ca78745a17528049f18", null ],
@@ -67,6 +68,7 @@ var classpocketmine_1_1block_1_1_base_sign =
     [ "recalculateCollisionBoxes", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a550cf6f105cc6faf733087a716b19e1a", null ],
     [ "setEditorEntityRuntimeId", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a04441f33e5cdb137e50da4b88d1ec570", null ],
     [ "setText", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#ac38134f941cceb363658c3fdfeccb9a4", null ],
+    [ "setWaxed", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#ae3909d4c69fe40a1e25762858f1aa56c", null ],
     [ "ticksRandomly", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#ab6b90601adfc9732893dcffe256514a9", null ],
     [ "updateText", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a3dcfd3416ae91908d4c00c41eabd93df", null ],
     [ "writeStateToWorld", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a8af08c2d1638db497dd1c5cabed8510d", null ]

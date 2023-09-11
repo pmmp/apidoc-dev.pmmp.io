@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.4.3 git-258038c9a9081e870edd5de8abf80d7dd923eaca</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.5.1 git-fa9bba470c36e5ae3cc6c3a6b1b7b4e8781506db</span>
    </div>
   </td>
  </tr>
@@ -162,26 +162,26 @@ $(document).ready(function(){initNavTree('da/df4/_registry_trait_8php_source.htm
 <div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span>        return $member;</div>
 <div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span>    }</div>
 <div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span> </div>
-<div class="line"><a id="l00107" name="l00107"></a><span class="lineno"><a class="line" href="../../dc/db6/namespacepocketmine_1_1utils.html#a48b537d68e3fadb3f2ab4b76deb01589">  107</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> <a class="code hl_function" href="../../dc/db6/namespacepocketmine_1_1utils.html#a48b537d68e3fadb3f2ab4b76deb01589">__callStatic</a>($name, $arguments){</div>
-<div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span>        <span class="keywordflow">if</span>(count($arguments) &gt; 0){</div>
-<div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span>            <span class="keywordflow">throw</span> new \ArgumentCountError(<span class="stringliteral">&quot;Expected exactly 0 arguments, &quot;</span> . count($arguments) . <span class="stringliteral">&quot; passed&quot;</span>);</div>
-<div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span>        }</div>
-<div class="line"><a id="l00111" name="l00111"></a><span class="lineno">  111</span>        <span class="keywordflow">try</span>{</div>
-<div class="line"><a id="l00112" name="l00112"></a><span class="lineno">  112</span>            <span class="keywordflow">return</span> self::_registryFromString($name);</div>
-<div class="line"><a id="l00113" name="l00113"></a><span class="lineno">  113</span>        }<span class="keywordflow">catch</span>(\InvalidArgumentException $e){</div>
-<div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span>            <span class="keywordflow">throw</span> new \Error($e-&gt;getMessage(), 0, $e);</div>
-<div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span>        }</div>
-<div class="line"><a id="l00116" name="l00116"></a><span class="lineno">  116</span>    }</div>
-<div class="line"><a id="l00117" name="l00117"></a><span class="lineno">  117</span> </div>
-<div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>    <span class="keyword">private</span> <span class="keyword">static</span> <span class="keyword">function</span> _registryGetAll() : array{</div>
-<div class="line"><a id="l00123" name="l00123"></a><span class="lineno">  123</span>        self::checkInit();</div>
-<div class="line"><a id="l00124" name="l00124"></a><span class="lineno">  124</span>        <span class="keywordflow">return</span> array_map(self::preprocessMember(...), self::$members);</div>
-<div class="line"><a id="l00125" name="l00125"></a><span class="lineno">  125</span>    }</div>
-<div class="line"><a id="l00126" name="l00126"></a><span class="lineno">  126</span>}</div>
+<div class="line"><a id="l00104" name="l00104"></a><span class="lineno"><a class="line" href="../../dc/db6/namespacepocketmine_1_1utils.html#a96c1dedb47e2182ca75cb44359922956">  104</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> <a class="code hl_function" href="../../dc/db6/namespacepocketmine_1_1utils.html#a96c1dedb47e2182ca75cb44359922956">__callStatic</a>(<span class="keywordtype">string</span> $name, array $arguments) : object{</div>
+<div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span>        if(count($arguments) &gt; 0){</div>
+<div class="line"><a id="l00106" name="l00106"></a><span class="lineno">  106</span>            <span class="keywordflow">throw</span> new \ArgumentCountError(<span class="stringliteral">&quot;Expected exactly 0 arguments, &quot;</span> . count($arguments) . <span class="stringliteral">&quot; passed&quot;</span>);</div>
+<div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span>        }</div>
+<div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span>        <span class="keywordflow">try</span>{</div>
+<div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span>            <span class="keywordflow">return</span> self::_registryFromString($name);</div>
+<div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span>        }<span class="keywordflow">catch</span>(\InvalidArgumentException $e){</div>
+<div class="line"><a id="l00111" name="l00111"></a><span class="lineno">  111</span>            <span class="keywordflow">throw</span> new \Error($e-&gt;getMessage(), 0, $e);</div>
+<div class="line"><a id="l00112" name="l00112"></a><span class="lineno">  112</span>        }</div>
+<div class="line"><a id="l00113" name="l00113"></a><span class="lineno">  113</span>    }</div>
+<div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span> </div>
+<div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>    <span class="keyword">private</span> <span class="keyword">static</span> <span class="keyword">function</span> _registryGetAll() : array{</div>
+<div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>        self::checkInit();</div>
+<div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>        <span class="keywordflow">return</span> array_map(self::preprocessMember(...), self::$members);</div>
+<div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>    }</div>
+<div class="line"><a id="l00123" name="l00123"></a><span class="lineno">  123</span>}</div>
 <div class="ttc" id="anamespacepocketmine_1_1utils_html"><div class="ttname"><a href="../../dc/db6/namespacepocketmine_1_1utils.html">pocketmine\utils</a></div><div class="ttdef"><b>Definition:</b> <a href="../../da/da5/_assumption_failed_error_8php_source.html#l00024">AssumptionFailedError.php:24</a></div></div>
-<div class="ttc" id="anamespacepocketmine_1_1utils_html_a48b537d68e3fadb3f2ab4b76deb01589"><div class="ttname"><a href="../../dc/db6/namespacepocketmine_1_1utils.html#a48b537d68e3fadb3f2ab4b76deb01589">pocketmine\utils\__callStatic</a></div><div class="ttdeci">static __callStatic($name, $arguments)</div><div class="ttdef"><b>Definition:</b> <a href="../../da/df4/_registry_trait_8php_source.html#l00107">RegistryTrait.php:107</a></div></div>
 <div class="ttc" id="anamespacepocketmine_1_1utils_html_a567edfa557749f22f42f6a2df53b5838"><div class="ttname"><a href="../../dc/db6/namespacepocketmine_1_1utils.html#a567edfa557749f22f42f6a2df53b5838">pocketmine\utils\RegistryTrait</a></div><div class="ttdeci">trait RegistryTrait</div><div class="ttdef"><b>Definition:</b> <a href="../../da/df4/_registry_trait_8php_source.html#l00038">RegistryTrait.php:38</a></div></div>
 <div class="ttc" id="anamespacepocketmine_1_1utils_html_a627782f34054d5da6e5b7177a8b55d2e"><div class="ttname"><a href="../../dc/db6/namespacepocketmine_1_1utils.html#a627782f34054d5da6e5b7177a8b55d2e">pocketmine\utils\setup</a></div><div class="ttdeci">static setup()</div></div>
+<div class="ttc" id="anamespacepocketmine_1_1utils_html_a96c1dedb47e2182ca75cb44359922956"><div class="ttname"><a href="../../dc/db6/namespacepocketmine_1_1utils.html#a96c1dedb47e2182ca75cb44359922956">pocketmine\utils\__callStatic</a></div><div class="ttdeci">static __callStatic(string $name, array $arguments)</div><div class="ttdef"><b>Definition:</b> <a href="../../da/df4/_registry_trait_8php_source.html#l00104">RegistryTrait.php:104</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

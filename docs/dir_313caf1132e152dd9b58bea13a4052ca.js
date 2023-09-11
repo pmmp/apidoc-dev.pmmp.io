@@ -6,7 +6,6 @@ var dir_313caf1132e152dd9b58bea13a4052ca =
     [ "Config.php", "d4/d8a/_config_8php_source.html", null ],
     [ "ConfigLoadException.php", "d4/d7b/_config_load_exception_8php_source.html", null ],
     [ "DestructorCallbackTrait.php", "de/d5f/_destructor_callback_trait_8php_source.html", null ],
-    [ "EnumTrait.php", "d3/d01/_enum_trait_8php_source.html", null ],
     [ "Filesystem.php", "dd/d2f/_filesystem_8php_source.html", null ],
     [ "Git.php", "d0/dbe/_git_8php_source.html", null ],
     [ "Internet.php", "d7/d4f/_internet_8php_source.html", null ],

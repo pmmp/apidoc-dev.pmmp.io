@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.4.3 git-258038c9a9081e870edd5de8abf80d7dd923eaca</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.5.1 git-fa9bba470c36e5ae3cc6c3a6b1b7b4e8781506db</span>
    </div>
   </td>
  </tr>
@@ -152,7 +152,7 @@ $(document).ready(function(){initNavTree('db/df8/_location_8php_source.html','..
 <div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>        <span class="keywordflow">return</span> <span class="stringliteral">&quot;Location (world=&quot;</span> . ($this-&gt;isValid() ? $this-&gt;getWorld()-&gt;getDisplayName() : <span class="stringliteral">&quot;null&quot;</span>) . <span class="stringliteral">&quot;, x=$this-&gt;x, y=$this-&gt;y, z=$this-&gt;z, yaw=$this-&gt;yaw, pitch=$this-&gt;pitch)&quot;</span>;</div>
 <div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>    }</div>
 <div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span> </div>
-<div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../dc/db6/namespacepocketmine_1_1utils.html#a3c002b3b600e269d41628e7e8cb0cf94">equals</a>(Vector3 $v) : bool{</div>
+<div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>    <span class="keyword">public</span> <span class="keyword">function</span> equals(Vector3 $v) : bool{</div>
 <div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>        if($v instanceof Location){</div>
 <div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>            <span class="keywordflow">return</span> parent::equals($v) &amp;&amp; $v-&gt;yaw == $this-&gt;yaw &amp;&amp; $v-&gt;pitch == $this-&gt;pitch;</div>
 <div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>        }</div>
@@ -164,9 +164,8 @@ $(document).ready(function(){initNavTree('db/df8/_location_8php_source.html','..
 <div class="ttc" id="aclasspocketmine_1_1entity_1_1_location_html_ac38cd4c15aac5ff5d1d6d610a20f5c80"><div class="ttname"><a href="../../dc/d56/classpocketmine_1_1entity_1_1_location.html#ac38cd4c15aac5ff5d1d6d610a20f5c80">pocketmine\entity\Location\fromObject</a></div><div class="ttdeci">static fromObject(Vector3 $pos, ?World $world, float $yaw=0.0, float $pitch=0.0)</div><div class="ttdef"><b>Definition:</b> <a href="../../db/df8/_location_8php_source.html#l00044">Location.php:44</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1math_1_1_vector3_html"><div class="ttname"><a href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">pocketmine\math\Vector3</a></div><div class="ttdef"><b>Definition:</b> <a href="../../de/d7b/_vector3_8php_source.html#l00036">Vector3.php:36</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1_position_html"><div class="ttname"><a href="../../d5/dd2/classpocketmine_1_1world_1_1_position.html">pocketmine\world\Position</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d7/d0f/_position_8php_source.html#l00030">Position.php:30</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1world_1_1_world_html"><div class="ttname"><a href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html">pocketmine\world\World</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d88/_world_8php_source.html#l00146">World.php:146</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1world_1_1_world_html"><div class="ttname"><a href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html">pocketmine\world\World</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d88/_world_8php_source.html#l00147">World.php:147</a></div></div>
 <div class="ttc" id="anamespacepocketmine_1_1entity_html"><div class="ttname"><a href="../../d7/db9/namespacepocketmine_1_1entity.html">pocketmine\entity</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d0/dcd/_ageable_8php_source.html#l00024">Ageable.php:24</a></div></div>
-<div class="ttc" id="anamespacepocketmine_1_1utils_html_a3c002b3b600e269d41628e7e8cb0cf94"><div class="ttname"><a href="../../dc/db6/namespacepocketmine_1_1utils.html#a3c002b3b600e269d41628e7e8cb0cf94">pocketmine\utils\equals</a></div><div class="ttdeci">equals(self $other)</div><div class="ttdef"><b>Definition:</b> <a href="../../d3/d01/_enum_trait_8php_source.html#l00103">EnumTrait.php:103</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

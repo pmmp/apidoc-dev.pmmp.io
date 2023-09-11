@@ -1,5 +1,5 @@
 <map id="pocketmine\block\Froglight" name="pocketmine\block\Froglight">
-<area shape="rect" id="node1" title=" " alt="" coords="341,2339,544,2475"/>
+<area shape="rect" id="node1" title=" " alt="" coords="341,2339,544,2460"/>
 <area shape="rect" id="node2" href="$df/d01/classpocketmine_1_1block_1_1_simple_pillar.html" title=" " alt="" coords="333,2212,552,2289"/>
 <area shape="rect" id="node3" href="$db/dc5/classpocketmine_1_1block_1_1_opaque.html" title=" " alt="" coords="347,2085,538,2163"/>
 <area shape="rect" id="node4" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="335,1739,550,2036"/>

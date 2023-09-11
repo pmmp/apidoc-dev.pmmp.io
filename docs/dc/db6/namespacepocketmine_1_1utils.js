@@ -28,15 +28,10 @@ var namespacepocketmine_1_1utils =
     [ "Timezone", "dc/dc1/classpocketmine_1_1utils_1_1_timezone.html", null ],
     [ "Utils", "dc/d1a/classpocketmine_1_1utils_1_1_utils.html", "dc/d1a/classpocketmine_1_1utils_1_1_utils" ],
     [ "VersionString", "df/d22/classpocketmine_1_1utils_1_1_version_string.html", null ],
-    [ "__callStatic", "dc/db6/namespacepocketmine_1_1utils.html#a48b537d68e3fadb3f2ab4b76deb01589", null ],
-    [ "equals", "dc/db6/namespacepocketmine_1_1utils.html#a3c002b3b600e269d41628e7e8cb0cf94", null ],
-    [ "getAll", "dc/db6/namespacepocketmine_1_1utils.html#ae1bb8379641f1444faf119197f9acf06", null ],
+    [ "__callStatic", "dc/db6/namespacepocketmine_1_1utils.html#a96c1dedb47e2182ca75cb44359922956", null ],
     [ "getDestructorCallbacks", "dc/db6/namespacepocketmine_1_1utils.html#aa7b431372a4a758b8de50f40096c14a2", null ],
-    [ "id", "dc/db6/namespacepocketmine_1_1utils.html#a09dc5203e4dcab3b0be72f3d9efd2a6b", null ],
-    [ "register", "dc/db6/namespacepocketmine_1_1utils.html#a05015e083bded840b56fa8c835714c1c", null ],
     [ "setup", "dc/db6/namespacepocketmine_1_1utils.html#a627782f34054d5da6e5b7177a8b55d2e", null ],
     [ "CloningRegistryTrait", "dc/db6/namespacepocketmine_1_1utils.html#ac8a9451e10503894f63193bcb2785ef5", null ],
     [ "DestructorCallbackTrait", "dc/db6/namespacepocketmine_1_1utils.html#ad98db57f3818da64908f44911e58a54d", null ],
-    [ "EnumTrait", "dc/db6/namespacepocketmine_1_1utils.html#af2f53ef1ec175cd5613025a0513a3d97", null ],
     [ "RegistryTrait", "dc/db6/namespacepocketmine_1_1utils.html#a567edfa557749f22f42f6a2df53b5838", null ]
 ];

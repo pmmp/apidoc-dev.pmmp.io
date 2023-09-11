@@ -229,8 +229,6 @@ var dir_46a300e4974f45ffe4be063a03f2fd9d =
     [ "WaterCauldron.php", "de/dd7/_water_cauldron_8php_source.html", null ],
     [ "WaterLily.php", "d9/d18/_water_lily_8php_source.html", null ],
     [ "WeightedPressurePlate.php", "d3/dcf/_weighted_pressure_plate_8php_source.html", null ],
-    [ "WeightedPressurePlateHeavy.php", "d2/d85/_weighted_pressure_plate_heavy_8php_source.html", null ],
-    [ "WeightedPressurePlateLight.php", "de/d7a/_weighted_pressure_plate_light_8php_source.html", null ],
     [ "Wheat.php", "d5/de9/_wheat_8php_source.html", null ],
     [ "WitherRose.php", "d0/db4/_wither_rose_8php_source.html", null ],
     [ "Wood.php", "d1/da4/_wood_8php_source.html", null ],

@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.4.3 git-258038c9a9081e870edd5de8abf80d7dd923eaca</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.5.1 git-fa9bba470c36e5ae3cc6c3a6b1b7b4e8781506db</span>
    </div>
   </td>
  </tr>
@@ -121,10 +121,10 @@ $(document).ready(function(){initNavTree('dd/d40/_colored_trait_8php_source.html
 <div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>use <a class="code hl_interface" href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html">pocketmine\data\runtime\RuntimeDataDescriber</a>;</div>
 <div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span> </div>
 <div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>trait ColoredTrait{</div>
-<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>    <span class="keyword">private</span> $color;</div>
+<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>    <span class="keyword">private</span> $color = DyeColor::WHITE;</div>
 <div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span> </div>
 <div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>    <span class="keyword">public</span> <span class="keyword">function</span> describeBlockItemState(RuntimeDataDescriber $w) : void{</div>
-<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>        $w-&gt;dyeColor($this-&gt;color);</div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>        $w-&gt;enum($this-&gt;color);</div>
 <div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>    }</div>
 <div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span> </div>
 <div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>    <span class="keyword">public</span> <span class="keyword">function</span> getColor() : DyeColor{ return $this-&gt;color; }</div>

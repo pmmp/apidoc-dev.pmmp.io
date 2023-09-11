@@ -55,7 +55,7 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="../../dd/d6c/classpocketmine_1_1item_1_1enchantment_1_1_enchantment.html#aaa47f90644d49c3d2273a878974acf72" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="../../dd/d6c/classpocketmine_1_1item_1_1enchantment_1_1_enchantment.html#a7585f0fb8cd5d2384bcb881560d7df7f" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-49.5 0,-79.5 167,-79.5 167,-49.5 0,-49.5"/>
 <text text-anchor="start" x="8" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\enchantment</text>
 <text text-anchor="middle" x="83.5" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Enchantment\__construct</text>

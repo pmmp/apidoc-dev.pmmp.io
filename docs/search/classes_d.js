@@ -38,9 +38,8 @@ var searchData=
   ['normaltransactiondata_35',['NormalTransactionData',['../de/da9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_normal_transaction_data.html',1,'pocketmine::network::mcpe::protocol::types::inventory']]],
   ['nosuchtagexception_36',['NoSuchTagException',['../da/df5/classpocketmine_1_1nbt_1_1_no_such_tag_exception.html',1,'pocketmine::nbt']]],
   ['note_37',['Note',['../d3/df5/classpocketmine_1_1block_1_1_note.html',1,'pocketmine\block\Note'],['../d8/dab/classpocketmine_1_1block_1_1tile_1_1_note.html',1,'pocketmine\block\tile\Note']]],
-  ['noteinstrument_38',['NoteInstrument',['../d1/dab/classpocketmine_1_1world_1_1sound_1_1_note_instrument.html',1,'pocketmine::world::sound']]],
-  ['noteinstrumentidmap_39',['NoteInstrumentIdMap',['../d7/d8a/classpocketmine_1_1data_1_1bedrock_1_1_note_instrument_id_map.html',1,'pocketmine::data::bedrock']]],
-  ['notesound_40',['NoteSound',['../d6/d38/classpocketmine_1_1world_1_1sound_1_1_note_sound.html',1,'pocketmine::world::sound']]],
-  ['npcdialoguepacket_41',['NpcDialoguePacket',['../d8/d30/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_npc_dialogue_packet.html',1,'pocketmine::network::mcpe::protocol']]],
-  ['npcrequestpacket_42',['NpcRequestPacket',['../dc/da8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_npc_request_packet.html',1,'pocketmine::network::mcpe::protocol']]]
+  ['noteinstrumentidmap_38',['NoteInstrumentIdMap',['../d7/d8a/classpocketmine_1_1data_1_1bedrock_1_1_note_instrument_id_map.html',1,'pocketmine::data::bedrock']]],
+  ['notesound_39',['NoteSound',['../d6/d38/classpocketmine_1_1world_1_1sound_1_1_note_sound.html',1,'pocketmine::world::sound']]],
+  ['npcdialoguepacket_40',['NpcDialoguePacket',['../d8/d30/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_npc_dialogue_packet.html',1,'pocketmine::network::mcpe::protocol']]],
+  ['npcrequestpacket_41',['NpcRequestPacket',['../dc/da8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_npc_request_packet.html',1,'pocketmine::network::mcpe::protocol']]]
 ];

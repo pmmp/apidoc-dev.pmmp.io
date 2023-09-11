@@ -1,5 +1,5 @@
 <map id="pocketmine\block\tile\Sign" name="pocketmine\block\tile\Sign">
-<area shape="rect" id="node1" title=" " alt="" coords="117,2553,328,2748"/>
+<area shape="rect" id="node1" title=" " alt="" coords="117,2553,328,2777"/>
 <area shape="rect" id="node2" href="$dc/d0b/classpocketmine_1_1block_1_1tile_1_1_spawnable.html" title=" " alt="" coords="295,2309,548,2504"/>
 <area shape="rect" id="node3" href="$d9/d74/classpocketmine_1_1block_1_1tile_1_1_tile.html" title=" " alt="" coords="357,2007,557,2260"/>
 <area shape="rect" id="node4" title=" " alt="" coords="186,585,243,663"/>

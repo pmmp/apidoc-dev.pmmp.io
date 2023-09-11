@@ -1,6 +1,6 @@
 <map id="pocketmine\entity\projectile\SplashPotion" name="pocketmine\entity\projectile\SplashPotion">
-<area shape="rect" id="node1" title=" " alt="" coords="18,1408,223,1691"/>
-<area shape="rect" id="node2" href="$d0/d86/classpocketmine_1_1entity_1_1projectile_1_1_throwable.html" title=" " alt="" coords="18,1224,223,1360"/>
-<area shape="rect" id="node3" href="$dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html" title=" " alt="" coords="5,835,236,1176"/>
-<area shape="rect" id="node4" href="$d2/d3c/classpocketmine_1_1entity_1_1_entity.html" title=" " alt="" coords="18,5,223,787"/>
+<area shape="rect" id="node1" title=" " alt="" coords="18,1393,223,1676"/>
+<area shape="rect" id="node2" href="$d0/d86/classpocketmine_1_1entity_1_1projectile_1_1_throwable.html" title=" " alt="" coords="18,1209,223,1345"/>
+<area shape="rect" id="node3" href="$dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html" title=" " alt="" coords="5,820,236,1161"/>
+<area shape="rect" id="node4" href="$d2/d3c/classpocketmine_1_1entity_1_1_entity.html" title=" " alt="" coords="18,5,223,772"/>
 </map>

@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 729;
+var viewWidth = 456;
 var viewHeight = 893;
 var sectionId = 'dynsection-0';
 </script>
@@ -54,30 +54,30 @@ var sectionId = 'dynsection-0';
 <svg id="graph" class="graph">
 <g id="viewport">
 <title>pocketmine\block\PressurePlate</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-889 725,-889 725,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-889 452,-889 452,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="300.5,-265.5 300.5,-465.5 461.5,-465.5 461.5,-265.5 300.5,-265.5"/>
-<text text-anchor="start" x="308.5" y="-453.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Pressure</text>
-<text text-anchor="middle" x="381" y="-442.5" font-family="Helvetica,sans-Serif" font-size="10.00">Plate</text>
-<polyline fill="none" stroke="black" points="300.5,-435.5 461.5,-435.5 "/>
-<text text-anchor="middle" x="381" y="-423.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="300.5,-416.5 461.5,-416.5 "/>
-<text text-anchor="start" x="308.5" y="-404.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="308.5" y="-393.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSupportType()</text>
-<text text-anchor="start" x="308.5" y="-382.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ hasEntityCollision()</text>
-<text text-anchor="start" x="308.5" y="-371.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isSolid()</text>
-<text text-anchor="start" x="308.5" y="-360.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onEntityInside()</text>
-<text text-anchor="start" x="308.5" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="308.5" y="-338.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onScheduledUpdate()</text>
-<text text-anchor="start" x="308.5" y="-327.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
-<text text-anchor="start" x="308.5" y="-316.5" font-family="Helvetica,sans-Serif" font-size="10.00"># calculatePlateState()</text>
-<text text-anchor="start" x="308.5" y="-305.5" font-family="Helvetica,sans-Serif" font-size="10.00"># filterIrrelevantEntities()</text>
-<text text-anchor="start" x="308.5" y="-294.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getActivationBox()</text>
-<text text-anchor="start" x="308.5" y="-283.5" font-family="Helvetica,sans-Serif" font-size="10.00"># hasOutputSignal()</text>
-<text text-anchor="start" x="308.5" y="-272.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
+<polygon fill="#bfbfbf" stroke="black" points="198.5,-265.5 198.5,-465.5 359.5,-465.5 359.5,-265.5 198.5,-265.5"/>
+<text text-anchor="start" x="206.5" y="-453.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Pressure</text>
+<text text-anchor="middle" x="279" y="-442.5" font-family="Helvetica,sans-Serif" font-size="10.00">Plate</text>
+<polyline fill="none" stroke="black" points="198.5,-435.5 359.5,-435.5 "/>
+<text text-anchor="middle" x="279" y="-423.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="198.5,-416.5 359.5,-416.5 "/>
+<text text-anchor="start" x="206.5" y="-404.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="206.5" y="-393.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSupportType()</text>
+<text text-anchor="start" x="206.5" y="-382.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ hasEntityCollision()</text>
+<text text-anchor="start" x="206.5" y="-371.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isSolid()</text>
+<text text-anchor="start" x="206.5" y="-360.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onEntityInside()</text>
+<text text-anchor="start" x="206.5" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="206.5" y="-338.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onScheduledUpdate()</text>
+<text text-anchor="start" x="206.5" y="-327.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="206.5" y="-316.5" font-family="Helvetica,sans-Serif" font-size="10.00"># calculatePlateState()</text>
+<text text-anchor="start" x="206.5" y="-305.5" font-family="Helvetica,sans-Serif" font-size="10.00"># filterIrrelevantEntities()</text>
+<text text-anchor="start" x="206.5" y="-294.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getActivationBox()</text>
+<text text-anchor="start" x="206.5" y="-283.5" font-family="Helvetica,sans-Serif" font-size="10.00"># hasOutputSignal()</text>
+<text text-anchor="start" x="206.5" y="-272.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
 </g>
@@ -85,106 +85,106 @@ var sectionId = 'dynsection-0';
 <g id="node4" class="node">
 <title>Node4</title>
 <g id="a_node4"><a xlink:href="../../dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="196,-116.5 196,-228.5 378,-228.5 378,-116.5 196,-116.5"/>
-<text text-anchor="start" x="204" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\SimplePressure</text>
-<text text-anchor="middle" x="287" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">Plate</text>
-<polyline fill="none" stroke="#bfbfbf" points="196,-198.5 378,-198.5 "/>
-<text text-anchor="start" x="204" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $pressed</text>
-<polyline fill="none" stroke="#bfbfbf" points="196,-179.5 378,-179.5 "/>
-<text text-anchor="start" x="204" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isPressed()</text>
-<text text-anchor="start" x="204" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPressed()</text>
-<text text-anchor="start" x="204" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00"># calculatePlateState()</text>
-<text text-anchor="start" x="204" y="-134.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
-<text text-anchor="start" x="204" y="-123.5" font-family="Helvetica,sans-Serif" font-size="10.00"># hasOutputSignal()</text>
+<polygon fill="white" stroke="#bfbfbf" points="96,-116.5 96,-228.5 278,-228.5 278,-116.5 96,-116.5"/>
+<text text-anchor="start" x="104" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\SimplePressure</text>
+<text text-anchor="middle" x="187" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">Plate</text>
+<polyline fill="none" stroke="#bfbfbf" points="96,-198.5 278,-198.5 "/>
+<text text-anchor="start" x="104" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $pressed</text>
+<polyline fill="none" stroke="#bfbfbf" points="96,-179.5 278,-179.5 "/>
+<text text-anchor="start" x="104" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isPressed()</text>
+<text text-anchor="start" x="104" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPressed()</text>
+<text text-anchor="start" x="104" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00"># calculatePlateState()</text>
+<text text-anchor="start" x="104" y="-134.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
+<text text-anchor="start" x="104" y="-123.5" font-family="Helvetica,sans-Serif" font-size="10.00"># hasOutputSignal()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node4 -->
 <g id="edge3" class="edge">
 <title>Node1&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M327.74,-256.28C323.1,-246.85 318.54,-237.59 314.25,-228.87"/>
-<polygon fill="none" stroke="midnightblue" points="324.65,-257.94 332.21,-265.36 330.93,-254.85 324.65,-257.94"/>
+<path fill="none" stroke="midnightblue" d="M226.87,-256.28C222.33,-246.85 217.87,-237.59 213.67,-228.87"/>
+<polygon fill="none" stroke="midnightblue" points="223.76,-257.87 231.25,-265.36 230.06,-254.84 223.76,-257.87"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
 <g id="a_node7"><a xlink:href="../../d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="399,-127.5 399,-217.5 551,-217.5 551,-127.5 399,-127.5"/>
-<text text-anchor="start" x="407" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Weighted</text>
-<text text-anchor="middle" x="475" y="-194.5" font-family="Helvetica,sans-Serif" font-size="10.00">PressurePlate</text>
-<polyline fill="none" stroke="#bfbfbf" points="399,-187.5 551,-187.5 "/>
-<text text-anchor="middle" x="475" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="399,-168.5 551,-168.5 "/>
-<text text-anchor="start" x="407" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="407" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00"># calculatePlateState()</text>
-<text text-anchor="start" x="407" y="-134.5" font-family="Helvetica,sans-Serif" font-size="10.00"># hasOutputSignal()</text>
+<polygon fill="white" stroke="#bfbfbf" points="296,-127.5 296,-217.5 448,-217.5 448,-127.5 296,-127.5"/>
+<text text-anchor="start" x="304" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Weighted</text>
+<text text-anchor="middle" x="372" y="-194.5" font-family="Helvetica,sans-Serif" font-size="10.00">PressurePlate</text>
+<polyline fill="none" stroke="#bfbfbf" points="296,-187.5 448,-187.5 "/>
+<text text-anchor="middle" x="372" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="296,-168.5 448,-168.5 "/>
+<text text-anchor="start" x="304" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="304" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00"># calculatePlateState()</text>
+<text text-anchor="start" x="304" y="-134.5" font-family="Helvetica,sans-Serif" font-size="10.00"># hasOutputSignal()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node7 -->
 <g id="edge6" class="edge">
 <title>Node1&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M434.21,-256.38C440.91,-242.77 447.44,-229.5 453.24,-217.72"/>
-<polygon fill="none" stroke="midnightblue" points="431.07,-254.85 429.79,-265.36 437.35,-257.94 431.07,-254.85"/>
+<path fill="none" stroke="midnightblue" d="M331.83,-255.99C338.4,-242.52 344.79,-229.39 350.47,-217.72"/>
+<polygon fill="none" stroke="midnightblue" points="328.5,-254.84 327.27,-265.36 334.8,-257.9 328.5,-254.84"/>
 </g>
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="../../d5/d1b/classpocketmine_1_1block_1_1_transparent.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="299.5,-502.5 299.5,-559.5 462.5,-559.5 462.5,-502.5 299.5,-502.5"/>
-<text text-anchor="middle" x="381" y="-547.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Transparent</text>
-<polyline fill="none" stroke="black" points="299.5,-540.5 462.5,-540.5 "/>
-<text text-anchor="middle" x="381" y="-528.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="299.5,-521.5 462.5,-521.5 "/>
-<text text-anchor="start" x="307.5" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isTransparent()</text>
+<polygon fill="white" stroke="black" points="197.5,-502.5 197.5,-559.5 360.5,-559.5 360.5,-502.5 197.5,-502.5"/>
+<text text-anchor="middle" x="279" y="-547.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Transparent</text>
+<polyline fill="none" stroke="black" points="197.5,-540.5 360.5,-540.5 "/>
+<text text-anchor="middle" x="279" y="-528.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="197.5,-521.5 360.5,-521.5 "/>
+<text text-anchor="start" x="205.5" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isTransparent()</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
 <title>Node2&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M381,-492.04C381,-483.87 381,-474.87 381,-465.55"/>
-<polygon fill="none" stroke="midnightblue" points="377.5,-492.26 381,-502.26 384.5,-492.26 377.5,-492.26"/>
+<path fill="none" stroke="midnightblue" d="M279,-492.04C279,-483.87 279,-474.87 279,-465.55"/>
+<polygon fill="none" stroke="midnightblue" points="275.5,-492.26 279,-502.26 282.5,-492.26 275.5,-492.26"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="../../d7/d27/classpocketmine_1_1block_1_1_block.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="293,-596.5 293,-884.5 469,-884.5 469,-596.5 293,-596.5"/>
-<text text-anchor="middle" x="381" y="-872.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Block</text>
-<polyline fill="none" stroke="#bfbfbf" points="293,-865.5 469,-865.5 "/>
-<text text-anchor="start" x="301" y="-853.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ EMPTY_STATE_ID</text>
-<text text-anchor="start" x="301" y="-842.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ INTERNAL_STATE_DATA_BITS</text>
-<text text-anchor="start" x="301" y="-831.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ INTERNAL_STATE_DATA_MASK</text>
-<text text-anchor="start" x="301" y="-820.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $collisionBoxes</text>
-<text text-anchor="start" x="301" y="-809.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $fallbackName</text>
-<text text-anchor="start" x="301" y="-798.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $idInfo</text>
-<text text-anchor="start" x="301" y="-787.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $position</text>
-<text text-anchor="start" x="301" y="-776.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $typeInfo</text>
-<polyline fill="none" stroke="#bfbfbf" points="293,-769.5 469,-769.5 "/>
-<text text-anchor="start" x="301" y="-757.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="301" y="-746.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __clone()</text>
-<text text-anchor="start" x="301" y="-735.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __toString()</text>
-<text text-anchor="start" x="301" y="-724.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addVelocityToEntity()</text>
-<text text-anchor="start" x="301" y="-713.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ asItem()</text>
-<text text-anchor="start" x="301" y="-702.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ blocksDirectSkyLight()</text>
-<text text-anchor="start" x="301" y="-691.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ burnsForever()</text>
-<text text-anchor="start" x="301" y="-680.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ calculateIntercept()</text>
-<text text-anchor="start" x="301" y="-669.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
-<text text-anchor="start" x="301" y="-658.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
-<text text-anchor="start" x="301" y="-647.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 60 more...</text>
-<text text-anchor="start" x="301" y="-636.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
-<text text-anchor="start" x="301" y="-625.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getAdjacentSupportType()</text>
-<text text-anchor="start" x="301" y="-614.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getXpDropAmount()</text>
-<text text-anchor="start" x="301" y="-603.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
+<polygon fill="white" stroke="#bfbfbf" points="191,-596.5 191,-884.5 367,-884.5 367,-596.5 191,-596.5"/>
+<text text-anchor="middle" x="279" y="-872.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Block</text>
+<polyline fill="none" stroke="#bfbfbf" points="191,-865.5 367,-865.5 "/>
+<text text-anchor="start" x="199" y="-853.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ EMPTY_STATE_ID</text>
+<text text-anchor="start" x="199" y="-842.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ INTERNAL_STATE_DATA_BITS</text>
+<text text-anchor="start" x="199" y="-831.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ INTERNAL_STATE_DATA_MASK</text>
+<text text-anchor="start" x="199" y="-820.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $collisionBoxes</text>
+<text text-anchor="start" x="199" y="-809.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $fallbackName</text>
+<text text-anchor="start" x="199" y="-798.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $idInfo</text>
+<text text-anchor="start" x="199" y="-787.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $position</text>
+<text text-anchor="start" x="199" y="-776.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $typeInfo</text>
+<polyline fill="none" stroke="#bfbfbf" points="191,-769.5 367,-769.5 "/>
+<text text-anchor="start" x="199" y="-757.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="199" y="-746.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __clone()</text>
+<text text-anchor="start" x="199" y="-735.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __toString()</text>
+<text text-anchor="start" x="199" y="-724.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addVelocityToEntity()</text>
+<text text-anchor="start" x="199" y="-713.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ asItem()</text>
+<text text-anchor="start" x="199" y="-702.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ blocksDirectSkyLight()</text>
+<text text-anchor="start" x="199" y="-691.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ burnsForever()</text>
+<text text-anchor="start" x="199" y="-680.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ calculateIntercept()</text>
+<text text-anchor="start" x="199" y="-669.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeFlowedInto()</text>
+<text text-anchor="start" x="199" y="-658.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBePlaced()</text>
+<text text-anchor="start" x="199" y="-647.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 60 more...</text>
+<text text-anchor="start" x="199" y="-636.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
+<text text-anchor="start" x="199" y="-625.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getAdjacentSupportType()</text>
+<text text-anchor="start" x="199" y="-614.5" font-family="Helvetica,sans-Serif" font-size="10.00"># getXpDropAmount()</text>
+<text text-anchor="start" x="199" y="-603.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node2 -->
 <g id="edge2" class="edge">
 <title>Node3&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M381,-586.17C381,-576.35 381,-567.31 381,-559.54"/>
-<polygon fill="none" stroke="midnightblue" points="377.5,-586.23 381,-596.23 384.5,-586.23 377.5,-586.23"/>
+<path fill="none" stroke="midnightblue" d="M279,-586.17C279,-576.35 279,-567.31 279,-559.54"/>
+<polygon fill="none" stroke="midnightblue" points="275.5,-586.23 279,-596.23 282.5,-586.23 275.5,-586.23"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
@@ -203,8 +203,8 @@ var sectionId = 'dynsection-0';
 <!-- Node4&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
 <title>Node4&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M194.36,-110.75C175.07,-98.1 155.43,-85.22 138.36,-74.03"/>
-<polygon fill="none" stroke="midnightblue" points="192.61,-113.79 202.89,-116.35 196.45,-107.93 192.61,-113.79"/>
+<path fill="none" stroke="midnightblue" d="M138.87,-108.06C129.96,-96.31 120.99,-84.49 113.12,-74.11"/>
+<polygon fill="none" stroke="midnightblue" points="136.18,-110.3 145.02,-116.16 141.76,-106.07 136.18,-110.3"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">
@@ -224,48 +224,8 @@ var sectionId = 'dynsection-0';
 <!-- Node4&#45;&gt;Node6 -->
 <g id="edge5" class="edge">
 <title>Node4&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M287,-106.06C287,-97.08 287,-88.11 287,-79.82"/>
-<polygon fill="none" stroke="midnightblue" points="283.5,-106.16 287,-116.16 290.5,-106.16 283.5,-106.16"/>
-</g>
-<!-- Node8 -->
-<g id="node8" class="node">
-<title>Node8</title>
-<g id="a_node8"><a xlink:href="../../db/dfc/classpocketmine_1_1block_1_1_weighted_pressure_plate_heavy.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="399,-6 399,-74 551,-74 551,-6 399,-6"/>
-<text text-anchor="start" x="407" y="-62" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Weighted</text>
-<text text-anchor="middle" x="475" y="-51" font-family="Helvetica,sans-Serif" font-size="10.00">PressurePlateHeavy</text>
-<polyline fill="none" stroke="black" points="399,-44 551,-44 "/>
-<text text-anchor="middle" x="475" y="-32" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="399,-25 551,-25 "/>
-<text text-anchor="middle" x="475" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-</a>
-</g>
-</g>
-<!-- Node7&#45;&gt;Node8 -->
-<g id="edge7" class="edge">
-<title>Node7&#45;&gt;Node8</title>
-<path fill="none" stroke="midnightblue" d="M475,-116.97C475,-102.52 475,-87.36 475,-74.41"/>
-<polygon fill="none" stroke="midnightblue" points="471.5,-117.32 475,-127.32 478.5,-117.32 471.5,-117.32"/>
-</g>
-<!-- Node9 -->
-<g id="node9" class="node">
-<title>Node9</title>
-<g id="a_node9"><a xlink:href="../../dc/d22/classpocketmine_1_1block_1_1_weighted_pressure_plate_light.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="569,-6 569,-74 721,-74 721,-6 569,-6"/>
-<text text-anchor="start" x="577" y="-62" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Weighted</text>
-<text text-anchor="middle" x="645" y="-51" font-family="Helvetica,sans-Serif" font-size="10.00">PressurePlateLight</text>
-<polyline fill="none" stroke="black" points="569,-44 721,-44 "/>
-<text text-anchor="middle" x="645" y="-32" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="569,-25 721,-25 "/>
-<text text-anchor="middle" x="645" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-</a>
-</g>
-</g>
-<!-- Node7&#45;&gt;Node9 -->
-<g id="edge8" class="edge">
-<title>Node7&#45;&gt;Node9</title>
-<path fill="none" stroke="midnightblue" d="M540.62,-121.13C561.12,-105.39 583.2,-88.44 601.75,-74.2"/>
-<polygon fill="none" stroke="midnightblue" points="538.36,-118.45 532.55,-127.32 542.62,-124.01 538.36,-118.45"/>
+<path fill="none" stroke="midnightblue" d="M235.6,-108.08C242.99,-98.43 250.42,-88.73 257.25,-79.82"/>
+<polygon fill="none" stroke="midnightblue" points="232.71,-106.09 229.41,-116.16 238.27,-110.35 232.71,-106.09"/>
 </g>
 </g>
 </svg>

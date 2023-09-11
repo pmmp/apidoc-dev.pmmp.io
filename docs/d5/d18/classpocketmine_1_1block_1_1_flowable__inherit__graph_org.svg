@@ -151,25 +151,24 @@
 <g id="node15" class="node">
 <title>Node18</title>
 <g id="a_node15"><a xlink:href="../../d8/d55/classpocketmine_1_1block_1_1_carpet.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="902,-243 902,-366 1063,-366 1063,-243 902,-243"/>
-<text text-anchor="middle" x="982.5" y="-354" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Carpet</text>
-<polyline fill="none" stroke="#bfbfbf" points="902,-347 1063,-347 "/>
-<text text-anchor="middle" x="982.5" y="-335" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="902,-328 1063,-328 "/>
-<text text-anchor="start" x="910" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="910" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlameEncouragement()</text>
-<text text-anchor="start" x="910" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlammability()</text>
-<text text-anchor="start" x="910" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00">+ isSolid()</text>
-<text text-anchor="start" x="910" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="910" y="-261" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
-<text text-anchor="start" x="910" y="-250" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
+<polygon fill="white" stroke="#bfbfbf" points="902,-248.5 902,-360.5 1063,-360.5 1063,-248.5 902,-248.5"/>
+<text text-anchor="middle" x="982.5" y="-348.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Carpet</text>
+<polyline fill="none" stroke="#bfbfbf" points="902,-341.5 1063,-341.5 "/>
+<text text-anchor="middle" x="982.5" y="-329.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="902,-322.5 1063,-322.5 "/>
+<text text-anchor="start" x="910" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlameEncouragement()</text>
+<text text-anchor="start" x="910" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFlammability()</text>
+<text text-anchor="start" x="910" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isSolid()</text>
+<text text-anchor="start" x="910" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="910" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="910" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node18 -->
 <g id="edge14" class="edge">
 <title>Node1&#45;&gt;Node18</title>
-<path fill="none" stroke="midnightblue" d="M3556.71,-506.87C3112.47,-503.54 1184.64,-485.7 1072.5,-427 1047.03,-413.67 1026.89,-389.51 1012.17,-366.23"/>
+<path fill="none" stroke="midnightblue" d="M3556.71,-506.87C3112.47,-503.54 1184.64,-485.7 1072.5,-427 1044.94,-412.57 1023.61,-385.47 1008.65,-360.52"/>
 <polygon fill="none" stroke="midnightblue" points="3556.9,-510.38 3566.93,-506.95 3556.95,-503.38 3556.9,-510.38"/>
 </g>
 <!-- Node19 -->
@@ -491,28 +490,27 @@
 <g id="node28" class="node">
 <title>Node39</title>
 <g id="a_node28"><a xlink:href="../../d4/d31/classpocketmine_1_1block_1_1_lever.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="3314.5,-226.5 3314.5,-382.5 3466.5,-382.5 3466.5,-226.5 3314.5,-226.5"/>
-<text text-anchor="middle" x="3390.5" y="-370.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Lever</text>
-<polyline fill="none" stroke="#bfbfbf" points="3314.5,-363.5 3466.5,-363.5 "/>
-<text text-anchor="start" x="3322.5" y="-351.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $activated</text>
-<text text-anchor="start" x="3322.5" y="-340.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $facing</text>
-<polyline fill="none" stroke="#bfbfbf" points="3314.5,-333.5 3466.5,-333.5 "/>
-<text text-anchor="start" x="3322.5" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="3322.5" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFacing()</text>
-<text text-anchor="start" x="3322.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isActivated()</text>
-<text text-anchor="start" x="3322.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
-<text text-anchor="start" x="3322.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
-<text text-anchor="start" x="3322.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
-<text text-anchor="start" x="3322.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setActivated()</text>
-<text text-anchor="start" x="3322.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFacing()</text>
-<text text-anchor="start" x="3322.5" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
+<polygon fill="white" stroke="#bfbfbf" points="3314.5,-232 3314.5,-377 3466.5,-377 3466.5,-232 3314.5,-232"/>
+<text text-anchor="middle" x="3390.5" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Lever</text>
+<polyline fill="none" stroke="#bfbfbf" points="3314.5,-358 3466.5,-358 "/>
+<text text-anchor="start" x="3322.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"># $activated</text>
+<text text-anchor="start" x="3322.5" y="-335" font-family="Helvetica,sans-Serif" font-size="10.00"># $facing</text>
+<polyline fill="none" stroke="#bfbfbf" points="3314.5,-328 3466.5,-328 "/>
+<text text-anchor="start" x="3322.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFacing()</text>
+<text text-anchor="start" x="3322.5" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ isActivated()</text>
+<text text-anchor="start" x="3322.5" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">+ onInteract()</text>
+<text text-anchor="start" x="3322.5" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00">+ onNearbyBlockChange()</text>
+<text text-anchor="start" x="3322.5" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="3322.5" y="-261" font-family="Helvetica,sans-Serif" font-size="10.00">+ setActivated()</text>
+<text text-anchor="start" x="3322.5" y="-250" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFacing()</text>
+<text text-anchor="start" x="3322.5" y="-239" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node39 -->
 <g id="edge27" class="edge">
 <title>Node1&#45;&gt;Node39</title>
-<path fill="none" stroke="midnightblue" d="M3557.24,-475.86C3529.21,-463.36 3499.42,-447.11 3475.5,-427 3460.52,-414.41 3446.95,-398.59 3435.26,-382.56"/>
+<path fill="none" stroke="midnightblue" d="M3557.24,-475.86C3529.21,-463.36 3499.42,-447.11 3475.5,-427 3458.85,-413 3443.93,-395.01 3431.41,-377.18"/>
 <polygon fill="none" stroke="midnightblue" points="3556.1,-479.18 3566.66,-479.95 3558.89,-472.76 3556.1,-479.18"/>
 </g>
 <!-- Node40 -->
@@ -544,35 +542,34 @@
 <g id="node30" class="node">
 <title>Node41</title>
 <g id="a_node30"><a xlink:href="../../d5/d56/classpocketmine_1_1block_1_1_mob_head.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="3655,-188 3655,-421 3816,-421 3816,-188 3655,-188"/>
-<text text-anchor="middle" x="3735.5" y="-409" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\MobHead</text>
-<polyline fill="none" stroke="#bfbfbf" points="3655,-402 3816,-402 "/>
-<text text-anchor="start" x="3663" y="-390" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_ROTATION</text>
-<text text-anchor="start" x="3663" y="-379" font-family="Helvetica,sans-Serif" font-size="10.00">+ MIN_ROTATION</text>
-<text text-anchor="start" x="3663" y="-368" font-family="Helvetica,sans-Serif" font-size="10.00"># $facing</text>
-<text text-anchor="start" x="3663" y="-357" font-family="Helvetica,sans-Serif" font-size="10.00"># $mobHeadType</text>
-<text text-anchor="start" x="3663" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00"># $rotation</text>
-<polyline fill="none" stroke="#bfbfbf" points="3655,-339 3816,-339 "/>
-<text text-anchor="start" x="3663" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="3663" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">+ describeBlockItemState()</text>
-<text text-anchor="start" x="3663" y="-305" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFacing()</text>
-<text text-anchor="start" x="3663" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMobHeadType()</text>
-<text text-anchor="start" x="3663" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRotation()</text>
-<text text-anchor="start" x="3663" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
-<text text-anchor="start" x="3663" y="-261" font-family="Helvetica,sans-Serif" font-size="10.00">+ readStateFromWorld()</text>
-<text text-anchor="start" x="3663" y="-250" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFacing()</text>
-<text text-anchor="start" x="3663" y="-239" font-family="Helvetica,sans-Serif" font-size="10.00">+ setMobHeadType()</text>
-<text text-anchor="start" x="3663" y="-228" font-family="Helvetica,sans-Serif" font-size="10.00">+ setRotation()</text>
-<text text-anchor="start" x="3663" y="-217" font-family="Helvetica,sans-Serif" font-size="10.00">+ writeStateToWorld()</text>
-<text text-anchor="start" x="3663" y="-206" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
-<text text-anchor="start" x="3663" y="-195" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
+<polygon fill="white" stroke="#bfbfbf" points="3655,-193.5 3655,-415.5 3816,-415.5 3816,-193.5 3655,-193.5"/>
+<text text-anchor="middle" x="3735.5" y="-403.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\MobHead</text>
+<polyline fill="none" stroke="#bfbfbf" points="3655,-396.5 3816,-396.5 "/>
+<text text-anchor="start" x="3663" y="-384.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MAX_ROTATION</text>
+<text text-anchor="start" x="3663" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MIN_ROTATION</text>
+<text text-anchor="start" x="3663" y="-362.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $facing</text>
+<text text-anchor="start" x="3663" y="-351.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $mobHeadType</text>
+<text text-anchor="start" x="3663" y="-340.5" font-family="Helvetica,sans-Serif" font-size="10.00"># $rotation</text>
+<polyline fill="none" stroke="#bfbfbf" points="3655,-333.5 3816,-333.5 "/>
+<text text-anchor="start" x="3663" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ describeBlockItemState()</text>
+<text text-anchor="start" x="3663" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFacing()</text>
+<text text-anchor="start" x="3663" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMobHeadType()</text>
+<text text-anchor="start" x="3663" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRotation()</text>
+<text text-anchor="start" x="3663" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ place()</text>
+<text text-anchor="start" x="3663" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ readStateFromWorld()</text>
+<text text-anchor="start" x="3663" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFacing()</text>
+<text text-anchor="start" x="3663" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setMobHeadType()</text>
+<text text-anchor="start" x="3663" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setRotation()</text>
+<text text-anchor="start" x="3663" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ writeStateToWorld()</text>
+<text text-anchor="start" x="3663" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeBlockOnlyState()</text>
+<text text-anchor="start" x="3663" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00"># recalculateCollisionBoxes()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node41 -->
 <g id="edge29" class="edge">
 <title>Node1&#45;&gt;Node41</title>
-<path fill="none" stroke="midnightblue" d="M3670.81,-454C3675.28,-443.73 3680.12,-432.62 3685.08,-421.25"/>
+<path fill="none" stroke="midnightblue" d="M3670.87,-453.85C3676.08,-441.9 3681.78,-428.81 3687.58,-415.51"/>
 <polygon fill="none" stroke="midnightblue" points="3667.6,-452.6 3666.81,-463.17 3674.01,-455.4 3667.6,-452.6"/>
 </g>
 <!-- Node42 -->

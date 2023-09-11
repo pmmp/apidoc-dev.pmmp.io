@@ -385,22 +385,21 @@ var sectionId = 'dynsection-0';
 <g id="node20" class="node">
 <title>Node30</title>
 <g id="a_node20"><a xlink:href="../../d4/d96/classpocketmine_1_1item_1_1_dye.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="2238.5,-347.5 2238.5,-437.5 2360.5,-437.5 2360.5,-347.5 2238.5,-347.5"/>
-<text text-anchor="middle" x="2299.5" y="-425.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Dye</text>
-<polyline fill="none" stroke="#bfbfbf" points="2238.5,-418.5 2360.5,-418.5 "/>
-<text text-anchor="middle" x="2299.5" y="-406.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="2238.5,-399.5 2360.5,-399.5 "/>
-<text text-anchor="start" x="2246.5" y="-387.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="2246.5" y="-376.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getColor()</text>
-<text text-anchor="start" x="2246.5" y="-365.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setColor()</text>
-<text text-anchor="start" x="2246.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<polygon fill="white" stroke="#bfbfbf" points="2238.5,-353 2238.5,-432 2360.5,-432 2360.5,-353 2238.5,-353"/>
+<text text-anchor="middle" x="2299.5" y="-420" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Dye</text>
+<polyline fill="none" stroke="#bfbfbf" points="2238.5,-413 2360.5,-413 "/>
+<text text-anchor="middle" x="2299.5" y="-401" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="2238.5,-394 2360.5,-394 "/>
+<text text-anchor="start" x="2246.5" y="-382" font-family="Helvetica,sans-Serif" font-size="10.00">+ getColor()</text>
+<text text-anchor="start" x="2246.5" y="-371" font-family="Helvetica,sans-Serif" font-size="10.00">+ setColor()</text>
+<text text-anchor="start" x="2246.5" y="-360" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node30 -->
 <g id="edge19" class="edge">
 <title>Node1&#45;&gt;Node30</title>
-<path fill="none" stroke="midnightblue" d="M3139.1,-715.62C2972.28,-709.73 2608.8,-676.4 2369.5,-504 2346.47,-487.41 2329.24,-460.67 2317.64,-437.66"/>
+<path fill="none" stroke="midnightblue" d="M3139.1,-715.62C2972.28,-709.73 2608.8,-676.4 2369.5,-504 2344.63,-486.08 2326.52,-456.33 2314.96,-432.21"/>
 <polygon fill="none" stroke="midnightblue" points="3139.21,-719.13 3149.32,-715.96 3139.44,-712.13 3139.21,-719.13"/>
 </g>
 <!-- Node31 -->
@@ -577,27 +576,26 @@ var sectionId = 'dynsection-0';
 <g id="node33" class="node">
 <title>Node80</title>
 <g id="a_node33"><a xlink:href="../../d9/db1/classpocketmine_1_1item_1_1_medicine.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="3761.5,-320 3761.5,-465 3907.5,-465 3907.5,-320 3761.5,-320"/>
-<text text-anchor="middle" x="3834.5" y="-453" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Medicine</text>
-<polyline fill="none" stroke="#bfbfbf" points="3761.5,-446 3907.5,-446 "/>
-<text text-anchor="middle" x="3834.5" y="-434" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="3761.5,-427 3907.5,-427 "/>
-<text text-anchor="start" x="3769.5" y="-415" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="3769.5" y="-404" font-family="Helvetica,sans-Serif" font-size="10.00">+ canStartUsingItem()</text>
-<text text-anchor="start" x="3769.5" y="-393" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAdditionalEffects()</text>
-<text text-anchor="start" x="3769.5" y="-382" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
-<text text-anchor="start" x="3769.5" y="-371" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
-<text text-anchor="start" x="3769.5" y="-360" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
-<text text-anchor="start" x="3769.5" y="-349" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
-<text text-anchor="start" x="3769.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ setType()</text>
-<text text-anchor="start" x="3769.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<polygon fill="white" stroke="#bfbfbf" points="3761.5,-325.5 3761.5,-459.5 3907.5,-459.5 3907.5,-325.5 3761.5,-325.5"/>
+<text text-anchor="middle" x="3834.5" y="-447.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Medicine</text>
+<polyline fill="none" stroke="#bfbfbf" points="3761.5,-440.5 3907.5,-440.5 "/>
+<text text-anchor="middle" x="3834.5" y="-428.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="3761.5,-421.5 3907.5,-421.5 "/>
+<text text-anchor="start" x="3769.5" y="-409.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canStartUsingItem()</text>
+<text text-anchor="start" x="3769.5" y="-398.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAdditionalEffects()</text>
+<text text-anchor="start" x="3769.5" y="-387.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
+<text text-anchor="start" x="3769.5" y="-376.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
+<text text-anchor="start" x="3769.5" y="-365.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
+<text text-anchor="start" x="3769.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
+<text text-anchor="start" x="3769.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setType()</text>
+<text text-anchor="start" x="3769.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node80 -->
 <g id="edge32" class="edge">
 <title>Node1&#45;&gt;Node80</title>
-<path fill="none" stroke="midnightblue" d="M3317.49,-696.29C3428.21,-667.8 3618.94,-607.4 3752.5,-504 3766.48,-493.18 3779.23,-479.38 3790.29,-465.23"/>
+<path fill="none" stroke="midnightblue" d="M3317.49,-696.29C3428.21,-667.8 3618.94,-607.4 3752.5,-504 3768.27,-491.79 3782.48,-475.79 3794.47,-459.77"/>
 <polygon fill="none" stroke="midnightblue" points="3316.52,-692.93 3307.69,-698.79 3318.24,-699.71 3316.52,-692.93"/>
 </g>
 <!-- Node81 -->
@@ -684,27 +682,26 @@ var sectionId = 'dynsection-0';
 <g id="node38" class="node">
 <title>Node85</title>
 <g id="a_node38"><a xlink:href="../../d3/d00/classpocketmine_1_1item_1_1_potion.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="4625.5,-320 4625.5,-465 4759.5,-465 4759.5,-320 4625.5,-320"/>
-<text text-anchor="middle" x="4692.5" y="-453" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Potion</text>
-<polyline fill="none" stroke="#bfbfbf" points="4625.5,-446 4759.5,-446 "/>
-<text text-anchor="middle" x="4692.5" y="-434" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="4625.5,-427 4759.5,-427 "/>
-<text text-anchor="start" x="4633.5" y="-415" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="4633.5" y="-404" font-family="Helvetica,sans-Serif" font-size="10.00">+ canStartUsingItem()</text>
-<text text-anchor="start" x="4633.5" y="-393" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAdditionalEffects()</text>
-<text text-anchor="start" x="4633.5" y="-382" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
-<text text-anchor="start" x="4633.5" y="-371" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
-<text text-anchor="start" x="4633.5" y="-360" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
-<text text-anchor="start" x="4633.5" y="-349" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
-<text text-anchor="start" x="4633.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00">+ setType()</text>
-<text text-anchor="start" x="4633.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
+<polygon fill="white" stroke="#bfbfbf" points="4625.5,-325.5 4625.5,-459.5 4759.5,-459.5 4759.5,-325.5 4625.5,-325.5"/>
+<text text-anchor="middle" x="4692.5" y="-447.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Potion</text>
+<polyline fill="none" stroke="#bfbfbf" points="4625.5,-440.5 4759.5,-440.5 "/>
+<text text-anchor="middle" x="4692.5" y="-428.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="4625.5,-421.5 4759.5,-421.5 "/>
+<text text-anchor="start" x="4633.5" y="-409.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canStartUsingItem()</text>
+<text text-anchor="start" x="4633.5" y="-398.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAdditionalEffects()</text>
+<text text-anchor="start" x="4633.5" y="-387.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getMaxStackSize()</text>
+<text text-anchor="start" x="4633.5" y="-376.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getResidue()</text>
+<text text-anchor="start" x="4633.5" y="-365.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
+<text text-anchor="start" x="4633.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ onConsume()</text>
+<text text-anchor="start" x="4633.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setType()</text>
+<text text-anchor="start" x="4633.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00"># describeState()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node85 -->
 <g id="edge37" class="edge">
 <title>Node1&#45;&gt;Node85</title>
-<path fill="none" stroke="midnightblue" d="M3317.92,-712C3589.19,-696.94 4397.56,-641.3 4616.5,-504 4631.98,-494.29 4645.12,-480.14 4655.89,-465.2"/>
+<path fill="none" stroke="midnightblue" d="M3317.92,-712C3589.19,-696.94 4397.56,-641.3 4616.5,-504 4633.86,-493.11 4648.26,-476.66 4659.69,-459.74"/>
 <polygon fill="none" stroke="midnightblue" points="3317.52,-708.51 3307.73,-712.56 3317.9,-715.5 3317.52,-708.51"/>
 </g>
 <!-- Node86 -->

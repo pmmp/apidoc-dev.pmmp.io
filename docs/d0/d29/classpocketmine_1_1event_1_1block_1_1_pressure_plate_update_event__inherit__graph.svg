@@ -13,14 +13,14 @@
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="112,-0.5 112,-79.5 261,-79.5 261,-0.5 112,-0.5"/>
-<text text-anchor="start" x="120" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\block</text>
-<text text-anchor="middle" x="186.5" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PressurePlateUpdateEvent</text>
-<polyline fill="none" stroke="black" points="112,-49.5 261,-49.5 "/>
-<text text-anchor="middle" x="186.5" y="-37.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="112,-30.5 261,-30.5 "/>
-<text text-anchor="start" x="120" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="120" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getActivatingEntities()</text>
+<polygon fill="#bfbfbf" stroke="black" points="76,-0.5 76,-79.5 225,-79.5 225,-0.5 76,-0.5"/>
+<text text-anchor="start" x="84" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\block</text>
+<text text-anchor="middle" x="150.5" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PressurePlateUpdateEvent</text>
+<polyline fill="none" stroke="black" points="76,-49.5 225,-49.5 "/>
+<text text-anchor="middle" x="150.5" y="-37.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="76,-30.5 225,-30.5 "/>
+<text text-anchor="start" x="84" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="84" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getActivatingEntities()</text>
 </a>
 </g>
 </g>
@@ -28,22 +28,22 @@
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="../../d0/df9/classpocketmine_1_1event_1_1block_1_1_base_block_change_event.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="71,-116.5 71,-195.5 206,-195.5 206,-116.5 71,-116.5"/>
-<text text-anchor="start" x="79" y="-183.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\block</text>
-<text text-anchor="middle" x="138.5" y="-172.5" font-family="Helvetica,sans-Serif" font-size="10.00">\BaseBlockChangeEvent</text>
-<polyline fill="none" stroke="#bfbfbf" points="71,-165.5 206,-165.5 "/>
-<text text-anchor="middle" x="138.5" y="-153.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="71,-146.5 206,-146.5 "/>
-<text text-anchor="start" x="79" y="-134.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="79" y="-123.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNewState()</text>
+<polygon fill="white" stroke="#bfbfbf" points="83,-116.5 83,-195.5 218,-195.5 218,-116.5 83,-116.5"/>
+<text text-anchor="start" x="91" y="-183.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\block</text>
+<text text-anchor="middle" x="150.5" y="-172.5" font-family="Helvetica,sans-Serif" font-size="10.00">\BaseBlockChangeEvent</text>
+<polyline fill="none" stroke="#bfbfbf" points="83,-165.5 218,-165.5 "/>
+<text text-anchor="middle" x="150.5" y="-153.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="83,-146.5 218,-146.5 "/>
+<text text-anchor="start" x="91" y="-134.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="91" y="-123.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNewState()</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
 <title>Node2&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M158.7,-107.01C162.56,-97.85 166.55,-88.37 170.27,-79.56"/>
-<polygon fill="none" stroke="midnightblue" points="155.41,-105.83 154.75,-116.4 161.86,-108.55 155.41,-105.83"/>
+<path fill="none" stroke="midnightblue" d="M150.5,-106.15C150.5,-97.26 150.5,-88.1 150.5,-79.56"/>
+<polygon fill="none" stroke="midnightblue" points="147,-106.4 150.5,-116.4 154,-106.4 147,-106.4"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
@@ -63,8 +63,8 @@
 <!-- Node3&#45;&gt;Node2 -->
 <g id="edge2" class="edge">
 <title>Node3&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M96.85,-223.88C102.72,-214.45 108.82,-204.65 114.49,-195.56"/>
-<polygon fill="none" stroke="midnightblue" points="93.85,-222.07 91.54,-232.4 99.79,-225.77 93.85,-222.07"/>
+<path fill="none" stroke="midnightblue" d="M101.6,-224.17C108.52,-214.65 115.74,-204.75 122.43,-195.56"/>
+<polygon fill="none" stroke="midnightblue" points="98.66,-222.26 95.6,-232.4 104.32,-226.38 98.66,-222.26"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
@@ -100,17 +100,11 @@
 </a>
 </g>
 </g>
-<!-- Node5&#45;&gt;Node1 -->
-<g id="edge5" class="edge">
-<title>Node5&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M232.06,-233.34C229.44,-201.68 224.26,-155.4 214.5,-116 211.53,-103.99 207.24,-91.27 202.9,-79.78"/>
-<polygon fill="none" stroke="midnightblue" points="228.59,-233.79 232.86,-243.49 235.57,-233.25 228.59,-233.79"/>
-</g>
 <!-- Node5&#45;&gt;Node2 -->
 <g id="edge4" class="edge">
 <title>Node5&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M204.79,-235.72C194.06,-222.98 181.9,-208.54 170.96,-195.54"/>
-<polygon fill="none" stroke="midnightblue" points="202.14,-238.01 211.26,-243.4 207.5,-233.5 202.14,-238.01"/>
+<path fill="none" stroke="midnightblue" d="M207.97,-235C198.72,-222.44 188.3,-208.3 178.9,-195.54"/>
+<polygon fill="none" stroke="midnightblue" points="205.42,-237.43 214.17,-243.4 211.05,-233.28 205.42,-237.43"/>
 </g>
 </g>
 </svg>

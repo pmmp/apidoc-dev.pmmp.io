@@ -1,10 +1,10 @@
 <map id="pocketmine\event\entity\EntityDamageByChildEntityEvent" name="pocketmine\event\entity\EntityDamageByChildEntityEvent">
-<area shape="rect" id="node1" title=" " alt="" coords="5,3284,249,3391"/>
-<area shape="rect" id="node2" href="$d0/d34/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_entity_event.html" title=" " alt="" coords="16,2785,239,2965"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,3269,249,3376"/>
+<area shape="rect" id="node2" href="$d0/d34/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_entity_event.html" title=" " alt="" coords="16,2777,239,2957"/>
 <area shape="rect" id="node3" href="$d5/de3/classpocketmine_1_1event_1_1entity_1_1_entity_damage_event.html" title=" " alt="" coords="138,2007,413,2451"/>
-<area shape="rect" id="node6" href="$d2/d3c/classpocketmine_1_1entity_1_1_entity.html" title=" " alt="" coords="789,2528,994,3221"/>
-<area shape="rect" id="node4" href="$de/d84/classpocketmine_1_1event_1_1entity_1_1_entity_event.html" title=" " alt="" coords="439,3291,621,3383"/>
-<area shape="rect" id="node5" href="$d1/d2f/classpocketmine_1_1event_1_1_event.html" title=" " alt="" coords="440,2821,620,2928"/>
+<area shape="rect" id="node6" href="$d2/d3c/classpocketmine_1_1entity_1_1_entity.html" title=" " alt="" coords="789,2528,994,3207"/>
+<area shape="rect" id="node4" href="$de/d84/classpocketmine_1_1event_1_1entity_1_1_entity_event.html" title=" " alt="" coords="439,3277,621,3369"/>
+<area shape="rect" id="node5" href="$d1/d2f/classpocketmine_1_1event_1_1_event.html" title=" " alt="" coords="440,2814,620,2921"/>
 <area shape="rect" id="node7" title=" " alt="" coords="621,585,679,663"/>
 <area shape="rect" id="node11" href="$d4/d2b/classpocketmine_1_1world_1_1_world.html" title=" " alt="" coords="915,1048,1145,1463"/>
 <area shape="rect" id="node18" href="$d5/df7/classpocketmine_1_1_server.html" title=" " alt="" coords="796,1487,965,1725"/>
