@@ -1,5 +1,5 @@
 <map id="pocketmine\block\FlowerPot" name="pocketmine\block\FlowerPot">
-<area shape="rect" id="node1" title=" " alt="" coords="329,2396,556,2620"/>
+<area shape="rect" id="node1" title=" " alt="" coords="329,2396,556,2591"/>
 <area shape="rect" id="node2" href="$d3/d1e/classpocketmine_1_1block_1_1_flowable.html" title=" " alt="" coords="465,2225,679,2347"/>
 <area shape="rect" id="node3" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="465,2085,682,2163"/>
 <area shape="rect" id="node4" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="335,1739,550,2036"/>

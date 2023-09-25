@@ -1,5 +1,5 @@
 <map id="pocketmine\block\FrostedIce" name="pocketmine\block\FrostedIce">
-<area shape="rect" id="node1" title=" " alt="" coords="5,2427,213,2577"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,2427,213,2533"/>
 <area shape="rect" id="node2" href="$d1/def/classpocketmine_1_1block_1_1_ice.html" title=" " alt="" coords="120,2212,347,2377"/>
 <area shape="rect" id="node3" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="186,2085,403,2163"/>
 <area shape="rect" id="node4" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="201,1739,415,2036"/>

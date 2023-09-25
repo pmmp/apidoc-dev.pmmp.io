@@ -1,5 +1,5 @@
 <map id="pocketmine\block\ChorusFlower" name="pocketmine\block\ChorusFlower">
-<area shape="rect" id="node1" title=" " alt="" coords="5,2383,236,2577"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,2383,236,2504"/>
 <area shape="rect" id="node2" href="$d3/d1e/classpocketmine_1_1block_1_1_flowable.html" title=" " alt="" coords="135,2212,349,2333"/>
 <area shape="rect" id="node3" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="160,2085,377,2163"/>
 <area shape="rect" id="node4" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="213,1739,428,2036"/>

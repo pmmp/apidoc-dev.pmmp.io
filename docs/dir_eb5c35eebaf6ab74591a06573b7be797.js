@@ -1,5 +1,6 @@
 var dir_eb5c35eebaf6ab74591a06573b7be797 =
 [
+    [ "AgeableTrait.php", "da/de2/_ageable_trait_8php_source.html", null ],
     [ "AnalogRedstoneSignalEmitterTrait.php", "d9/d5e/_analog_redstone_signal_emitter_trait_8php_source.html", null ],
     [ "AnyFacingTrait.php", "db/de1/_any_facing_trait_8php_source.html", null ],
     [ "BannerPatternLayer.php", "df/db7/_banner_pattern_layer_8php_source.html", null ],
@@ -37,6 +38,7 @@ var dir_eb5c35eebaf6ab74591a06573b7be797 =
     [ "SignText.php", "d5/d96/_sign_text_8php_source.html", null ],
     [ "SlabType.php", "d7/d23/_slab_type_8php_source.html", null ],
     [ "StairShape.php", "d0/dbc/_stair_shape_8php_source.html", null ],
+    [ "StaticSupportTrait.php", "d2/d92/_static_support_trait_8php_source.html", null ],
     [ "SupportType.php", "dd/da3/_support_type_8php_source.html", null ],
     [ "TallGrassTrait.php", "d8/d91/_tall_grass_trait_8php_source.html", null ],
     [ "WallConnectionType.php", "d5/d7a/_wall_connection_type_8php_source.html", null ],

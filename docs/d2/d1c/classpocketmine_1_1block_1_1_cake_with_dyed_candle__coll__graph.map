@@ -1,7 +1,7 @@
 <map id="pocketmine\block\CakeWithDyedCandle" name="pocketmine\block\CakeWithDyedCandle">
-<area shape="rect" id="node1" title=" " alt="" coords="463,2729,665,2836"/>
-<area shape="rect" id="node2" href="$da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html" title=" " alt="" coords="451,2500,677,2680"/>
-<area shape="rect" id="node3" href="$d6/dc5/classpocketmine_1_1block_1_1_base_cake.html" title=" " alt="" coords="461,2241,667,2451"/>
+<area shape="rect" id="node1" title=" " alt="" coords="463,2700,665,2807"/>
+<area shape="rect" id="node2" href="$da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html" title=" " alt="" coords="451,2471,677,2651"/>
+<area shape="rect" id="node3" href="$d6/dc5/classpocketmine_1_1block_1_1_base_cake.html" title=" " alt="" coords="461,2241,667,2421"/>
 <area shape="rect" id="node4" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="335,2100,553,2177"/>
 <area shape="rect" id="node5" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="335,1739,550,2036"/>
 <area shape="rect" id="node6" title=" " alt="" coords="13,585,70,663"/>

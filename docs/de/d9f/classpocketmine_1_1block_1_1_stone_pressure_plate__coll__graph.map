@@ -1,7 +1,7 @@
 <map id="pocketmine\block\StonePressurePlate" name="pocketmine\block\StonePressurePlate">
-<area shape="rect" id="node1" title=" " alt="" coords="325,2729,560,2821"/>
-<area shape="rect" id="node2" href="$dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html" title=" " alt="" coords="321,2529,564,2680"/>
-<area shape="rect" id="node3" href="$de/d89/classpocketmine_1_1block_1_1_pressure_plate.html" title=" " alt="" coords="335,2212,550,2480"/>
+<area shape="rect" id="node1" title=" " alt="" coords="325,2700,560,2792"/>
+<area shape="rect" id="node2" href="$dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html" title=" " alt="" coords="321,2500,564,2651"/>
+<area shape="rect" id="node3" href="$de/d89/classpocketmine_1_1block_1_1_pressure_plate.html" title=" " alt="" coords="335,2212,550,2451"/>
 <area shape="rect" id="node4" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="334,2085,551,2163"/>
 <area shape="rect" id="node5" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="335,1739,550,2036"/>
 <area shape="rect" id="node6" title=" " alt="" coords="13,585,70,663"/>
