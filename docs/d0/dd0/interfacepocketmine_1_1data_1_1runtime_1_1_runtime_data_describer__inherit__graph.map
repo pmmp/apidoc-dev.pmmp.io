@@ -1,6 +1,6 @@
 <map id="pocketmine\data\runtime\RuntimeDataDescriber" name="pocketmine\data\runtime\RuntimeDataDescriber">
-<area shape="rect" id="node1" title=" " alt="" coords="223,5,415,303"/>
-<area shape="rect" id="node2" href="$de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html" title=" " alt="" coords="5,351,192,619"/>
-<area shape="rect" id="node3" href="$db/dff/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_size_calculator.html" title=" " alt="" coords="216,358,421,611"/>
-<area shape="rect" id="node4" href="$dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer.html" title=" " alt="" coords="445,351,632,619"/>
+<area shape="rect" id="node1" title=" " alt="" coords="225,5,412,244"/>
+<area shape="rect" id="node2" href="$de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html" title=" " alt="" coords="5,292,192,560"/>
+<area shape="rect" id="node3" href="$db/dff/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_size_calculator.html" title=" " alt="" coords="216,299,421,553"/>
+<area shape="rect" id="node4" href="$dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer.html" title=" " alt="" coords="445,292,632,560"/>
 </map>

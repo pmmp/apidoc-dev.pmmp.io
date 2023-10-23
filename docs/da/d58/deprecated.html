@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.6.1 git-a45e143e81295cfcfdbddad7edff743e0d9d6038</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.6.1 git-e32a90be729e5296752ce9dbf247744711f5ce2f</span>
    </div>
   </td>
  </tr>
@@ -123,34 +123,40 @@ $(document).ready(function(){initNavTree('da/d58/deprecated.html','../../'); ini
 <dd><a class="anchor" id="_deprecated000014"></a>  </dd>
 <dt>Member <a class="el" href="../../de/d35/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema.html#a190d15d1b0666a77c14b76f9ed6d0c68">pocketmine\data\bedrock\block\upgrade\BlockStateUpgradeSchema::getVersionId</a>  ()</dt>
 <dd><a class="anchor" id="_deprecated000015"></a>This is defined by Mojang, and therefore cannot be relied on. Use getSchemaId() instead for internal version management.  </dd>
+<dt>Member <a class="el" href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html#a9a2dcb097497b9cca7b7669fa46e03c3">pocketmine\data\runtime\RuntimeDataDescriber::brewingStandSlots</a>  (array &amp;$slots)</dt>
+<dd><a class="anchor" id="_deprecated000016"></a>Use <code><a class="el" href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html#af8574ef3201ddd8e44b5932592c6bcff">enumSet()</a></code> instead.  </dd>
+<dt>Member <a class="el" href="../../de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html#aa09fc4d5f553e61c0184aa84587e7c66">pocketmine\data\runtime\RuntimeDataReader::brewingStandSlots</a>  (array &amp;$slots)</dt>
+<dd><a class="anchor" id="_deprecated000017"></a>Use <code><a class="el" href="../../de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html#ab24c32663d89b11bdedbbcdc96d1e20e">enumSet()</a></code> instead.  </dd>
+<dt>Member <a class="el" href="../../dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer.html#abc3f13cc2a7247122463b86dd00c8079">pocketmine\data\runtime\RuntimeDataWriter::brewingStandSlots</a>  (array &amp;$slots)</dt>
+<dd><a class="anchor" id="_deprecated000018"></a>Use <code><a class="el" href="../../dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer.html#aa3be04d2b112cb653d8e6c759b1850bf">enumSet()</a></code> instead.  </dd>
 <dt>Member <a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a22a098fc4892820db7d15a73edea64ca">pocketmine\entity\Entity::despawnFrom</a>  (Player $player, bool $send=true)</dt>
-<dd><a class="anchor" id="_deprecated000016"></a>WARNING: This function DOES NOT permanently hide the entity from the player. As soon as the entity or player moves, the player will once again be able to see the entity.  </dd>
+<dd><a class="anchor" id="_deprecated000019"></a>WARNING: This function DOES NOT permanently hide the entity from the player. As soon as the entity or player moves, the player will once again be able to see the entity.  </dd>
 <dt>Member <a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a89a01723e97021d54e83c24d1b74670f">pocketmine\entity\Entity::despawnFromAll</a>  ()</dt>
-<dd><a class="anchor" id="_deprecated000017"></a>WARNING: This function DOES NOT permanently hide the entity from viewers. As soon as the entity or player moves, viewers will once again be able to see the entity.  </dd>
+<dd><a class="anchor" id="_deprecated000020"></a>WARNING: This function DOES NOT permanently hide the entity from viewers. As soon as the entity or player moves, viewers will once again be able to see the entity.  </dd>
 <dt>Member <a class="el" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html#a4a9aa55600bb30c4d55ad63337874a07">pocketmine\item\Item::equals</a>  (<a class="el" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">Item</a> $item, bool $checkDamage=true, bool $checkCompound=true)</dt>
-<dd><a class="anchor" id="_deprecated000018"></a>  </dd>
-<dt>Class <a class="el" href="../../d8/d89/classpocketmine_1_1item_1_1_legacy_string_to_item_parser.html">pocketmine\item\LegacyStringToItemParser</a>  </dt>
-<dd><a class="anchor" id="_deprecated000019"></a>  </dd>
-<dt>Member <a class="el" href="../../d9/df4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_batch.html#a1aff4474bdefad2640e53cc73b7fafbb">pocketmine\network\mcpe\protocol\serializer\PacketBatch::__construct</a>  (private string $buffer)</dt>
-<dd><a class="anchor" id="_deprecated000026"></a>  </dd>
-<dt>Member <a class="el" href="../../d9/df4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_batch.html#a41aabb323ea069b3a40ee21afb438fa9">pocketmine\network\mcpe\protocol\serializer\PacketBatch::fromPackets</a>  (<a class="el" href="../../da/dc6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_serializer_context.html">PacketSerializerContext</a> $context, <a class="el" href="../../d4/d5d/interfacepocketmine_1_1network_1_1mcpe_1_1protocol_1_1_packet.html">Packet</a> ... $packets)</dt>
-<dd><a class="anchor" id="_deprecated000028"></a> Constructs a packet batch from the given list of packets.  </dd>
-<dt>Member <a class="el" href="../../d9/df4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_batch.html#ac2d1c9d9fe511a848703a0ce9beeb8d4">pocketmine\network\mcpe\protocol\serializer\PacketBatch::getBuffer</a>  ()</dt>
-<dd><a class="anchor" id="_deprecated000029"></a>  </dd>
-<dt>Member <a class="el" href="../../d9/df4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_batch.html#abd66a05e32b91426b0f316bd271da8f7">pocketmine\network\mcpe\protocol\serializer\PacketBatch::getPackets</a>  (<a class="el" href="../../d9/d97/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_packet_pool.html">PacketPool</a> $packetPool, <a class="el" href="../../da/dc6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_serializer_context.html">PacketSerializerContext</a> $decoderContext, int $max)</dt>
-<dd><a class="anchor" id="_deprecated000027"></a>  </dd>
-<dt>Member <a class="el" href="../../d5/df7/classpocketmine_1_1_server.html#a6a32d7ce2b7100d6117cd6e3cfb3b1d6">pocketmine\Server::getPlayerByPrefix</a>  (string $name)</dt>
-<dd><a class="anchor" id="_deprecated000020"></a>This method's results are unpredictable. The string "Steve" will return the player named "SteveJobs", until another player named "SteveJ" joins the server, at which point it will return that player instead. Prefer filtering the results of <code><a class="el" href="../../d5/df7/classpocketmine_1_1_server.html#ab173ee59d49782e9a9fd13a1cdc39cbf">Server::getOnlinePlayers()</a></code> yourself. </dd>
-<dt>Member <a class="el" href="../../d8/d9e/classpocketmine_1_1utils_1_1_process.html#a1ae6452e6e1b5e8ab6e135f649ba8e28">pocketmine\utils\Process::kill</a>  (int $pid, bool $subprocesses=false)</dt>
 <dd><a class="anchor" id="_deprecated000021"></a>  </dd>
-<dt>Member <a class="el" href="../../d7/dde/classpocketmine_1_1wizard_1_1_setup_wizard.html#a29cc61d550f0851f92c81e6de5b22137">pocketmine\wizard\SetupWizard::DEFAULT_NAME</a>  </dt>
+<dt>Class <a class="el" href="../../d8/d89/classpocketmine_1_1item_1_1_legacy_string_to_item_parser.html">pocketmine\item\LegacyStringToItemParser</a>  </dt>
 <dd><a class="anchor" id="_deprecated000022"></a>  </dd>
-<dt>Member <a class="el" href="../../d7/dde/classpocketmine_1_1wizard_1_1_setup_wizard.html#a56f5764f3c3646e79bc25c2f0a09b033">pocketmine\wizard\SetupWizard::DEFAULT_PLAYERS</a>  </dt>
+<dt>Member <a class="el" href="../../d9/df4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_batch.html#a1aff4474bdefad2640e53cc73b7fafbb">pocketmine\network\mcpe\protocol\serializer\PacketBatch::__construct</a>  (private string $buffer)</dt>
+<dd><a class="anchor" id="_deprecated000029"></a>  </dd>
+<dt>Member <a class="el" href="../../d9/df4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_batch.html#a41aabb323ea069b3a40ee21afb438fa9">pocketmine\network\mcpe\protocol\serializer\PacketBatch::fromPackets</a>  (<a class="el" href="../../da/dc6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_serializer_context.html">PacketSerializerContext</a> $context, <a class="el" href="../../d4/d5d/interfacepocketmine_1_1network_1_1mcpe_1_1protocol_1_1_packet.html">Packet</a> ... $packets)</dt>
+<dd><a class="anchor" id="_deprecated000031"></a> Constructs a packet batch from the given list of packets.  </dd>
+<dt>Member <a class="el" href="../../d9/df4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_batch.html#ac2d1c9d9fe511a848703a0ce9beeb8d4">pocketmine\network\mcpe\protocol\serializer\PacketBatch::getBuffer</a>  ()</dt>
+<dd><a class="anchor" id="_deprecated000032"></a>  </dd>
+<dt>Member <a class="el" href="../../d9/df4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_batch.html#abd66a05e32b91426b0f316bd271da8f7">pocketmine\network\mcpe\protocol\serializer\PacketBatch::getPackets</a>  (<a class="el" href="../../d9/d97/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_packet_pool.html">PacketPool</a> $packetPool, <a class="el" href="../../da/dc6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_serializer_context.html">PacketSerializerContext</a> $decoderContext, int $max)</dt>
+<dd><a class="anchor" id="_deprecated000030"></a>  </dd>
+<dt>Member <a class="el" href="../../d5/df7/classpocketmine_1_1_server.html#a6a32d7ce2b7100d6117cd6e3cfb3b1d6">pocketmine\Server::getPlayerByPrefix</a>  (string $name)</dt>
+<dd><a class="anchor" id="_deprecated000023"></a>This method's results are unpredictable. The string "Steve" will return the player named "SteveJobs", until another player named "SteveJ" joins the server, at which point it will return that player instead. Prefer filtering the results of <code><a class="el" href="../../d5/df7/classpocketmine_1_1_server.html#ab173ee59d49782e9a9fd13a1cdc39cbf">Server::getOnlinePlayers()</a></code> yourself. </dd>
+<dt>Member <a class="el" href="../../d8/d9e/classpocketmine_1_1utils_1_1_process.html#a1ae6452e6e1b5e8ab6e135f649ba8e28">pocketmine\utils\Process::kill</a>  (int $pid, bool $subprocesses=false)</dt>
 <dd><a class="anchor" id="_deprecated000024"></a>  </dd>
+<dt>Member <a class="el" href="../../d7/dde/classpocketmine_1_1wizard_1_1_setup_wizard.html#a29cc61d550f0851f92c81e6de5b22137">pocketmine\wizard\SetupWizard::DEFAULT_NAME</a>  </dt>
+<dd><a class="anchor" id="_deprecated000025"></a>  </dd>
+<dt>Member <a class="el" href="../../d7/dde/classpocketmine_1_1wizard_1_1_setup_wizard.html#a56f5764f3c3646e79bc25c2f0a09b033">pocketmine\wizard\SetupWizard::DEFAULT_PLAYERS</a>  </dt>
+<dd><a class="anchor" id="_deprecated000027"></a>  </dd>
 <dt>Member <a class="el" href="../../d7/dde/classpocketmine_1_1wizard_1_1_setup_wizard.html#aca92aa8fd97856d4aa6bbc74fa7efccf">pocketmine\wizard\SetupWizard::DEFAULT_PORT</a>  </dt>
-<dd><a class="anchor" id="_deprecated000023"></a>  </dd>
+<dd><a class="anchor" id="_deprecated000026"></a>  </dd>
 <dt>Member <a class="el" href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html#a72b2673cda248e41ef6b73b8d50bd192">pocketmine\world\World::getChunkPlayers</a>  (int $chunkX, int $chunkZ)</dt>
-<dd><a class="anchor" id="_deprecated000025"></a>WARNING: This function has a misleading name. Contrary to what the name might imply, this function DOES NOT return players who are IN a chunk, rather, it returns players who can SEE the chunk.</dd>
+<dd><a class="anchor" id="_deprecated000028"></a>WARNING: This function has a misleading name. Contrary to what the name might imply, this function DOES NOT return players who are IN a chunk, rather, it returns players who can SEE the chunk.</dd>
 </dl>
 </div></div><!-- contents -->
 </div><!-- PageDoc -->

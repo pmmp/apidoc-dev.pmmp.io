@@ -85,11 +85,13 @@ var hierarchy =
         [ "pocketmine\\block\\BlueIce", "d8/df2/classpocketmine_1_1block_1_1_blue_ice.html", null ],
         [ "pocketmine\\block\\BoneBlock", "da/d24/classpocketmine_1_1block_1_1_bone_block.html", null ],
         [ "pocketmine\\block\\Bookshelf", "d4/dd0/classpocketmine_1_1block_1_1_bookshelf.html", null ],
+        [ "pocketmine\\block\\BuddingAmethyst", "dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html", null ],
         [ "pocketmine\\block\\CartographyTable", "d2/d0c/classpocketmine_1_1block_1_1_cartography_table.html", null ],
         [ "pocketmine\\block\\CarvedPumpkin", "d9/d07/classpocketmine_1_1block_1_1_carved_pumpkin.html", [
           [ "pocketmine\\block\\LitPumpkin", "d7/d52/classpocketmine_1_1block_1_1_lit_pumpkin.html", null ]
         ] ],
         [ "pocketmine\\block\\ChemistryTable", "dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html", null ],
+        [ "pocketmine\\block\\ChiseledBookshelf", "d4/d9c/classpocketmine_1_1block_1_1_chiseled_bookshelf.html", null ],
         [ "pocketmine\\block\\Clay", "d1/d96/classpocketmine_1_1block_1_1_clay.html", null ],
         [ "pocketmine\\block\\Coal", "dc/d4c/classpocketmine_1_1block_1_1_coal.html", null ],
         [ "pocketmine\\block\\CoalOre", "d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html", null ],
@@ -159,6 +161,7 @@ var hierarchy =
         [ "pocketmine\\block\\Wool", "da/d71/classpocketmine_1_1block_1_1_wool.html", null ]
       ] ],
       [ "pocketmine\\block\\Transparent", "d5/d1b/classpocketmine_1_1block_1_1_transparent.html", [
+        [ "pocketmine\\block\\AmethystCluster", "d7/dd3/classpocketmine_1_1block_1_1_amethyst_cluster.html", null ],
         [ "pocketmine\\block\\Anvil", "df/d58/classpocketmine_1_1block_1_1_anvil.html", null ],
         [ "pocketmine\\block\\Bamboo", "d1/dae/classpocketmine_1_1block_1_1_bamboo.html", null ],
         [ "pocketmine\\block\\BaseBanner", "dc/db5/classpocketmine_1_1block_1_1_base_banner.html", [
@@ -252,6 +255,7 @@ var hierarchy =
           ] ],
           [ "pocketmine\\block\\DeadBush", "dc/dbe/classpocketmine_1_1block_1_1_dead_bush.html", null ],
           [ "pocketmine\\block\\DoublePlant", "dd/d6a/classpocketmine_1_1block_1_1_double_plant.html", [
+            [ "pocketmine\\block\\DoublePitcherCrop", "da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html", null ],
             [ "pocketmine\\block\\DoubleTallGrass", "dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html", null ]
           ] ],
           [ "pocketmine\\block\\EndRod", "d6/dbb/classpocketmine_1_1block_1_1_end_rod.html", null ],
@@ -262,9 +266,11 @@ var hierarchy =
           [ "pocketmine\\block\\Lever", "d4/d31/classpocketmine_1_1block_1_1_lever.html", null ],
           [ "pocketmine\\block\\Light", "de/d0f/classpocketmine_1_1block_1_1_light.html", null ],
           [ "pocketmine\\block\\MobHead", "d5/d56/classpocketmine_1_1block_1_1_mob_head.html", null ],
+          [ "pocketmine\\block\\NetherRoots", "dd/d53/classpocketmine_1_1block_1_1_nether_roots.html", null ],
           [ "pocketmine\\block\\NetherVines", "d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html", null ],
           [ "pocketmine\\block\\NetherWartPlant", "d8/d43/classpocketmine_1_1block_1_1_nether_wart_plant.html", null ],
           [ "pocketmine\\block\\PinkPetals", "db/dc0/classpocketmine_1_1block_1_1_pink_petals.html", null ],
+          [ "pocketmine\\block\\PitcherCrop", "da/d04/classpocketmine_1_1block_1_1_pitcher_crop.html", null ],
           [ "pocketmine\\block\\RedMushroom", "d1/d03/classpocketmine_1_1block_1_1_red_mushroom.html", [
             [ "pocketmine\\block\\BrownMushroom", "df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html", null ]
           ] ],
@@ -281,6 +287,7 @@ var hierarchy =
             [ "pocketmine\\block\\RedstoneTorch", "d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html", null ],
             [ "pocketmine\\block\\UnderwaterTorch", "da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html", null ]
           ] ],
+          [ "pocketmine\\block\\TorchflowerCrop", "de/d91/classpocketmine_1_1block_1_1_torchflower_crop.html", null ],
           [ "pocketmine\\block\\Tripwire", "d5/d77/classpocketmine_1_1block_1_1_tripwire.html", null ],
           [ "pocketmine\\block\\TripwireHook", "da/df6/classpocketmine_1_1block_1_1_tripwire_hook.html", null ],
           [ "pocketmine\\block\\Vine", "d1/de5/classpocketmine_1_1block_1_1_vine.html", null ],
@@ -1050,6 +1057,7 @@ var hierarchy =
         [ "pocketmine\\block\\tile\\Barrel", "d4/dcc/classpocketmine_1_1block_1_1tile_1_1_barrel.html", null ],
         [ "pocketmine\\block\\tile\\BrewingStand", "d3/d41/classpocketmine_1_1block_1_1tile_1_1_brewing_stand.html", null ],
         [ "pocketmine\\block\\tile\\Chest", "d9/d64/classpocketmine_1_1block_1_1tile_1_1_chest.html", null ],
+        [ "pocketmine\\block\\tile\\ChiseledBookshelf", "d5/ddf/classpocketmine_1_1block_1_1tile_1_1_chiseled_bookshelf.html", null ],
         [ "pocketmine\\block\\tile\\Furnace", "db/d1f/classpocketmine_1_1block_1_1tile_1_1_furnace.html", [
           [ "pocketmine\\block\\tile\\BlastFurnace", "dc/dd8/classpocketmine_1_1block_1_1tile_1_1_blast_furnace.html", null ],
           [ "pocketmine\\block\\tile\\NormalFurnace", "df/d73/classpocketmine_1_1block_1_1tile_1_1_normal_furnace.html", null ],
@@ -1210,6 +1218,7 @@ var hierarchy =
         [ "pocketmine\\item\\Spyglass", "d5/da3/classpocketmine_1_1item_1_1_spyglass.html", null ],
         [ "pocketmine\\item\\Stick", "db/db5/classpocketmine_1_1item_1_1_stick.html", null ],
         [ "pocketmine\\item\\StringItem", "df/db6/classpocketmine_1_1item_1_1_string_item.html", null ],
+        [ "pocketmine\\item\\TorchflowerSeeds", "d6/d92/classpocketmine_1_1item_1_1_torchflower_seeds.html", null ],
         [ "pocketmine\\item\\Totem", "d2/d09/classpocketmine_1_1item_1_1_totem.html", null ],
         [ "pocketmine\\item\\WheatSeeds", "d4/d0e/classpocketmine_1_1item_1_1_wheat_seeds.html", null ],
         [ "pocketmine\\item\\WritableBookBase", "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html", [
@@ -2256,6 +2265,7 @@ var hierarchy =
     [ "pocketmine\\utils\\TextFormat", "dd/db5/classpocketmine_1_1utils_1_1_text_format.html", null ],
     [ "pocketmine\\world\\generator\\ThreadLocalGeneratorContext", "d0/d9d/classpocketmine_1_1world_1_1generator_1_1_thread_local_generator_context.html", null ],
     [ "pocketmine\\block\\tile\\Tile", "d9/d74/classpocketmine_1_1block_1_1tile_1_1_tile.html", [
+      [ "pocketmine\\block\\tile\\ChiseledBookshelf", "d5/ddf/classpocketmine_1_1block_1_1tile_1_1_chiseled_bookshelf.html", null ],
       [ "pocketmine\\block\\tile\\Comparator", "df/de7/classpocketmine_1_1block_1_1tile_1_1_comparator.html", null ],
       [ "pocketmine\\block\\tile\\DaylightSensor", "de/df4/classpocketmine_1_1block_1_1tile_1_1_daylight_sensor.html", null ],
       [ "pocketmine\\block\\tile\\Note", "d8/dab/classpocketmine_1_1block_1_1tile_1_1_note.html", null ],

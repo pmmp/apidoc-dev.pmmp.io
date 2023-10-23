@@ -151,13 +151,14 @@ var searchData=
   ['bucketemptywatersound_148',['BucketEmptyWaterSound',['../de/d5e/classpocketmine_1_1world_1_1sound_1_1_bucket_empty_water_sound.html',1,'pocketmine::world::sound']]],
   ['bucketfilllavasound_149',['BucketFillLavaSound',['../d1/d7a/classpocketmine_1_1world_1_1sound_1_1_bucket_fill_lava_sound.html',1,'pocketmine::world::sound']]],
   ['bucketfillwatersound_150',['BucketFillWaterSound',['../d7/dfe/classpocketmine_1_1world_1_1sound_1_1_bucket_fill_water_sound.html',1,'pocketmine::world::sound']]],
-  ['bufferedlogger_151',['BufferedLogger',['../d3/d4b/interface_buffered_logger.html',1,'']]],
-  ['builtintypes_152',['BuiltInTypes',['../de/d3c/class_dave_random_1_1_callback_validator_1_1_built_in_types.html',1,'DaveRandom::CallbackValidator']]],
-  ['bulkcurltask_153',['BulkCurlTask',['../df/d18/classpocketmine_1_1scheduler_1_1_bulk_curl_task.html',1,'pocketmine::scheduler']]],
-  ['bulkcurltaskoperation_154',['BulkCurlTaskOperation',['../dc/ded/classpocketmine_1_1scheduler_1_1_bulk_curl_task_operation.html',1,'pocketmine::scheduler']]],
-  ['burpsound_155',['BurpSound',['../d3/d67/classpocketmine_1_1world_1_1sound_1_1_burp_sound.html',1,'pocketmine::world::sound']]],
-  ['button_156',['Button',['../d2/da2/classpocketmine_1_1block_1_1_button.html',1,'pocketmine::block']]],
-  ['bytearraytag_157',['ByteArrayTag',['../dd/dec/classpocketmine_1_1nbt_1_1tag_1_1_byte_array_tag.html',1,'pocketmine::nbt::tag']]],
-  ['bytemetadataproperty_158',['ByteMetadataProperty',['../d5/dc6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_byte_metadata_property.html',1,'pocketmine::network::mcpe::protocol::types::entity']]],
-  ['bytetag_159',['ByteTag',['../d1/d0a/classpocketmine_1_1nbt_1_1tag_1_1_byte_tag.html',1,'pocketmine::nbt::tag']]]
+  ['buddingamethyst_151',['BuddingAmethyst',['../dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html',1,'pocketmine::block']]],
+  ['bufferedlogger_152',['BufferedLogger',['../d3/d4b/interface_buffered_logger.html',1,'']]],
+  ['builtintypes_153',['BuiltInTypes',['../de/d3c/class_dave_random_1_1_callback_validator_1_1_built_in_types.html',1,'DaveRandom::CallbackValidator']]],
+  ['bulkcurltask_154',['BulkCurlTask',['../df/d18/classpocketmine_1_1scheduler_1_1_bulk_curl_task.html',1,'pocketmine::scheduler']]],
+  ['bulkcurltaskoperation_155',['BulkCurlTaskOperation',['../dc/ded/classpocketmine_1_1scheduler_1_1_bulk_curl_task_operation.html',1,'pocketmine::scheduler']]],
+  ['burpsound_156',['BurpSound',['../d3/d67/classpocketmine_1_1world_1_1sound_1_1_burp_sound.html',1,'pocketmine::world::sound']]],
+  ['button_157',['Button',['../d2/da2/classpocketmine_1_1block_1_1_button.html',1,'pocketmine::block']]],
+  ['bytearraytag_158',['ByteArrayTag',['../dd/dec/classpocketmine_1_1nbt_1_1tag_1_1_byte_array_tag.html',1,'pocketmine::nbt::tag']]],
+  ['bytemetadataproperty_159',['ByteMetadataProperty',['../d5/dc6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_byte_metadata_property.html',1,'pocketmine::network::mcpe::protocol::types::entity']]],
+  ['bytetag_160',['ByteTag',['../d1/d0a/classpocketmine_1_1nbt_1_1tag_1_1_byte_tag.html',1,'pocketmine::nbt::tag']]]
 ];

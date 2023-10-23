@@ -125,6 +125,7 @@ var namespacepocketmine_1_1item =
     [ "Sword", "d6/d74/classpocketmine_1_1item_1_1_sword.html", "d6/d74/classpocketmine_1_1item_1_1_sword" ],
     [ "TieredTool", "de/dee/classpocketmine_1_1item_1_1_tiered_tool.html", "de/dee/classpocketmine_1_1item_1_1_tiered_tool" ],
     [ "Tool", "da/de7/classpocketmine_1_1item_1_1_tool.html", "da/de7/classpocketmine_1_1item_1_1_tool" ],
+    [ "TorchflowerSeeds", "d6/d92/classpocketmine_1_1item_1_1_torchflower_seeds.html", "d6/d92/classpocketmine_1_1item_1_1_torchflower_seeds" ],
     [ "Totem", "d2/d09/classpocketmine_1_1item_1_1_totem.html", "d2/d09/classpocketmine_1_1item_1_1_totem" ],
     [ "TurtleHelmet", "d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html", "d8/d87/classpocketmine_1_1item_1_1_turtle_helmet" ],
     [ "VanillaArmorMaterials", "d2/d63/classpocketmine_1_1item_1_1_vanilla_armor_materials.html", "d2/d63/classpocketmine_1_1item_1_1_vanilla_armor_materials" ],
