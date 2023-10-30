@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.6.1 git-e32a90be729e5296752ce9dbf247744711f5ce2f</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.7.1 git-15aae721cdfa4fe90a5907cf15932884b5a6b55f</span>
    </div>
   </td>
  </tr>
@@ -1137,7 +1137,7 @@ $(document).ready(function(){initNavTree('d9/d76/_player_8php_source.html','../.
 <div class="line"><a id="l01224" name="l01224"></a><span class="lineno"> 1224</span>    }</div>
 <div class="line"><a id="l01225" name="l01225"></a><span class="lineno"> 1225</span> </div>
 <div class="line"><a id="l01226" name="l01226"></a><span class="lineno"> 1226</span>    <span class="keyword">protected</span> <span class="keyword">function</span> checkGroundState(<span class="keywordtype">float</span> $wantedX, <span class="keywordtype">float</span> $wantedY, <span class="keywordtype">float</span> $wantedZ, <span class="keywordtype">float</span> $dx, <span class="keywordtype">float</span> $dy, <span class="keywordtype">float</span> $dz) : void{</div>
-<div class="line"><a id="l01227" name="l01227"></a><span class="lineno"> 1227</span>        if($this-&gt;isSpectator()){</div>
+<div class="line"><a id="l01227" name="l01227"></a><span class="lineno"> 1227</span>        if($this-&gt;gamemode === GameMode::SPECTATOR){</div>
 <div class="line"><a id="l01228" name="l01228"></a><span class="lineno"> 1228</span>            $this-&gt;onGround = <span class="keyword">false</span>;</div>
 <div class="line"><a id="l01229" name="l01229"></a><span class="lineno"> 1229</span>        }<span class="keywordflow">else</span>{</div>
 <div class="line"><a id="l01230" name="l01230"></a><span class="lineno"> 1230</span>            $bb = clone $this-&gt;boundingBox;</div>

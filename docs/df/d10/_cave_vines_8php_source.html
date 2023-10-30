@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.6.1 git-e32a90be729e5296752ce9dbf247744711f5ce2f</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.7.1 git-15aae721cdfa4fe90a5907cf15932884b5a6b55f</span>
    </div>
   </td>
  </tr>
@@ -143,7 +143,7 @@ $(document).ready(function(){initNavTree('df/d10/_cave_vines_8php_source.html','
 <div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>    <span class="keyword">protected</span> <span class="keywordtype">bool</span> $head = <span class="keyword">false</span>;</div>
 <div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span> </div>
 <div class="line"><a id="l00051" name="l00051"></a><span class="lineno"><a class="line" href="../../dc/d11/classpocketmine_1_1block_1_1_cave_vines.html#a235c9f45058a247a0a1b0d4b394e6932">   51</a></span>    <span class="keyword">protected</span> <span class="keyword">function</span> <a class="code hl_function" href="../../dc/d11/classpocketmine_1_1block_1_1_cave_vines.html#a235c9f45058a247a0a1b0d4b394e6932">describeBlockOnlyState</a>(<a class="code hl_interface" href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html">RuntimeDataDescriber</a> $w) : void{</div>
-<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>        $w-&gt;boundedInt(5, 0, self::MAX_AGE, $this-&gt;age);</div>
+<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>        $w-&gt;boundedIntAuto(0, self::MAX_AGE, $this-&gt;age);</div>
 <div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>        $w-&gt;bool($this-&gt;berries);</div>
 <div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>        $w-&gt;bool($this-&gt;head);</div>
 <div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>    }</div>
@@ -254,9 +254,9 @@ $(document).ready(function(){initNavTree('df/d10/_cave_vines_8php_source.html','
 <div class="line"><a id="l00162" name="l00162"></a><span class="lineno">  162</span>        return SupportType::NONE;</div>
 <div class="line"><a id="l00163" name="l00163"></a><span class="lineno">  163</span>    }</div>
 <div class="line"><a id="l00164" name="l00164"></a><span class="lineno">  164</span>}</div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html">pocketmine\block\Block</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00061">Block.php:61</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html_a2f69b17d8bb1c49eaf8ee1b13e4fd6e2"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#a2f69b17d8bb1c49eaf8ee1b13e4fd6e2">pocketmine\block\Block\getSupportType</a></div><div class="ttdeci">getSupportType(int $facing)</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00879">Block.php:879</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html_a994b80e9138156e5b90a803def57c7db"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#a994b80e9138156e5b90a803def57c7db">pocketmine\block\Block\getTypeId</a></div><div class="ttdeci">getTypeId()</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00133">Block.php:133</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html">pocketmine\block\Block</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00062">Block.php:62</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html_a2f69b17d8bb1c49eaf8ee1b13e4fd6e2"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#a2f69b17d8bb1c49eaf8ee1b13e4fd6e2">pocketmine\block\Block\getSupportType</a></div><div class="ttdeci">getSupportType(int $facing)</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00918">Block.php:918</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html_a994b80e9138156e5b90a803def57c7db"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#a994b80e9138156e5b90a803def57c7db">pocketmine\block\Block\getTypeId</a></div><div class="ttdeci">getTypeId()</div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00156">Block.php:156</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_cave_vines_html"><div class="ttname"><a href="../../dc/d11/classpocketmine_1_1block_1_1_cave_vines.html">pocketmine\block\CaveVines</a></div><div class="ttdef"><b>Definition:</b> <a href="../../df/d10/_cave_vines_8php_source.html#l00042">CaveVines.php:42</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_cave_vines_html_a0976b842355ea6322f0aca246cfe2c72"><div class="ttname"><a href="../../dc/d11/classpocketmine_1_1block_1_1_cave_vines.html#a0976b842355ea6322f0aca246cfe2c72">pocketmine\block\CaveVines\ticksRandomly</a></div><div class="ttdeci">ticksRandomly()</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d10/_cave_vines_8php_source.html#l00132">CaveVines.php:132</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_cave_vines_html_a09e888bdb0511c7b4dfb1810f0155c80"><div class="ttname"><a href="../../dc/d11/classpocketmine_1_1block_1_1_cave_vines.html#a09e888bdb0511c7b4dfb1810f0155c80">pocketmine\block\CaveVines\getSupportType</a></div><div class="ttdeci">getSupportType(int $facing)</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d10/_cave_vines_8php_source.html#l00161">CaveVines.php:161</a></div></div>

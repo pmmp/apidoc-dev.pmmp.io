@@ -220,24 +220,26 @@
 <g id="node7" class="node">
 <title>Node7</title>
 <g id="a_node7"><a xlink:href="../../d5/ddf/classpocketmine_1_1block_1_1tile_1_1_chiseled_bookshelf.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="492,-281.5 492,-393.5 614,-393.5 614,-281.5 492,-281.5"/>
-<text text-anchor="start" x="500" y="-381.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\tile</text>
-<text text-anchor="middle" x="553" y="-370.5" font-family="Helvetica,sans-Serif" font-size="10.00">\ChiseledBookshelf</text>
-<polyline fill="none" stroke="#bfbfbf" points="492,-363.5 614,-363.5 "/>
-<text text-anchor="middle" x="553" y="-351.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="492,-344.5 614,-344.5 "/>
-<text text-anchor="start" x="500" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
-<text text-anchor="start" x="500" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getInventory()</text>
-<text text-anchor="start" x="500" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRealInventory()</text>
-<text text-anchor="start" x="500" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ readSaveData()</text>
-<text text-anchor="start" x="500" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ writeSaveData()</text>
+<polygon fill="white" stroke="#bfbfbf" points="492,-270.5 492,-404.5 614,-404.5 614,-270.5 492,-270.5"/>
+<text text-anchor="start" x="500" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\tile</text>
+<text text-anchor="middle" x="553" y="-381.5" font-family="Helvetica,sans-Serif" font-size="10.00">\ChiseledBookshelf</text>
+<polyline fill="none" stroke="#bfbfbf" points="492,-374.5 614,-374.5 "/>
+<text text-anchor="middle" x="553" y="-362.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="492,-355.5 614,-355.5 "/>
+<text text-anchor="start" x="500" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __construct()</text>
+<text text-anchor="start" x="500" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getInventory()</text>
+<text text-anchor="start" x="500" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRealInventory()</text>
+<text text-anchor="start" x="500" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ readSaveData()</text>
+<text text-anchor="start" x="500" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ writeSaveData()</text>
+<text text-anchor="start" x="500" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00"># loadItems()</text>
+<text text-anchor="start" x="500" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00"># saveItems()</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node7 -->
 <g id="edge6" class="edge">
 <title>Node3&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M614.46,-728.33C601.04,-643.24 575.17,-479.15 561.68,-393.53"/>
+<path fill="none" stroke="midnightblue" d="M614.45,-728.25C601.59,-646.71 577.32,-492.75 563.44,-404.71"/>
 <polygon fill="none" stroke="midnightblue" points="611.02,-728.97 616.03,-738.3 617.93,-727.88 611.02,-728.97"/>
 </g>
 <!-- Node8 -->

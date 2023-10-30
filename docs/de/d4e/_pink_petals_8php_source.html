@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.6.1 git-e32a90be729e5296752ce9dbf247744711f5ce2f</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.7.1 git-15aae721cdfa4fe90a5907cf15932884b5a6b55f</span>
    </div>
   </td>
  </tr>
@@ -141,7 +141,7 @@ $(document).ready(function(){initNavTree('de/d4e/_pink_petals_8php_source.html',
 <div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span> </div>
 <div class="line"><a id="l00048" name="l00048"></a><span class="lineno"><a class="line" href="../../db/dc0/classpocketmine_1_1block_1_1_pink_petals.html#a2bd8184df5d5eb5b5747068964795088">   48</a></span>    <span class="keyword">protected</span> <span class="keyword">function</span> <a class="code hl_function" href="../../db/dc0/classpocketmine_1_1block_1_1_pink_petals.html#a2bd8184df5d5eb5b5747068964795088">describeBlockOnlyState</a>(<a class="code hl_interface" href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html">RuntimeDataDescriber</a> $w) : void{</div>
 <div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>        $w-&gt;horizontalFacing($this-&gt;facing);</div>
-<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>        $w-&gt;boundedInt(2, self::MIN_COUNT, self::MAX_COUNT, $this-&gt;count);</div>
+<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>        $w-&gt;<a class="code hl_function" href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html#a58ec2633f4941db922b2379f8d6a3379">boundedIntAuto</a>(self::MIN_COUNT, self::MAX_COUNT, $this-&gt;count);</div>
 <div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>    }</div>
 <div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span> </div>
 <div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>    <span class="keyword">public</span> <span class="keyword">function</span> getCount() : int{</div>
@@ -205,7 +205,7 @@ $(document).ready(function(){initNavTree('de/d4e/_pink_petals_8php_source.html',
 <div class="line"><a id="l00112" name="l00112"></a><span class="lineno">  112</span>        return [$this-&gt;asItem()-&gt;setCount($this-&gt;count)];</div>
 <div class="line"><a id="l00113" name="l00113"></a><span class="lineno">  113</span>    }</div>
 <div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span>}</div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html">pocketmine\block\Block</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00061">Block.php:61</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html">pocketmine\block\Block</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d89/_block_8php_source.html#l00062">Block.php:62</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_flowable_html"><div class="ttname"><a href="../../d3/d1e/classpocketmine_1_1block_1_1_flowable.html">pocketmine\block\Flowable</a></div><div class="ttdef"><b>Definition:</b> <a href="../../da/d33/_flowable_8php_source.html#l00033">Flowable.php:33</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_pink_petals_html"><div class="ttname"><a href="../../db/dc0/classpocketmine_1_1block_1_1_pink_petals.html">pocketmine\block\PinkPetals</a></div><div class="ttdef"><b>Definition:</b> <a href="../../de/d4e/_pink_petals_8php_source.html#l00037">PinkPetals.php:37</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_pink_petals_html_a0f062eb1cf1600dc9996fa37ab72d103"><div class="ttname"><a href="../../db/dc0/classpocketmine_1_1block_1_1_pink_petals.html#a0f062eb1cf1600dc9996fa37ab72d103">pocketmine\block\PinkPetals\setCount</a></div><div class="ttdeci">setCount(int $count)</div><div class="ttdef"><b>Definition:</b> <a href="../../de/d4e/_pink_petals_8php_source.html#l00058">PinkPetals.php:58</a></div></div>
@@ -225,6 +225,7 @@ $(document).ready(function(){initNavTree('de/d4e/_pink_petals_8php_source.html',
 <div class="ttc" id="aclasspocketmine_1_1player_1_1_player_html"><div class="ttname"><a href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html">pocketmine\player\Player</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d76/_player_8php_source.html#l00169">Player.php:169</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1_block_transaction_html"><div class="ttname"><a href="../../d4/d3e/classpocketmine_1_1world_1_1_block_transaction.html">pocketmine\world\BlockTransaction</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d1f/_block_transaction_8php_source.html#l00030">BlockTransaction.php:30</a></div></div>
 <div class="ttc" id="ainterfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer_html"><div class="ttname"><a href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html">pocketmine\data\runtime\RuntimeDataDescriber</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d3f/_runtime_data_describer_8php_source.html#l00038">RuntimeDataDescriber.php:38</a></div></div>
+<div class="ttc" id="ainterfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer_html_a58ec2633f4941db922b2379f8d6a3379"><div class="ttname"><a href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html#a58ec2633f4941db922b2379f8d6a3379">pocketmine\data\runtime\RuntimeDataDescriber\boundedIntAuto</a></div><div class="ttdeci">boundedIntAuto(int $min, int $max, int &amp;$value)</div></div>
 <div class="ttc" id="anamespacepocketmine_1_1block_html"><div class="ttname"><a href="../../d0/dc3/namespacepocketmine_1_1block.html">pocketmine\block</a></div><div class="ttdef"><b>Definition:</b> <a href="../../d2/de9/_activator_rail_8php_source.html#l00024">ActivatorRail.php:24</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->

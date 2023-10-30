@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.6.1 git-e32a90be729e5296752ce9dbf247744711f5ce2f</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.7.1 git-15aae721cdfa4fe90a5907cf15932884b5a6b55f</span>
    </div>
   </td>
  </tr>
@@ -136,7 +136,7 @@ $(document).ready(function(){initNavTree('d0/d93/_daylight_sensor_8php_source.ht
 <div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>    <span class="keyword">protected</span> <span class="keywordtype">bool</span> $inverted = <span class="keyword">false</span>;</div>
 <div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span> </div>
 <div class="line"><a id="l00044" name="l00044"></a><span class="lineno"><a class="line" href="../../d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#aaa24275efa17e66109a4859cf94fb28f">   44</a></span>    <span class="keyword">protected</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#aaa24275efa17e66109a4859cf94fb28f">describeBlockOnlyState</a>(<a class="code hl_interface" href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html">RuntimeDataDescriber</a> $w) : void{</div>
-<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>        $w-&gt;boundedInt(4, 0, 15, $this-&gt;signalStrength);</div>
+<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>        $w-&gt;boundedIntAuto(0, 15, $this-&gt;signalStrength);</div>
 <div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>        $w-&gt;bool($this-&gt;inverted);</div>
 <div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>    }</div>
 <div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span> </div>
