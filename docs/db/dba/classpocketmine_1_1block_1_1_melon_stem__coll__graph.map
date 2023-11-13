@@ -1,6 +1,6 @@
 <map id="pocketmine\block\MelonStem" name="pocketmine\block\MelonStem">
-<area shape="rect" id="node1" title=" " alt="" coords="11,2768,226,2860"/>
-<area shape="rect" id="node2" href="$dc/d0c/classpocketmine_1_1block_1_1_stem.html" title=" " alt="" coords="5,2553,232,2719"/>
+<area shape="rect" id="node1" title=" " alt="" coords="11,2783,226,2875"/>
+<area shape="rect" id="node2" href="$dc/d0c/classpocketmine_1_1block_1_1_stem.html" title=" " alt="" coords="5,2553,232,2733"/>
 <area shape="rect" id="node3" href="$d2/d70/classpocketmine_1_1block_1_1_crops.html" title=" " alt="" coords="29,2397,208,2504"/>
 <area shape="rect" id="node4" href="$d3/d1e/classpocketmine_1_1block_1_1_flowable.html" title=" " alt="" coords="133,2227,347,2348"/>
 <area shape="rect" id="node5" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="158,2100,375,2177"/>

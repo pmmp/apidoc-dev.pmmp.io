@@ -63,6 +63,6 @@ var classpocketmine_1_1block_1_1_melon_stem =
     [ "readStateFromWorld", "db/d86/classpocketmine_1_1block_1_1_melon_stem.html#a3a46169e7d256b3a1f3af8c54ddba832", null ],
     [ "recalculateCollisionBoxes", "db/d86/classpocketmine_1_1block_1_1_melon_stem.html#a097af4a935135a8524d812f497373075", null ],
     [ "setFacing", "db/d86/classpocketmine_1_1block_1_1_melon_stem.html#a00b17b6ab2ea033f777b0819343c5498", null ],
-    [ "ticksRandomly", "db/d86/classpocketmine_1_1block_1_1_melon_stem.html#a2175d7c31f1159374dd4dd359a117dbb", null ],
+    [ "ticksRandomly", "db/d86/classpocketmine_1_1block_1_1_melon_stem.html#aeb1cdfcdae26314901d4093f2cdd100b", null ],
     [ "writeStateToWorld", "db/d86/classpocketmine_1_1block_1_1_melon_stem.html#a9404d9040389f3ff2462f86d9a181160", null ]
 ];

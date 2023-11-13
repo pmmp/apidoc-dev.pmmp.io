@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['high_0',['HIGH',['../d6/d55/classpocketmine_1_1event_1_1_event_priority.html#a78ef27ffe0fdc8a42f4d6ef96fc0cb7f',1,'pocketmine::event::EventPriority']]],
-  ['highest_1',['HIGHEST',['../d6/d55/classpocketmine_1_1event_1_1_event_priority.html#ad711eaa874363f6ada16a03553393e8f',1,'pocketmine::event::EventPriority']]]
+  ['enable_5fansi_0',['ENABLE_ANSI',['../d7/dbe/classpocketmine_1_1_bootstrap_options.html#a8ff03d51067767a3e4b89e18a9701140',1,'pocketmine::BootstrapOptions']]]
 ];

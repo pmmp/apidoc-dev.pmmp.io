@@ -413,6 +413,7 @@ var hierarchy =
     [ "pocketmine\\block\\BlockTypeInfo", "de/d9a/classpocketmine_1_1block_1_1_block_type_info.html", null ],
     [ "pocketmine\\data\\bedrock\\block\\BlockTypeNames", "d1/ddc/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_block_type_names.html", null ],
     [ "pocketmine\\block\\BlockTypeTags", "d6/dbc/classpocketmine_1_1block_1_1_block_type_tags.html", null ],
+    [ "pocketmine\\BootstrapOptions", "d7/dbe/classpocketmine_1_1_bootstrap_options.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\BossBarColor", "d1/ded/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_boss_bar_color.html", null ],
     [ "pocketmine\\crafting\\BrewingRecipe", "d9/d63/interfacepocketmine_1_1crafting_1_1_brewing_recipe.html", [
       [ "pocketmine\\crafting\\PotionContainerChangeRecipe", "d1/d65/classpocketmine_1_1crafting_1_1_potion_container_change_recipe.html", null ],
@@ -708,6 +709,7 @@ var hierarchy =
     [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\CreativeContentEntry", "d8/d72/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_creative_content_entry.html", null ],
     [ "pocketmine\\inventory\\CreativeInventory", "d3/d3e/classpocketmine_1_1inventory_1_1_creative_inventory.html", null ],
     [ "pocketmine\\network\\mcpe\\cache\\CreativeInventoryCache", "dc/df6/classpocketmine_1_1network_1_1mcpe_1_1cache_1_1_creative_inventory_cache.html", null ],
+    [ "pocketmine\\block\\utils\\CropGrowthHelper", "da/d21/classpocketmine_1_1block_1_1utils_1_1_crop_growth_helper.html", null ],
     [ "pocketmine\\permission\\DefaultPermissionNames", "da/dca/classpocketmine_1_1permission_1_1_default_permission_names.html", null ],
     [ "pocketmine\\permission\\DefaultPermissions", "d3/dc9/classpocketmine_1_1permission_1_1_default_permissions.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\DeviceOS", "df/da5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_device_o_s.html", null ],
