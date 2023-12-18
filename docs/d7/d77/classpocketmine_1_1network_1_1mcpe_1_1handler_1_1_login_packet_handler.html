@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.8.2 git-9d75c45bf58fd564e4c85cb216e0a18e73c07c84</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.9.1 git-4d337add7c797db8a9fecd6e99f4220fe27fda69</span>
    </div>
   </td>
  </tr>
@@ -261,9 +261,6 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a4d1046dc90c8ccdd4f717a521ab35614"><td class="memItemLeft" align="right" valign="top"><a id="a4d1046dc90c8ccdd4f717a521ab35614" name="a4d1046dc90c8ccdd4f717a521ab35614"></a>
 &#160;</td><td class="memItemRight" valign="bottom"><b>handleCraftingData</b> (CraftingDataPacket $packet)</td></tr>
 <tr class="separator:a4d1046dc90c8ccdd4f717a521ab35614"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a94eea32285f58726735c14ef4e219043"><td class="memItemLeft" align="right" valign="top"><a id="a94eea32285f58726735c14ef4e219043" name="a94eea32285f58726735c14ef4e219043"></a>
-&#160;</td><td class="memItemRight" valign="bottom"><b>handleCraftingEvent</b> (<a class="el" href="../../d4/d3e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_crafting_event_packet.html">CraftingEventPacket</a> $packet)</td></tr>
-<tr class="separator:a94eea32285f58726735c14ef4e219043"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0f4aab0ec660677a3994e6f19a09f516"><td class="memItemLeft" align="right" valign="top"><a id="a0f4aab0ec660677a3994e6f19a09f516" name="a0f4aab0ec660677a3994e6f19a09f516"></a>
 &#160;</td><td class="memItemRight" valign="bottom"><b>handleCreatePhoto</b> (CreatePhotoPacket $packet)</td></tr>
 <tr class="separator:a0f4aab0ec660677a3994e6f19a09f516"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -470,6 +467,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a954445965395a0aa357aeef0fce20c1b"><td class="memItemLeft" align="right" valign="top"><a id="a954445965395a0aa357aeef0fce20c1b" name="a954445965395a0aa357aeef0fce20c1b"></a>
 &#160;</td><td class="memItemRight" valign="bottom"><b>handlePlayerStartItemCooldown</b> (PlayerStartItemCooldownPacket $packet)</td></tr>
 <tr class="separator:a954445965395a0aa357aeef0fce20c1b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a13aa85d7a0ebdb1b9163f58d18f8fe3b"><td class="memItemLeft" align="right" valign="top"><a id="a13aa85d7a0ebdb1b9163f58d18f8fe3b" name="a13aa85d7a0ebdb1b9163f58d18f8fe3b"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><b>handlePlayerToggleCrafterSlotRequest</b> (PlayerToggleCrafterSlotRequestPacket $packet)</td></tr>
+<tr class="separator:a13aa85d7a0ebdb1b9163f58d18f8fe3b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0432c9edd3737e8376918f5fcd9b7cbb"><td class="memItemLeft" align="right" valign="top"><a id="a0432c9edd3737e8376918f5fcd9b7cbb" name="a0432c9edd3737e8376918f5fcd9b7cbb"></a>
 &#160;</td><td class="memItemRight" valign="bottom"><b>handlePlaySound</b> (PlaySoundPacket $packet)</td></tr>
 <tr class="separator:a0432c9edd3737e8376918f5fcd9b7cbb"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -581,6 +581,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a0780a319705f22a5f5a4cbf4a3078e0a"><td class="memItemLeft" align="right" valign="top"><a id="a0780a319705f22a5f5a4cbf4a3078e0a" name="a0780a319705f22a5f5a4cbf4a3078e0a"></a>
 &#160;</td><td class="memItemRight" valign="bottom"><b>handleSetPlayerGameType</b> (<a class="el" href="../../d5/da1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_player_game_type_packet.html">SetPlayerGameTypePacket</a> $packet)</td></tr>
 <tr class="separator:a0780a319705f22a5f5a4cbf4a3078e0a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2da09e2174173fef1d749fac65b0cfb2"><td class="memItemLeft" align="right" valign="top"><a id="a2da09e2174173fef1d749fac65b0cfb2" name="a2da09e2174173fef1d749fac65b0cfb2"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><b>handleSetPlayerInventoryOptions</b> (SetPlayerInventoryOptionsPacket $packet)</td></tr>
+<tr class="separator:a2da09e2174173fef1d749fac65b0cfb2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1ed6a21514c49859c26590ccaaf1df61"><td class="memItemLeft" align="right" valign="top"><a id="a1ed6a21514c49859c26590ccaaf1df61" name="a1ed6a21514c49859c26590ccaaf1df61"></a>
 &#160;</td><td class="memItemRight" valign="bottom"><b>handleSetScore</b> (SetScorePacket $packet)</td></tr>
 <tr class="separator:a1ed6a21514c49859c26590ccaaf1df61"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -795,7 +798,7 @@ Protected Member Functions</h2></td></tr>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="../../d9/d07/_login_packet_handler_8php_source.html#l00148">148</a> of file <a class="el" href="../../d9/d07/_login_packet_handler_8php_source.html">LoginPacketHandler.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d9/d07/_login_packet_handler_8php_source.html#l00150">150</a> of file <a class="el" href="../../d9/d07/_login_packet_handler_8php_source.html">LoginPacketHandler.php</a>.</p>
 
 <p class="reference">References <a class="el" href="../../d8/dfb/_jwt_utils_8php_source.html#l00090">pocketmine\network\mcpe\JwtUtils\parse()</a>.</p>
 <div id="dynsection-2" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
@@ -861,7 +864,7 @@ Protected Member Functions</h2></td></tr>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="../../d9/d07/_login_packet_handler_8php_source.html#l00187">187</a> of file <a class="el" href="../../d9/d07/_login_packet_handler_8php_source.html">LoginPacketHandler.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d9/d07/_login_packet_handler_8php_source.html#l00189">189</a> of file <a class="el" href="../../d9/d07/_login_packet_handler_8php_source.html">LoginPacketHandler.php</a>.</p>
 
 </div>
 </div>
@@ -907,7 +910,7 @@ Protected Member Functions</h2></td></tr>
 </dl>
 <p>InvalidArgumentException </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d9/d07/_login_packet_handler_8php_source.html#l00212">212</a> of file <a class="el" href="../../d9/d07/_login_packet_handler_8php_source.html">LoginPacketHandler.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d9/d07/_login_packet_handler_8php_source.html#l00214">214</a> of file <a class="el" href="../../d9/d07/_login_packet_handler_8php_source.html">LoginPacketHandler.php</a>.</p>
 
 <p class="reference">References <a class="el" href="../../de/d55/_pocket_mine_8php_source.html#l00231">pocketmine\server()</a>.</p>
 <div id="dynsection-3" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">

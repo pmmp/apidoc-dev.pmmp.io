@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.8.2 git-9d75c45bf58fd564e4c85cb216e0a18e73c07c84</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.9.1 git-4d337add7c797db8a9fecd6e99f4220fe27fda69</span>
    </div>
   </td>
  </tr>
@@ -159,8 +159,8 @@ $(document).ready(function(){initNavTree('d9/d76/_base_big_dripleaf_8php_source.
 <div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>            $this-&gt;facing = <a class="code hl_function" href="../../dd/d25/classpocketmine_1_1math_1_1_facing.html#adb0c50bed6e2a948367c7c9ca6b0831d">Facing::opposite</a>($player-&gt;getHorizontalFacing());</div>
 <div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>        }</div>
 <div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>        <span class="keywordflow">if</span>($block instanceof BaseBigDripleaf){</div>
-<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>            $this-&gt;facing = $block-&gt;getFacing();</div>
-<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>            $tx-&gt;<a class="code hl_function" href="../../d4/d3e/classpocketmine_1_1world_1_1_block_transaction.html#a386195523e909ab82e791182923dc6a2">addBlock</a>($block-&gt;getPosition(), VanillaBlocks::BIG_DRIPLEAF_STEM()-&gt;setFacing($this-&gt;facing));</div>
+<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>            $this-&gt;facing = $block-&gt;facing;</div>
+<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>            $tx-&gt;<a class="code hl_function" href="../../d4/d3e/classpocketmine_1_1world_1_1_block_transaction.html#a386195523e909ab82e791182923dc6a2">addBlock</a>($block-&gt;position, VanillaBlocks::BIG_DRIPLEAF_STEM()-&gt;setFacing($this-&gt;facing));</div>
 <div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>        }</div>
 <div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>        <span class="keywordflow">return</span> parent::place($tx, $item, $blockReplace, $blockClicked, $face, $clickVector, $player);</div>
 <div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>    }</div>
@@ -192,7 +192,7 @@ $(document).ready(function(){initNavTree('d9/d76/_base_big_dripleaf_8php_source.
 <div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span>        <span class="keywordflow">if</span>($head === <span class="keyword">null</span>){</div>
 <div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><a id="l00100" name="l00100"></a><span class="lineno">  100</span>        }</div>
-<div class="line"><a id="l00101" name="l00101"></a><span class="lineno">  101</span>        $pos = $head-&gt;getPosition();</div>
+<div class="line"><a id="l00101" name="l00101"></a><span class="lineno">  101</span>        $pos = $head-&gt;position;</div>
 <div class="line"><a id="l00102" name="l00102"></a><span class="lineno">  102</span>        $up = $pos-&gt;up();</div>
 <div class="line"><a id="l00103" name="l00103"></a><span class="lineno">  103</span>        $world = $pos-&gt;getWorld();</div>
 <div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span>        <span class="keywordflow">if</span>(</div>
@@ -204,8 +204,8 @@ $(document).ready(function(){initNavTree('d9/d76/_base_big_dripleaf_8php_source.
 <div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span> </div>
 <div class="line"><a id="l00111" name="l00111"></a><span class="lineno">  111</span>        $tx = <span class="keyword">new</span> BlockTransaction($world);</div>
 <div class="line"><a id="l00112" name="l00112"></a><span class="lineno">  112</span> </div>
-<div class="line"><a id="l00113" name="l00113"></a><span class="lineno">  113</span>        $tx-&gt;<a class="code hl_function" href="../../d4/d3e/classpocketmine_1_1world_1_1_block_transaction.html#a386195523e909ab82e791182923dc6a2">addBlock</a>($pos, VanillaBlocks::BIG_DRIPLEAF_STEM()-&gt;setFacing($head-&gt;getFacing()));</div>
-<div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span>        $tx-&gt;<a class="code hl_function" href="../../d4/d3e/classpocketmine_1_1world_1_1_block_transaction.html#a386195523e909ab82e791182923dc6a2">addBlock</a>($up, VanillaBlocks::BIG_DRIPLEAF_HEAD()-&gt;setFacing($head-&gt;getFacing()));</div>
+<div class="line"><a id="l00113" name="l00113"></a><span class="lineno">  113</span>        $tx-&gt;<a class="code hl_function" href="../../d4/d3e/classpocketmine_1_1world_1_1_block_transaction.html#a386195523e909ab82e791182923dc6a2">addBlock</a>($pos, VanillaBlocks::BIG_DRIPLEAF_STEM()-&gt;setFacing($head-&gt;facing));</div>
+<div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span>        $tx-&gt;<a class="code hl_function" href="../../d4/d3e/classpocketmine_1_1world_1_1_block_transaction.html#a386195523e909ab82e791182923dc6a2">addBlock</a>($up, VanillaBlocks::BIG_DRIPLEAF_HEAD()-&gt;setFacing($head-&gt;facing));</div>
 <div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span> </div>
 <div class="line"><a id="l00116" name="l00116"></a><span class="lineno">  116</span>        $ev = <span class="keyword">new</span> StructureGrowEvent($head, $tx, $player);</div>
 <div class="line"><a id="l00117" name="l00117"></a><span class="lineno">  117</span>        $ev-&gt;call();</div>
