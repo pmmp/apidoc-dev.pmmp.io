@@ -1,13 +1,5 @@
 var NAVTREEINDEX249 =
 {
-"df/db6/classpocketmine_1_1item_1_1_string_item.html#af737301b899b7a7c9e9b0bb9a234a119":[3,0,1,12,101,7],
-"df/db6/classpocketmine_1_1item_1_1_string_item.html#af737301b899b7a7c9e9b0bb9a234a119":[2,0,2,12,101,7],
-"df/db6/classpocketmine_1_1item_1_1_string_item.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,101,36],
-"df/db6/classpocketmine_1_1item_1_1_string_item.html#af85accbedba28b67bb66d5f12d329585":[2,0,2,12,101,36],
-"df/db7/_banner_pattern_layer_8php_source.html":[4,0,0,0,2,4],
-"df/db7/_base_banner_8php_source.html":[4,0,0,0,10],
-"df/db7/classpocketmine_1_1entity_1_1_entity_size_info.html":[2,0,2,7,13],
-"df/db7/classpocketmine_1_1entity_1_1_entity_size_info.html":[3,0,1,7,13],
 "df/db8/_flat_generator_options_8php_source.html":[4,0,0,25,2,7],
 "df/db9/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_id_meta_upgrader.html":[2,0,2,6,0,0,1,2],
 "df/db9/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_id_meta_upgrader.html":[3,0,1,6,0,0,1,2],
@@ -249,5 +241,13 @@ var NAVTREEINDEX249 =
 "df/de2/classpocketmine_1_1item_1_1enchantment_1_1_enchanting_helper.html":[2,0,2,12,0,1],
 "df/de2/classpocketmine_1_1item_1_1enchantment_1_1_enchanting_helper.html#a7010e29a67f76046aca9ecef9ce55ffd":[3,0,1,12,0,1,2],
 "df/de2/classpocketmine_1_1item_1_1enchantment_1_1_enchanting_helper.html#a7010e29a67f76046aca9ecef9ce55ffd":[2,0,2,12,0,1,2],
-"df/de2/classpocketmine_1_1item_1_1enchantment_1_1_enchanting_helper.html#ab074b750f748d0c5985cae3016260bd1":[3,0,1,12,0,1,1]
+"df/de2/classpocketmine_1_1item_1_1enchantment_1_1_enchanting_helper.html#ab074b750f748d0c5985cae3016260bd1":[3,0,1,12,0,1,1],
+"df/de2/classpocketmine_1_1item_1_1enchantment_1_1_enchanting_helper.html#ab074b750f748d0c5985cae3016260bd1":[2,0,2,12,0,1,1],
+"df/de2/classpocketmine_1_1item_1_1enchantment_1_1_enchanting_helper.html#afb174dfaeac93c60672bfec473cd6822":[3,0,1,12,0,1,0],
+"df/de2/classpocketmine_1_1item_1_1enchantment_1_1_enchanting_helper.html#afb174dfaeac93c60672bfec473cd6822":[2,0,2,12,0,1,0],
+"df/de3/_sub_chunk_position_offset_8php_source.html":[4,0,1,0,1,0,1,81],
+"df/de4/classpocketmine_1_1resourcepacks_1_1json_1_1_manifest_dependency_entry.html":[2,0,2,21,0,1],
+"df/de4/classpocketmine_1_1resourcepacks_1_1json_1_1_manifest_dependency_entry.html":[3,0,1,21,0,1],
+"df/de4/classpocketmine_1_1resourcepacks_1_1json_1_1_manifest_dependency_entry.html#a203c8d2c0ab418b4457dc594759078e8":[3,0,1,21,0,1,0],
+"df/de4/classpocketmine_1_1resourcepacks_1_1json_1_1_manifest_dependency_entry.html#a203c8d2c0ab418b4457dc594759078e8":[2,0,2,21,0,1,0]
 };
