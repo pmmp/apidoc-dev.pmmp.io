@@ -32,7 +32,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.10.1 git-6b66cbfb1cf3f0883e48afc57953204ceb17d26b</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.11.1 git-644693ffee4ba0b950269248838196e41a3b6f82</span>
    </div>
   </td>
  </tr>
@@ -116,8 +116,8 @@ $(document).ready(function(){initNavTree('d2/d46/classpocketmine_1_1network_1_1m
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ad5d314d58d36c1d7f9a8127cb9b8920a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d46/classpocketmine_1_1network_1_1mcpe_1_1_chunk_request_task.html#ad5d314d58d36c1d7f9a8127cb9b8920a">__construct</a> (int $chunkX, int $chunkZ, <a class="el" href="../../d2/de7/classpocketmine_1_1world_1_1format_1_1_chunk.html">Chunk</a> $chunk, <a class="el" href="../../d4/d17/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_compress_batch_promise.html">CompressBatchPromise</a> $promise, <a class="el" href="../../d3/d33/interfacepocketmine_1_1network_1_1mcpe_1_1compression_1_1_compressor.html">Compressor</a> $compressor)</td></tr>
-<tr class="separator:ad5d314d58d36c1d7f9a8127cb9b8920a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad3515eb75f8bfd133d11464da8230730"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d46/classpocketmine_1_1network_1_1mcpe_1_1_chunk_request_task.html#ad3515eb75f8bfd133d11464da8230730">__construct</a> (int $chunkX, int $chunkZ, int $dimensionId, <a class="el" href="../../d2/de7/classpocketmine_1_1world_1_1format_1_1_chunk.html">Chunk</a> $chunk, <a class="el" href="../../d4/d17/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_compress_batch_promise.html">CompressBatchPromise</a> $promise, <a class="el" href="../../d3/d33/interfacepocketmine_1_1network_1_1mcpe_1_1compression_1_1_compressor.html">Compressor</a> $compressor)</td></tr>
+<tr class="separator:ad3515eb75f8bfd133d11464da8230730"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab4ce5f03047e2ba85b4e17abd775e129"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#ab4ce5f03047e2ba85b4e17abd775e129">checkProgressUpdates</a> ()</td></tr>
 <tr class="separator:ab4ce5f03047e2ba85b4e17abd775e129"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa5a040d7bd6023185e91387c526f8527"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#aa5a040d7bd6023185e91387c526f8527">getResult</a> ()</td></tr>
@@ -165,10 +165,10 @@ Protected Attributes</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html#l00040">40</a> of file <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html">ChunkRequestTask.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html#l00042">42</a> of file <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html">ChunkRequestTask.php</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ad5d314d58d36c1d7f9a8127cb9b8920a" name="ad5d314d58d36c1d7f9a8127cb9b8920a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad5d314d58d36c1d7f9a8127cb9b8920a">&#9670;&nbsp;</a></span>__construct()</h2>
+<a id="ad3515eb75f8bfd133d11464da8230730" name="ad3515eb75f8bfd133d11464da8230730"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad3515eb75f8bfd133d11464da8230730">&#9670;&nbsp;</a></span>__construct()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -184,6 +184,12 @@ Protected Attributes</h2></td></tr>
           <td></td>
           <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>$chunkZ</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>$dimensionId</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -210,8 +216,19 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p >@phpstan-param DimensionIds::* $dimensionId </p>
 
-<p class="definition">Definition at line <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html#l00050">50</a> of file <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html">ChunkRequestTask.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html#l00057">57</a> of file <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html">ChunkRequestTask.php</a>.</p>
+
+<p class="reference">References <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html#l00051">pocketmine\network\mcpe\ChunkRequestTask\$compressor</a>, <a class="el" href="../../dc/d4a/_fast_chunk_serializer_8php_source.html#l00063">pocketmine\world\format\io\FastChunkSerializer\serializeTerrain()</a>, and <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00186">pocketmine\scheduler\AsyncTask\storeLocal()</a>.</p>
+<div id="dynsection-2" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-2-trigger" src="../../closed.png" alt="+"/> Here is the call graph for this function:</div>
+<div id="dynsection-2-summary" class="dynsummary" style="display:block;">
+</div>
+<div id="dynsection-2-content" class="dyncontent" style="display:none;">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d2/d46/classpocketmine_1_1network_1_1mcpe_1_1_chunk_request_task_ad3515eb75f8bfd133d11464da8230730_cgraph.svg" width="435" height="134"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
 
 </div>
 </div>
@@ -239,7 +256,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00155">155</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00151">151</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
 
 </div>
 </div>
@@ -277,7 +294,7 @@ Protected Attributes</h2></td></tr>
 </dl>
 <p>InvalidArgumentException if no data were stored by this AsyncTask instance. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00204">204</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00200">200</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
 
 </div>
 </div>
@@ -305,7 +322,7 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 <dl class="section return"><dt>Returns</dt><dd>mixed </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00106">106</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00102">102</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
 
 </div>
 </div>
@@ -332,7 +349,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00099">99</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00095">95</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
 
 </div>
 </div>
@@ -360,7 +377,7 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p >Returns whether this task has finished executing, whether successfully or not. This differs from isRunning() because it is not true prior to task execution. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00095">95</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00091">91</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
 
 </div>
 </div>
@@ -387,7 +404,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00121">121</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00117">117</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
 
 </div>
 </div>
@@ -409,7 +426,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="../../df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a0116d1721376b18f7410934b72a19ecc">pocketmine\scheduler\AsyncTask</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html#l00073">73</a> of file <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html">ChunkRequestTask.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html#l00085">85</a> of file <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html">ChunkRequestTask.php</a>.</p>
 
 </div>
 </div>
@@ -444,7 +461,7 @@ Protected Attributes</h2></td></tr>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00172">172</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00168">168</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
 
 </div>
 </div>
@@ -466,7 +483,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="../../df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a6db5fee11fc3b30c6ec45c62de8ee8dc">pocketmine\scheduler\AsyncTask</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html#l00061">61</a> of file <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html">ChunkRequestTask.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html#l00069">69</a> of file <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html">ChunkRequestTask.php</a>.</p>
 
 </div>
 </div>
@@ -501,7 +518,7 @@ Protected Attributes</h2></td></tr>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00144">144</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00140">140</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
 
 </div>
 </div>
@@ -529,7 +546,7 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p >Override this to do normal __destruct() cleanup from a child class. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00221">221</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00217">217</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
 
 </div>
 </div>
@@ -556,7 +573,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00080">80</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00078">78</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
 
 </div>
 </div>
@@ -584,7 +601,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00113">113</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00109">109</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
 
 </div>
 </div>
@@ -611,7 +628,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00117">117</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00113">113</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
 
 </div>
 </div>
@@ -653,15 +670,15 @@ Protected Attributes</h2></td></tr>
 <p >Scalar types can be stored directly in class properties instead of using this storage.</p>
 <p >Objects stored in this storage can be retrieved using <a class="el" href="../../df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a1ba680fdef8ef3e5832322b56dc460f0">fetchLocal()</a> on the same thread that this method was called from. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00190">190</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dd/d42/_async_task_8php_source.html#l00186">186</a> of file <a class="el" href="../../dd/d42/_async_task_8php_source.html">AsyncTask.php</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../dc/d9e/_process_login_task_8php_source.html#l00082">pocketmine\network\mcpe\auth\ProcessLoginTask\__construct()</a>, <a class="el" href="../../d4/d27/_bulk_curl_task_8php_source.html#l00052">pocketmine\scheduler\BulkCurlTask\__construct()</a>, <a class="el" href="../../d0/dd6/_light_population_task_8php_source.html#l00049">pocketmine\world\light\LightPopulationTask\__construct()</a>, <a class="el" href="../../d3/dde/_population_task_8php_source.html#l00051">pocketmine\world\generator\PopulationTask\__construct()</a>, and <a class="el" href="../../d3/d39/_prepare_encryption_task_8php_source.html#l00050">pocketmine\network\mcpe\encryption\PrepareEncryptionTask\__construct()</a>.</p>
-<div id="dynsection-2" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-2-trigger" src="../../closed.png" alt="+"/> Here is the caller graph for this function:</div>
-<div id="dynsection-2-summary" class="dynsummary" style="display:block;">
+<p class="reference">Referenced by <a class="el" href="../../dc/d9e/_process_login_task_8php_source.html#l00072">pocketmine\network\mcpe\auth\ProcessLoginTask\__construct()</a>, <a class="el" href="../../d4/d27/_bulk_curl_task_8php_source.html#l00052">pocketmine\scheduler\BulkCurlTask\__construct()</a>, <a class="el" href="../../d0/dd6/_light_population_task_8php_source.html#l00049">pocketmine\world\light\LightPopulationTask\__construct()</a>, <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html#l00057">pocketmine\network\mcpe\ChunkRequestTask\__construct()</a>, <a class="el" href="../../d3/dde/_population_task_8php_source.html#l00051">pocketmine\world\generator\PopulationTask\__construct()</a>, and <a class="el" href="../../d3/d39/_prepare_encryption_task_8php_source.html#l00050">pocketmine\network\mcpe\encryption\PrepareEncryptionTask\__construct()</a>.</p>
+<div id="dynsection-3" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-3-trigger" src="../../closed.png" alt="+"/> Here is the caller graph for this function:</div>
+<div id="dynsection-3-summary" class="dynsummary" style="display:block;">
 </div>
-<div id="dynsection-2-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../df/dfa/classpocketmine_1_1scheduler_1_1_async_task_ad5e0edb131fe81a8b68e64c70ba06d2b_icgraph.svg" width="483" height="360"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div id="dynsection-3-content" class="dyncontent" style="display:none;">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../df/dfa/classpocketmine_1_1scheduler_1_1_async_task_ad5e0edb131fe81a8b68e64c70ba06d2b_icgraph.svg" width="483" height="440"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 
@@ -688,7 +705,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html#l00043">43</a> of file <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html">ChunkRequestTask.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html#l00045">45</a> of file <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html">ChunkRequestTask.php</a>.</p>
 
 </div>
 </div>
@@ -712,7 +729,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html#l00044">44</a> of file <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html">ChunkRequestTask.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html#l00046">46</a> of file <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html">ChunkRequestTask.php</a>.</p>
 
 </div>
 </div>
@@ -736,7 +753,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html#l00045">45</a> of file <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html">ChunkRequestTask.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html#l00047">47</a> of file <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html">ChunkRequestTask.php</a>.</p>
 
 </div>
 </div>
@@ -761,7 +778,9 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p >@phpstan-var NonThreadSafeValue&lt;Compressor&gt; </p>
 
-<p class="definition">Definition at line <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html#l00047">47</a> of file <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html">ChunkRequestTask.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html#l00051">51</a> of file <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html">ChunkRequestTask.php</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../db/d11/_chunk_request_task_8php_source.html#l00057">pocketmine\network\mcpe\ChunkRequestTask\__construct()</a>.</p>
 
 </div>
 </div>
