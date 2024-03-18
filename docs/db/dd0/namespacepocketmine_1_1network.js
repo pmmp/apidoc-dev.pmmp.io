@@ -55,8 +55,7 @@ var namespacepocketmine_1_1network =
           [ "ItemTypeDictionary", "da/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_item_type_dictionary.html", "da/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_item_type_dictionary" ],
           [ "NetworkNbtSerializer", "d4/dc8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_network_nbt_serializer.html", "d4/dc8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_network_nbt_serializer" ],
           [ "PacketBatch", "d9/df4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_batch.html", "d9/df4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_batch" ],
-          [ "PacketSerializer", "d9/d4e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_serializer.html", "d9/d4e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_serializer" ],
-          [ "PacketSerializerContext", "da/dc6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_serializer_context.html", null ]
+          [ "PacketSerializer", "d9/d4e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_serializer.html", "d9/d4e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_serializer" ]
         ] ],
         [ "types", null, [
           [ "camera", null, [
@@ -79,6 +78,7 @@ var namespacepocketmine_1_1network =
             [ "CommandOutputMessage", "d4/d31/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_output_message.html", null ],
             [ "CommandOverload", "d8/dc1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_overload.html", "d8/dc1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_overload" ],
             [ "CommandParameter", "d1/d80/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_parameter.html", null ],
+            [ "CommandParameterTypes", "db/d73/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_parameter_types.html", null ],
             [ "CommandPermissions", "d1/dfa/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_permissions.html", null ]
           ] ],
           [ "entity", null, [
@@ -142,6 +142,8 @@ var namespacepocketmine_1_1network =
             [ "CreativeContentEntry", "d8/d72/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_creative_content_entry.html", null ],
             [ "InventoryTransactionChangedSlotsHack", "dd/d7e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_inventory_transaction_changed_slots_hack.html", "dd/d7e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_inventory_transaction_changed_slots_hack" ],
             [ "ItemStack", "d6/dc9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_item_stack.html", "d6/dc9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_item_stack" ],
+            [ "ItemStackExtraData", "dc/d81/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_item_stack_extra_data.html", "dc/d81/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_item_stack_extra_data" ],
+            [ "ItemStackExtraDataShield", "db/de9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_item_stack_extra_data_shield.html", "db/de9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_item_stack_extra_data_shield" ],
             [ "ItemStackWrapper", "dd/ded/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_item_stack_wrapper.html", null ],
             [ "MismatchTransactionData", "d7/da6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_mismatch_transaction_data.html", "d7/da6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_mismatch_transaction_data" ],
             [ "NetworkInventoryAction", "d5/da8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_network_inventory_action.html", "d5/da8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_network_inventory_action" ],
@@ -350,7 +352,6 @@ var namespacepocketmine_1_1network =
         [ "InventorySlotPacket", "da/dae/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_inventory_slot_packet.html", "da/dae/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_inventory_slot_packet" ],
         [ "InventoryTransactionPacket", "d9/d54/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_inventory_transaction_packet.html", "d9/d54/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_inventory_transaction_packet" ],
         [ "ItemComponentPacket", "d1/d35/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_item_component_packet.html", "d1/d35/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_item_component_packet" ],
-        [ "ItemFrameDropItemPacket", "db/df9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_item_frame_drop_item_packet.html", "db/df9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_item_frame_drop_item_packet" ],
         [ "ItemStackRequestPacket", "d8/df8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_item_stack_request_packet.html", "d8/df8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_item_stack_request_packet" ],
         [ "ItemStackResponsePacket", "d6/dc7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_item_stack_response_packet.html", "d6/dc7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_item_stack_response_packet" ],
         [ "LabTablePacket", "dd/d36/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_lab_table_packet.html", "dd/d36/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_lab_table_packet" ],
@@ -393,6 +394,7 @@ var namespacepocketmine_1_1network =
         [ "PlayerActionPacket", "dd/d5d/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_action_packet.html", "dd/d5d/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_action_packet" ],
         [ "PlayerArmorDamagePacket", "da/d5e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_armor_damage_packet.html", "da/d5e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_armor_damage_packet" ],
         [ "PlayerAuthInputPacket", "de/d7c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_auth_input_packet.html", "de/d7c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_auth_input_packet" ],
+        [ "PlayerAuthInputVehicleInfo", "df/dbd/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_auth_input_vehicle_info.html", null ],
         [ "PlayerEnchantOptionsPacket", "d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html", "d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet" ],
         [ "PlayerFogPacket", "d7/d72/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_fog_packet.html", "d7/d72/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_fog_packet" ],
         [ "PlayerHotbarPacket", "d8/d45/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_hotbar_packet.html", "d8/d45/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_hotbar_packet" ],

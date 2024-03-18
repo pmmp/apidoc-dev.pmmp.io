@@ -141,7 +141,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="1295.45" y="-405.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastAnimation()</text>
 <text text-anchor="start" x="1295.45" y="-394.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastSound()</text>
 <text text-anchor="start" x="1295.45" y="-383.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeCollidedWith()</text>
-<text text-anchor="start" x="1295.45" y="-372.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 124 more...</text>
+<text text-anchor="start" x="1295.45" y="-372.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 125 more...</text>
 <text text-anchor="start" x="1295.45" y="-361.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isValidUserName()</text>
 <text text-anchor="start" x="1295.45" y="-350.5" font-family="Helvetica,sans-Serif" font-size="10.00"># actuallyRespawn()</text>
 <text text-anchor="start" x="1295.45" y="-339.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addDefaultWindows()</text>
@@ -254,15 +254,15 @@ var sectionId = 'dynsection-1';
 <polyline fill="none" stroke="#bfbfbf" points="3341.45,-1287.5 3504.45,-1287.5 "/>
 <text text-anchor="start" x="3349.45" y="-1275.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ applyDamageModifiers()</text>
 <text text-anchor="start" x="3349.45" y="-1264.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ attack()</text>
-<text text-anchor="start" x="3349.45" y="-1253.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBreathe()</text>
-<text text-anchor="start" x="3349.45" y="-1242.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ consumeObject()</text>
-<text text-anchor="start" x="3349.45" y="-1231.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ damageArmor()</text>
-<text text-anchor="start" x="3349.45" y="-1220.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAbsorption()</text>
-<text text-anchor="start" x="3349.45" y="-1209.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAirSupplyTicks()</text>
-<text text-anchor="start" x="3349.45" y="-1198.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getArmorInventory()</text>
-<text text-anchor="start" x="3349.45" y="-1187.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getArmorPoints()</text>
-<text text-anchor="start" x="3349.45" y="-1176.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDisplayName()</text>
-<text text-anchor="start" x="3349.45" y="-1165.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 33 more...</text>
+<text text-anchor="start" x="3349.45" y="-1253.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeRenamed()</text>
+<text text-anchor="start" x="3349.45" y="-1242.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBreathe()</text>
+<text text-anchor="start" x="3349.45" y="-1231.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ consumeObject()</text>
+<text text-anchor="start" x="3349.45" y="-1220.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ damageArmor()</text>
+<text text-anchor="start" x="3349.45" y="-1209.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAbsorption()</text>
+<text text-anchor="start" x="3349.45" y="-1198.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAirSupplyTicks()</text>
+<text text-anchor="start" x="3349.45" y="-1187.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getArmorInventory()</text>
+<text text-anchor="start" x="3349.45" y="-1176.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getArmorPoints()</text>
+<text text-anchor="start" x="3349.45" y="-1165.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 34 more...</text>
 <text text-anchor="start" x="3349.45" y="-1154.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addAttributes()</text>
 <text text-anchor="start" x="3349.45" y="-1143.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyConsumptionResults()</text>
 <text text-anchor="start" x="3349.45" y="-1132.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyPostDamageEffects()</text>
@@ -320,8 +320,8 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="3049.95" y="-2479.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastSound()</text>
 <text text-anchor="start" x="3049.95" y="-2468.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeCollidedWith()</text>
 <text text-anchor="start" x="3049.95" y="-2457.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeMovedByCurrents()</text>
-<text text-anchor="start" x="3049.95" y="-2446.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canClimb()</text>
-<text text-anchor="start" x="3049.95" y="-2435.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 92 more...</text>
+<text text-anchor="start" x="3049.95" y="-2446.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeRenamed()</text>
+<text text-anchor="start" x="3049.95" y="-2435.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 93 more...</text>
 <text text-anchor="start" x="3049.95" y="-2424.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ nextRuntimeId()</text>
 <text text-anchor="start" x="3049.95" y="-2413.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addAttributes()</text>
 <text text-anchor="start" x="3049.95" y="-2402.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyDragBeforeGravity()</text>
@@ -1445,7 +1445,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="563.45" y="-813" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDisplayName()</text>
 <text text-anchor="start" x="563.45" y="-802" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEntityEventBroadcaster()</text>
 <text text-anchor="start" x="563.45" y="-791" font-family="Helvetica,sans-Serif" font-size="10.00">+ getHandler()</text>
-<text text-anchor="start" x="563.45" y="-780" font-family="Helvetica,sans-Serif" font-size="10.00">and 54 more...</text>
+<text text-anchor="start" x="563.45" y="-780" font-family="Helvetica,sans-Serif" font-size="10.00">and 55 more...</text>
 <text text-anchor="start" x="563.45" y="-769" font-family="Helvetica,sans-Serif" font-size="10.00">+ encodePacketTimed()</text>
 <text text-anchor="start" x="563.45" y="-758" font-family="Helvetica,sans-Serif" font-size="10.00"># createPlayer()</text>
 </a>

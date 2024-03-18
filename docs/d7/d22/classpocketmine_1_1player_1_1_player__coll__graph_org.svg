@@ -39,7 +39,7 @@
 <text text-anchor="start" x="2103" y="-172.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastAnimation()</text>
 <text text-anchor="start" x="2103" y="-161.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastSound()</text>
 <text text-anchor="start" x="2103" y="-150.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeCollidedWith()</text>
-<text text-anchor="start" x="2103" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 124 more...</text>
+<text text-anchor="start" x="2103" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 125 more...</text>
 <text text-anchor="start" x="2103" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isValidUserName()</text>
 <text text-anchor="start" x="2103" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00"># actuallyRespawn()</text>
 <text text-anchor="start" x="2103" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addDefaultWindows()</text>
@@ -145,15 +145,15 @@
 <polyline fill="none" stroke="#bfbfbf" points="184,-1054.5 347,-1054.5 "/>
 <text text-anchor="start" x="192" y="-1042.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ applyDamageModifiers()</text>
 <text text-anchor="start" x="192" y="-1031.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ attack()</text>
-<text text-anchor="start" x="192" y="-1020.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBreathe()</text>
-<text text-anchor="start" x="192" y="-1009.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ consumeObject()</text>
-<text text-anchor="start" x="192" y="-998.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ damageArmor()</text>
-<text text-anchor="start" x="192" y="-987.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAbsorption()</text>
-<text text-anchor="start" x="192" y="-976.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAirSupplyTicks()</text>
-<text text-anchor="start" x="192" y="-965.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getArmorInventory()</text>
-<text text-anchor="start" x="192" y="-954.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getArmorPoints()</text>
-<text text-anchor="start" x="192" y="-943.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDisplayName()</text>
-<text text-anchor="start" x="192" y="-932.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 33 more...</text>
+<text text-anchor="start" x="192" y="-1020.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeRenamed()</text>
+<text text-anchor="start" x="192" y="-1009.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBreathe()</text>
+<text text-anchor="start" x="192" y="-998.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ consumeObject()</text>
+<text text-anchor="start" x="192" y="-987.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ damageArmor()</text>
+<text text-anchor="start" x="192" y="-976.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAbsorption()</text>
+<text text-anchor="start" x="192" y="-965.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAirSupplyTicks()</text>
+<text text-anchor="start" x="192" y="-954.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getArmorInventory()</text>
+<text text-anchor="start" x="192" y="-943.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getArmorPoints()</text>
+<text text-anchor="start" x="192" y="-932.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 34 more...</text>
 <text text-anchor="start" x="192" y="-921.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addAttributes()</text>
 <text text-anchor="start" x="192" y="-910.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyConsumptionResults()</text>
 <text text-anchor="start" x="192" y="-899.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyPostDamageEffects()</text>
@@ -211,8 +211,8 @@
 <text text-anchor="start" x="2371.5" y="-2312.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ broadcastSound()</text>
 <text text-anchor="start" x="2371.5" y="-2301.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeCollidedWith()</text>
 <text text-anchor="start" x="2371.5" y="-2290.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeMovedByCurrents()</text>
-<text text-anchor="start" x="2371.5" y="-2279.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canClimb()</text>
-<text text-anchor="start" x="2371.5" y="-2268.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 92 more...</text>
+<text text-anchor="start" x="2371.5" y="-2279.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ canBeRenamed()</text>
+<text text-anchor="start" x="2371.5" y="-2268.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 93 more...</text>
 <text text-anchor="start" x="2371.5" y="-2257.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ nextRuntimeId()</text>
 <text text-anchor="start" x="2371.5" y="-2246.5" font-family="Helvetica,sans-Serif" font-size="10.00"># addAttributes()</text>
 <text text-anchor="start" x="2371.5" y="-2235.5" font-family="Helvetica,sans-Serif" font-size="10.00"># applyDragBeforeGravity()</text>
@@ -1407,7 +1407,7 @@
 <text text-anchor="start" x="1084" y="-580" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDisplayName()</text>
 <text text-anchor="start" x="1084" y="-569" font-family="Helvetica,sans-Serif" font-size="10.00">+ getEntityEventBroadcaster()</text>
 <text text-anchor="start" x="1084" y="-558" font-family="Helvetica,sans-Serif" font-size="10.00">+ getHandler()</text>
-<text text-anchor="start" x="1084" y="-547" font-family="Helvetica,sans-Serif" font-size="10.00">and 54 more...</text>
+<text text-anchor="start" x="1084" y="-547" font-family="Helvetica,sans-Serif" font-size="10.00">and 55 more...</text>
 <text text-anchor="start" x="1084" y="-536" font-family="Helvetica,sans-Serif" font-size="10.00">+ encodePacketTimed()</text>
 <text text-anchor="start" x="1084" y="-525" font-family="Helvetica,sans-Serif" font-size="10.00"># createPlayer()</text>
 </a>
