@@ -1,3 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d9/d1c/classpocketmine_1_1data_1_1java_1_1_game_mode_id_map.html" title=" " alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node1" href="$d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html" title=" " alt="" coords="5,71,192,112"/>
+<area shape="rect" id="node2" href="$de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html" title=" " alt="" coords="249,5,436,47"/>
+<area shape="rect" id="node3" href="$db/dff/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_size_calculator.html" title=" " alt="" coords="240,71,445,112"/>
+<area shape="rect" id="node4" href="$dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer.html" title=" " alt="" coords="249,136,436,177"/>
 </map>
