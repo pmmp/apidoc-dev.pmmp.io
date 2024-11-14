@@ -1,4 +1,5 @@
 <map id="pocketmine\data\runtime\RuntimeDataReader" name="pocketmine\data\runtime\RuntimeDataReader">
-<area shape="rect" id="node1" title=" " alt="" coords="5,292,192,545"/>
-<area shape="rect" id="node2" href="$d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html" title=" " alt="" coords="5,5,192,244"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,333,184,633"/>
+<area shape="rect" id="Node000002" href="$d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html" title=" " alt="" coords="5,5,184,285"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,299,97,333,92,333,92,299"/>
 </map>

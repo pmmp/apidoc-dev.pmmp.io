@@ -1,8 +1,13 @@
 <map id="pocketmine\item\enchantment\Enchantment" name="pocketmine\item\enchantment\Enchantment">
-<area shape="rect" id="node1" title=" " alt="" coords="375,5,597,185"/>
-<area shape="rect" id="node2" href="$d3/da7/classpocketmine_1_1item_1_1enchantment_1_1_melee_weapon_enchantment.html" title=" " alt="" coords="252,248,475,369"/>
-<area shape="rect" id="node6" href="$d2/d67/classpocketmine_1_1item_1_1enchantment_1_1_protection_enchantment.html" title=" " alt="" coords="499,233,721,384"/>
-<area shape="rect" id="node3" href="$d0/de0/classpocketmine_1_1item_1_1enchantment_1_1_fire_aspect_enchantment.html" title=" " alt="" coords="5,432,228,553"/>
-<area shape="rect" id="node4" href="$d3/d46/classpocketmine_1_1item_1_1enchantment_1_1_knockback_enchantment.html" title=" " alt="" coords="252,432,475,553"/>
-<area shape="rect" id="node5" href="$d3/d36/classpocketmine_1_1item_1_1enchantment_1_1_sharpness_enchantment.html" title=" " alt="" coords="499,439,721,546"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="363,5,577,205"/>
+<area shape="rect" id="Node000002" href="$d3/da7/classpocketmine_1_1item_1_1enchantment_1_1_melee_weapon_enchantment.html" title=" " alt="" coords="244,273,459,393"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="414,219,385,274,380,272,409,216"/>
+<area shape="rect" id="Node000006" href="$d2/d67/classpocketmine_1_1item_1_1enchantment_1_1_protection_enchantment.html" title=" " alt="" coords="483,253,697,413"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="531,216,550,252,546,254,527,219"/>
+<area shape="rect" id="Node000003" href="$d0/de0/classpocketmine_1_1item_1_1enchantment_1_1_fire_aspect_enchantment.html" title=" " alt="" coords="5,461,220,581"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="266,404,190,463,187,459,263,400"/>
+<area shape="rect" id="Node000004" href="$d3/d46/classpocketmine_1_1item_1_1enchantment_1_1_knockback_enchantment.html" title=" " alt="" coords="244,461,459,581"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="354,407,354,461,349,461,349,407"/>
+<area shape="rect" id="Node000005" href="$d3/d36/classpocketmine_1_1item_1_1enchantment_1_1_sharpness_enchantment.html" title=" " alt="" coords="483,471,697,571"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="440,400,529,469,526,473,437,404"/>
 </map>

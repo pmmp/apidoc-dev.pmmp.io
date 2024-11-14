@@ -1,9 +1,15 @@
 <map id="pocketmine\block\PressurePlate" name="pocketmine\block\PressurePlate">
-<area shape="rect" id="node1" title=" " alt="" coords="270,564,485,803"/>
-<area shape="rect" id="node4" href="$dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html" title=" " alt="" coords="133,851,376,1001"/>
-<area shape="rect" id="node7" href="$d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html" title=" " alt="" coords="400,865,603,987"/>
-<area shape="rect" id="node2" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="269,439,486,516"/>
-<area shape="rect" id="node3" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="260,5,495,391"/>
-<area shape="rect" id="node5" href="$d5/d8e/classpocketmine_1_1block_1_1_stone_pressure_plate.html" title=" " alt="" coords="5,1057,240,1149"/>
-<area shape="rect" id="node6" href="$d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html" title=" " alt="" coords="263,1049,513,1156"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="264,652,469,932"/>
+<area shape="rect" id="Node000004" href="$dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html" title=" " alt="" coords="131,980,365,1140"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="302,945,286,981,281,979,297,943"/>
+<area shape="rect" id="Node000007" href="$d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html" title=" " alt="" coords="389,1000,584,1120"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="437,943,462,999,458,1001,433,946"/>
+<area shape="rect" id="Node000002" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="262,539,471,604"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="369,618,369,652,364,652,364,618"/>
+<area shape="rect" id="Node000003" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="254,5,479,491"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="369,504,369,539,364,539,364,504"/>
+<area shape="rect" id="Node000005" href="$d5/d8e/classpocketmine_1_1block_1_1_stone_pressure_plate.html" title=" " alt="" coords="5,1198,232,1278"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="184,1153,149,1199,145,1196,180,1150"/>
+<area shape="rect" id="Node000006" href="$d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html" title=" " alt="" coords="257,1188,498,1288"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="317,1150,343,1186,339,1189,312,1153"/>
 </map>

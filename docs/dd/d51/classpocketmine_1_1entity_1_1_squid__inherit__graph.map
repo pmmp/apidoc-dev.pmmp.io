@@ -1,7 +1,11 @@
 <map id="pocketmine\entity\Squid" name="pocketmine\entity\Squid">
-<area shape="rect" id="node1" title=" " alt="" coords="166,1628,346,1808"/>
-<area shape="rect" id="node2" href="$df/d3c/classpocketmine_1_1entity_1_1_water_animal.html" title=" " alt="" coords="142,1459,370,1580"/>
-<area shape="rect" id="node3" href="$df/d0c/classpocketmine_1_1entity_1_1_living.html" title=" " alt="" coords="5,820,259,1411"/>
-<area shape="rect" id="node4" href="$d2/d3c/classpocketmine_1_1entity_1_1_entity.html" title=" " alt="" coords="29,5,235,772"/>
-<area shape="rect" id="node5" href="$d8/deb/interfacepocketmine_1_1entity_1_1_ageable.html" title=" " alt="" coords="283,1077,480,1154"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="162,2040,334,2245"/>
+<area shape="rect" id="Node000002" href="$df/d3c/classpocketmine_1_1entity_1_1_water_animal.html" title=" " alt="" coords="138,1867,358,1992"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,2006,251,2040,245,2040,245,2006"/>
+<area shape="rect" id="Node000003" href="$df/d0c/classpocketmine_1_1entity_1_1_living.html" title=" " alt="" coords="5,1059,251,1819"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="227,1832,235,1866,230,1867,222,1833"/>
+<area shape="rect" id="Node000004" href="$d2/d3c/classpocketmine_1_1entity_1_1_entity.html" title=" " alt="" coords="29,5,227,1011"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="131,1024,131,1059,125,1059,125,1024"/>
+<area shape="rect" id="Node000005" href="$d8/deb/interfacepocketmine_1_1entity_1_1_ageable.html" title=" " alt="" coords="275,1406,464,1471"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="361,1485,266,1867,261,1866,356,1484"/>
 </map>

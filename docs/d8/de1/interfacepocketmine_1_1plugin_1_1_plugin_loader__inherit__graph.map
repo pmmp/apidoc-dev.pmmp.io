@@ -1,6 +1,9 @@
 <map id="pocketmine\plugin\PluginLoader" name="pocketmine\plugin\PluginLoader">
-<area shape="rect" id="node1" title=" " alt="" coords="231,5,417,141"/>
-<area shape="rect" id="node2" href="$d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html" title=" " alt="" coords="5,189,192,340"/>
-<area shape="rect" id="node3" href="$d5/dbf/classpocketmine_1_1plugin_1_1_phar_plugin_loader.html" title=" " alt="" coords="217,189,431,340"/>
-<area shape="rect" id="node4" href="$d5/d4a/classpocketmine_1_1plugin_1_1_script_plugin_loader.html" title=" " alt="" coords="455,197,638,333"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="223,5,401,145"/>
+<area shape="rect" id="Node000002" href="$d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html" title=" " alt="" coords="5,193,184,353"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,157,184,195,181,191,223,153"/>
+<area shape="rect" id="Node000003" href="$d5/dbf/classpocketmine_1_1plugin_1_1_phar_plugin_loader.html" title=" " alt="" coords="209,193,415,353"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="315,159,315,193,309,193,309,159"/>
+<area shape="rect" id="Node000004" href="$d5/d4a/classpocketmine_1_1plugin_1_1_script_plugin_loader.html" title=" " alt="" coords="439,203,614,343"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="400,153,453,201,449,205,396,157"/>
 </map>

@@ -1,6 +1,7 @@
 <map id="pocketmine\stats\SendUsageTask" name="pocketmine\stats\SendUsageTask">
-<area shape="rect" id="node1" title=" " alt="" coords="57,536,297,643"/>
-<area shape="rect" id="node2" href="$df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html" title=" " alt="" coords="5,132,200,444"/>
-<area shape="rect" id="node3" title=" " alt="" coords="61,5,144,83"/>
-<area shape="rect" id="node4" title=" " alt="" coords="225,249,282,327"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,547,237,712"/>
+<area shape="rect" id="Node000002" href="$df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html" title=" " alt="" coords="28,119,215,499"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,513,124,547,119,547,119,513"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="84,5,159,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="124,85,124,118,119,118,119,85"/>
 </map>
