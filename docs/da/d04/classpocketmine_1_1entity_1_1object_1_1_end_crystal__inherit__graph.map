@@ -1,0 +1,7 @@
+<map id="pocketmine\entity\object\EndCrystal" name="pocketmine\entity\object\EndCrystal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="120,1059,309,1439"/>
+<area shape="rect" id="Node000002" href="$d2/d3c/classpocketmine_1_1entity_1_1_entity.html" title=" " alt="" coords="5,5,203,1011"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,1024,189,1058,184,1059,179,1025"/>
+<area shape="rect" id="Node000003" href="$d3/d5f/interfacepocketmine_1_1entity_1_1_explosive.html" title=" " alt="" coords="227,475,426,541"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="322,555,246,1059,241,1058,317,554"/>
+</map>

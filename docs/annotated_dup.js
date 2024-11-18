@@ -329,7 +329,6 @@ var annotated_dup =
         [ "WoodenSlab", "df/d7b/classpocketmine_1_1block_1_1_wooden_slab.html", "df/d7b/classpocketmine_1_1block_1_1_wooden_slab" ],
         [ "WoodenStairs", "dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs.html", "dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs" ],
         [ "WoodenTrapdoor", "d3/da4/classpocketmine_1_1block_1_1_wooden_trapdoor.html", "d3/da4/classpocketmine_1_1block_1_1_wooden_trapdoor" ],
-        [ "WoodLikeBlockIdHelper", "d9/de8/classpocketmine_1_1block_1_1_wood_like_block_id_helper.html", "d9/de8/classpocketmine_1_1block_1_1_wood_like_block_id_helper" ],
         [ "Wool", "da/d71/classpocketmine_1_1block_1_1_wool.html", "da/d71/classpocketmine_1_1block_1_1_wool" ]
       ] ],
       [ "color", null, [
@@ -377,7 +376,8 @@ var annotated_dup =
           [ "TransferServerCommand", "d0/d5d/classpocketmine_1_1command_1_1defaults_1_1_transfer_server_command.html", "d0/d5d/classpocketmine_1_1command_1_1defaults_1_1_transfer_server_command" ],
           [ "VanillaCommand", "d5/dfa/classpocketmine_1_1command_1_1defaults_1_1_vanilla_command.html", "d5/dfa/classpocketmine_1_1command_1_1defaults_1_1_vanilla_command" ],
           [ "VersionCommand", "d1/d1c/classpocketmine_1_1command_1_1defaults_1_1_version_command.html", "d1/d1c/classpocketmine_1_1command_1_1defaults_1_1_version_command" ],
-          [ "WhitelistCommand", "d5/d43/classpocketmine_1_1command_1_1defaults_1_1_whitelist_command.html", "d5/d43/classpocketmine_1_1command_1_1defaults_1_1_whitelist_command" ]
+          [ "WhitelistCommand", "d5/d43/classpocketmine_1_1command_1_1defaults_1_1_whitelist_command.html", "d5/d43/classpocketmine_1_1command_1_1defaults_1_1_whitelist_command" ],
+          [ "XpCommand", "d1/d77/classpocketmine_1_1command_1_1defaults_1_1_xp_command.html", "d1/d77/classpocketmine_1_1command_1_1defaults_1_1_xp_command" ]
         ] ],
         [ "utils", null, [
           [ "CommandException", "d2/db2/classpocketmine_1_1command_1_1utils_1_1_command_exception.html", null ],
@@ -504,6 +504,8 @@ var annotated_dup =
           [ "EffectIds", "d3/d75/classpocketmine_1_1data_1_1bedrock_1_1_effect_ids.html", null ],
           [ "EnchantmentIdMap", "d3/d24/classpocketmine_1_1data_1_1bedrock_1_1_enchantment_id_map.html", null ],
           [ "EnchantmentIds", "d4/d2f/classpocketmine_1_1data_1_1bedrock_1_1_enchantment_ids.html", null ],
+          [ "GoatHornTypeIdMap", "d7/d1a/classpocketmine_1_1data_1_1bedrock_1_1_goat_horn_type_id_map.html", null ],
+          [ "GoatHornTypeIds", "db/db7/classpocketmine_1_1data_1_1bedrock_1_1_goat_horn_type_ids.html", null ],
           [ "ItemTagToIdMap", "d0/dbe/classpocketmine_1_1data_1_1bedrock_1_1_item_tag_to_id_map.html", "d0/dbe/classpocketmine_1_1data_1_1bedrock_1_1_item_tag_to_id_map" ],
           [ "LegacyBiomeIdToStringIdMap", "d2/d33/classpocketmine_1_1data_1_1bedrock_1_1_legacy_biome_id_to_string_id_map.html", "d2/d33/classpocketmine_1_1data_1_1bedrock_1_1_legacy_biome_id_to_string_id_map" ],
           [ "LegacyEntityIdToStringIdMap", "d4/d9b/classpocketmine_1_1data_1_1bedrock_1_1_legacy_entity_id_to_string_id_map.html", "d4/d9b/classpocketmine_1_1data_1_1bedrock_1_1_legacy_entity_id_to_string_id_map" ],
@@ -567,6 +569,7 @@ var annotated_dup =
           [ "WitherEffect", "dc/dae/classpocketmine_1_1entity_1_1effect_1_1_wither_effect.html", "dc/dae/classpocketmine_1_1entity_1_1effect_1_1_wither_effect" ]
         ] ],
         [ "object", null, [
+          [ "EndCrystal", "dc/d98/classpocketmine_1_1entity_1_1object_1_1_end_crystal.html", "dc/d98/classpocketmine_1_1entity_1_1object_1_1_end_crystal" ],
           [ "ExperienceOrb", "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html", "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb" ],
           [ "FallingBlock", "df/d14/classpocketmine_1_1entity_1_1object_1_1_falling_block.html", "df/d14/classpocketmine_1_1entity_1_1object_1_1_falling_block" ],
           [ "ItemEntity", "d1/d40/classpocketmine_1_1entity_1_1object_1_1_item_entity.html", "d1/d40/classpocketmine_1_1entity_1_1object_1_1_item_entity" ],
@@ -701,6 +704,7 @@ var annotated_dup =
           [ "PlayerEmoteEvent", "d5/d7c/classpocketmine_1_1event_1_1player_1_1_player_emote_event.html", "d5/d7c/classpocketmine_1_1event_1_1player_1_1_player_emote_event" ],
           [ "PlayerEnchantingOptionsRequestEvent", "d4/db8/classpocketmine_1_1event_1_1player_1_1_player_enchanting_options_request_event.html", "d4/db8/classpocketmine_1_1event_1_1player_1_1_player_enchanting_options_request_event" ],
           [ "PlayerEntityInteractEvent", "d0/d26/classpocketmine_1_1event_1_1player_1_1_player_entity_interact_event.html", "d0/d26/classpocketmine_1_1event_1_1player_1_1_player_entity_interact_event" ],
+          [ "PlayerEntityPickEvent", "d7/dc0/classpocketmine_1_1event_1_1player_1_1_player_entity_pick_event.html", "d7/dc0/classpocketmine_1_1event_1_1player_1_1_player_entity_pick_event" ],
           [ "PlayerEvent", "d1/db1/classpocketmine_1_1event_1_1player_1_1_player_event.html", "d1/db1/classpocketmine_1_1event_1_1player_1_1_player_event" ],
           [ "PlayerExhaustEvent", "d9/dfb/classpocketmine_1_1event_1_1player_1_1_player_exhaust_event.html", "d9/dfb/classpocketmine_1_1event_1_1player_1_1_player_exhaust_event" ],
           [ "PlayerExperienceChangeEvent", "df/d28/classpocketmine_1_1event_1_1player_1_1_player_experience_change_event.html", "df/d28/classpocketmine_1_1event_1_1player_1_1_player_experience_change_event" ],
@@ -876,6 +880,7 @@ var annotated_dup =
         [ "Dye", "d4/d96/classpocketmine_1_1item_1_1_dye.html", "d4/d96/classpocketmine_1_1item_1_1_dye" ],
         [ "Egg", "de/dd3/classpocketmine_1_1item_1_1_egg.html", "de/dd3/classpocketmine_1_1item_1_1_egg" ],
         [ "EnchantedBook", "df/dad/classpocketmine_1_1item_1_1_enchanted_book.html", "df/dad/classpocketmine_1_1item_1_1_enchanted_book" ],
+        [ "EndCrystal", "d2/d6f/classpocketmine_1_1item_1_1_end_crystal.html", "d2/d6f/classpocketmine_1_1item_1_1_end_crystal" ],
         [ "EnderPearl", "d0/db1/classpocketmine_1_1item_1_1_ender_pearl.html", "d0/db1/classpocketmine_1_1item_1_1_ender_pearl" ],
         [ "ExperienceBottle", "d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html", "d0/dac/classpocketmine_1_1item_1_1_experience_bottle" ],
         [ "Fertilizer", "d2/df4/classpocketmine_1_1item_1_1_fertilizer.html", "d2/df4/classpocketmine_1_1item_1_1_fertilizer" ],
@@ -886,6 +891,7 @@ var annotated_dup =
         [ "FoodSourceItem", "de/d44/interfacepocketmine_1_1item_1_1_food_source_item.html", "de/d44/interfacepocketmine_1_1item_1_1_food_source_item" ],
         [ "GlassBottle", "d2/d57/classpocketmine_1_1item_1_1_glass_bottle.html", "d2/d57/classpocketmine_1_1item_1_1_glass_bottle" ],
         [ "GlowBerries", "d0/d18/classpocketmine_1_1item_1_1_glow_berries.html", "d0/d18/classpocketmine_1_1item_1_1_glow_berries" ],
+        [ "GoatHorn", "d5/d62/classpocketmine_1_1item_1_1_goat_horn.html", "d5/d62/classpocketmine_1_1item_1_1_goat_horn" ],
         [ "GoldenApple", "db/dc4/classpocketmine_1_1item_1_1_golden_apple.html", "db/dc4/classpocketmine_1_1item_1_1_golden_apple" ],
         [ "GoldenAppleEnchanted", "d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html", "d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted" ],
         [ "GoldenCarrot", "d3/d87/classpocketmine_1_1item_1_1_golden_carrot.html", "d3/d87/classpocketmine_1_1item_1_1_golden_carrot" ],
@@ -1933,6 +1939,7 @@ var annotated_dup =
           [ "GhastShootSound", "d9/d29/classpocketmine_1_1world_1_1sound_1_1_ghast_shoot_sound.html", "d9/d29/classpocketmine_1_1world_1_1sound_1_1_ghast_shoot_sound" ],
           [ "GhastSound", "d0/d46/classpocketmine_1_1world_1_1sound_1_1_ghast_sound.html", "d0/d46/classpocketmine_1_1world_1_1sound_1_1_ghast_sound" ],
           [ "GlowBerriesPickSound", "d4/d66/classpocketmine_1_1world_1_1sound_1_1_glow_berries_pick_sound.html", "d4/d66/classpocketmine_1_1world_1_1sound_1_1_glow_berries_pick_sound" ],
+          [ "GoatHornSound", "da/df5/classpocketmine_1_1world_1_1sound_1_1_goat_horn_sound.html", "da/df5/classpocketmine_1_1world_1_1sound_1_1_goat_horn_sound" ],
           [ "IgniteSound", "d2/d6c/classpocketmine_1_1world_1_1sound_1_1_ignite_sound.html", "d2/d6c/classpocketmine_1_1world_1_1sound_1_1_ignite_sound" ],
           [ "InkSacUseSound", "df/d0d/classpocketmine_1_1world_1_1sound_1_1_ink_sac_use_sound.html", "df/d0d/classpocketmine_1_1world_1_1sound_1_1_ink_sac_use_sound" ],
           [ "ItemBreakSound", "df/d35/classpocketmine_1_1world_1_1sound_1_1_item_break_sound.html", "df/d35/classpocketmine_1_1world_1_1sound_1_1_item_break_sound" ],

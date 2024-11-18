@@ -37,6 +37,7 @@ var classpocketmine_1_1entity_1_1_human =
     [ "getMaxAirSupplyTicks", "d4/ddf/classpocketmine_1_1entity_1_1_human.html#aa1f0a3a68610eb735693198e77a04f45", null ],
     [ "getOwningEntity", "d4/ddf/classpocketmine_1_1entity_1_1_human.html#afdd4efc12fe21730ceb104af111f576d", null ],
     [ "getOwningEntityId", "d4/ddf/classpocketmine_1_1entity_1_1_human.html#a1bc4a8d3a405c0923c2ed2a8dbcff9a7", null ],
+    [ "getPickedItem", "d4/ddf/classpocketmine_1_1entity_1_1_human.html#a75141c6ee2a98bd8b3f1ab49998b455c", null ],
     [ "getSkin", "d4/ddf/classpocketmine_1_1entity_1_1_human.html#ac6cb15e71acfe29c3580ab7225fc41dc", null ],
     [ "getTargetBlock", "d4/ddf/classpocketmine_1_1entity_1_1_human.html#a80611cafb3218eaedf17031a133bbeef", null ],
     [ "getTargetEntity", "d4/ddf/classpocketmine_1_1entity_1_1_human.html#aadf061fdcc839a812188363a4a9dc3b5", null ],

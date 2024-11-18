@@ -1,5 +1,5 @@
 <map id="pocketmine\entity\Squid" name="pocketmine\entity\Squid">
-<area shape="rect" id="Node000001" title=" " alt="" coords="162,2040,334,2245"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="162,2040,334,2265"/>
 <area shape="rect" id="Node000002" href="$df/d3c/classpocketmine_1_1entity_1_1_water_animal.html" title=" " alt="" coords="138,1867,358,1992"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,2006,251,2040,245,2040,245,2006"/>
 <area shape="rect" id="Node000003" href="$df/d0c/classpocketmine_1_1entity_1_1_living.html" title=" " alt="" coords="5,1059,251,1819"/>

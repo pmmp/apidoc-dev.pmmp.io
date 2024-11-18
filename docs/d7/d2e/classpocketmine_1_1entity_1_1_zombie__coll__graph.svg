@@ -59,22 +59,24 @@ var sectionId = 'dynsection-1';
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="transparent" points="480.5,-264.5 340.5,-264.5 340.5,-155.5 480.5,-155.5 480.5,-264.5"/>
-<text text-anchor="start" x="345.5" y="-252" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\entity\Zombie</text>
-<text text-anchor="start" x="408.5" y="-237" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="349.5" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="367.5" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">getDrops()</text>
-<text text-anchor="start" x="349.5" y="-207" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="367.5" y="-207" font-family="Helvetica,sans-Serif" font-size="10.00">getName()</text>
-<text text-anchor="start" x="349.5" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="367.5" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00">getNetworkTypeId()</text>
-<text text-anchor="start" x="349.5" y="-177" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="367.5" y="-177" font-family="Helvetica,sans-Serif" font-size="10.00">getXpDropAmount()</text>
-<text text-anchor="start" x="349.5" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="367.5" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">getInitialSizeInfo()</text>
-<polygon fill="#666666" stroke="#666666" points="340.5,-247 340.5,-247 480.5,-247 480.5,-247 340.5,-247"/>
-<polygon fill="#666666" stroke="#666666" points="340.5,-232 340.5,-232 480.5,-232 480.5,-232 340.5,-232"/>
-<polygon fill="none" stroke="#666666" points="340.5,-155.5 340.5,-264.5 480.5,-264.5 480.5,-155.5 340.5,-155.5"/>
+<polygon fill="#999999" stroke="transparent" points="480.5,-272 340.5,-272 340.5,-148 480.5,-148 480.5,-272"/>
+<text text-anchor="start" x="345.5" y="-260" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\entity\Zombie</text>
+<text text-anchor="start" x="408.5" y="-245" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="349.5" y="-230" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="367.5" y="-230" font-family="Helvetica,sans-Serif" font-size="10.00">getDrops()</text>
+<text text-anchor="start" x="349.5" y="-215" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="367.5" y="-215" font-family="Helvetica,sans-Serif" font-size="10.00">getName()</text>
+<text text-anchor="start" x="349.5" y="-200" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="367.5" y="-200" font-family="Helvetica,sans-Serif" font-size="10.00">getNetworkTypeId()</text>
+<text text-anchor="start" x="349.5" y="-185" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="367.5" y="-185" font-family="Helvetica,sans-Serif" font-size="10.00">getPickedItem()</text>
+<text text-anchor="start" x="349.5" y="-170" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="367.5" y="-170" font-family="Helvetica,sans-Serif" font-size="10.00">getXpDropAmount()</text>
+<text text-anchor="start" x="349.5" y="-155" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="367.5" y="-155" font-family="Helvetica,sans-Serif" font-size="10.00">getInitialSizeInfo()</text>
+<polygon fill="#666666" stroke="#666666" points="340.5,-255 340.5,-255 480.5,-255 480.5,-255 340.5,-255"/>
+<polygon fill="#666666" stroke="#666666" points="340.5,-240 340.5,-240 480.5,-240 480.5,-240 340.5,-240"/>
+<polygon fill="none" stroke="#666666" points="340.5,-148 340.5,-272 480.5,-272 480.5,-148 340.5,-148"/>
 </a>
 </g>
 </g>
@@ -166,7 +168,7 @@ var sectionId = 'dynsection-1';
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node2&#45;&gt;Node1</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M410.5,-446.64C410.5,-376.57 410.5,-309.27 410.5,-264.66"/>
+<path fill="none" stroke="#63b8ff" d="M410.5,-446.78C410.5,-380.58 410.5,-316.84 410.5,-272.36"/>
 <polygon fill="none" stroke="#63b8ff" points="407,-446.99 410.5,-456.99 414,-446.99 407,-446.99"/>
 </a>
 </g>
@@ -244,7 +246,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="880.5" y="-1324" font-family="Helvetica,sans-Serif" font-size="10.00">canBeMovedByCurrents()</text>
 <text text-anchor="start" x="867.5" y="-1309" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="880.5" y="-1309" font-family="Helvetica,sans-Serif" font-size="10.00">canBeRenamed()</text>
-<text text-anchor="start" x="880.5" y="-1294" font-family="Helvetica,sans-Serif" font-size="10.00">and 93 more...</text>
+<text text-anchor="start" x="880.5" y="-1294" font-family="Helvetica,sans-Serif" font-size="10.00">and 94 more...</text>
 <text text-anchor="start" x="867.5" y="-1279" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="880.5" y="-1279" font-family="Helvetica,sans-Serif" font-size="10.00">nextRuntimeId()</text>
 <text text-anchor="start" x="867.5" y="-1264" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>

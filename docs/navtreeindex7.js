@@ -1,5 +1,7 @@
 var NAVTREEINDEX7 =
 {
+"d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a8307fc850da5c3f36e9dfc7ce639fe55":[3,0,1,0,248,49],
+"d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[2,0,1,0,246,31],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,248,31],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,1,0,246,60],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,248,60],
@@ -92,7 +94,7 @@ var NAVTREEINDEX7 =
 "d0/d9a/classpocketmine_1_1block_1_1tile_1_1_beacon.html#aae5a51b50f48ba5b0a8559c0c12a8456":[2,0,1,0,0,2,6],
 "d0/d9a/classpocketmine_1_1block_1_1tile_1_1_beacon.html#aae5a51b50f48ba5b0a8559c0c12a8456":[3,0,1,0,1,2,6],
 "d0/d9b/_saturation_effect_8php_source.html":[4,0,0,6,1,13],
-"d0/d9b/_water_splash_sound_8php_source.html":[4,0,0,25,5,97],
+"d0/d9b/_water_splash_sound_8php_source.html":[4,0,0,25,5,98],
 "d0/d9b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_block_remap.html":[3,0,1,6,0,0,1,0,1],
 "d0/d9b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_block_remap.html#a7e3d878de079861223b7c5431f4e4a23":[3,0,1,6,0,0,1,0,1,1],
 "d0/d9b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_block_remap.html#aa3e9cb0d1cbf85fb98c1ec4197bcdaa8":[3,0,1,6,0,0,1,0,1,2],
@@ -239,15 +241,13 @@ var NAVTREEINDEX7 =
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,52,16],
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,1,0,50,27],
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,52,27],
-"d0/da3/classpocketmine_1_1event_1_1player_1_1_player_toggle_sprint_event.html":[2,0,1,3,3,41],
-"d0/da3/classpocketmine_1_1event_1_1player_1_1_player_toggle_sprint_event.html":[3,0,1,9,3,41],
-"d0/da3/classpocketmine_1_1event_1_1player_1_1_player_toggle_sprint_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,1,3,3,41,0],
-"d0/da3/classpocketmine_1_1event_1_1player_1_1_player_toggle_sprint_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,3,41,0],
-"d0/da3/classpocketmine_1_1event_1_1player_1_1_player_toggle_sprint_event.html#a90efcab0d539a5cb5b17968dfa164017":[2,0,1,3,3,41,2],
-"d0/da3/classpocketmine_1_1event_1_1player_1_1_player_toggle_sprint_event.html#a90efcab0d539a5cb5b17968dfa164017":[3,0,1,9,3,41,2],
-"d0/da3/classpocketmine_1_1event_1_1player_1_1_player_toggle_sprint_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,1,3,3,41,1],
-"d0/da3/classpocketmine_1_1event_1_1player_1_1_player_toggle_sprint_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,3,41,1],
-"d0/da3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_command_output_packet.html":[3,0,1,16,0,6,44],
-"d0/da3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_command_output_packet.html#a6afeeac29f103fe0a28ecfcd41f795ce":[3,0,1,16,0,6,44,6],
-"d0/da3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_command_output_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,44,3]
+"d0/da3/classpocketmine_1_1event_1_1player_1_1_player_toggle_sprint_event.html":[2,0,1,3,3,42],
+"d0/da3/classpocketmine_1_1event_1_1player_1_1_player_toggle_sprint_event.html":[3,0,1,9,3,42],
+"d0/da3/classpocketmine_1_1event_1_1player_1_1_player_toggle_sprint_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,1,3,3,42,0],
+"d0/da3/classpocketmine_1_1event_1_1player_1_1_player_toggle_sprint_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,3,42,0],
+"d0/da3/classpocketmine_1_1event_1_1player_1_1_player_toggle_sprint_event.html#a90efcab0d539a5cb5b17968dfa164017":[2,0,1,3,3,42,2],
+"d0/da3/classpocketmine_1_1event_1_1player_1_1_player_toggle_sprint_event.html#a90efcab0d539a5cb5b17968dfa164017":[3,0,1,9,3,42,2],
+"d0/da3/classpocketmine_1_1event_1_1player_1_1_player_toggle_sprint_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,1,3,3,42,1],
+"d0/da3/classpocketmine_1_1event_1_1player_1_1_player_toggle_sprint_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,3,42,1],
+"d0/da3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_command_output_packet.html":[3,0,1,16,0,6,44]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX15 =
 {
+"d1/d18/classpocketmine_1_1item_1_1_compass.html#a23c827b82179f8a57b786a6fa38d08e8":[3,0,1,12,26,19],
+"d1/d18/classpocketmine_1_1item_1_1_compass.html#a27ef1db0d41125973529fb720b06a00d":[2,0,1,5,25,32],
+"d1/d18/classpocketmine_1_1item_1_1_compass.html#a27ef1db0d41125973529fb720b06a00d":[3,0,1,12,26,32],
+"d1/d18/classpocketmine_1_1item_1_1_compass.html#a2b35e6f346e5955b086fcc07ead985a7":[2,0,1,5,25,24],
 "d1/d18/classpocketmine_1_1item_1_1_compass.html#a2b35e6f346e5955b086fcc07ead985a7":[3,0,1,12,26,24],
 "d1/d18/classpocketmine_1_1item_1_1_compass.html#a2bcaa528592d9ae259e2e6d0b89f375d":[2,0,1,5,25,21],
 "d1/d18/classpocketmine_1_1item_1_1_compass.html#a2bcaa528592d9ae259e2e6d0b89f375d":[3,0,1,12,26,21],
@@ -129,8 +133,8 @@ var NAVTREEINDEX15 =
 "d1/d26/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_mob_armor_equipment_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,94,1],
 "d1/d26/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_mob_armor_equipment_packet.html#ad6c1c3ed4c521db9077739c7a73b7f43":[3,0,1,16,0,6,94,5],
 "d1/d26/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_mob_armor_equipment_packet.html#af7251a30526a421583cc67bd9cadf0fb":[3,0,1,16,0,6,94,2],
-"d1/d27/_player_jump_event_8php_source.html":[4,0,0,7,3,29],
-"d1/d27/_pufferfish_8php_source.html":[4,0,0,10,84],
+"d1/d27/_player_jump_event_8php_source.html":[4,0,0,7,3,30],
+"d1/d27/_pufferfish_8php_source.html":[4,0,0,10,87],
 "d1/d29/classpocketmine_1_1nbt_1_1tag_1_1_long_tag.html":[3,0,1,15,0,9],
 "d1/d29/classpocketmine_1_1nbt_1_1tag_1_1_long_tag.html#a0520fce9058b73a0dadee60471253525":[3,0,1,15,0,9,2],
 "d1/d29/classpocketmine_1_1nbt_1_1tag_1_1_long_tag.html#a2dc1dd642733019aaf582e7aba3eaf30":[3,0,1,15,0,9,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX15 =
 "d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[2,0,1,0,40,13],
 "d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[3,0,1,0,42,13],
 "d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#ac34d7d0bd5e5173f331e56f6b97ca796":[2,0,1,0,40,51],
-"d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#ac34d7d0bd5e5173f331e56f6b97ca796":[3,0,1,0,42,51],
-"d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#ac85f12ad4e4d729db9f27ecb8e97998b":[2,0,1,0,40,53],
-"d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,42,53],
-"d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#acb449b40461f4800cf6e6288cb9a069d":[2,0,1,0,40,1],
-"d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#acb449b40461f4800cf6e6288cb9a069d":[3,0,1,0,42,1]
+"d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#ac34d7d0bd5e5173f331e56f6b97ca796":[3,0,1,0,42,51]
 };

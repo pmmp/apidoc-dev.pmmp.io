@@ -1,5 +1,9 @@
 var NAVTREEINDEX19 =
 {
+"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,155,28],
+"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,1,0,153,56],
+"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,155,56],
+"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,1,0,153,11],
 "d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,155,11],
 "d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a9404d9040389f3ff2462f86d9a181160":[2,0,1,0,153,66],
 "d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,155,66],
@@ -85,7 +89,7 @@ var NAVTREEINDEX19 =
 "d1/d56/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_block_actor_data_packet.html#af9931377559f1a35806b67d4ae6b80d6":[3,0,1,16,0,6,20,5],
 "d1/d58/_authentication_data_8php_source.html":[4,0,1,0,1,0,1,5,0],
 "d1/d58/_faces_opposite_placing_player_trait_8php_source.html":[4,0,0,0,2,21],
-"d1/d5c/_milk_bucket_8php_source.html":[4,0,0,10,72],
+"d1/d5c/_milk_bucket_8php_source.html":[4,0,0,10,75],
 "d1/d5c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_edu_uri_resource_packet.html":[3,0,1,16,0,6,64],
 "d1/d5c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_edu_uri_resource_packet.html#a3906e4970f64c7ded41d0c7d3db3c063":[3,0,1,16,0,6,64,7],
 "d1/d5c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_edu_uri_resource_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,64,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX19 =
 "d1/d65/_network_chunk_publisher_update_packet_8php_source.html":[4,0,1,0,1,0,105],
 "d1/d65/classpocketmine_1_1crafting_1_1_potion_container_change_recipe.html":[3,0,1,4,10],
 "d1/d66/classpocketmine_1_1block_1_1_copper_slab.html":[2,0,1,0,68],
-"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html":[3,0,1,0,70],
-"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a028afd613a6f42370ede9aec4c9796d6":[2,0,1,0,68,49],
-"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a028afd613a6f42370ede9aec4c9796d6":[3,0,1,0,70,49],
-"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a0931c682312473fc2540464b7a4747c0":[2,0,1,0,68,59],
-"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,70,59]
+"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html":[3,0,1,0,70]
 };

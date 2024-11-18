@@ -189,7 +189,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="2141.5" y="-466" font-family="Helvetica,sans-Serif" font-size="10.00">broadcastSound()</text>
 <text text-anchor="start" x="2128.5" y="-451" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="2141.5" y="-451" font-family="Helvetica,sans-Serif" font-size="10.00">canBeCollidedWith()</text>
-<text text-anchor="start" x="2141.5" y="-436" font-family="Helvetica,sans-Serif" font-size="10.00">and 126 more...</text>
+<text text-anchor="start" x="2141.5" y="-436" font-family="Helvetica,sans-Serif" font-size="10.00">and 127 more...</text>
 <text text-anchor="start" x="2128.5" y="-421" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="2141.5" y="-421" font-family="Helvetica,sans-Serif" font-size="10.00">isValidUserName()</text>
 <text text-anchor="start" x="2128.5" y="-406" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
@@ -507,7 +507,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="922.5" y="-2194" font-family="Helvetica,sans-Serif" font-size="10.00">canBeMovedByCurrents()</text>
 <text text-anchor="start" x="909.5" y="-2179" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="922.5" y="-2179" font-family="Helvetica,sans-Serif" font-size="10.00">canBeRenamed()</text>
-<text text-anchor="start" x="922.5" y="-2164" font-family="Helvetica,sans-Serif" font-size="10.00">and 93 more...</text>
+<text text-anchor="start" x="922.5" y="-2164" font-family="Helvetica,sans-Serif" font-size="10.00">and 94 more...</text>
 <text text-anchor="start" x="909.5" y="-2149" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="922.5" y="-2149" font-family="Helvetica,sans-Serif" font-size="10.00">nextRuntimeId()</text>
 <text text-anchor="start" x="909.5" y="-2134" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>

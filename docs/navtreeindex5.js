@@ -1,5 +1,6 @@
 var NAVTREEINDEX5 =
 {
+"d0/d73/classpocketmine_1_1block_1_1_brewing_stand.html#a75b16ca6e22355cf632466a969e79211":[3,0,1,0,34,42],
 "d0/d73/classpocketmine_1_1block_1_1_brewing_stand.html#a771a30c30a36b0992f54c57dc63af10d":[2,0,1,0,32,41],
 "d0/d73/classpocketmine_1_1block_1_1_brewing_stand.html#a771a30c30a36b0992f54c57dc63af10d":[3,0,1,0,34,41],
 "d0/d73/classpocketmine_1_1block_1_1_brewing_stand.html#a8307fc850da5c3f36e9dfc7ce639fe55":[2,0,1,0,32,46],
@@ -238,7 +239,7 @@ var NAVTREEINDEX5 =
 "d0/d7a/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_player_metadata_flags.html":[3,0,1,16,0,6,1,2,17],
 "d0/d7b/classpocketmine_1_1plugin_1_1_plugin_exception.html":[2,0,1,10,9],
 "d0/d7b/classpocketmine_1_1plugin_1_1_plugin_exception.html":[3,0,1,19,9],
-"d0/d7f/_potion_type_8php_source.html":[4,0,0,10,82],
+"d0/d7f/_potion_type_8php_source.html":[4,0,0,10,85],
 "d0/d80/_console_command_sender_8php_source.html":[4,0,0,2,0],
 "d0/d80/object_2_tree_8php_source.html":[4,0,0,25,2,4,8],
 "d0/d82/_long_metadata_property_8php_source.html":[4,0,1,0,1,0,1,2,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX5 =
 "d0/d84/classpocketmine_1_1network_1_1mcpe_1_1encryption_1_1_encryption_context.html#ae00ff4f543819978f588030a7ae33c4c":[3,0,1,16,0,4,1,1],
 "d0/d85/_mangrove_roots_8php_source.html":[4,0,0,0,147],
 "d0/d85/classpocketmine_1_1network_1_1mcpe_1_1encryption_1_1_decryption_exception.html":[3,0,1,16,0,4,0],
-"d0/d85/classpocketmine_1_1world_1_1generator_1_1populator_1_1_tall_grass.html":[2,0,1,14,0,1,3],
-"d0/d85/classpocketmine_1_1world_1_1generator_1_1populator_1_1_tall_grass.html":[3,0,1,30,2,5,3]
+"d0/d85/classpocketmine_1_1world_1_1generator_1_1populator_1_1_tall_grass.html":[2,0,1,14,0,1,3]
 };

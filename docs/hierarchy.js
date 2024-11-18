@@ -507,6 +507,7 @@ var hierarchy =
       [ "pocketmine\\event\\player\\PlayerEmoteEvent", "d5/d7c/classpocketmine_1_1event_1_1player_1_1_player_emote_event.html", null ],
       [ "pocketmine\\event\\player\\PlayerEnchantingOptionsRequestEvent", "d4/db8/classpocketmine_1_1event_1_1player_1_1_player_enchanting_options_request_event.html", null ],
       [ "pocketmine\\event\\player\\PlayerEntityInteractEvent", "d0/d26/classpocketmine_1_1event_1_1player_1_1_player_entity_interact_event.html", null ],
+      [ "pocketmine\\event\\player\\PlayerEntityPickEvent", "d7/dc0/classpocketmine_1_1event_1_1player_1_1_player_entity_pick_event.html", null ],
       [ "pocketmine\\event\\player\\PlayerExhaustEvent", "d9/dfb/classpocketmine_1_1event_1_1player_1_1_player_exhaust_event.html", null ],
       [ "pocketmine\\event\\player\\PlayerExperienceChangeEvent", "df/d28/classpocketmine_1_1event_1_1player_1_1_player_experience_change_event.html", null ],
       [ "pocketmine\\event\\player\\PlayerGameModeChangeEvent", "db/d3e/classpocketmine_1_1event_1_1player_1_1_player_game_mode_change_event.html", null ],
@@ -612,7 +613,8 @@ var hierarchy =
         [ "pocketmine\\command\\defaults\\TitleCommand", "dd/d3c/classpocketmine_1_1command_1_1defaults_1_1_title_command.html", null ],
         [ "pocketmine\\command\\defaults\\TransferServerCommand", "d0/d5d/classpocketmine_1_1command_1_1defaults_1_1_transfer_server_command.html", null ],
         [ "pocketmine\\command\\defaults\\VersionCommand", "d1/d1c/classpocketmine_1_1command_1_1defaults_1_1_version_command.html", null ],
-        [ "pocketmine\\command\\defaults\\WhitelistCommand", "d5/d43/classpocketmine_1_1command_1_1defaults_1_1_whitelist_command.html", null ]
+        [ "pocketmine\\command\\defaults\\WhitelistCommand", "d5/d43/classpocketmine_1_1command_1_1defaults_1_1_whitelist_command.html", null ],
+        [ "pocketmine\\command\\defaults\\XpCommand", "d1/d77/classpocketmine_1_1command_1_1defaults_1_1_xp_command.html", null ]
       ] ]
     ] ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\command\\CommandData", "dd/d18/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_data.html", null ],
@@ -789,6 +791,7 @@ var hierarchy =
         [ "pocketmine\\entity\\WaterAnimal", "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html", null ],
         [ "pocketmine\\entity\\Zombie", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html", null ]
       ] ],
+      [ "pocketmine\\entity\\object\\EndCrystal", "dc/d98/classpocketmine_1_1entity_1_1object_1_1_end_crystal.html", null ],
       [ "pocketmine\\entity\\object\\ExperienceOrb", "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html", null ],
       [ "pocketmine\\entity\\object\\FallingBlock", "df/d14/classpocketmine_1_1entity_1_1object_1_1_falling_block.html", null ],
       [ "pocketmine\\entity\\object\\ItemEntity", "d1/d40/classpocketmine_1_1entity_1_1object_1_1_item_entity.html", null ],
@@ -894,6 +897,7 @@ var hierarchy =
         [ "pocketmine\\event\\player\\PlayerEmoteEvent", "d5/d7c/classpocketmine_1_1event_1_1player_1_1_player_emote_event.html", null ],
         [ "pocketmine\\event\\player\\PlayerEnchantingOptionsRequestEvent", "d4/db8/classpocketmine_1_1event_1_1player_1_1_player_enchanting_options_request_event.html", null ],
         [ "pocketmine\\event\\player\\PlayerEntityInteractEvent", "d0/d26/classpocketmine_1_1event_1_1player_1_1_player_entity_interact_event.html", null ],
+        [ "pocketmine\\event\\player\\PlayerEntityPickEvent", "d7/dc0/classpocketmine_1_1event_1_1player_1_1_player_entity_pick_event.html", null ],
         [ "pocketmine\\event\\player\\PlayerGameModeChangeEvent", "db/d3e/classpocketmine_1_1event_1_1player_1_1_player_game_mode_change_event.html", null ],
         [ "pocketmine\\event\\player\\PlayerInteractEvent", "d8/d28/classpocketmine_1_1event_1_1player_1_1_player_interact_event.html", null ],
         [ "pocketmine\\event\\player\\PlayerItemConsumeEvent", "da/d8e/classpocketmine_1_1event_1_1player_1_1_player_item_consume_event.html", null ],
@@ -964,6 +968,7 @@ var hierarchy =
     [ "pocketmine\\network\\mcpe\\protocol\\types\\Experiments", "db/d33/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_experiments.html", null ],
     [ "pocketmine\\world\\Explosion", "d9/df8/classpocketmine_1_1world_1_1_explosion.html", null ],
     [ "pocketmine\\entity\\Explosive", "d3/d5f/interfacepocketmine_1_1entity_1_1_explosive.html", [
+      [ "pocketmine\\entity\\object\\EndCrystal", "dc/d98/classpocketmine_1_1entity_1_1object_1_1_end_crystal.html", null ],
       [ "pocketmine\\entity\\object\\PrimedTNT", "d8/da8/classpocketmine_1_1entity_1_1object_1_1_primed_t_n_t.html", null ]
     ] ],
     [ "pocketmine\\math\\Facing", "dd/d25/classpocketmine_1_1math_1_1_facing.html", null ],
@@ -1007,6 +1012,8 @@ var hierarchy =
     [ "pocketmine\\world\\format\\io\\GlobalBlockStateHandlers", "da/d68/classpocketmine_1_1world_1_1format_1_1io_1_1_global_block_state_handlers.html", null ],
     [ "pocketmine\\world\\format\\io\\GlobalItemDataHandlers", "d2/df3/classpocketmine_1_1world_1_1format_1_1io_1_1_global_item_data_handlers.html", null ],
     [ "GlobalLogger", "df/db6/class_global_logger.html", null ],
+    [ "pocketmine\\data\\bedrock\\GoatHornTypeIdMap", "d7/d1a/classpocketmine_1_1data_1_1bedrock_1_1_goat_horn_type_id_map.html", null ],
+    [ "pocketmine\\data\\bedrock\\GoatHornTypeIds", "db/db7/classpocketmine_1_1data_1_1bedrock_1_1_goat_horn_type_ids.html", null ],
     [ "pocketmine\\event\\HandlerList", "d0/d8a/classpocketmine_1_1event_1_1_handler_list.html", null ],
     [ "pocketmine\\event\\HandlerListManager", "d5/dfd/classpocketmine_1_1event_1_1_handler_list_manager.html", null ],
     [ "pocketmine\\world\\format\\HeightArray", "df/d1d/classpocketmine_1_1world_1_1format_1_1_height_array.html", null ],
@@ -1223,10 +1230,12 @@ var hierarchy =
         ] ],
         [ "pocketmine\\item\\Dye", "d4/d96/classpocketmine_1_1item_1_1_dye.html", null ],
         [ "pocketmine\\item\\EnchantedBook", "df/dad/classpocketmine_1_1item_1_1_enchanted_book.html", null ],
+        [ "pocketmine\\item\\EndCrystal", "d2/d6f/classpocketmine_1_1item_1_1_end_crystal.html", null ],
         [ "pocketmine\\item\\Fertilizer", "d2/df4/classpocketmine_1_1item_1_1_fertilizer.html", null ],
         [ "pocketmine\\item\\FireCharge", "d9/d13/classpocketmine_1_1item_1_1_fire_charge.html", null ],
         [ "pocketmine\\item\\Food", "dc/de1/classpocketmine_1_1item_1_1_food.html", null ],
         [ "pocketmine\\item\\GlassBottle", "d2/d57/classpocketmine_1_1item_1_1_glass_bottle.html", null ],
+        [ "pocketmine\\item\\GoatHorn", "d5/d62/classpocketmine_1_1item_1_1_goat_horn.html", null ],
         [ "pocketmine\\item\\ItemBlock", "dd/d08/classpocketmine_1_1item_1_1_item_block.html", null ],
         [ "pocketmine\\item\\ItemBlockWallOrFloor", "d8/d23/classpocketmine_1_1item_1_1_item_block_wall_or_floor.html", [
           [ "pocketmine\\item\\Banner", "d8/d7a/classpocketmine_1_1item_1_1_banner.html", null ]
@@ -2045,6 +2054,7 @@ var hierarchy =
     [ "pocketmine\\item\\Releasable", "d4/d35/interfacepocketmine_1_1item_1_1_releasable.html", [
       [ "pocketmine\\item\\Bow", "d5/dbc/classpocketmine_1_1item_1_1_bow.html", null ],
       [ "pocketmine\\item\\ConsumableItem", "d2/de2/interfacepocketmine_1_1item_1_1_consumable_item.html", null ],
+      [ "pocketmine\\item\\GoatHorn", "d5/d62/classpocketmine_1_1item_1_1_goat_horn.html", null ],
       [ "pocketmine\\item\\Spyglass", "d5/da3/classpocketmine_1_1item_1_1_spyglass.html", null ]
     ] ],
     [ "raklib\\generic\\ReliableCacheEntry", "d2/d87/classraklib_1_1generic_1_1_reliable_cache_entry.html", null ],
@@ -2239,6 +2249,7 @@ var hierarchy =
       [ "pocketmine\\world\\sound\\GhastShootSound", "d9/d29/classpocketmine_1_1world_1_1sound_1_1_ghast_shoot_sound.html", null ],
       [ "pocketmine\\world\\sound\\GhastSound", "d0/d46/classpocketmine_1_1world_1_1sound_1_1_ghast_sound.html", null ],
       [ "pocketmine\\world\\sound\\GlowBerriesPickSound", "d4/d66/classpocketmine_1_1world_1_1sound_1_1_glow_berries_pick_sound.html", null ],
+      [ "pocketmine\\world\\sound\\GoatHornSound", "da/df5/classpocketmine_1_1world_1_1sound_1_1_goat_horn_sound.html", null ],
       [ "pocketmine\\world\\sound\\IgniteSound", "d2/d6c/classpocketmine_1_1world_1_1sound_1_1_ignite_sound.html", null ],
       [ "pocketmine\\world\\sound\\InkSacUseSound", "df/d0d/classpocketmine_1_1world_1_1sound_1_1_ink_sac_use_sound.html", null ],
       [ "pocketmine\\world\\sound\\ItemBreakSound", "df/d35/classpocketmine_1_1world_1_1sound_1_1_item_break_sound.html", null ],
@@ -2424,7 +2435,6 @@ var hierarchy =
     [ "pocketmine\\utils\\VersionString", "df/d22/classpocketmine_1_1utils_1_1_version_string.html", null ],
     [ "pocketmine\\math\\VoxelRayTrace", "d4/d39/classpocketmine_1_1math_1_1_voxel_ray_trace.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\WindowTypes", "d4/df2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_window_types.html", null ],
-    [ "pocketmine\\block\\WoodLikeBlockIdHelper", "d9/de8/classpocketmine_1_1block_1_1_wood_like_block_id_helper.html", null ],
     [ "pocketmine\\world\\WorldCreationOptions", "d0/d15/classpocketmine_1_1world_1_1_world_creation_options.html", null ],
     [ "pocketmine\\world\\format\\io\\WorldData", "d7/d4e/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_data.html", [
       [ "pocketmine\\world\\format\\io\\data\\BaseNbtWorldData", "d1/def/classpocketmine_1_1world_1_1format_1_1io_1_1data_1_1_base_nbt_world_data.html", [
