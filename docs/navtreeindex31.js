@@ -194,7 +194,7 @@ var NAVTREEINDEX31 =
 "d2/d25/classpocketmine_1_1item_1_1_baked_potato.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,7,40],
 "d2/d2a/_save_off_command_8php_source.html":[4,0,0,1,0,24],
 "d2/d2a/vendor_2pocketmine_2bedrock-protocol_2src_2types_2recipe_2_potion_type_recipe_8php_source.html":[4,0,1,0,1,0,1,6,12],
-"d2/d2b/_throw_sound_8php_source.html":[4,0,0,25,5,96],
+"d2/d2b/_throw_sound_8php_source.html":[4,0,0,25,5,97],
 "d2/d2c/_server_config_group_8php_source.html":[4,0,0,31],
 "d2/d2c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_attributes_packet.html":[3,0,1,16,0,6,206],
 "d2/d2c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_attributes_packet.html#a5c8b86d57092b86a645d5ec28796ef35":[3,0,1,16,0,6,206,7],

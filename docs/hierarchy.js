@@ -643,6 +643,7 @@ var hierarchy =
     [ "pocketmine\\utils\\Config", "d6/d2c/classpocketmine_1_1utils_1_1_config.html", null ],
     [ "pocketmine\\console\\ConsoleReader", "d9/d8a/classpocketmine_1_1console_1_1_console_reader.html", null ],
     [ "pocketmine\\console\\ConsoleReaderChildProcessDaemon", "dc/d82/classpocketmine_1_1console_1_1_console_reader_child_process_daemon.html", null ],
+    [ "pocketmine\\console\\ConsoleReaderChildProcessUtils", "d4/da8/classpocketmine_1_1console_1_1_console_reader_child_process_utils.html", null ],
     [ "pocketmine\\entity\\Consumable", "db/d3f/interfacepocketmine_1_1entity_1_1_consumable.html", [
       [ "pocketmine\\entity\\FoodSource", "df/dfd/interfacepocketmine_1_1entity_1_1_food_source.html", [
         [ "pocketmine\\block\\BaseCake", "d6/dc5/classpocketmine_1_1block_1_1_base_cake.html", null ],
@@ -803,6 +804,7 @@ var hierarchy =
           [ "pocketmine\\entity\\projectile\\Egg", "dc/d4e/classpocketmine_1_1entity_1_1projectile_1_1_egg.html", null ],
           [ "pocketmine\\entity\\projectile\\EnderPearl", "d4/dd6/classpocketmine_1_1entity_1_1projectile_1_1_ender_pearl.html", null ],
           [ "pocketmine\\entity\\projectile\\ExperienceBottle", "d6/d1e/classpocketmine_1_1entity_1_1projectile_1_1_experience_bottle.html", null ],
+          [ "pocketmine\\entity\\projectile\\IceBomb", "d8/df4/classpocketmine_1_1entity_1_1projectile_1_1_ice_bomb.html", null ],
           [ "pocketmine\\entity\\projectile\\Snowball", "d5/dcf/classpocketmine_1_1entity_1_1projectile_1_1_snowball.html", null ],
           [ "pocketmine\\entity\\projectile\\SplashPotion", "d3/d2c/classpocketmine_1_1entity_1_1projectile_1_1_splash_potion.html", null ]
         ] ]
@@ -1253,6 +1255,7 @@ var hierarchy =
           [ "pocketmine\\item\\Egg", "de/dd3/classpocketmine_1_1item_1_1_egg.html", null ],
           [ "pocketmine\\item\\EnderPearl", "d0/db1/classpocketmine_1_1item_1_1_ender_pearl.html", null ],
           [ "pocketmine\\item\\ExperienceBottle", "d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html", null ],
+          [ "pocketmine\\item\\IceBomb", "d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html", null ],
           [ "pocketmine\\item\\Snowball", "d0/dc7/classpocketmine_1_1item_1_1_snowball.html", null ],
           [ "pocketmine\\item\\SplashPotion", "d7/d11/classpocketmine_1_1item_1_1_splash_potion.html", null ]
         ] ],
@@ -2250,6 +2253,7 @@ var hierarchy =
       [ "pocketmine\\world\\sound\\GhastSound", "d0/d46/classpocketmine_1_1world_1_1sound_1_1_ghast_sound.html", null ],
       [ "pocketmine\\world\\sound\\GlowBerriesPickSound", "d4/d66/classpocketmine_1_1world_1_1sound_1_1_glow_berries_pick_sound.html", null ],
       [ "pocketmine\\world\\sound\\GoatHornSound", "da/df5/classpocketmine_1_1world_1_1sound_1_1_goat_horn_sound.html", null ],
+      [ "pocketmine\\world\\sound\\IceBombHitSound", "d2/d64/classpocketmine_1_1world_1_1sound_1_1_ice_bomb_hit_sound.html", null ],
       [ "pocketmine\\world\\sound\\IgniteSound", "d2/d6c/classpocketmine_1_1world_1_1sound_1_1_ignite_sound.html", null ],
       [ "pocketmine\\world\\sound\\InkSacUseSound", "df/d0d/classpocketmine_1_1world_1_1sound_1_1_ink_sac_use_sound.html", null ],
       [ "pocketmine\\world\\sound\\ItemBreakSound", "df/d35/classpocketmine_1_1world_1_1sound_1_1_item_break_sound.html", null ],

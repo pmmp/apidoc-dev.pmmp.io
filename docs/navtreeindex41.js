@@ -1,5 +1,7 @@
 var NAVTREEINDEX41 =
 {
+"d2/dd2/classpocketmine_1_1item_1_1_beetroot.html#ac7e878537e8ea68cc0d4d565f9f25062":[2,0,1,5,9,45],
+"d2/dd2/classpocketmine_1_1item_1_1_beetroot.html#ac7e878537e8ea68cc0d4d565f9f25062":[3,0,1,12,10,45],
 "d2/dd2/classpocketmine_1_1item_1_1_beetroot.html#ad2d004e5063f6ca465ed956b024217b1":[2,0,1,5,9,28],
 "d2/dd2/classpocketmine_1_1item_1_1_beetroot.html#ad2d004e5063f6ca465ed956b024217b1":[3,0,1,12,10,28],
 "d2/dd2/classpocketmine_1_1item_1_1_beetroot.html#ad981d95fce9c8a14832dc5fabbf4f3e4":[2,0,1,5,9,23],
@@ -37,8 +39,8 @@ var NAVTREEINDEX41 =
 "d2/dd7/classpocketmine_1_1event_1_1player_1_1_player_bed_enter_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,3,0,1],
 "d2/dd8/_zombie_8php_source.html":[4,0,0,6,26],
 "d2/ddb/_small_mountains_biome_8php_source.html":[4,0,0,25,0,12],
-"d2/ddc/classpocketmine_1_1world_1_1sound_1_1_launch_sound.html":[3,0,1,30,5,76],
-"d2/ddc/classpocketmine_1_1world_1_1sound_1_1_launch_sound.html#ab44bcbad4af3dcc616637f6123a6a4aa":[3,0,1,30,5,76,0],
+"d2/ddc/classpocketmine_1_1world_1_1sound_1_1_launch_sound.html":[3,0,1,30,5,77],
+"d2/ddc/classpocketmine_1_1world_1_1sound_1_1_launch_sound.html#ab44bcbad4af3dcc616637f6123a6a4aa":[3,0,1,30,5,77,0],
 "d2/ddd/_anvil_inventory_8php_source.html":[4,0,0,0,0,1],
 "d2/de0/_hoe_8php_source.html":[4,0,0,10,58],
 "d2/de0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_editor_network_packet.html":[3,0,1,16,0,6,62],
@@ -72,7 +74,7 @@ var NAVTREEINDEX41 =
 "d2/de3/classpocketmine_1_1crafting_1_1json_1_1_recipe_ingredient_data.html":[3,0,1,4,0,4],
 "d2/de5/_dripleaf_tilt_up_sound_8php_source.html":[4,0,0,25,5,50],
 "d2/de6/_not_cloneable_8php_source.html":[4,0,0,23,13],
-"d2/de7/_item_cooldown_tags_8php_source.html":[4,0,0,10,63],
+"d2/de7/_item_cooldown_tags_8php_source.html":[4,0,0,10,64],
 "d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html":[2,0,1,0,64],
 "d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html":[3,0,1,0,66],
 "d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a0931c682312473fc2540464b7a4747c0":[2,0,1,0,64,58],
@@ -247,7 +249,5 @@ var NAVTREEINDEX41 =
 "d2/ded/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_generator_type.html":[3,0,1,16,0,6,1,38],
 "d2/dee/_attachable_logger_8php_source.html":[4,0,1,0,6,0,0],
 "d2/def/_on_screen_texture_animation_packet_8php_source.html":[4,0,1,0,1,0,110],
-"d2/df0/_loaded_chunk_data_8php_source.html":[4,0,0,25,1,0,11],
-"d2/df0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_client_data.html":[3,0,1,16,0,6,1,4,1],
-"d2/df0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_client_data.html#a0400a51789f854ec2586b0df486fc4fb":[3,0,1,16,0,6,1,4,1,10]
+"d2/df0/_loaded_chunk_data_8php_source.html":[4,0,0,25,1,0,11]
 };

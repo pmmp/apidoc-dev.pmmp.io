@@ -89,7 +89,7 @@ var NAVTREEINDEX19 =
 "d1/d56/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_block_actor_data_packet.html#af9931377559f1a35806b67d4ae6b80d6":[3,0,1,16,0,6,20,5],
 "d1/d58/_authentication_data_8php_source.html":[4,0,1,0,1,0,1,5,0],
 "d1/d58/_faces_opposite_placing_player_trait_8php_source.html":[4,0,0,0,2,21],
-"d1/d5c/_milk_bucket_8php_source.html":[4,0,0,10,75],
+"d1/d5c/_milk_bucket_8php_source.html":[4,0,0,10,76],
 "d1/d5c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_edu_uri_resource_packet.html":[3,0,1,16,0,6,64],
 "d1/d5c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_edu_uri_resource_packet.html#a3906e4970f64c7ded41d0c7d3db3c063":[3,0,1,16,0,6,64,7],
 "d1/d5c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_edu_uri_resource_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,64,4],

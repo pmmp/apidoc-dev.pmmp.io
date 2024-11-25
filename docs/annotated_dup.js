@@ -395,7 +395,8 @@ var annotated_dup =
       [ "console", null, [
         [ "ConsoleCommandSender", "da/dad/classpocketmine_1_1console_1_1_console_command_sender.html", "da/dad/classpocketmine_1_1console_1_1_console_command_sender" ],
         [ "ConsoleReader", "d9/d8a/classpocketmine_1_1console_1_1_console_reader.html", "d9/d8a/classpocketmine_1_1console_1_1_console_reader" ],
-        [ "ConsoleReaderChildProcessDaemon", "dc/d82/classpocketmine_1_1console_1_1_console_reader_child_process_daemon.html", null ]
+        [ "ConsoleReaderChildProcessDaemon", "dc/d82/classpocketmine_1_1console_1_1_console_reader_child_process_daemon.html", null ],
+        [ "ConsoleReaderChildProcessUtils", "d4/da8/classpocketmine_1_1console_1_1_console_reader_child_process_utils.html", "d4/da8/classpocketmine_1_1console_1_1_console_reader_child_process_utils" ]
       ] ],
       [ "crafting", null, [
         [ "json", null, [
@@ -582,6 +583,7 @@ var annotated_dup =
           [ "Egg", "dc/d4e/classpocketmine_1_1entity_1_1projectile_1_1_egg.html", "dc/d4e/classpocketmine_1_1entity_1_1projectile_1_1_egg" ],
           [ "EnderPearl", "d4/dd6/classpocketmine_1_1entity_1_1projectile_1_1_ender_pearl.html", "d4/dd6/classpocketmine_1_1entity_1_1projectile_1_1_ender_pearl" ],
           [ "ExperienceBottle", "d6/d1e/classpocketmine_1_1entity_1_1projectile_1_1_experience_bottle.html", "d6/d1e/classpocketmine_1_1entity_1_1projectile_1_1_experience_bottle" ],
+          [ "IceBomb", "d8/df4/classpocketmine_1_1entity_1_1projectile_1_1_ice_bomb.html", "d8/df4/classpocketmine_1_1entity_1_1projectile_1_1_ice_bomb" ],
           [ "Projectile", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html", "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile" ],
           [ "ProjectileSource", "d0/d26/interfacepocketmine_1_1entity_1_1projectile_1_1_projectile_source.html", null ],
           [ "Snowball", "d5/dcf/classpocketmine_1_1entity_1_1projectile_1_1_snowball.html", "d5/dcf/classpocketmine_1_1entity_1_1projectile_1_1_snowball" ],
@@ -897,6 +899,7 @@ var annotated_dup =
         [ "GoldenCarrot", "d3/d87/classpocketmine_1_1item_1_1_golden_carrot.html", "d3/d87/classpocketmine_1_1item_1_1_golden_carrot" ],
         [ "Hoe", "db/d96/classpocketmine_1_1item_1_1_hoe.html", "db/d96/classpocketmine_1_1item_1_1_hoe" ],
         [ "HoneyBottle", "d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html", "d9/d0e/classpocketmine_1_1item_1_1_honey_bottle" ],
+        [ "IceBomb", "d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html", "d9/dfd/classpocketmine_1_1item_1_1_ice_bomb" ],
         [ "Item", "d5/d8a/classpocketmine_1_1item_1_1_item.html", "d5/d8a/classpocketmine_1_1item_1_1_item" ],
         [ "ItemBlock", "dd/d08/classpocketmine_1_1item_1_1_item_block.html", "dd/d08/classpocketmine_1_1item_1_1_item_block" ],
         [ "ItemBlockWallOrFloor", "d8/d23/classpocketmine_1_1item_1_1_item_block_wall_or_floor.html", "d8/d23/classpocketmine_1_1item_1_1_item_block_wall_or_floor" ],
@@ -1638,7 +1641,7 @@ var annotated_dup =
         [ "DumpWorkerMemoryTask", "d7/d53/classpocketmine_1_1scheduler_1_1_dump_worker_memory_task.html", "d7/d53/classpocketmine_1_1scheduler_1_1_dump_worker_memory_task" ],
         [ "GarbageCollectionTask", "d9/dae/classpocketmine_1_1scheduler_1_1_garbage_collection_task.html", "d9/dae/classpocketmine_1_1scheduler_1_1_garbage_collection_task" ],
         [ "Task", "df/d5e/classpocketmine_1_1scheduler_1_1_task.html", "df/d5e/classpocketmine_1_1scheduler_1_1_task" ],
-        [ "TaskHandler", "dd/d18/classpocketmine_1_1scheduler_1_1_task_handler.html", null ],
+        [ "TaskHandler", "dd/d18/classpocketmine_1_1scheduler_1_1_task_handler.html", "dd/d18/classpocketmine_1_1scheduler_1_1_task_handler" ],
         [ "TaskScheduler", "db/d5a/classpocketmine_1_1scheduler_1_1_task_scheduler.html", "db/d5a/classpocketmine_1_1scheduler_1_1_task_scheduler" ]
       ] ],
       [ "snooze", null, [
@@ -1940,6 +1943,7 @@ var annotated_dup =
           [ "GhastSound", "d0/d46/classpocketmine_1_1world_1_1sound_1_1_ghast_sound.html", "d0/d46/classpocketmine_1_1world_1_1sound_1_1_ghast_sound" ],
           [ "GlowBerriesPickSound", "d4/d66/classpocketmine_1_1world_1_1sound_1_1_glow_berries_pick_sound.html", "d4/d66/classpocketmine_1_1world_1_1sound_1_1_glow_berries_pick_sound" ],
           [ "GoatHornSound", "da/df5/classpocketmine_1_1world_1_1sound_1_1_goat_horn_sound.html", "da/df5/classpocketmine_1_1world_1_1sound_1_1_goat_horn_sound" ],
+          [ "IceBombHitSound", "d2/d64/classpocketmine_1_1world_1_1sound_1_1_ice_bomb_hit_sound.html", "d2/d64/classpocketmine_1_1world_1_1sound_1_1_ice_bomb_hit_sound" ],
           [ "IgniteSound", "d2/d6c/classpocketmine_1_1world_1_1sound_1_1_ignite_sound.html", "d2/d6c/classpocketmine_1_1world_1_1sound_1_1_ignite_sound" ],
           [ "InkSacUseSound", "df/d0d/classpocketmine_1_1world_1_1sound_1_1_ink_sac_use_sound.html", "df/d0d/classpocketmine_1_1world_1_1sound_1_1_ink_sac_use_sound" ],
           [ "ItemBreakSound", "df/d35/classpocketmine_1_1world_1_1sound_1_1_item_break_sound.html", "df/d35/classpocketmine_1_1world_1_1sound_1_1_item_break_sound" ],

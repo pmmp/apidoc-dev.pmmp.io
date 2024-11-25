@@ -1,5 +1,11 @@
 var NAVTREEINDEX60 =
 {
+"d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html#af85e45eff3ed9638a49da08745b5244e":[2,0,1,0,216,49],
+"d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html#af85e45eff3ed9638a49da08745b5244e":[3,0,1,0,218,49],
+"d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,1,0,216,30],
+"d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html#afcc19c437c8bef4487f5ecb956ae9a1a":[3,0,1,0,218,30],
+"d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html#afe4928a6da38d63eccea78bd1a2fdcd3":[2,0,1,0,216,22],
+"d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html#afe4928a6da38d63eccea78bd1a2fdcd3":[3,0,1,0,218,22],
 "d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html#afe506084e4bb8741a7ac64f6d90c00a5":[2,0,1,0,216,17],
 "d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,218,17],
 "d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,1,0,216,28],
@@ -195,14 +201,14 @@ var NAVTREEINDEX60 =
 "d4/d6a/interfacepocketmine_1_1network_1_1mcpe_1_1_packet_sender.html":[3,0,1,16,0,21],
 "d4/d6a/interfacepocketmine_1_1network_1_1mcpe_1_1_packet_sender.html#a488948fecfd443aec078f2aaf75f4fee":[3,0,1,16,0,21,1],
 "d4/d6a/interfacepocketmine_1_1network_1_1mcpe_1_1_packet_sender.html#ae8722b5a4fa6fadbee4603f828037892":[3,0,1,16,0,21,0],
-"d4/d6d/_item_type_ids_8php_source.html":[4,0,0,10,66],
+"d4/d6d/_item_type_ids_8php_source.html":[4,0,0,10,67],
 "d4/d70/_entity_metadata_types_8php_source.html":[4,0,1,0,1,0,1,2,12],
 "d4/d71/_slot_validated_inventory_8php_source.html":[4,0,0,9,15],
 "d4/d72/_inventory_layout_8php_source.html":[4,0,1,0,1,0,1,4,6],
 "d4/d74/_unsupported_item_type_exception_8php_source.html":[4,0,0,5,0,1,10],
-"d4/d75/_item_frame_rotate_item_sound_8php_source.html":[4,0,0,25,5,74],
-"d4/d75/_pumpkin_seeds_8php_source.html":[4,0,0,10,89],
-"d4/d77/_item_use_on_block_sound_8php_source.html":[4,0,0,25,5,75],
+"d4/d75/_item_frame_rotate_item_sound_8php_source.html":[4,0,0,25,5,75],
+"d4/d75/_pumpkin_seeds_8php_source.html":[4,0,0,10,90],
+"d4/d77/_item_use_on_block_sound_8php_source.html":[4,0,0,25,5,76],
 "d4/d77/_player_block_pick_event_8php_source.html":[4,0,0,7,3,2],
 "d4/d77/classpocketmine_1_1block_1_1tile_1_1_jukebox.html":[2,0,1,0,0,21],
 "d4/d77/classpocketmine_1_1block_1_1tile_1_1_jukebox.html":[3,0,1,0,1,21],
@@ -243,11 +249,5 @@ var NAVTREEINDEX60 =
 "d4/d82/classpocketmine_1_1item_1_1_carrot.html#a0a422a89abd427286bc2f312100f968c":[3,0,1,12,20,32],
 "d4/d82/classpocketmine_1_1item_1_1_carrot.html#a11483f8bbc44517bf2a25e40a3aa7558":[2,0,1,5,19,1],
 "d4/d82/classpocketmine_1_1item_1_1_carrot.html#a11483f8bbc44517bf2a25e40a3aa7558":[3,0,1,12,20,1],
-"d4/d82/classpocketmine_1_1item_1_1_carrot.html#a1179a3b7a49461ede413b50c82b5684a":[2,0,1,5,19,29],
-"d4/d82/classpocketmine_1_1item_1_1_carrot.html#a1179a3b7a49461ede413b50c82b5684a":[3,0,1,12,20,29],
-"d4/d82/classpocketmine_1_1item_1_1_carrot.html#a1839a06fcf156f1398e5aae9a8cfef62":[2,0,1,5,19,10],
-"d4/d82/classpocketmine_1_1item_1_1_carrot.html#a1839a06fcf156f1398e5aae9a8cfef62":[3,0,1,12,20,10],
-"d4/d82/classpocketmine_1_1item_1_1_carrot.html#a1df151eb419168f838e6d927c50f9210":[2,0,1,5,19,4],
-"d4/d82/classpocketmine_1_1item_1_1_carrot.html#a1df151eb419168f838e6d927c50f9210":[3,0,1,12,20,4],
-"d4/d82/classpocketmine_1_1item_1_1_carrot.html#a23c827b82179f8a57b786a6fa38d08e8":[2,0,1,5,19,20]
+"d4/d82/classpocketmine_1_1item_1_1_carrot.html#a1179a3b7a49461ede413b50c82b5684a":[2,0,1,5,19,29]
 };

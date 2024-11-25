@@ -1,5 +1,7 @@
 var NAVTREEINDEX44 =
 {
+"d3/d16/classpocketmine_1_1plugin_1_1_plugin_description.html#af6eb9e952d558b5aeef0aaca3011275c":[3,0,1,19,6,4],
+"d3/d18/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_decompression_exception.html":[3,0,1,16,0,2,3],
 "d3/d19/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrader.html":[3,0,1,6,0,0,1,3],
 "d3/d19/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrader.html#aeeda5f1783b8d8324a818236a45b755e":[3,0,1,6,0,0,1,3,0],
 "d3/d1a/_dirt_8php_source.html":[4,0,0,0,81],
@@ -9,7 +11,7 @@ var NAVTREEINDEX44 =
 "d3/d1a/classpocketmine_1_1event_1_1server_1_1_network_interface_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,5,5,0],
 "d3/d1a/classpocketmine_1_1event_1_1server_1_1_network_interface_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,1,3,5,5,1],
 "d3/d1a/classpocketmine_1_1event_1_1server_1_1_network_interface_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,5,5,1],
-"d3/d1c/_item_use_result_8php_source.html":[4,0,0,10,67],
+"d3/d1c/_item_use_result_8php_source.html":[4,0,0,10,68],
 "d3/d1c/classpocketmine_1_1block_1_1utils_1_1_sign_text.html":[3,0,1,0,2,8],
 "d3/d1c/classpocketmine_1_1block_1_1utils_1_1_sign_text.html#a4b601c21189cf9a72b45605d50f9b3ef":[3,0,1,0,2,8,2],
 "d3/d1c/classpocketmine_1_1block_1_1utils_1_1_sign_text.html#a4b989543e1252e71241fd67e57c6876a":[3,0,1,0,2,8,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX44 =
 "d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#a1a1a2b2adf423738289d296198f044e1":[2,0,1,0,12,60],
 "d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,14,60],
 "d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,1,0,12,47],
-"d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,14,47],
-"d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#a2127737ad69279d366e4462b54f693f2":[2,0,1,0,12,3],
-"d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,14,3]
+"d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,14,47]
 };

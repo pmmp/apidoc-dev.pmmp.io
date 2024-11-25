@@ -120,7 +120,7 @@ var NAVTREEINDEX33 =
 "d2/d43/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_time_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,178,1],
 "d2/d43/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_time_packet.html#ae1e6f1338243ad7b43edc6d02dbc2220":[3,0,1,16,0,6,178,5],
 "d2/d44/_block_burn_event_8php_source.html":[4,0,0,7,0,2],
-"d2/d45/_potion_finish_brewing_sound_8php_source.html":[4,0,0,25,5,82],
+"d2/d45/_potion_finish_brewing_sound_8php_source.html":[4,0,0,25,5,83],
 "d2/d46/classpocketmine_1_1network_1_1mcpe_1_1_chunk_request_task.html":[3,0,1,16,0,9],
 "d2/d46/classpocketmine_1_1network_1_1mcpe_1_1_chunk_request_task.html#a1ba680fdef8ef3e5832322b56dc460f0":[3,0,1,16,0,9,1],
 "d2/d46/classpocketmine_1_1network_1_1mcpe_1_1_chunk_request_task.html#a1ec846ee57cc2aae1b5604d5bfcb9948":[3,0,1,16,0,9,7],

@@ -1,5 +1,14 @@
 var NAVTREEINDEX85 =
 {
+"d5/df7/classpocketmine_1_1_server.html#ac5467ae1322f4e9a0add3dd47dad63fc":[2,0,1,17,11],
+"d5/df7/classpocketmine_1_1_server.html#ac5467ae1322f4e9a0add3dd47dad63fc":[3,0,1,33,11],
+"d5/df7/classpocketmine_1_1_server.html#ac73d85e2d8fb3ec1cae21376c9b3f5c6":[2,0,1,17,5],
+"d5/df7/classpocketmine_1_1_server.html#ac73d85e2d8fb3ec1cae21376c9b3f5c6":[3,0,1,33,5],
+"d5/df7/classpocketmine_1_1_server.html#ac88d77be813ab3529599b0fed66f1354":[2,0,1,17,2],
+"d5/df7/classpocketmine_1_1_server.html#ac88d77be813ab3529599b0fed66f1354":[3,0,1,33,2],
+"d5/df7/classpocketmine_1_1_server.html#acf9ae8acb41723959bd8fd6293d95b89":[2,0,1,17,26],
+"d5/df7/classpocketmine_1_1_server.html#acf9ae8acb41723959bd8fd6293d95b89":[3,0,1,33,26],
+"d5/df7/classpocketmine_1_1_server.html#ae1da72952e63e41de8153ecbc442dcf8":[2,0,1,17,29],
 "d5/df7/classpocketmine_1_1_server.html#ae1da72952e63e41de8153ecbc442dcf8":[3,0,1,33,29],
 "d5/df7/classpocketmine_1_1_server.html#aed0e3d3d0f0307eb715a8ac34e6669f6":[2,0,1,17,15],
 "d5/df7/classpocketmine_1_1_server.html#aed0e3d3d0f0307eb715a8ac34e6669f6":[3,0,1,33,15],
@@ -240,14 +249,5 @@ var NAVTREEINDEX85 =
 "d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#aad121ffc31a225748d5bcc0e0752a9f0":[2,0,1,0,73,23],
 "d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#aad121ffc31a225748d5bcc0e0752a9f0":[3,0,1,0,75,23],
 "d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[2,0,1,0,73,31],
-"d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,75,31],
-"d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,1,0,73,19],
-"d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,75,19],
-"d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#ab51ea2314ed5df2163bca971a462fb72":[2,0,1,0,73,8],
-"d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#ab51ea2314ed5df2163bca971a462fb72":[3,0,1,0,75,8],
-"d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#ab69b15a6fb5680f954523e68c1dd1aa5":[2,0,1,0,73,26],
-"d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#ab69b15a6fb5680f954523e68c1dd1aa5":[3,0,1,0,75,26],
-"d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#ab6b90601adfc9732893dcffe256514a9":[2,0,1,0,73,64],
-"d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#ab6b90601adfc9732893dcffe256514a9":[3,0,1,0,75,64],
-"d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[2,0,1,0,73,12]
+"d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,75,31]
 };

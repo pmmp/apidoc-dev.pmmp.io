@@ -239,7 +239,7 @@ var NAVTREEINDEX5 =
 "d0/d7a/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_player_metadata_flags.html":[3,0,1,16,0,6,1,2,17],
 "d0/d7b/classpocketmine_1_1plugin_1_1_plugin_exception.html":[2,0,1,10,9],
 "d0/d7b/classpocketmine_1_1plugin_1_1_plugin_exception.html":[3,0,1,19,9],
-"d0/d7f/_potion_type_8php_source.html":[4,0,0,10,85],
+"d0/d7f/_potion_type_8php_source.html":[4,0,0,10,86],
 "d0/d80/_console_command_sender_8php_source.html":[4,0,0,2,0],
 "d0/d80/object_2_tree_8php_source.html":[4,0,0,25,2,4,8],
 "d0/d82/_long_metadata_property_8php_source.html":[4,0,1,0,1,0,1,2,16],

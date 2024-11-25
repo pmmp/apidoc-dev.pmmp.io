@@ -69,6 +69,7 @@ var dir_8c559a8bd664375b6611e00b162a8314 =
     [ "GhastSound.php", "de/d53/_ghast_sound_8php_source.html", null ],
     [ "GlowBerriesPickSound.php", "de/d12/_glow_berries_pick_sound_8php_source.html", null ],
     [ "GoatHornSound.php", "d9/da8/_goat_horn_sound_8php_source.html", null ],
+    [ "IceBombHitSound.php", "df/d17/_ice_bomb_hit_sound_8php_source.html", null ],
     [ "IgniteSound.php", "d3/de7/_ignite_sound_8php_source.html", null ],
     [ "InkSacUseSound.php", "d9/d9a/_ink_sac_use_sound_8php_source.html", null ],
     [ "ItemBreakSound.php", "d6/d44/_item_break_sound_8php_source.html", null ],
