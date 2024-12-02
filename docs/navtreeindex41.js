@@ -1,5 +1,6 @@
 var NAVTREEINDEX41 =
 {
+"d2/dd2/classpocketmine_1_1item_1_1_beetroot.html#ac534c116a4d2291a8d67f15c4b485b74":[3,0,1,12,10,27],
 "d2/dd2/classpocketmine_1_1item_1_1_beetroot.html#ac7e878537e8ea68cc0d4d565f9f25062":[2,0,1,5,9,45],
 "d2/dd2/classpocketmine_1_1item_1_1_beetroot.html#ac7e878537e8ea68cc0d4d565f9f25062":[3,0,1,12,10,45],
 "d2/dd2/classpocketmine_1_1item_1_1_beetroot.html#ad2d004e5063f6ca465ed956b024217b1":[2,0,1,5,9,28],
@@ -248,6 +249,5 @@ var NAVTREEINDEX41 =
 "d2/deb/classpocketmine_1_1entity_1_1effect_1_1_string_to_effect_parser.html#afab043597a2b35ff13864a8b41fa9337":[3,0,1,7,1,16,2],
 "d2/ded/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_generator_type.html":[3,0,1,16,0,6,1,38],
 "d2/dee/_attachable_logger_8php_source.html":[4,0,1,0,6,0,0],
-"d2/def/_on_screen_texture_animation_packet_8php_source.html":[4,0,1,0,1,0,110],
-"d2/df0/_loaded_chunk_data_8php_source.html":[4,0,0,25,1,0,11]
+"d2/def/_on_screen_texture_animation_packet_8php_source.html":[4,0,1,0,1,0,110]
 };

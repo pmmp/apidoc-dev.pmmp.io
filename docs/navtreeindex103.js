@@ -1,5 +1,6 @@
 var NAVTREEINDEX103 =
 {
+"d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#a67b44433c553602d7c851b1ca23e6e5e":[3,0,1,12,102,40],
 "d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#a71289362f9d561347b5c8c2717eb0512":[2,0,1,5,101,38],
 "d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#a71289362f9d561347b5c8c2717eb0512":[3,0,1,12,102,38],
 "d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#a72d7d516c41b06c8799271c988432c6a":[2,0,1,5,101,48],
@@ -248,6 +249,5 @@ var NAVTREEINDEX103 =
 "d7/d1b/classpocketmine_1_1event_1_1entity_1_1_entity_effect_add_event.html#aa105cba08f6aa75722b2716a4887a477":[3,0,1,9,1,10,1],
 "d7/d1c/_incompatible_protocol_version_8php_source.html":[4,0,1,0,10,0,2,11],
 "d7/d1e/_redstone_power_on_sound_8php_source.html":[4,0,0,25,5,90],
-"d7/d1e/classpocketmine_1_1event_1_1entity_1_1_entity_death_event.html":[2,0,1,3,1,8],
-"d7/d1e/classpocketmine_1_1event_1_1entity_1_1_entity_death_event.html":[3,0,1,9,1,8]
+"d7/d1e/classpocketmine_1_1event_1_1entity_1_1_entity_death_event.html":[2,0,1,3,1,8]
 };

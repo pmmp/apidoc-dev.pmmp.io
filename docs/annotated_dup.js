@@ -1642,7 +1642,9 @@ var annotated_dup =
         [ "GarbageCollectionTask", "d9/dae/classpocketmine_1_1scheduler_1_1_garbage_collection_task.html", "d9/dae/classpocketmine_1_1scheduler_1_1_garbage_collection_task" ],
         [ "Task", "df/d5e/classpocketmine_1_1scheduler_1_1_task.html", "df/d5e/classpocketmine_1_1scheduler_1_1_task" ],
         [ "TaskHandler", "dd/d18/classpocketmine_1_1scheduler_1_1_task_handler.html", "dd/d18/classpocketmine_1_1scheduler_1_1_task_handler" ],
-        [ "TaskScheduler", "db/d5a/classpocketmine_1_1scheduler_1_1_task_scheduler.html", "db/d5a/classpocketmine_1_1scheduler_1_1_task_scheduler" ]
+        [ "TaskScheduler", "db/d5a/classpocketmine_1_1scheduler_1_1_task_scheduler.html", "db/d5a/classpocketmine_1_1scheduler_1_1_task_scheduler" ],
+        [ "TimingsCollectionTask", "df/ddd/classpocketmine_1_1scheduler_1_1_timings_collection_task.html", "df/ddd/classpocketmine_1_1scheduler_1_1_timings_collection_task" ],
+        [ "TimingsControlTask", "de/d2e/classpocketmine_1_1scheduler_1_1_timings_control_task.html", "de/d2e/classpocketmine_1_1scheduler_1_1_timings_control_task" ]
       ] ],
       [ "snooze", null, [
         [ "SleeperHandler", "d7/d08/classpocketmine_1_1snooze_1_1_sleeper_handler.html", "d7/d08/classpocketmine_1_1snooze_1_1_sleeper_handler" ],

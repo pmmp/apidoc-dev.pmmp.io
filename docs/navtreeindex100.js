@@ -1,5 +1,6 @@
 var NAVTREEINDEX100 =
 {
+"d6/dc6/classpocketmine_1_1utils_1_1_binary_stream.html#ac9f7478eba1ba25e78ad57fa10f32545":[2,0,1,12,3,17],
 "d6/dc6/classpocketmine_1_1utils_1_1_binary_stream.html#ac9f7478eba1ba25e78ad57fa10f32545":[3,0,1,28,3,17],
 "d6/dc6/classpocketmine_1_1utils_1_1_binary_stream.html#acab32dd1f8d07324b5f143f21d89a06e":[2,0,1,12,3,22],
 "d6/dc6/classpocketmine_1_1utils_1_1_binary_stream.html#acab32dd1f8d07324b5f143f21d89a06e":[3,0,1,28,3,22],
@@ -248,6 +249,5 @@ var NAVTREEINDEX100 =
 "d6/dd1/classpocketmine_1_1block_1_1_nether_quartz_ore.html#a30a070aa7befb02f9fff5cbf2693c01e":[3,0,1,0,156,9],
 "d6/dd1/classpocketmine_1_1block_1_1_nether_quartz_ore.html#a36afea9f0214193963f75577e8d48c26":[2,0,1,0,154,59],
 "d6/dd1/classpocketmine_1_1block_1_1_nether_quartz_ore.html#a36afea9f0214193963f75577e8d48c26":[3,0,1,0,156,59],
-"d6/dd1/classpocketmine_1_1block_1_1_nether_quartz_ore.html#a3710c39cbdea5c6e37af0912de98785a":[2,0,1,0,154,40],
-"d6/dd1/classpocketmine_1_1block_1_1_nether_quartz_ore.html#a3710c39cbdea5c6e37af0912de98785a":[3,0,1,0,156,40]
+"d6/dd1/classpocketmine_1_1block_1_1_nether_quartz_ore.html#a3710c39cbdea5c6e37af0912de98785a":[2,0,1,0,154,40]
 };

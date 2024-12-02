@@ -2479,6 +2479,8 @@ var hierarchy =
         [ "pocketmine\\scheduler\\BulkCurlTask", "df/d18/classpocketmine_1_1scheduler_1_1_bulk_curl_task.html", null ],
         [ "pocketmine\\scheduler\\DumpWorkerMemoryTask", "d7/d53/classpocketmine_1_1scheduler_1_1_dump_worker_memory_task.html", null ],
         [ "pocketmine\\scheduler\\GarbageCollectionTask", "d9/dae/classpocketmine_1_1scheduler_1_1_garbage_collection_task.html", null ],
+        [ "pocketmine\\scheduler\\TimingsCollectionTask", "df/ddd/classpocketmine_1_1scheduler_1_1_timings_collection_task.html", null ],
+        [ "pocketmine\\scheduler\\TimingsControlTask", "de/d2e/classpocketmine_1_1scheduler_1_1_timings_control_task.html", null ],
         [ "pocketmine\\stats\\SendUsageTask", "df/d2c/classpocketmine_1_1stats_1_1_send_usage_task.html", null ],
         [ "pocketmine\\updater\\UpdateCheckTask", "d7/d6f/classpocketmine_1_1updater_1_1_update_check_task.html", null ],
         [ "pocketmine\\world\\generator\\GeneratorRegisterTask", "d2/d88/classpocketmine_1_1world_1_1generator_1_1_generator_register_task.html", null ],

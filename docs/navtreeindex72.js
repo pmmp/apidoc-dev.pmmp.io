@@ -1,5 +1,6 @@
 var NAVTREEINDEX72 =
 {
+"d5/d20/classpocketmine_1_1block_1_1_glowstone.html#ab51ea2314ed5df2163bca971a462fb72":[3,0,1,0,117,8],
 "d5/d20/classpocketmine_1_1block_1_1_glowstone.html#ab6b90601adfc9732893dcffe256514a9":[2,0,1,0,115,64],
 "d5/d20/classpocketmine_1_1block_1_1_glowstone.html#ab6b90601adfc9732893dcffe256514a9":[3,0,1,0,117,64],
 "d5/d20/classpocketmine_1_1block_1_1_glowstone.html#ab92353cf0aa5c05ad26535f98a2b1dca":[2,0,1,0,115,26],
@@ -248,6 +249,5 @@ var NAVTREEINDEX72 =
 "d5/d43/classpocketmine_1_1command_1_1defaults_1_1_whitelist_command.html#acbccfc9431699f8cefb66e359419e1df":[3,0,1,2,0,40,1],
 "d5/d48/_ender_chest_8php_source.html":[4,0,0,0,93],
 "d5/d49/classpocketmine_1_1entity_1_1_squid.html":[2,0,1,2,18],
-"d5/d49/classpocketmine_1_1entity_1_1_squid.html":[3,0,1,7,23],
-"d5/d49/classpocketmine_1_1entity_1_1_squid.html#a02eb3401e4fe566c7a2528aeb7b0222a":[2,0,1,2,18,12]
+"d5/d49/classpocketmine_1_1entity_1_1_squid.html":[3,0,1,7,23]
 };

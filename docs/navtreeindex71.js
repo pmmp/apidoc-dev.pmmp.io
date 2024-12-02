@@ -1,5 +1,6 @@
 var NAVTREEINDEX71 =
 {
+"d5/d12/classpocketmine_1_1item_1_1_suspicious_stew.html#abd2688f008221d4c5fcdacac754d807e":[3,0,1,12,108,39],
 "d5/d12/classpocketmine_1_1item_1_1_suspicious_stew.html#abe253aa6fbfe2fc36389edadb753ffc7":[2,0,1,5,107,19],
 "d5/d12/classpocketmine_1_1item_1_1_suspicious_stew.html#abe253aa6fbfe2fc36389edadb753ffc7":[3,0,1,12,108,19],
 "d5/d12/classpocketmine_1_1item_1_1_suspicious_stew.html#ac534c116a4d2291a8d67f15c4b485b74":[2,0,1,5,107,27],
@@ -248,6 +249,5 @@ var NAVTREEINDEX71 =
 "d5/d20/classpocketmine_1_1block_1_1_glowstone.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,117,31],
 "d5/d20/classpocketmine_1_1block_1_1_glowstone.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,1,0,115,19],
 "d5/d20/classpocketmine_1_1block_1_1_glowstone.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,117,19],
-"d5/d20/classpocketmine_1_1block_1_1_glowstone.html#ab51ea2314ed5df2163bca971a462fb72":[2,0,1,0,115,8],
-"d5/d20/classpocketmine_1_1block_1_1_glowstone.html#ab51ea2314ed5df2163bca971a462fb72":[3,0,1,0,117,8]
+"d5/d20/classpocketmine_1_1block_1_1_glowstone.html#ab51ea2314ed5df2163bca971a462fb72":[2,0,1,0,115,8]
 };

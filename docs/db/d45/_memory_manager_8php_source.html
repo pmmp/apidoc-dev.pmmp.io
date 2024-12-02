@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.21.2 git-d72941c36c76813150803e2137bc2bbd22c3c4fb</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.21.3 git-0dae786a21630303fd91b9607493c12663320676</span>
    </div>
   </td>
  </tr>
@@ -435,7 +435,7 @@ $(function(){initNavTree('db/d45/_memory_manager_8php_source.html','../../'); in
 <div class="line"><a id="l00332" name="l00332"></a><span class="lineno">  332</span>                    <span class="keywordflow">continue</span>;</div>
 <div class="line"><a id="l00333" name="l00333"></a><span class="lineno">  333</span>                }</div>
 <div class="line"><a id="l00334" name="l00334"></a><span class="lineno">  334</span>                $methodStatics = [];</div>
-<div class="line"><a id="l00335" name="l00335"></a><span class="lineno">  335</span>                <span class="keywordflow">foreach</span>($method-&gt;getStaticVariables() as $name =&gt; $variable){</div>
+<div class="line"><a id="l00335" name="l00335"></a><span class="lineno">  335</span>                <span class="keywordflow">foreach</span>(Utils::promoteKeys($method-&gt;getStaticVariables()) as $name =&gt; $variable){</div>
 <div class="line"><a id="l00336" name="l00336"></a><span class="lineno">  336</span>                    $methodStatics[$name] = self::continueDump($variable, $objects, $refCounts, 0, $maxNesting, $maxStringSize);</div>
 <div class="line"><a id="l00337" name="l00337"></a><span class="lineno">  337</span>                }</div>
 <div class="line"><a id="l00338" name="l00338"></a><span class="lineno">  338</span>                <span class="keywordflow">if</span>(count($methodStatics) &gt; 0){</div>
@@ -463,7 +463,7 @@ $(function(){initNavTree('db/d45/_memory_manager_8php_source.html','../../'); in
 <div class="line"><a id="l00360" name="l00360"></a><span class="lineno">  360</span>            <span class="stringliteral">&#39;_SESSION&#39;</span> =&gt; true</div>
 <div class="line"><a id="l00361" name="l00361"></a><span class="lineno">  361</span>        ];</div>
 <div class="line"><a id="l00362" name="l00362"></a><span class="lineno">  362</span> </div>
-<div class="line"><a id="l00363" name="l00363"></a><span class="lineno">  363</span>        <span class="keywordflow">foreach</span>($GLOBALS as $varName =&gt; $value){</div>
+<div class="line"><a id="l00363" name="l00363"></a><span class="lineno">  363</span>        <span class="keywordflow">foreach</span>(Utils::promoteKeys($GLOBALS) as $varName =&gt; $value){</div>
 <div class="line"><a id="l00364" name="l00364"></a><span class="lineno">  364</span>            <span class="keywordflow">if</span>(isset($ignoredGlobals[$varName])){</div>
 <div class="line"><a id="l00365" name="l00365"></a><span class="lineno">  365</span>                <span class="keywordflow">continue</span>;</div>
 <div class="line"><a id="l00366" name="l00366"></a><span class="lineno">  366</span>            }</div>
@@ -479,7 +479,7 @@ $(function(){initNavTree('db/d45/_memory_manager_8php_source.html','../../'); in
 <div class="line"><a id="l00376" name="l00376"></a><span class="lineno">  376</span>            $reflect = new \ReflectionFunction($function);</div>
 <div class="line"><a id="l00377" name="l00377"></a><span class="lineno">  377</span> </div>
 <div class="line"><a id="l00378" name="l00378"></a><span class="lineno">  378</span>            $vars = [];</div>
-<div class="line"><a id="l00379" name="l00379"></a><span class="lineno">  379</span>            <span class="keywordflow">foreach</span>($reflect-&gt;getStaticVariables() as $varName =&gt; $variable){</div>
+<div class="line"><a id="l00379" name="l00379"></a><span class="lineno">  379</span>            <span class="keywordflow">foreach</span>(Utils::promoteKeys($reflect-&gt;getStaticVariables()) as $varName =&gt; $variable){</div>
 <div class="line"><a id="l00380" name="l00380"></a><span class="lineno">  380</span>                $vars[$varName] = self::continueDump($variable, $objects, $refCounts, 0, $maxNesting, $maxStringSize);</div>
 <div class="line"><a id="l00381" name="l00381"></a><span class="lineno">  381</span>            }</div>
 <div class="line"><a id="l00382" name="l00382"></a><span class="lineno">  382</span>            <span class="keywordflow">if</span>(count($vars) &gt; 0){</div>
@@ -519,7 +519,7 @@ $(function(){initNavTree('db/d45/_memory_manager_8php_source.html','../../'); in
 <div class="line"><a id="l00416" name="l00416"></a><span class="lineno">  416</span>                        $info[<span class="stringliteral">&quot;this&quot;</span>] = self::continueDump($closureThis, $objects, $refCounts, 0, $maxNesting, $maxStringSize);</div>
 <div class="line"><a id="l00417" name="l00417"></a><span class="lineno">  417</span>                    }</div>
 <div class="line"><a id="l00418" name="l00418"></a><span class="lineno">  418</span> </div>
-<div class="line"><a id="l00419" name="l00419"></a><span class="lineno">  419</span>                    <span class="keywordflow">foreach</span>($reflect-&gt;getStaticVariables() as $name =&gt; $variable){</div>
+<div class="line"><a id="l00419" name="l00419"></a><span class="lineno">  419</span>                    <span class="keywordflow">foreach</span>(Utils::promoteKeys($reflect-&gt;getStaticVariables()) as $name =&gt; $variable){</div>
 <div class="line"><a id="l00420" name="l00420"></a><span class="lineno">  420</span>                        $info[<span class="stringliteral">&quot;referencedVars&quot;</span>][$name] = self::continueDump($variable, $objects, $refCounts, 0, $maxNesting, $maxStringSize);</div>
 <div class="line"><a id="l00421" name="l00421"></a><span class="lineno">  421</span>                    }</div>
 <div class="line"><a id="l00422" name="l00422"></a><span class="lineno">  422</span>                }<span class="keywordflow">else</span>{</div>
@@ -594,7 +594,7 @@ $(function(){initNavTree('db/d45/_memory_manager_8php_source.html','../../'); in
 <div class="line"><a id="l00499" name="l00499"></a><span class="lineno">  499</span>            }</div>
 <div class="line"><a id="l00500" name="l00500"></a><span class="lineno">  500</span>            $data = [];</div>
 <div class="line"><a id="l00501" name="l00501"></a><span class="lineno">  501</span>            $numeric = 0;</div>
-<div class="line"><a id="l00502" name="l00502"></a><span class="lineno">  502</span>            <span class="keywordflow">foreach</span>($from as $key =&gt; $value){</div>
+<div class="line"><a id="l00502" name="l00502"></a><span class="lineno">  502</span>            <span class="keywordflow">foreach</span>(Utils::promoteKeys($from) as $key =&gt; $value){</div>
 <div class="line"><a id="l00503" name="l00503"></a><span class="lineno">  503</span>                $data[$numeric] = [</div>
 <div class="line"><a id="l00504" name="l00504"></a><span class="lineno">  504</span>                    <span class="stringliteral">&quot;k&quot;</span> =&gt; self::continueDump($key, $objects, $refCounts, $recursion + 1, $maxNesting, $maxStringSize),</div>
 <div class="line"><a id="l00505" name="l00505"></a><span class="lineno">  505</span>                    <span class="stringliteral">&quot;v&quot;</span> =&gt; self::continueDump($value, $objects, $refCounts, $recursion + 1, $maxNesting, $maxStringSize),</div>
@@ -624,7 +624,7 @@ $(function(){initNavTree('db/d45/_memory_manager_8php_source.html','../../'); in
 <div class="ttc" id="aclasspocketmine_1_1_memory_manager_html_a444925c4cacceac21dd8faf5451aa4af"><div class="ttname"><a href="../../d3/df7/classpocketmine_1_1_memory_manager.html#a444925c4cacceac21dd8faf5451aa4af">pocketmine\MemoryManager\getViewDistance</a></div><div class="ttdeci">getViewDistance(int $distance)</div><div class="ttdef"><b>Definition</b> <a href="#l00173">MemoryManager.php:173</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1_memory_manager_html_ae1afc7e08e91b06db0dbc50a36c79f7a"><div class="ttname"><a href="../../d3/df7/classpocketmine_1_1_memory_manager.html#ae1afc7e08e91b06db0dbc50a36c79f7a">pocketmine\MemoryManager\trigger</a></div><div class="ttdeci">trigger(int $memory, int $limit, bool $global=false, int $triggerCount=0)</div><div class="ttdef"><b>Definition</b> <a href="#l00180">MemoryManager.php:180</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1_server_config_group_html"><div class="ttname"><a href="../../d1/d84/classpocketmine_1_1_server_config_group.html">pocketmine\ServerConfigGroup</a></div><div class="ttdef"><b>Definition</b> <a href="../../d2/d2c/_server_config_group_8php_source.html#l00034">ServerConfigGroup.php:34</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1_server_html"><div class="ttname"><a href="../../d5/df7/classpocketmine_1_1_server.html">pocketmine\Server</a></div><div class="ttdef"><b>Definition</b> <a href="../../d0/d05/src_2_server_8php_source.html#l00179">src/Server.php:179</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1_server_html"><div class="ttname"><a href="../../d5/df7/classpocketmine_1_1_server.html">pocketmine\Server</a></div><div class="ttdef"><b>Definition</b> <a href="../../d0/d05/src_2_server_8php_source.html#l00181">src/Server.php:181</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1_yml_server_properties_html"><div class="ttname"><a href="../../db/d88/classpocketmine_1_1_yml_server_properties.html">pocketmine\YmlServerProperties</a></div><div class="ttdef"><b>Definition</b> <a href="../../d1/d2c/_yml_server_properties_8php_source.html#l00032">YmlServerProperties.php:32</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1event_1_1server_1_1_low_memory_event_html"><div class="ttname"><a href="../../df/def/classpocketmine_1_1event_1_1server_1_1_low_memory_event.html">pocketmine\event\server\LowMemoryEvent</a></div><div class="ttdef"><b>Definition</b> <a href="../../d4/dbd/_low_memory_event_8php_source.html#l00032">LowMemoryEvent.php:32</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1network_1_1mcpe_1_1cache_1_1_chunk_cache_html"><div class="ttname"><a href="../../d0/deb/classpocketmine_1_1network_1_1mcpe_1_1cache_1_1_chunk_cache.html">pocketmine\network\mcpe\cache\ChunkCache</a></div><div class="ttdef"><b>Definition</b> <a href="../../dc/dd9/_chunk_cache_8php_source.html#l00041">ChunkCache.php:41</a></div></div>
@@ -632,7 +632,7 @@ $(function(){initNavTree('db/d45/_memory_manager_8php_source.html','../../'); in
 <div class="ttc" id="aclasspocketmine_1_1scheduler_1_1_garbage_collection_task_html"><div class="ttname"><a href="../../d9/dae/classpocketmine_1_1scheduler_1_1_garbage_collection_task.html">pocketmine\scheduler\GarbageCollectionTask</a></div><div class="ttdef"><b>Definition</b> <a href="../../da/d12/_garbage_collection_task_8php_source.html#l00030">GarbageCollectionTask.php:30</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1timings_1_1_timings_html"><div class="ttname"><a href="../../de/d8c/classpocketmine_1_1timings_1_1_timings.html">pocketmine\timings\Timings</a></div><div class="ttdef"><b>Definition</b> <a href="../../dc/da0/_timings_8php_source.html#l00038">Timings.php:38</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_process_html"><div class="ttname"><a href="../../d8/d9e/classpocketmine_1_1utils_1_1_process.html">pocketmine\utils\Process</a></div><div class="ttdef"><b>Definition</b> <a href="../../d1/dcb/_process_8php_source.html#l00045">Process.php:45</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html">pocketmine\utils\Utils</a></div><div class="ttdef"><b>Definition</b> <a href="../../de/dca/_utils_8php_source.html#l00103">Utils.php:103</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html">pocketmine\utils\Utils</a></div><div class="ttdef"><b>Definition</b> <a href="../../de/dca/_utils_8php_source.html#l00105">Utils.php:105</a></div></div>
 <div class="ttc" id="ainterface_logger_html"><div class="ttname"><a href="../../d4/d00/interface_logger.html">Logger</a></div><div class="ttdef"><b>Definition</b> <a href="../../d6/d41/_logger_8php_source.html#l00018">Logger.php:18</a></div></div>
 <div class="ttc" id="ainterface_logger_html_aa4d33ee7970ea31d82718dec8e1be1f9"><div class="ttname"><a href="../../d4/d00/interface_logger.html#aa4d33ee7970ea31d82718dec8e1be1f9">Logger\info</a></div><div class="ttdeci">info($message)</div></div>
 <div class="ttc" id="anamespacepocketmine_html"><div class="ttname"><a href="../../d2/d69/namespacepocketmine.html">pocketmine</a></div></div>

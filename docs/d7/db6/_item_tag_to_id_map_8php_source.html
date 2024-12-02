@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.21.2 git-d72941c36c76813150803e2137bc2bbd22c3c4fb</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.21.3 git-0dae786a21630303fd91b9607493c12663320676</span>
    </div>
   </td>
  </tr>
@@ -152,7 +152,7 @@ $(function(){initNavTree('d7/db6/_item_tag_to_id_map_8php_source.html','../../')
 <div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>            <span class="keywordflow">throw</span> <span class="keyword">new</span> <a class="code hl_class" href="../../d1/d30/classpocketmine_1_1utils_1_1_assumption_failed_error.html">AssumptionFailedError</a>(<span class="stringliteral">&quot;Invalid item tag map, expected array&quot;</span>);</div>
 <div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>        }</div>
 <div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>        $cleanMap = [];</div>
-<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>        <span class="keywordflow">foreach</span>($map as $tagName =&gt; $ids){</div>
+<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>        <span class="keywordflow">foreach</span>(Utils::promoteKeys($map) as $tagName =&gt; $ids){</div>
 <div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>            <span class="keywordflow">if</span>(!is_string($tagName)){</div>
 <div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>                <span class="keywordflow">throw</span> <span class="keyword">new</span> <a class="code hl_class" href="../../d1/d30/classpocketmine_1_1utils_1_1_assumption_failed_error.html">AssumptionFailedError</a>(<span class="stringliteral">&quot;Invalid item tag name $tagName, expected string as key&quot;</span>);</div>
 <div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>            }</div>
@@ -206,7 +206,7 @@ $(function(){initNavTree('d7/db6/_item_tag_to_id_map_8php_source.html','../../')
 <div class="ttc" id="aclasspocketmine_1_1data_1_1bedrock_1_1_item_tag_to_id_map_html_a9b7cece5f36e34248037ea133e52cac4"><div class="ttname"><a href="../../d0/dbe/classpocketmine_1_1data_1_1bedrock_1_1_item_tag_to_id_map.html#a9b7cece5f36e34248037ea133e52cac4">pocketmine\data\bedrock\ItemTagToIdMap\getIdsForTag</a></div><div class="ttdeci">getIdsForTag(string $tag)</div><div class="ttdef"><b>Definition</b> <a href="#l00095">ItemTagToIdMap.php:95</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_assumption_failed_error_html"><div class="ttname"><a href="../../d1/d30/classpocketmine_1_1utils_1_1_assumption_failed_error.html">pocketmine\utils\AssumptionFailedError</a></div><div class="ttdef"><b>Definition</b> <a href="../../da/da5/_assumption_failed_error_8php_source.html#l00031">AssumptionFailedError.php:31</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_filesystem_html"><div class="ttname"><a href="../../da/ddd/classpocketmine_1_1utils_1_1_filesystem.html">pocketmine\utils\Filesystem</a></div><div class="ttdef"><b>Definition</b> <a href="../../dd/d2f/_filesystem_8php_source.html#l00063">Filesystem.php:63</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html">pocketmine\utils\Utils</a></div><div class="ttdef"><b>Definition</b> <a href="../../de/dca/_utils_8php_source.html#l00103">Utils.php:103</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html">pocketmine\utils\Utils</a></div><div class="ttdef"><b>Definition</b> <a href="../../de/dca/_utils_8php_source.html#l00105">Utils.php:105</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
