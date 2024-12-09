@@ -112,7 +112,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="2993" y="-217" font-family="Helvetica,sans-Serif" font-size="10.00">broadcastSound()</text>
 <text text-anchor="start" x="2980" y="-202" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="2993" y="-202" font-family="Helvetica,sans-Serif" font-size="10.00">canBeCollidedWith()</text>
-<text text-anchor="start" x="2993" y="-187" font-family="Helvetica,sans-Serif" font-size="10.00">and 127 more...</text>
+<text text-anchor="start" x="2993" y="-187" font-family="Helvetica,sans-Serif" font-size="10.00">and 130 more...</text>
 <text text-anchor="start" x="2980" y="-172" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="2993" y="-172" font-family="Helvetica,sans-Serif" font-size="10.00">isValidUserName()</text>
 <text text-anchor="start" x="2980" y="-157" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
@@ -156,22 +156,22 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="1845" y="-978" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="1858" y="-978" font-family="Helvetica,sans-Serif" font-size="10.00">applyDamageModifiers()</text>
 <text text-anchor="start" x="1845" y="-963" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1858" y="-963" font-family="Helvetica,sans-Serif" font-size="10.00">consumeObject()</text>
+<text text-anchor="start" x="1858" y="-963" font-family="Helvetica,sans-Serif" font-size="10.00">canEat()</text>
 <text text-anchor="start" x="1845" y="-948" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1858" y="-948" font-family="Helvetica,sans-Serif" font-size="10.00">emote()</text>
+<text text-anchor="start" x="1858" y="-948" font-family="Helvetica,sans-Serif" font-size="10.00">consumeObject()</text>
 <text text-anchor="start" x="1845" y="-933" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1858" y="-933" font-family="Helvetica,sans-Serif" font-size="10.00">getDrops()</text>
+<text text-anchor="start" x="1858" y="-933" font-family="Helvetica,sans-Serif" font-size="10.00">emote()</text>
 <text text-anchor="start" x="1845" y="-918" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1858" y="-918" font-family="Helvetica,sans-Serif" font-size="10.00">getEnchantmentSeed()</text>
+<text text-anchor="start" x="1858" y="-918" font-family="Helvetica,sans-Serif" font-size="10.00">getDrops()</text>
 <text text-anchor="start" x="1845" y="-903" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1858" y="-903" font-family="Helvetica,sans-Serif" font-size="10.00">getEnderInventory()</text>
+<text text-anchor="start" x="1858" y="-903" font-family="Helvetica,sans-Serif" font-size="10.00">getEnchantmentSeed()</text>
 <text text-anchor="start" x="1845" y="-888" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1858" y="-888" font-family="Helvetica,sans-Serif" font-size="10.00">getHungerManager()</text>
+<text text-anchor="start" x="1858" y="-888" font-family="Helvetica,sans-Serif" font-size="10.00">getEnderInventory()</text>
 <text text-anchor="start" x="1845" y="-873" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1858" y="-873" font-family="Helvetica,sans-Serif" font-size="10.00">getInventory()</text>
+<text text-anchor="start" x="1858" y="-873" font-family="Helvetica,sans-Serif" font-size="10.00">getHungerManager()</text>
 <text text-anchor="start" x="1845" y="-858" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1858" y="-858" font-family="Helvetica,sans-Serif" font-size="10.00">getName()</text>
-<text text-anchor="start" x="1858" y="-843" font-family="Helvetica,sans-Serif" font-size="10.00">and 14 more...</text>
+<text text-anchor="start" x="1858" y="-858" font-family="Helvetica,sans-Serif" font-size="10.00">getInventory()</text>
+<text text-anchor="start" x="1858" y="-843" font-family="Helvetica,sans-Serif" font-size="10.00">and 15 more...</text>
 <text text-anchor="start" x="1845" y="-828" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="1858" y="-828" font-family="Helvetica,sans-Serif" font-size="10.00">parseSkinNBT()</text>
 <text text-anchor="start" x="1845" y="-813" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
@@ -309,28 +309,28 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="1207" y="-1320" font-family="Helvetica,sans-Serif" font-size="10.00">getArmorInventory()</text>
 <text text-anchor="start" x="1194" y="-1305" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="1207" y="-1305" font-family="Helvetica,sans-Serif" font-size="10.00">getArmorPoints()</text>
-<text text-anchor="start" x="1207" y="-1290" font-family="Helvetica,sans-Serif" font-size="10.00">and 34 more...</text>
+<text text-anchor="start" x="1207" y="-1290" font-family="Helvetica,sans-Serif" font-size="10.00">and 35 more...</text>
 <text text-anchor="start" x="1194" y="-1275" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
 <text text-anchor="start" x="1207" y="-1275" font-family="Helvetica,sans-Serif" font-size="10.00">addAttributes()</text>
 <text text-anchor="start" x="1194" y="-1260" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
 <text text-anchor="start" x="1207" y="-1260" font-family="Helvetica,sans-Serif" font-size="10.00">applyConsumptionResults()</text>
 <text text-anchor="start" x="1194" y="-1245" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="1207" y="-1245" font-family="Helvetica,sans-Serif" font-size="10.00">applyPostDamageEffects()</text>
+<text text-anchor="start" x="1207" y="-1245" font-family="Helvetica,sans-Serif" font-size="10.00">applyFrostWalker()</text>
 <text text-anchor="start" x="1194" y="-1230" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="1207" y="-1230" font-family="Helvetica,sans-Serif" font-size="10.00">calculateFallDamage()</text>
+<text text-anchor="start" x="1207" y="-1230" font-family="Helvetica,sans-Serif" font-size="10.00">applyPostDamageEffects()</text>
 <text text-anchor="start" x="1194" y="-1215" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="1207" y="-1215" font-family="Helvetica,sans-Serif" font-size="10.00">destroyCycles()</text>
+<text text-anchor="start" x="1207" y="-1215" font-family="Helvetica,sans-Serif" font-size="10.00">calculateFallDamage()</text>
 <text text-anchor="start" x="1194" y="-1200" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="1207" y="-1200" font-family="Helvetica,sans-Serif" font-size="10.00">doAirSupplyTick()</text>
+<text text-anchor="start" x="1207" y="-1200" font-family="Helvetica,sans-Serif" font-size="10.00">destroyCycles()</text>
 <text text-anchor="start" x="1194" y="-1185" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="1207" y="-1185" font-family="Helvetica,sans-Serif" font-size="10.00">doHitAnimation()</text>
+<text text-anchor="start" x="1207" y="-1185" font-family="Helvetica,sans-Serif" font-size="10.00">doAirSupplyTick()</text>
 <text text-anchor="start" x="1194" y="-1170" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="1207" y="-1170" font-family="Helvetica,sans-Serif" font-size="10.00">endDeathAnimation()</text>
+<text text-anchor="start" x="1207" y="-1170" font-family="Helvetica,sans-Serif" font-size="10.00">doHitAnimation()</text>
 <text text-anchor="start" x="1194" y="-1155" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="1207" y="-1155" font-family="Helvetica,sans-Serif" font-size="10.00">entityBaseTick()</text>
+<text text-anchor="start" x="1207" y="-1155" font-family="Helvetica,sans-Serif" font-size="10.00">endDeathAnimation()</text>
 <text text-anchor="start" x="1194" y="-1140" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="1207" y="-1140" font-family="Helvetica,sans-Serif" font-size="10.00">getInitialDragMultiplier()</text>
-<text text-anchor="start" x="1207" y="-1125" font-family="Helvetica,sans-Serif" font-size="10.00">and 9 more...</text>
+<text text-anchor="start" x="1207" y="-1140" font-family="Helvetica,sans-Serif" font-size="10.00">entityBaseTick()</text>
+<text text-anchor="start" x="1207" y="-1125" font-family="Helvetica,sans-Serif" font-size="10.00">and 11 more...</text>
 <polygon fill="#bfbfbf" stroke="#bfbfbf" points="1190,-1671 1190,-1671 1374,-1671 1374,-1671 1190,-1671"/>
 <polygon fill="#bfbfbf" stroke="#bfbfbf" points="1190,-1450 1190,-1450 1205,-1450 1205,-1450 1190,-1450"/>
 <polygon fill="#bfbfbf" stroke="#bfbfbf" points="1205,-1450 1205,-1450 1374,-1450 1374,-1450 1205,-1450"/>

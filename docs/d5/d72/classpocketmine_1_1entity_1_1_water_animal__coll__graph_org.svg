@@ -86,28 +86,28 @@
 <text text-anchor="start" x="1151" y="-659" font-family="Helvetica,sans-Serif" font-size="10.00">getArmorInventory()</text>
 <text text-anchor="start" x="1138" y="-644" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="1151" y="-644" font-family="Helvetica,sans-Serif" font-size="10.00">getArmorPoints()</text>
-<text text-anchor="start" x="1151" y="-629" font-family="Helvetica,sans-Serif" font-size="10.00">and 34 more...</text>
+<text text-anchor="start" x="1151" y="-629" font-family="Helvetica,sans-Serif" font-size="10.00">and 35 more...</text>
 <text text-anchor="start" x="1138" y="-614" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
 <text text-anchor="start" x="1151" y="-614" font-family="Helvetica,sans-Serif" font-size="10.00">addAttributes()</text>
 <text text-anchor="start" x="1138" y="-599" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
 <text text-anchor="start" x="1151" y="-599" font-family="Helvetica,sans-Serif" font-size="10.00">applyConsumptionResults()</text>
 <text text-anchor="start" x="1138" y="-584" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="1151" y="-584" font-family="Helvetica,sans-Serif" font-size="10.00">applyPostDamageEffects()</text>
+<text text-anchor="start" x="1151" y="-584" font-family="Helvetica,sans-Serif" font-size="10.00">applyFrostWalker()</text>
 <text text-anchor="start" x="1138" y="-569" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="1151" y="-569" font-family="Helvetica,sans-Serif" font-size="10.00">calculateFallDamage()</text>
+<text text-anchor="start" x="1151" y="-569" font-family="Helvetica,sans-Serif" font-size="10.00">applyPostDamageEffects()</text>
 <text text-anchor="start" x="1138" y="-554" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="1151" y="-554" font-family="Helvetica,sans-Serif" font-size="10.00">destroyCycles()</text>
+<text text-anchor="start" x="1151" y="-554" font-family="Helvetica,sans-Serif" font-size="10.00">calculateFallDamage()</text>
 <text text-anchor="start" x="1138" y="-539" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="1151" y="-539" font-family="Helvetica,sans-Serif" font-size="10.00">doAirSupplyTick()</text>
+<text text-anchor="start" x="1151" y="-539" font-family="Helvetica,sans-Serif" font-size="10.00">destroyCycles()</text>
 <text text-anchor="start" x="1138" y="-524" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="1151" y="-524" font-family="Helvetica,sans-Serif" font-size="10.00">doHitAnimation()</text>
+<text text-anchor="start" x="1151" y="-524" font-family="Helvetica,sans-Serif" font-size="10.00">doAirSupplyTick()</text>
 <text text-anchor="start" x="1138" y="-509" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="1151" y="-509" font-family="Helvetica,sans-Serif" font-size="10.00">endDeathAnimation()</text>
+<text text-anchor="start" x="1151" y="-509" font-family="Helvetica,sans-Serif" font-size="10.00">doHitAnimation()</text>
 <text text-anchor="start" x="1138" y="-494" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="1151" y="-494" font-family="Helvetica,sans-Serif" font-size="10.00">entityBaseTick()</text>
+<text text-anchor="start" x="1151" y="-494" font-family="Helvetica,sans-Serif" font-size="10.00">endDeathAnimation()</text>
 <text text-anchor="start" x="1138" y="-479" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="1151" y="-479" font-family="Helvetica,sans-Serif" font-size="10.00">getInitialDragMultiplier()</text>
-<text text-anchor="start" x="1151" y="-464" font-family="Helvetica,sans-Serif" font-size="10.00">and 9 more...</text>
+<text text-anchor="start" x="1151" y="-479" font-family="Helvetica,sans-Serif" font-size="10.00">entityBaseTick()</text>
+<text text-anchor="start" x="1151" y="-464" font-family="Helvetica,sans-Serif" font-size="10.00">and 11 more...</text>
 <polygon fill="#bfbfbf" stroke="#bfbfbf" points="1134,-1010 1134,-1010 1318,-1010 1318,-1010 1134,-1010"/>
 <polygon fill="#bfbfbf" stroke="#bfbfbf" points="1134,-789 1134,-789 1149,-789 1149,-789 1134,-789"/>
 <polygon fill="#bfbfbf" stroke="#bfbfbf" points="1149,-789 1149,-789 1318,-789 1318,-789 1149,-789"/>

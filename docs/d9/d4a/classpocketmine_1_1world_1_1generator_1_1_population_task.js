@@ -1,6 +1,7 @@
 var classpocketmine_1_1world_1_1generator_1_1_population_task =
 [
     [ "__construct", "d9/d4a/classpocketmine_1_1world_1_1generator_1_1_population_task.html#aa59692e58ab8ccd632cd68383350ff05", null ],
+    [ "checkProgressUpdates", "d9/d4a/classpocketmine_1_1world_1_1generator_1_1_population_task.html#ab4ce5f03047e2ba85b4e17abd775e129", null ],
     [ "fetchLocal", "d9/d4a/classpocketmine_1_1world_1_1generator_1_1_population_task.html#a1ba680fdef8ef3e5832322b56dc460f0", null ],
     [ "getResult", "d9/d4a/classpocketmine_1_1world_1_1generator_1_1_population_task.html#aa5a040d7bd6023185e91387c526f8527", null ],
     [ "isFinished", "d9/d4a/classpocketmine_1_1world_1_1generator_1_1_population_task.html#a3cf7454be9911ea585af23c81846c4f2", null ],

@@ -87,28 +87,28 @@
 <text text-anchor="start" x="17" y="-362" font-family="Helvetica,sans-Serif" font-size="10.00">getArmorInventory()</text>
 <text text-anchor="start" x="4" y="-347" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17" y="-347" font-family="Helvetica,sans-Serif" font-size="10.00">getArmorPoints()</text>
-<text text-anchor="start" x="17" y="-332" font-family="Helvetica,sans-Serif" font-size="10.00">and 34 more...</text>
+<text text-anchor="start" x="17" y="-332" font-family="Helvetica,sans-Serif" font-size="10.00">and 35 more...</text>
 <text text-anchor="start" x="4" y="-317" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
 <text text-anchor="start" x="17" y="-317" font-family="Helvetica,sans-Serif" font-size="10.00">addAttributes()</text>
 <text text-anchor="start" x="4" y="-302" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
 <text text-anchor="start" x="17" y="-302" font-family="Helvetica,sans-Serif" font-size="10.00">applyConsumptionResults()</text>
 <text text-anchor="start" x="4" y="-287" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="17" y="-287" font-family="Helvetica,sans-Serif" font-size="10.00">applyPostDamageEffects()</text>
+<text text-anchor="start" x="17" y="-287" font-family="Helvetica,sans-Serif" font-size="10.00">applyFrostWalker()</text>
 <text text-anchor="start" x="4" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="17" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00">calculateFallDamage()</text>
+<text text-anchor="start" x="17" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00">applyPostDamageEffects()</text>
 <text text-anchor="start" x="4" y="-257" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="17" y="-257" font-family="Helvetica,sans-Serif" font-size="10.00">destroyCycles()</text>
+<text text-anchor="start" x="17" y="-257" font-family="Helvetica,sans-Serif" font-size="10.00">calculateFallDamage()</text>
 <text text-anchor="start" x="4" y="-242" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="17" y="-242" font-family="Helvetica,sans-Serif" font-size="10.00">doAirSupplyTick()</text>
+<text text-anchor="start" x="17" y="-242" font-family="Helvetica,sans-Serif" font-size="10.00">destroyCycles()</text>
 <text text-anchor="start" x="4" y="-227" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="17" y="-227" font-family="Helvetica,sans-Serif" font-size="10.00">doHitAnimation()</text>
+<text text-anchor="start" x="17" y="-227" font-family="Helvetica,sans-Serif" font-size="10.00">doAirSupplyTick()</text>
 <text text-anchor="start" x="4" y="-212" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="17" y="-212" font-family="Helvetica,sans-Serif" font-size="10.00">endDeathAnimation()</text>
+<text text-anchor="start" x="17" y="-212" font-family="Helvetica,sans-Serif" font-size="10.00">doHitAnimation()</text>
 <text text-anchor="start" x="4" y="-197" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="17" y="-197" font-family="Helvetica,sans-Serif" font-size="10.00">entityBaseTick()</text>
+<text text-anchor="start" x="17" y="-197" font-family="Helvetica,sans-Serif" font-size="10.00">endDeathAnimation()</text>
 <text text-anchor="start" x="4" y="-182" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="17" y="-182" font-family="Helvetica,sans-Serif" font-size="10.00">getInitialDragMultiplier()</text>
-<text text-anchor="start" x="17" y="-167" font-family="Helvetica,sans-Serif" font-size="10.00">and 9 more...</text>
+<text text-anchor="start" x="17" y="-182" font-family="Helvetica,sans-Serif" font-size="10.00">entityBaseTick()</text>
+<text text-anchor="start" x="17" y="-167" font-family="Helvetica,sans-Serif" font-size="10.00">and 11 more...</text>
 <polygon fill="#bfbfbf" stroke="#bfbfbf" points="0,-713 0,-713 184,-713 184,-713 0,-713"/>
 <polygon fill="#bfbfbf" stroke="#bfbfbf" points="0,-492 0,-492 15,-492 15,-492 0,-492"/>
 <polygon fill="#bfbfbf" stroke="#bfbfbf" points="15,-492 15,-492 184,-492 184,-492 15,-492"/>

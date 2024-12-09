@@ -180,22 +180,22 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="1015" y="-1028" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="1028" y="-1028" font-family="Helvetica,sans-Serif" font-size="10.00">applyDamageModifiers()</text>
 <text text-anchor="start" x="1015" y="-1013" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1028" y="-1013" font-family="Helvetica,sans-Serif" font-size="10.00">consumeObject()</text>
+<text text-anchor="start" x="1028" y="-1013" font-family="Helvetica,sans-Serif" font-size="10.00">canEat()</text>
 <text text-anchor="start" x="1015" y="-998" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1028" y="-998" font-family="Helvetica,sans-Serif" font-size="10.00">emote()</text>
+<text text-anchor="start" x="1028" y="-998" font-family="Helvetica,sans-Serif" font-size="10.00">consumeObject()</text>
 <text text-anchor="start" x="1015" y="-983" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1028" y="-983" font-family="Helvetica,sans-Serif" font-size="10.00">getDrops()</text>
+<text text-anchor="start" x="1028" y="-983" font-family="Helvetica,sans-Serif" font-size="10.00">emote()</text>
 <text text-anchor="start" x="1015" y="-968" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1028" y="-968" font-family="Helvetica,sans-Serif" font-size="10.00">getEnchantmentSeed()</text>
+<text text-anchor="start" x="1028" y="-968" font-family="Helvetica,sans-Serif" font-size="10.00">getDrops()</text>
 <text text-anchor="start" x="1015" y="-953" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1028" y="-953" font-family="Helvetica,sans-Serif" font-size="10.00">getEnderInventory()</text>
+<text text-anchor="start" x="1028" y="-953" font-family="Helvetica,sans-Serif" font-size="10.00">getEnchantmentSeed()</text>
 <text text-anchor="start" x="1015" y="-938" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1028" y="-938" font-family="Helvetica,sans-Serif" font-size="10.00">getHungerManager()</text>
+<text text-anchor="start" x="1028" y="-938" font-family="Helvetica,sans-Serif" font-size="10.00">getEnderInventory()</text>
 <text text-anchor="start" x="1015" y="-923" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1028" y="-923" font-family="Helvetica,sans-Serif" font-size="10.00">getInventory()</text>
+<text text-anchor="start" x="1028" y="-923" font-family="Helvetica,sans-Serif" font-size="10.00">getHungerManager()</text>
 <text text-anchor="start" x="1015" y="-908" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1028" y="-908" font-family="Helvetica,sans-Serif" font-size="10.00">getName()</text>
-<text text-anchor="start" x="1028" y="-893" font-family="Helvetica,sans-Serif" font-size="10.00">and 14 more...</text>
+<text text-anchor="start" x="1028" y="-908" font-family="Helvetica,sans-Serif" font-size="10.00">getInventory()</text>
+<text text-anchor="start" x="1028" y="-893" font-family="Helvetica,sans-Serif" font-size="10.00">and 15 more...</text>
 <text text-anchor="start" x="1015" y="-878" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="1028" y="-878" font-family="Helvetica,sans-Serif" font-size="10.00">parseSkinNBT()</text>
 <text text-anchor="start" x="1015" y="-863" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
@@ -738,7 +738,7 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="1252" y="-313" font-family="Helvetica,sans-Serif" font-size="10.00">broadcastSound()</text>
 <text text-anchor="start" x="1239" y="-298" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="1252" y="-298" font-family="Helvetica,sans-Serif" font-size="10.00">canBeCollidedWith()</text>
-<text text-anchor="start" x="1252" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00">and 127 more...</text>
+<text text-anchor="start" x="1252" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00">and 130 more...</text>
 <text text-anchor="start" x="1239" y="-268" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="1252" y="-268" font-family="Helvetica,sans-Serif" font-size="10.00">isValidUserName()</text>
 <text text-anchor="start" x="1239" y="-253" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>

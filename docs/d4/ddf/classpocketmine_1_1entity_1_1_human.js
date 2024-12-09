@@ -11,6 +11,7 @@ var classpocketmine_1_1entity_1_1_human =
     [ "canBreathe", "d4/ddf/classpocketmine_1_1entity_1_1_human.html#a80b35509d294ca1b7ca463167c6e85f7", null ],
     [ "canClimb", "d4/ddf/classpocketmine_1_1entity_1_1_human.html#a4101d0cffe7303801b827969c461ed8b", null ],
     [ "canClimbWalls", "d4/ddf/classpocketmine_1_1entity_1_1_human.html#a23093e6281aba70471af5c5e34051667", null ],
+    [ "canEat", "d4/ddf/classpocketmine_1_1entity_1_1_human.html#a5a73d2d90fae06273a6cb67232a6ef25", null ],
     [ "canSaveWithChunk", "d4/ddf/classpocketmine_1_1entity_1_1_human.html#af9c9f94d4c46643cbdaeb7d06d3e44b1", null ],
     [ "close", "d4/ddf/classpocketmine_1_1entity_1_1_human.html#a02eb3401e4fe566c7a2528aeb7b0222a", null ],
     [ "consumeObject", "d4/ddf/classpocketmine_1_1entity_1_1_human.html#ad0d59edd92d09786b274b1e867efb244", null ],

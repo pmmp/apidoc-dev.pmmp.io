@@ -384,6 +384,7 @@ var annotated_dup =
           [ "CommandStringHelper", "d7/ddc/classpocketmine_1_1command_1_1utils_1_1_command_string_helper.html", "d7/ddc/classpocketmine_1_1command_1_1utils_1_1_command_string_helper" ],
           [ "InvalidCommandSyntaxException", "da/d46/classpocketmine_1_1command_1_1utils_1_1_invalid_command_syntax_exception.html", null ]
         ] ],
+        [ "ClosureCommand", "d7/d03/classpocketmine_1_1command_1_1_closure_command.html", "d7/d03/classpocketmine_1_1command_1_1_closure_command" ],
         [ "Command", "d6/df1/classpocketmine_1_1command_1_1_command.html", "d6/df1/classpocketmine_1_1command_1_1_command" ],
         [ "CommandExecutor", "d4/d5f/interfacepocketmine_1_1command_1_1_command_executor.html", "d4/d5f/interfacepocketmine_1_1command_1_1_command_executor" ],
         [ "CommandMap", "de/d06/interfacepocketmine_1_1command_1_1_command_map.html", "de/d06/interfacepocketmine_1_1command_1_1_command_map" ],
@@ -1068,6 +1069,7 @@ var annotated_dup =
           ] ],
           [ "protocol", null, [
             [ "serializer", null, [
+              [ "BitSet", "db/db6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_bit_set.html", "db/db6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_bit_set" ],
               [ "ItemTypeDictionary", "da/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_item_type_dictionary.html", "da/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_item_type_dictionary" ],
               [ "NetworkNbtSerializer", "d4/dc8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_network_nbt_serializer.html", "d4/dc8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_network_nbt_serializer" ],
               [ "PacketBatch", "d9/df4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_batch.html", "d9/df4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_batch" ],
@@ -1075,6 +1077,13 @@ var annotated_dup =
             ] ],
             [ "types", null, [
               [ "camera", null, [
+                [ "CameraAimAssistCategories", "d9/d64/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_aim_assist_categories.html", "d9/d64/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_aim_assist_categories" ],
+                [ "CameraAimAssistCategory", "dc/db2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_aim_assist_category.html", null ],
+                [ "CameraAimAssistCategoryBlockPriority", "db/d20/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_aim_assist_category_block_priority.html", null ],
+                [ "CameraAimAssistCategoryEntityPriority", "d9/d5f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_aim_assist_category_entity_priority.html", null ],
+                [ "CameraAimAssistCategoryPriorities", "db/de8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_aim_assist_category_priorities.html", "db/de8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_aim_assist_category_priorities" ],
+                [ "CameraAimAssistPreset", "da/d91/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_aim_assist_preset.html", "da/d91/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_aim_assist_preset" ],
+                [ "CameraAimAssistPresetItemSettings", "de/d19/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_aim_assist_preset_item_settings.html", null ],
                 [ "CameraFadeInstruction", "d7/d08/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_fade_instruction.html", null ],
                 [ "CameraFadeInstructionColor", "da/d63/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_fade_instruction_color.html", null ],
                 [ "CameraFadeInstructionTime", "de/dc9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_fade_instruction_time.html", null ],
@@ -1320,6 +1329,7 @@ var annotated_dup =
             [ "BookEditPacket", "d1/db1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_book_edit_packet.html", "d1/db1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_book_edit_packet" ],
             [ "BossEventPacket", "da/d87/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_boss_event_packet.html", "da/d87/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_boss_event_packet" ],
             [ "CameraAimAssistPacket", "d4/d99/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_aim_assist_packet.html", "d4/d99/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_aim_assist_packet" ],
+            [ "CameraAimAssistPresetsPacket", "d7/d38/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_aim_assist_presets_packet.html", "d7/d38/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_aim_assist_presets_packet" ],
             [ "CameraInstructionPacket", "db/d71/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_instruction_packet.html", "db/d71/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_instruction_packet" ],
             [ "CameraPacket", "de/db1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_packet.html", "de/db1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_packet" ],
             [ "CameraPresetsPacket", "df/dda/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_presets_packet.html", "df/dda/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_presets_packet" ],
@@ -2079,8 +2089,6 @@ var annotated_dup =
     [ "BufferedLogger", "d3/d4b/interface_buffered_logger.html", "d3/d4b/interface_buffered_logger" ],
     [ "ClientSession", "d8/d4c/class_client_session.html", null ],
     [ "GlobalLogger", "df/db6/class_global_logger.html", null ],
-    [ "JsonMapper", "df/d33/class_json_mapper.html", "df/d33/class_json_mapper" ],
-    [ "JsonMapper_Exception", "d4/d67/class_json_mapper___exception.html", null ],
     [ "Logger", "d4/d00/interface_logger.html", "d4/d00/interface_logger" ],
     [ "LogLevel", "dd/de7/interface_log_level.html", null ],
     [ "PrefixedLogger", "d9/d00/class_prefixed_logger.html", "d9/d00/class_prefixed_logger" ],

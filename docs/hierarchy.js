@@ -77,6 +77,7 @@ var hierarchy =
     [ "pocketmine\\data\\bedrock\\BiomeIds", "dc/dce/classpocketmine_1_1data_1_1bedrock_1_1_biome_ids.html", null ],
     [ "pocketmine\\world\\biome\\BiomeRegistry", "d4/db3/classpocketmine_1_1world_1_1biome_1_1_biome_registry.html", null ],
     [ "pocketmine\\world\\generator\\biome\\BiomeSelector", "d9/d3b/classpocketmine_1_1world_1_1generator_1_1biome_1_1_biome_selector.html", null ],
+    [ "pocketmine\\network\\mcpe\\protocol\\serializer\\BitSet", "db/db6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_bit_set.html", null ],
     [ "pocketmine\\block\\Block", "d7/d27/classpocketmine_1_1block_1_1_block.html", [
       [ "pocketmine\\block\\Opaque", "db/dc5/classpocketmine_1_1block_1_1_opaque.html", [
         [ "pocketmine\\block\\Barrel", "da/d36/classpocketmine_1_1block_1_1_barrel.html", null ],
@@ -429,6 +430,13 @@ var hierarchy =
     [ "pocketmine\\scheduler\\BulkCurlTaskOperation", "dc/ded/classpocketmine_1_1scheduler_1_1_bulk_curl_task_operation.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\CacheableNbt", "d1/d14/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_cacheable_nbt.html", null ],
     [ "DaveRandom\\CallbackValidator\\CallbackType", "d6/dae/class_dave_random_1_1_callback_validator_1_1_callback_type.html", null ],
+    [ "pocketmine\\network\\mcpe\\protocol\\types\\camera\\CameraAimAssistCategories", "d9/d64/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_aim_assist_categories.html", null ],
+    [ "pocketmine\\network\\mcpe\\protocol\\types\\camera\\CameraAimAssistCategory", "dc/db2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_aim_assist_category.html", null ],
+    [ "pocketmine\\network\\mcpe\\protocol\\types\\camera\\CameraAimAssistCategoryBlockPriority", "db/d20/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_aim_assist_category_block_priority.html", null ],
+    [ "pocketmine\\network\\mcpe\\protocol\\types\\camera\\CameraAimAssistCategoryEntityPriority", "d9/d5f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_aim_assist_category_entity_priority.html", null ],
+    [ "pocketmine\\network\\mcpe\\protocol\\types\\camera\\CameraAimAssistCategoryPriorities", "db/de8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_aim_assist_category_priorities.html", null ],
+    [ "pocketmine\\network\\mcpe\\protocol\\types\\camera\\CameraAimAssistPreset", "da/d91/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_aim_assist_preset.html", null ],
+    [ "pocketmine\\network\\mcpe\\protocol\\types\\camera\\CameraAimAssistPresetItemSettings", "de/d19/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_aim_assist_preset_item_settings.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\camera\\CameraFadeInstruction", "d7/d08/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_fade_instruction.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\camera\\CameraFadeInstructionColor", "da/d63/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_fade_instruction_color.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\camera\\CameraFadeInstructionTime", "de/dc9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_fade_instruction_time.html", null ],
@@ -571,6 +579,7 @@ var hierarchy =
     [ "ClientSession", "d8/d4c/class_client_session.html", null ],
     [ "pocketmine\\color\\Color", "dd/d00/classpocketmine_1_1color_1_1_color.html", null ],
     [ "pocketmine\\command\\Command", "d6/df1/classpocketmine_1_1command_1_1_command.html", [
+      [ "pocketmine\\command\\ClosureCommand", "d7/d03/classpocketmine_1_1command_1_1_closure_command.html", null ],
       [ "pocketmine\\command\\FormattedCommandAlias", "d7/d80/classpocketmine_1_1command_1_1_formatted_command_alias.html", null ],
       [ "pocketmine\\command\\PluginCommand", "d7/d63/classpocketmine_1_1command_1_1_plugin_command.html", null ],
       [ "pocketmine\\command\\defaults\\VanillaCommand", "d5/dfa/classpocketmine_1_1command_1_1defaults_1_1_vanilla_command.html", [
@@ -961,7 +970,6 @@ var hierarchy =
     ] ],
     [ "pocketmine\\event\\EventPriority", "d6/d55/classpocketmine_1_1event_1_1_event_priority.html", null ],
     [ "Exception", null, [
-      [ "JsonMapper_Exception", "d4/d67/class_json_mapper___exception.html", null ],
       [ "pocketmine\\scheduler\\CancelTaskException", "d0/d2b/classpocketmine_1_1scheduler_1_1_cancel_task_exception.html", null ]
     ] ],
     [ "raklib\\utils\\ExceptionTraceCleaner", "d0/d23/classraklib_1_1utils_1_1_exception_trace_cleaner.html", null ],
@@ -1189,7 +1197,6 @@ var hierarchy =
       [ "pocketmine\\nbt\\tag\\ListTag", "d5/df4/classpocketmine_1_1nbt_1_1tag_1_1_list_tag.html", null ],
       [ "pocketmine\\utils\\ObjectSet", "dd/de5/classpocketmine_1_1utils_1_1_object_set.html", null ]
     ] ],
-    [ "JsonMapper", "df/d33/class_json_mapper.html", null ],
     [ "pocketmine\\nbt\\JsonNbtParser", "d7/dca/classpocketmine_1_1nbt_1_1_json_nbt_parser.html", null ],
     [ "JsonSerializable", null, [
       [ "pocketmine\\crafting\\json\\ShapedRecipeData", "d2/db2/classpocketmine_1_1crafting_1_1json_1_1_shaped_recipe_data.html", null ],
@@ -1433,6 +1440,7 @@ var hierarchy =
         [ "pocketmine\\network\\mcpe\\protocol\\BlockEventPacket", "dd/dd2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_block_event_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\BossEventPacket", "da/d87/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_boss_event_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\CameraAimAssistPacket", "d4/d99/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_aim_assist_packet.html", null ],
+        [ "pocketmine\\network\\mcpe\\protocol\\CameraAimAssistPresetsPacket", "d7/d38/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_aim_assist_presets_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\CameraInstructionPacket", "db/d71/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_instruction_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\CameraPacket", "de/db1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\CameraPresetsPacket", "df/dda/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_presets_packet.html", null ],
@@ -1598,6 +1606,7 @@ var hierarchy =
         [ "pocketmine\\network\\mcpe\\protocol\\BookEditPacket", "d1/db1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_book_edit_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\BossEventPacket", "da/d87/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_boss_event_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\CameraAimAssistPacket", "d4/d99/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_aim_assist_packet.html", null ],
+        [ "pocketmine\\network\\mcpe\\protocol\\CameraAimAssistPresetsPacket", "d7/d38/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_aim_assist_presets_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\CameraInstructionPacket", "db/d71/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_instruction_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\CameraPacket", "de/db1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\CameraPresetsPacket", "df/dda/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_presets_packet.html", null ],

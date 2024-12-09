@@ -1,5 +1,6 @@
 var classpocketmine_1_1updater_1_1_update_check_task =
 [
+    [ "checkProgressUpdates", "d7/d6f/classpocketmine_1_1updater_1_1_update_check_task.html#ab4ce5f03047e2ba85b4e17abd775e129", null ],
     [ "fetchLocal", "d7/d6f/classpocketmine_1_1updater_1_1_update_check_task.html#a1ba680fdef8ef3e5832322b56dc460f0", null ],
     [ "getResult", "d7/d6f/classpocketmine_1_1updater_1_1_update_check_task.html#aa5a040d7bd6023185e91387c526f8527", null ],
     [ "isFinished", "d7/d6f/classpocketmine_1_1updater_1_1_update_check_task.html#a3cf7454be9911ea585af23c81846c4f2", null ],

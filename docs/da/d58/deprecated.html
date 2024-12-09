@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.21.3 git-0dae786a21630303fd91b9607493c12663320676</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.23.2 git-6d2329128a00e4664315fb653dd5b3f317fb9d56</span>
    </div>
   </td>
  </tr>
@@ -175,32 +175,38 @@ $(function(){initNavTree('da/d58/deprecated.html','../../'); initResizable(true)
 <dd><a class="anchor" id="_deprecated000033"></a>Superseded by server chat broadcast channels  </dd>
 <dt>Member <a class="el" href="../../da/d0a/classpocketmine_1_1permission_1_1_permission_manager.html#a3790b40d97f369bee88117c438682240">pocketmine\permission\PermissionManager::unsubscribeFromPermission</a>  (string $permission, <a class="el" href="../../d9/d10/classpocketmine_1_1permission_1_1_permissible_internal.html">PermissibleInternal</a> $permissible)</dt>
 <dd><a class="anchor" id="_deprecated000032"></a>Superseded by server chat broadcast channels  </dd>
+<dt>Member <a class="el" href="../../df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#ab4ce5f03047e2ba85b4e17abd775e129">pocketmine\scheduler\AsyncTask::checkProgressUpdates</a>  ()</dt>
+<dd><a class="anchor" id="_deprecated000037"></a>  </dd>
+<dt>Member <a class="el" href="../../df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#ae3aa1ef734e82c49e25962e56eaf76ef">pocketmine\scheduler\AsyncTask::onProgressUpdate</a>  ($progress)</dt>
+<dd><a class="anchor" id="_deprecated000038"></a> </dd>
+<dt>Member <a class="el" href="../../df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a1ec846ee57cc2aae1b5604d5bfcb9948">pocketmine\scheduler\AsyncTask::publishProgress</a>  (mixed $progress)</dt>
+<dd><a class="anchor" id="_deprecated000036"></a> </dd>
 <dt>Member <a class="el" href="../../d1/d4e/classpocketmine_1_1scheduler_1_1_async_worker.html#a75770eb28002e31779b92e86a29cb4e9">pocketmine\scheduler\AsyncWorker::getFromThreadStore</a>  (string $identifier)</dt>
-<dd><a class="anchor" id="_deprecated000036"></a>Use static class properties instead.  </dd>
+<dd><a class="anchor" id="_deprecated000040"></a>Use static class properties instead.  </dd>
 <dt>Member <a class="el" href="../../d1/d4e/classpocketmine_1_1scheduler_1_1_async_worker.html#abb31f220a09e40bb22c29bb68a693e7c">pocketmine\scheduler\AsyncWorker::removeFromThreadStore</a>  (string $identifier)</dt>
-<dd><a class="anchor" id="_deprecated000037"></a>Use static class properties instead.  </dd>
+<dd><a class="anchor" id="_deprecated000041"></a>Use static class properties instead.  </dd>
 <dt>Member <a class="el" href="../../d1/d4e/classpocketmine_1_1scheduler_1_1_async_worker.html#adf6cfa9e72379b162d462a2e9dc8d301">pocketmine\scheduler\AsyncWorker::saveToThreadStore</a>  (string $identifier, mixed $value)</dt>
-<dd><a class="anchor" id="_deprecated000035"></a>Use static class properties instead.  </dd>
+<dd><a class="anchor" id="_deprecated000039"></a>Use static class properties instead.  </dd>
 <dt>Member <a class="el" href="../../d5/df7/classpocketmine_1_1_server.html#a6a32d7ce2b7100d6117cd6e3cfb3b1d6">pocketmine\Server::getPlayerByPrefix</a>  (string $name)</dt>
-<dd><a class="anchor" id="_deprecated000038"></a>This method's results are unpredictable. The string "Steve" will return the player named "SteveJobs", until another player named "SteveJ" joins the server, at which point it will return that player instead. Prefer filtering the results of <code><a class="el" href="../../d5/df7/classpocketmine_1_1_server.html#ab173ee59d49782e9a9fd13a1cdc39cbf">Server::getOnlinePlayers()</a></code> yourself. </dd>
+<dd><a class="anchor" id="_deprecated000042"></a>This method's results are unpredictable. The string "Steve" will return the player named "SteveJobs", until another player named "SteveJ" joins the server, at which point it will return that player instead. Prefer filtering the results of <code><a class="el" href="../../d5/df7/classpocketmine_1_1_server.html#ab173ee59d49782e9a9fd13a1cdc39cbf">Server::getOnlinePlayers()</a></code> yourself. </dd>
 <dt>Member <a class="el" href="../../de/d8c/classpocketmine_1_1timings_1_1_timings.html#a2924b8e8608bfb4521250f44402a215c">pocketmine\timings\Timings::getAsyncTaskErrorTimings</a>  (AsyncTask $task, string $group=self::GROUP_MINECRAFT)</dt>
-<dd><a class="anchor" id="_deprecated000040"></a>No longer used  </dd>
+<dd><a class="anchor" id="_deprecated000044"></a>No longer used  </dd>
 <dt>Member <a class="el" href="../../de/d8c/classpocketmine_1_1timings_1_1_timings.html#ae64c4ba5c3e1b1cc002aafbb3967ee65">pocketmine\timings\Timings::GROUP_BREAKDOWN</a>  </dt>
-<dd><a class="anchor" id="_deprecated000039"></a>No longer used  </dd>
+<dd><a class="anchor" id="_deprecated000043"></a>No longer used  </dd>
 <dt>Member <a class="el" href="../../d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html#a1b6e3c8b2fd755943c660b6077911de5">pocketmine\timings\TimingsHandler::printTimings</a>  ()</dt>
-<dd><a class="anchor" id="_deprecated000041"></a>This only collects timings from the main thread. Collecting timings from all threads is an async operation, so it can't be done synchronously. </dd>
+<dd><a class="anchor" id="_deprecated000045"></a>This only collects timings from the main thread. Collecting timings from all threads is an async operation, so it can't be done synchronously. </dd>
 <dt>Member <a class="el" href="../../d8/d9e/classpocketmine_1_1utils_1_1_process.html#a1ae6452e6e1b5e8ab6e135f649ba8e28">pocketmine\utils\Process::kill</a>  (int $pid, bool $subprocesses=false)</dt>
-<dd><a class="anchor" id="_deprecated000042"></a>  </dd>
+<dd><a class="anchor" id="_deprecated000046"></a>  </dd>
 <dt>Member <a class="el" href="../../d7/dde/classpocketmine_1_1wizard_1_1_setup_wizard.html#a29cc61d550f0851f92c81e6de5b22137">pocketmine\wizard\SetupWizard::DEFAULT_NAME</a>  </dt>
-<dd><a class="anchor" id="_deprecated000043"></a>  </dd>
+<dd><a class="anchor" id="_deprecated000047"></a>  </dd>
 <dt>Member <a class="el" href="../../d7/dde/classpocketmine_1_1wizard_1_1_setup_wizard.html#a56f5764f3c3646e79bc25c2f0a09b033">pocketmine\wizard\SetupWizard::DEFAULT_PLAYERS</a>  </dt>
-<dd><a class="anchor" id="_deprecated000045"></a>  </dd>
+<dd><a class="anchor" id="_deprecated000049"></a>  </dd>
 <dt>Member <a class="el" href="../../d7/dde/classpocketmine_1_1wizard_1_1_setup_wizard.html#aca92aa8fd97856d4aa6bbc74fa7efccf">pocketmine\wizard\SetupWizard::DEFAULT_PORT</a>  </dt>
-<dd><a class="anchor" id="_deprecated000044"></a>  </dd>
+<dd><a class="anchor" id="_deprecated000048"></a>  </dd>
 <dt>Member <a class="el" href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html#a72b2673cda248e41ef6b73b8d50bd192">pocketmine\world\World::getChunkPlayers</a>  (int $chunkX, int $chunkZ)</dt>
-<dd><a class="anchor" id="_deprecated000046"></a>WARNING: This function has a misleading name. Contrary to what the name might imply, this function DOES NOT return players who are IN a chunk, rather, it returns players who can SEE the chunk. </dd>
+<dd><a class="anchor" id="_deprecated000050"></a>WARNING: This function has a misleading name. Contrary to what the name might imply, this function DOES NOT return players who are IN a chunk, rather, it returns players who can SEE the chunk. </dd>
 <dt>Member <a class="el" href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html#a66641714cd2375a754e4e105b8bf12c0">pocketmine\world\World::getCollisionBoxes</a>  (Entity $entity, AxisAlignedBB $bb, bool $entities=true)</dt>
-<dd><a class="anchor" id="_deprecated000047"></a>Use <code><a class="el" href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html#a9316f2b8d9e016ccdce8b57d78d9f9e2">World::getBlockCollisionBoxes()</a></code> instead (alongside <code><a class="el" href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html#a98697e8c47a2ed43da52da0c77f0a2d4">World::getCollidingEntities()</a></code> if entity collision boxes are also required).</dd>
+<dd><a class="anchor" id="_deprecated000051"></a>Use <code><a class="el" href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html#a9316f2b8d9e016ccdce8b57d78d9f9e2">World::getBlockCollisionBoxes()</a></code> instead (alongside <code><a class="el" href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html#a98697e8c47a2ed43da52da0c77f0a2d4">World::getCollidingEntities()</a></code> if entity collision boxes are also required).</dd>
 </dl>
 </div></div><!-- contents -->
 </div><!-- PageDoc -->

@@ -1,5 +1,6 @@
 var classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_compress_batch_task =
 [
+    [ "checkProgressUpdates", "d6/dda/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_compress_batch_task.html#ab4ce5f03047e2ba85b4e17abd775e129", null ],
     [ "fetchLocal", "d6/dda/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_compress_batch_task.html#a1ba680fdef8ef3e5832322b56dc460f0", null ],
     [ "getResult", "d6/dda/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_compress_batch_task.html#aa5a040d7bd6023185e91387c526f8527", null ],
     [ "isFinished", "d6/dda/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_compress_batch_task.html#a3cf7454be9911ea585af23c81846c4f2", null ],
