@@ -108,7 +108,7 @@ var NAVTREEINDEX17 =
 "d1/d37/classraklib_1_1protocol_1_1_open_connection_reply1.html#ae2f92b294d641f3863fd550bc9e5c9d9":[3,0,2,2,16,3],
 "d1/d3b/_enchantment_id_map_8php_source.html":[4,0,0,5,0,9],
 "d1/d3c/_human_8php_source.html":[4,0,0,6,17],
-"d1/d3c/_wool_8php_source.html":[4,0,0,0,252],
+"d1/d3c/_wool_8php_source.html":[4,0,0,0,253],
 "d1/d3d/_book_edit_packet_8php_source.html":[4,0,1,0,1,0,23],
 "d1/d3e/_command_sender_8php_source.html":[4,0,0,1,6],
 "d1/d3e/classpocketmine_1_1entity_1_1effect_1_1_instant_health_effect.html":[3,0,1,7,1,8],

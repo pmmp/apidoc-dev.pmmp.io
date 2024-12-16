@@ -2,7 +2,7 @@ var NAVTREEINDEX12 =
 {
 "d0/dd6/_light_population_task_8php_source.html":[4,0,0,25,3,1],
 "d0/dd6/_projectile_hit_block_event_8php_source.html":[4,0,0,7,1,26],
-"d0/dd8/_stem_8php_source.html":[4,0,0,0,212],
+"d0/dd8/_stem_8php_source.html":[4,0,0,0,213],
 "d0/dd8/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_spawn_response_packet_handler.html":[3,0,1,16,0,5,12],
 "d0/dd8/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_spawn_response_packet_handler.html#a1d2f45d14ddd97e7da7f66a8afe763c9":[3,0,1,16,0,5,12,0],
 "d0/ddc/_chest_close_sound_8php_source.html":[4,0,0,25,5,39],
@@ -249,5 +249,5 @@ var NAVTREEINDEX12 =
 "d0/dfc/classpocketmine_1_1entity_1_1_hunger_manager.html#ae603135ee276f75567f4d54a395e117a":[2,0,0,2,13,1],
 "d0/dfc/classpocketmine_1_1entity_1_1_hunger_manager.html#ae603135ee276f75567f4d54a395e117a":[3,0,1,7,18,1],
 "d0/dff/_move_actor_delta_packet_8php_source.html":[4,0,1,0,1,0,102],
-"d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html":[2,0,0,0,189]
+"d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html":[2,0,0,0,190]
 };

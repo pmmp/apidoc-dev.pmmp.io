@@ -332,6 +332,7 @@ var hierarchy =
           ] ],
           [ "pocketmine\\block\\WeightedPressurePlate", "d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html", null ]
         ] ],
+        [ "pocketmine\\block\\ResinClump", "d1/da4/classpocketmine_1_1block_1_1_resin_clump.html", null ],
         [ "pocketmine\\block\\SeaLantern", "d2/d6d/classpocketmine_1_1block_1_1_sea_lantern.html", null ],
         [ "pocketmine\\block\\SeaPickle", "d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html", null ],
         [ "pocketmine\\block\\Slab", "dc/d60/classpocketmine_1_1block_1_1_slab.html", [

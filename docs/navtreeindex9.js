@@ -155,7 +155,7 @@ var NAVTREEINDEX9 =
 "d0/db1/classpocketmine_1_1item_1_1_ender_pearl.html#afb8b72cf7f604691019ea69cdd54f5aa":[2,0,0,5,41,14],
 "d0/db1/classpocketmine_1_1item_1_1_ender_pearl.html#afb8b72cf7f604691019ea69cdd54f5aa":[3,0,1,12,42,14],
 "d0/db4/_deprecated_crafting_results_stack_request_action_8php_source.html":[4,0,1,0,1,0,1,4,0,8],
-"d0/db4/_wither_rose_8php_source.html":[4,0,0,0,243],
+"d0/db4/_wither_rose_8php_source.html":[4,0,0,0,244],
 "d0/db5/classpocketmine_1_1world_1_1format_1_1_chunk_exception.html":[3,0,1,30,1,2],
 "d0/db6/_dyed_shulker_box_8php_source.html":[4,0,0,0,89],
 "d0/db6/interfacepocketmine_1_1player_1_1chat_1_1_chat_formatter.html":[3,0,1,18,0,0],
