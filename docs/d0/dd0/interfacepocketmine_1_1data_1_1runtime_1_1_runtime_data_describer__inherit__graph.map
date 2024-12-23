@@ -1,9 +1,9 @@
 <map id="pocketmine\data\runtime\RuntimeDataDescriber" name="pocketmine\data\runtime\RuntimeDataDescriber">
-<area shape="rect" id="Node000001" title=" " alt="" coords="217,5,396,285"/>
-<area shape="rect" id="Node000002" href="$de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html" title=" " alt="" coords="5,333,184,633"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,298,186,342,182,339,209,296"/>
-<area shape="rect" id="Node000003" href="$db/dff/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_size_calculator.html" title=" " alt="" coords="208,333,405,633"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="309,299,309,333,304,333,304,299"/>
-<area shape="rect" id="Node000004" href="$dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer.html" title=" " alt="" coords="429,333,608,633"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="404,296,432,339,427,342,399,298"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="215,5,399,365"/>
+<area shape="rect" id="Node000002" href="$de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html" title=" " alt="" coords="5,413,184,713"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,363,181,414,177,411,206,360"/>
+<area shape="rect" id="Node000003" href="$db/dff/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_size_calculator.html" title=" " alt="" coords="208,413,405,713"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="309,379,309,413,304,413,304,379"/>
+<area shape="rect" id="Node000004" href="$dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer.html" title=" " alt="" coords="429,413,608,713"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="408,360,437,411,432,414,403,363"/>
 </map>

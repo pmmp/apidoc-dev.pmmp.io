@@ -1,7 +1,7 @@
 <map id="pocketmine\thread\Worker" name="pocketmine\thread\Worker">
-<area shape="rect" id="Node000001" title=" " alt="" coords="13,119,199,184"/>
-<area shape="rect" id="Node000003" href="$d1/d4e/classpocketmine_1_1scheduler_1_1_async_worker.html" title=" " alt="" coords="5,232,207,472"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="109,198,109,232,103,232,103,198"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="55,5,157,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,84,109,119,103,119,103,84"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,191,184"/>
+<area shape="rect" id="Node000003" href="$d1/d4e/classpocketmine_1_1scheduler_1_1_async_worker.html" title=" " alt="" coords="12,232,184,432"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="101,198,101,232,95,232,95,198"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="47,5,149,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,84,101,119,95,119,95,84"/>
 </map>

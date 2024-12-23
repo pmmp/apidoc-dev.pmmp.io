@@ -1,11 +1,11 @@
 <map id="pocketmine\network\mcpe\ChunkRequestTask" name="pocketmine\network\mcpe\ChunkRequestTask">
-<area shape="rect" id="Node000001" title=" " alt="" coords="119,563,300,723"/>
-<area shape="rect" id="Node000002" href="$df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html" title=" " alt="" coords="5,120,192,500"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,512,185,562,180,563,164,514"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="61,5,136,71"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,84,101,120,96,120,96,84"/>
-<area shape="rect" id="Node000004" href="$d4/d69/classpocketmine_1_1thread_1_1_non_thread_safe_value.html" title=" " alt="" coords="216,260,427,360"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="307,361,244,548,239,546,302,359"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="277,5,365,71"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="324,84,324,260,319,260,319,84"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,503,277,663"/>
+<area shape="rect" id="Node000002" href="$df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html" title=" " alt="" coords="5,120,163,440"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,452,162,502,157,503,140,454"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="47,5,121,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,85,87,120,81,120,81,85"/>
+<area shape="rect" id="Node000004" href="$d4/d69/classpocketmine_1_1thread_1_1_non_thread_safe_value.html" title=" " alt="" coords="187,230,397,330"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="277,331,222,488,217,487,272,329"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="248,5,336,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="295,85,295,230,289,230,289,85"/>
 </map>

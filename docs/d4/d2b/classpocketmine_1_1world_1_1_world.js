@@ -28,7 +28,6 @@ var classpocketmine_1_1world_1_1_world =
     [ "getChunkTickRadius", "d4/d2b/classpocketmine_1_1world_1_1_world.html#a46bae673a93f326fb253f1b56baaea67", null ],
     [ "getCollidingEntities", "d4/d2b/classpocketmine_1_1world_1_1_world.html#a98697e8c47a2ed43da52da0c77f0a2d4", null ],
     [ "getCollisionBlocks", "d4/d2b/classpocketmine_1_1world_1_1_world.html#a087b8dbf55ae39863e72fc80eda1b005", null ],
-    [ "getCollisionBoxes", "d4/d2b/classpocketmine_1_1world_1_1_world.html#a66641714cd2375a754e4e105b8bf12c0", null ],
     [ "getDisplayName", "d4/d2b/classpocketmine_1_1world_1_1_world.html#a1de566a493bd62fdfb4aec302d6b7970", null ],
     [ "getEntities", "d4/d2b/classpocketmine_1_1world_1_1_world.html#abc4f34e0983bb088473fcc4156124c02", null ],
     [ "getFolderName", "d4/d2b/classpocketmine_1_1world_1_1_world.html#a3693dcf84c93ce48d8e38d86fa109c7c", null ],

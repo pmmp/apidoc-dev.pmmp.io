@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.23.3 git-7a2427ace2de0ed77bb8357466fb529c08133bdf</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.23.3 git-1c35987eadc4676c6e4a03d82ba6f438089d34fa</span>
    </div>
   </td>
  </tr>
@@ -201,10 +201,6 @@ Public Attributes</h2></td></tr>
 <tr class="separator:a8d8cbb0dd424af78bd88d6831116f8ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a81a4c5ef1d2c072fc03225c63511fe12" id="r_a81a4c5ef1d2c072fc03225c63511fe12"><td class="memItemLeft" align="right" valign="top">const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a81a4c5ef1d2c072fc03225c63511fe12">RESET</a> = TextFormat::ESCAPE . &quot;r&quot;</td></tr>
 <tr class="separator:a81a4c5ef1d2c072fc03225c63511fe12"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0671e59be6d7188889a00867161762c1" id="r_a0671e59be6d7188889a00867161762c1"><td class="memItemLeft" align="right" valign="top">const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a0671e59be6d7188889a00867161762c1">STRIKETHROUGH</a> = &quot;&quot;</td></tr>
-<tr class="separator:a0671e59be6d7188889a00867161762c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a03dd8524c7027c0cf97238eaddca3de5" id="r_a03dd8524c7027c0cf97238eaddca3de5"><td class="memItemLeft" align="right" valign="top">const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a03dd8524c7027c0cf97238eaddca3de5">UNDERLINE</a> = &quot;&quot;</td></tr>
-<tr class="separator:a03dd8524c7027c0cf97238eaddca3de5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8ce860a06ef07c5714f83e5b51546f88" id="r_a8ce860a06ef07c5714f83e5b51546f88"><td class="memItemLeft" align="right" valign="top">const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a8ce860a06ef07c5714f83e5b51546f88">WHITE</a> = TextFormat::ESCAPE . &quot;f&quot;</td></tr>
 <tr class="separator:a8ce860a06ef07c5714f83e5b51546f88"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afc513689b662cb1da787c0b276937038" id="r_afc513689b662cb1da787c0b276937038"><td class="memItemLeft" align="right" valign="top">const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#afc513689b662cb1da787c0b276937038">YELLOW</a> = TextFormat::ESCAPE . &quot;e&quot;</td></tr>
@@ -249,7 +245,7 @@ Public Attributes</h2></td></tr>
 </ul>
 <p>Note: Adding base formatting to the output string a second time will result in a combination of formats from both calls. This is not by design, but simply a consequence of the way the function is implemented. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../da/d59/_text_format_8php_source.html#l00194">194</a> of file <a class="el" href="../../da/d59/_text_format_8php_source.html">TextFormat.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/d59/_text_format_8php_source.html#l00190">190</a> of file <a class="el" href="../../da/d59/_text_format_8php_source.html">TextFormat.php</a>.</p>
 
 </div>
 </div>
@@ -282,7 +278,7 @@ Public Attributes</h2></td></tr>
 <p>Cleans the string from Minecraft codes, ANSI Escape Codes and invalid UTF-8 characters</p>
 <dl class="section return"><dt>Returns</dt><dd>string valid clean UTF-8 </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="../../da/d59/_text_format_8php_source.html#l00163">163</a> of file <a class="el" href="../../da/d59/_text_format_8php_source.html">TextFormat.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/d59/_text_format_8php_source.html#l00159">159</a> of file <a class="el" href="../../da/d59/_text_format_8php_source.html">TextFormat.php</a>.</p>
 
 </div>
 </div>
@@ -320,7 +316,7 @@ Public Attributes</h2></td></tr>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="../../da/d59/_text_format_8php_source.html#l00177">177</a> of file <a class="el" href="../../da/d59/_text_format_8php_source.html">TextFormat.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/d59/_text_format_8php_source.html#l00173">173</a> of file <a class="el" href="../../da/d59/_text_format_8php_source.html">TextFormat.php</a>.</p>
 
 </div>
 </div>
@@ -350,7 +346,7 @@ Public Attributes</h2></td></tr>
 <p>As of 1.21.50, strikethrough (§m) and underline (§n) are not supported by Bedrock, and these symbols are instead used to represent additional colours in Bedrock. To avoid unintended formatting, this function currently strips those formatting codes to prevent unintended colour display in formatted text.</p>
 <p>If Bedrock starts to support these formats in the future, this function will be updated to translate them rather than removing them. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../da/d59/_text_format_8php_source.html#l00216">216</a> of file <a class="el" href="../../da/d59/_text_format_8php_source.html">TextFormat.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/d59/_text_format_8php_source.html#l00212">212</a> of file <a class="el" href="../../da/d59/_text_format_8php_source.html">TextFormat.php</a>.</p>
 
 </div>
 </div>
@@ -378,7 +374,7 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p>Returns an HTML-formatted string with colors/markup </p>
 
-<p class="definition">Definition at line <a class="el" href="../../da/d59/_text_format_8php_source.html#l00223">223</a> of file <a class="el" href="../../da/d59/_text_format_8php_source.html">TextFormat.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/d59/_text_format_8php_source.html#l00219">219</a> of file <a class="el" href="../../da/d59/_text_format_8php_source.html">TextFormat.php</a>.</p>
 
 </div>
 </div>
@@ -407,7 +403,7 @@ Public Attributes</h2></td></tr>
 <p>Splits the string by Format tokens</p>
 <dl class="section return"><dt>Returns</dt><dd>string[] </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="../../da/d59/_text_format_8php_source.html#l00152">152</a> of file <a class="el" href="../../da/d59/_text_format_8php_source.html">TextFormat.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/d59/_text_format_8php_source.html#l00148">148</a> of file <a class="el" href="../../da/d59/_text_format_8php_source.html">TextFormat.php</a>.</p>
 
 </div>
 </div>
@@ -666,7 +662,7 @@ Public Attributes</h2></td></tr>
 <div class="line">        self::ITALIC =&gt; self::ITALIC,</div>
 <div class="line">    ]</div>
 </div><!-- fragment -->
-<p class="definition">Definition at line <a class="el" href="../../da/d59/_text_format_8php_source.html#l00115">115</a> of file <a class="el" href="../../da/d59/_text_format_8php_source.html">TextFormat.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/d59/_text_format_8php_source.html#l00111">111</a> of file <a class="el" href="../../da/d59/_text_format_8php_source.html">TextFormat.php</a>.</p>
 
 </div>
 </div>
@@ -730,7 +726,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/d59/_text_format_8php_source.html#l00113">113</a> of file <a class="el" href="../../da/d59/_text_format_8php_source.html">TextFormat.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/d59/_text_format_8php_source.html#l00109">109</a> of file <a class="el" href="../../da/d59/_text_format_8php_source.html">TextFormat.php</a>.</p>
 
 </div>
 </div>
@@ -970,41 +966,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../da/d59/_text_format_8php_source.html#l00121">121</a> of file <a class="el" href="../../da/d59/_text_format_8php_source.html">TextFormat.php</a>.</p>
-
-</div>
-</div>
-<a id="a0671e59be6d7188889a00867161762c1" name="a0671e59be6d7188889a00867161762c1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0671e59be6d7188889a00867161762c1">&#9670;&#160;</a></span>STRIKETHROUGH</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">const pocketmine\utils\TextFormat::STRIKETHROUGH = &quot;&quot;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<dl class="deprecated"><dt><b><a class="el" href="../../da/d58/deprecated.html#_deprecated000047">Deprecated</a></b></dt><dd></dd></dl>
-
-<p class="definition">Definition at line <a class="el" href="../../da/d59/_text_format_8php_source.html#l00110">110</a> of file <a class="el" href="../../da/d59/_text_format_8php_source.html">TextFormat.php</a>.</p>
-
-</div>
-</div>
-<a id="a03dd8524c7027c0cf97238eaddca3de5" name="a03dd8524c7027c0cf97238eaddca3de5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a03dd8524c7027c0cf97238eaddca3de5">&#9670;&#160;</a></span>UNDERLINE</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">const pocketmine\utils\TextFormat::UNDERLINE = &quot;&quot;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<dl class="deprecated"><dt><b><a class="el" href="../../da/d58/deprecated.html#_deprecated000048">Deprecated</a></b></dt><dd></dd></dl>
-
-<p class="definition">Definition at line <a class="el" href="../../da/d59/_text_format_8php_source.html#l00112">112</a> of file <a class="el" href="../../da/d59/_text_format_8php_source.html">TextFormat.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../da/d59/_text_format_8php_source.html#l00117">117</a> of file <a class="el" href="../../da/d59/_text_format_8php_source.html">TextFormat.php</a>.</p>
 
 </div>
 </div>

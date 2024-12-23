@@ -1,7 +1,7 @@
 <map id="pocketmine\world\generator\GeneratorRegisterTask" name="pocketmine\world\generator\GeneratorRegisterTask">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,547,203,707"/>
-<area shape="rect" id="Node000002" href="$df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html" title=" " alt="" coords="11,119,197,499"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,512,107,547,101,547,101,512"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,487,203,647"/>
+<area shape="rect" id="Node000002" href="$df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html" title=" " alt="" coords="25,119,183,439"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,452,107,486,101,486,101,452"/>
 <area shape="rect" id="Node000003" title=" " alt="" coords="67,5,141,71"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,85,107,118,101,118,101,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,84,107,119,101,119,101,84"/>
 </map>

@@ -1,7 +1,7 @@
 <map id="pocketmine\network\mcpe\compression\CompressBatchTask" name="pocketmine\network\mcpe\compression\CompressBatchTask">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,547,216,681"/>
-<area shape="rect" id="Node000002" href="$df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html" title=" " alt="" coords="17,119,204,499"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,512,113,546,108,546,108,512"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,487,216,621"/>
+<area shape="rect" id="Node000002" href="$df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html" title=" " alt="" coords="32,119,189,439"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,452,113,486,108,486,108,452"/>
 <area shape="rect" id="Node000003" title=" " alt="" coords="73,5,148,71"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,85,113,118,108,118,108,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,84,113,119,108,119,108,84"/>
 </map>

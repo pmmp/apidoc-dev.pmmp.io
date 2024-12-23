@@ -1,5 +1,5 @@
 <map id="pocketmine\data\runtime\RuntimeDataWriter" name="pocketmine\data\runtime\RuntimeDataWriter">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,333,184,633"/>
-<area shape="rect" id="Node000002" href="$d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html" title=" " alt="" coords="5,5,184,285"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,299,97,333,92,333,92,299"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="8,413,187,713"/>
+<area shape="rect" id="Node000002" href="$d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html" title=" " alt="" coords="5,5,189,365"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,379,100,413,95,413,95,379"/>
 </map>

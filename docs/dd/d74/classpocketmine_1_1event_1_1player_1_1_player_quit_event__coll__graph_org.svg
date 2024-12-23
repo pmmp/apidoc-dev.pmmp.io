@@ -874,49 +874,47 @@
 <g id="Node000017" class="node">
 <title>Node17</title>
 <g id="a_Node000017"><a xlink:href="../../d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="594.5,-3126.5 434.5,-3126.5 434.5,-2811.5 594.5,-2811.5 594.5,-3126.5"/>
-<text text-anchor="start" x="466" y="-3114" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\timings</text>
-<text text-anchor="start" x="474" y="-3103" font-family="Helvetica,sans-Serif" font-size="10.00">\TimingsHandler</text>
-<text text-anchor="start" x="512.5" y="-3088" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="438.5" y="-3073" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="451.5" y="-3073" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
-<text text-anchor="start" x="438.5" y="-3058" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="451.5" y="-3058" font-family="Helvetica,sans-Serif" font-size="10.00">getGroup()</text>
-<text text-anchor="start" x="438.5" y="-3043" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="451.5" y="-3043" font-family="Helvetica,sans-Serif" font-size="10.00">getName()</text>
-<text text-anchor="start" x="438.5" y="-3028" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="451.5" y="-3028" font-family="Helvetica,sans-Serif" font-size="10.00">reset()</text>
-<text text-anchor="start" x="438.5" y="-3013" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="451.5" y="-3013" font-family="Helvetica,sans-Serif" font-size="10.00">startTiming()</text>
-<text text-anchor="start" x="438.5" y="-2998" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="451.5" y="-2998" font-family="Helvetica,sans-Serif" font-size="10.00">stopTiming()</text>
-<text text-anchor="start" x="438.5" y="-2983" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="451.5" y="-2983" font-family="Helvetica,sans-Serif" font-size="10.00">time()</text>
-<text text-anchor="start" x="438.5" y="-2968" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="451.5" y="-2968" font-family="Helvetica,sans-Serif" font-size="10.00">getCollectCallbacks()</text>
-<text text-anchor="start" x="438.5" y="-2953" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="451.5" y="-2953" font-family="Helvetica,sans-Serif" font-size="10.00">getReloadCallbacks()</text>
-<text text-anchor="start" x="438.5" y="-2938" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="451.5" y="-2938" font-family="Helvetica,sans-Serif" font-size="10.00">getStartTime()</text>
-<text text-anchor="start" x="438.5" y="-2923" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="451.5" y="-2923" font-family="Helvetica,sans-Serif" font-size="10.00">getToggleCallbacks()</text>
-<text text-anchor="start" x="438.5" y="-2908" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="451.5" y="-2908" font-family="Helvetica,sans-Serif" font-size="10.00">isEnabled()</text>
-<text text-anchor="start" x="438.5" y="-2893" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="451.5" y="-2893" font-family="Helvetica,sans-Serif" font-size="10.00">printCurrentThreadRecords()</text>
-<text text-anchor="start" x="438.5" y="-2878" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="451.5" y="-2878" font-family="Helvetica,sans-Serif" font-size="10.00">printTimings()</text>
-<text text-anchor="start" x="438.5" y="-2863" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="451.5" y="-2863" font-family="Helvetica,sans-Serif" font-size="10.00">reload()</text>
-<text text-anchor="start" x="438.5" y="-2848" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="451.5" y="-2848" font-family="Helvetica,sans-Serif" font-size="10.00">requestPrintTimings()</text>
-<text text-anchor="start" x="438.5" y="-2833" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="451.5" y="-2833" font-family="Helvetica,sans-Serif" font-size="10.00">setEnabled()</text>
-<text text-anchor="start" x="438.5" y="-2818" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="451.5" y="-2818" font-family="Helvetica,sans-Serif" font-size="10.00">tick()</text>
-<polygon fill="#666666" stroke="#666666" points="434.5,-3098 434.5,-3098 594.5,-3098 594.5,-3098 434.5,-3098"/>
-<polygon fill="#666666" stroke="#666666" points="434.5,-3083 434.5,-3083 594.5,-3083 594.5,-3083 434.5,-3083"/>
-<polygon fill="none" stroke="#666666" points="434.5,-2811.5 434.5,-3126.5 594.5,-3126.5 594.5,-2811.5 434.5,-2811.5"/>
+<polygon fill="white" stroke="transparent" points="594.5,-3119 434.5,-3119 434.5,-2819 594.5,-2819 594.5,-3119"/>
+<text text-anchor="start" x="466" y="-3107" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\timings</text>
+<text text-anchor="start" x="474" y="-3096" font-family="Helvetica,sans-Serif" font-size="10.00">\TimingsHandler</text>
+<text text-anchor="start" x="512.5" y="-3081" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="438.5" y="-3066" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="451.5" y="-3066" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
+<text text-anchor="start" x="438.5" y="-3051" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="451.5" y="-3051" font-family="Helvetica,sans-Serif" font-size="10.00">getGroup()</text>
+<text text-anchor="start" x="438.5" y="-3036" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="451.5" y="-3036" font-family="Helvetica,sans-Serif" font-size="10.00">getName()</text>
+<text text-anchor="start" x="438.5" y="-3021" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="451.5" y="-3021" font-family="Helvetica,sans-Serif" font-size="10.00">reset()</text>
+<text text-anchor="start" x="438.5" y="-3006" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="451.5" y="-3006" font-family="Helvetica,sans-Serif" font-size="10.00">startTiming()</text>
+<text text-anchor="start" x="438.5" y="-2991" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="451.5" y="-2991" font-family="Helvetica,sans-Serif" font-size="10.00">stopTiming()</text>
+<text text-anchor="start" x="438.5" y="-2976" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="451.5" y="-2976" font-family="Helvetica,sans-Serif" font-size="10.00">time()</text>
+<text text-anchor="start" x="438.5" y="-2961" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="451.5" y="-2961" font-family="Helvetica,sans-Serif" font-size="10.00">getCollectCallbacks()</text>
+<text text-anchor="start" x="438.5" y="-2946" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="451.5" y="-2946" font-family="Helvetica,sans-Serif" font-size="10.00">getReloadCallbacks()</text>
+<text text-anchor="start" x="438.5" y="-2931" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="451.5" y="-2931" font-family="Helvetica,sans-Serif" font-size="10.00">getStartTime()</text>
+<text text-anchor="start" x="438.5" y="-2916" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="451.5" y="-2916" font-family="Helvetica,sans-Serif" font-size="10.00">getToggleCallbacks()</text>
+<text text-anchor="start" x="438.5" y="-2901" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="451.5" y="-2901" font-family="Helvetica,sans-Serif" font-size="10.00">isEnabled()</text>
+<text text-anchor="start" x="438.5" y="-2886" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="451.5" y="-2886" font-family="Helvetica,sans-Serif" font-size="10.00">printCurrentThreadRecords()</text>
+<text text-anchor="start" x="438.5" y="-2871" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="451.5" y="-2871" font-family="Helvetica,sans-Serif" font-size="10.00">reload()</text>
+<text text-anchor="start" x="438.5" y="-2856" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="451.5" y="-2856" font-family="Helvetica,sans-Serif" font-size="10.00">requestPrintTimings()</text>
+<text text-anchor="start" x="438.5" y="-2841" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="451.5" y="-2841" font-family="Helvetica,sans-Serif" font-size="10.00">setEnabled()</text>
+<text text-anchor="start" x="438.5" y="-2826" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="451.5" y="-2826" font-family="Helvetica,sans-Serif" font-size="10.00">tick()</text>
+<polygon fill="#666666" stroke="#666666" points="434.5,-3091 434.5,-3091 594.5,-3091 594.5,-3091 434.5,-3091"/>
+<polygon fill="#666666" stroke="#666666" points="434.5,-3076 434.5,-3076 594.5,-3076 594.5,-3076 434.5,-3076"/>
+<polygon fill="none" stroke="#666666" points="434.5,-2819 434.5,-3119 594.5,-3119 594.5,-2819 434.5,-2819"/>
 </a>
 </g>
 </g>
@@ -924,7 +922,7 @@
 <g id="edge14_Node000007_Node000017" class="edge">
 <title>Node17&#45;&gt;Node7</title>
 <g id="a_edge14_Node000007_Node000017"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M563.12,-2811.48C574.08,-2792.04 587.39,-2773.82 603.5,-2759 645.18,-2720.65 668.99,-2730.25 724.5,-2719 773.23,-2709.13 909.8,-2733.41 947.5,-2701 948.21,-2700.39 948.91,-2699.78 949.61,-2699.16"/>
+<path fill="none" stroke="#63b8ff" d="M559.08,-2818.89C570.77,-2796.69 585.36,-2775.69 603.5,-2759 645.18,-2720.65 668.99,-2730.25 724.5,-2719 773.23,-2709.13 909.8,-2733.41 947.5,-2701 948.21,-2700.39 948.91,-2699.78 949.61,-2699.16"/>
 <polygon fill="none" stroke="#63b8ff" points="949.68,-2699.09 951.3,-2692.06 958.4,-2690.85 956.79,-2697.88 949.68,-2699.09"/>
 </a>
 </g>

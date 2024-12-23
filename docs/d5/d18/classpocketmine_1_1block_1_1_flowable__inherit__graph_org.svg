@@ -1304,40 +1304,38 @@
 <g id="Node000058" class="node">
 <title>Node58</title>
 <g id="a_Node000058"><a xlink:href="../../d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="6368.5,-404 6188.5,-404 6188.5,-175 6368.5,-175 6368.5,-404"/>
-<text text-anchor="start" x="6193.5" y="-391.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\SweetBerryBush</text>
-<text text-anchor="start" x="6196" y="-376.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="6212.5" y="-376.5" font-family="Helvetica,sans-Serif" font-size="10.00">MAX_AGE</text>
-<text text-anchor="start" x="6196" y="-361.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="6212.5" y="-361.5" font-family="Helvetica,sans-Serif" font-size="10.00">STAGE_BUSH_NO_BERRIES</text>
-<text text-anchor="start" x="6196" y="-346.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="6212.5" y="-346.5" font-family="Helvetica,sans-Serif" font-size="10.00">STAGE_BUSH_SOME_BERRIES</text>
-<text text-anchor="start" x="6196" y="-331.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="6212.5" y="-331.5" font-family="Helvetica,sans-Serif" font-size="10.00">STAGE_MATURE</text>
-<text text-anchor="start" x="6196" y="-316.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="6212.5" y="-316.5" font-family="Helvetica,sans-Serif" font-size="10.00">STAGE_SAPLING</text>
-<text text-anchor="start" x="6196" y="-301.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="6212.5" y="-301.5" font-family="Helvetica,sans-Serif" font-size="10.00">asItem()</text>
-<text text-anchor="start" x="6196" y="-286.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="6212.5" y="-286.5" font-family="Helvetica,sans-Serif" font-size="10.00">getBerryDropAmount()</text>
-<text text-anchor="start" x="6196" y="-271.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="6212.5" y="-271.5" font-family="Helvetica,sans-Serif" font-size="10.00">getDropsForCompatibleTool()</text>
-<text text-anchor="start" x="6196" y="-256.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="6212.5" y="-256.5" font-family="Helvetica,sans-Serif" font-size="10.00">hasEntityCollision()</text>
-<text text-anchor="start" x="6196" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="6212.5" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00">onEntityInside()</text>
-<text text-anchor="start" x="6196" y="-226.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="6212.5" y="-226.5" font-family="Helvetica,sans-Serif" font-size="10.00">onInteract()</text>
-<text text-anchor="start" x="6196" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="6212.5" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">onRandomTick()</text>
-<text text-anchor="start" x="6196" y="-196.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="6212.5" y="-196.5" font-family="Helvetica,sans-Serif" font-size="10.00">ticksRandomly()</text>
-<text text-anchor="start" x="6196" y="-181.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="6212.5" y="-181.5" font-family="Helvetica,sans-Serif" font-size="10.00">canBeSupportedBy()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="6188.5,-386.5 6188.5,-386.5 6368.5,-386.5 6368.5,-386.5 6188.5,-386.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="6188.5,-311.5 6188.5,-311.5 6210.5,-311.5 6210.5,-311.5 6188.5,-311.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="6210.5,-311.5 6210.5,-311.5 6368.5,-311.5 6368.5,-311.5 6210.5,-311.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="6188.5,-175 6188.5,-404 6368.5,-404 6368.5,-175 6188.5,-175"/>
+<polygon fill="white" stroke="transparent" points="6368.5,-396.5 6188.5,-396.5 6188.5,-182.5 6368.5,-182.5 6368.5,-396.5"/>
+<text text-anchor="start" x="6193.5" y="-384.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\SweetBerryBush</text>
+<text text-anchor="start" x="6196" y="-369.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="6212.5" y="-369.5" font-family="Helvetica,sans-Serif" font-size="10.00">MAX_AGE</text>
+<text text-anchor="start" x="6196" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="6212.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">STAGE_BUSH_NO_BERRIES</text>
+<text text-anchor="start" x="6196" y="-339.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="6212.5" y="-339.5" font-family="Helvetica,sans-Serif" font-size="10.00">STAGE_BUSH_SOME_BERRIES</text>
+<text text-anchor="start" x="6196" y="-324.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="6212.5" y="-324.5" font-family="Helvetica,sans-Serif" font-size="10.00">STAGE_MATURE</text>
+<text text-anchor="start" x="6196" y="-309.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="6212.5" y="-309.5" font-family="Helvetica,sans-Serif" font-size="10.00">STAGE_SAPLING</text>
+<text text-anchor="start" x="6196" y="-294.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="6212.5" y="-294.5" font-family="Helvetica,sans-Serif" font-size="10.00">asItem()</text>
+<text text-anchor="start" x="6196" y="-279.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="6212.5" y="-279.5" font-family="Helvetica,sans-Serif" font-size="10.00">getBerryDropAmount()</text>
+<text text-anchor="start" x="6196" y="-264.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="6212.5" y="-264.5" font-family="Helvetica,sans-Serif" font-size="10.00">getDropsForCompatibleTool()</text>
+<text text-anchor="start" x="6196" y="-249.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="6212.5" y="-249.5" font-family="Helvetica,sans-Serif" font-size="10.00">hasEntityCollision()</text>
+<text text-anchor="start" x="6196" y="-234.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="6212.5" y="-234.5" font-family="Helvetica,sans-Serif" font-size="10.00">onEntityInside()</text>
+<text text-anchor="start" x="6196" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="6212.5" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">onInteract()</text>
+<text text-anchor="start" x="6196" y="-204.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="6212.5" y="-204.5" font-family="Helvetica,sans-Serif" font-size="10.00">onRandomTick()</text>
+<text text-anchor="start" x="6196" y="-189.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="6212.5" y="-189.5" font-family="Helvetica,sans-Serif" font-size="10.00">ticksRandomly()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="6188.5,-379.5 6188.5,-379.5 6368.5,-379.5 6368.5,-379.5 6188.5,-379.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="6188.5,-304.5 6188.5,-304.5 6210.5,-304.5 6210.5,-304.5 6188.5,-304.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="6210.5,-304.5 6210.5,-304.5 6368.5,-304.5 6368.5,-304.5 6210.5,-304.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="6188.5,-182.5 6188.5,-396.5 6368.5,-396.5 6368.5,-182.5 6188.5,-182.5"/>
 </a>
 </g>
 </g>
@@ -1345,7 +1343,7 @@
 <g id="edge40_Node000001_Node000058" class="edge">
 <title>Node1&#45;&gt;Node58</title>
 <g id="a_edge40_Node000001_Node000058"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M3946.61,-522.32C4356.8,-516.47 6079.97,-488.72 6179.5,-434 6193.29,-426.42 6205.56,-415.99 6216.37,-404.2"/>
+<path fill="none" stroke="#63b8ff" d="M3946.61,-522.32C4356.8,-516.47 6079.97,-488.72 6179.5,-434 6196.21,-424.81 6210.69,-411.46 6223.03,-396.54"/>
 <polygon fill="none" stroke="#63b8ff" points="3946.54,-518.82 3936.59,-522.46 3946.64,-525.82 3946.54,-518.82"/>
 </a>
 </g>

@@ -1644,7 +1644,7 @@ var annotated_dup =
         [ "AsyncPool", "d8/db6/classpocketmine_1_1scheduler_1_1_async_pool.html", "d8/db6/classpocketmine_1_1scheduler_1_1_async_pool" ],
         [ "AsyncPoolWorkerEntry", "d1/dcf/classpocketmine_1_1scheduler_1_1_async_pool_worker_entry.html", null ],
         [ "AsyncTask", "df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html", "df/dfa/classpocketmine_1_1scheduler_1_1_async_task" ],
-        [ "AsyncWorker", "d1/d4e/classpocketmine_1_1scheduler_1_1_async_worker.html", "d1/d4e/classpocketmine_1_1scheduler_1_1_async_worker" ],
+        [ "AsyncWorker", "d1/d4e/classpocketmine_1_1scheduler_1_1_async_worker.html", null ],
         [ "BulkCurlTask", "df/d18/classpocketmine_1_1scheduler_1_1_bulk_curl_task.html", "df/d18/classpocketmine_1_1scheduler_1_1_bulk_curl_task" ],
         [ "BulkCurlTaskOperation", "dc/ded/classpocketmine_1_1scheduler_1_1_bulk_curl_task_operation.html", "dc/ded/classpocketmine_1_1scheduler_1_1_bulk_curl_task_operation" ],
         [ "CancelTaskException", "d0/d2b/classpocketmine_1_1scheduler_1_1_cancel_task_exception.html", null ],
@@ -1722,7 +1722,7 @@ var annotated_dup =
         [ "VersionString", "df/d22/classpocketmine_1_1utils_1_1_version_string.html", null ]
       ] ],
       [ "wizard", "d1/d0f/namespacepocketmine_1_1wizard.html", [
-        [ "SetupWizard", "d7/dde/classpocketmine_1_1wizard_1_1_setup_wizard.html", "d7/dde/classpocketmine_1_1wizard_1_1_setup_wizard" ]
+        [ "SetupWizard", "d7/dde/classpocketmine_1_1wizard_1_1_setup_wizard.html", null ]
       ] ],
       [ "world", "df/d15/namespacepocketmine_1_1world.html", [
         [ "biome", null, [
@@ -2009,6 +2009,8 @@ var annotated_dup =
         [ "WorldTimings", "d7/d08/classpocketmine_1_1world_1_1_world_timings.html", null ]
       ] ],
       [ "BootstrapOptions", "d7/dbe/classpocketmine_1_1_bootstrap_options.html", "d7/dbe/classpocketmine_1_1_bootstrap_options" ],
+      [ "GarbageCollectorManager", "d5/df8/classpocketmine_1_1_garbage_collector_manager.html", null ],
+      [ "MemoryDump", "dc/da9/classpocketmine_1_1_memory_dump.html", "dc/da9/classpocketmine_1_1_memory_dump" ],
       [ "MemoryManager", "d3/df7/classpocketmine_1_1_memory_manager.html", "d3/df7/classpocketmine_1_1_memory_manager" ],
       [ "Server", "d5/df7/classpocketmine_1_1_server.html", "d5/df7/classpocketmine_1_1_server" ],
       [ "ServerConfigGroup", "d1/d84/classpocketmine_1_1_server_config_group.html", null ],

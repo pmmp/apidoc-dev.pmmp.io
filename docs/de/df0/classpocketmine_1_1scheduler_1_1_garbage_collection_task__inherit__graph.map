@@ -1,7 +1,7 @@
 <map id="pocketmine\scheduler\GarbageCollectionTask" name="pocketmine\scheduler\GarbageCollectionTask">
-<area shape="rect" id="Node000001" title=" " alt="" coords="15,547,182,627"/>
-<area shape="rect" id="Node000002" href="$df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html" title=" " alt="" coords="5,119,192,499"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,512,101,547,96,547,96,512"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="61,5,136,71"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,85,101,118,96,118,96,85"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,487,172,567"/>
+<area shape="rect" id="Node000002" href="$df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html" title=" " alt="" coords="10,119,167,439"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,453,91,486,86,486,86,453"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="51,5,126,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,84,91,119,86,119,86,84"/>
 </map>
