@@ -1,5 +1,7 @@
 var NAVTREEINDEX238 =
 {
+"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#aa5a040d7bd6023185e91387c526f8527":[2,0,0,11,2,1],
+"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#aa5a040d7bd6023185e91387c526f8527":[3,0,1,22,2,1],
 "df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#ad5e0edb131fe81a8b68e64c70ba06d2b":[2,0,0,11,2,6],
 "df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#ad5e0edb131fe81a8b68e64c70ba06d2b":[3,0,1,22,2,6],
 "df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#adad32212908878d6e70423161dbae0bf":[2,0,0,11,2,5],

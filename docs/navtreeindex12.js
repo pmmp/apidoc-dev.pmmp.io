@@ -1,5 +1,7 @@
 var NAVTREEINDEX12 =
 {
+"d0/dde/classpocketmine_1_1block_1_1_bed.html#a028afd613a6f42370ede9aec4c9796d6":[2,0,0,0,16,48],
+"d0/dde/classpocketmine_1_1block_1_1_bed.html#a028afd613a6f42370ede9aec4c9796d6":[3,0,1,0,18,48],
 "d0/dde/classpocketmine_1_1block_1_1_bed.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,16,58],
 "d0/dde/classpocketmine_1_1block_1_1_bed.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,18,58],
 "d0/dde/classpocketmine_1_1block_1_1_bed.html#a09f4667329f89292dd319d56c4243b59":[2,0,0,0,16,30],
@@ -247,7 +249,5 @@ var NAVTREEINDEX12 =
 "d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,192,47],
 "d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,190,3],
 "d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,192,3],
-"d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#a21ff003a49a70f6243f5adab88e5fbb9":[2,0,0,0,190,64],
-"d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#a21ff003a49a70f6243f5adab88e5fbb9":[3,0,1,0,192,64],
-"d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,190,22]
+"d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#a21ff003a49a70f6243f5adab88e5fbb9":[2,0,0,0,190,64]
 };

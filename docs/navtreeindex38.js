@@ -1,5 +1,7 @@
 var NAVTREEINDEX38 =
 {
+"d2/d7a/classpocketmine_1_1world_1_1sound_1_1_bucket_empty_lava_sound.html":[3,0,1,30,5,22],
+"d2/d7a/classpocketmine_1_1world_1_1sound_1_1_bucket_empty_lava_sound.html#a832ac6447aa72006c2a598db7f5c8b7c":[3,0,1,30,5,22,0],
 "d2/d7d/_sword_8php_source.html":[4,0,0,10,117],
 "d2/d7e/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_deserializer.html":[3,0,1,6,0,1,2],
 "d2/d7e/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_deserializer.html#a44af5f3b228252812152b89cf221c709":[3,0,1,6,0,1,2,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX38 =
 "d2/d92/_static_support_trait_8php_source.html":[4,0,0,0,2,45],
 "d2/d93/_bed_8php_source.html":[4,0,0,0,18],
 "d2/d93/classpocketmine_1_1entity_1_1effect_1_1_hunger_effect.html":[3,0,1,7,1,5],
-"d2/d93/classpocketmine_1_1entity_1_1effect_1_1_hunger_effect.html#a008b10edbcac6ab89d77e6be2067c2dd":[3,0,1,7,1,5,2],
-"d2/d93/classpocketmine_1_1entity_1_1effect_1_1_hunger_effect.html#a125c11ecf3e80cdb71ecc6e07f162da4":[3,0,1,7,1,5,7],
-"d2/d93/classpocketmine_1_1entity_1_1effect_1_1_hunger_effect.html#a47e78434ab3294753bc42572711b3d49":[3,0,1,7,1,5,6]
+"d2/d93/classpocketmine_1_1entity_1_1effect_1_1_hunger_effect.html#a008b10edbcac6ab89d77e6be2067c2dd":[3,0,1,7,1,5,2]
 };

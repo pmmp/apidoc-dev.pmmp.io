@@ -1,5 +1,7 @@
 var NAVTREEINDEX69 =
 {
+"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a8a62436917d8d665941798542dd695fe":[2,0,0,0,69,64],
+"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a8a62436917d8d665941798542dd695fe":[3,0,1,0,71,64],
 "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,69,11],
 "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,71,11],
 "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,69,67],
@@ -247,7 +249,5 @@ var NAVTREEINDEX69 =
 "d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a9dd9484fe3ab1afcbd2627860e01973a":[2,0,0,5,77,47],
 "d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a9dd9484fe3ab1afcbd2627860e01973a":[3,0,1,12,78,47],
 "d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[2,0,0,5,77,9],
-"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[3,0,1,12,78,9],
-"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#aa27432059ecfd201a3cec74253b21fa9":[2,0,0,5,77,50],
-"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#aa27432059ecfd201a3cec74253b21fa9":[3,0,1,12,78,50]
+"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[3,0,1,12,78,9]
 };

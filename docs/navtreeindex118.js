@@ -1,5 +1,7 @@
 var NAVTREEINDEX118 =
 {
+"d8/d07/classpocketmine_1_1block_1_1_potion_cauldron.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[3,0,1,0,170,26],
+"d8/d07/classpocketmine_1_1block_1_1_potion_cauldron.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[2,0,0,0,168,30],
 "d8/d07/classpocketmine_1_1block_1_1_potion_cauldron.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[3,0,1,0,170,30],
 "d8/d07/classpocketmine_1_1block_1_1_potion_cauldron.html#a30a070aa7befb02f9fff5cbf2693c01e":[2,0,0,0,168,12],
 "d8/d07/classpocketmine_1_1block_1_1_potion_cauldron.html#a30a070aa7befb02f9fff5cbf2693c01e":[3,0,1,0,170,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX118 =
 "d8/d0c/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_object_to_state_serializer.html#af9d3c79baae959a4cfffacc815a49935":[3,0,1,6,0,0,0,0,2],
 "d8/d0d/_generator_manager_entry_8php_source.html":[4,0,0,25,2,11],
 "d8/d13/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_drop_stack_request_action.html":[3,0,1,16,0,6,1,3,0,10],
-"d8/d15/classpocketmine_1_1block_1_1_ender_chest.html":[2,0,0,0,91],
-"d8/d15/classpocketmine_1_1block_1_1_ender_chest.html":[3,0,1,0,93],
-"d8/d15/classpocketmine_1_1block_1_1_ender_chest.html#a028afd613a6f42370ede9aec4c9796d6":[2,0,0,0,91,48]
+"d8/d15/classpocketmine_1_1block_1_1_ender_chest.html":[2,0,0,0,91]
 };

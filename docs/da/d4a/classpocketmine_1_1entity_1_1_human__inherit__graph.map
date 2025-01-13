@@ -1,6 +1,6 @@
 <map id="pocketmine\entity\Human" name="pocketmine\entity\Human">
 <area shape="rect" id="Node000001" title=" " alt="" coords="269,1867,478,2472"/>
-<area shape="rect" id="Node000006" href="$d0/d6f/classpocketmine_1_1player_1_1_player.html" title=" " alt="" coords="270,2520,477,3325"/>
+<area shape="rect" id="Node000006" href="$d0/d6f/classpocketmine_1_1player_1_1_player.html" title=" " alt="" coords="270,2520,477,3360"/>
 <area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="376,2486,376,2520,371,2520,371,2486"/>
 <area shape="rect" id="Node000002" href="$df/d0c/classpocketmine_1_1entity_1_1_living.html" title=" " alt="" coords="5,1059,251,1819"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,1816,274,1866,269,1867,253,1818"/>

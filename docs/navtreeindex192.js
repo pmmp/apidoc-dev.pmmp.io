@@ -1,5 +1,7 @@
 var NAVTREEINDEX192 =
 {
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,35,47],
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,37,47],
 "dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,35,3],
 "dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,37,3],
 "dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,35,22],
@@ -247,7 +249,5 @@ var NAVTREEINDEX192 =
 "dc/dff/classpocketmine_1_1item_1_1_redstone.html#af85accbedba28b67bb66d5f12d329585":[2,0,0,5,93,37],
 "dc/dff/classpocketmine_1_1item_1_1_redstone.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,94,37],
 "dc/dff/classpocketmine_1_1world_1_1particle_1_1_happy_villager_particle.html":[3,0,1,30,4,15],
-"dc/dff/classpocketmine_1_1world_1_1particle_1_1_happy_villager_particle.html#acb00505fbf3daa8c2aa237723c5c4706":[3,0,1,30,4,15,0],
-"dd/d00/classpocketmine_1_1color_1_1_color.html":[3,0,1,1,0],
-"dd/d00/classpocketmine_1_1color_1_1_color.html#a1aaeed2ea8ebbf36ad2cec13022a2af1":[3,0,1,1,0,8]
+"dc/dff/classpocketmine_1_1world_1_1particle_1_1_happy_villager_particle.html#acb00505fbf3daa8c2aa237723c5c4706":[3,0,1,30,4,15,0]
 };

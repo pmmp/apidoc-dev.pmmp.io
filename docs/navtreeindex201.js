@@ -1,5 +1,7 @@
 var NAVTREEINDEX201 =
 {
+"dd/d75/classpocketmine_1_1block_1_1_red_mushroom_block.html#a57b1586e3b6d81440be1aa89471f2a2a":[2,0,0,0,175,53],
+"dd/d75/classpocketmine_1_1block_1_1_red_mushroom_block.html#a57b1586e3b6d81440be1aa89471f2a2a":[3,0,1,0,177,53],
 "dd/d75/classpocketmine_1_1block_1_1_red_mushroom_block.html#a588080e805e50e4f97e1a3d256b8c11e":[2,0,0,0,175,14],
 "dd/d75/classpocketmine_1_1block_1_1_red_mushroom_block.html#a588080e805e50e4f97e1a3d256b8c11e":[3,0,1,0,177,14],
 "dd/d75/classpocketmine_1_1block_1_1_red_mushroom_block.html#a6201b0d5460ae6f3b5cee03197c9a94a":[2,0,0,0,175,39],
@@ -247,7 +249,5 @@ var NAVTREEINDEX201 =
 "dd/d87/classpocketmine_1_1network_1_1_bidirectional_bandwidth_stats_tracker.html":[2,0,0,8,4],
 "dd/d87/classpocketmine_1_1network_1_1_bidirectional_bandwidth_stats_tracker.html":[3,0,1,16,5],
 "dd/d87/classpocketmine_1_1network_1_1_bidirectional_bandwidth_stats_tracker.html#a407783a9ca6dd1f34521ae9e141e92ac":[2,0,0,8,4,0],
-"dd/d87/classpocketmine_1_1network_1_1_bidirectional_bandwidth_stats_tracker.html#a407783a9ca6dd1f34521ae9e141e92ac":[3,0,1,16,5,0],
-"dd/d87/classpocketmine_1_1network_1_1_bidirectional_bandwidth_stats_tracker.html#a99f0cf3041df24396dba3e5c5fc67b79":[2,0,0,8,4,2],
-"dd/d87/classpocketmine_1_1network_1_1_bidirectional_bandwidth_stats_tracker.html#a99f0cf3041df24396dba3e5c5fc67b79":[3,0,1,16,5,2]
+"dd/d87/classpocketmine_1_1network_1_1_bidirectional_bandwidth_stats_tracker.html#a407783a9ca6dd1f34521ae9e141e92ac":[3,0,1,16,5,0]
 };

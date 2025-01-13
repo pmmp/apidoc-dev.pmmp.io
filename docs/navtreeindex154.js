@@ -1,5 +1,7 @@
 var NAVTREEINDEX154 =
 {
+"da/d3a/classpocketmine_1_1command_1_1defaults_1_1_help_command.html#a425117ae5e7bab32cc824f19f82b613b":[3,0,1,2,0,13,2],
+"da/d3a/classpocketmine_1_1command_1_1defaults_1_1_help_command.html#a46540e581cbab1e08c78c696c9a75e8f":[3,0,1,2,0,13,0],
 "da/d3a/classpocketmine_1_1command_1_1defaults_1_1_help_command.html#a57c09d1063bc811e24bdc3d750e882d5":[3,0,1,2,0,13,4],
 "da/d3a/classpocketmine_1_1command_1_1defaults_1_1_help_command.html#a8c40c93db847fcf02c3e7b19a729dd10":[3,0,1,2,0,13,5],
 "da/d3a/classpocketmine_1_1command_1_1defaults_1_1_help_command.html#ac9790f6d386568af660860ceb824ee9a":[3,0,1,2,0,13,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX154 =
 "da/d4e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_chunk_radius_updated_packet.html":[3,0,1,16,0,6,33],
 "da/d4e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_chunk_radius_updated_packet.html#a2512fa9bde368a3377266608af2f8d17":[3,0,1,16,0,6,33,7],
 "da/d4e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_chunk_radius_updated_packet.html#a2c641a7ee6e131ffbcadec86e174c0f9":[3,0,1,16,0,6,33,2],
-"da/d4e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_chunk_radius_updated_packet.html#a449f988921affea10c0ce57c1c906f05":[3,0,1,16,0,6,33,6],
-"da/d4e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_chunk_radius_updated_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,33,4],
-"da/d4e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_chunk_radius_updated_packet.html#a969e0ce1f2fe6b972d14d649034c70ce":[3,0,1,16,0,6,33,5]
+"da/d4e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_chunk_radius_updated_packet.html#a449f988921affea10c0ce57c1c906f05":[3,0,1,16,0,6,33,6]
 };

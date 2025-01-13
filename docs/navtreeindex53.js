@@ -1,5 +1,7 @@
 var NAVTREEINDEX53 =
 {
+"d3/dde/_population_task_8php_source.html":[4,0,0,25,2,15],
+"d3/de1/_legacy_entity_id_to_string_id_map_8php_source.html":[4,0,0,5,0,16],
 "d3/de1/classpocketmine_1_1inventory_1_1transaction_1_1_inventory_transaction.html":[3,0,1,11,0,3],
 "d3/de1/classpocketmine_1_1inventory_1_1transaction_1_1_inventory_transaction.html#a0e59c8a3caa63bf30c51be255cd299d5":[3,0,1,11,0,3,1],
 "d3/de1/classpocketmine_1_1inventory_1_1transaction_1_1_inventory_transaction.html#a19eca710abe2264e3de36b3159e0e559":[3,0,1,11,0,3,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX53 =
 "d3/df2/classpocketmine_1_1block_1_1_stained_glass_pane.html#aad121ffc31a225748d5bcc0e0752a9f0":[3,0,1,0,208,23],
 "d3/df2/classpocketmine_1_1block_1_1_stained_glass_pane.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[2,0,0,0,206,31],
 "d3/df2/classpocketmine_1_1block_1_1_stained_glass_pane.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,208,31],
-"d3/df2/classpocketmine_1_1block_1_1_stained_glass_pane.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,206,19],
-"d3/df2/classpocketmine_1_1block_1_1_stained_glass_pane.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,208,19],
-"d3/df2/classpocketmine_1_1block_1_1_stained_glass_pane.html#ab51ea2314ed5df2163bca971a462fb72":[2,0,0,0,206,8]
+"d3/df2/classpocketmine_1_1block_1_1_stained_glass_pane.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,206,19]
 };

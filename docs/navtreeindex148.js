@@ -1,5 +1,7 @@
 var NAVTREEINDEX148 =
 {
+"d9/db1/classpocketmine_1_1item_1_1_medicine.html#ae0735ccc1dee85d0c095aaa4109f40fb":[2,0,0,5,67,13],
+"d9/db1/classpocketmine_1_1item_1_1_medicine.html#ae0735ccc1dee85d0c095aaa4109f40fb":[3,0,1,12,68,13],
 "d9/db1/classpocketmine_1_1item_1_1_medicine.html#ae2543fd294d689ca6850d5bc78710522":[2,0,0,5,67,38],
 "d9/db1/classpocketmine_1_1item_1_1_medicine.html#ae2543fd294d689ca6850d5bc78710522":[3,0,1,12,68,38],
 "d9/db1/classpocketmine_1_1item_1_1_medicine.html#aec8070c04112770e0d01a3c56b252e81":[2,0,0,5,67,48],
@@ -247,7 +249,5 @@ var NAVTREEINDEX148 =
 "d9/dc8/classpocketmine_1_1inventory_1_1transaction_1_1action_1_1_slot_change_action.html#a3cef8acc6859c9021e0644d972cbd86c":[3,0,1,11,0,0,5,3],
 "d9/dc8/classpocketmine_1_1inventory_1_1transaction_1_1action_1_1_slot_change_action.html#a69c056a479869af54741ff6b6b8bae71":[3,0,1,11,0,0,5,2],
 "d9/dc8/classpocketmine_1_1inventory_1_1transaction_1_1action_1_1_slot_change_action.html#a87f81a86e25aa38e9eb36ef02ed72e30":[3,0,1,11,0,0,5,0],
-"d9/dc8/classpocketmine_1_1inventory_1_1transaction_1_1action_1_1_slot_change_action.html#a88fcedb50abc9a4765bbc125dd6c8041":[3,0,1,11,0,0,5,6],
-"d9/dc8/classpocketmine_1_1inventory_1_1transaction_1_1action_1_1_slot_change_action.html#a97742709e144dcff331d0359d6860351":[3,0,1,11,0,0,5,4],
-"d9/dc8/classpocketmine_1_1inventory_1_1transaction_1_1action_1_1_slot_change_action.html#ad95c75a6a91d3a6ebb0654ac89420a92":[3,0,1,11,0,0,5,1]
+"d9/dc8/classpocketmine_1_1inventory_1_1transaction_1_1action_1_1_slot_change_action.html#a88fcedb50abc9a4765bbc125dd6c8041":[3,0,1,11,0,0,5,6]
 };

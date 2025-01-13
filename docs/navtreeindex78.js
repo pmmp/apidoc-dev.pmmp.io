@@ -1,5 +1,7 @@
 var NAVTREEINDEX78 =
 {
+"d5/d84/classpocketmine_1_1block_1_1_netherrack.html#a8a733c2fe564a205938a9146c8b0e0f1":[2,0,0,0,155,63],
+"d5/d84/classpocketmine_1_1block_1_1_netherrack.html#a8a733c2fe564a205938a9146c8b0e0f1":[3,0,1,0,157,63],
 "d5/d84/classpocketmine_1_1block_1_1_netherrack.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,155,11],
 "d5/d84/classpocketmine_1_1block_1_1_netherrack.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,157,11],
 "d5/d84/classpocketmine_1_1block_1_1_netherrack.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,155,65],
@@ -247,7 +249,5 @@ var NAVTREEINDEX78 =
 "d5/d8e/classpocketmine_1_1block_1_1_stone_pressure_plate.html#a30a070aa7befb02f9fff5cbf2693c01e":[2,0,0,0,214,10],
 "d5/d8e/classpocketmine_1_1block_1_1_stone_pressure_plate.html#a30a070aa7befb02f9fff5cbf2693c01e":[3,0,1,0,216,10],
 "d5/d8e/classpocketmine_1_1block_1_1_stone_pressure_plate.html#a31b789765ede98d12bc821a64ea7c60f":[2,0,0,0,214,52],
-"d5/d8e/classpocketmine_1_1block_1_1_stone_pressure_plate.html#a31b789765ede98d12bc821a64ea7c60f":[3,0,1,0,216,52],
-"d5/d8e/classpocketmine_1_1block_1_1_stone_pressure_plate.html#a36afea9f0214193963f75577e8d48c26":[2,0,0,0,214,63],
-"d5/d8e/classpocketmine_1_1block_1_1_stone_pressure_plate.html#a36afea9f0214193963f75577e8d48c26":[3,0,1,0,216,63]
+"d5/d8e/classpocketmine_1_1block_1_1_stone_pressure_plate.html#a31b789765ede98d12bc821a64ea7c60f":[3,0,1,0,216,52]
 };

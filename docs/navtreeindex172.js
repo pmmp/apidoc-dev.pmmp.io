@@ -1,5 +1,7 @@
 var NAVTREEINDEX172 =
 {
+"db/dc3/classpocketmine_1_1permission_1_1_permission.html#a5ca8d5806af384ba8a8db834af10b441":[3,0,1,17,7,0],
+"db/dc3/classpocketmine_1_1permission_1_1_permission.html#ab392486afff2963daeee7384f991d8d0":[2,0,0,9,7,2],
 "db/dc3/classpocketmine_1_1permission_1_1_permission.html#ab392486afff2963daeee7384f991d8d0":[3,0,1,17,7,2],
 "db/dc3/classpocketmine_1_1permission_1_1_permission.html#af8b5d0b2b96b9ea77a60ca7a7c2ecdb7":[2,0,0,9,7,1],
 "db/dc3/classpocketmine_1_1permission_1_1_permission.html#af8b5d0b2b96b9ea77a60ca7a7c2ecdb7":[3,0,1,17,7,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX172 =
 "db/dc5/classpocketmine_1_1block_1_1_opaque.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,161,27],
 "db/dc5/classpocketmine_1_1block_1_1_opaque.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,163,27],
 "db/dc6/_melon_seeds_8php_source.html":[4,0,0,10,75],
-"db/dc6/_string_to_effect_parser_8php_source.html":[4,0,0,6,1,16],
-"db/dc6/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_serializer.html":[3,0,1,6,0,0,8],
-"db/dc6/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_serializer.html#a555eac197a6aeb95c436bfa2d7356c02":[3,0,1,6,0,0,8,0]
+"db/dc6/_string_to_effect_parser_8php_source.html":[4,0,0,6,1,16]
 };

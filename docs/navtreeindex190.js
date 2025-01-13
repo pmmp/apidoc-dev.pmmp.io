@@ -1,5 +1,7 @@
 var NAVTREEINDEX190 =
 {
+"dc/dc9/classpocketmine_1_1block_1_1_coral.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,73,16],
+"dc/dc9/classpocketmine_1_1block_1_1_coral.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,71,27],
 "dc/dc9/classpocketmine_1_1block_1_1_coral.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,73,27],
 "dc/dca/_new_incoming_connection_8php_source.html":[4,0,1,0,9,0,2,14],
 "dc/dcd/_persona_piece_tint_color_8php_source.html":[4,0,1,0,1,0,1,8,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX190 =
 "dc/de1/classpocketmine_1_1item_1_1_food.html#a67b44433c553602d7c851b1ca23e6e5e":[3,0,1,12,48,43],
 "dc/de1/classpocketmine_1_1item_1_1_food.html#a71289362f9d561347b5c8c2717eb0512":[2,0,0,5,47,41],
 "dc/de1/classpocketmine_1_1item_1_1_food.html#a71289362f9d561347b5c8c2717eb0512":[3,0,1,12,48,41],
-"dc/de1/classpocketmine_1_1item_1_1_food.html#a7b5c1e7e496c3077658212aaacec4b56":[2,0,0,5,47,16],
-"dc/de1/classpocketmine_1_1item_1_1_food.html#a7b5c1e7e496c3077658212aaacec4b56":[3,0,1,12,48,16],
-"dc/de1/classpocketmine_1_1item_1_1_food.html#a7d45886d40860e24fb4c18d02a3d1a32":[2,0,0,5,47,15]
+"dc/de1/classpocketmine_1_1item_1_1_food.html#a7b5c1e7e496c3077658212aaacec4b56":[2,0,0,5,47,16]
 };

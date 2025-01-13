@@ -1,5 +1,7 @@
 var NAVTREEINDEX79 =
 {
+"d5/d8e/classpocketmine_1_1block_1_1_stone_pressure_plate.html#a36afea9f0214193963f75577e8d48c26":[2,0,0,0,214,63],
+"d5/d8e/classpocketmine_1_1block_1_1_stone_pressure_plate.html#a36afea9f0214193963f75577e8d48c26":[3,0,1,0,216,63],
 "d5/d8e/classpocketmine_1_1block_1_1_stone_pressure_plate.html#a39b42de71b74941202b324e035270326":[2,0,0,0,214,17],
 "d5/d8e/classpocketmine_1_1block_1_1_stone_pressure_plate.html#a39b42de71b74941202b324e035270326":[3,0,1,0,216,17],
 "d5/d8e/classpocketmine_1_1block_1_1_stone_pressure_plate.html#a3a46169e7d256b3a1f3af8c54ddba832":[2,0,0,0,214,66],
@@ -247,7 +249,5 @@ var NAVTREEINDEX79 =
 "d5/da3/classpocketmine_1_1item_1_1_spyglass.html#abd2688f008221d4c5fcdacac754d807e":[2,0,0,5,102,36],
 "d5/da3/classpocketmine_1_1item_1_1_spyglass.html#abd2688f008221d4c5fcdacac754d807e":[3,0,1,12,103,36],
 "d5/da3/classpocketmine_1_1item_1_1_spyglass.html#abe253aa6fbfe2fc36389edadb753ffc7":[2,0,0,5,102,18],
-"d5/da3/classpocketmine_1_1item_1_1_spyglass.html#abe253aa6fbfe2fc36389edadb753ffc7":[3,0,1,12,103,18],
-"d5/da3/classpocketmine_1_1item_1_1_spyglass.html#ac534c116a4d2291a8d67f15c4b485b74":[2,0,0,5,102,25],
-"d5/da3/classpocketmine_1_1item_1_1_spyglass.html#ac534c116a4d2291a8d67f15c4b485b74":[3,0,1,12,103,25]
+"d5/da3/classpocketmine_1_1item_1_1_spyglass.html#abe253aa6fbfe2fc36389edadb753ffc7":[3,0,1,12,103,18]
 };

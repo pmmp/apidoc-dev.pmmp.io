@@ -1,5 +1,7 @@
 var NAVTREEINDEX81 =
 {
+"d5/db8/classpocketmine_1_1item_1_1_flint_steel.html#ae2543fd294d689ca6850d5bc78710522":[3,0,1,12,47,40],
+"d5/db8/classpocketmine_1_1item_1_1_flint_steel.html#aec8070c04112770e0d01a3c56b252e81":[2,0,0,5,46,50],
 "d5/db8/classpocketmine_1_1item_1_1_flint_steel.html#aec8070c04112770e0d01a3c56b252e81":[3,0,1,12,47,50],
 "d5/db8/classpocketmine_1_1item_1_1_flint_steel.html#af375b7ca3356ffa611f7c126cac1c220":[2,0,0,5,46,41],
 "d5/db8/classpocketmine_1_1item_1_1_flint_steel.html#af375b7ca3356ffa611f7c126cac1c220":[3,0,1,12,47,41],
@@ -247,7 +249,5 @@ var NAVTREEINDEX81 =
 "d5/dc4/classpocketmine_1_1inventory_1_1_base_inventory.html#a4c58fc3d97b59245d73157c09b3bbe03":[2,0,0,4,1,23],
 "d5/dc4/classpocketmine_1_1inventory_1_1_base_inventory.html#a4c58fc3d97b59245d73157c09b3bbe03":[3,0,1,11,2,23],
 "d5/dc4/classpocketmine_1_1inventory_1_1_base_inventory.html#a4c7aef211a9628f380e7de98b49c4551":[2,0,0,4,1,4],
-"d5/dc4/classpocketmine_1_1inventory_1_1_base_inventory.html#a4c7aef211a9628f380e7de98b49c4551":[3,0,1,11,2,4],
-"d5/dc4/classpocketmine_1_1inventory_1_1_base_inventory.html#a55e504a9849b9569eb06d9e7e220afdb":[2,0,0,4,1,17],
-"d5/dc4/classpocketmine_1_1inventory_1_1_base_inventory.html#a55e504a9849b9569eb06d9e7e220afdb":[3,0,1,11,2,17]
+"d5/dc4/classpocketmine_1_1inventory_1_1_base_inventory.html#a4c7aef211a9628f380e7de98b49c4551":[3,0,1,11,2,4]
 };

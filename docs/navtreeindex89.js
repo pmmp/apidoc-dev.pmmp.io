@@ -1,5 +1,7 @@
 var NAVTREEINDEX89 =
 {
+"d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html#a097af4a935135a8524d812f497373075":[3,0,1,0,183,64],
+"d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,181,19],
 "d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,183,19],
 "d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html#a166bc3b5eac4b377d9a2158343cc348d":[2,0,0,0,181,14],
 "d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html#a166bc3b5eac4b377d9a2158343cc348d":[3,0,1,0,183,14],
@@ -247,7 +249,5 @@ var NAVTREEINDEX89 =
 "d6/d5a/classpocketmine_1_1item_1_1_coal.html#ac7e878537e8ea68cc0d4d565f9f25062":[3,0,1,12,24,41],
 "d6/d5a/classpocketmine_1_1item_1_1_coal.html#ad2d004e5063f6ca465ed956b024217b1":[2,0,0,5,23,26],
 "d6/d5a/classpocketmine_1_1item_1_1_coal.html#ad2d004e5063f6ca465ed956b024217b1":[3,0,1,12,24,26],
-"d6/d5a/classpocketmine_1_1item_1_1_coal.html#ad981d95fce9c8a14832dc5fabbf4f3e4":[2,0,0,5,23,22],
-"d6/d5a/classpocketmine_1_1item_1_1_coal.html#ad981d95fce9c8a14832dc5fabbf4f3e4":[3,0,1,12,24,22],
-"d6/d5a/classpocketmine_1_1item_1_1_coal.html#ae0735ccc1dee85d0c095aaa4109f40fb":[2,0,0,5,23,12]
+"d6/d5a/classpocketmine_1_1item_1_1_coal.html#ad981d95fce9c8a14832dc5fabbf4f3e4":[2,0,0,5,23,22]
 };

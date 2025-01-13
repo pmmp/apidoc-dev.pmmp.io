@@ -1,5 +1,7 @@
 var NAVTREEINDEX41 =
 {
+"d2/dd1/_iron_ore_8php_source.html":[4,0,0,0,130],
+"d2/dd1/_projectile_hit_entity_event_8php_source.html":[4,0,0,7,1,27],
 "d2/dd1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_add_actor_packet.html":[3,0,1,16,0,6,4],
 "d2/dd1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_add_actor_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,4,4],
 "d2/dd1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_add_actor_packet.html#a9bc03d23390132126c36b5653d46fee1":[3,0,1,16,0,6,4,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX41 =
 "d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,64,11],
 "d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,66,11],
 "d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,64,66],
-"d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,66,66],
-"d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,64,38],
-"d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,66,38]
+"d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,66,66]
 };

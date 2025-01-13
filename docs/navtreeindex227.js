@@ -1,5 +1,7 @@
 var NAVTREEINDEX227 =
 {
+"df/d58/classpocketmine_1_1block_1_1_copper_door.html#a15c9110197ae4e360ff34d87481138e3":[3,0,1,0,67,66],
+"df/d58/classpocketmine_1_1block_1_1_copper_door.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,65,60],
 "df/d58/classpocketmine_1_1block_1_1_copper_door.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,67,60],
 "df/d58/classpocketmine_1_1block_1_1_copper_door.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,65,47],
 "df/d58/classpocketmine_1_1block_1_1_copper_door.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,67,47],
@@ -247,7 +249,5 @@ var NAVTREEINDEX227 =
 "df/d71/classpocketmine_1_1block_1_1_small_dripleaf.html#a3a46169e7d256b3a1f3af8c54ddba832":[3,0,1,0,198,62],
 "df/d71/classpocketmine_1_1block_1_1_small_dripleaf.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,0,0,196,10],
 "df/d71/classpocketmine_1_1block_1_1_small_dripleaf.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,198,10],
-"df/d71/classpocketmine_1_1block_1_1_small_dripleaf.html#a3d7c045cd2c469aefe47c12cc83a4e24":[2,0,0,0,196,61],
-"df/d71/classpocketmine_1_1block_1_1_small_dripleaf.html#a3d7c045cd2c469aefe47c12cc83a4e24":[3,0,1,0,198,61],
-"df/d71/classpocketmine_1_1block_1_1_small_dripleaf.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,196,44]
+"df/d71/classpocketmine_1_1block_1_1_small_dripleaf.html#a3d7c045cd2c469aefe47c12cc83a4e24":[2,0,0,0,196,61]
 };

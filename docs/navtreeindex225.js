@@ -1,5 +1,7 @@
 var NAVTREEINDEX225 =
 {
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#af412cd40918d6a86e39b9f5348ea105c":[3,0,1,7,25,45],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#af9c9f94d4c46643cbdaeb7d06d3e44b1":[2,0,0,2,20,11],
 "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#af9c9f94d4c46643cbdaeb7d06d3e44b1":[3,0,1,7,25,11],
 "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#afdd4efc12fe21730ceb104af111f576d":[2,0,0,2,20,35],
 "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#afdd4efc12fe21730ceb104af111f576d":[3,0,1,7,25,35],
@@ -247,7 +249,5 @@ var NAVTREEINDEX225 =
 "df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,33,19],
 "df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,35,19],
 "df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#ab6f623b466f3a77da4394a9ddb27edb6":[2,0,0,0,33,56],
-"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#ab6f623b466f3a77da4394a9ddb27edb6":[3,0,1,0,35,56],
-"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#ab92353cf0aa5c05ad26535f98a2b1dca":[2,0,0,0,33,26],
-"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#ab92353cf0aa5c05ad26535f98a2b1dca":[3,0,1,0,35,26]
+"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#ab6f623b466f3a77da4394a9ddb27edb6":[3,0,1,0,35,56]
 };

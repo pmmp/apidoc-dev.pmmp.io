@@ -1,5 +1,7 @@
 var NAVTREEINDEX206 =
 {
+"dd/dd2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_block_event_packet.html#aaf6924862acdec3a0aa0feabcc54ca8e":[3,0,1,16,0,6,21,7],
+"dd/dd2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_block_event_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,21,1],
 "dd/dd2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_block_event_packet.html#acf14f6b36ab419bc7cbd538c78e1a562":[3,0,1,16,0,6,21,5],
 "dd/dd4/_armor_equip_diamond_sound_8php_source.html":[4,0,0,25,5,5],
 "dd/dd7/_trim_data_packet_8php_source.html":[4,0,1,0,1,0,204],
@@ -247,7 +249,5 @@ var NAVTREEINDEX206 =
 "dd/dea/_cocoa_beans_8php_source.html":[4,0,0,10,26],
 "dd/deb/_show_profile_packet_8php_source.html":[4,0,1,0,1,0,184],
 "dd/dec/classpocketmine_1_1block_1_1_reserved6.html":[2,0,0,0,183],
-"dd/dec/classpocketmine_1_1block_1_1_reserved6.html":[3,0,1,0,185],
-"dd/dec/classpocketmine_1_1block_1_1_reserved6.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,183,58],
-"dd/dec/classpocketmine_1_1block_1_1_reserved6.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,185,58]
+"dd/dec/classpocketmine_1_1block_1_1_reserved6.html":[3,0,1,0,185]
 };

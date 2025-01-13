@@ -1,5 +1,7 @@
 var NAVTREEINDEX107 =
 {
+"d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a536378f334334c0e8b06e5ccaeb4de39":[3,0,1,12,120,34],
+"d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a5b53d78436bbdb5d53102fda463be4e6":[2,0,0,5,119,57],
 "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a5b53d78436bbdb5d53102fda463be4e6":[3,0,1,12,120,57],
 "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a5cbab3ac2c040f738eff457295cffefc":[2,0,0,5,119,0],
 "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a5cbab3ac2c040f738eff457295cffefc":[3,0,1,12,120,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX107 =
 "d7/d4a/_mushroom_block_type_id_map_8php_source.html":[4,0,0,5,0,21],
 "d7/d4c/_wood_type_8php_source.html":[4,0,0,0,2,49],
 "d7/d4c/classpocketmine_1_1command_1_1defaults_1_1_tell_command.html":[3,0,1,2,0,33],
-"d7/d4c/classpocketmine_1_1command_1_1defaults_1_1_tell_command.html#a425117ae5e7bab32cc824f19f82b613b":[3,0,1,2,0,33,2],
-"d7/d4c/classpocketmine_1_1command_1_1defaults_1_1_tell_command.html#a57c09d1063bc811e24bdc3d750e882d5":[3,0,1,2,0,33,4],
-"d7/d4c/classpocketmine_1_1command_1_1defaults_1_1_tell_command.html#a606900be73b83bb3f375e60131fb6d2d":[3,0,1,2,0,33,0]
+"d7/d4c/classpocketmine_1_1command_1_1defaults_1_1_tell_command.html#a425117ae5e7bab32cc824f19f82b613b":[3,0,1,2,0,33,2]
 };

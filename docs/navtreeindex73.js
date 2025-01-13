@@ -1,5 +1,7 @@
 var NAVTREEINDEX73 =
 {
+"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,0,0,90,29],
+"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#afcc19c437c8bef4487f5ecb956ae9a1a":[3,0,1,0,92,29],
 "d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#afe4928a6da38d63eccea78bd1a2fdcd3":[2,0,0,0,90,21],
 "d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#afe4928a6da38d63eccea78bd1a2fdcd3":[3,0,1,0,92,21],
 "d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#afe506084e4bb8741a7ac64f6d90c00a5":[2,0,0,0,90,16],
@@ -247,7 +249,5 @@ var NAVTREEINDEX73 =
 "d5/d56/classpocketmine_1_1block_1_1_mob_head.html#a09f4667329f89292dd319d56c4243b59":[2,0,0,0,148,30],
 "d5/d56/classpocketmine_1_1block_1_1_mob_head.html#a09f4667329f89292dd319d56c4243b59":[3,0,1,0,150,30],
 "d5/d56/classpocketmine_1_1block_1_1_mob_head.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,148,18],
-"d5/d56/classpocketmine_1_1block_1_1_mob_head.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,150,18],
-"d5/d56/classpocketmine_1_1block_1_1_mob_head.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,148,60],
-"d5/d56/classpocketmine_1_1block_1_1_mob_head.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,150,60]
+"d5/d56/classpocketmine_1_1block_1_1_mob_head.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,150,18]
 };

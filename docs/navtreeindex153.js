@@ -1,5 +1,7 @@
 var NAVTREEINDEX153 =
 {
+"da/d24/classpocketmine_1_1block_1_1_bone_block.html#acfa7766036568571b645ae89ceb1029e":[3,0,1,0,32,43],
+"da/d24/classpocketmine_1_1block_1_1_bone_block.html#ad57a8bddf87431ff034f3a96e7219d63":[2,0,0,0,30,15],
 "da/d24/classpocketmine_1_1block_1_1_bone_block.html#ad57a8bddf87431ff034f3a96e7219d63":[3,0,1,0,32,15],
 "da/d24/classpocketmine_1_1block_1_1_bone_block.html#ad925607ef09026804dbbf059583e3add":[2,0,0,0,30,42],
 "da/d24/classpocketmine_1_1block_1_1_bone_block.html#ad925607ef09026804dbbf059583e3add":[3,0,1,0,32,42],
@@ -247,7 +249,5 @@ var NAVTREEINDEX153 =
 "da/d38/_cloning_registry_trait_8php_source.html":[4,0,0,23,2],
 "da/d38/_command_block_update_packet_8php_source.html":[4,0,1,0,1,0,44],
 "da/d39/tile_2_item_frame_8php_source.html":[4,0,0,0,1,21],
-"da/d3a/classpocketmine_1_1command_1_1defaults_1_1_help_command.html":[3,0,1,2,0,13],
-"da/d3a/classpocketmine_1_1command_1_1defaults_1_1_help_command.html#a425117ae5e7bab32cc824f19f82b613b":[3,0,1,2,0,13,2],
-"da/d3a/classpocketmine_1_1command_1_1defaults_1_1_help_command.html#a46540e581cbab1e08c78c696c9a75e8f":[3,0,1,2,0,13,0]
+"da/d3a/classpocketmine_1_1command_1_1defaults_1_1_help_command.html":[3,0,1,2,0,13]
 };

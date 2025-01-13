@@ -1,5 +1,7 @@
 var NAVTREEINDEX236 =
 {
+"df/db7/classpocketmine_1_1entity_1_1_entity_size_info.html":[2,0,0,2,8],
+"df/db7/classpocketmine_1_1entity_1_1_entity_size_info.html":[3,0,1,7,13],
 "df/db8/_flat_generator_options_8php_source.html":[4,0,0,25,2,7],
 "df/db9/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_id_meta_upgrader.html":[3,0,1,6,0,0,1,2],
 "df/db9/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_id_meta_upgrader.html#a23d02f2b068f7df33b0e5085c57c3d7d":[3,0,1,6,0,0,1,2,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX236 =
 "df/de7/classpocketmine_1_1block_1_1tile_1_1_comparator.html#a9a0a80ed9de93d8793c30f0d2486d701":[2,0,0,0,0,11,0],
 "df/de7/classpocketmine_1_1block_1_1tile_1_1_comparator.html#a9a0a80ed9de93d8793c30f0d2486d701":[3,0,1,0,1,11,0],
 "df/de8/_potion_splash_sound_8php_source.html":[4,0,0,25,5,84],
-"df/de9/_item_serializer_deserializer_registrar_8php_source.html":[4,0,0,5,0,1,4],
-"df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html":[3,0,1,7,2,1],
-"df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a02eb3401e4fe566c7a2528aeb7b0222a":[3,0,1,7,2,1,8]
+"df/de9/_item_serializer_deserializer_registrar_8php_source.html":[4,0,0,5,0,1,4]
 };

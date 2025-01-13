@@ -1,5 +1,7 @@
 var NAVTREEINDEX86 =
 {
+"d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[2,0,0,0,73,25],
+"d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[3,0,1,0,75,25],
 "d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#a2f69b17d8bb1c49eaf8ee1b13e4fd6e2":[2,0,0,0,73,37],
 "d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#a2f69b17d8bb1c49eaf8ee1b13e4fd6e2":[3,0,1,0,75,37],
 "d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#a30a070aa7befb02f9fff5cbf2693c01e":[2,0,0,0,73,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX86 =
 "d6/d1e/classpocketmine_1_1entity_1_1projectile_1_1_experience_bottle.html#a7b2b97ba4ef36a9896c6c00f0997c7d5":[3,0,1,7,3,3,50],
 "d6/d1e/classpocketmine_1_1entity_1_1projectile_1_1_experience_bottle.html#a81725faf49c2b6fb3314cac3f6a11e3c":[3,0,1,7,3,3,41],
 "d6/d1e/classpocketmine_1_1entity_1_1projectile_1_1_experience_bottle.html#a89a01723e97021d54e83c24d1b74670f":[3,0,1,7,3,3,12],
-"d6/d1e/classpocketmine_1_1entity_1_1projectile_1_1_experience_bottle.html#a8db17c4dcd6375fe3b610841c2b189bf":[3,0,1,7,3,3,53],
-"d6/d1e/classpocketmine_1_1entity_1_1projectile_1_1_experience_bottle.html#a8e8d7ab0bf7a9de85e23b1202e9bb496":[3,0,1,7,3,3,49],
-"d6/d1e/classpocketmine_1_1entity_1_1projectile_1_1_experience_bottle.html#a902a93c1b861c0738e47c2f1070023db":[3,0,1,7,3,3,35]
+"d6/d1e/classpocketmine_1_1entity_1_1projectile_1_1_experience_bottle.html#a8db17c4dcd6375fe3b610841c2b189bf":[3,0,1,7,3,3,53]
 };

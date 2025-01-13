@@ -1,5 +1,7 @@
 var NAVTREEINDEX162 =
 {
+"da/de7/classpocketmine_1_1item_1_1_tool.html#a11483f8bbc44517bf2a25e40a3aa7558":[3,0,1,12,112,2],
+"da/de7/classpocketmine_1_1item_1_1_tool.html#a1179a3b7a49461ede413b50c82b5684a":[2,0,0,5,111,30],
 "da/de7/classpocketmine_1_1item_1_1_tool.html#a1179a3b7a49461ede413b50c82b5684a":[3,0,1,12,112,30],
 "da/de7/classpocketmine_1_1item_1_1_tool.html#a1df151eb419168f838e6d927c50f9210":[2,0,0,5,111,5],
 "da/de7/classpocketmine_1_1item_1_1_tool.html#a1df151eb419168f838e6d927c50f9210":[3,0,1,12,112,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX162 =
 "da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,72,16],
 "da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,70,27],
 "da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,72,27],
-"da/def/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_clientbound_debug_renderer_packet.html":[3,0,1,16,0,6,35],
-"da/def/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_clientbound_debug_renderer_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,35,3],
-"da/def/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_clientbound_debug_renderer_packet.html#a86c69eb948c53efc5cb74ed341975ecd":[3,0,1,16,0,6,35,6]
+"da/def/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_clientbound_debug_renderer_packet.html":[3,0,1,16,0,6,35]
 };

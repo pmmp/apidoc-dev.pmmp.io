@@ -1,5 +1,7 @@
 var NAVTREEINDEX123 =
 {
+"d8/d37/classpocketmine_1_1item_1_1_shovel.html#a2e7d9e107f4f24de4aabc19764dc7dc2":[2,0,0,5,97,17],
+"d8/d37/classpocketmine_1_1item_1_1_shovel.html#a2e7d9e107f4f24de4aabc19764dc7dc2":[3,0,1,12,98,17],
 "d8/d37/classpocketmine_1_1item_1_1_shovel.html#a2ee3936259ed3fd96fa07dcbcc4797c1":[2,0,0,5,97,25],
 "d8/d37/classpocketmine_1_1item_1_1_shovel.html#a2ee3936259ed3fd96fa07dcbcc4797c1":[3,0,1,12,98,25],
 "d8/d37/classpocketmine_1_1item_1_1_shovel.html#a336d6f91be72079853413f5b4036a57d":[2,0,0,5,97,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX123 =
 "d8/d43/classpocketmine_1_1block_1_1_nether_wart_plant.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,159,54],
 "d8/d43/classpocketmine_1_1block_1_1_nether_wart_plant.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,161,54],
 "d8/d43/classpocketmine_1_1block_1_1_nether_wart_plant.html#af8563c2b8d83535b45c78e069d8f5ed4":[2,0,0,0,159,59],
-"d8/d43/classpocketmine_1_1block_1_1_nether_wart_plant.html#af8563c2b8d83535b45c78e069d8f5ed4":[3,0,1,0,161,59],
-"d8/d43/classpocketmine_1_1block_1_1_nether_wart_plant.html#af85e45eff3ed9638a49da08745b5244e":[2,0,0,0,159,48],
-"d8/d43/classpocketmine_1_1block_1_1_nether_wart_plant.html#af85e45eff3ed9638a49da08745b5244e":[3,0,1,0,161,48]
+"d8/d43/classpocketmine_1_1block_1_1_nether_wart_plant.html#af8563c2b8d83535b45c78e069d8f5ed4":[3,0,1,0,161,59]
 };

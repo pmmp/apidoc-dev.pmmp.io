@@ -1,5 +1,7 @@
 var NAVTREEINDEX191 =
 {
+"dc/de1/classpocketmine_1_1item_1_1_food.html#a7b5c1e7e496c3077658212aaacec4b56":[3,0,1,12,48,16],
+"dc/de1/classpocketmine_1_1item_1_1_food.html#a7d45886d40860e24fb4c18d02a3d1a32":[2,0,0,5,47,15],
 "dc/de1/classpocketmine_1_1item_1_1_food.html#a7d45886d40860e24fb4c18d02a3d1a32":[3,0,1,12,48,15],
 "dc/de1/classpocketmine_1_1item_1_1_food.html#a8e97e9296238bf8794a2d2f8e94e8a93":[2,0,0,5,47,51],
 "dc/de1/classpocketmine_1_1item_1_1_food.html#a8e97e9296238bf8794a2d2f8e94e8a93":[3,0,1,12,48,51],
@@ -247,7 +249,5 @@ var NAVTREEINDEX191 =
 "dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,35,18],
 "dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,37,18],
 "dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,35,60],
-"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,37,60],
-"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,35,47],
-"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,37,47]
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,37,60]
 };

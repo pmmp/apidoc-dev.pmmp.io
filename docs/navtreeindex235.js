@@ -1,5 +1,7 @@
 var NAVTREEINDEX235 =
 {
+"df/dad/classpocketmine_1_1utils_1_1_reverse_priority_queue.html#abed22637e34d1b955591c34d63e2d251":[3,0,1,28,18,0],
+"df/dae/block_2_bamboo_8php_source.html":[4,0,0,0,7],
 "df/daf/classpocketmine_1_1block_1_1_wooden_door.html":[2,0,0,0,245],
 "df/daf/classpocketmine_1_1block_1_1_wooden_door.html":[3,0,1,0,247],
 "df/daf/classpocketmine_1_1block_1_1_wooden_door.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,245,58],
@@ -247,7 +249,5 @@ var NAVTREEINDEX235 =
 "df/db6/classpocketmine_1_1item_1_1_string_item.html#af85accbedba28b67bb66d5f12d329585":[2,0,0,5,105,37],
 "df/db6/classpocketmine_1_1item_1_1_string_item.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,106,37],
 "df/db7/_banner_pattern_layer_8php_source.html":[4,0,0,0,2,4],
-"df/db7/_base_banner_8php_source.html":[4,0,0,0,10],
-"df/db7/classpocketmine_1_1entity_1_1_entity_size_info.html":[2,0,0,2,8],
-"df/db7/classpocketmine_1_1entity_1_1_entity_size_info.html":[3,0,1,7,13]
+"df/db7/_base_banner_8php_source.html":[4,0,0,0,10]
 };

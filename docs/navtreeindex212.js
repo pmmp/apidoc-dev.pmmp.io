@@ -1,5 +1,7 @@
 var NAVTREEINDEX212 =
 {
+"de/d44/_math_8php_source.html":[4,0,1,0,7,0,3],
+"de/d44/interfacepocketmine_1_1item_1_1_food_source_item.html":[2,0,0,5,48],
 "de/d44/interfacepocketmine_1_1item_1_1_food_source_item.html":[3,0,1,12,49],
 "de/d44/interfacepocketmine_1_1item_1_1_food_source_item.html#a6749b3c6b45f7d1b192b60ccc8c9a832":[2,0,0,5,48,3],
 "de/d44/interfacepocketmine_1_1item_1_1_food_source_item.html#a6749b3c6b45f7d1b192b60ccc8c9a832":[3,0,1,12,49,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX212 =
 "de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,69,60],
 "de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,67,47],
 "de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,69,47],
-"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,67,3],
-"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,69,3],
-"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,67,22]
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,67,3]
 };

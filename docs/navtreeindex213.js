@@ -1,5 +1,7 @@
 var NAVTREEINDEX213 =
 {
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,69,3],
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,67,22],
 "de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[3,0,1,0,69,22],
 "de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a286fc64348f13417dcb6106c2695911b":[2,0,0,0,67,2],
 "de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a286fc64348f13417dcb6106c2695911b":[3,0,1,0,69,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX213 =
 "de/d6f/classpocketmine_1_1item_1_1_pickaxe.html#abd2688f008221d4c5fcdacac754d807e":[3,0,1,12,76,41],
 "de/d6f/classpocketmine_1_1item_1_1_pickaxe.html#abe253aa6fbfe2fc36389edadb753ffc7":[2,0,0,5,75,19],
 "de/d6f/classpocketmine_1_1item_1_1_pickaxe.html#abe253aa6fbfe2fc36389edadb753ffc7":[3,0,1,12,76,19],
-"de/d6f/classpocketmine_1_1item_1_1_pickaxe.html#ac534c116a4d2291a8d67f15c4b485b74":[2,0,0,5,75,27],
-"de/d6f/classpocketmine_1_1item_1_1_pickaxe.html#ac534c116a4d2291a8d67f15c4b485b74":[3,0,1,12,76,27],
-"de/d6f/classpocketmine_1_1item_1_1_pickaxe.html#ac7e878537e8ea68cc0d4d565f9f25062":[2,0,0,5,75,46]
+"de/d6f/classpocketmine_1_1item_1_1_pickaxe.html#ac534c116a4d2291a8d67f15c4b485b74":[2,0,0,5,75,27]
 };

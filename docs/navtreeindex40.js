@@ -1,5 +1,7 @@
 var NAVTREEINDEX40 =
 {
+"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a95cfab40de7390593990a239f8e4af73":[3,0,1,12,25,11],
+"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a9866a7ab362cec28252d67f6382a4ad4":[2,0,0,5,24,31],
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a9866a7ab362cec28252d67f6382a4ad4":[3,0,1,12,25,31],
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[2,0,0,5,24,3],
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[3,0,1,12,25,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX40 =
 "d2/dd0/classpocketmine_1_1world_1_1generator_1_1noise_1_1_noise.html#ab2ee843c2cf4cb7c4f4f4d75988d0187":[2,0,0,14,0,0,0,7],
 "d2/dd0/classpocketmine_1_1world_1_1generator_1_1noise_1_1_noise.html#ab2ee843c2cf4cb7c4f4f4d75988d0187":[3,0,1,30,2,2,0,7],
 "d2/dd0/classpocketmine_1_1world_1_1generator_1_1noise_1_1_noise.html#accf22868a6612da641990ebd058bec8f":[2,0,0,14,0,0,0,4],
-"d2/dd0/classpocketmine_1_1world_1_1generator_1_1noise_1_1_noise.html#accf22868a6612da641990ebd058bec8f":[3,0,1,30,2,2,0,4],
-"d2/dd1/_iron_ore_8php_source.html":[4,0,0,0,130],
-"d2/dd1/_projectile_hit_entity_event_8php_source.html":[4,0,0,7,1,27]
+"d2/dd0/classpocketmine_1_1world_1_1generator_1_1noise_1_1_noise.html#accf22868a6612da641990ebd058bec8f":[3,0,1,30,2,2,0,4]
 };

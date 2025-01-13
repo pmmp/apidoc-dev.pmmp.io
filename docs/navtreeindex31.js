@@ -1,5 +1,7 @@
 var NAVTREEINDEX31 =
 {
+"d2/d0e/classpocketmine_1_1block_1_1_beacon.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[3,0,1,0,17,12],
+"d2/d0e/classpocketmine_1_1block_1_1_beacon.html#abce48b40feb225f4ce9b7cf2e02a9336":[2,0,0,0,15,55],
 "d2/d0e/classpocketmine_1_1block_1_1_beacon.html#abce48b40feb225f4ce9b7cf2e02a9336":[3,0,1,0,17,55],
 "d2/d0e/classpocketmine_1_1block_1_1_beacon.html#ac34d7d0bd5e5173f331e56f6b97ca796":[2,0,0,0,15,49],
 "d2/d0e/classpocketmine_1_1block_1_1_beacon.html#ac34d7d0bd5e5173f331e56f6b97ca796":[3,0,1,0,17,49],
@@ -247,7 +249,5 @@ var NAVTREEINDEX31 =
 "d2/d25/classpocketmine_1_1item_1_1_baked_potato.html#a536378f334334c0e8b06e5ccaeb4de39":[2,0,0,5,6,31],
 "d2/d25/classpocketmine_1_1item_1_1_baked_potato.html#a536378f334334c0e8b06e5ccaeb4de39":[3,0,1,12,7,31],
 "d2/d25/classpocketmine_1_1item_1_1_baked_potato.html#a568624515bba5ff57e21ec8c828ade56":[2,0,0,5,6,5],
-"d2/d25/classpocketmine_1_1item_1_1_baked_potato.html#a568624515bba5ff57e21ec8c828ade56":[3,0,1,12,7,5],
-"d2/d25/classpocketmine_1_1item_1_1_baked_potato.html#a56bc59582baf2faf3412ca7044831e3b":[2,0,0,5,6,37],
-"d2/d25/classpocketmine_1_1item_1_1_baked_potato.html#a56bc59582baf2faf3412ca7044831e3b":[3,0,1,12,7,37]
+"d2/d25/classpocketmine_1_1item_1_1_baked_potato.html#a568624515bba5ff57e21ec8c828ade56":[3,0,1,12,7,5]
 };

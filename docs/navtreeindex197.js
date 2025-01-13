@@ -1,5 +1,7 @@
 var NAVTREEINDEX197 =
 {
+"dd/d42/classpocketmine_1_1block_1_1_emerald_ore.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[2,0,0,0,89,28],
+"dd/d42/classpocketmine_1_1block_1_1_emerald_ore.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,91,28],
 "dd/d42/classpocketmine_1_1block_1_1_emerald_ore.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,0,0,89,56],
 "dd/d42/classpocketmine_1_1block_1_1_emerald_ore.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,91,56],
 "dd/d42/classpocketmine_1_1block_1_1_emerald_ore.html#a8a733c2fe564a205938a9146c8b0e0f1":[2,0,0,0,89,63],
@@ -247,7 +249,5 @@ var NAVTREEINDEX197 =
 "dd/d53/classpocketmine_1_1block_1_1_nether_roots.html":[2,0,0,0,157],
 "dd/d53/classpocketmine_1_1block_1_1_nether_roots.html":[3,0,1,0,159],
 "dd/d53/classpocketmine_1_1block_1_1_nether_roots.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,157,58],
-"dd/d53/classpocketmine_1_1block_1_1_nether_roots.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,159,58],
-"dd/d53/classpocketmine_1_1block_1_1_nether_roots.html#a097af4a935135a8524d812f497373075":[2,0,0,0,157,63],
-"dd/d53/classpocketmine_1_1block_1_1_nether_roots.html#a097af4a935135a8524d812f497373075":[3,0,1,0,159,63]
+"dd/d53/classpocketmine_1_1block_1_1_nether_roots.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,159,58]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX184 =
 {
+"dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html#aac6828efb885bc8fe0f8876728ddde5d":[3,0,1,0,135,34],
+"dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html#aad121ffc31a225748d5bcc0e0752a9f0":[2,0,0,0,133,23],
 "dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html#aad121ffc31a225748d5bcc0e0752a9f0":[3,0,1,0,135,23],
 "dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[2,0,0,0,133,31],
 "dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,135,31],
@@ -247,7 +249,5 @@ var NAVTREEINDEX184 =
 "dc/d98/classpocketmine_1_1entity_1_1object_1_1_end_crystal.html#aac17dc3f3f88b2f3bcd614503d9a34ae":[3,0,1,7,2,0,30],
 "dc/d98/classpocketmine_1_1entity_1_1object_1_1_end_crystal.html#aadf061fdcc839a812188363a4a9dc3b5":[3,0,1,7,2,0,23],
 "dc/d98/classpocketmine_1_1entity_1_1object_1_1_end_crystal.html#ab3c11dd444626eb5ef1d2ab666ce5def":[3,0,1,7,2,0,13],
-"dc/d98/classpocketmine_1_1entity_1_1object_1_1_end_crystal.html#ac028a6475bf09f61ce9dfb952d4a5d65":[3,0,1,7,2,0,17],
-"dc/d98/classpocketmine_1_1entity_1_1object_1_1_end_crystal.html#acaced48bc41cc13b10c1e99ba76bdabd":[3,0,1,7,2,0,25],
-"dc/d98/classpocketmine_1_1entity_1_1object_1_1_end_crystal.html#ad1c7b62f4c0518a013b7d8decdfd9bf1":[3,0,1,7,2,0,19]
+"dc/d98/classpocketmine_1_1entity_1_1object_1_1_end_crystal.html#ac028a6475bf09f61ce9dfb952d4a5d65":[3,0,1,7,2,0,17]
 };

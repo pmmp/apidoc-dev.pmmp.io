@@ -1,5 +1,7 @@
 var NAVTREEINDEX72 =
 {
+"d5/d20/classpocketmine_1_1block_1_1_glowstone.html#a286fc64348f13417dcb6106c2695911b":[3,0,1,0,117,2],
+"d5/d20/classpocketmine_1_1block_1_1_glowstone.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[2,0,0,0,115,25],
 "d5/d20/classpocketmine_1_1block_1_1_glowstone.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[3,0,1,0,117,25],
 "d5/d20/classpocketmine_1_1block_1_1_glowstone.html#a2f69b17d8bb1c49eaf8ee1b13e4fd6e2":[2,0,0,0,115,37],
 "d5/d20/classpocketmine_1_1block_1_1_glowstone.html#a2f69b17d8bb1c49eaf8ee1b13e4fd6e2":[3,0,1,0,117,37],
@@ -247,7 +249,5 @@ var NAVTREEINDEX72 =
 "d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,90,54],
 "d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,92,54],
 "d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#af45a3d45c4ab6528c6641915722b9de8":[2,0,0,0,90,6],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#af45a3d45c4ab6528c6641915722b9de8":[3,0,1,0,92,6],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,0,0,90,29],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#afcc19c437c8bef4487f5ecb956ae9a1a":[3,0,1,0,92,29]
+"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#af45a3d45c4ab6528c6641915722b9de8":[3,0,1,0,92,6]
 };

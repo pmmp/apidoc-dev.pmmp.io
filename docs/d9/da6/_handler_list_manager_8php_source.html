@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.23.3 git-3f7f11b812db32c4a90dc9ac6ad5e0429ea6a25c</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.23.3 git-976fc63567edab7a6fb6aeae739f43cf9fe57de4</span>
    </div>
   </td>
  </tr>
@@ -201,7 +201,7 @@ $(function(){initNavTree('d9/da6/_handler_list_manager_8php_source.html','../../
 <div class="line"><a id="l00119" name="l00119"></a><span class="lineno"><a class="line" href="../../d5/dfd/classpocketmine_1_1event_1_1_handler_list_manager.html#aa4c828a2ff7a62bae0c5d71e0d925347">  119</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d5/dfd/classpocketmine_1_1event_1_1_handler_list_manager.html#aa4c828a2ff7a62bae0c5d71e0d925347">getHandlersFor</a>(<span class="keywordtype">string</span> $event) : array{</div>
 <div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>        $cache = $this-&gt;handlerCaches[$event] ?? null;</div>
 <div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>        <span class="comment">//getListFor() will populate the cache for the next call</span></div>
-<div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>        <span class="keywordflow">return</span> $cache?-&gt;list ?? $this-&gt;getListFor($event)-&gt;getListenerList();</div>
+<div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>        <span class="keywordflow">return</span> $cache-&gt;list ?? $this-&gt;getListFor($event)-&gt;getListenerList();</div>
 <div class="line"><a id="l00123" name="l00123"></a><span class="lineno">  123</span>    }</div>
 </div>
 <div class="line"><a id="l00124" name="l00124"></a><span class="lineno">  124</span> </div>
