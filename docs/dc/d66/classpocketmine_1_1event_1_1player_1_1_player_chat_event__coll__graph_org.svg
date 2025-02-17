@@ -2114,29 +2114,33 @@
 <g id="Node000051" class="node">
 <title>Node51</title>
 <g id="a_Node000051"><a xlink:href="../../d3/d3e/classpocketmine_1_1inventory_1_1_creative_inventory.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="1862.5,-1243 1689.5,-1243 1689.5,-1078 1862.5,-1078 1862.5,-1243"/>
-<text text-anchor="start" x="1723" y="-1230.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\inventory</text>
-<text text-anchor="start" x="1731" y="-1219.5" font-family="Helvetica,sans-Serif" font-size="10.00">\CreativeInventory</text>
-<text text-anchor="start" x="1774.5" y="-1204.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="transparent" points="1862.5,-1258 1689.5,-1258 1689.5,-1063 1862.5,-1063 1862.5,-1258"/>
+<text text-anchor="start" x="1723" y="-1245.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\inventory</text>
+<text text-anchor="start" x="1731" y="-1234.5" font-family="Helvetica,sans-Serif" font-size="10.00">\CreativeInventory</text>
+<text text-anchor="start" x="1774.5" y="-1219.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="1694" y="-1204.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="1707" y="-1204.5" font-family="Helvetica,sans-Serif" font-size="10.00">add()</text>
 <text text-anchor="start" x="1694" y="-1189.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1707" y="-1189.5" font-family="Helvetica,sans-Serif" font-size="10.00">add()</text>
+<text text-anchor="start" x="1707" y="-1189.5" font-family="Helvetica,sans-Serif" font-size="10.00">clear()</text>
 <text text-anchor="start" x="1694" y="-1174.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1707" y="-1174.5" font-family="Helvetica,sans-Serif" font-size="10.00">clear()</text>
+<text text-anchor="start" x="1707" y="-1174.5" font-family="Helvetica,sans-Serif" font-size="10.00">contains()</text>
 <text text-anchor="start" x="1694" y="-1159.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1707" y="-1159.5" font-family="Helvetica,sans-Serif" font-size="10.00">contains()</text>
+<text text-anchor="start" x="1707" y="-1159.5" font-family="Helvetica,sans-Serif" font-size="10.00">getAll()</text>
 <text text-anchor="start" x="1694" y="-1144.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1707" y="-1144.5" font-family="Helvetica,sans-Serif" font-size="10.00">getAll()</text>
+<text text-anchor="start" x="1707" y="-1144.5" font-family="Helvetica,sans-Serif" font-size="10.00">getAllEntries()</text>
 <text text-anchor="start" x="1694" y="-1129.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="1707" y="-1129.5" font-family="Helvetica,sans-Serif" font-size="10.00">getContentChangedCallbacks()</text>
 <text text-anchor="start" x="1694" y="-1114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1707" y="-1114.5" font-family="Helvetica,sans-Serif" font-size="10.00">getItem()</text>
+<text text-anchor="start" x="1707" y="-1114.5" font-family="Helvetica,sans-Serif" font-size="10.00">getEntry()</text>
 <text text-anchor="start" x="1694" y="-1099.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1707" y="-1099.5" font-family="Helvetica,sans-Serif" font-size="10.00">getItemIndex()</text>
+<text text-anchor="start" x="1707" y="-1099.5" font-family="Helvetica,sans-Serif" font-size="10.00">getItem()</text>
 <text text-anchor="start" x="1694" y="-1084.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1707" y="-1084.5" font-family="Helvetica,sans-Serif" font-size="10.00">remove()</text>
+<text text-anchor="start" x="1707" y="-1084.5" font-family="Helvetica,sans-Serif" font-size="10.00">getItemIndex()</text>
+<text text-anchor="start" x="1694" y="-1069.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="1707" y="-1069.5" font-family="Helvetica,sans-Serif" font-size="10.00">remove()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="1690,-1229.5 1690,-1229.5 1863,-1229.5 1863,-1229.5 1690,-1229.5"/>
 <polygon fill="#bfbfbf" stroke="#bfbfbf" points="1690,-1214.5 1690,-1214.5 1863,-1214.5 1863,-1214.5 1690,-1214.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="1690,-1199.5 1690,-1199.5 1863,-1199.5 1863,-1199.5 1690,-1199.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="1689.5,-1078 1689.5,-1243 1862.5,-1243 1862.5,-1078 1689.5,-1078"/>
+<polygon fill="none" stroke="#bfbfbf" points="1689.5,-1063 1689.5,-1258 1862.5,-1258 1862.5,-1063 1689.5,-1063"/>
 </a>
 </g>
 </g>
@@ -2144,7 +2148,7 @@
 <g id="edge55_Node000004_Node000051" class="edge">
 <title>Node51&#45;&gt;Node4</title>
 <g id="a_edge55_Node000004_Node000051"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M1741.64,-1077.84C1725.92,-1046.74 1705.14,-1012.45 1680,-986 1534.6,-833.06 1311.11,-718.5 1188,-662.73"/>
+<path fill="none" stroke="#63b8ff" d="M1733.69,-1062.68C1719.14,-1035.94 1701.11,-1008.21 1680,-986 1534.6,-833.06 1311.11,-718.5 1188,-662.73"/>
 <polygon fill="none" stroke="#63b8ff" points="1187.71,-662.6 1180.6,-663.79 1176.77,-657.68 1183.88,-656.49 1187.71,-662.6"/>
 </a>
 </g>

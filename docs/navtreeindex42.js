@@ -1,5 +1,9 @@
 var NAVTREEINDEX42 =
 {
+"d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,64,11],
+"d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,66,11],
+"d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,64,66],
+"d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,66,66],
 "d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,64,38],
 "d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,66,38],
 "d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,64,7],
@@ -101,7 +105,7 @@ var NAVTREEINDEX42 =
 "d2/deb/classpocketmine_1_1entity_1_1effect_1_1_string_to_effect_parser.html#afab043597a2b35ff13864a8b41fa9337":[3,0,1,7,1,16,2],
 "d2/ded/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_generator_type.html":[3,0,1,16,0,6,1,38],
 "d2/dee/_attachable_logger_8php_source.html":[4,0,1,0,6,0,0],
-"d2/def/_on_screen_texture_animation_packet_8php_source.html":[4,0,1,0,1,0,111],
+"d2/def/_on_screen_texture_animation_packet_8php_source.html":[4,0,1,0,1,0,113],
 "d2/df0/_loaded_chunk_data_8php_source.html":[4,0,0,25,1,0,11],
 "d2/df0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_client_data.html":[3,0,1,16,0,6,1,4,1],
 "d2/df0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_client_data.html#a0400a51789f854ec2586b0df486fc4fb":[3,0,1,16,0,6,1,4,1,10],
@@ -147,7 +151,7 @@ var NAVTREEINDEX42 =
 "d2/df0/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_corrupted_region_exception.html":[3,0,1,30,1,0,3,1],
 "d2/df1/_shulker_box_inventory_8php_source.html":[4,0,0,0,0,16],
 "d2/df1/_spawnable_8php_source.html":[4,0,0,0,1,33],
-"d2/df2/_education_settings_packet_8php_source.html":[4,0,1,0,1,0,64],
+"d2/df2/_education_settings_packet_8php_source.html":[4,0,1,0,1,0,65],
 "d2/df3/_plugin_owned_trait_8php_source.html":[4,0,0,15,19],
 "d2/df3/classpocketmine_1_1world_1_1format_1_1io_1_1_global_item_data_handlers.html":[3,0,1,30,1,0,10],
 "d2/df4/classpocketmine_1_1item_1_1_fertilizer.html":[2,0,0,5,43],
@@ -245,9 +249,5 @@ var NAVTREEINDEX42 =
 "d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#ae2543fd294d689ca6850d5bc78710522":[2,0,0,5,43,35],
 "d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#ae2543fd294d689ca6850d5bc78710522":[3,0,1,12,44,35],
 "d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#aec8070c04112770e0d01a3c56b252e81":[2,0,0,5,43,45],
-"d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#aec8070c04112770e0d01a3c56b252e81":[3,0,1,12,44,45],
-"d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#af737301b899b7a7c9e9b0bb9a234a119":[2,0,0,5,43,7],
-"d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#af737301b899b7a7c9e9b0bb9a234a119":[3,0,1,12,44,7],
-"d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#af85accbedba28b67bb66d5f12d329585":[2,0,0,5,43,37],
-"d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,44,37]
+"d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#aec8070c04112770e0d01a3c56b252e81":[3,0,1,12,44,45]
 };

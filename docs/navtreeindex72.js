@@ -1,5 +1,16 @@
 var NAVTREEINDEX72 =
 {
+"d5/d20/classpocketmine_1_1block_1_1_glowstone.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,115,18],
+"d5/d20/classpocketmine_1_1block_1_1_glowstone.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,117,18],
+"d5/d20/classpocketmine_1_1block_1_1_glowstone.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,115,60],
+"d5/d20/classpocketmine_1_1block_1_1_glowstone.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,117,60],
+"d5/d20/classpocketmine_1_1block_1_1_glowstone.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,115,47],
+"d5/d20/classpocketmine_1_1block_1_1_glowstone.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,117,47],
+"d5/d20/classpocketmine_1_1block_1_1_glowstone.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,115,3],
+"d5/d20/classpocketmine_1_1block_1_1_glowstone.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,117,3],
+"d5/d20/classpocketmine_1_1block_1_1_glowstone.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,115,22],
+"d5/d20/classpocketmine_1_1block_1_1_glowstone.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[3,0,1,0,117,22],
+"d5/d20/classpocketmine_1_1block_1_1_glowstone.html#a286fc64348f13417dcb6106c2695911b":[2,0,0,0,115,2],
 "d5/d20/classpocketmine_1_1block_1_1_glowstone.html#a286fc64348f13417dcb6106c2695911b":[3,0,1,0,117,2],
 "d5/d20/classpocketmine_1_1block_1_1_glowstone.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[2,0,0,0,115,25],
 "d5/d20/classpocketmine_1_1block_1_1_glowstone.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[3,0,1,0,117,25],
@@ -118,7 +129,7 @@ var NAVTREEINDEX72 =
 "d5/d20/classpocketmine_1_1block_1_1_glowstone.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,115,27],
 "d5/d20/classpocketmine_1_1block_1_1_glowstone.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,117,27],
 "d5/d23/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_packet_handler.html":[3,0,1,16,0,5,8],
-"d5/d28/_server_auth_movement_mode_8php_source.html":[4,0,1,0,1,0,1,70],
+"d5/d28/_server_auth_movement_mode_8php_source.html":[4,0,1,0,1,0,1,69],
 "d5/d28/vendor_2pocketmine_2bedrock-protocol_2src_2types_2recipe_2_recipe_ingredient_8php_source.html":[4,0,1,0,1,0,1,6,13],
 "d5/d29/_cake_with_candle_8php_source.html":[4,0,0,0,41],
 "d5/d2e/classpocketmine_1_1entity_1_1animation_1_1_death_animation.html":[3,0,1,7,0,5],
@@ -238,16 +249,5 @@ var NAVTREEINDEX72 =
 "d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#ad925607ef09026804dbbf059583e3add":[3,0,1,0,92,42],
 "d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#adc7b2fcbcc10f046b1cbcafdd0858863":[2,0,0,0,90,1],
 "d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#adc7b2fcbcc10f046b1cbcafdd0858863":[3,0,1,0,92,1],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#adca95eedfad42fe827b55a4d7029a461":[2,0,0,0,90,63],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#adca95eedfad42fe827b55a4d7029a461":[3,0,1,0,92,63],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#add4d4fd4fecc779dee9c9f94b8a556e5":[2,0,0,0,90,5],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#add4d4fd4fecc779dee9c9f94b8a556e5":[3,0,1,0,92,5],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#ade77e0b1fce7bdebceed4092b9c5c022":[2,0,0,0,90,33],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#ade77e0b1fce7bdebceed4092b9c5c022":[3,0,1,0,92,33],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,90,32],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#ae829b9f476afef6b23d6f4f7fd558e0f":[3,0,1,0,92,32],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,90,54],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,92,54],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#af45a3d45c4ab6528c6641915722b9de8":[2,0,0,0,90,6],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#af45a3d45c4ab6528c6641915722b9de8":[3,0,1,0,92,6]
+"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#adca95eedfad42fe827b55a4d7029a461":[2,0,0,0,90,63]
 };

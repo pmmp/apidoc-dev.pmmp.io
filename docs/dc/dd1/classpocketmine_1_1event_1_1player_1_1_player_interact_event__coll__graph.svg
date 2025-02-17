@@ -2183,29 +2183,33 @@ var sectionId = 'dynsection-1';
 <g id="Node000051" class="node">
 <title>Node51</title>
 <g id="a_Node000051"><a xlink:href="../../d3/d3e/classpocketmine_1_1inventory_1_1_creative_inventory.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="1000.5,-1318 827.5,-1318 827.5,-1153 1000.5,-1153 1000.5,-1318"/>
-<text text-anchor="start" x="861" y="-1305.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\inventory</text>
-<text text-anchor="start" x="869" y="-1294.5" font-family="Helvetica,sans-Serif" font-size="10.00">\CreativeInventory</text>
-<text text-anchor="start" x="912.5" y="-1279.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="transparent" points="1000.5,-1333 827.5,-1333 827.5,-1138 1000.5,-1138 1000.5,-1333"/>
+<text text-anchor="start" x="861" y="-1320.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\inventory</text>
+<text text-anchor="start" x="869" y="-1309.5" font-family="Helvetica,sans-Serif" font-size="10.00">\CreativeInventory</text>
+<text text-anchor="start" x="912.5" y="-1294.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="832" y="-1279.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="845" y="-1279.5" font-family="Helvetica,sans-Serif" font-size="10.00">add()</text>
 <text text-anchor="start" x="832" y="-1264.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="845" y="-1264.5" font-family="Helvetica,sans-Serif" font-size="10.00">add()</text>
+<text text-anchor="start" x="845" y="-1264.5" font-family="Helvetica,sans-Serif" font-size="10.00">clear()</text>
 <text text-anchor="start" x="832" y="-1249.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="845" y="-1249.5" font-family="Helvetica,sans-Serif" font-size="10.00">clear()</text>
+<text text-anchor="start" x="845" y="-1249.5" font-family="Helvetica,sans-Serif" font-size="10.00">contains()</text>
 <text text-anchor="start" x="832" y="-1234.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="845" y="-1234.5" font-family="Helvetica,sans-Serif" font-size="10.00">contains()</text>
+<text text-anchor="start" x="845" y="-1234.5" font-family="Helvetica,sans-Serif" font-size="10.00">getAll()</text>
 <text text-anchor="start" x="832" y="-1219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="845" y="-1219.5" font-family="Helvetica,sans-Serif" font-size="10.00">getAll()</text>
+<text text-anchor="start" x="845" y="-1219.5" font-family="Helvetica,sans-Serif" font-size="10.00">getAllEntries()</text>
 <text text-anchor="start" x="832" y="-1204.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="845" y="-1204.5" font-family="Helvetica,sans-Serif" font-size="10.00">getContentChangedCallbacks()</text>
 <text text-anchor="start" x="832" y="-1189.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="845" y="-1189.5" font-family="Helvetica,sans-Serif" font-size="10.00">getItem()</text>
+<text text-anchor="start" x="845" y="-1189.5" font-family="Helvetica,sans-Serif" font-size="10.00">getEntry()</text>
 <text text-anchor="start" x="832" y="-1174.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="845" y="-1174.5" font-family="Helvetica,sans-Serif" font-size="10.00">getItemIndex()</text>
+<text text-anchor="start" x="845" y="-1174.5" font-family="Helvetica,sans-Serif" font-size="10.00">getItem()</text>
 <text text-anchor="start" x="832" y="-1159.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="845" y="-1159.5" font-family="Helvetica,sans-Serif" font-size="10.00">remove()</text>
+<text text-anchor="start" x="845" y="-1159.5" font-family="Helvetica,sans-Serif" font-size="10.00">getItemIndex()</text>
+<text text-anchor="start" x="832" y="-1144.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="845" y="-1144.5" font-family="Helvetica,sans-Serif" font-size="10.00">remove()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="828,-1304.5 828,-1304.5 1001,-1304.5 1001,-1304.5 828,-1304.5"/>
 <polygon fill="#bfbfbf" stroke="#bfbfbf" points="828,-1289.5 828,-1289.5 1001,-1289.5 1001,-1289.5 828,-1289.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="828,-1274.5 828,-1274.5 1001,-1274.5 1001,-1274.5 828,-1274.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="827.5,-1153 827.5,-1318 1000.5,-1318 1000.5,-1153 827.5,-1153"/>
+<polygon fill="none" stroke="#bfbfbf" points="827.5,-1138 827.5,-1333 1000.5,-1333 1000.5,-1138 827.5,-1138"/>
 </a>
 </g>
 </g>
@@ -2213,7 +2217,7 @@ var sectionId = 'dynsection-1';
 <g id="edge55_Node000004_Node000051" class="edge">
 <title>Node51&#45;&gt;Node4</title>
 <g id="a_edge55_Node000004_Node000051"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M952.22,-1152.77C967.94,-1122.68 987.52,-1089.1 1009,-1061 1094.88,-948.66 1215.87,-838.79 1296.97,-770.33"/>
+<path fill="none" stroke="#63b8ff" d="M960.31,-1137.63C974.46,-1111.74 991.06,-1084.46 1009,-1061 1094.88,-948.66 1215.87,-838.79 1296.97,-770.33"/>
 <polygon fill="none" stroke="#63b8ff" points="1296.97,-770.32 1298.99,-763.4 1306.16,-762.6 1304.14,-769.53 1296.97,-770.32"/>
 </a>
 </g>

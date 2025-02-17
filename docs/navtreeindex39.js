@@ -1,5 +1,7 @@
 var NAVTREEINDEX39 =
 {
+"d2/d93/classpocketmine_1_1entity_1_1effect_1_1_hunger_effect.html":[3,0,1,7,1,5],
+"d2/d93/classpocketmine_1_1entity_1_1effect_1_1_hunger_effect.html#a008b10edbcac6ab89d77e6be2067c2dd":[3,0,1,7,1,5,2],
 "d2/d93/classpocketmine_1_1entity_1_1effect_1_1_hunger_effect.html#a125c11ecf3e80cdb71ecc6e07f162da4":[3,0,1,7,1,5,7],
 "d2/d93/classpocketmine_1_1entity_1_1effect_1_1_hunger_effect.html#a47e78434ab3294753bc42572711b3d49":[3,0,1,7,1,5,6],
 "d2/d93/classpocketmine_1_1entity_1_1effect_1_1_hunger_effect.html#a6a3d10360dbcd001a11f3531e3a5234f":[3,0,1,7,1,5,5],
@@ -12,7 +14,7 @@ var NAVTREEINDEX39 =
 "d2/d93/classpocketmine_1_1player_1_1_player_info.html#ab314a302802ee8f08bc0c64ea739343e":[3,0,1,18,9,0],
 "d2/d93/classpocketmine_1_1player_1_1_player_info.html#ad49ab2cfea72ac999e2bf075e6f0f4d1":[3,0,1,18,9,1],
 "d2/d94/_reader_tracker_8php_source.html":[4,0,1,0,8,0,12],
-"d2/d96/_motion_prediction_hints_packet_8php_source.html":[4,0,1,0,1,0,100],
+"d2/d96/_motion_prediction_hints_packet_8php_source.html":[4,0,1,0,1,0,101],
 "d2/d96/classpocketmine_1_1event_1_1entity_1_1_entity_shoot_bow_event.html":[2,0,0,3,1,19],
 "d2/d96/classpocketmine_1_1event_1_1entity_1_1_entity_shoot_bow_event.html":[3,0,1,9,1,19],
 "d2/d96/classpocketmine_1_1event_1_1entity_1_1_entity_shoot_bow_event.html#a2021f7bc8849bd342a3d9248a7cbf8f2":[2,0,0,3,1,19,1],
@@ -187,7 +189,7 @@ var NAVTREEINDEX39 =
 "d2/da4/classraklib_1_1protocol_1_1_incompatible_protocol_version.html#ab8de9fe0266990afaa8ba01c09ff302a":[3,0,2,2,11,1],
 "d2/da4/classraklib_1_1protocol_1_1_incompatible_protocol_version.html#ac7e76cdbad6daaa6bf594f5d3d46099e":[3,0,2,2,11,0],
 "d2/da4/classraklib_1_1protocol_1_1_incompatible_protocol_version.html#ae2f92b294d641f3863fd550bc9e5c9d9":[3,0,2,2,11,3],
-"d2/da5/_npc_request_packet_8php_source.html":[4,0,1,0,1,0,110],
+"d2/da5/_npc_request_packet_8php_source.html":[4,0,1,0,1,0,112],
 "d2/da5/classpocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_item_id_meta_upgrade_schema_utils.html":[3,0,1,6,0,1,0,4],
 "d2/da5/classpocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_item_id_meta_upgrade_schema_utils.html#ac64e1b8f8f956e9bb3e84a486057cfc9":[3,0,1,6,0,1,0,4,0],
 "d2/da6/_abilities_data_8php_source.html":[4,0,1,0,1,0,1,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX39 =
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a7b5c1e7e496c3077658212aaacec4b56":[3,0,1,12,25,15],
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a7d45886d40860e24fb4c18d02a3d1a32":[2,0,0,5,24,14],
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a7d45886d40860e24fb4c18d02a3d1a32":[3,0,1,12,25,14],
-"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a8e97e9296238bf8794a2d2f8e94e8a93":[2,0,0,5,24,47],
-"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a8e97e9296238bf8794a2d2f8e94e8a93":[3,0,1,12,25,47],
-"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a95cfab40de7390593990a239f8e4af73":[2,0,0,5,24,11]
+"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a8e97e9296238bf8794a2d2f8e94e8a93":[2,0,0,5,24,47]
 };

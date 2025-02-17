@@ -1,5 +1,6 @@
 var NAVTREEINDEX35 =
 {
+"d2/d67/classpocketmine_1_1block_1_1_wither_rose.html#ab05ed23d3ff256f3f64cf6d86563c947":[2,0,0,0,242,8],
 "d2/d67/classpocketmine_1_1block_1_1_wither_rose.html#ab05ed23d3ff256f3f64cf6d86563c947":[3,0,1,0,244,8],
 "d2/d67/classpocketmine_1_1block_1_1_wither_rose.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,242,19],
 "d2/d67/classpocketmine_1_1block_1_1_wither_rose.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,244,19],
@@ -69,7 +70,7 @@ var NAVTREEINDEX35 =
 "d2/d6a/classpocketmine_1_1entity_1_1utils_1_1_experience_utils.html#a2654a6ebb1ffbbad7179e26dec070ebf":[3,0,1,7,4,0,2],
 "d2/d6a/classpocketmine_1_1entity_1_1utils_1_1_experience_utils.html#ac1444c8ac54359d71662ec0f9833f85e":[3,0,1,7,4,0,1],
 "d2/d6a/classpocketmine_1_1entity_1_1utils_1_1_experience_utils.html#ae02108eddad47945a828de3e3895fc3d":[3,0,1,7,4,0,0],
-"d2/d6c/_client_cache_status_packet_8php_source.html":[4,0,1,0,1,0,40],
+"d2/d6c/_client_cache_status_packet_8php_source.html":[4,0,1,0,1,0,41],
 "d2/d6c/classpocketmine_1_1world_1_1sound_1_1_ignite_sound.html":[3,0,1,30,5,70],
 "d2/d6c/classpocketmine_1_1world_1_1sound_1_1_ignite_sound.html#ac61320f7e5d4fe342777a3984946825c":[3,0,1,30,5,70,0],
 "d2/d6d/classpocketmine_1_1block_1_1_sea_lantern.html":[2,0,0,0,189],
@@ -248,6 +249,5 @@ var NAVTREEINDEX35 =
 "d2/d6f/classpocketmine_1_1item_1_1_end_crystal.html#a51b97f07ff97887a144198bb3dba6fc4":[2,0,0,5,40,20],
 "d2/d6f/classpocketmine_1_1item_1_1_end_crystal.html#a51b97f07ff97887a144198bb3dba6fc4":[3,0,1,12,41,20],
 "d2/d6f/classpocketmine_1_1item_1_1_end_crystal.html#a536378f334334c0e8b06e5ccaeb4de39":[2,0,0,5,40,29],
-"d2/d6f/classpocketmine_1_1item_1_1_end_crystal.html#a536378f334334c0e8b06e5ccaeb4de39":[3,0,1,12,41,29],
-"d2/d6f/classpocketmine_1_1item_1_1_end_crystal.html#a568624515bba5ff57e21ec8c828ade56":[2,0,0,5,40,5]
+"d2/d6f/classpocketmine_1_1item_1_1_end_crystal.html#a536378f334334c0e8b06e5ccaeb4de39":[3,0,1,12,41,29]
 };
