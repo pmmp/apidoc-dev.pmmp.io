@@ -1,5 +1,13 @@
 var NAVTREEINDEX39 =
 {
+"d2/d90/classpocketmine_1_1math_1_1_vector3.html#af00b0c58eb14b727b3ed91151b517ee4":[2,0,0,6,7,6],
+"d2/d90/classpocketmine_1_1math_1_1_vector3.html#af00b0c58eb14b727b3ed91151b517ee4":[3,0,1,14,7,6],
+"d2/d90/classpocketmine_1_1math_1_1_vector3.html#afd5e49285140152c656023ff1abc0dd6":[2,0,0,6,7,1],
+"d2/d90/classpocketmine_1_1math_1_1_vector3.html#afd5e49285140152c656023ff1abc0dd6":[3,0,1,14,7,1],
+"d2/d91/interfacepocketmine_1_1inventory_1_1_inventory_holder.html":[2,0,0,4,8],
+"d2/d91/interfacepocketmine_1_1inventory_1_1_inventory_holder.html":[3,0,1,11,10],
+"d2/d92/_static_support_trait_8php_source.html":[4,0,0,0,2,45],
+"d2/d93/_bed_8php_source.html":[4,0,0,0,18],
 "d2/d93/classpocketmine_1_1entity_1_1effect_1_1_hunger_effect.html":[3,0,1,7,1,5],
 "d2/d93/classpocketmine_1_1entity_1_1effect_1_1_hunger_effect.html#a008b10edbcac6ab89d77e6be2067c2dd":[3,0,1,7,1,5,2],
 "d2/d93/classpocketmine_1_1entity_1_1effect_1_1_hunger_effect.html#a125c11ecf3e80cdb71ecc6e07f162da4":[3,0,1,7,1,5,7],
@@ -241,13 +249,5 @@ var NAVTREEINDEX39 =
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a568624515bba5ff57e21ec8c828ade56":[3,0,1,12,25,5],
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a5b53d78436bbdb5d53102fda463be4e6":[2,0,0,5,24,48],
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a5b53d78436bbdb5d53102fda463be4e6":[3,0,1,12,25,48],
-"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a67b44433c553602d7c851b1ca23e6e5e":[2,0,0,5,24,40],
-"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a67b44433c553602d7c851b1ca23e6e5e":[3,0,1,12,25,40],
-"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a71289362f9d561347b5c8c2717eb0512":[2,0,0,5,24,38],
-"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a71289362f9d561347b5c8c2717eb0512":[3,0,1,12,25,38],
-"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a7b5c1e7e496c3077658212aaacec4b56":[2,0,0,5,24,15],
-"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a7b5c1e7e496c3077658212aaacec4b56":[3,0,1,12,25,15],
-"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a7d45886d40860e24fb4c18d02a3d1a32":[2,0,0,5,24,14],
-"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a7d45886d40860e24fb4c18d02a3d1a32":[3,0,1,12,25,14],
-"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a8e97e9296238bf8794a2d2f8e94e8a93":[2,0,0,5,24,47]
+"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a67b44433c553602d7c851b1ca23e6e5e":[2,0,0,5,24,40]
 };

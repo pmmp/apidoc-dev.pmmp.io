@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.25.3 git-1d130546080c68df24723561dafa012832d45054</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.25.3 git-510ef94698ad7e478fe18c339af7cfb75772f3ba</span>
    </div>
   </td>
  </tr>
@@ -262,18 +262,22 @@ $(function(){initNavTree('dd/d85/_runtime_block_state_registry_8php_source.html'
 <div class="line"><a id="l00209" name="l00209"></a><span class="lineno">  209</span>        <span class="keywordflow">return</span> $block;</div>
 <div class="line"><a id="l00210" name="l00210"></a><span class="lineno">  210</span>    }</div>
 <div class="line"><a id="l00211" name="l00211"></a><span class="lineno">  211</span> </div>
-<div class="foldopen" id="foldopen00216" data-start="{" data-end="}">
-<div class="line"><a id="l00216" name="l00216"></a><span class="lineno"><a class="line" href="../../de/d2c/classpocketmine_1_1block_1_1_runtime_block_state_registry.html#a483b4e6b8701bde55e8ecd4063a2c163">  216</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../de/d2c/classpocketmine_1_1block_1_1_runtime_block_state_registry.html#a483b4e6b8701bde55e8ecd4063a2c163">getAllKnownStates</a>() : array{</div>
-<div class="line"><a id="l00217" name="l00217"></a><span class="lineno">  217</span>        return $this-&gt;fullList;</div>
-<div class="line"><a id="l00218" name="l00218"></a><span class="lineno">  218</span>    }</div>
+<div class="line"><a id="l00212" name="l00212"></a><span class="lineno">  212</span>    <span class="keyword">public</span> <span class="keyword">function</span> hasStateId(<span class="keywordtype">int</span> $stateId) : bool{</div>
+<div class="line"><a id="l00213" name="l00213"></a><span class="lineno">  213</span>        return isset($this-&gt;fullList[$stateId]);</div>
+<div class="line"><a id="l00214" name="l00214"></a><span class="lineno">  214</span>    }</div>
+<div class="line"><a id="l00215" name="l00215"></a><span class="lineno">  215</span> </div>
+<div class="foldopen" id="foldopen00220" data-start="{" data-end="}">
+<div class="line"><a id="l00220" name="l00220"></a><span class="lineno"><a class="line" href="../../de/d2c/classpocketmine_1_1block_1_1_runtime_block_state_registry.html#a483b4e6b8701bde55e8ecd4063a2c163">  220</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../de/d2c/classpocketmine_1_1block_1_1_runtime_block_state_registry.html#a483b4e6b8701bde55e8ecd4063a2c163">getAllKnownStates</a>() : array{</div>
+<div class="line"><a id="l00221" name="l00221"></a><span class="lineno">  221</span>        return $this-&gt;fullList;</div>
+<div class="line"><a id="l00222" name="l00222"></a><span class="lineno">  222</span>    }</div>
 </div>
-<div class="line"><a id="l00219" name="l00219"></a><span class="lineno">  219</span>}</div>
+<div class="line"><a id="l00223" name="l00223"></a><span class="lineno">  223</span>}</div>
 </div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_block_break_info_html"><div class="ttname"><a href="../../d3/d10/classpocketmine_1_1block_1_1_block_break_info.html">pocketmine\block\BlockBreakInfo</a></div><div class="ttdef"><b>Definition</b> <a href="../../d9/d61/_block_break_info_8php_source.html#l00030">BlockBreakInfo.php:30</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_block_html"><div class="ttname"><a href="../../d7/d27/classpocketmine_1_1block_1_1_block.html">pocketmine\block\Block</a></div><div class="ttdef"><b>Definition</b> <a href="../../db/d89/_block_8php_source.html#l00062">Block.php:62</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_block_identifier_html"><div class="ttname"><a href="../../dd/d18/classpocketmine_1_1block_1_1_block_identifier.html">pocketmine\block\BlockIdentifier</a></div><div class="ttdef"><b>Definition</b> <a href="../../df/d0b/_block_identifier_8php_source.html#l00029">BlockIdentifier.php:29</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_runtime_block_state_registry_html"><div class="ttname"><a href="../../de/d2c/classpocketmine_1_1block_1_1_runtime_block_state_registry.html">pocketmine\block\RuntimeBlockStateRegistry</a></div><div class="ttdef"><b>Definition</b> <a href="#l00041">RuntimeBlockStateRegistry.php:41</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_runtime_block_state_registry_html_a483b4e6b8701bde55e8ecd4063a2c163"><div class="ttname"><a href="../../de/d2c/classpocketmine_1_1block_1_1_runtime_block_state_registry.html#a483b4e6b8701bde55e8ecd4063a2c163">pocketmine\block\RuntimeBlockStateRegistry\getAllKnownStates</a></div><div class="ttdeci">getAllKnownStates()</div><div class="ttdef"><b>Definition</b> <a href="#l00216">RuntimeBlockStateRegistry.php:216</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_runtime_block_state_registry_html_a483b4e6b8701bde55e8ecd4063a2c163"><div class="ttname"><a href="../../de/d2c/classpocketmine_1_1block_1_1_runtime_block_state_registry.html#a483b4e6b8701bde55e8ecd4063a2c163">pocketmine\block\RuntimeBlockStateRegistry\getAllKnownStates</a></div><div class="ttdeci">getAllKnownStates()</div><div class="ttdef"><b>Definition</b> <a href="#l00220">RuntimeBlockStateRegistry.php:220</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_vanilla_blocks_html_afd0b92f7246e2761ce83bba8eb2ea228"><div class="ttname"><a href="../../df/dec/classpocketmine_1_1block_1_1_vanilla_blocks.html#afd0b92f7246e2761ce83bba8eb2ea228">pocketmine\block\VanillaBlocks\getAll</a></div><div class="ttdeci">static getAll()</div><div class="ttdef"><b>Definition</b> <a href="../../d4/d7b/_vanilla_blocks_8php_source.html#l00849">VanillaBlocks.php:849</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_assumption_failed_error_html"><div class="ttname"><a href="../../d1/d30/classpocketmine_1_1utils_1_1_assumption_failed_error.html">pocketmine\utils\AssumptionFailedError</a></div><div class="ttdef"><b>Definition</b> <a href="../../da/da5/_assumption_failed_error_8php_source.html#l00031">AssumptionFailedError.php:31</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1light_1_1_light_update_html"><div class="ttname"><a href="../../d4/dfe/classpocketmine_1_1world_1_1light_1_1_light_update.html">pocketmine\world\light\LightUpdate</a></div><div class="ttdef"><b>Definition</b> <a href="../../d4/daa/_light_update_8php_source.html#l00036">LightUpdate.php:36</a></div></div>

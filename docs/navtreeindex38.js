@@ -1,5 +1,13 @@
 var NAVTREEINDEX38 =
 {
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#af97d045122137ac415425b45e7b22a36":[3,0,1,0,60,49],
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,0,0,58,29],
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#afcc19c437c8bef4487f5ecb956ae9a1a":[3,0,1,0,60,29],
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#afe4928a6da38d63eccea78bd1a2fdcd3":[2,0,0,0,58,21],
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#afe4928a6da38d63eccea78bd1a2fdcd3":[3,0,1,0,60,21],
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#afe506084e4bb8741a7ac64f6d90c00a5":[2,0,0,0,58,16],
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,60,16],
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,58,27],
 "d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,60,27],
 "d2/d7a/classpocketmine_1_1world_1_1sound_1_1_bucket_empty_lava_sound.html":[3,0,1,30,5,22],
 "d2/d7a/classpocketmine_1_1world_1_1sound_1_1_bucket_empty_lava_sound.html#a832ac6447aa72006c2a598db7f5c8b7c":[3,0,1,30,5,22,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX38 =
 "d2/d90/classpocketmine_1_1math_1_1_vector3.html#ac158644cb231fd9626f2be71ae52da09":[2,0,0,6,7,8],
 "d2/d90/classpocketmine_1_1math_1_1_vector3.html#ac158644cb231fd9626f2be71ae52da09":[3,0,1,14,7,8],
 "d2/d90/classpocketmine_1_1math_1_1_vector3.html#ac5e17a9979507f7d3d8658ce164db8c3":[2,0,0,6,7,16],
-"d2/d90/classpocketmine_1_1math_1_1_vector3.html#ac5e17a9979507f7d3d8658ce164db8c3":[3,0,1,14,7,16],
-"d2/d90/classpocketmine_1_1math_1_1_vector3.html#af00b0c58eb14b727b3ed91151b517ee4":[2,0,0,6,7,6],
-"d2/d90/classpocketmine_1_1math_1_1_vector3.html#af00b0c58eb14b727b3ed91151b517ee4":[3,0,1,14,7,6],
-"d2/d90/classpocketmine_1_1math_1_1_vector3.html#afd5e49285140152c656023ff1abc0dd6":[2,0,0,6,7,1],
-"d2/d90/classpocketmine_1_1math_1_1_vector3.html#afd5e49285140152c656023ff1abc0dd6":[3,0,1,14,7,1],
-"d2/d91/interfacepocketmine_1_1inventory_1_1_inventory_holder.html":[2,0,0,4,8],
-"d2/d91/interfacepocketmine_1_1inventory_1_1_inventory_holder.html":[3,0,1,11,10],
-"d2/d92/_static_support_trait_8php_source.html":[4,0,0,0,2,45],
-"d2/d93/_bed_8php_source.html":[4,0,0,0,18]
+"d2/d90/classpocketmine_1_1math_1_1_vector3.html#ac5e17a9979507f7d3d8658ce164db8c3":[3,0,1,14,7,16]
 };

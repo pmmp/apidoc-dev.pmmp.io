@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.25.3 git-1d130546080c68df24723561dafa012832d45054</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.25.3 git-510ef94698ad7e478fe18c339af7cfb75772f3ba</span>
    </div>
   </td>
  </tr>
@@ -1532,7 +1532,7 @@ $(function(){initNavTree('d1/d1d/_entity_8php_source.html','../../'); initResiza
 <div class="line"><a id="l01495" name="l01495"></a><span class="lineno"> 1495</span>            $this-&gt;getId(), <span class="comment">//TODO: actor unique ID</span></div>
 <div class="line"><a id="l01496" name="l01496"></a><span class="lineno"> 1496</span>            $this-&gt;getId(),</div>
 <div class="line"><a id="l01497" name="l01497"></a><span class="lineno"> 1497</span>            $this-&gt;getNetworkTypeId(),</div>
-<div class="line"><a id="l01498" name="l01498"></a><span class="lineno"> 1498</span>            $this-&gt;location-&gt;asVector3(),</div>
+<div class="line"><a id="l01498" name="l01498"></a><span class="lineno"> 1498</span>            $this-&gt;getOffsetPosition($this-&gt;location-&gt;asVector3()),</div>
 <div class="line"><a id="l01499" name="l01499"></a><span class="lineno"> 1499</span>            $this-&gt;getMotion(),</div>
 <div class="line"><a id="l01500" name="l01500"></a><span class="lineno"> 1500</span>            $this-&gt;location-&gt;pitch,</div>
 <div class="line"><a id="l01501" name="l01501"></a><span class="lineno"> 1501</span>            $this-&gt;location-&gt;yaw,</div>
@@ -1798,8 +1798,8 @@ $(function(){initNavTree('d1/d1d/_entity_8php_source.html','../../'); initResiza
 <div class="ttc" id="aclasspocketmine_1_1math_1_1_facing_html"><div class="ttname"><a href="../../dd/d25/classpocketmine_1_1math_1_1_facing.html">pocketmine\math\Facing</a></div><div class="ttdef"><b>Definition</b> <a href="../../df/d0d/_facing_8php_source.html#l00028">Facing.php:28</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1math_1_1_vector2_html"><div class="ttname"><a href="../../d7/d11/classpocketmine_1_1math_1_1_vector2.html">pocketmine\math\Vector2</a></div><div class="ttdef"><b>Definition</b> <a href="../../d2/d7f/_vector2_8php_source.html#l00032">Vector2.php:32</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1math_1_1_vector3_html"><div class="ttname"><a href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">pocketmine\math\Vector3</a></div><div class="ttdef"><b>Definition</b> <a href="../../de/d7b/_vector3_8php_source.html#l00036">Vector3.php:36</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1nbt_1_1tag_1_1_compound_tag_html"><div class="ttname"><a href="../../de/d67/classpocketmine_1_1nbt_1_1tag_1_1_compound_tag.html">pocketmine\nbt\tag\CompoundTag</a></div><div class="ttdef"><b>Definition</b> <a href="../../d7/d8c/_compound_tag_8php_source.html#l00042">CompoundTag.php:42</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1nbt_1_1tag_1_1_compound_tag_html_a8c9e47de41af9156023b27ab2633e02b"><div class="ttname"><a href="../../de/d67/classpocketmine_1_1nbt_1_1tag_1_1_compound_tag.html#a8c9e47de41af9156023b27ab2633e02b">pocketmine\nbt\tag\CompoundTag\setFloat</a></div><div class="ttdeci">setFloat(string $name, float $value)</div><div class="ttdef"><b>Definition</b> <a href="../../d7/d8c/_compound_tag_8php_source.html#l00242">CompoundTag.php:242</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1nbt_1_1tag_1_1_compound_tag_html"><div class="ttname"><a href="../../de/d67/classpocketmine_1_1nbt_1_1tag_1_1_compound_tag.html">pocketmine\nbt\tag\CompoundTag</a></div><div class="ttdef"><b>Definition</b> <a href="../../d7/d8c/_compound_tag_8php_source.html#l00045">CompoundTag.php:45</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1nbt_1_1tag_1_1_compound_tag_html_a8c9e47de41af9156023b27ab2633e02b"><div class="ttname"><a href="../../de/d67/classpocketmine_1_1nbt_1_1tag_1_1_compound_tag.html#a8c9e47de41af9156023b27ab2633e02b">pocketmine\nbt\tag\CompoundTag\setFloat</a></div><div class="ttdeci">setFloat(string $name, float $value)</div><div class="ttdef"><b>Definition</b> <a href="../../d7/d8c/_compound_tag_8php_source.html#l00248">CompoundTag.php:248</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1nbt_1_1tag_1_1_double_tag_html"><div class="ttname"><a href="../../de/d4a/classpocketmine_1_1nbt_1_1tag_1_1_double_tag.html">pocketmine\nbt\tag\DoubleTag</a></div><div class="ttdef"><b>Definition</b> <a href="../../d5/d64/_double_tag_8php_source.html#l00031">DoubleTag.php:31</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1nbt_1_1tag_1_1_float_tag_html"><div class="ttname"><a href="../../d7/d9e/classpocketmine_1_1nbt_1_1tag_1_1_float_tag.html">pocketmine\nbt\tag\FloatTag</a></div><div class="ttdef"><b>Definition</b> <a href="../../d5/d74/_float_tag_8php_source.html#l00032">FloatTag.php:32</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1nbt_1_1tag_1_1_list_tag_html"><div class="ttname"><a href="../../d5/df4/classpocketmine_1_1nbt_1_1tag_1_1_list_tag.html">pocketmine\nbt\tag\ListTag</a></div><div class="ttdef"><b>Definition</b> <a href="../../d5/d0f/_list_tag_8php_source.html#l00047">ListTag.php:47</a></div></div>

@@ -1,5 +1,9 @@
 var NAVTREEINDEX15 =
 {
+"d1/d18/classpocketmine_1_1item_1_1_compass.html#a2b35e6f346e5955b086fcc07ead985a7":[2,0,0,5,25,24],
+"d1/d18/classpocketmine_1_1item_1_1_compass.html#a2b35e6f346e5955b086fcc07ead985a7":[3,0,1,12,26,24],
+"d1/d18/classpocketmine_1_1item_1_1_compass.html#a2bcaa528592d9ae259e2e6d0b89f375d":[2,0,0,5,25,21],
+"d1/d18/classpocketmine_1_1item_1_1_compass.html#a2bcaa528592d9ae259e2e6d0b89f375d":[3,0,1,12,26,21],
 "d1/d18/classpocketmine_1_1item_1_1_compass.html#a2ce778f940de9e172cd268f378893b8f":[2,0,0,5,25,13],
 "d1/d18/classpocketmine_1_1item_1_1_compass.html#a2ce778f940de9e172cd268f378893b8f":[3,0,1,12,26,13],
 "d1/d18/classpocketmine_1_1item_1_1_compass.html#a2e7d9e107f4f24de4aabc19764dc7dc2":[2,0,0,5,25,16],
@@ -245,9 +249,5 @@ var NAVTREEINDEX15 =
 "d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#ac34d7d0bd5e5173f331e56f6b97ca796":[3,0,1,0,42,51],
 "d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#ac85f12ad4e4d729db9f27ecb8e97998b":[2,0,0,0,40,53],
 "d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,42,53],
-"d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#acb449b40461f4800cf6e6288cb9a069d":[2,0,0,0,40,1],
-"d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#acb449b40461f4800cf6e6288cb9a069d":[3,0,1,0,42,1],
-"d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,40,26],
-"d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#acb7cc5bba94398c6a329b3b2af8fa859":[3,0,1,0,42,26],
-"d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[2,0,0,0,40,60]
+"d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#acb449b40461f4800cf6e6288cb9a069d":[2,0,0,0,40,1]
 };
