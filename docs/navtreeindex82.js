@@ -1,5 +1,7 @@
 var NAVTREEINDEX82 =
 {
+"d5/dbd/classpocketmine_1_1entity_1_1_entity_data_helper.html#a912608a0c2411186a03fb54cc280a09a":[3,0,1,7,11,0],
+"d5/dbe/_multi_any_facing_trait_8php_source.html":[4,0,0,0,2,32],
 "d5/dbf/_plugin_command_8php_source.html":[4,0,0,1,8],
 "d5/dbf/classpocketmine_1_1plugin_1_1_phar_plugin_loader.html":[2,0,0,10,3],
 "d5/dbf/classpocketmine_1_1plugin_1_1_phar_plugin_loader.html":[3,0,1,19,3],
@@ -75,7 +77,7 @@ var NAVTREEINDEX82 =
 "d5/dc4/classpocketmine_1_1inventory_1_1_base_inventory.html#ad9f449415dce59a49e0ee2609222b9e2":[3,0,1,11,3,29],
 "d5/dc4/classpocketmine_1_1inventory_1_1_base_inventory.html#af622143f2671cdfd7faa8369987c7e2e":[2,0,0,4,1,3],
 "d5/dc4/classpocketmine_1_1inventory_1_1_base_inventory.html#af622143f2671cdfd7faa8369987c7e2e":[3,0,1,11,3,3],
-"d5/dc6/_packet_decode_exception_8php_source.html":[4,0,1,0,1,0,116],
+"d5/dc6/_packet_decode_exception_8php_source.html":[4,0,1,0,1,0,114],
 "d5/dc6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_score_packet.html":[3,0,1,16,0,6,179],
 "d5/dc6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_score_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,179,4],
 "d5/dc6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_score_packet.html#a8d98ddf52613dacd5d2cf84010a6562f":[3,0,1,16,0,6,179,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX82 =
 "d5/dd1/classpocketmine_1_1block_1_1_water_lily.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,241,65],
 "d5/dd1/classpocketmine_1_1block_1_1_water_lily.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,239,38],
 "d5/dd1/classpocketmine_1_1block_1_1_water_lily.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,241,38],
-"d5/dd1/classpocketmine_1_1block_1_1_water_lily.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,239,7],
-"d5/dd1/classpocketmine_1_1block_1_1_water_lily.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,241,7],
-"d5/dd1/classpocketmine_1_1block_1_1_water_lily.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,239,4]
+"d5/dd1/classpocketmine_1_1block_1_1_water_lily.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,239,7]
 };

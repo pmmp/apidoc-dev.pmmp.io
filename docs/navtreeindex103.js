@@ -1,5 +1,7 @@
 var NAVTREEINDEX103 =
 {
+"d7/d08/_mycelium_8php_source.html":[4,0,0,0,153],
+"d7/d08/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_fade_instruction.html":[3,0,1,16,0,6,1,0,7],
 "d7/d08/classpocketmine_1_1snooze_1_1_sleeper_handler.html":[3,0,1,23,0],
 "d7/d08/classpocketmine_1_1snooze_1_1_sleeper_handler.html#a04e4b325df3590310bdccb730ebf973c":[3,0,1,23,0,2],
 "d7/d08/classpocketmine_1_1snooze_1_1_sleeper_handler.html#a145964df2b4a24ccad78b8b2ea90a4aa":[3,0,1,23,0,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX103 =
 "d7/d18/classpocketmine_1_1block_1_1_copper.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,65,11],
 "d7/d18/classpocketmine_1_1block_1_1_copper.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,63,67],
 "d7/d18/classpocketmine_1_1block_1_1_copper.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,65,67],
-"d7/d18/classpocketmine_1_1block_1_1_copper.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,63,38],
-"d7/d18/classpocketmine_1_1block_1_1_copper.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,65,38],
-"d7/d18/classpocketmine_1_1block_1_1_copper.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,63,7]
+"d7/d18/classpocketmine_1_1block_1_1_copper.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,63,38]
 };

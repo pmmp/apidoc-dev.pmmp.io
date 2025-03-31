@@ -1,5 +1,16 @@
 var NAVTREEINDEX156 =
 {
+"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a36afea9f0214193963f75577e8d48c26":[2,0,0,0,39,61],
+"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a36afea9f0214193963f75577e8d48c26":[3,0,1,0,41,61],
+"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a3a46169e7d256b3a1f3af8c54ddba832":[2,0,0,0,39,64],
+"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a3a46169e7d256b3a1f3af8c54ddba832":[3,0,1,0,41,64],
+"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,0,0,39,10],
+"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,41,10],
+"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a3e16854d55d72e669ae2de47be272afb":[2,0,0,0,39,57],
+"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a3e16854d55d72e669ae2de47be272afb":[3,0,1,0,41,57],
+"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,39,45],
+"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a43e3458847422ebd5dec6c914b443c93":[3,0,1,0,41,45],
+"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a444028c60ad6c7afacda1a6cc3065e59":[2,0,0,0,39,13],
 "da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a444028c60ad6c7afacda1a6cc3065e59":[3,0,1,0,41,13],
 "da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a49395de82d025ca78745a17528049f18":[2,0,0,0,39,54],
 "da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a49395de82d025ca78745a17528049f18":[3,0,1,0,41,54],
@@ -107,7 +118,7 @@ var NAVTREEINDEX156 =
 "da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,41,28],
 "da/d63/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_fade_instruction_color.html":[3,0,1,16,0,6,1,0,8],
 "da/d64/classpocketmine_1_1world_1_1format_1_1io_1_1exception_1_1_corrupted_chunk_exception.html":[3,0,1,30,1,0,1,0],
-"da/d65/_client_to_server_handshake_packet_8php_source.html":[4,0,1,0,1,0,42],
+"da/d65/_client_to_server_handshake_packet_8php_source.html":[4,0,1,0,1,0,43],
 "da/d65/_rak_lib_to_user_thread_message_receiver_8php_source.html":[4,0,1,0,10,0,3],
 "da/d66/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_string_metadata_property.html":[3,0,1,16,0,6,1,2,20],
 "da/d68/classpocketmine_1_1world_1_1format_1_1io_1_1_global_block_state_handlers.html":[3,0,1,30,1,0,9],
@@ -238,16 +249,5 @@ var NAVTREEINDEX156 =
 "da/d71/classpocketmine_1_1block_1_1_wool.html#add4d4fd4fecc779dee9c9f94b8a556e5":[3,0,1,0,253,5],
 "da/d71/classpocketmine_1_1block_1_1_wool.html#ade77e0b1fce7bdebceed4092b9c5c022":[2,0,0,0,251,33],
 "da/d71/classpocketmine_1_1block_1_1_wool.html#ade77e0b1fce7bdebceed4092b9c5c022":[3,0,1,0,253,33],
-"da/d71/classpocketmine_1_1block_1_1_wool.html#ae6f3cdb7eeee27448b561fa3f8323916":[2,0,0,0,251,48],
-"da/d71/classpocketmine_1_1block_1_1_wool.html#ae6f3cdb7eeee27448b561fa3f8323916":[3,0,1,0,253,48],
-"da/d71/classpocketmine_1_1block_1_1_wool.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,251,32],
-"da/d71/classpocketmine_1_1block_1_1_wool.html#ae829b9f476afef6b23d6f4f7fd558e0f":[3,0,1,0,253,32],
-"da/d71/classpocketmine_1_1block_1_1_wool.html#aeb181801732c57bada33ec02e76692a1":[2,0,0,0,251,23],
-"da/d71/classpocketmine_1_1block_1_1_wool.html#aeb181801732c57bada33ec02e76692a1":[3,0,1,0,253,23],
-"da/d71/classpocketmine_1_1block_1_1_wool.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,251,54],
-"da/d71/classpocketmine_1_1block_1_1_wool.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,253,54],
-"da/d71/classpocketmine_1_1block_1_1_wool.html#af45a3d45c4ab6528c6641915722b9de8":[2,0,0,0,251,6],
-"da/d71/classpocketmine_1_1block_1_1_wool.html#af45a3d45c4ab6528c6641915722b9de8":[3,0,1,0,253,6],
-"da/d71/classpocketmine_1_1block_1_1_wool.html#af97d045122137ac415425b45e7b22a36":[2,0,0,0,251,49],
-"da/d71/classpocketmine_1_1block_1_1_wool.html#af97d045122137ac415425b45e7b22a36":[3,0,1,0,253,49]
+"da/d71/classpocketmine_1_1block_1_1_wool.html#ae6f3cdb7eeee27448b561fa3f8323916":[2,0,0,0,251,48]
 };

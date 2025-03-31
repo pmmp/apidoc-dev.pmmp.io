@@ -1,5 +1,7 @@
 var NAVTREEINDEX102 =
 {
+"d6/df1/classpocketmine_1_1command_1_1_command.html":[2,0,0,1,1],
+"d6/df1/classpocketmine_1_1command_1_1_command.html":[3,0,1,2,3],
 "d6/df1/classpocketmine_1_1command_1_1_command.html#a022bc6bc7b14358d1edc546b7e5917d3":[2,0,0,1,1,0],
 "d6/df1/classpocketmine_1_1command_1_1_command.html#a022bc6bc7b14358d1edc546b7e5917d3":[3,0,1,2,3,0],
 "d6/df1/classpocketmine_1_1command_1_1_command.html#a407f67137064d072ccef1ccd17ad6910":[2,0,0,1,1,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX102 =
 "d7/d03/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_block_remap.html#a8cb9e05378e69853be2e830f2f0240db":[3,0,1,6,0,0,1,5,0],
 "d7/d05/_connected_packet_8php_source.html":[4,0,1,0,9,0,2,3],
 "d7/d06/classpocketmine_1_1world_1_1sound_1_1_barrel_open_sound.html":[3,0,1,30,5,13],
-"d7/d06/classpocketmine_1_1world_1_1sound_1_1_barrel_open_sound.html#ad819c8467e3288eb4d77e008d9241844":[3,0,1,30,5,13,0],
-"d7/d08/_mycelium_8php_source.html":[4,0,0,0,153],
-"d7/d08/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_fade_instruction.html":[3,0,1,16,0,6,1,0,7]
+"d7/d06/classpocketmine_1_1world_1_1sound_1_1_barrel_open_sound.html#ad819c8467e3288eb4d77e008d9241844":[3,0,1,30,5,13,0]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX169 =
 {
+"db/d8d/classpocketmine_1_1block_1_1inventory_1_1_loom_inventory.html#aa58d568c421e711863c33c3b7bd4d6d5":[3,0,1,0,0,13,25],
+"db/d8d/classpocketmine_1_1block_1_1inventory_1_1_loom_inventory.html#aa5d3e9ecb42223e9dc728316a7a3c206":[3,0,1,0,0,13,18],
+"db/d8d/classpocketmine_1_1block_1_1inventory_1_1_loom_inventory.html#aaa1a88b2b7f93d073538fb993a508e2c":[3,0,1,0,0,13,12],
 "db/d8d/classpocketmine_1_1block_1_1inventory_1_1_loom_inventory.html#ab1f0c179abf5fe72f3690a3f4863acc7":[3,0,1,0,0,13,10],
 "db/d8d/classpocketmine_1_1block_1_1inventory_1_1_loom_inventory.html#ab4558205396b6e9a38bd25c809616320":[3,0,1,0,0,13,28],
 "db/d8d/classpocketmine_1_1block_1_1inventory_1_1_loom_inventory.html#ab91f0a13cfec22468eb5e6bfed9a9a80":[3,0,1,0,0,13,7],
@@ -7,7 +10,7 @@ var NAVTREEINDEX169 =
 "db/d8d/classpocketmine_1_1block_1_1inventory_1_1_loom_inventory.html#ad61d0fa541f73c0387c81dc3c46def67":[3,0,1,0,0,13,20],
 "db/d8d/classpocketmine_1_1block_1_1inventory_1_1_loom_inventory.html#ad9f449415dce59a49e0ee2609222b9e2":[3,0,1,0,0,13,29],
 "db/d8d/classpocketmine_1_1block_1_1inventory_1_1_loom_inventory.html#af622143f2671cdfd7faa8369987c7e2e":[3,0,1,0,0,13,3],
-"db/d8f/_camera_presets_packet_8php_source.html":[4,0,1,0,1,0,30],
+"db/d8f/_camera_presets_packet_8php_source.html":[4,0,1,0,1,0,29],
 "db/d8f/block_2_anvil_8php_source.html":[4,0,0,0,6],
 "db/d93/_villager_8php_source.html":[4,0,0,6,24],
 "db/d93/classpocketmine_1_1world_1_1sound_1_1_anvil_use_sound.html":[3,0,1,30,5,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX169 =
 "db/d9b/classpocketmine_1_1block_1_1_gold_ore.html#ad57a8bddf87431ff034f3a96e7219d63":[2,0,0,0,116,15],
 "db/d9b/classpocketmine_1_1block_1_1_gold_ore.html#ad57a8bddf87431ff034f3a96e7219d63":[3,0,1,0,118,15],
 "db/d9b/classpocketmine_1_1block_1_1_gold_ore.html#ad925607ef09026804dbbf059583e3add":[2,0,0,0,116,42],
-"db/d9b/classpocketmine_1_1block_1_1_gold_ore.html#ad925607ef09026804dbbf059583e3add":[3,0,1,0,118,42],
-"db/d9b/classpocketmine_1_1block_1_1_gold_ore.html#adc7b2fcbcc10f046b1cbcafdd0858863":[2,0,0,0,116,1],
-"db/d9b/classpocketmine_1_1block_1_1_gold_ore.html#adc7b2fcbcc10f046b1cbcafdd0858863":[3,0,1,0,118,1],
-"db/d9b/classpocketmine_1_1block_1_1_gold_ore.html#add4d4fd4fecc779dee9c9f94b8a556e5":[2,0,0,0,116,5]
+"db/d9b/classpocketmine_1_1block_1_1_gold_ore.html#ad925607ef09026804dbbf059583e3add":[3,0,1,0,118,42]
 };

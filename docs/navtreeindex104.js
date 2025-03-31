@@ -1,5 +1,7 @@
 var NAVTREEINDEX104 =
 {
+"d7/d18/classpocketmine_1_1block_1_1_copper.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,65,38],
+"d7/d18/classpocketmine_1_1block_1_1_copper.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,63,7],
 "d7/d18/classpocketmine_1_1block_1_1_copper.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,65,7],
 "d7/d18/classpocketmine_1_1block_1_1_copper.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,63,4],
 "d7/d18/classpocketmine_1_1block_1_1_copper.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,65,4],
@@ -123,15 +125,15 @@ var NAVTREEINDEX104 =
 "d7/d1e/classpocketmine_1_1event_1_1entity_1_1_entity_death_event.html#ae5e0f5790d71c0da769ada47d609e885":[3,0,1,9,1,8,6],
 "d7/d1f/_item_id_meta_upgrader_8php_source.html":[4,0,0,5,0,1,0,2],
 "d7/d1f/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_item_stack_request_process_exception.html":[3,0,1,16,0,5,5],
-"d7/d20/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_emote_packet.html":[3,0,1,16,0,6,68],
-"d7/d20/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_emote_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,68,4],
-"d7/d20/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_emote_packet.html#a9ca45dd25014a878cfa9b9f086af2425":[3,0,1,16,0,6,68,2],
-"d7/d20/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_emote_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,68,0],
-"d7/d20/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_emote_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,68,3],
-"d7/d20/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_emote_packet.html#ab71a3dc833890ae93e165763306225f8":[3,0,1,16,0,6,68,6],
-"d7/d20/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_emote_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,68,1],
-"d7/d20/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_emote_packet.html#acdb72a3815905a72e006619f547aa6f9":[3,0,1,16,0,6,68,5],
-"d7/d20/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_emote_packet.html#af74503b74410627bada3cc4596cbf8d9":[3,0,1,16,0,6,68,7],
+"d7/d20/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_emote_packet.html":[3,0,1,16,0,6,69],
+"d7/d20/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_emote_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,69,4],
+"d7/d20/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_emote_packet.html#a9ca45dd25014a878cfa9b9f086af2425":[3,0,1,16,0,6,69,2],
+"d7/d20/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_emote_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,69,0],
+"d7/d20/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_emote_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,69,3],
+"d7/d20/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_emote_packet.html#ab71a3dc833890ae93e165763306225f8":[3,0,1,16,0,6,69,6],
+"d7/d20/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_emote_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,69,1],
+"d7/d20/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_emote_packet.html#acdb72a3815905a72e006619f547aa6f9":[3,0,1,16,0,6,69,5],
+"d7/d20/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_emote_packet.html#af74503b74410627bada3cc4596cbf8d9":[3,0,1,16,0,6,69,7],
 "d7/d21/_mob_head_type_8php_source.html":[4,0,0,0,2,31],
 "d7/d21/classpocketmine_1_1block_1_1_rail.html":[2,0,0,0,173],
 "d7/d21/classpocketmine_1_1block_1_1_rail.html":[3,0,1,0,175],
@@ -247,7 +249,5 @@ var NAVTREEINDEX104 =
 "d7/d21/classpocketmine_1_1block_1_1_rail.html#acb449b40461f4800cf6e6288cb9a069d":[3,0,1,0,175,0],
 "d7/d21/classpocketmine_1_1block_1_1_rail.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,173,25],
 "d7/d21/classpocketmine_1_1block_1_1_rail.html#acb7cc5bba94398c6a329b3b2af8fa859":[3,0,1,0,175,25],
-"d7/d21/classpocketmine_1_1block_1_1_rail.html#acfa7766036568571b645ae89ceb1029e":[2,0,0,0,173,45],
-"d7/d21/classpocketmine_1_1block_1_1_rail.html#acfa7766036568571b645ae89ceb1029e":[3,0,1,0,175,45],
-"d7/d21/classpocketmine_1_1block_1_1_rail.html#ad57a8bddf87431ff034f3a96e7219d63":[2,0,0,0,173,15]
+"d7/d21/classpocketmine_1_1block_1_1_rail.html#acfa7766036568571b645ae89ceb1029e":[2,0,0,0,173,45]
 };

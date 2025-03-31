@@ -1,5 +1,7 @@
 var NAVTREEINDEX180 =
 {
+"dc/d4c/classpocketmine_1_1block_1_1_coal.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,59,60],
+"dc/d4c/classpocketmine_1_1block_1_1_coal.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,57,47],
 "dc/d4c/classpocketmine_1_1block_1_1_coal.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,59,47],
 "dc/d4c/classpocketmine_1_1block_1_1_coal.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,57,3],
 "dc/d4c/classpocketmine_1_1block_1_1_coal.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,59,3],
@@ -130,7 +132,7 @@ var NAVTREEINDEX180 =
 "dc/d4c/classpocketmine_1_1command_1_1defaults_1_1_dump_memory_command.html#ab72bd2c9460e023447241b484f99aef9":[3,0,1,2,0,7,0],
 "dc/d4c/classpocketmine_1_1command_1_1defaults_1_1_dump_memory_command.html#ac9790f6d386568af660860ceb824ee9a":[3,0,1,2,0,7,3],
 "dc/d4c/classpocketmine_1_1command_1_1defaults_1_1_dump_memory_command.html#acbccfc9431699f8cefb66e359419e1df":[3,0,1,2,0,7,1],
-"dc/d4e/_camera_instruction_packet_8php_source.html":[4,0,1,0,1,0,28],
+"dc/d4e/_camera_instruction_packet_8php_source.html":[4,0,1,0,1,0,27],
 "dc/d4e/classpocketmine_1_1entity_1_1projectile_1_1_egg.html":[3,0,1,7,3,1],
 "dc/d4e/classpocketmine_1_1entity_1_1projectile_1_1_egg.html#a02eb3401e4fe566c7a2528aeb7b0222a":[3,0,1,7,3,1,9],
 "dc/d4e/classpocketmine_1_1entity_1_1projectile_1_1_egg.html#a099fce07daf8c0ce633456ea00b4272b":[3,0,1,7,3,1,52],
@@ -247,7 +249,5 @@ var NAVTREEINDEX180 =
 "dc/d54/classpocketmine_1_1item_1_1_cooked_rabbit.html#a336d6f91be72079853413f5b4036a57d":[3,0,1,12,32,2],
 "dc/d54/classpocketmine_1_1item_1_1_cooked_rabbit.html#a3bc65b2324649d8735dadf9bf8cf0705":[2,0,0,5,31,48],
 "dc/d54/classpocketmine_1_1item_1_1_cooked_rabbit.html#a3bc65b2324649d8735dadf9bf8cf0705":[3,0,1,12,32,48],
-"dc/d54/classpocketmine_1_1item_1_1_cooked_rabbit.html#a49a05b01faaaf071449c97060fe44926":[2,0,0,5,31,0],
-"dc/d54/classpocketmine_1_1item_1_1_cooked_rabbit.html#a49a05b01faaaf071449c97060fe44926":[3,0,1,12,32,0],
-"dc/d54/classpocketmine_1_1item_1_1_cooked_rabbit.html#a4a9aa55600bb30c4d55ad63337874a07":[2,0,0,5,31,6]
+"dc/d54/classpocketmine_1_1item_1_1_cooked_rabbit.html#a49a05b01faaaf071449c97060fe44926":[2,0,0,5,31,0]
 };

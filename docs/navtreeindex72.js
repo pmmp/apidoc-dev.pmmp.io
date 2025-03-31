@@ -1,5 +1,7 @@
 var NAVTREEINDEX72 =
 {
+"d5/d1b/classpocketmine_1_1block_1_1_transparent.html#ae829b9f476afef6b23d6f4f7fd558e0f":[3,0,1,0,226,32],
+"d5/d1b/classpocketmine_1_1block_1_1_transparent.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,224,54],
 "d5/d1b/classpocketmine_1_1block_1_1_transparent.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,226,54],
 "d5/d1b/classpocketmine_1_1block_1_1_transparent.html#af45a3d45c4ab6528c6641915722b9de8":[2,0,0,0,224,6],
 "d5/d1b/classpocketmine_1_1block_1_1_transparent.html#af45a3d45c4ab6528c6641915722b9de8":[3,0,1,0,226,6],
@@ -147,7 +149,7 @@ var NAVTREEINDEX72 =
 "d5/d20/classpocketmine_1_1block_1_1_glowstone.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,115,27],
 "d5/d20/classpocketmine_1_1block_1_1_glowstone.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,117,27],
 "d5/d23/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_packet_handler.html":[3,0,1,16,0,5,8],
-"d5/d28/_server_auth_movement_mode_8php_source.html":[4,0,1,0,1,0,1,69],
+"d5/d28/_server_auth_movement_mode_8php_source.html":[4,0,1,0,1,0,1,71],
 "d5/d28/vendor_2pocketmine_2bedrock-protocol_2src_2types_2recipe_2_recipe_ingredient_8php_source.html":[4,0,1,0,1,0,1,6,13],
 "d5/d29/_cake_with_candle_8php_source.html":[4,0,0,0,41],
 "d5/d2e/classpocketmine_1_1entity_1_1animation_1_1_death_animation.html":[3,0,1,7,0,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX72 =
 "d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#ab6b90601adfc9732893dcffe256514a9":[3,0,1,0,92,64],
 "d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#ab92353cf0aa5c05ad26535f98a2b1dca":[2,0,0,0,90,26],
 "d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#ab92353cf0aa5c05ad26535f98a2b1dca":[3,0,1,0,92,26],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[2,0,0,0,90,12],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[3,0,1,0,92,12],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#ac34d7d0bd5e5173f331e56f6b97ca796":[2,0,0,0,90,49]
+"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[2,0,0,0,90,12]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX69 =
 {
+"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[3,0,1,0,71,36],
+"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[2,0,0,0,69,46],
 "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[3,0,1,0,71,46],
 "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a54fbd67942d9417f42f19c1a94402047":[2,0,0,0,69,62],
 "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a54fbd67942d9417f42f19c1a94402047":[3,0,1,0,71,62],
@@ -131,7 +133,7 @@ var NAVTREEINDEX69 =
 "d4/dea/_language_8php_source.html":[4,0,0,11,2],
 "d4/dee/_crafting_transaction_8php_source.html":[4,0,0,9,1,1],
 "d4/dee/_event_8php_source.html":[4,0,0,7,9],
-"d4/dee/_player_fog_packet_8php_source.html":[4,0,1,0,1,0,128],
+"d4/dee/_player_fog_packet_8php_source.html":[4,0,1,0,1,0,126],
 "d4/def/classpocketmine_1_1world_1_1sound_1_1_ender_chest_close_sound.html":[3,0,1,30,5,52],
 "d4/def/classpocketmine_1_1world_1_1sound_1_1_ender_chest_close_sound.html#ace5c5e3854496ea1654722bf0cac94e7":[3,0,1,30,5,52,0],
 "d4/df0/classpocketmine_1_1event_1_1world_1_1_world_difficulty_change_event.html":[2,0,0,3,6,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX69 =
 "d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a4a9aa55600bb30c4d55ad63337874a07":[3,0,1,12,78,6],
 "d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a4f8f013f507342e2208dc8b4c3da964b":[2,0,0,5,77,26],
 "d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a4f8f013f507342e2208dc8b4c3da964b":[3,0,1,12,78,26],
-"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a51b97f07ff97887a144198bb3dba6fc4":[2,0,0,5,77,21],
-"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a51b97f07ff97887a144198bb3dba6fc4":[3,0,1,12,78,21],
-"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a536378f334334c0e8b06e5ccaeb4de39":[2,0,0,5,77,31]
+"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a51b97f07ff97887a144198bb3dba6fc4":[2,0,0,5,77,21]
 };

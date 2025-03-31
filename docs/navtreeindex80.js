@@ -1,5 +1,7 @@
 var NAVTREEINDEX80 =
 {
+"d5/da3/classpocketmine_1_1item_1_1_spyglass.html#a7b5c1e7e496c3077658212aaacec4b56":[2,0,0,5,102,15],
+"d5/da3/classpocketmine_1_1item_1_1_spyglass.html#a7b5c1e7e496c3077658212aaacec4b56":[3,0,1,12,103,15],
 "d5/da3/classpocketmine_1_1item_1_1_spyglass.html#a7d45886d40860e24fb4c18d02a3d1a32":[2,0,0,5,102,14],
 "d5/da3/classpocketmine_1_1item_1_1_spyglass.html#a7d45886d40860e24fb4c18d02a3d1a32":[3,0,1,12,103,14],
 "d5/da3/classpocketmine_1_1item_1_1_spyglass.html#a8e97e9296238bf8794a2d2f8e94e8a93":[2,0,0,5,102,47],
@@ -46,7 +48,7 @@ var NAVTREEINDEX80 =
 "d5/da3/classpocketmine_1_1item_1_1_spyglass.html#af737301b899b7a7c9e9b0bb9a234a119":[3,0,1,12,103,7],
 "d5/da3/classpocketmine_1_1item_1_1_spyglass.html#af85accbedba28b67bb66d5f12d329585":[2,0,0,5,102,37],
 "d5/da3/classpocketmine_1_1item_1_1_spyglass.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,103,37],
-"d5/da5/_level_event_generic_packet_8php_source.html":[4,0,1,0,1,0,88],
+"d5/da5/_level_event_generic_packet_8php_source.html":[4,0,1,0,1,0,89],
 "d5/da6/_cancellable_8php_source.html":[4,0,0,7,7],
 "d5/da7/_unconnected_ping_open_connections_8php_source.html":[4,0,1,0,9,0,2,25],
 "d5/da8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_network_inventory_action.html":[3,0,1,16,0,6,1,3,13],
@@ -54,7 +56,7 @@ var NAVTREEINDEX80 =
 "d5/da8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_network_inventory_action.html#a9b1b43e669c2b77f58c0942a13c34681":[3,0,1,16,0,6,1,3,13,0],
 "d5/da8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_network_inventory_action.html#ad9346d7c46042dbc23c3ca68bccb8d48":[3,0,1,16,0,6,1,3,13,2],
 "d5/da9/_handler_list_8php_source.html":[4,0,0,7,11],
-"d5/da9/_level_event_packet_8php_source.html":[4,0,1,0,1,0,89],
+"d5/da9/_level_event_packet_8php_source.html":[4,0,1,0,1,0,90],
 "d5/dac/_world_provider_manager_8php_source.html":[4,0,0,25,1,0,15],
 "d5/dad/classpocketmine_1_1item_1_1_pumpkin_seeds.html":[2,0,0,5,83],
 "d5/dad/classpocketmine_1_1item_1_1_pumpkin_seeds.html":[3,0,1,12,84],
@@ -247,7 +249,5 @@ var NAVTREEINDEX80 =
 "d5/db8/classpocketmine_1_1item_1_1_flint_steel.html#a95cfab40de7390593990a239f8e4af73":[3,0,1,12,47,12],
 "d5/db8/classpocketmine_1_1item_1_1_flint_steel.html#a9866a7ab362cec28252d67f6382a4ad4":[2,0,0,5,46,35],
 "d5/db8/classpocketmine_1_1item_1_1_flint_steel.html#a9866a7ab362cec28252d67f6382a4ad4":[3,0,1,12,47,35],
-"d5/db8/classpocketmine_1_1item_1_1_flint_steel.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[2,0,0,5,46,4],
-"d5/db8/classpocketmine_1_1item_1_1_flint_steel.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[3,0,1,12,47,4],
-"d5/db8/classpocketmine_1_1item_1_1_flint_steel.html#a9dd261853760b5df7ddacfd351b8df15":[2,0,0,5,46,29]
+"d5/db8/classpocketmine_1_1item_1_1_flint_steel.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[2,0,0,5,46,4]
 };

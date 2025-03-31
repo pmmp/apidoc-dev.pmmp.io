@@ -1,5 +1,7 @@
 var NAVTREEINDEX179 =
 {
+"dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html#a75b16ca6e22355cf632466a969e79211":[3,0,1,0,202,43],
+"dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html#a771a30c30a36b0992f54c57dc63af10d":[2,0,0,0,200,42],
 "dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html#a771a30c30a36b0992f54c57dc63af10d":[3,0,1,0,202,42],
 "dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html#a82bf9f65ee1ff53afeaefc1a94e8e985":[2,0,0,0,200,39],
 "dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html#a82bf9f65ee1ff53afeaefc1a94e8e985":[3,0,1,0,202,39],
@@ -95,7 +97,7 @@ var NAVTREEINDEX179 =
 "dc/d3e/classpocketmine_1_1world_1_1_simple_chunk_manager.html#aac56411407f3dd8ca801104e97313ab6":[3,0,1,30,15,1],
 "dc/d45/_wooden_fence_8php_source.html":[4,0,0,0,248],
 "dc/d46/_invalid_serialized_runtime_data_exception_8php_source.html":[4,0,0,5,2,0],
-"dc/d46/_update_trade_packet_8php_source.html":[4,0,1,0,1,0,218],
+"dc/d46/_update_trade_packet_8php_source.html":[4,0,1,0,1,0,219],
 "dc/d47/_entity_metadata_flags_8php_source.html":[4,0,1,0,1,0,1,2,10],
 "dc/d48/_education_edition_offer_8php_source.html":[4,0,1,0,1,0,1,27],
 "dc/d49/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_packet_sender.html":[3,0,1,16,0,7,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX179 =
 "dc/d4c/classpocketmine_1_1block_1_1_coal.html#a09f4667329f89292dd319d56c4243b59":[3,0,1,0,59,30],
 "dc/d4c/classpocketmine_1_1block_1_1_coal.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,57,18],
 "dc/d4c/classpocketmine_1_1block_1_1_coal.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,59,18],
-"dc/d4c/classpocketmine_1_1block_1_1_coal.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,57,60],
-"dc/d4c/classpocketmine_1_1block_1_1_coal.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,59,60],
-"dc/d4c/classpocketmine_1_1block_1_1_coal.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,57,47]
+"dc/d4c/classpocketmine_1_1block_1_1_coal.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,57,60]
 };

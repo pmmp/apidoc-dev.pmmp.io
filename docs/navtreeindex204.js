@@ -1,10 +1,5 @@
 var NAVTREEINDEX204 =
 {
-"dd/dc1/classpocketmine_1_1block_1_1_hay_bale.html#a2f69b17d8bb1c49eaf8ee1b13e4fd6e2":[3,0,1,0,126,37],
-"dd/dc1/classpocketmine_1_1block_1_1_hay_bale.html#a30a070aa7befb02f9fff5cbf2693c01e":[2,0,0,0,124,9],
-"dd/dc1/classpocketmine_1_1block_1_1_hay_bale.html#a30a070aa7befb02f9fff5cbf2693c01e":[3,0,1,0,126,9],
-"dd/dc1/classpocketmine_1_1block_1_1_hay_bale.html#a36afea9f0214193963f75577e8d48c26":[2,0,0,0,124,59],
-"dd/dc1/classpocketmine_1_1block_1_1_hay_bale.html#a36afea9f0214193963f75577e8d48c26":[3,0,1,0,126,59],
 "dd/dc1/classpocketmine_1_1block_1_1_hay_bale.html#a3a46169e7d256b3a1f3af8c54ddba832":[2,0,0,0,124,62],
 "dd/dc1/classpocketmine_1_1block_1_1_hay_bale.html#a3a46169e7d256b3a1f3af8c54ddba832":[3,0,1,0,126,62],
 "dd/dc1/classpocketmine_1_1block_1_1_hay_bale.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,0,0,124,10],
@@ -249,5 +244,10 @@ var NAVTREEINDEX204 =
 "dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#af45a3d45c4ab6528c6641915722b9de8":[3,0,1,0,195,7],
 "dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#af6cd0b6690ff09dac13f0af27eb61aa2":[2,0,0,0,193,67],
 "dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#af6cd0b6690ff09dac13f0af27eb61aa2":[3,0,1,0,195,67],
-"dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,0,0,193,32]
+"dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,0,0,193,32],
+"dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#afcc19c437c8bef4487f5ecb956ae9a1a":[3,0,1,0,195,32],
+"dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#afe4928a6da38d63eccea78bd1a2fdcd3":[2,0,0,0,193,24],
+"dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#afe4928a6da38d63eccea78bd1a2fdcd3":[3,0,1,0,195,24],
+"dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#afe506084e4bb8741a7ac64f6d90c00a5":[2,0,0,0,193,19],
+"dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,195,19]
 };

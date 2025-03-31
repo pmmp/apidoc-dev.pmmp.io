@@ -1,5 +1,7 @@
 var NAVTREEINDEX88 =
 {
+"d6/d3a/classpocketmine_1_1block_1_1_hopper.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,125,3],
+"d6/d3a/classpocketmine_1_1block_1_1_hopper.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,127,3],
 "d6/d3a/classpocketmine_1_1block_1_1_hopper.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,125,22],
 "d6/d3a/classpocketmine_1_1block_1_1_hopper.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[3,0,1,0,127,22],
 "d6/d3a/classpocketmine_1_1block_1_1_hopper.html#a286fc64348f13417dcb6106c2695911b":[2,0,0,0,125,2],
@@ -123,7 +125,7 @@ var NAVTREEINDEX88 =
 "d6/d3a/classpocketmine_1_1block_1_1_hopper.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,125,27],
 "d6/d3a/classpocketmine_1_1block_1_1_hopper.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,127,27],
 "d6/d3a/generate-create-static-methods_8php_source.html":[4,0,1,0,1,1,1],
-"d6/d3b/_create_photo_packet_8php_source.html":[4,0,1,0,1,0,56],
+"d6/d3b/_create_photo_packet_8php_source.html":[4,0,1,0,1,0,57],
 "d6/d3b/_pumpkin_8php_source.html":[4,0,0,0,173],
 "d6/d3c/_inter_thread_channel_writer_8php_source.html":[4,0,1,0,10,0,1],
 "d6/d3c/classpocketmine_1_1crafting_1_1json_1_1_shapeless_recipe_data.html":[3,0,1,4,0,6],
@@ -131,7 +133,7 @@ var NAVTREEINDEX88 =
 "d6/d3c/classpocketmine_1_1crafting_1_1json_1_1_shapeless_recipe_data.html#a9774eefd994fdda2c0b98e924f6a7777":[3,0,1,4,0,6,1],
 "d6/d3c/classpocketmine_1_1crafting_1_1json_1_1_shapeless_recipe_data.html#abb4a688e42c7dca8eea8126e7347c9d6":[3,0,1,4,0,6,3],
 "d6/d3c/classpocketmine_1_1crafting_1_1json_1_1_shapeless_recipe_data.html#aec1bb5af3ccfaf07ff309c234bd5e983":[3,0,1,4,0,6,2],
-"d6/d3e/_trim_material_8php_source.html":[4,0,1,0,1,0,1,84],
+"d6/d3e/_trim_material_8php_source.html":[4,0,1,0,1,0,1,86],
 "d6/d41/_logger_8php_source.html":[4,0,1,0,6,0,3],
 "d6/d41/_main_logger_thread_8php_source.html":[4,0,0,23,12],
 "d6/d41/classpocketmine_1_1item_1_1_boat.html":[2,0,0,5,13],
@@ -242,12 +244,10 @@ var NAVTREEINDEX88 =
 "d6/d48/classpocketmine_1_1network_1_1mcpe_1_1cache_1_1_crafting_data_cache.html":[3,0,1,16,0,1,1],
 "d6/d49/block_2tile_2_banner_8php_source.html":[4,0,0,0,1,0],
 "d6/d4a/_instant_enchant_particle_8php_source.html":[4,0,0,25,4,20],
-"d6/d4b/_input_mode_8php_source.html":[4,0,1,0,1,0,1,41],
+"d6/d4b/_input_mode_8php_source.html":[4,0,1,0,1,0,1,42],
 "d6/d4b/_runtime_enum_metadata_8php_source.html":[4,0,0,5,2,5],
 "d6/d4d/_stained_hardened_glass_pane_8php_source.html":[4,0,0,0,211],
-"d6/d4e/_legacy_telemetry_event_packet_8php_source.html":[4,0,1,0,1,0,85],
+"d6/d4e/_legacy_telemetry_event_packet_8php_source.html":[4,0,1,0,1,0,86],
 "d6/d4e/classpocketmine_1_1block_1_1inventory_1_1_enchant_inventory.html":[3,0,1,0,0,9],
-"d6/d4e/classpocketmine_1_1block_1_1inventory_1_1_enchant_inventory.html#a0104746c6eceddc519011f354d610438":[3,0,1,0,0,9,6],
-"d6/d4e/classpocketmine_1_1block_1_1inventory_1_1_enchant_inventory.html#a010a9ab31edc7fa850b79849037cede7":[3,0,1,0,0,9,22],
-"d6/d4e/classpocketmine_1_1block_1_1inventory_1_1_enchant_inventory.html#a0d82853303c17a6f720b487287092395":[3,0,1,0,0,9,17]
+"d6/d4e/classpocketmine_1_1block_1_1inventory_1_1_enchant_inventory.html#a0104746c6eceddc519011f354d610438":[3,0,1,0,0,9,6]
 };

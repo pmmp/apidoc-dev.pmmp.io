@@ -1,10 +1,5 @@
 var NAVTREEINDEX202 =
 {
-"dd/d7b/classpocketmine_1_1item_1_1_shears.html#a83fa5321f4bf6d803bb4b72279abb801":[2,0,0,5,96,40],
-"dd/d7b/classpocketmine_1_1item_1_1_shears.html#a83fa5321f4bf6d803bb4b72279abb801":[3,0,1,12,97,40],
-"dd/d7b/classpocketmine_1_1item_1_1_shears.html#a8e97e9296238bf8794a2d2f8e94e8a93":[2,0,0,5,96,52],
-"dd/d7b/classpocketmine_1_1item_1_1_shears.html#a8e97e9296238bf8794a2d2f8e94e8a93":[3,0,1,12,97,52],
-"dd/d7b/classpocketmine_1_1item_1_1_shears.html#a91c2118e82bff74349238ad4751516f4":[2,0,0,5,96,23],
 "dd/d7b/classpocketmine_1_1item_1_1_shears.html#a91c2118e82bff74349238ad4751516f4":[3,0,1,12,97,23],
 "dd/d7b/classpocketmine_1_1item_1_1_shears.html#a9866a7ab362cec28252d67f6382a4ad4":[2,0,0,5,96,35],
 "dd/d7b/classpocketmine_1_1item_1_1_shears.html#a9866a7ab362cec28252d67f6382a4ad4":[3,0,1,12,97,35],
@@ -75,8 +70,8 @@ var NAVTREEINDEX202 =
 "dd/d87/classpocketmine_1_1network_1_1_bidirectional_bandwidth_stats_tracker.html#aedbe8d43681287574ee5d3c5e7c766e5":[3,0,1,16,5,1],
 "dd/d89/_potion_8php_source.html":[4,0,0,10,85],
 "dd/d89/_query_info_8php_source.html":[4,0,0,12,1,2],
-"dd/d8b/_game_rules_changed_packet_8php_source.html":[4,0,1,0,1,0,70],
-"dd/d8b/_inventory_transaction_packet_8php_source.html":[4,0,1,0,1,0,78],
+"dd/d8b/_game_rules_changed_packet_8php_source.html":[4,0,1,0,1,0,71],
+"dd/d8b/_inventory_transaction_packet_8php_source.html":[4,0,1,0,1,0,79],
 "dd/d8d/_copper_ore_8php_source.html":[4,0,0,0,69],
 "dd/d91/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_use_item_transaction_data.html":[3,0,1,16,0,6,1,3,19],
 "dd/d91/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_use_item_transaction_data.html#a44efe1a9833f37d145e883f180c612bb":[3,0,1,16,0,6,1,3,19,1],
@@ -99,7 +94,7 @@ var NAVTREEINDEX202 =
 "dd/d93/classpocketmine_1_1event_1_1block_1_1_sign_change_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,0,3,0,20,3],
 "dd/d93/classpocketmine_1_1event_1_1block_1_1_sign_change_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,0,20,3],
 "dd/d94/_dye_color_id_map_8php_source.html":[4,0,0,5,0,6],
-"dd/d94/_player_block_action_stop_break_8php_source.html":[4,0,1,0,1,0,1,61],
+"dd/d94/_player_block_action_stop_break_8php_source.html":[4,0,1,0,1,0,1,63],
 "dd/d95/classpocketmine_1_1block_1_1inventory_1_1_smithing_table_inventory.html":[3,0,1,0,0,15],
 "dd/d95/classpocketmine_1_1block_1_1inventory_1_1_smithing_table_inventory.html#a0104746c6eceddc519011f354d610438":[3,0,1,0,0,15,6],
 "dd/d95/classpocketmine_1_1block_1_1inventory_1_1_smithing_table_inventory.html#a010a9ab31edc7fa850b79849037cede7":[3,0,1,0,0,15,22],
@@ -191,7 +186,7 @@ var NAVTREEINDEX202 =
 "dd/db0/classpocketmine_1_1network_1_1_network_session_manager.html#afa1b6a4c0bba82a0dbf8c2d7790ed327":[2,0,0,8,8,0],
 "dd/db0/classpocketmine_1_1network_1_1_network_session_manager.html#afa1b6a4c0bba82a0dbf8c2d7790ed327":[3,0,1,16,9,0],
 "dd/db1/_title_command_8php_source.html":[4,0,0,1,0,36],
-"dd/db2/_int_game_rule_8php_source.html":[4,0,1,0,1,0,1,43],
+"dd/db2/_int_game_rule_8php_source.html":[4,0,1,0,1,0,1,44],
 "dd/db5/_global_item_data_handlers_8php_source.html":[4,0,0,25,1,0,10],
 "dd/db5/classpocketmine_1_1utils_1_1_text_format.html":[2,0,0,12,24],
 "dd/db5/classpocketmine_1_1utils_1_1_text_format.html":[3,0,1,28,24],
@@ -249,5 +244,10 @@ var NAVTREEINDEX202 =
 "dd/dbf/classpocketmine_1_1block_1_1_stained_hardened_glass.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,210,18],
 "dd/dbf/classpocketmine_1_1block_1_1_stained_hardened_glass.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,208,60],
 "dd/dbf/classpocketmine_1_1block_1_1_stained_hardened_glass.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,210,60],
-"dd/dbf/classpocketmine_1_1block_1_1_stained_hardened_glass.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,208,47]
+"dd/dbf/classpocketmine_1_1block_1_1_stained_hardened_glass.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,208,47],
+"dd/dbf/classpocketmine_1_1block_1_1_stained_hardened_glass.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,210,47],
+"dd/dbf/classpocketmine_1_1block_1_1_stained_hardened_glass.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,208,3],
+"dd/dbf/classpocketmine_1_1block_1_1_stained_hardened_glass.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,210,3],
+"dd/dbf/classpocketmine_1_1block_1_1_stained_hardened_glass.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,208,22],
+"dd/dbf/classpocketmine_1_1block_1_1_stained_hardened_glass.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[3,0,1,0,210,22]
 };

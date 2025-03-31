@@ -1,12 +1,15 @@
 var NAVTREEINDEX232 =
 {
+"df/d7b/classpocketmine_1_1block_1_1_wooden_slab.html#afe4928a6da38d63eccea78bd1a2fdcd3":[2,0,0,0,248,21],
+"df/d7b/classpocketmine_1_1block_1_1_wooden_slab.html#afe4928a6da38d63eccea78bd1a2fdcd3":[3,0,1,0,250,21],
+"df/d7b/classpocketmine_1_1block_1_1_wooden_slab.html#afe506084e4bb8741a7ac64f6d90c00a5":[2,0,0,0,248,16],
 "df/d7b/classpocketmine_1_1block_1_1_wooden_slab.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,250,16],
 "df/d7b/classpocketmine_1_1block_1_1_wooden_slab.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,248,27],
 "df/d7b/classpocketmine_1_1block_1_1_wooden_slab.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,250,27],
 "df/d7c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_chunk_position.html":[3,0,1,16,0,6,1,19],
 "df/d7d/_player_view_distance_change_event_8php_source.html":[4,0,0,7,3,46],
 "df/d7d/_shulker_box_open_sound_8php_source.html":[4,0,0,25,5,93],
-"df/d7f/_completed_using_item_packet_8php_source.html":[4,0,1,0,1,0,48],
+"df/d7f/_completed_using_item_packet_8php_source.html":[4,0,1,0,1,0,49],
 "df/d80/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_award_achievement_packet.html":[3,0,1,16,0,6,18],
 "df/d80/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_award_achievement_packet.html#a72a39b62907891402619491386ebfd49":[3,0,1,16,0,6,18,5],
 "df/d80/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_award_achievement_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,18,4],
@@ -38,7 +41,7 @@ var NAVTREEINDEX232 =
 "df/d81/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_spawn_particle_effect_packet.html#aef91cff646280e8440f7d12d0859195f":[3,0,1,16,0,6,190,2],
 "df/d81/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_spawn_particle_effect_packet.html#af88f9f40456d983885c18693b2d97907":[3,0,1,16,0,6,190,5],
 "df/d82/_block_state_serializer_8php_source.html":[4,0,0,5,0,0,8],
-"df/d82/_mob_effect_packet_8php_source.html":[4,0,1,0,1,0,97],
+"df/d82/_mob_effect_packet_8php_source.html":[4,0,1,0,1,0,96],
 "df/d82/_not_serializable_8php_source.html":[4,0,0,23,14],
 "df/d82/classpocketmine_1_1event_1_1block_1_1_block_death_event.html":[2,0,0,3,0,3],
 "df/d82/classpocketmine_1_1event_1_1block_1_1_block_death_event.html":[3,0,1,9,0,3],
@@ -167,7 +170,7 @@ var NAVTREEINDEX232 =
 "df/d8c/classpocketmine_1_1world_1_1particle_1_1_enderman_teleport_particle.html":[3,0,1,30,4,10],
 "df/d8c/classpocketmine_1_1world_1_1particle_1_1_enderman_teleport_particle.html#a78cc603b58bc916b3c23a415ecb2bb39":[3,0,1,30,4,10,0],
 "df/d8d/_copper_material_8php_source.html":[4,0,0,0,2,12],
-"df/d8d/_jigsaw_structure_data_packet_8php_source.html":[4,0,1,0,1,0,82],
+"df/d8d/_jigsaw_structure_data_packet_8php_source.html":[4,0,1,0,1,0,83],
 "df/d8e/_wheat_seeds_8php_source.html":[4,0,0,10,126],
 "df/d8e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_vec3_metadata_property.html":[3,0,1,16,0,6,1,2,22],
 "df/d8f/classpocketmine_1_1event_1_1player_1_1_player_chat_event.html":[2,0,0,3,3,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX232 =
 "df/da1/classpocketmine_1_1block_1_1_pumpkin_stem.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,172,18],
 "df/da1/classpocketmine_1_1block_1_1_pumpkin_stem.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,174,18],
 "df/da1/classpocketmine_1_1block_1_1_pumpkin_stem.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,172,60],
-"df/da1/classpocketmine_1_1block_1_1_pumpkin_stem.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,174,60],
-"df/da1/classpocketmine_1_1block_1_1_pumpkin_stem.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,172,47],
-"df/da1/classpocketmine_1_1block_1_1_pumpkin_stem.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,174,47],
-"df/da1/classpocketmine_1_1block_1_1_pumpkin_stem.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,172,3]
+"df/da1/classpocketmine_1_1block_1_1_pumpkin_stem.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,174,60]
 };

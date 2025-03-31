@@ -1,5 +1,16 @@
 var NAVTREEINDEX151 =
 {
+"da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,81,38],
+"da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,83,38],
+"da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,81,7],
+"da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,83,7],
+"da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,81,4],
+"da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,83,4],
+"da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#aa4773f0153324728a2f41820fa52442d":[2,0,0,0,81,17],
+"da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,83,17],
+"da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#aa7801c801485664d8b05ad3410ae9288":[2,0,0,0,81,66],
+"da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#aa7801c801485664d8b05ad3410ae9288":[3,0,1,0,83,66],
+"da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#aac6828efb885bc8fe0f8876728ddde5d":[2,0,0,0,81,34],
 "da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#aac6828efb885bc8fe0f8876728ddde5d":[3,0,1,0,83,34],
 "da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[2,0,0,0,81,31],
 "da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,83,31],
@@ -67,7 +78,7 @@ var NAVTREEINDEX151 =
 "da/d02/classpocketmine_1_1entity_1_1effect_1_1_effect_manager.html#a7d62d566cf99e829a7c6871f10cedb6e":[3,0,1,7,1,3,6],
 "da/d02/classpocketmine_1_1entity_1_1effect_1_1_effect_manager.html#aa0b8ae4bf254f1a8f051188d43763058":[3,0,1,7,1,3,8],
 "da/d02/classpocketmine_1_1entity_1_1effect_1_1_effect_manager.html#aff13435b4402bbd8a0062288be1c5ab4":[3,0,1,7,1,3,0],
-"da/d04/_player_permissions_8php_source.html":[4,0,1,0,1,0,1,65],
+"da/d04/_player_permissions_8php_source.html":[4,0,1,0,1,0,1,67],
 "da/d04/classpocketmine_1_1block_1_1_pitcher_crop.html":[2,0,0,0,164],
 "da/d04/classpocketmine_1_1block_1_1_pitcher_crop.html":[3,0,1,0,166],
 "da/d04/classpocketmine_1_1block_1_1_pitcher_crop.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,164,58],
@@ -238,16 +249,5 @@ var NAVTREEINDEX151 =
 "da/d0e/item_2_ender_pearl_8php_source.html":[4,0,0,10,43],
 "da/d10/_xbox_live_player_info_8php_source.html":[4,0,0,14,13],
 "da/d10/classpocketmine_1_1world_1_1biome_1_1_hell_biome.html":[3,0,1,30,0,5],
-"da/d10/classpocketmine_1_1world_1_1biome_1_1_hell_biome.html#a1c38e48a1e0afd5ca3362760e5deea21":[3,0,1,30,0,5,2],
-"da/d10/classpocketmine_1_1world_1_1biome_1_1_hell_biome.html#a3bd95c376c2ca535cb932b700bde38dc":[3,0,1,30,0,5,0],
-"da/d10/classpocketmine_1_1world_1_1biome_1_1_hell_biome.html#aee779e604579f71977cc5624dc8dfd0f":[3,0,1,30,0,5,1],
-"da/d11/_current_structure_feature_packet_8php_source.html":[4,0,1,0,1,0,58],
-"da/d12/_garbage_collection_task_8php_source.html":[4,0,0,18,9],
-"da/d12/_instant_damage_effect_8php_source.html":[4,0,0,6,1,6],
-"da/d12/_player_edit_book_event_8php_source.html":[4,0,0,7,3,15],
-"da/d12/classpocketmine_1_1world_1_1generator_1_1object_1_1_tree_factory.html":[3,0,1,30,2,4,9],
-"da/d12/classpocketmine_1_1world_1_1generator_1_1object_1_1_tree_factory.html#a6979190279650d4da0e9d0fa66f4b36c":[3,0,1,30,2,4,9,0],
-"da/d13/_furnace_sound_8php_source.html":[4,0,0,25,5,64],
-"da/d14/_player_toggle_sneak_event_8php_source.html":[4,0,0,7,3,42],
-"da/d14/classpocketmine_1_1world_1_1biome_1_1_taiga_biome.html":[3,0,1,30,0,15]
+"da/d10/classpocketmine_1_1world_1_1biome_1_1_hell_biome.html#a1c38e48a1e0afd5ca3362760e5deea21":[3,0,1,30,0,5,2]
 };

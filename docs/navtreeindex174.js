@@ -1,5 +1,7 @@
 var NAVTREEINDEX174 =
 {
+"db/de8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_aim_assist_category_priorities.html#a6b26c189192189985ab84578c9677c0b":[3,0,1,16,0,6,1,0,4,1],
+"db/de8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_aim_assist_category_priorities.html#ae942c4f772f96b5b5338fd8dc001180c":[3,0,1,16,0,6,1,0,4,0],
 "db/de9/_item_stack_response_8php_source.html":[4,0,1,0,1,0,1,4,1,0],
 "db/de9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_item_stack_extra_data_shield.html":[3,0,1,16,0,6,1,3,10],
 "db/de9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_item_stack_extra_data_shield.html#a112226d8501c6070c0812b98fe2aeea5":[3,0,1,16,0,6,1,3,10,0],
@@ -231,7 +233,7 @@ var NAVTREEINDEX174 =
 "dc/d05/classpocketmine_1_1block_1_1_cauldron.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,47,27],
 "dc/d05/classpocketmine_1_1block_1_1_cauldron.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,49,27],
 "dc/d06/_packet_sender_8php_source.html":[4,0,0,12,0,20],
-"dc/d06/_sub_chunk_packet_height_map_type_8php_source.html":[4,0,1,0,1,0,1,80],
+"dc/d06/_sub_chunk_packet_height_map_type_8php_source.html":[4,0,1,0,1,0,1,82],
 "dc/d06/classpocketmine_1_1event_1_1entity_1_1_entity_despawn_event.html":[2,0,0,3,1,9],
 "dc/d06/classpocketmine_1_1event_1_1entity_1_1_entity_despawn_event.html":[3,0,1,9,1,9],
 "dc/d06/classpocketmine_1_1event_1_1entity_1_1_entity_despawn_event.html#a2333d7f055234d7fefc00066158bd888":[2,0,0,3,1,9,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX174 =
 "dc/d08/_plugin_event_8php_source.html":[4,0,0,7,4,2],
 "dc/d08/classpocketmine_1_1world_1_1sound_1_1_cauldron_clean_item_sound.html":[3,0,1,30,5,29],
 "dc/d08/classpocketmine_1_1world_1_1sound_1_1_cauldron_clean_item_sound.html#abb3d85613e524f0b356a55111f2064b0":[3,0,1,30,5,29,0],
-"dc/d09/classpocketmine_1_1event_1_1world_1_1_world_load_event.html":[2,0,0,3,6,9],
-"dc/d09/classpocketmine_1_1event_1_1world_1_1_world_load_event.html":[3,0,1,9,6,9],
-"dc/d09/classpocketmine_1_1event_1_1world_1_1_world_load_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,6,9,0]
+"dc/d09/classpocketmine_1_1event_1_1world_1_1_world_load_event.html":[2,0,0,3,6,9]
 };

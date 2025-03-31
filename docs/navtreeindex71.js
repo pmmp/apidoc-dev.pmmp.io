@@ -1,5 +1,7 @@
 var NAVTREEINDEX71 =
 {
+"d5/d0c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_local_player_as_initialized_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,174,1],
+"d5/d0d/_entity_effect_event_8php_source.html":[4,0,0,7,1,11],
 "d5/d0f/_cauldron_dye_item_sound_8php_source.html":[4,0,0,25,5,30],
 "d5/d0f/_list_tag_8php_source.html":[4,0,1,0,8,0,0,9],
 "d5/d0f/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_type_serialize_exception.html":[3,0,1,6,0,1,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX71 =
 "d5/d1b/classpocketmine_1_1block_1_1_transparent.html#add4d4fd4fecc779dee9c9f94b8a556e5":[3,0,1,0,226,5],
 "d5/d1b/classpocketmine_1_1block_1_1_transparent.html#ade77e0b1fce7bdebceed4092b9c5c022":[2,0,0,0,224,33],
 "d5/d1b/classpocketmine_1_1block_1_1_transparent.html#ade77e0b1fce7bdebceed4092b9c5c022":[3,0,1,0,226,33],
-"d5/d1b/classpocketmine_1_1block_1_1_transparent.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,224,32],
-"d5/d1b/classpocketmine_1_1block_1_1_transparent.html#ae829b9f476afef6b23d6f4f7fd558e0f":[3,0,1,0,226,32],
-"d5/d1b/classpocketmine_1_1block_1_1_transparent.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,224,54]
+"d5/d1b/classpocketmine_1_1block_1_1_transparent.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,224,32]
 };

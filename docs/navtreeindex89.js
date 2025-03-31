@@ -1,5 +1,7 @@
 var NAVTREEINDEX89 =
 {
+"d6/d4e/classpocketmine_1_1block_1_1inventory_1_1_enchant_inventory.html#a010a9ab31edc7fa850b79849037cede7":[3,0,1,0,0,9,22],
+"d6/d4e/classpocketmine_1_1block_1_1inventory_1_1_enchant_inventory.html#a0d82853303c17a6f720b487287092395":[3,0,1,0,0,9,17],
 "d6/d4e/classpocketmine_1_1block_1_1inventory_1_1_enchant_inventory.html#a295a782543c002623d01ec47a6e93329":[3,0,1,0,0,9,24],
 "d6/d4e/classpocketmine_1_1block_1_1inventory_1_1_enchant_inventory.html#a43e646d154a8134eb1e7294d158d576d":[3,0,1,0,0,9,9],
 "d6/d4e/classpocketmine_1_1block_1_1inventory_1_1_enchant_inventory.html#a46ca31398256b2a5fecddd025587579b":[3,0,1,0,0,9,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX89 =
 "d6/d5a/classpocketmine_1_1item_1_1_coal.html#a7b5c1e7e496c3077658212aaacec4b56":[3,0,1,12,24,15],
 "d6/d5a/classpocketmine_1_1item_1_1_coal.html#a7d45886d40860e24fb4c18d02a3d1a32":[2,0,0,5,23,14],
 "d6/d5a/classpocketmine_1_1item_1_1_coal.html#a7d45886d40860e24fb4c18d02a3d1a32":[3,0,1,12,24,14],
-"d6/d5a/classpocketmine_1_1item_1_1_coal.html#a8e97e9296238bf8794a2d2f8e94e8a93":[2,0,0,5,23,47],
-"d6/d5a/classpocketmine_1_1item_1_1_coal.html#a8e97e9296238bf8794a2d2f8e94e8a93":[3,0,1,12,24,47],
-"d6/d5a/classpocketmine_1_1item_1_1_coal.html#a95cfab40de7390593990a239f8e4af73":[2,0,0,5,23,11]
+"d6/d5a/classpocketmine_1_1item_1_1_coal.html#a8e97e9296238bf8794a2d2f8e94e8a93":[2,0,0,5,23,47]
 };

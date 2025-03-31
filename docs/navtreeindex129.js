@@ -1,5 +1,6 @@
 var NAVTREEINDEX129 =
 {
+"d8/d8c/classpocketmine_1_1world_1_1biome_1_1_unknown_biome.html#a3bd95c376c2ca535cb932b700bde38dc":[3,0,1,30,0,16,0],
 "d8/d8c/classpocketmine_1_1world_1_1biome_1_1_unknown_biome.html#aee779e604579f71977cc5624dc8dfd0f":[3,0,1,30,0,16,1],
 "d8/d8d/_plugin_loadability_checker_8php_source.html":[4,0,0,15,12],
 "d8/d8d/_thin_8php_source.html":[4,0,0,0,221],
@@ -248,6 +249,5 @@ var NAVTREEINDEX129 =
 "d8/da6/classpocketmine_1_1block_1_1_lava_cauldron.html#a3de3a326f308fd801034c17ee2ead7b1":[3,0,1,0,137,68],
 "d8/da6/classpocketmine_1_1block_1_1_lava_cauldron.html#a3ef079108b3e44fde46cd07f7a40965f":[2,0,0,0,135,59],
 "d8/da6/classpocketmine_1_1block_1_1_lava_cauldron.html#a3ef079108b3e44fde46cd07f7a40965f":[3,0,1,0,137,59],
-"d8/da6/classpocketmine_1_1block_1_1_lava_cauldron.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,135,47],
-"d8/da6/classpocketmine_1_1block_1_1_lava_cauldron.html#a43e3458847422ebd5dec6c914b443c93":[3,0,1,0,137,47]
+"d8/da6/classpocketmine_1_1block_1_1_lava_cauldron.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,135,47]
 };

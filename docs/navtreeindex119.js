@@ -1,5 +1,6 @@
 var NAVTREEINDEX119 =
 {
+"d8/d07/classpocketmine_1_1item_1_1_bamboo.html#abd2688f008221d4c5fcdacac754d807e":[3,0,1,12,8,36],
 "d8/d07/classpocketmine_1_1item_1_1_bamboo.html#abe253aa6fbfe2fc36389edadb753ffc7":[2,0,0,5,7,18],
 "d8/d07/classpocketmine_1_1item_1_1_bamboo.html#abe253aa6fbfe2fc36389edadb753ffc7":[3,0,1,12,8,18],
 "d8/d07/classpocketmine_1_1item_1_1_bamboo.html#ac534c116a4d2291a8d67f15c4b485b74":[2,0,0,5,7,25],
@@ -28,10 +29,10 @@ var NAVTREEINDEX119 =
 "d8/d07/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_type_converter.html#a1b87a8dcf4c2086ffae7093758520138":[3,0,1,16,0,3,8,0],
 "d8/d07/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_type_converter.html#a6552f8687c95d7874167288ed69496ab":[3,0,1,16,0,3,8,1],
 "d8/d08/_nameable_8php_source.html":[4,0,0,0,1,26],
-"d8/d08/_scoreboard_identity_packet_entry_8php_source.html":[4,0,1,0,1,0,1,67],
+"d8/d08/_scoreboard_identity_packet_entry_8php_source.html":[4,0,1,0,1,0,1,69],
 "d8/d0a/_shovel_8php_source.html":[4,0,0,10,104],
 "d8/d0a/_spawn_response_packet_handler_8php_source.html":[4,0,0,12,0,5,12],
-"d8/d0b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_packet_decode_exception.html":[3,0,1,16,0,6,116],
+"d8/d0b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_packet_decode_exception.html":[3,0,1,16,0,6,114],
 "d8/d0c/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_object_to_state_serializer.html":[3,0,1,6,0,0,0,0],
 "d8/d0c/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_object_to_state_serializer.html#a0540fddd9e0a4e4d00f07986060cfdef":[3,0,1,6,0,0,0,0,0],
 "d8/d0c/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_object_to_state_serializer.html#a557a1744afd83b7b32e8ca119d13bb93":[3,0,1,6,0,0,0,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX119 =
 "d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aabd7c38d2f74e537da5bcc6149570fd8":[3,0,1,12,13,17],
 "d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aad9f6fbf32449170a157b787d4227ee6":[2,0,0,5,12,28],
 "d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aad9f6fbf32449170a157b787d4227ee6":[3,0,1,12,13,28],
-"d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aba073e91196cf2978057ec4d3842aa76":[2,0,0,5,12,39],
-"d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aba073e91196cf2978057ec4d3842aa76":[3,0,1,12,13,39]
+"d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aba073e91196cf2978057ec4d3842aa76":[2,0,0,5,12,39]
 };

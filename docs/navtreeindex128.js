@@ -1,5 +1,6 @@
 var NAVTREEINDEX128 =
 {
+"d8/d82/classpocketmine_1_1item_1_1_armor_type_info.html":[2,0,0,5,3],
 "d8/d82/classpocketmine_1_1item_1_1_armor_type_info.html":[3,0,1,12,4],
 "d8/d83/classpocketmine_1_1item_1_1_spider_eye.html":[2,0,0,5,100],
 "d8/d83/classpocketmine_1_1item_1_1_spider_eye.html":[3,0,1,12,101],
@@ -112,7 +113,7 @@ var NAVTREEINDEX128 =
 "d8/d84/_particle_command_8php_source.html":[4,0,0,1,0,21],
 "d8/d85/_brown_mushroom_block_8php_source.html":[4,0,0,0,36],
 "d8/d87/_axis_aligned_b_b_8php_source.html":[4,0,1,0,7,0,1],
-"d8/d87/_item_interaction_data_8php_source.html":[4,0,1,0,1,0,1,44],
+"d8/d87/_item_interaction_data_8php_source.html":[4,0,1,0,1,0,1,45],
 "d8/d87/_material_reducer_recipe_8php_source.html":[4,0,1,0,1,0,1,6,7],
 "d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html":[2,0,0,5,114],
 "d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html":[3,0,1,12,115],
@@ -248,6 +249,5 @@ var NAVTREEINDEX128 =
 "d8/d8b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1recipe_1_1_recipe_unlocking_requirement.html#af9d781d01cbb85529f0a19598adb4b65":[3,0,1,16,0,6,1,5,14,1],
 "d8/d8c/_sponge_8php_source.html":[4,0,0,0,205],
 "d8/d8c/classpocketmine_1_1world_1_1biome_1_1_unknown_biome.html":[3,0,1,30,0,16],
-"d8/d8c/classpocketmine_1_1world_1_1biome_1_1_unknown_biome.html#a1c38e48a1e0afd5ca3362760e5deea21":[3,0,1,30,0,16,2],
-"d8/d8c/classpocketmine_1_1world_1_1biome_1_1_unknown_biome.html#a3bd95c376c2ca535cb932b700bde38dc":[3,0,1,30,0,16,0]
+"d8/d8c/classpocketmine_1_1world_1_1biome_1_1_unknown_biome.html#a1c38e48a1e0afd5ca3362760e5deea21":[3,0,1,30,0,16,2]
 };

@@ -1,11 +1,5 @@
 var NAVTREEINDEX61 =
 {
-"d4/d66/classpocketmine_1_1block_1_1_furnace.html#ab5915acb758b046b90fbc407929eb3e0":[2,0,0,0,108,13],
-"d4/d66/classpocketmine_1_1block_1_1_furnace.html#ab5915acb758b046b90fbc407929eb3e0":[3,0,1,0,110,13],
-"d4/d66/classpocketmine_1_1block_1_1_furnace.html#ab6b90601adfc9732893dcffe256514a9":[2,0,0,0,108,64],
-"d4/d66/classpocketmine_1_1block_1_1_furnace.html#ab6b90601adfc9732893dcffe256514a9":[3,0,1,0,110,64],
-"d4/d66/classpocketmine_1_1block_1_1_furnace.html#ab92353cf0aa5c05ad26535f98a2b1dca":[2,0,0,0,108,26],
-"d4/d66/classpocketmine_1_1block_1_1_furnace.html#ab92353cf0aa5c05ad26535f98a2b1dca":[3,0,1,0,110,26],
 "d4/d66/classpocketmine_1_1block_1_1_furnace.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[2,0,0,0,108,12],
 "d4/d66/classpocketmine_1_1block_1_1_furnace.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[3,0,1,0,110,12],
 "d4/d66/classpocketmine_1_1block_1_1_furnace.html#ac85f12ad4e4d729db9f27ecb8e97998b":[2,0,0,0,108,51],
@@ -249,5 +243,11 @@ var NAVTREEINDEX61 =
 "d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a49a05b01faaaf071449c97060fe44926":[2,0,0,5,45,1],
 "d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a49a05b01faaaf071449c97060fe44926":[3,0,1,12,46,1],
 "d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a4a9aa55600bb30c4d55ad63337874a07":[2,0,0,5,45,7],
-"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a4a9aa55600bb30c4d55ad63337874a07":[3,0,1,12,46,7]
+"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a4a9aa55600bb30c4d55ad63337874a07":[3,0,1,12,46,7],
+"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a51b97f07ff97887a144198bb3dba6fc4":[2,0,0,5,45,21],
+"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a51b97f07ff97887a144198bb3dba6fc4":[3,0,1,12,46,21],
+"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a536378f334334c0e8b06e5ccaeb4de39":[2,0,0,5,45,33],
+"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a536378f334334c0e8b06e5ccaeb4de39":[3,0,1,12,46,33],
+"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a5b53d78436bbdb5d53102fda463be4e6":[2,0,0,5,45,54],
+"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a5b53d78436bbdb5d53102fda463be4e6":[3,0,1,12,46,54]
 };

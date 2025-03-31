@@ -1,5 +1,16 @@
 var NAVTREEINDEX133 =
 {
+"d8/dd4/classpocketmine_1_1block_1_1_chorus_plant.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,57,65],
+"d8/dd4/classpocketmine_1_1block_1_1_chorus_plant.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,55,38],
+"d8/dd4/classpocketmine_1_1block_1_1_chorus_plant.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,57,38],
+"d8/dd4/classpocketmine_1_1block_1_1_chorus_plant.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,55,7],
+"d8/dd4/classpocketmine_1_1block_1_1_chorus_plant.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,57,7],
+"d8/dd4/classpocketmine_1_1block_1_1_chorus_plant.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,55,4],
+"d8/dd4/classpocketmine_1_1block_1_1_chorus_plant.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,57,4],
+"d8/dd4/classpocketmine_1_1block_1_1_chorus_plant.html#aa4773f0153324728a2f41820fa52442d":[2,0,0,0,55,17],
+"d8/dd4/classpocketmine_1_1block_1_1_chorus_plant.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,57,17],
+"d8/dd4/classpocketmine_1_1block_1_1_chorus_plant.html#aac6828efb885bc8fe0f8876728ddde5d":[2,0,0,0,55,34],
+"d8/dd4/classpocketmine_1_1block_1_1_chorus_plant.html#aac6828efb885bc8fe0f8876728ddde5d":[3,0,1,0,57,34],
 "d8/dd4/classpocketmine_1_1block_1_1_chorus_plant.html#aad121ffc31a225748d5bcc0e0752a9f0":[2,0,0,0,55,23],
 "d8/dd4/classpocketmine_1_1block_1_1_chorus_plant.html#aad121ffc31a225748d5bcc0e0752a9f0":[3,0,1,0,57,23],
 "d8/dd4/classpocketmine_1_1block_1_1_chorus_plant.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[2,0,0,0,55,31],
@@ -238,16 +249,5 @@ var NAVTREEINDEX133 =
 "d8/de9/classpocketmine_1_1world_1_1sound_1_1_potion_finish_brewing_sound.html#ad44f246e4492b3ea97df87b20e329bb9":[3,0,1,30,5,82,0],
 "d8/dea/_legacy_string_to_item_parser_8php_source.html":[4,0,0,10,69],
 "d8/dea/_stick_8php_source.html":[4,0,0,10,111],
-"d8/deb/classpocketmine_1_1block_1_1_leaves.html":[2,0,0,0,136],
-"d8/deb/classpocketmine_1_1block_1_1_leaves.html":[3,0,1,0,138],
-"d8/deb/classpocketmine_1_1block_1_1_leaves.html#a028afd613a6f42370ede9aec4c9796d6":[2,0,0,0,136,49],
-"d8/deb/classpocketmine_1_1block_1_1_leaves.html#a028afd613a6f42370ede9aec4c9796d6":[3,0,1,0,138,49],
-"d8/deb/classpocketmine_1_1block_1_1_leaves.html#a0553ddec2932b546c6ac19d7ab29b6f0":[2,0,0,0,136,25],
-"d8/deb/classpocketmine_1_1block_1_1_leaves.html#a0553ddec2932b546c6ac19d7ab29b6f0":[3,0,1,0,138,25],
-"d8/deb/classpocketmine_1_1block_1_1_leaves.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,136,59],
-"d8/deb/classpocketmine_1_1block_1_1_leaves.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,138,59],
-"d8/deb/classpocketmine_1_1block_1_1_leaves.html#a09f4667329f89292dd319d56c4243b59":[2,0,0,0,136,31],
-"d8/deb/classpocketmine_1_1block_1_1_leaves.html#a09f4667329f89292dd319d56c4243b59":[3,0,1,0,138,31],
-"d8/deb/classpocketmine_1_1block_1_1_leaves.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,136,19],
-"d8/deb/classpocketmine_1_1block_1_1_leaves.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,138,19]
+"d8/deb/classpocketmine_1_1block_1_1_leaves.html":[2,0,0,0,136]
 };

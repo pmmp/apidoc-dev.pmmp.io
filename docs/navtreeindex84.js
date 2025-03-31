@@ -1,5 +1,7 @@
 var NAVTREEINDEX84 =
 {
+"d5/dd4/classpocketmine_1_1block_1_1_planks.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,167,54],
+"d5/dd4/classpocketmine_1_1block_1_1_planks.html#af45a3d45c4ab6528c6641915722b9de8":[2,0,0,0,165,6],
 "d5/dd4/classpocketmine_1_1block_1_1_planks.html#af45a3d45c4ab6528c6641915722b9de8":[3,0,1,0,167,6],
 "d5/dd4/classpocketmine_1_1block_1_1_planks.html#af97d045122137ac415425b45e7b22a36":[2,0,0,0,165,49],
 "d5/dd4/classpocketmine_1_1block_1_1_planks.html#af97d045122137ac415425b45e7b22a36":[3,0,1,0,167,49],
@@ -28,7 +30,7 @@ var NAVTREEINDEX84 =
 "d5/dd4/classpocketmine_1_1event_1_1server_1_1_data_packet_send_event.html#afb1af1669b4289d6aaf41cc06e5596f8":[2,0,0,3,5,3,2],
 "d5/dd4/classpocketmine_1_1event_1_1server_1_1_data_packet_send_event.html#afb1af1669b4289d6aaf41cc06e5596f8":[3,0,1,9,5,3,2],
 "d5/dd6/world_2generator_2populator_2_tall_grass_8php_source.html":[4,0,0,25,2,5,3],
-"d5/ddb/_lectern_update_packet_8php_source.html":[4,0,1,0,1,0,84],
+"d5/ddb/_lectern_update_packet_8php_source.html":[4,0,1,0,1,0,85],
 "d5/ddc/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_level_sound_event.html":[3,0,1,16,0,6,1,46],
 "d5/ddd/_amethyst_cluster_8php_source.html":[4,0,0,0,5],
 "d5/ddd/_wooden_trapdoor_8php_source.html":[4,0,0,0,252],
@@ -247,7 +249,5 @@ var NAVTREEINDEX84 =
 "d5/df3/classpocketmine_1_1block_1_1_glass_pane.html#add4d4fd4fecc779dee9c9f94b8a556e5":[3,0,1,0,113,5],
 "d5/df3/classpocketmine_1_1block_1_1_glass_pane.html#ade77e0b1fce7bdebceed4092b9c5c022":[2,0,0,0,111,33],
 "d5/df3/classpocketmine_1_1block_1_1_glass_pane.html#ade77e0b1fce7bdebceed4092b9c5c022":[3,0,1,0,113,33],
-"d5/df3/classpocketmine_1_1block_1_1_glass_pane.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,111,32],
-"d5/df3/classpocketmine_1_1block_1_1_glass_pane.html#ae829b9f476afef6b23d6f4f7fd558e0f":[3,0,1,0,113,32],
-"d5/df3/classpocketmine_1_1block_1_1_glass_pane.html#aeb29d78d84483905346d3c777f860ed5":[2,0,0,0,111,63]
+"d5/df3/classpocketmine_1_1block_1_1_glass_pane.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,111,32]
 };

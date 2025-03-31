@@ -1,5 +1,6 @@
 var NAVTREEINDEX112 =
 {
+"d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a4cf9d206e4c05add6ebbb00bc3d25cc0":[2,0,0,0,41,65],
 "d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a4cf9d206e4c05add6ebbb00bc3d25cc0":[3,0,1,0,43,65],
 "d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a4e275718f9d3aea77ff35dc3d32e0f9f":[2,0,0,0,41,60],
 "d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a4e275718f9d3aea77ff35dc3d32e0f9f":[3,0,1,0,43,60],
@@ -231,7 +232,7 @@ var NAVTREEINDEX112 =
 "d7/da2/classpocketmine_1_1player_1_1_xbox_live_player_info.html":[3,0,1,18,11],
 "d7/da2/classpocketmine_1_1player_1_1_xbox_live_player_info.html#a0935730434c7d0d55a70100adddc96ae":[3,0,1,18,11,1],
 "d7/da2/classpocketmine_1_1player_1_1_xbox_live_player_info.html#ad49ab2cfea72ac999e2bf075e6f0f4d1":[3,0,1,18,11,0],
-"d7/da3/_update_equip_packet_8php_source.html":[4,0,1,0,1,0,214],
+"d7/da3/_update_equip_packet_8php_source.html":[4,0,1,0,1,0,215],
 "d7/da3/classpocketmine_1_1block_1_1_beetroot.html":[2,0,0,0,18],
 "d7/da3/classpocketmine_1_1block_1_1_beetroot.html":[3,0,1,0,20],
 "d7/da3/classpocketmine_1_1block_1_1_beetroot.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,18,58],
@@ -248,6 +249,5 @@ var NAVTREEINDEX112 =
 "d7/da3/classpocketmine_1_1block_1_1_beetroot.html#a15fbf8c3ff23de595d3fc2f18ee14177":[3,0,1,0,20,59],
 "d7/da3/classpocketmine_1_1block_1_1_beetroot.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,18,60],
 "d7/da3/classpocketmine_1_1block_1_1_beetroot.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,20,60],
-"d7/da3/classpocketmine_1_1block_1_1_beetroot.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,18,47],
-"d7/da3/classpocketmine_1_1block_1_1_beetroot.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,20,47]
+"d7/da3/classpocketmine_1_1block_1_1_beetroot.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,18,47]
 };

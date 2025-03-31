@@ -1,11 +1,5 @@
 var NAVTREEINDEX197 =
 {
-"dd/d3c/classpocketmine_1_1command_1_1defaults_1_1_title_command.html#a57c09d1063bc811e24bdc3d750e882d5":[3,0,1,2,0,36,4],
-"dd/d3c/classpocketmine_1_1command_1_1defaults_1_1_title_command.html#a8c40c93db847fcf02c3e7b19a729dd10":[3,0,1,2,0,36,5],
-"dd/d3c/classpocketmine_1_1command_1_1defaults_1_1_title_command.html#ac9790f6d386568af660860ceb824ee9a":[3,0,1,2,0,36,3],
-"dd/d3c/classpocketmine_1_1command_1_1defaults_1_1_title_command.html#acbccfc9431699f8cefb66e359419e1df":[3,0,1,2,0,36,1],
-"dd/d3d/_buffered_logger_8php_source.html":[4,0,1,0,6,0,1],
-"dd/d40/_colored_trait_8php_source.html":[4,0,0,0,2,11],
 "dd/d40/_item_block_wall_or_floor_8php_source.html":[4,0,0,10,63],
 "dd/d40/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_play_mode.html":[3,0,1,16,0,6,1,62],
 "dd/d40/classpocketmine_1_1world_1_1generator_1_1object_1_1_acacia_tree.html":[3,0,1,30,2,4,0],
@@ -249,5 +243,11 @@ var NAVTREEINDEX197 =
 "dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,53,65],
 "dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,51,38],
 "dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,53,38],
-"dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,51,7]
+"dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,51,7],
+"dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,53,7],
+"dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,51,4],
+"dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,53,4],
+"dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#aa4773f0153324728a2f41820fa52442d":[2,0,0,0,51,17],
+"dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,53,17],
+"dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#aac6828efb885bc8fe0f8876728ddde5d":[2,0,0,0,51,34]
 };
