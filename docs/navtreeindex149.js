@@ -1,5 +1,11 @@
 var NAVTREEINDEX149 =
 {
+"d9/dc4/classpocketmine_1_1block_1_1_item_frame.html#af85e45eff3ed9638a49da08745b5244e":[3,0,1,0,131,48],
+"d9/dc4/classpocketmine_1_1block_1_1_item_frame.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,0,0,129,29],
+"d9/dc4/classpocketmine_1_1block_1_1_item_frame.html#afcc19c437c8bef4487f5ecb956ae9a1a":[3,0,1,0,131,29],
+"d9/dc4/classpocketmine_1_1block_1_1_item_frame.html#afe4928a6da38d63eccea78bd1a2fdcd3":[2,0,0,0,129,21],
+"d9/dc4/classpocketmine_1_1block_1_1_item_frame.html#afe4928a6da38d63eccea78bd1a2fdcd3":[3,0,1,0,131,21],
+"d9/dc4/classpocketmine_1_1block_1_1_item_frame.html#afe506084e4bb8741a7ac64f6d90c00a5":[2,0,0,0,129,16],
 "d9/dc4/classpocketmine_1_1block_1_1_item_frame.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,131,16],
 "d9/dc4/classpocketmine_1_1block_1_1_item_frame.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,129,27],
 "d9/dc4/classpocketmine_1_1block_1_1_item_frame.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,131,27],
@@ -243,11 +249,5 @@ var NAVTREEINDEX149 =
 "d9/de9/classpocketmine_1_1world_1_1generator_1_1_flat_generator_options.html#a7a15c455e7881cb7d66446e4d5975708":[3,0,1,30,2,7,3],
 "d9/de9/classpocketmine_1_1world_1_1generator_1_1_flat_generator_options.html#a84049a7366c36a77e9d710d06f0cc112":[2,0,0,14,0,3,4],
 "d9/de9/classpocketmine_1_1world_1_1generator_1_1_flat_generator_options.html#a84049a7366c36a77e9d710d06f0cc112":[3,0,1,30,2,7,4],
-"d9/de9/classpocketmine_1_1world_1_1generator_1_1_flat_generator_options.html#a9e690338423fc4b7ee279872a482540e":[2,0,0,14,0,3,0],
-"d9/de9/classpocketmine_1_1world_1_1generator_1_1_flat_generator_options.html#a9e690338423fc4b7ee279872a482540e":[3,0,1,30,2,7,0],
-"d9/de9/classpocketmine_1_1world_1_1generator_1_1_flat_generator_options.html#ab812955d3af807d3b74b77a381e859d4":[2,0,0,14,0,3,2],
-"d9/de9/classpocketmine_1_1world_1_1generator_1_1_flat_generator_options.html#ab812955d3af807d3b74b77a381e859d4":[3,0,1,30,2,7,2],
-"d9/de9/classpocketmine_1_1world_1_1generator_1_1_flat_generator_options.html#ad07d3f5fa92f3eceaa0abe250a234b5b":[2,0,0,14,0,3,1],
-"d9/de9/classpocketmine_1_1world_1_1generator_1_1_flat_generator_options.html#ad07d3f5fa92f3eceaa0abe250a234b5b":[3,0,1,30,2,7,1],
-"d9/dea/_molang_item_descriptor_8php_source.html":[4,0,1,0,1,0,1,6,9]
+"d9/de9/classpocketmine_1_1world_1_1generator_1_1_flat_generator_options.html#a9e690338423fc4b7ee279872a482540e":[2,0,0,14,0,3,0]
 };

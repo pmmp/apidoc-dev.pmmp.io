@@ -1,5 +1,11 @@
 var NAVTREEINDEX140 =
 {
+"d9/d20/classpocketmine_1_1block_1_1_door.html#a2694b09ef415f28eb7910ef3c5629e40":[2,0,0,0,80,64],
+"d9/d20/classpocketmine_1_1block_1_1_door.html#a2694b09ef415f28eb7910ef3c5629e40":[3,0,1,0,82,64],
+"d9/d20/classpocketmine_1_1block_1_1_door.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,80,22],
+"d9/d20/classpocketmine_1_1block_1_1_door.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[3,0,1,0,82,22],
+"d9/d20/classpocketmine_1_1block_1_1_door.html#a286fc64348f13417dcb6106c2695911b":[2,0,0,0,80,2],
+"d9/d20/classpocketmine_1_1block_1_1_door.html#a286fc64348f13417dcb6106c2695911b":[3,0,1,0,82,2],
 "d9/d20/classpocketmine_1_1block_1_1_door.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[2,0,0,0,80,25],
 "d9/d20/classpocketmine_1_1block_1_1_door.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[3,0,1,0,82,25],
 "d9/d20/classpocketmine_1_1block_1_1_door.html#a30a070aa7befb02f9fff5cbf2693c01e":[2,0,0,0,80,9],
@@ -243,11 +249,5 @@ var NAVTREEINDEX140 =
 "d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#ac85f12ad4e4d729db9f27ecb8e97998b":[2,0,0,0,201,51],
 "d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,203,51],
 "d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#acb449b40461f4800cf6e6288cb9a069d":[2,0,0,0,201,0],
-"d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#acb449b40461f4800cf6e6288cb9a069d":[3,0,1,0,203,0],
-"d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,201,24],
-"d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#acb7cc5bba94398c6a329b3b2af8fa859":[3,0,1,0,203,24],
-"d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[2,0,0,0,201,57],
-"d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[3,0,1,0,203,57],
-"d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#acfa7766036568571b645ae89ceb1029e":[2,0,0,0,201,43],
-"d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#acfa7766036568571b645ae89ceb1029e":[3,0,1,0,203,43]
+"d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#acb449b40461f4800cf6e6288cb9a069d":[3,0,1,0,203,0]
 };

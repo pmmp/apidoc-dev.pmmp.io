@@ -1,5 +1,10 @@
 var NAVTREEINDEX72 =
 {
+"d5/d1b/classpocketmine_1_1block_1_1_transparent.html#add4d4fd4fecc779dee9c9f94b8a556e5":[2,0,0,0,224,5],
+"d5/d1b/classpocketmine_1_1block_1_1_transparent.html#add4d4fd4fecc779dee9c9f94b8a556e5":[3,0,1,0,226,5],
+"d5/d1b/classpocketmine_1_1block_1_1_transparent.html#ade77e0b1fce7bdebceed4092b9c5c022":[2,0,0,0,224,33],
+"d5/d1b/classpocketmine_1_1block_1_1_transparent.html#ade77e0b1fce7bdebceed4092b9c5c022":[3,0,1,0,226,33],
+"d5/d1b/classpocketmine_1_1block_1_1_transparent.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,224,32],
 "d5/d1b/classpocketmine_1_1block_1_1_transparent.html#ae829b9f476afef6b23d6f4f7fd558e0f":[3,0,1,0,226,32],
 "d5/d1b/classpocketmine_1_1block_1_1_transparent.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,224,54],
 "d5/d1b/classpocketmine_1_1block_1_1_transparent.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,226,54],
@@ -244,10 +249,5 @@ var NAVTREEINDEX72 =
 "d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,90,19],
 "d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,92,19],
 "d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#ab51ea2314ed5df2163bca971a462fb72":[2,0,0,0,90,8],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#ab51ea2314ed5df2163bca971a462fb72":[3,0,1,0,92,8],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#ab6b90601adfc9732893dcffe256514a9":[2,0,0,0,90,64],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#ab6b90601adfc9732893dcffe256514a9":[3,0,1,0,92,64],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#ab92353cf0aa5c05ad26535f98a2b1dca":[2,0,0,0,90,26],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#ab92353cf0aa5c05ad26535f98a2b1dca":[3,0,1,0,92,26],
-"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[2,0,0,0,90,12]
+"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#ab51ea2314ed5df2163bca971a462fb72":[3,0,1,0,92,8]
 };

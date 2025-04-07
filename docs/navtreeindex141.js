@@ -1,5 +1,11 @@
 var NAVTREEINDEX141 =
 {
+"d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,201,24],
+"d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#acb7cc5bba94398c6a329b3b2af8fa859":[3,0,1,0,203,24],
+"d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[2,0,0,0,201,57],
+"d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[3,0,1,0,203,57],
+"d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#acfa7766036568571b645ae89ceb1029e":[2,0,0,0,201,43],
+"d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#acfa7766036568571b645ae89ceb1029e":[3,0,1,0,203,43],
 "d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#ad57a8bddf87431ff034f3a96e7219d63":[2,0,0,0,201,15],
 "d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#ad57a8bddf87431ff034f3a96e7219d63":[3,0,1,0,203,15],
 "d9/d23/classpocketmine_1_1block_1_1_soul_fire.html#ad77e92bae31d278e3b6fa3e3033a55f7":[2,0,0,0,201,20],
@@ -243,11 +249,5 @@ var NAVTREEINDEX141 =
 "d9/d40/classpocketmine_1_1world_1_1sound_1_1_xp_collect_sound.html#ac5106536c2f63c98f16fa0f5bf0ca7f7":[3,0,1,30,5,99,0],
 "d9/d41/_region_location_table_entry_8php_source.html":[4,0,0,25,1,0,3,8],
 "d9/d42/classpocketmine_1_1world_1_1biome_1_1_ice_plains_biome.html":[3,0,1,30,0,6],
-"d9/d42/classpocketmine_1_1world_1_1biome_1_1_ice_plains_biome.html#a1c38e48a1e0afd5ca3362760e5deea21":[3,0,1,30,0,6,2],
-"d9/d42/classpocketmine_1_1world_1_1biome_1_1_ice_plains_biome.html#a3bd95c376c2ca535cb932b700bde38dc":[3,0,1,30,0,6,0],
-"d9/d42/classpocketmine_1_1world_1_1biome_1_1_ice_plains_biome.html#aee779e604579f71977cc5624dc8dfd0f":[3,0,1,30,0,6,1],
-"d9/d43/classpocketmine_1_1_time_tracking_sleeper_handler.html":[2,0,0,22],
-"d9/d43/classpocketmine_1_1_time_tracking_sleeper_handler.html":[3,0,1,38],
-"d9/d43/classpocketmine_1_1_time_tracking_sleeper_handler.html#a04e4b325df3590310bdccb730ebf973c":[2,0,0,22,3],
-"d9/d43/classpocketmine_1_1_time_tracking_sleeper_handler.html#a04e4b325df3590310bdccb730ebf973c":[3,0,1,38,3]
+"d9/d42/classpocketmine_1_1world_1_1biome_1_1_ice_plains_biome.html#a1c38e48a1e0afd5ca3362760e5deea21":[3,0,1,30,0,6,2]
 };

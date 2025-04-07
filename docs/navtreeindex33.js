@@ -1,5 +1,8 @@
 var NAVTREEINDEX33 =
 {
+"d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a2bd1fab41c3720c1ec9f75997958c223":[3,0,1,7,10,36],
+"d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a4087e033dc45159d7379699024657047":[2,0,0,2,5,15],
+"d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a4087e033dc45159d7379699024657047":[3,0,1,7,10,15],
 "d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a4101d0cffe7303801b827969c461ed8b":[2,0,0,2,5,5],
 "d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a4101d0cffe7303801b827969c461ed8b":[3,0,1,7,10,5],
 "d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a4b1a5210337efa1cbc001cd937cc6723":[2,0,0,2,5,39],
@@ -246,8 +249,5 @@ var NAVTREEINDEX33 =
 "d2/d47/_blaze_shoot_sound_8php_source.html":[4,0,0,25,5,16],
 "d2/d47/_block_break_event_8php_source.html":[4,0,0,7,0,1],
 "d2/d4e/_command_string_helper_8php_source.html":[4,0,0,1,1,1],
-"d2/d4e/_grassy_biome_8php_source.html":[4,0,0,25,0,4],
-"d2/d4f/_comparator_8php_source.html":[4,0,0,0,1,11],
-"d2/d51/_transaction_builder_8php_source.html":[4,0,0,9,1,4],
-"d2/d51/classpocketmine_1_1block_1_1tile_1_1_spore_blossom.html":[2,0,0,0,0,32]
+"d2/d4e/_grassy_biome_8php_source.html":[4,0,0,25,0,4]
 };

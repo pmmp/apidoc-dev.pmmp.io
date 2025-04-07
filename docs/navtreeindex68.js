@@ -1,5 +1,10 @@
 var NAVTREEINDEX68 =
 {
+"d4/ddb/classpocketmine_1_1item_1_1_projectile_item.html#a7d45886d40860e24fb4c18d02a3d1a32":[2,0,0,5,80,14],
+"d4/ddb/classpocketmine_1_1item_1_1_projectile_item.html#a7d45886d40860e24fb4c18d02a3d1a32":[3,0,1,12,81,14],
+"d4/ddb/classpocketmine_1_1item_1_1_projectile_item.html#a8e97e9296238bf8794a2d2f8e94e8a93":[2,0,0,5,80,47],
+"d4/ddb/classpocketmine_1_1item_1_1_projectile_item.html#a8e97e9296238bf8794a2d2f8e94e8a93":[3,0,1,12,81,47],
+"d4/ddb/classpocketmine_1_1item_1_1_projectile_item.html#a95cfab40de7390593990a239f8e4af73":[2,0,0,5,80,11],
 "d4/ddb/classpocketmine_1_1item_1_1_projectile_item.html#a95cfab40de7390593990a239f8e4af73":[3,0,1,12,81,11],
 "d4/ddb/classpocketmine_1_1item_1_1_projectile_item.html#a9866a7ab362cec28252d67f6382a4ad4":[2,0,0,5,80,31],
 "d4/ddb/classpocketmine_1_1item_1_1_projectile_item.html#a9866a7ab362cec28252d67f6382a4ad4":[3,0,1,12,81,31],
@@ -244,10 +249,5 @@ var NAVTREEINDEX68 =
 "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a36afea9f0214193963f75577e8d48c26":[2,0,0,0,69,59],
 "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a36afea9f0214193963f75577e8d48c26":[3,0,1,0,71,59],
 "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,0,0,69,10],
-"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,71,10],
-"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,69,44],
-"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a43e3458847422ebd5dec6c914b443c93":[3,0,1,0,71,44],
-"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a49395de82d025ca78745a17528049f18":[2,0,0,0,69,52],
-"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a49395de82d025ca78745a17528049f18":[3,0,1,0,71,52],
-"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[2,0,0,0,69,36]
+"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,71,10]
 };

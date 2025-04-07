@@ -1,5 +1,12 @@
 var NAVTREEINDEX228 =
 {
+"df/d66/classpocketmine_1_1command_1_1defaults_1_1_set_world_spawn_command.html#ac9790f6d386568af660860ceb824ee9a":[3,0,1,2,0,28,3],
+"df/d66/classpocketmine_1_1command_1_1defaults_1_1_set_world_spawn_command.html#acbccfc9431699f8cefb66e359419e1df":[3,0,1,2,0,28,1],
+"df/d67/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_request_network_settings_packet.html":[3,0,1,16,0,6,146],
+"df/d67/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_request_network_settings_packet.html#a1995d3bd3605e5cf9954643be21e3632":[3,0,1,16,0,6,146,5],
+"df/d67/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_request_network_settings_packet.html#a72ef0b2f81cf1831266689263e9ec39b":[3,0,1,16,0,6,146,6],
+"df/d67/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_request_network_settings_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,146,4],
+"df/d67/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_request_network_settings_packet.html#a8d28a4e7b6f8e550644853a024da1a36":[3,0,1,16,0,6,146,7],
 "df/d67/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_request_network_settings_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,146,0],
 "df/d67/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_request_network_settings_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,146,3],
 "df/d67/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_request_network_settings_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,146,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX228 =
 "df/d72/classpocketmine_1_1block_1_1_hardened_glass_pane.html#a6f13ff76dad934b1b2e078a5b57dd7a5":[3,0,1,0,125,35],
 "df/d72/classpocketmine_1_1block_1_1_hardened_glass_pane.html#a75b16ca6e22355cf632466a969e79211":[2,0,0,0,123,41],
 "df/d72/classpocketmine_1_1block_1_1_hardened_glass_pane.html#a75b16ca6e22355cf632466a969e79211":[3,0,1,0,125,41],
-"df/d72/classpocketmine_1_1block_1_1_hardened_glass_pane.html#a771a30c30a36b0992f54c57dc63af10d":[2,0,0,0,123,40],
-"df/d72/classpocketmine_1_1block_1_1_hardened_glass_pane.html#a771a30c30a36b0992f54c57dc63af10d":[3,0,1,0,125,40],
-"df/d72/classpocketmine_1_1block_1_1_hardened_glass_pane.html#a8307fc850da5c3f36e9dfc7ce639fe55":[2,0,0,0,123,45],
-"df/d72/classpocketmine_1_1block_1_1_hardened_glass_pane.html#a8307fc850da5c3f36e9dfc7ce639fe55":[3,0,1,0,125,45],
-"df/d72/classpocketmine_1_1block_1_1_hardened_glass_pane.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[2,0,0,0,123,28],
-"df/d72/classpocketmine_1_1block_1_1_hardened_glass_pane.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,125,28],
-"df/d72/classpocketmine_1_1block_1_1_hardened_glass_pane.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,0,0,123,56],
-"df/d72/classpocketmine_1_1block_1_1_hardened_glass_pane.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,125,56]
+"df/d72/classpocketmine_1_1block_1_1_hardened_glass_pane.html#a771a30c30a36b0992f54c57dc63af10d":[2,0,0,0,123,40]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX64 =
 {
+"d4/dae/classpocketmine_1_1block_1_1_redstone_wire.html#aad121ffc31a225748d5bcc0e0752a9f0":[3,0,1,0,184,23],
+"d4/dae/classpocketmine_1_1block_1_1_redstone_wire.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[2,0,0,0,182,31],
+"d4/dae/classpocketmine_1_1block_1_1_redstone_wire.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,184,31],
+"d4/dae/classpocketmine_1_1block_1_1_redstone_wire.html#ab05ed23d3ff256f3f64cf6d86563c947":[2,0,0,0,182,8],
+"d4/dae/classpocketmine_1_1block_1_1_redstone_wire.html#ab05ed23d3ff256f3f64cf6d86563c947":[3,0,1,0,184,8],
 "d4/dae/classpocketmine_1_1block_1_1_redstone_wire.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,182,19],
 "d4/dae/classpocketmine_1_1block_1_1_redstone_wire.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,184,19],
 "d4/dae/classpocketmine_1_1block_1_1_redstone_wire.html#ab6b90601adfc9732893dcffe256514a9":[2,0,0,0,182,64],
@@ -244,10 +249,5 @@ var NAVTREEINDEX64 =
 "d4/db8/classpocketmine_1_1event_1_1player_1_1_player_enchanting_options_request_event.html#a13f8c2abf3bbde17a2ba69f3f3ca836a":[2,0,0,3,3,16,2],
 "d4/db8/classpocketmine_1_1event_1_1player_1_1_player_enchanting_options_request_event.html#a13f8c2abf3bbde17a2ba69f3f3ca836a":[3,0,1,9,3,16,2],
 "d4/db8/classpocketmine_1_1event_1_1player_1_1_player_enchanting_options_request_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,3,16,1],
-"d4/db8/classpocketmine_1_1event_1_1player_1_1_player_enchanting_options_request_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,3,16,1],
-"d4/db8/classpocketmine_1_1event_1_1player_1_1_player_enchanting_options_request_event.html#a6d634e7831e1877673f255b78d081cfd":[2,0,0,3,3,16,0],
-"d4/db8/classpocketmine_1_1event_1_1player_1_1_player_enchanting_options_request_event.html#a6d634e7831e1877673f255b78d081cfd":[3,0,1,9,3,16,0],
-"d4/db8/classpocketmine_1_1event_1_1player_1_1_player_enchanting_options_request_event.html#a90efcab0d539a5cb5b17968dfa164017":[2,0,0,3,3,16,4],
-"d4/db8/classpocketmine_1_1event_1_1player_1_1_player_enchanting_options_request_event.html#a90efcab0d539a5cb5b17968dfa164017":[3,0,1,9,3,16,4],
-"d4/db8/classpocketmine_1_1event_1_1player_1_1_player_enchanting_options_request_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,0,3,3,16,3]
+"d4/db8/classpocketmine_1_1event_1_1player_1_1_player_enchanting_options_request_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,3,16,1]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX139 =
 {
+"d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[3,0,1,0,109,46],
+"d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a57b1586e3b6d81440be1aa89471f2a2a":[2,0,0,0,107,53],
+"d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a57b1586e3b6d81440be1aa89471f2a2a":[3,0,1,0,109,53],
+"d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a588080e805e50e4f97e1a3d256b8c11e":[2,0,0,0,107,14],
+"d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a588080e805e50e4f97e1a3d256b8c11e":[3,0,1,0,109,14],
+"d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a6201b0d5460ae6f3b5cee03197c9a94a":[2,0,0,0,107,39],
 "d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a6201b0d5460ae6f3b5cee03197c9a94a":[3,0,1,0,109,39],
 "d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a697b82e5cb56aed8d371581b4bc11ba4":[2,0,0,0,107,29],
 "d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a697b82e5cb56aed8d371581b4bc11ba4":[3,0,1,0,109,29],
@@ -243,11 +249,5 @@ var NAVTREEINDEX139 =
 "d9/d20/classpocketmine_1_1block_1_1_door.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,80,47],
 "d9/d20/classpocketmine_1_1block_1_1_door.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,82,47],
 "d9/d20/classpocketmine_1_1block_1_1_door.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,80,3],
-"d9/d20/classpocketmine_1_1block_1_1_door.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,82,3],
-"d9/d20/classpocketmine_1_1block_1_1_door.html#a2694b09ef415f28eb7910ef3c5629e40":[2,0,0,0,80,64],
-"d9/d20/classpocketmine_1_1block_1_1_door.html#a2694b09ef415f28eb7910ef3c5629e40":[3,0,1,0,82,64],
-"d9/d20/classpocketmine_1_1block_1_1_door.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,80,22],
-"d9/d20/classpocketmine_1_1block_1_1_door.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[3,0,1,0,82,22],
-"d9/d20/classpocketmine_1_1block_1_1_door.html#a286fc64348f13417dcb6106c2695911b":[2,0,0,0,80,2],
-"d9/d20/classpocketmine_1_1block_1_1_door.html#a286fc64348f13417dcb6106c2695911b":[3,0,1,0,82,2]
+"d9/d20/classpocketmine_1_1block_1_1_door.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,82,3]
 };

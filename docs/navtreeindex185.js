@@ -1,5 +1,10 @@
 var NAVTREEINDEX185 =
 {
+"dc/d85/_player_off_hand_inventory_8php_source.html":[4,0,0,9,17],
+"dc/d85/classpocketmine_1_1entity_1_1animation_1_1_arrow_shake_animation.html":[3,0,1,7,0,2],
+"dc/d85/classpocketmine_1_1entity_1_1animation_1_1_arrow_shake_animation.html#a6522e7bc5656f49ea1f722b42d15bb88":[3,0,1,7,0,2,0],
+"dc/d86/classpocketmine_1_1player_1_1_player_data_save_exception.html":[3,0,1,18,8],
+"dc/d87/_photo_transfer_packet_8php_source.html":[4,0,1,0,1,0,120],
 "dc/d89/_planks_8php_source.html":[4,0,0,0,167],
 "dc/d8e/classpocketmine_1_1world_1_1generator_1_1populator_1_1_ore.html":[2,0,0,14,0,1,1],
 "dc/d8e/classpocketmine_1_1world_1_1generator_1_1populator_1_1_ore.html":[3,0,1,30,2,5,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX185 =
 "dc/da7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_animate_entity_packet.html":[3,0,1,16,0,6,12],
 "dc/da7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_animate_entity_packet.html#a24aa9a85771e833073ee72e6da65ba6f":[3,0,1,16,0,6,12,6],
 "dc/da7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_animate_entity_packet.html#a29e1bb96ebc5cbfbb3213f04d8c8764e":[3,0,1,16,0,6,12,2],
-"dc/da7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_animate_entity_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,12,4],
-"dc/da7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_animate_entity_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,12,0],
-"dc/da7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_animate_entity_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,12,3],
-"dc/da7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_animate_entity_packet.html#aa34f3a40daff6757889c5f77fbec59ac":[3,0,1,16,0,6,12,7],
-"dc/da7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_animate_entity_packet.html#aab2e2abbea1be8974900b0db54b64dd0":[3,0,1,16,0,6,12,5],
-"dc/da7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_animate_entity_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,12,1]
+"dc/da7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_animate_entity_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,12,4]
 };

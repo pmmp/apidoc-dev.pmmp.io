@@ -1,5 +1,10 @@
 var NAVTREEINDEX69 =
 {
+"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,69,44],
+"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a43e3458847422ebd5dec6c914b443c93":[3,0,1,0,71,44],
+"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a49395de82d025ca78745a17528049f18":[2,0,0,0,69,52],
+"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a49395de82d025ca78745a17528049f18":[3,0,1,0,71,52],
+"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[2,0,0,0,69,36],
 "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[3,0,1,0,71,36],
 "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[2,0,0,0,69,46],
 "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[3,0,1,0,71,46],
@@ -244,10 +249,5 @@ var NAVTREEINDEX69 =
 "d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a3bc65b2324649d8735dadf9bf8cf0705":[2,0,0,5,77,48],
 "d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a3bc65b2324649d8735dadf9bf8cf0705":[3,0,1,12,78,48],
 "d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a49a05b01faaaf071449c97060fe44926":[2,0,0,5,77,0],
-"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a49a05b01faaaf071449c97060fe44926":[3,0,1,12,78,0],
-"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a4a9aa55600bb30c4d55ad63337874a07":[2,0,0,5,77,6],
-"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a4a9aa55600bb30c4d55ad63337874a07":[3,0,1,12,78,6],
-"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a4f8f013f507342e2208dc8b4c3da964b":[2,0,0,5,77,26],
-"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a4f8f013f507342e2208dc8b4c3da964b":[3,0,1,12,78,26],
-"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a51b97f07ff97887a144198bb3dba6fc4":[2,0,0,5,77,21]
+"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a49a05b01faaaf071449c97060fe44926":[3,0,1,12,78,0]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX233 =
 {
+"df/da1/classpocketmine_1_1block_1_1_pumpkin_stem.html#a097af4a935135a8524d812f497373075":[3,0,1,0,174,63],
+"df/da1/classpocketmine_1_1block_1_1_pumpkin_stem.html#a09f4667329f89292dd319d56c4243b59":[2,0,0,0,172,30],
+"df/da1/classpocketmine_1_1block_1_1_pumpkin_stem.html#a09f4667329f89292dd319d56c4243b59":[3,0,1,0,174,30],
+"df/da1/classpocketmine_1_1block_1_1_pumpkin_stem.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,172,18],
+"df/da1/classpocketmine_1_1block_1_1_pumpkin_stem.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,174,18],
+"df/da1/classpocketmine_1_1block_1_1_pumpkin_stem.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,172,60],
+"df/da1/classpocketmine_1_1block_1_1_pumpkin_stem.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,174,60],
 "df/da1/classpocketmine_1_1block_1_1_pumpkin_stem.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,172,47],
 "df/da1/classpocketmine_1_1block_1_1_pumpkin_stem.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,174,47],
 "df/da1/classpocketmine_1_1block_1_1_pumpkin_stem.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,172,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX233 =
 "df/da3/_vec3_metadata_property_8php_source.html":[4,0,1,0,1,0,1,2,23],
 "df/da4/_crafting_recipe_8php_source.html":[4,0,0,3,5],
 "df/da5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_device_o_s.html":[3,0,1,16,0,6,1,21],
-"df/da6/_crafting_data_packet_8php_source.html":[4,0,1,0,1,0,56],
-"df/da6/_player_inventory_8php_source.html":[4,0,0,9,16],
-"df/da6/_vanilla_items_8php_source.html":[4,0,0,10,125],
-"df/da7/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_writable_region_world_provider.html":[3,0,1,30,1,0,3,9],
-"df/da7/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_writable_region_world_provider.html#a15ad5a9cc801fe8a5f86239e2edc4aa5":[3,0,1,30,1,0,3,9,4],
-"df/da7/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_writable_region_world_provider.html#a2415808eedd3eb55444539b588391b47":[3,0,1,30,1,0,3,9,14],
-"df/da7/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_writable_region_world_provider.html#a24b685a9ced032a0a69cdf5895bec43f":[3,0,1,30,1,0,3,9,9],
-"df/da7/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_writable_region_world_provider.html#a3c1c400159997bf36abd97d659c2acc0":[3,0,1,30,1,0,3,9,15]
+"df/da6/_crafting_data_packet_8php_source.html":[4,0,1,0,1,0,56]
 };

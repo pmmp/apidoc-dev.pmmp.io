@@ -1,5 +1,8 @@
 var NAVTREEINDEX40 =
 {
+"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[3,0,1,12,25,3],
+"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a9dd9484fe3ab1afcbd2627860e01973a":[2,0,0,5,24,43],
+"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a9dd9484fe3ab1afcbd2627860e01973a":[3,0,1,12,25,43],
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[2,0,0,5,24,8],
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[3,0,1,12,25,8],
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#aa27432059ecfd201a3cec74253b21fa9":[2,0,0,5,24,46],
@@ -246,8 +249,5 @@ var NAVTREEINDEX40 =
 "d2/dd1/_iron_ore_8php_source.html":[4,0,0,0,130],
 "d2/dd1/_projectile_hit_entity_event_8php_source.html":[4,0,0,7,1,27],
 "d2/dd1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_add_actor_packet.html":[3,0,1,16,0,6,4],
-"d2/dd1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_add_actor_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,4,4],
-"d2/dd1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_add_actor_packet.html#a9bc03d23390132126c36b5653d46fee1":[3,0,1,16,0,6,4,5],
-"d2/dd1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_add_actor_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,4,0],
-"d2/dd1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_add_actor_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,4,3]
+"d2/dd1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_add_actor_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,4,4]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX52 =
 {
+"d3/da8/classpocketmine_1_1item_1_1_pumpkin_pie.html#a95cfab40de7390593990a239f8e4af73":[2,0,0,5,82,12],
+"d3/da8/classpocketmine_1_1item_1_1_pumpkin_pie.html#a95cfab40de7390593990a239f8e4af73":[3,0,1,12,83,12],
+"d3/da8/classpocketmine_1_1item_1_1_pumpkin_pie.html#a9866a7ab362cec28252d67f6382a4ad4":[2,0,0,5,82,33],
+"d3/da8/classpocketmine_1_1item_1_1_pumpkin_pie.html#a9866a7ab362cec28252d67f6382a4ad4":[3,0,1,12,83,33],
+"d3/da8/classpocketmine_1_1item_1_1_pumpkin_pie.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[2,0,0,5,82,3],
 "d3/da8/classpocketmine_1_1item_1_1_pumpkin_pie.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[3,0,1,12,83,3],
 "d3/da8/classpocketmine_1_1item_1_1_pumpkin_pie.html#a9dd9484fe3ab1afcbd2627860e01973a":[2,0,0,5,82,47],
 "d3/da8/classpocketmine_1_1item_1_1_pumpkin_pie.html#a9dd9484fe3ab1afcbd2627860e01973a":[3,0,1,12,83,47],
@@ -244,10 +249,5 @@ var NAVTREEINDEX52 =
 "d3/dd4/object_2_ore_8php_source.html":[4,0,0,25,2,4,4],
 "d3/ddb/classpocketmine_1_1item_1_1enchantment_1_1_item_enchantment_tag_registry.html":[3,0,1,12,0,8],
 "d3/ddb/classpocketmine_1_1item_1_1enchantment_1_1_item_enchantment_tag_registry.html#a12b2ed5a9bb0673d1e329746153926e8":[3,0,1,12,0,8,1],
-"d3/ddb/classpocketmine_1_1item_1_1enchantment_1_1_item_enchantment_tag_registry.html#a66fd555f9d60eda89705b6211ead44f6":[3,0,1,12,0,8,0],
-"d3/ddb/classpocketmine_1_1item_1_1enchantment_1_1_item_enchantment_tag_registry.html#a910f3102f4abed9210a841203450ce47":[3,0,1,12,0,8,2],
-"d3/ddb/classpocketmine_1_1item_1_1enchantment_1_1_item_enchantment_tag_registry.html#afa110104e3a19345207a32c77246ca4d":[3,0,1,12,0,8,3],
-"d3/ddc/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_grindstone_stack_request_action.html":[3,0,1,16,0,6,1,3,0,11],
-"d3/ddc/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_grindstone_stack_request_action.html#a4128ffe4d4bd34c42bcbe5dec9521dc2":[3,0,1,16,0,6,1,3,0,11,0],
-"d3/ddd/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_server_stats_packet.html":[3,0,1,16,0,6,162]
+"d3/ddb/classpocketmine_1_1item_1_1enchantment_1_1_item_enchantment_tag_registry.html#a66fd555f9d60eda89705b6211ead44f6":[3,0,1,12,0,8,0]
 };

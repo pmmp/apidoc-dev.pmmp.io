@@ -1,5 +1,11 @@
 var NAVTREEINDEX106 =
 {
+"d7/d27/classpocketmine_1_1block_1_1_block.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,22,66],
+"d7/d27/classpocketmine_1_1block_1_1_block.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,24,66],
+"d7/d27/classpocketmine_1_1block_1_1_block.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,22,39],
+"d7/d27/classpocketmine_1_1block_1_1_block.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,24,39],
+"d7/d27/classpocketmine_1_1block_1_1_block.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,22,8],
+"d7/d27/classpocketmine_1_1block_1_1_block.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,24,8],
 "d7/d27/classpocketmine_1_1block_1_1_block.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,22,5],
 "d7/d27/classpocketmine_1_1block_1_1_block.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,24,5],
 "d7/d27/classpocketmine_1_1block_1_1_block.html#aa4773f0153324728a2f41820fa52442d":[2,0,0,0,22,18],
@@ -243,11 +249,5 @@ var NAVTREEINDEX106 =
 "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a0889a74b4c775fc288bf5d3730516318":[3,0,1,12,120,45],
 "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a0a422a89abd427286bc2f312100f968c":[2,0,0,5,119,35],
 "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a0a422a89abd427286bc2f312100f968c":[3,0,1,12,120,35],
-"d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a0a79e011845ae3dc79a34887350caecf":[2,0,0,5,119,27],
-"d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a0a79e011845ae3dc79a34887350caecf":[3,0,1,12,120,27],
-"d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a113df9761f1a285d72fae0d9da6b21d6":[2,0,0,5,119,11],
-"d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a113df9761f1a285d72fae0d9da6b21d6":[3,0,1,12,120,11],
-"d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a11483f8bbc44517bf2a25e40a3aa7558":[2,0,0,5,119,2],
-"d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a11483f8bbc44517bf2a25e40a3aa7558":[3,0,1,12,120,2],
-"d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a1179a3b7a49461ede413b50c82b5684a":[2,0,0,5,119,32]
+"d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a0a79e011845ae3dc79a34887350caecf":[2,0,0,5,119,27]
 };

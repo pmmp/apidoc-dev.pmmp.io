@@ -1,5 +1,11 @@
 var NAVTREEINDEX107 =
 {
+"d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a0a79e011845ae3dc79a34887350caecf":[3,0,1,12,120,27],
+"d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a113df9761f1a285d72fae0d9da6b21d6":[2,0,0,5,119,11],
+"d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a113df9761f1a285d72fae0d9da6b21d6":[3,0,1,12,120,11],
+"d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a11483f8bbc44517bf2a25e40a3aa7558":[2,0,0,5,119,2],
+"d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a11483f8bbc44517bf2a25e40a3aa7558":[3,0,1,12,120,2],
+"d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a1179a3b7a49461ede413b50c82b5684a":[2,0,0,5,119,32],
 "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a1179a3b7a49461ede413b50c82b5684a":[3,0,1,12,120,32],
 "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a1df151eb419168f838e6d927c50f9210":[2,0,0,5,119,6],
 "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a1df151eb419168f838e6d927c50f9210":[3,0,1,12,120,6],
@@ -243,11 +249,5 @@ var NAVTREEINDEX107 =
 "d7/d48/classpocketmine_1_1block_1_1_brown_mushroom_block.html#ab92353cf0aa5c05ad26535f98a2b1dca":[2,0,0,0,34,26],
 "d7/d48/classpocketmine_1_1block_1_1_brown_mushroom_block.html#ab92353cf0aa5c05ad26535f98a2b1dca":[3,0,1,0,36,26],
 "d7/d48/classpocketmine_1_1block_1_1_brown_mushroom_block.html#abce48b40feb225f4ce9b7cf2e02a9336":[2,0,0,0,34,55],
-"d7/d48/classpocketmine_1_1block_1_1_brown_mushroom_block.html#abce48b40feb225f4ce9b7cf2e02a9336":[3,0,1,0,36,55],
-"d7/d48/classpocketmine_1_1block_1_1_brown_mushroom_block.html#ac3c50407b10e74b7f07c69c4f4322042":[2,0,0,0,34,45],
-"d7/d48/classpocketmine_1_1block_1_1_brown_mushroom_block.html#ac3c50407b10e74b7f07c69c4f4322042":[3,0,1,0,36,45],
-"d7/d48/classpocketmine_1_1block_1_1_brown_mushroom_block.html#ac85f12ad4e4d729db9f27ecb8e97998b":[2,0,0,0,34,51],
-"d7/d48/classpocketmine_1_1block_1_1_brown_mushroom_block.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,36,51],
-"d7/d48/classpocketmine_1_1block_1_1_brown_mushroom_block.html#acb449b40461f4800cf6e6288cb9a069d":[2,0,0,0,34,0],
-"d7/d48/classpocketmine_1_1block_1_1_brown_mushroom_block.html#acb449b40461f4800cf6e6288cb9a069d":[3,0,1,0,36,0]
+"d7/d48/classpocketmine_1_1block_1_1_brown_mushroom_block.html#abce48b40feb225f4ce9b7cf2e02a9336":[3,0,1,0,36,55]
 };

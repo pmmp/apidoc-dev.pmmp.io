@@ -1,5 +1,11 @@
 var NAVTREEINDEX96 =
 {
+"d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html#a56bc59582baf2faf3412ca7044831e3b":[3,0,1,12,109,37],
+"d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html#a5b53d78436bbdb5d53102fda463be4e6":[2,0,0,5,108,52],
+"d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html#a5b53d78436bbdb5d53102fda463be4e6":[3,0,1,12,109,52],
+"d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html#a653a8fbd8da17b08be95a985d857c4fc":[2,0,0,5,108,44],
+"d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html#a653a8fbd8da17b08be95a985d857c4fc":[3,0,1,12,109,44],
+"d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html#a67b44433c553602d7c851b1ca23e6e5e":[2,0,0,5,108,43],
 "d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html#a67b44433c553602d7c851b1ca23e6e5e":[3,0,1,12,109,43],
 "d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html#a695316f36c86aa1e2e6ebca5edc83d63":[2,0,0,5,108,10],
 "d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html#a695316f36c86aa1e2e6ebca5edc83d63":[3,0,1,12,109,10],
@@ -243,11 +249,5 @@ var NAVTREEINDEX96 =
 "d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a2f948cd7e63953fc0d20f3ca88525a30":[2,0,0,0,11,45],
 "d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a2f948cd7e63953fc0d20f3ca88525a30":[3,0,1,0,13,45],
 "d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a30a070aa7befb02f9fff5cbf2693c01e":[2,0,0,0,11,9],
-"d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a30a070aa7befb02f9fff5cbf2693c01e":[3,0,1,0,13,9],
-"d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a36afea9f0214193963f75577e8d48c26":[2,0,0,0,11,59],
-"d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a36afea9f0214193963f75577e8d48c26":[3,0,1,0,13,59],
-"d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a3a46169e7d256b3a1f3af8c54ddba832":[2,0,0,0,11,62],
-"d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a3a46169e7d256b3a1f3af8c54ddba832":[3,0,1,0,13,62],
-"d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,0,0,11,10],
-"d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,13,10]
+"d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a30a070aa7befb02f9fff5cbf2693c01e":[3,0,1,0,13,9]
 };

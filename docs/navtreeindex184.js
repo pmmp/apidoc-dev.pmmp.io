@@ -1,5 +1,10 @@
 var NAVTREEINDEX184 =
 {
+"dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,135,47],
+"dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html#a1db4a3b03dde88c2f0cd2037b1606bd4":[2,0,0,0,133,40],
+"dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html#a1db4a3b03dde88c2f0cd2037b1606bd4":[3,0,1,0,135,40],
+"dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,133,3],
+"dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,135,3],
 "dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,133,22],
 "dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[3,0,1,0,135,22],
 "dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html#a286fc64348f13417dcb6106c2695911b":[2,0,0,0,133,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX184 =
 "dc/d83/classpocketmine_1_1world_1_1generator_1_1_invalid_generator_options_exception.html":[3,0,1,30,2,14],
 "dc/d84/_bookshelf_8php_source.html":[4,0,0,0,33],
 "dc/d84/_n_a_c_k_8php_source.html":[4,0,1,0,9,0,2,13],
-"dc/d85/_chained_sub_command_data_8php_source.html":[4,0,1,0,1,0,1,1,0],
-"dc/d85/_player_off_hand_inventory_8php_source.html":[4,0,0,9,17],
-"dc/d85/classpocketmine_1_1entity_1_1animation_1_1_arrow_shake_animation.html":[3,0,1,7,0,2],
-"dc/d85/classpocketmine_1_1entity_1_1animation_1_1_arrow_shake_animation.html#a6522e7bc5656f49ea1f722b42d15bb88":[3,0,1,7,0,2,0],
-"dc/d86/classpocketmine_1_1player_1_1_player_data_save_exception.html":[3,0,1,18,8],
-"dc/d87/_photo_transfer_packet_8php_source.html":[4,0,1,0,1,0,120]
+"dc/d85/_chained_sub_command_data_8php_source.html":[4,0,1,0,1,0,1,1,0]
 };

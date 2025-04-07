@@ -1,5 +1,11 @@
 var NAVTREEINDEX143 =
 {
+"d9/d54/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_inventory_transaction_packet.html#a7535f8bd7d9d491e00a4ebb1137d6ce7":[3,0,1,16,0,6,79,7],
+"d9/d54/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_inventory_transaction_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,79,4],
+"d9/d54/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_inventory_transaction_packet.html#a95bc9a94d12043c401a3c71393d47c1e":[3,0,1,16,0,6,79,6],
+"d9/d54/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_inventory_transaction_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,79,0],
+"d9/d54/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_inventory_transaction_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,79,3],
+"d9/d54/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_inventory_transaction_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,79,1],
 "d9/d55/block_2_coal_8php_source.html":[4,0,0,0,59],
 "d9/d55/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_chained_sub_command_data.html":[3,0,1,16,0,6,1,1,0],
 "d9/d55/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_chained_sub_command_data.html#a62a540d6b68af41106dd765fab349d91":[3,0,1,16,0,6,1,1,0,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX143 =
 "d9/d5b/classpocketmine_1_1item_1_1_pitcher_pod.html#af737301b899b7a7c9e9b0bb9a234a119":[2,0,0,5,76,7],
 "d9/d5b/classpocketmine_1_1item_1_1_pitcher_pod.html#af737301b899b7a7c9e9b0bb9a234a119":[3,0,1,12,77,7],
 "d9/d5b/classpocketmine_1_1item_1_1_pitcher_pod.html#af85accbedba28b67bb66d5f12d329585":[2,0,0,5,76,37],
-"d9/d5b/classpocketmine_1_1item_1_1_pitcher_pod.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,77,37],
-"d9/d5c/classraklib_1_1generic_1_1_socket.html":[3,0,2,1,5],
-"d9/d5c/classraklib_1_1generic_1_1_socket.html#a36807030f0c66a89488c8f633fd0baa5":[3,0,2,1,5,3],
-"d9/d5c/classraklib_1_1generic_1_1_socket.html#a90545f7e3af94ef036243004a5463981":[3,0,2,1,5,1],
-"d9/d5c/classraklib_1_1generic_1_1_socket.html#aa84de671dba31dd8a390110b3f074f25":[3,0,2,1,5,2],
-"d9/d5c/classraklib_1_1generic_1_1_socket.html#ac526d772f2168de4425394e16ee1b121":[3,0,2,1,5,0],
-"d9/d5d/classpocketmine_1_1block_1_1_grass_path.html":[2,0,0,0,118]
+"d9/d5b/classpocketmine_1_1item_1_1_pitcher_pod.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,77,37]
 };

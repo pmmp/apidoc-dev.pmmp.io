@@ -1,5 +1,11 @@
 var NAVTREEINDEX94 =
 {
+"d6/d87/classpocketmine_1_1block_1_1_sapling.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,189,17],
+"d6/d87/classpocketmine_1_1block_1_1_sapling.html#aac6828efb885bc8fe0f8876728ddde5d":[2,0,0,0,187,34],
+"d6/d87/classpocketmine_1_1block_1_1_sapling.html#aac6828efb885bc8fe0f8876728ddde5d":[3,0,1,0,189,34],
+"d6/d87/classpocketmine_1_1block_1_1_sapling.html#aad121ffc31a225748d5bcc0e0752a9f0":[2,0,0,0,187,23],
+"d6/d87/classpocketmine_1_1block_1_1_sapling.html#aad121ffc31a225748d5bcc0e0752a9f0":[3,0,1,0,189,23],
+"d6/d87/classpocketmine_1_1block_1_1_sapling.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[2,0,0,0,187,31],
 "d6/d87/classpocketmine_1_1block_1_1_sapling.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,189,31],
 "d6/d87/classpocketmine_1_1block_1_1_sapling.html#ab05ed23d3ff256f3f64cf6d86563c947":[2,0,0,0,187,8],
 "d6/d87/classpocketmine_1_1block_1_1_sapling.html#ab05ed23d3ff256f3f64cf6d86563c947":[3,0,1,0,189,8],
@@ -243,11 +249,5 @@ var NAVTREEINDEX94 =
 "d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,0,0,127,56],
 "d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,129,56],
 "d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#a8a733c2fe564a205938a9146c8b0e0f1":[2,0,0,0,127,63],
-"d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#a8a733c2fe564a205938a9146c8b0e0f1":[3,0,1,0,129,63],
-"d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,127,11],
-"d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,129,11],
-"d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,127,65],
-"d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,129,65],
-"d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,127,38],
-"d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,129,38]
+"d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#a8a733c2fe564a205938a9146c8b0e0f1":[3,0,1,0,129,63]
 };

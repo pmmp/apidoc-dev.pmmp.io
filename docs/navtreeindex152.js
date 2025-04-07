@@ -1,5 +1,11 @@
 var NAVTREEINDEX152 =
 {
+"da/d0c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_game_rule.html":[3,0,1,16,0,6,1,36],
+"da/d0c/namespacepocketmine_1_1command.html":[2,0,0,1],
+"da/d0e/item_2_ender_pearl_8php_source.html":[4,0,0,10,43],
+"da/d10/_xbox_live_player_info_8php_source.html":[4,0,0,14,13],
+"da/d10/classpocketmine_1_1world_1_1biome_1_1_hell_biome.html":[3,0,1,30,0,5],
+"da/d10/classpocketmine_1_1world_1_1biome_1_1_hell_biome.html#a1c38e48a1e0afd5ca3362760e5deea21":[3,0,1,30,0,5,2],
 "da/d10/classpocketmine_1_1world_1_1biome_1_1_hell_biome.html#a3bd95c376c2ca535cb932b700bde38dc":[3,0,1,30,0,5,0],
 "da/d10/classpocketmine_1_1world_1_1biome_1_1_hell_biome.html#aee779e604579f71977cc5624dc8dfd0f":[3,0,1,30,0,5,1],
 "da/d11/_current_structure_feature_packet_8php_source.html":[4,0,1,0,1,0,59],
@@ -243,11 +249,5 @@ var NAVTREEINDEX152 =
 "da/d24/classpocketmine_1_1block_1_1_bone_block.html#a588080e805e50e4f97e1a3d256b8c11e":[2,0,0,0,30,14],
 "da/d24/classpocketmine_1_1block_1_1_bone_block.html#a588080e805e50e4f97e1a3d256b8c11e":[3,0,1,0,32,14],
 "da/d24/classpocketmine_1_1block_1_1_bone_block.html#a6201b0d5460ae6f3b5cee03197c9a94a":[2,0,0,0,30,39],
-"da/d24/classpocketmine_1_1block_1_1_bone_block.html#a6201b0d5460ae6f3b5cee03197c9a94a":[3,0,1,0,32,39],
-"da/d24/classpocketmine_1_1block_1_1_bone_block.html#a6d3cefce63d654d994f2e1b5dcc11c54":[2,0,0,0,30,20],
-"da/d24/classpocketmine_1_1block_1_1_bone_block.html#a6d3cefce63d654d994f2e1b5dcc11c54":[3,0,1,0,32,20],
-"da/d24/classpocketmine_1_1block_1_1_bone_block.html#a6d937579e316caf0a9f92c20753a66cb":[2,0,0,0,30,50],
-"da/d24/classpocketmine_1_1block_1_1_bone_block.html#a6d937579e316caf0a9f92c20753a66cb":[3,0,1,0,32,50],
-"da/d24/classpocketmine_1_1block_1_1_bone_block.html#a6f13ff76dad934b1b2e078a5b57dd7a5":[2,0,0,0,30,35],
-"da/d24/classpocketmine_1_1block_1_1_bone_block.html#a6f13ff76dad934b1b2e078a5b57dd7a5":[3,0,1,0,32,35]
+"da/d24/classpocketmine_1_1block_1_1_bone_block.html#a6201b0d5460ae6f3b5cee03197c9a94a":[3,0,1,0,32,39]
 };

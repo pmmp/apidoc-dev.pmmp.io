@@ -1,5 +1,11 @@
 var NAVTREEINDEX166 =
 {
+"db/d38/classpocketmine_1_1block_1_1_slime.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,197,31],
+"db/d38/classpocketmine_1_1block_1_1_slime.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,195,19],
+"db/d38/classpocketmine_1_1block_1_1_slime.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,197,19],
+"db/d38/classpocketmine_1_1block_1_1_slime.html#ab51ea2314ed5df2163bca971a462fb72":[2,0,0,0,195,8],
+"db/d38/classpocketmine_1_1block_1_1_slime.html#ab51ea2314ed5df2163bca971a462fb72":[3,0,1,0,197,8],
+"db/d38/classpocketmine_1_1block_1_1_slime.html#ab6b90601adfc9732893dcffe256514a9":[2,0,0,0,195,64],
 "db/d38/classpocketmine_1_1block_1_1_slime.html#ab6b90601adfc9732893dcffe256514a9":[3,0,1,0,197,64],
 "db/d38/classpocketmine_1_1block_1_1_slime.html#ab92353cf0aa5c05ad26535f98a2b1dca":[2,0,0,0,195,26],
 "db/d38/classpocketmine_1_1block_1_1_slime.html#ab92353cf0aa5c05ad26535f98a2b1dca":[3,0,1,0,197,26],
@@ -243,11 +249,5 @@ var NAVTREEINDEX166 =
 "db/d60/_banner_pattern_type_8php_source.html":[4,0,0,0,2,5],
 "db/d61/_resource_pack_chunk_request_packet_8php_source.html":[4,0,1,0,1,0,150],
 "db/d61/_show_store_offer_redirect_type_8php_source.html":[4,0,1,0,1,0,1,72],
-"db/d62/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_u_i_inventory_slot_offset.html":[3,0,1,16,0,6,1,3,17],
-"db/d62/interfacepocketmine_1_1event_1_1_cancellable.html":[2,0,0,3,7],
-"db/d62/interfacepocketmine_1_1event_1_1_cancellable.html":[3,0,1,9,7],
-"db/d62/interfacepocketmine_1_1event_1_1_cancellable.html#a90efcab0d539a5cb5b17968dfa164017":[2,0,0,3,7,0],
-"db/d62/interfacepocketmine_1_1event_1_1_cancellable.html#a90efcab0d539a5cb5b17968dfa164017":[3,0,1,9,7,0],
-"db/d63/_hopper_8php_source.html":[4,0,0,0,127],
-"db/d64/_block_inventory_trait_8php_source.html":[4,0,0,0,0,4]
+"db/d62/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_u_i_inventory_slot_offset.html":[3,0,1,16,0,6,1,3,17]
 };

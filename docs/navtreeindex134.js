@@ -1,5 +1,11 @@
 var NAVTREEINDEX134 =
 {
+"d8/de9/_request_ability_packet_8php_source.html":[4,0,1,0,1,0,145],
+"d8/de9/classpocketmine_1_1world_1_1sound_1_1_potion_finish_brewing_sound.html":[3,0,1,30,5,82],
+"d8/de9/classpocketmine_1_1world_1_1sound_1_1_potion_finish_brewing_sound.html#ad44f246e4492b3ea97df87b20e329bb9":[3,0,1,30,5,82,0],
+"d8/dea/_legacy_string_to_item_parser_8php_source.html":[4,0,0,10,69],
+"d8/dea/_stick_8php_source.html":[4,0,0,10,111],
+"d8/deb/classpocketmine_1_1block_1_1_leaves.html":[2,0,0,0,136],
 "d8/deb/classpocketmine_1_1block_1_1_leaves.html":[3,0,1,0,138],
 "d8/deb/classpocketmine_1_1block_1_1_leaves.html#a028afd613a6f42370ede9aec4c9796d6":[2,0,0,0,136,49],
 "d8/deb/classpocketmine_1_1block_1_1_leaves.html#a028afd613a6f42370ede9aec4c9796d6":[3,0,1,0,138,49],
@@ -243,11 +249,5 @@ var NAVTREEINDEX134 =
 "d8/dee/classpocketmine_1_1block_1_1_powered_rail.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[3,0,1,0,171,12],
 "d8/dee/classpocketmine_1_1block_1_1_powered_rail.html#abce48b40feb225f4ce9b7cf2e02a9336":[2,0,0,0,169,57],
 "d8/dee/classpocketmine_1_1block_1_1_powered_rail.html#abce48b40feb225f4ce9b7cf2e02a9336":[3,0,1,0,171,57],
-"d8/dee/classpocketmine_1_1block_1_1_powered_rail.html#ac34d7d0bd5e5173f331e56f6b97ca796":[2,0,0,0,169,51],
-"d8/dee/classpocketmine_1_1block_1_1_powered_rail.html#ac34d7d0bd5e5173f331e56f6b97ca796":[3,0,1,0,171,51],
-"d8/dee/classpocketmine_1_1block_1_1_powered_rail.html#ac7c6b2cf8fdce0bf501dc62d06b04aff":[2,0,0,0,169,6],
-"d8/dee/classpocketmine_1_1block_1_1_powered_rail.html#ac7c6b2cf8fdce0bf501dc62d06b04aff":[3,0,1,0,171,6],
-"d8/dee/classpocketmine_1_1block_1_1_powered_rail.html#ac85f12ad4e4d729db9f27ecb8e97998b":[2,0,0,0,169,53],
-"d8/dee/classpocketmine_1_1block_1_1_powered_rail.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,171,53],
-"d8/dee/classpocketmine_1_1block_1_1_powered_rail.html#acb0c72e654f2319039e099a20ad58187":[2,0,0,0,169,67]
+"d8/dee/classpocketmine_1_1block_1_1_powered_rail.html#ac34d7d0bd5e5173f331e56f6b97ca796":[2,0,0,0,169,51]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX174 =
 {
+"db/de2/_pardon_command_8php_source.html":[4,0,0,1,0,19],
+"db/de4/_block_type_names_8php_source.html":[4,0,0,5,0,0,10],
+"db/de4/_form_validation_exception_8php_source.html":[4,0,0,8,1],
+"db/de8/_fire_aspect_enchantment_8php_source.html":[4,0,0,10,0,5],
+"db/de8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_aim_assist_category_priorities.html":[3,0,1,16,0,6,1,0,4],
+"db/de8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_aim_assist_category_priorities.html#a0b5df1670b0dd69f8a507b6133537568":[3,0,1,16,0,6,1,0,4,2],
 "db/de8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_aim_assist_category_priorities.html#a6b26c189192189985ab84578c9677c0b":[3,0,1,16,0,6,1,0,4,1],
 "db/de8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_aim_assist_category_priorities.html#ae942c4f772f96b5b5338fd8dc001180c":[3,0,1,16,0,6,1,0,4,0],
 "db/de9/_item_stack_response_8php_source.html":[4,0,1,0,1,0,1,4,1,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX174 =
 "dc/d06/classpocketmine_1_1event_1_1entity_1_1_entity_despawn_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,0,3,1,9,2],
 "dc/d06/classpocketmine_1_1event_1_1entity_1_1_entity_despawn_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,1,9,2],
 "dc/d06/classpocketmine_1_1event_1_1entity_1_1_entity_despawn_event.html#aa105cba08f6aa75722b2716a4887a477":[2,0,0,3,1,9,1],
-"dc/d06/classpocketmine_1_1event_1_1entity_1_1_entity_despawn_event.html#aa105cba08f6aa75722b2716a4887a477":[3,0,1,9,1,9,1],
-"dc/d07/_cake_8php_source.html":[4,0,0,0,40],
-"dc/d08/_door_sound_8php_source.html":[4,0,0,25,5,48],
-"dc/d08/_plugin_event_8php_source.html":[4,0,0,7,4,2],
-"dc/d08/classpocketmine_1_1world_1_1sound_1_1_cauldron_clean_item_sound.html":[3,0,1,30,5,29],
-"dc/d08/classpocketmine_1_1world_1_1sound_1_1_cauldron_clean_item_sound.html#abb3d85613e524f0b356a55111f2064b0":[3,0,1,30,5,29,0],
-"dc/d09/classpocketmine_1_1event_1_1world_1_1_world_load_event.html":[2,0,0,3,6,9]
+"dc/d06/classpocketmine_1_1event_1_1entity_1_1_entity_despawn_event.html#aa105cba08f6aa75722b2716a4887a477":[3,0,1,9,1,9,1]
 };

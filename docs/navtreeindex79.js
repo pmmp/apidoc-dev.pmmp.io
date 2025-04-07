@@ -1,5 +1,10 @@
 var NAVTREEINDEX79 =
 {
+"d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html#a47e78434ab3294753bc42572711b3d49":[3,0,1,7,1,6,6],
+"d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html#a6a3d10360dbcd001a11f3531e3a5234f":[3,0,1,7,1,6,5],
+"d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html#a6f10244e47d1979de4b4b92a84033ef6":[3,0,1,7,1,6,3],
+"d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html#a73cf76481b94b56fcbb5ea04b5c29293":[3,0,1,7,1,6,0],
+"d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html#a74f86736bfc7a4996dec76a943da07c1":[3,0,1,7,1,6,2],
 "d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html#a7b2e804f2bd6d6f11acae88699ccec85":[3,0,1,7,1,6,4],
 "d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html#a82dc77059128b4399e33b999b765b6e9":[3,0,1,7,1,6,1],
 "d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html#ae4622599c73e72cb6a898e4fdf34d978":[3,0,1,7,1,6,8],
@@ -244,10 +249,5 @@ var NAVTREEINDEX79 =
 "d5/da3/classpocketmine_1_1item_1_1_spyglass.html#a536378f334334c0e8b06e5ccaeb4de39":[3,0,1,12,103,29],
 "d5/da3/classpocketmine_1_1item_1_1_spyglass.html#a568624515bba5ff57e21ec8c828ade56":[2,0,0,5,102,5],
 "d5/da3/classpocketmine_1_1item_1_1_spyglass.html#a568624515bba5ff57e21ec8c828ade56":[3,0,1,12,103,5],
-"d5/da3/classpocketmine_1_1item_1_1_spyglass.html#a5b53d78436bbdb5d53102fda463be4e6":[2,0,0,5,102,48],
-"d5/da3/classpocketmine_1_1item_1_1_spyglass.html#a5b53d78436bbdb5d53102fda463be4e6":[3,0,1,12,103,48],
-"d5/da3/classpocketmine_1_1item_1_1_spyglass.html#a67b44433c553602d7c851b1ca23e6e5e":[2,0,0,5,102,40],
-"d5/da3/classpocketmine_1_1item_1_1_spyglass.html#a67b44433c553602d7c851b1ca23e6e5e":[3,0,1,12,103,40],
-"d5/da3/classpocketmine_1_1item_1_1_spyglass.html#a71289362f9d561347b5c8c2717eb0512":[2,0,0,5,102,38],
-"d5/da3/classpocketmine_1_1item_1_1_spyglass.html#a71289362f9d561347b5c8c2717eb0512":[3,0,1,12,103,38]
+"d5/da3/classpocketmine_1_1item_1_1_spyglass.html#a5b53d78436bbdb5d53102fda463be4e6":[2,0,0,5,102,48]
 };

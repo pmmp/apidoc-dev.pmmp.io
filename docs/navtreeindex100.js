@@ -1,5 +1,11 @@
 var NAVTREEINDEX100 =
 {
+"d6/dc5/classpocketmine_1_1block_1_1_base_cake.html#aac6828efb885bc8fe0f8876728ddde5d":[2,0,0,0,10,35],
+"d6/dc5/classpocketmine_1_1block_1_1_base_cake.html#aac6828efb885bc8fe0f8876728ddde5d":[3,0,1,0,12,35],
+"d6/dc5/classpocketmine_1_1block_1_1_base_cake.html#aad121ffc31a225748d5bcc0e0752a9f0":[2,0,0,0,10,24],
+"d6/dc5/classpocketmine_1_1block_1_1_base_cake.html#aad121ffc31a225748d5bcc0e0752a9f0":[3,0,1,0,12,24],
+"d6/dc5/classpocketmine_1_1block_1_1_base_cake.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[2,0,0,0,10,32],
+"d6/dc5/classpocketmine_1_1block_1_1_base_cake.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,12,32],
 "d6/dc5/classpocketmine_1_1block_1_1_base_cake.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,10,20],
 "d6/dc5/classpocketmine_1_1block_1_1_base_cake.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,12,20],
 "d6/dc5/classpocketmine_1_1block_1_1_base_cake.html#ab51ea2314ed5df2163bca971a462fb72":[2,0,0,0,10,8],
@@ -243,11 +249,5 @@ var NAVTREEINDEX100 =
 "d6/dd1/classpocketmine_1_1block_1_1_candle.html#a8307fc850da5c3f36e9dfc7ce639fe55":[3,0,1,0,44,45],
 "d6/dd1/classpocketmine_1_1block_1_1_candle.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[2,0,0,0,42,28],
 "d6/dd1/classpocketmine_1_1block_1_1_candle.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,44,28],
-"d6/dd1/classpocketmine_1_1block_1_1_candle.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,0,0,42,56],
-"d6/dd1/classpocketmine_1_1block_1_1_candle.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,44,56],
-"d6/dd1/classpocketmine_1_1block_1_1_candle.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,42,11],
-"d6/dd1/classpocketmine_1_1block_1_1_candle.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,44,11],
-"d6/dd1/classpocketmine_1_1block_1_1_candle.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,42,66],
-"d6/dd1/classpocketmine_1_1block_1_1_candle.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,44,66],
-"d6/dd1/classpocketmine_1_1block_1_1_candle.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,42,38]
+"d6/dd1/classpocketmine_1_1block_1_1_candle.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,0,0,42,56]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX39 =
 {
+"d2/d93/classpocketmine_1_1entity_1_1effect_1_1_hunger_effect.html#a73cf76481b94b56fcbb5ea04b5c29293":[3,0,1,7,1,5,0],
+"d2/d93/classpocketmine_1_1entity_1_1effect_1_1_hunger_effect.html#a7b2e804f2bd6d6f11acae88699ccec85":[3,0,1,7,1,5,4],
+"d2/d93/classpocketmine_1_1entity_1_1effect_1_1_hunger_effect.html#ad87756ab79179dded1bb4eb713e506eb":[3,0,1,7,1,5,1],
 "d2/d93/classpocketmine_1_1entity_1_1effect_1_1_hunger_effect.html#ae4622599c73e72cb6a898e4fdf34d978":[3,0,1,7,1,5,8],
 "d2/d93/classpocketmine_1_1player_1_1_player_info.html":[3,0,1,18,9],
 "d2/d93/classpocketmine_1_1player_1_1_player_info.html#ab314a302802ee8f08bc0c64ea739343e":[3,0,1,18,9,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX39 =
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a95cfab40de7390593990a239f8e4af73":[3,0,1,12,25,11],
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a9866a7ab362cec28252d67f6382a4ad4":[2,0,0,5,24,31],
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a9866a7ab362cec28252d67f6382a4ad4":[3,0,1,12,25,31],
-"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[2,0,0,5,24,3],
-"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[3,0,1,12,25,3],
-"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a9dd9484fe3ab1afcbd2627860e01973a":[2,0,0,5,24,43],
-"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a9dd9484fe3ab1afcbd2627860e01973a":[3,0,1,12,25,43]
+"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[2,0,0,5,24,3]
 };

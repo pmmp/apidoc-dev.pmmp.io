@@ -1,5 +1,11 @@
 var NAVTREEINDEX147 =
 {
+"d9/d94/classpocketmine_1_1world_1_1sound_1_1_block_place_sound.html#a54726769a0c59d6dfd61b0f271183b2c":[3,0,1,30,5,18,0],
+"d9/d97/classpocketmine_1_1event_1_1world_1_1_world_event.html":[2,0,0,3,6,7],
+"d9/d97/classpocketmine_1_1event_1_1world_1_1_world_event.html":[3,0,1,9,6,7],
+"d9/d97/classpocketmine_1_1event_1_1world_1_1_world_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,6,7,0],
+"d9/d97/classpocketmine_1_1event_1_1world_1_1_world_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,6,7,0],
+"d9/d97/classpocketmine_1_1event_1_1world_1_1_world_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,0,3,6,7,1],
 "d9/d97/classpocketmine_1_1event_1_1world_1_1_world_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,6,7,1],
 "d9/d97/classpocketmine_1_1item_1_1_clock.html":[2,0,0,5,21],
 "d9/d97/classpocketmine_1_1item_1_1_clock.html":[3,0,1,12,22],
@@ -243,11 +249,5 @@ var NAVTREEINDEX147 =
 "d9/db1/classpocketmine_1_1item_1_1_medicine.html#a536378f334334c0e8b06e5ccaeb4de39":[2,0,0,5,67,31],
 "d9/db1/classpocketmine_1_1item_1_1_medicine.html#a536378f334334c0e8b06e5ccaeb4de39":[3,0,1,12,68,31],
 "d9/db1/classpocketmine_1_1item_1_1_medicine.html#a568624515bba5ff57e21ec8c828ade56":[2,0,0,5,67,5],
-"d9/db1/classpocketmine_1_1item_1_1_medicine.html#a568624515bba5ff57e21ec8c828ade56":[3,0,1,12,68,5],
-"d9/db1/classpocketmine_1_1item_1_1_medicine.html#a5b53d78436bbdb5d53102fda463be4e6":[2,0,0,5,67,52],
-"d9/db1/classpocketmine_1_1item_1_1_medicine.html#a5b53d78436bbdb5d53102fda463be4e6":[3,0,1,12,68,52],
-"d9/db1/classpocketmine_1_1item_1_1_medicine.html#a67b44433c553602d7c851b1ca23e6e5e":[2,0,0,5,67,43],
-"d9/db1/classpocketmine_1_1item_1_1_medicine.html#a67b44433c553602d7c851b1ca23e6e5e":[3,0,1,12,68,43],
-"d9/db1/classpocketmine_1_1item_1_1_medicine.html#a71289362f9d561347b5c8c2717eb0512":[2,0,0,5,67,41],
-"d9/db1/classpocketmine_1_1item_1_1_medicine.html#a71289362f9d561347b5c8c2717eb0512":[3,0,1,12,68,41]
+"d9/db1/classpocketmine_1_1item_1_1_medicine.html#a568624515bba5ff57e21ec8c828ade56":[3,0,1,12,68,5]
 };

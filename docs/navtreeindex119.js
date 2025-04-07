@@ -1,5 +1,11 @@
 var NAVTREEINDEX119 =
 {
+"d8/d07/classpocketmine_1_1item_1_1_bamboo.html#aabd7c38d2f74e537da5bcc6149570fd8":[3,0,1,12,8,17],
+"d8/d07/classpocketmine_1_1item_1_1_bamboo.html#aad9f6fbf32449170a157b787d4227ee6":[2,0,0,5,7,28],
+"d8/d07/classpocketmine_1_1item_1_1_bamboo.html#aad9f6fbf32449170a157b787d4227ee6":[3,0,1,12,8,28],
+"d8/d07/classpocketmine_1_1item_1_1_bamboo.html#aba073e91196cf2978057ec4d3842aa76":[2,0,0,5,7,39],
+"d8/d07/classpocketmine_1_1item_1_1_bamboo.html#aba073e91196cf2978057ec4d3842aa76":[3,0,1,12,8,39],
+"d8/d07/classpocketmine_1_1item_1_1_bamboo.html#abd2688f008221d4c5fcdacac754d807e":[2,0,0,5,7,36],
 "d8/d07/classpocketmine_1_1item_1_1_bamboo.html#abd2688f008221d4c5fcdacac754d807e":[3,0,1,12,8,36],
 "d8/d07/classpocketmine_1_1item_1_1_bamboo.html#abe253aa6fbfe2fc36389edadb753ffc7":[2,0,0,5,7,18],
 "d8/d07/classpocketmine_1_1item_1_1_bamboo.html#abe253aa6fbfe2fc36389edadb753ffc7":[3,0,1,12,8,18],
@@ -243,11 +249,5 @@ var NAVTREEINDEX119 =
 "d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aa27432059ecfd201a3cec74253b21fa9":[3,0,1,12,13,46],
 "d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aa2834fb1656bc61244f5a24091aaa600":[2,0,0,5,12,34],
 "d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aa2834fb1656bc61244f5a24091aaa600":[3,0,1,12,13,34],
-"d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aa807b0fa5751723fed80570a4de1231b":[2,0,0,5,12,42],
-"d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aa807b0fa5751723fed80570a4de1231b":[3,0,1,12,13,42],
-"d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aabd7c38d2f74e537da5bcc6149570fd8":[2,0,0,5,12,17],
-"d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aabd7c38d2f74e537da5bcc6149570fd8":[3,0,1,12,13,17],
-"d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aad9f6fbf32449170a157b787d4227ee6":[2,0,0,5,12,28],
-"d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aad9f6fbf32449170a157b787d4227ee6":[3,0,1,12,13,28],
-"d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aba073e91196cf2978057ec4d3842aa76":[2,0,0,5,12,39]
+"d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aa807b0fa5751723fed80570a4de1231b":[2,0,0,5,12,42]
 };

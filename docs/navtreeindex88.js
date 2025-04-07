@@ -1,5 +1,10 @@
 var NAVTREEINDEX88 =
 {
+"d6/d3a/classpocketmine_1_1block_1_1_hopper.html#a09f4667329f89292dd319d56c4243b59":[3,0,1,0,127,30],
+"d6/d3a/classpocketmine_1_1block_1_1_hopper.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,125,18],
+"d6/d3a/classpocketmine_1_1block_1_1_hopper.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,127,18],
+"d6/d3a/classpocketmine_1_1block_1_1_hopper.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,125,47],
+"d6/d3a/classpocketmine_1_1block_1_1_hopper.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,127,47],
 "d6/d3a/classpocketmine_1_1block_1_1_hopper.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,125,3],
 "d6/d3a/classpocketmine_1_1block_1_1_hopper.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,127,3],
 "d6/d3a/classpocketmine_1_1block_1_1_hopper.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,125,22],
@@ -244,10 +249,5 @@ var NAVTREEINDEX88 =
 "d6/d48/classpocketmine_1_1network_1_1mcpe_1_1cache_1_1_crafting_data_cache.html":[3,0,1,16,0,1,1],
 "d6/d49/block_2tile_2_banner_8php_source.html":[4,0,0,0,1,0],
 "d6/d4a/_instant_enchant_particle_8php_source.html":[4,0,0,25,4,20],
-"d6/d4b/_input_mode_8php_source.html":[4,0,1,0,1,0,1,42],
-"d6/d4b/_runtime_enum_metadata_8php_source.html":[4,0,0,5,2,5],
-"d6/d4d/_stained_hardened_glass_pane_8php_source.html":[4,0,0,0,211],
-"d6/d4e/_legacy_telemetry_event_packet_8php_source.html":[4,0,1,0,1,0,86],
-"d6/d4e/classpocketmine_1_1block_1_1inventory_1_1_enchant_inventory.html":[3,0,1,0,0,9],
-"d6/d4e/classpocketmine_1_1block_1_1inventory_1_1_enchant_inventory.html#a0104746c6eceddc519011f354d610438":[3,0,1,0,0,9,6]
+"d6/d4b/_input_mode_8php_source.html":[4,0,1,0,1,0,1,42]
 };

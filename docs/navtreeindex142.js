@@ -1,5 +1,11 @@
 var NAVTREEINDEX142 =
 {
+"d9/d42/classpocketmine_1_1world_1_1biome_1_1_ice_plains_biome.html#a3bd95c376c2ca535cb932b700bde38dc":[3,0,1,30,0,6,0],
+"d9/d42/classpocketmine_1_1world_1_1biome_1_1_ice_plains_biome.html#aee779e604579f71977cc5624dc8dfd0f":[3,0,1,30,0,6,1],
+"d9/d43/classpocketmine_1_1_time_tracking_sleeper_handler.html":[2,0,0,22],
+"d9/d43/classpocketmine_1_1_time_tracking_sleeper_handler.html":[3,0,1,38],
+"d9/d43/classpocketmine_1_1_time_tracking_sleeper_handler.html#a04e4b325df3590310bdccb730ebf973c":[2,0,0,22,3],
+"d9/d43/classpocketmine_1_1_time_tracking_sleeper_handler.html#a04e4b325df3590310bdccb730ebf973c":[3,0,1,38,3],
 "d9/d43/classpocketmine_1_1_time_tracking_sleeper_handler.html#a145964df2b4a24ccad78b8b2ea90a4aa":[2,0,0,22,5],
 "d9/d43/classpocketmine_1_1_time_tracking_sleeper_handler.html#a145964df2b4a24ccad78b8b2ea90a4aa":[3,0,1,38,5],
 "d9/d43/classpocketmine_1_1_time_tracking_sleeper_handler.html#a553ac63ad3bb2eda28cbd5b0309fe246":[2,0,0,22,6],
@@ -243,11 +249,5 @@ var NAVTREEINDEX142 =
 "d9/d54/classpocketmine_1_1event_1_1player_1_1_player_view_distance_change_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,3,45,3],
 "d9/d54/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_inventory_transaction_packet.html":[3,0,1,16,0,6,79],
 "d9/d54/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_inventory_transaction_packet.html#a0a9b7720331b05f761c580325cb5f9ac":[3,0,1,16,0,6,79,2],
-"d9/d54/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_inventory_transaction_packet.html#a1acc03422aa4ca804f2f8a1cd3fbb635":[3,0,1,16,0,6,79,5],
-"d9/d54/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_inventory_transaction_packet.html#a7535f8bd7d9d491e00a4ebb1137d6ce7":[3,0,1,16,0,6,79,7],
-"d9/d54/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_inventory_transaction_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,79,4],
-"d9/d54/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_inventory_transaction_packet.html#a95bc9a94d12043c401a3c71393d47c1e":[3,0,1,16,0,6,79,6],
-"d9/d54/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_inventory_transaction_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,79,0],
-"d9/d54/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_inventory_transaction_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,79,3],
-"d9/d54/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_inventory_transaction_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,79,1]
+"d9/d54/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_inventory_transaction_packet.html#a1acc03422aa4ca804f2f8a1cd3fbb635":[3,0,1,16,0,6,79,5]
 };

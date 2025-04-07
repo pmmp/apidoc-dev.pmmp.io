@@ -1,5 +1,8 @@
 var NAVTREEINDEX42 =
 {
+"d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,64,38],
+"d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,66,38],
+"d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,64,7],
 "d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,66,7],
 "d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,64,4],
 "d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,66,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX42 =
 "d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#ae2543fd294d689ca6850d5bc78710522":[3,0,1,12,44,35],
 "d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#aec8070c04112770e0d01a3c56b252e81":[2,0,0,5,43,45],
 "d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#aec8070c04112770e0d01a3c56b252e81":[3,0,1,12,44,45],
-"d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#af737301b899b7a7c9e9b0bb9a234a119":[2,0,0,5,43,7],
-"d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#af737301b899b7a7c9e9b0bb9a234a119":[3,0,1,12,44,7],
-"d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#af85accbedba28b67bb66d5f12d329585":[2,0,0,5,43,37],
-"d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,44,37]
+"d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#af737301b899b7a7c9e9b0bb9a234a119":[2,0,0,5,43,7]
 };

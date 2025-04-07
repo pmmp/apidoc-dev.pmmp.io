@@ -1,5 +1,11 @@
 var NAVTREEINDEX176 =
 {
+"dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,88,28],
+"dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,0,0,86,56],
+"dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,88,56],
+"dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,86,11],
+"dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,88,11],
+"dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,86,66],
 "dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,88,66],
 "dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,86,38],
 "dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,88,38],
@@ -243,11 +249,5 @@ var NAVTREEINDEX176 =
 "dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a3a46169e7d256b3a1f3af8c54ddba832":[2,0,0,0,83,63],
 "dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a3a46169e7d256b3a1f3af8c54ddba832":[3,0,1,0,85,63],
 "dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,0,0,83,10],
-"dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,85,10],
-"dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a3d865c31d128c45f03ff6d1c1c8c1ca2":[2,0,0,0,83,23],
-"dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a3d865c31d128c45f03ff6d1c1c8c1ca2":[3,0,1,0,85,23],
-"dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,83,44],
-"dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a43e3458847422ebd5dec6c914b443c93":[3,0,1,0,85,44],
-"dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a49395de82d025ca78745a17528049f18":[2,0,0,0,83,53],
-"dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a49395de82d025ca78745a17528049f18":[3,0,1,0,85,53]
+"dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,85,10]
 };

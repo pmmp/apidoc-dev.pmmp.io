@@ -1,5 +1,11 @@
 var NAVTREEINDEX160 =
 {
+"da/dba/classpocketmine_1_1block_1_1_wooden_button.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[2,0,0,0,244,31],
+"da/dba/classpocketmine_1_1block_1_1_wooden_button.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,246,31],
+"da/dba/classpocketmine_1_1block_1_1_wooden_button.html#ab05ed23d3ff256f3f64cf6d86563c947":[2,0,0,0,244,8],
+"da/dba/classpocketmine_1_1block_1_1_wooden_button.html#ab05ed23d3ff256f3f64cf6d86563c947":[3,0,1,0,246,8],
+"da/dba/classpocketmine_1_1block_1_1_wooden_button.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,244,19],
+"da/dba/classpocketmine_1_1block_1_1_wooden_button.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,246,19],
 "da/dba/classpocketmine_1_1block_1_1_wooden_button.html#ab6b90601adfc9732893dcffe256514a9":[2,0,0,0,244,65],
 "da/dba/classpocketmine_1_1block_1_1_wooden_button.html#ab6b90601adfc9732893dcffe256514a9":[3,0,1,0,246,65],
 "da/dba/classpocketmine_1_1block_1_1_wooden_button.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[2,0,0,0,244,12],
@@ -243,11 +249,5 @@ var NAVTREEINDEX160 =
 "da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a63a59c516524bff04f00d01320264add":[2,0,0,0,229,37],
 "da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a63a59c516524bff04f00d01320264add":[3,0,1,0,231,37],
 "da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a6d3cefce63d654d994f2e1b5dcc11c54":[2,0,0,0,229,20],
-"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a6d3cefce63d654d994f2e1b5dcc11c54":[3,0,1,0,231,20],
-"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a6d937579e316caf0a9f92c20753a66cb":[2,0,0,0,229,50],
-"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a6d937579e316caf0a9f92c20753a66cb":[3,0,1,0,231,50],
-"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a6f13ff76dad934b1b2e078a5b57dd7a5":[2,0,0,0,229,35],
-"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a6f13ff76dad934b1b2e078a5b57dd7a5":[3,0,1,0,231,35],
-"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a757245dc40dfd7bc69aacb369936f4c6":[2,0,0,0,229,30],
-"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a757245dc40dfd7bc69aacb369936f4c6":[3,0,1,0,231,30]
+"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a6d3cefce63d654d994f2e1b5dcc11c54":[3,0,1,0,231,20]
 };

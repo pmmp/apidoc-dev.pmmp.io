@@ -1,5 +1,11 @@
 var NAVTREEINDEX103 =
 {
+"d7/d03/classpocketmine_1_1command_1_1_closure_command.html#acbccfc9431699f8cefb66e359419e1df":[3,0,1,2,2,2],
+"d7/d03/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_block_remap.html":[3,0,1,6,0,0,1,5],
+"d7/d03/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema_block_remap.html#a8cb9e05378e69853be2e830f2f0240db":[3,0,1,6,0,0,1,5,0],
+"d7/d05/_connected_packet_8php_source.html":[4,0,1,0,9,0,2,3],
+"d7/d06/classpocketmine_1_1world_1_1sound_1_1_barrel_open_sound.html":[3,0,1,30,5,13],
+"d7/d06/classpocketmine_1_1world_1_1sound_1_1_barrel_open_sound.html#ad819c8467e3288eb4d77e008d9241844":[3,0,1,30,5,13,0],
 "d7/d08/_mycelium_8php_source.html":[4,0,0,0,153],
 "d7/d08/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_fade_instruction.html":[3,0,1,16,0,6,1,0,7],
 "d7/d08/classpocketmine_1_1snooze_1_1_sleeper_handler.html":[3,0,1,23,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX103 =
 "d7/d18/classpocketmine_1_1block_1_1_copper.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,65,28],
 "d7/d18/classpocketmine_1_1block_1_1_copper.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,0,0,63,56],
 "d7/d18/classpocketmine_1_1block_1_1_copper.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,65,56],
-"d7/d18/classpocketmine_1_1block_1_1_copper.html#a8a733c2fe564a205938a9146c8b0e0f1":[2,0,0,0,63,63],
-"d7/d18/classpocketmine_1_1block_1_1_copper.html#a8a733c2fe564a205938a9146c8b0e0f1":[3,0,1,0,65,63],
-"d7/d18/classpocketmine_1_1block_1_1_copper.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,63,11],
-"d7/d18/classpocketmine_1_1block_1_1_copper.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,65,11],
-"d7/d18/classpocketmine_1_1block_1_1_copper.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,63,67],
-"d7/d18/classpocketmine_1_1block_1_1_copper.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,65,67],
-"d7/d18/classpocketmine_1_1block_1_1_copper.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,63,38]
+"d7/d18/classpocketmine_1_1block_1_1_copper.html#a8a733c2fe564a205938a9146c8b0e0f1":[2,0,0,0,63,63]
 };

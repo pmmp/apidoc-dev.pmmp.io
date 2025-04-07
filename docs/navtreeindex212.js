@@ -1,5 +1,12 @@
 var NAVTREEINDEX212 =
 {
+"de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,152,11],
+"de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,154,11],
+"de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,152,65],
+"de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,154,65],
+"de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a9639a0023765e5e1421bddfa39f911d0":[2,0,0,0,152,20],
+"de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a9639a0023765e5e1421bddfa39f911d0":[3,0,1,0,154,20],
+"de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,152,38],
 "de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,154,38],
 "de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,152,7],
 "de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,154,7],
@@ -242,12 +249,5 @@ var NAVTREEINDEX212 =
 "de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#a1101a9056f8403897cc065084fb0b51e":[2,0,0,3,1,5,11],
 "de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#a1101a9056f8403897cc065084fb0b51e":[3,0,1,9,1,5,11],
 "de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#a2333d7f055234d7fefc00066158bd888":[2,0,0,3,1,5,19],
-"de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#a2333d7f055234d7fefc00066158bd888":[3,0,1,9,1,5,19],
-"de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,1,5,1],
-"de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,1,5,1],
-"de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#a4b7433dada65e341d2cceacdeba13ed9":[2,0,0,3,1,5,18],
-"de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#a4b7433dada65e341d2cceacdeba13ed9":[3,0,1,9,1,5,18],
-"de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#a7d25f40d484225c60e0d68f6d5854061":[2,0,0,3,1,5,12],
-"de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#a7d25f40d484225c60e0d68f6d5854061":[3,0,1,9,1,5,12],
-"de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#a867caf45e63420a4df47fb21363e907a":[2,0,0,3,1,5,6]
+"de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#a2333d7f055234d7fefc00066158bd888":[3,0,1,9,1,5,19]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX97 =
 {
+"d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a36afea9f0214193963f75577e8d48c26":[2,0,0,0,11,59],
+"d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a36afea9f0214193963f75577e8d48c26":[3,0,1,0,13,59],
+"d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a3a46169e7d256b3a1f3af8c54ddba832":[2,0,0,0,11,62],
+"d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a3a46169e7d256b3a1f3af8c54ddba832":[3,0,1,0,13,62],
+"d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,0,0,11,10],
+"d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,13,10],
 "d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,11,44],
 "d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a43e3458847422ebd5dec6c914b443c93":[3,0,1,0,13,44],
 "d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a444028c60ad6c7afacda1a6cc3065e59":[2,0,0,0,11,13],
@@ -243,11 +249,5 @@ var NAVTREEINDEX97 =
 "d6/db4/_camera_aim_assist_packet_8php_source.html":[4,0,1,0,1,0,25],
 "d6/db5/_player_data_save_event_8php_source.html":[4,0,0,7,3,9],
 "d6/db6/_command_request_packet_8php_source.html":[4,0,1,0,1,0,48],
-"d6/db6/classraklib_1_1protocol_1_1_new_incoming_connection.html":[3,0,2,2,14],
-"d6/db6/classraklib_1_1protocol_1_1_new_incoming_connection.html#a053633f1a7ac1d5511328b491fb812e9":[3,0,2,2,14,2],
-"d6/db6/classraklib_1_1protocol_1_1_new_incoming_connection.html#ab8de9fe0266990afaa8ba01c09ff302a":[3,0,2,2,14,1],
-"d6/db6/classraklib_1_1protocol_1_1_new_incoming_connection.html#ac7e76cdbad6daaa6bf594f5d3d46099e":[3,0,2,2,14,0],
-"d6/db7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_update_sub_chunk_blocks_packet_entry.html":[3,0,1,16,0,6,1,81],
-"d6/db9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_resource_pack_data_info_packet.html":[3,0,1,16,0,6,151],
-"d6/db9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_resource_pack_data_info_packet.html#a3006b6d757e05a7d9ca6a41c588e6c75":[3,0,1,16,0,6,151,6]
+"d6/db6/classraklib_1_1protocol_1_1_new_incoming_connection.html":[3,0,2,2,14]
 };

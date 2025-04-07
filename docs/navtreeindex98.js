@@ -1,5 +1,11 @@
 var NAVTREEINDEX98 =
 {
+"d6/db6/classraklib_1_1protocol_1_1_new_incoming_connection.html#a053633f1a7ac1d5511328b491fb812e9":[3,0,2,2,14,2],
+"d6/db6/classraklib_1_1protocol_1_1_new_incoming_connection.html#ab8de9fe0266990afaa8ba01c09ff302a":[3,0,2,2,14,1],
+"d6/db6/classraklib_1_1protocol_1_1_new_incoming_connection.html#ac7e76cdbad6daaa6bf594f5d3d46099e":[3,0,2,2,14,0],
+"d6/db7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_update_sub_chunk_blocks_packet_entry.html":[3,0,1,16,0,6,1,81],
+"d6/db9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_resource_pack_data_info_packet.html":[3,0,1,16,0,6,151],
+"d6/db9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_resource_pack_data_info_packet.html#a3006b6d757e05a7d9ca6a41c588e6c75":[3,0,1,16,0,6,151,6],
 "d6/db9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_resource_pack_data_info_packet.html#a5d11f9194740096fbaf44d93098f2b1a":[3,0,1,16,0,6,151,7],
 "d6/db9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_resource_pack_data_info_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,151,4],
 "d6/db9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_resource_pack_data_info_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,151,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX98 =
 "d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html#a588080e805e50e4f97e1a3d256b8c11e":[2,0,0,0,240,17],
 "d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html#a588080e805e50e4f97e1a3d256b8c11e":[3,0,1,0,242,17],
 "d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html#a60fbeee5c491ef33041066e07ba1ca8c":[2,0,0,0,240,57],
-"d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html#a60fbeee5c491ef33041066e07ba1ca8c":[3,0,1,0,242,57],
-"d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html#a6201b0d5460ae6f3b5cee03197c9a94a":[2,0,0,0,240,43],
-"d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html#a6201b0d5460ae6f3b5cee03197c9a94a":[3,0,1,0,242,43],
-"d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html#a6d3cefce63d654d994f2e1b5dcc11c54":[2,0,0,0,240,24],
-"d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html#a6d3cefce63d654d994f2e1b5dcc11c54":[3,0,1,0,242,24],
-"d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html#a6d937579e316caf0a9f92c20753a66cb":[2,0,0,0,240,55],
-"d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html#a6d937579e316caf0a9f92c20753a66cb":[3,0,1,0,242,55]
+"d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html#a60fbeee5c491ef33041066e07ba1ca8c":[3,0,1,0,242,57]
 };

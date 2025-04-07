@@ -1,5 +1,10 @@
 var NAVTREEINDEX70 =
 {
+"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a4a9aa55600bb30c4d55ad63337874a07":[2,0,0,5,77,6],
+"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a4a9aa55600bb30c4d55ad63337874a07":[3,0,1,12,78,6],
+"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a4f8f013f507342e2208dc8b4c3da964b":[2,0,0,5,77,26],
+"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a4f8f013f507342e2208dc8b4c3da964b":[3,0,1,12,78,26],
+"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a51b97f07ff97887a144198bb3dba6fc4":[2,0,0,5,77,21],
 "d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a51b97f07ff97887a144198bb3dba6fc4":[3,0,1,12,78,21],
 "d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a536378f334334c0e8b06e5ccaeb4de39":[2,0,0,5,77,31],
 "d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a536378f334334c0e8b06e5ccaeb4de39":[3,0,1,12,78,31],
@@ -244,10 +249,5 @@ var NAVTREEINDEX70 =
 "d5/d0c/_sub_chunk_explorer_status_8php_source.html":[4,0,0,25,6,1],
 "d5/d0c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_local_player_as_initialized_packet.html":[3,0,1,16,0,6,174],
 "d5/d0c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_local_player_as_initialized_packet.html#a0e4e6e38bc6db225a87e7fce035a990b":[3,0,1,16,0,6,174,6],
-"d5/d0c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_local_player_as_initialized_packet.html#a4343fd9733233d7929cea492ad342ba6":[3,0,1,16,0,6,174,2],
-"d5/d0c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_local_player_as_initialized_packet.html#a463a7aff02b95378041c07d072f735a8":[3,0,1,16,0,6,174,5],
-"d5/d0c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_local_player_as_initialized_packet.html#a47d0b50c4c4d10735b381e36297c2741":[3,0,1,16,0,6,174,7],
-"d5/d0c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_local_player_as_initialized_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,174,4],
-"d5/d0c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_local_player_as_initialized_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,174,0],
-"d5/d0c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_local_player_as_initialized_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,174,3]
+"d5/d0c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_local_player_as_initialized_packet.html#a4343fd9733233d7929cea492ad342ba6":[3,0,1,16,0,6,174,2]
 };

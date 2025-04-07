@@ -1,5 +1,10 @@
 var NAVTREEINDEX78 =
 {
+"d5/d84/classpocketmine_1_1block_1_1_netherrack.html#a3a46169e7d256b3a1f3af8c54ddba832":[3,0,1,0,157,62],
+"d5/d84/classpocketmine_1_1block_1_1_netherrack.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,0,0,155,10],
+"d5/d84/classpocketmine_1_1block_1_1_netherrack.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,157,10],
+"d5/d84/classpocketmine_1_1block_1_1_netherrack.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,155,44],
+"d5/d84/classpocketmine_1_1block_1_1_netherrack.html#a43e3458847422ebd5dec6c914b443c93":[3,0,1,0,157,44],
 "d5/d84/classpocketmine_1_1block_1_1_netherrack.html#a444028c60ad6c7afacda1a6cc3065e59":[2,0,0,0,155,13],
 "d5/d84/classpocketmine_1_1block_1_1_netherrack.html#a444028c60ad6c7afacda1a6cc3065e59":[3,0,1,0,157,13],
 "d5/d84/classpocketmine_1_1block_1_1_netherrack.html#a49395de82d025ca78745a17528049f18":[2,0,0,0,155,52],
@@ -244,10 +249,5 @@ var NAVTREEINDEX78 =
 "d5/d8b/classpocketmine_1_1block_1_1tile_1_1_flower_pot.html#abca554fae3d02455a9f630b96102faa0":[2,0,0,0,0,16,5],
 "d5/d8b/classpocketmine_1_1block_1_1tile_1_1_flower_pot.html#abca554fae3d02455a9f630b96102faa0":[3,0,1,0,1,16,5],
 "d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html":[3,0,1,7,1,6],
-"d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html#a125c11ecf3e80cdb71ecc6e07f162da4":[3,0,1,7,1,6,7],
-"d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html#a47e78434ab3294753bc42572711b3d49":[3,0,1,7,1,6,6],
-"d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html#a6a3d10360dbcd001a11f3531e3a5234f":[3,0,1,7,1,6,5],
-"d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html#a6f10244e47d1979de4b4b92a84033ef6":[3,0,1,7,1,6,3],
-"d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html#a73cf76481b94b56fcbb5ea04b5c29293":[3,0,1,7,1,6,0],
-"d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html#a74f86736bfc7a4996dec76a943da07c1":[3,0,1,7,1,6,2]
+"d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html#a125c11ecf3e80cdb71ecc6e07f162da4":[3,0,1,7,1,6,7]
 };

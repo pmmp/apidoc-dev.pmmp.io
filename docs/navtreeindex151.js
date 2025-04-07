@@ -1,5 +1,11 @@
 var NAVTREEINDEX151 =
 {
+"da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,81,11],
+"da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,83,11],
+"da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,81,67],
+"da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,83,67],
+"da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#a97c939979dd4faf51cf395881f084132":[2,0,0,0,81,24],
+"da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#a97c939979dd4faf51cf395881f084132":[3,0,1,0,83,24],
 "da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,81,38],
 "da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,83,38],
 "da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,81,7],
@@ -243,11 +249,5 @@ var NAVTREEINDEX151 =
 "da/d0a/classpocketmine_1_1permission_1_1_permission_manager.html#a43a8f05643252277a182926926952242":[3,0,1,17,10,1],
 "da/d0a/classpocketmine_1_1permission_1_1_permission_manager.html#ac7cead8748af81e1588cb258ca47c445":[2,0,0,9,10,3],
 "da/d0a/classpocketmine_1_1permission_1_1_permission_manager.html#ac7cead8748af81e1588cb258ca47c445":[3,0,1,17,10,3],
-"da/d0b/_invalid_command_syntax_exception_8php_source.html":[4,0,0,1,1,2],
-"da/d0c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_game_rule.html":[3,0,1,16,0,6,1,36],
-"da/d0c/namespacepocketmine_1_1command.html":[2,0,0,1],
-"da/d0e/item_2_ender_pearl_8php_source.html":[4,0,0,10,43],
-"da/d10/_xbox_live_player_info_8php_source.html":[4,0,0,14,13],
-"da/d10/classpocketmine_1_1world_1_1biome_1_1_hell_biome.html":[3,0,1,30,0,5],
-"da/d10/classpocketmine_1_1world_1_1biome_1_1_hell_biome.html#a1c38e48a1e0afd5ca3362760e5deea21":[3,0,1,30,0,5,2]
+"da/d0b/_invalid_command_syntax_exception_8php_source.html":[4,0,0,1,1,2]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX120 =
 {
+"d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aa807b0fa5751723fed80570a4de1231b":[3,0,1,12,13,42],
+"d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aabd7c38d2f74e537da5bcc6149570fd8":[2,0,0,5,12,17],
+"d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aabd7c38d2f74e537da5bcc6149570fd8":[3,0,1,12,13,17],
+"d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aad9f6fbf32449170a157b787d4227ee6":[2,0,0,5,12,28],
+"d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aad9f6fbf32449170a157b787d4227ee6":[3,0,1,12,13,28],
+"d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aba073e91196cf2978057ec4d3842aa76":[2,0,0,5,12,39],
 "d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#aba073e91196cf2978057ec4d3842aa76":[3,0,1,12,13,39],
 "d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#abd2688f008221d4c5fcdacac754d807e":[2,0,0,5,12,36],
 "d8/d16/classpocketmine_1_1item_1_1_blaze_rod.html#abd2688f008221d4c5fcdacac754d807e":[3,0,1,12,13,36],
@@ -243,11 +249,5 @@ var NAVTREEINDEX120 =
 "d8/d24/classpocketmine_1_1block_1_1_tinted_glass.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,220,22],
 "d8/d24/classpocketmine_1_1block_1_1_tinted_glass.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[3,0,1,0,222,22],
 "d8/d24/classpocketmine_1_1block_1_1_tinted_glass.html#a286fc64348f13417dcb6106c2695911b":[2,0,0,0,220,2],
-"d8/d24/classpocketmine_1_1block_1_1_tinted_glass.html#a286fc64348f13417dcb6106c2695911b":[3,0,1,0,222,2],
-"d8/d24/classpocketmine_1_1block_1_1_tinted_glass.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[2,0,0,0,220,25],
-"d8/d24/classpocketmine_1_1block_1_1_tinted_glass.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[3,0,1,0,222,25],
-"d8/d24/classpocketmine_1_1block_1_1_tinted_glass.html#a2f69b17d8bb1c49eaf8ee1b13e4fd6e2":[2,0,0,0,220,37],
-"d8/d24/classpocketmine_1_1block_1_1_tinted_glass.html#a2f69b17d8bb1c49eaf8ee1b13e4fd6e2":[3,0,1,0,222,37],
-"d8/d24/classpocketmine_1_1block_1_1_tinted_glass.html#a30a070aa7befb02f9fff5cbf2693c01e":[2,0,0,0,220,9],
-"d8/d24/classpocketmine_1_1block_1_1_tinted_glass.html#a30a070aa7befb02f9fff5cbf2693c01e":[3,0,1,0,222,9]
+"d8/d24/classpocketmine_1_1block_1_1_tinted_glass.html#a286fc64348f13417dcb6106c2695911b":[3,0,1,0,222,2]
 };

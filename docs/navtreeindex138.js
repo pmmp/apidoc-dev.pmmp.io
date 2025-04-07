@@ -1,5 +1,11 @@
 var NAVTREEINDEX138 =
 {
+"d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#a4a9aa55600bb30c4d55ad63337874a07":[3,0,1,12,45,6],
+"d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#a51b97f07ff97887a144198bb3dba6fc4":[2,0,0,5,44,20],
+"d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#a51b97f07ff97887a144198bb3dba6fc4":[3,0,1,12,45,20],
+"d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#a536378f334334c0e8b06e5ccaeb4de39":[2,0,0,5,44,29],
+"d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#a536378f334334c0e8b06e5ccaeb4de39":[3,0,1,12,45,29],
+"d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#a568624515bba5ff57e21ec8c828ade56":[2,0,0,5,44,5],
 "d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#a568624515bba5ff57e21ec8c828ade56":[3,0,1,12,45,5],
 "d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#a5b53d78436bbdb5d53102fda463be4e6":[2,0,0,5,44,48],
 "d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#a5b53d78436bbdb5d53102fda463be4e6":[3,0,1,12,45,48],
@@ -243,11 +249,5 @@ var NAVTREEINDEX138 =
 "d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[3,0,1,0,109,36],
 "d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a4bc78712a6bf9ec1e50890f716dbbd2d":[2,0,0,0,107,61],
 "d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a4bc78712a6bf9ec1e50890f716dbbd2d":[3,0,1,0,109,61],
-"d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[2,0,0,0,107,46],
-"d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[3,0,1,0,109,46],
-"d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a57b1586e3b6d81440be1aa89471f2a2a":[2,0,0,0,107,53],
-"d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a57b1586e3b6d81440be1aa89471f2a2a":[3,0,1,0,109,53],
-"d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a588080e805e50e4f97e1a3d256b8c11e":[2,0,0,0,107,14],
-"d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a588080e805e50e4f97e1a3d256b8c11e":[3,0,1,0,109,14],
-"d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a6201b0d5460ae6f3b5cee03197c9a94a":[2,0,0,0,107,39]
+"d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[2,0,0,0,107,46]
 };

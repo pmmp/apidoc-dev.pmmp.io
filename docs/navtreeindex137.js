@@ -1,5 +1,11 @@
 var NAVTREEINDEX137 =
 {
+"d9/d0a/classpocketmine_1_1item_1_1_cookie.html#a4a9aa55600bb30c4d55ad63337874a07":[2,0,0,5,33,6],
+"d9/d0a/classpocketmine_1_1item_1_1_cookie.html#a4a9aa55600bb30c4d55ad63337874a07":[3,0,1,12,34,6],
+"d9/d0a/classpocketmine_1_1item_1_1_cookie.html#a4f8f013f507342e2208dc8b4c3da964b":[2,0,0,5,33,26],
+"d9/d0a/classpocketmine_1_1item_1_1_cookie.html#a4f8f013f507342e2208dc8b4c3da964b":[3,0,1,12,34,26],
+"d9/d0a/classpocketmine_1_1item_1_1_cookie.html#a51b97f07ff97887a144198bb3dba6fc4":[2,0,0,5,33,21],
+"d9/d0a/classpocketmine_1_1item_1_1_cookie.html#a51b97f07ff97887a144198bb3dba6fc4":[3,0,1,12,34,21],
 "d9/d0a/classpocketmine_1_1item_1_1_cookie.html#a536378f334334c0e8b06e5ccaeb4de39":[2,0,0,5,33,31],
 "d9/d0a/classpocketmine_1_1item_1_1_cookie.html#a536378f334334c0e8b06e5ccaeb4de39":[3,0,1,12,34,31],
 "d9/d0a/classpocketmine_1_1item_1_1_cookie.html#a568624515bba5ff57e21ec8c828ade56":[2,0,0,5,33,5],
@@ -243,11 +249,5 @@ var NAVTREEINDEX137 =
 "d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#a3bc65b2324649d8735dadf9bf8cf0705":[3,0,1,12,45,44],
 "d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#a49a05b01faaaf071449c97060fe44926":[2,0,0,5,44,0],
 "d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#a49a05b01faaaf071449c97060fe44926":[3,0,1,12,45,0],
-"d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#a4a9aa55600bb30c4d55ad63337874a07":[2,0,0,5,44,6],
-"d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#a4a9aa55600bb30c4d55ad63337874a07":[3,0,1,12,45,6],
-"d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#a51b97f07ff97887a144198bb3dba6fc4":[2,0,0,5,44,20],
-"d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#a51b97f07ff97887a144198bb3dba6fc4":[3,0,1,12,45,20],
-"d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#a536378f334334c0e8b06e5ccaeb4de39":[2,0,0,5,44,29],
-"d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#a536378f334334c0e8b06e5ccaeb4de39":[3,0,1,12,45,29],
-"d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#a568624515bba5ff57e21ec8c828ade56":[2,0,0,5,44,5]
+"d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#a4a9aa55600bb30c4d55ad63337874a07":[2,0,0,5,44,6]
 };
