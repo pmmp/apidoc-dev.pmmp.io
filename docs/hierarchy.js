@@ -874,6 +874,7 @@ var hierarchy =
         [ "pocketmine\\event\\entity\\EntityDespawnEvent", "dc/d06/classpocketmine_1_1event_1_1entity_1_1_entity_despawn_event.html", null ],
         [ "pocketmine\\event\\entity\\EntityEffectEvent", "d9/d22/classpocketmine_1_1event_1_1entity_1_1_entity_effect_event.html", null ],
         [ "pocketmine\\event\\entity\\EntityExplodeEvent", "d9/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_explode_event.html", null ],
+        [ "pocketmine\\event\\entity\\EntityExtinguishEvent", "d7/d5a/classpocketmine_1_1event_1_1entity_1_1_entity_extinguish_event.html", null ],
         [ "pocketmine\\event\\entity\\EntityItemPickupEvent", "dc/d5b/classpocketmine_1_1event_1_1entity_1_1_entity_item_pickup_event.html", null ],
         [ "pocketmine\\event\\entity\\EntityMotionEvent", "d5/d70/classpocketmine_1_1event_1_1entity_1_1_entity_motion_event.html", null ],
         [ "pocketmine\\event\\entity\\EntityPreExplodeEvent", "d4/dd2/classpocketmine_1_1event_1_1entity_1_1_entity_pre_explode_event.html", null ],

@@ -1,5 +1,17 @@
 var NAVTREEINDEX112 =
 {
+"d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a30a070aa7befb02f9fff5cbf2693c01e":[2,0,0,0,41,9],
+"d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a30a070aa7befb02f9fff5cbf2693c01e":[3,0,1,0,43,9],
+"d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a36afea9f0214193963f75577e8d48c26":[2,0,0,0,41,61],
+"d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a36afea9f0214193963f75577e8d48c26":[3,0,1,0,43,61],
+"d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a39af55e6186ce506b5a828d60457e472":[2,0,0,0,41,32],
+"d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a39af55e6186ce506b5a828d60457e472":[3,0,1,0,43,32],
+"d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,0,0,41,10],
+"d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,43,10],
+"d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a41d5a4c06b5bea06efa0492f993ad673":[2,0,0,0,41,64],
+"d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a41d5a4c06b5bea06efa0492f993ad673":[3,0,1,0,43,64],
+"d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,41,46],
+"d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a43e3458847422ebd5dec6c914b443c93":[3,0,1,0,43,46],
 "d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a4546508b1d31f8091f12aa83a8ecbc32":[2,0,0,0,41,30],
 "d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a4546508b1d31f8091f12aa83a8ecbc32":[3,0,1,0,43,30],
 "d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a46b1d08b1e2a07b95da6e4f00d7f8a6e":[2,0,0,0,41,47],
@@ -237,17 +249,5 @@ var NAVTREEINDEX112 =
 "d7/da2/_biome_selector_8php_source.html":[4,0,0,25,2,0,0],
 "d7/da2/classpocketmine_1_1player_1_1_xbox_live_player_info.html":[3,0,1,18,11],
 "d7/da2/classpocketmine_1_1player_1_1_xbox_live_player_info.html#a0935730434c7d0d55a70100adddc96ae":[3,0,1,18,11,1],
-"d7/da2/classpocketmine_1_1player_1_1_xbox_live_player_info.html#ad49ab2cfea72ac999e2bf075e6f0f4d1":[3,0,1,18,11,0],
-"d7/da3/_update_equip_packet_8php_source.html":[4,0,1,0,1,0,215],
-"d7/da3/classpocketmine_1_1block_1_1_beetroot.html":[2,0,0,0,18],
-"d7/da3/classpocketmine_1_1block_1_1_beetroot.html":[3,0,1,0,20],
-"d7/da3/classpocketmine_1_1block_1_1_beetroot.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,18,58],
-"d7/da3/classpocketmine_1_1block_1_1_beetroot.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,20,58],
-"d7/da3/classpocketmine_1_1block_1_1_beetroot.html#a097af4a935135a8524d812f497373075":[2,0,0,0,18,63],
-"d7/da3/classpocketmine_1_1block_1_1_beetroot.html#a097af4a935135a8524d812f497373075":[3,0,1,0,20,63],
-"d7/da3/classpocketmine_1_1block_1_1_beetroot.html#a09f4667329f89292dd319d56c4243b59":[2,0,0,0,18,30],
-"d7/da3/classpocketmine_1_1block_1_1_beetroot.html#a09f4667329f89292dd319d56c4243b59":[3,0,1,0,20,30],
-"d7/da3/classpocketmine_1_1block_1_1_beetroot.html#a100d52a6751c10717cb0fd23369e0140":[2,0,0,0,18,20],
-"d7/da3/classpocketmine_1_1block_1_1_beetroot.html#a100d52a6751c10717cb0fd23369e0140":[3,0,1,0,20,20],
-"d7/da3/classpocketmine_1_1block_1_1_beetroot.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,18,18]
+"d7/da2/classpocketmine_1_1player_1_1_xbox_live_player_info.html#ad49ab2cfea72ac999e2bf075e6f0f4d1":[3,0,1,18,11,0]
 };

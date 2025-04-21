@@ -80,7 +80,7 @@ var NAVTREEINDEX44 =
 "d3/d11/classpocketmine_1_1world_1_1sound_1_1_item_frame_remove_item_sound.html#a362d49ca92816a99117649e7563dad01":[3,0,1,30,5,74,0],
 "d3/d12/tile_2_monster_spawner_8php_source.html":[4,0,0,0,1,25],
 "d3/d14/_trim_pattern_8php_source.html":[4,0,1,0,1,0,1,87],
-"d3/d15/_entity_pre_explode_event_8php_source.html":[4,0,0,7,1,17],
+"d3/d15/_entity_pre_explode_event_8php_source.html":[4,0,0,7,1,18],
 "d3/d16/_crafting_recipe_block_name_8php_source.html":[4,0,1,0,1,0,1,6,1],
 "d3/d16/_fire_charge_8php_source.html":[4,0,0,10,46],
 "d3/d16/classpocketmine_1_1plugin_1_1_plugin_description.html":[2,0,0,10,6],
