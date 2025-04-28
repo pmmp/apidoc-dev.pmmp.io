@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.27.2 git-d86943fa8c6384be3e2c1901ebf94f584b27e784</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.27.2 git-8e1426e25e88988c81731d24954c4bb3e2282f61</span>
    </div>
   </td>
  </tr>
@@ -2464,7 +2464,7 @@ $(function(){initNavTree('d9/d88/_world_8php_source.html','../../'); initResizab
 <div class="line"><a id="l02759" name="l02759"></a><span class="lineno"> 2759</span>                <span class="keywordflow">throw</span> <span class="keyword">new</span> AssumptionFailedError(<span class="stringliteral">&quot;Found two different entities sharing entity ID &quot;</span> . $entity-&gt;getId());</div>
 <div class="line"><a id="l02760" name="l02760"></a><span class="lineno"> 2760</span>            }</div>
 <div class="line"><a id="l02761" name="l02761"></a><span class="lineno"> 2761</span>        }</div>
-<div class="line"><a id="l02762" name="l02762"></a><span class="lineno"> 2762</span>        <span class="keywordflow">if</span>(!EntityFactory::getInstance()-&gt;isRegistered($entity::class)){</div>
+<div class="line"><a id="l02762" name="l02762"></a><span class="lineno"> 2762</span>        <span class="keywordflow">if</span>(!EntityFactory::getInstance()-&gt;isRegistered($entity::class) &amp;&amp; !$entity instanceof Player){</div>
 <div class="line"><a id="l02763" name="l02763"></a><span class="lineno"> 2763</span>            <span class="comment">//canSaveWithChunk is mutable, so that means it could be toggled after adding the entity and cause a crash</span></div>
 <div class="line"><a id="l02764" name="l02764"></a><span class="lineno"> 2764</span>            <span class="comment">//later on. Better we just force all entities to have a save ID, even if it might not be needed.</span></div>
 <div class="line"><a id="l02765" name="l02765"></a><span class="lineno"> 2765</span>            <span class="keywordflow">throw</span> new \LogicException(<span class="stringliteral">&quot;Entity &quot;</span> . $entity::class . <span class="stringliteral">&quot; is not registered for a save ID in EntityFactory&quot;</span>);</div>
