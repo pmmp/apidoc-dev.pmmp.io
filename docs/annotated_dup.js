@@ -1849,6 +1849,7 @@ var annotated_dup =
           [ "GeneratorUnregisterTask", "d0/dac/classpocketmine_1_1world_1_1generator_1_1_generator_unregister_task.html", "d0/dac/classpocketmine_1_1world_1_1generator_1_1_generator_unregister_task" ],
           [ "InvalidGeneratorOptionsException", "dc/d83/classpocketmine_1_1world_1_1generator_1_1_invalid_generator_options_exception.html", null ],
           [ "PopulationTask", "d9/d4a/classpocketmine_1_1world_1_1generator_1_1_population_task.html", "d9/d4a/classpocketmine_1_1world_1_1generator_1_1_population_task" ],
+          [ "PopulationUtils", "d7/d7c/classpocketmine_1_1world_1_1generator_1_1_population_utils.html", "d7/d7c/classpocketmine_1_1world_1_1generator_1_1_population_utils" ],
           [ "ThreadLocalGeneratorContext", "d0/d9d/classpocketmine_1_1world_1_1generator_1_1_thread_local_generator_context.html", null ]
         ] ],
         [ "light", null, [

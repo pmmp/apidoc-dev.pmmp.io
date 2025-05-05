@@ -1,5 +1,10 @@
 var NAVTREEINDEX181 =
 {
+"dc/d54/classpocketmine_1_1item_1_1_cooked_rabbit.html#a23c827b82179f8a57b786a6fa38d08e8":[2,0,0,5,31,20],
+"dc/d54/classpocketmine_1_1item_1_1_cooked_rabbit.html#a23c827b82179f8a57b786a6fa38d08e8":[3,0,1,12,32,20],
+"dc/d54/classpocketmine_1_1item_1_1_cooked_rabbit.html#a27ef1db0d41125973529fb720b06a00d":[2,0,0,5,31,34],
+"dc/d54/classpocketmine_1_1item_1_1_cooked_rabbit.html#a27ef1db0d41125973529fb720b06a00d":[3,0,1,12,32,34],
+"dc/d54/classpocketmine_1_1item_1_1_cooked_rabbit.html#a2b35e6f346e5955b086fcc07ead985a7":[2,0,0,5,31,25],
 "dc/d54/classpocketmine_1_1item_1_1_cooked_rabbit.html#a2b35e6f346e5955b086fcc07ead985a7":[3,0,1,12,32,25],
 "dc/d54/classpocketmine_1_1item_1_1_cooked_rabbit.html#a2bcaa528592d9ae259e2e6d0b89f375d":[2,0,0,5,31,22],
 "dc/d54/classpocketmine_1_1item_1_1_cooked_rabbit.html#a2bcaa528592d9ae259e2e6d0b89f375d":[3,0,1,12,32,22],
@@ -244,10 +249,5 @@ var NAVTREEINDEX181 =
 "dc/d60/classpocketmine_1_1block_1_1_slab.html#a771a30c30a36b0992f54c57dc63af10d":[3,0,1,0,196,42],
 "dc/d60/classpocketmine_1_1block_1_1_slab.html#a8307fc850da5c3f36e9dfc7ce639fe55":[2,0,0,0,194,47],
 "dc/d60/classpocketmine_1_1block_1_1_slab.html#a8307fc850da5c3f36e9dfc7ce639fe55":[3,0,1,0,196,47],
-"dc/d60/classpocketmine_1_1block_1_1_slab.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[2,0,0,0,194,29],
-"dc/d60/classpocketmine_1_1block_1_1_slab.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,196,29],
-"dc/d60/classpocketmine_1_1block_1_1_slab.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,0,0,194,58],
-"dc/d60/classpocketmine_1_1block_1_1_slab.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,196,58],
-"dc/d60/classpocketmine_1_1block_1_1_slab.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,194,12],
-"dc/d60/classpocketmine_1_1block_1_1_slab.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,196,12]
+"dc/d60/classpocketmine_1_1block_1_1_slab.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[2,0,0,0,194,29]
 };

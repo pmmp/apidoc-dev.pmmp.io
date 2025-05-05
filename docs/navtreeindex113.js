@@ -1,5 +1,9 @@
 var NAVTREEINDEX113 =
 {
+"d7/da2/_biome_selector_8php_source.html":[4,0,0,25,2,0,0],
+"d7/da2/classpocketmine_1_1player_1_1_xbox_live_player_info.html":[3,0,1,18,11],
+"d7/da2/classpocketmine_1_1player_1_1_xbox_live_player_info.html#a0935730434c7d0d55a70100adddc96ae":[3,0,1,18,11,1],
+"d7/da2/classpocketmine_1_1player_1_1_xbox_live_player_info.html#ad49ab2cfea72ac999e2bf075e6f0f4d1":[3,0,1,18,11,0],
 "d7/da3/_update_equip_packet_8php_source.html":[4,0,1,0,1,0,215],
 "d7/da3/classpocketmine_1_1block_1_1_beetroot.html":[2,0,0,0,18],
 "d7/da3/classpocketmine_1_1block_1_1_beetroot.html":[3,0,1,0,20],
@@ -245,9 +249,5 @@ var NAVTREEINDEX113 =
 "d7/dd1/_sign_like_rotation_trait_8php_source.html":[4,0,0,0,2,41],
 "d7/dd2/_network_stack_latency_packet_8php_source.html":[4,0,1,0,1,0,108],
 "d7/dd3/classpocketmine_1_1block_1_1_amethyst_cluster.html":[2,0,0,0,3],
-"d7/dd3/classpocketmine_1_1block_1_1_amethyst_cluster.html":[3,0,1,0,5],
-"d7/dd3/classpocketmine_1_1block_1_1_amethyst_cluster.html#a028afd613a6f42370ede9aec4c9796d6":[2,0,0,0,3,48],
-"d7/dd3/classpocketmine_1_1block_1_1_amethyst_cluster.html#a028afd613a6f42370ede9aec4c9796d6":[3,0,1,0,5,48],
-"d7/dd3/classpocketmine_1_1block_1_1_amethyst_cluster.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,3,58],
-"d7/dd3/classpocketmine_1_1block_1_1_amethyst_cluster.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,5,58]
+"d7/dd3/classpocketmine_1_1block_1_1_amethyst_cluster.html":[3,0,1,0,5]
 };

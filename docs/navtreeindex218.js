@@ -1,5 +1,10 @@
 var NAVTREEINDEX218 =
 {
+"de/dc3/classpocketmine_1_1nbt_1_1_base_nbt_serializer.html#a298e44866a7dc311ba782af3bdc7821c":[2,0,0,7,0,3],
+"de/dc3/classpocketmine_1_1nbt_1_1_base_nbt_serializer.html#a298e44866a7dc311ba782af3bdc7821c":[3,0,1,15,1,3],
+"de/dc3/classpocketmine_1_1nbt_1_1_base_nbt_serializer.html#a4e3f681b4251ea64da8f24a4849415c7":[2,0,0,7,0,2],
+"de/dc3/classpocketmine_1_1nbt_1_1_base_nbt_serializer.html#a4e3f681b4251ea64da8f24a4849415c7":[3,0,1,15,1,2],
+"de/dc3/classpocketmine_1_1nbt_1_1_base_nbt_serializer.html#a5484f8798e35c2d3c858b48925c0d0e0":[2,0,0,7,0,16],
 "de/dc3/classpocketmine_1_1nbt_1_1_base_nbt_serializer.html#a5484f8798e35c2d3c858b48925c0d0e0":[3,0,1,15,1,16],
 "de/dc3/classpocketmine_1_1nbt_1_1_base_nbt_serializer.html#a58ecd1aaba0e938898dd47d2964b3a8f":[2,0,0,7,0,4],
 "de/dc3/classpocketmine_1_1nbt_1_1_base_nbt_serializer.html#a58ecd1aaba0e938898dd47d2964b3a8f":[3,0,1,15,1,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX218 =
 "de/dd0/classpocketmine_1_1block_1_1_redstone_repeater.html#acad447ae6871011a50cd1a514bbafcfa":[3,0,1,0,182,13],
 "de/dd0/classpocketmine_1_1block_1_1_redstone_repeater.html#acb449b40461f4800cf6e6288cb9a069d":[2,0,0,0,180,0],
 "de/dd0/classpocketmine_1_1block_1_1_redstone_repeater.html#acb449b40461f4800cf6e6288cb9a069d":[3,0,1,0,182,0],
-"de/dd0/classpocketmine_1_1block_1_1_redstone_repeater.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,180,24],
-"de/dd0/classpocketmine_1_1block_1_1_redstone_repeater.html#acb7cc5bba94398c6a329b3b2af8fa859":[3,0,1,0,182,24],
-"de/dd0/classpocketmine_1_1block_1_1_redstone_repeater.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[2,0,0,0,180,57],
-"de/dd0/classpocketmine_1_1block_1_1_redstone_repeater.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[3,0,1,0,182,57],
-"de/dd0/classpocketmine_1_1block_1_1_redstone_repeater.html#acfa7766036568571b645ae89ceb1029e":[2,0,0,0,180,43],
-"de/dd0/classpocketmine_1_1block_1_1_redstone_repeater.html#acfa7766036568571b645ae89ceb1029e":[3,0,1,0,182,43]
+"de/dd0/classpocketmine_1_1block_1_1_redstone_repeater.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,180,24]
 };

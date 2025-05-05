@@ -1,5 +1,9 @@
 var NAVTREEINDEX152 =
 {
+"da/d0a/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_flatten_info.html#a2d7ace9c5005c55d491973d49a911f59":[3,0,1,6,0,0,1,0,2,0],
+"da/d0a/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_flatten_info.html#a4892055fa85bf0f90519f3dd601e22dc":[3,0,1,6,0,0,1,0,2,4],
+"da/d0a/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_flatten_info.html#a4e1f5035249fcd4a00aa7a441f1385ad":[3,0,1,6,0,0,1,0,2,3],
+"da/d0a/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_flatten_info.html#aff2edf5d08220df2da914a58e96a2893":[3,0,1,6,0,0,1,0,2,1],
 "da/d0a/classpocketmine_1_1permission_1_1_permission_manager.html":[2,0,0,9,10],
 "da/d0a/classpocketmine_1_1permission_1_1_permission_manager.html":[3,0,1,17,10],
 "da/d0a/classpocketmine_1_1permission_1_1_permission_manager.html#a089e8295cb5a806a9657047a359b85cd":[2,0,0,9,10,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX152 =
 "da/d24/classpocketmine_1_1block_1_1_bone_block.html#a3a46169e7d256b3a1f3af8c54ddba832":[3,0,1,0,32,62],
 "da/d24/classpocketmine_1_1block_1_1_bone_block.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,0,0,30,10],
 "da/d24/classpocketmine_1_1block_1_1_bone_block.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,32,10],
-"da/d24/classpocketmine_1_1block_1_1_bone_block.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,30,44],
-"da/d24/classpocketmine_1_1block_1_1_bone_block.html#a43e3458847422ebd5dec6c914b443c93":[3,0,1,0,32,44],
-"da/d24/classpocketmine_1_1block_1_1_bone_block.html#a444028c60ad6c7afacda1a6cc3065e59":[2,0,0,0,30,13],
-"da/d24/classpocketmine_1_1block_1_1_bone_block.html#a444028c60ad6c7afacda1a6cc3065e59":[3,0,1,0,32,13],
-"da/d24/classpocketmine_1_1block_1_1_bone_block.html#a49395de82d025ca78745a17528049f18":[2,0,0,0,30,52]
+"da/d24/classpocketmine_1_1block_1_1_bone_block.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,30,44]
 };

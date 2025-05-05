@@ -235,6 +235,10 @@ var NAVTREEINDEX110 =
 "d7/d79/classpocketmine_1_1form_1_1_form_validation_exception.html":[3,0,1,10,1],
 "d7/d7b/_seed_command_8php_source.html":[4,0,0,1,0,27],
 "d7/d7b/tile_2_bed_8php_source.html":[4,0,0,0,1,3],
+"d7/d7c/classpocketmine_1_1world_1_1generator_1_1_population_utils.html":[2,0,0,14,0,12],
+"d7/d7c/classpocketmine_1_1world_1_1generator_1_1_population_utils.html":[3,0,1,30,2,16],
+"d7/d7c/classpocketmine_1_1world_1_1generator_1_1_population_utils.html#ada587d34bd12fe7bfdd99bc1554a8e8c":[2,0,0,14,0,12,0],
+"d7/d7c/classpocketmine_1_1world_1_1generator_1_1_population_utils.html#ada587d34bd12fe7bfdd99bc1554a8e8c":[3,0,1,30,2,16,0],
 "d7/d7d/classpocketmine_1_1event_1_1player_1_1_player_death_event.html":[2,0,0,3,3,10],
 "d7/d7d/classpocketmine_1_1event_1_1player_1_1_player_death_event.html":[3,0,1,9,3,10],
 "d7/d7d/classpocketmine_1_1event_1_1player_1_1_player_death_event.html#a059be072106297bef570cc3b7811beb6":[2,0,0,3,3,10,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX110 =
 "d7/d7d/classpocketmine_1_1event_1_1player_1_1_player_death_event.html#a2333d7f055234d7fefc00066158bd888":[3,0,1,9,3,10,9],
 "d7/d7d/classpocketmine_1_1event_1_1player_1_1_player_death_event.html#a28689b880b43c04fb5e58347fe027401":[2,0,0,3,3,10,8],
 "d7/d7d/classpocketmine_1_1event_1_1player_1_1_player_death_event.html#a28689b880b43c04fb5e58347fe027401":[3,0,1,9,3,10,8],
-"d7/d7d/classpocketmine_1_1event_1_1player_1_1_player_death_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,3,10,1],
-"d7/d7d/classpocketmine_1_1event_1_1player_1_1_player_death_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,3,10,1],
-"d7/d7d/classpocketmine_1_1event_1_1player_1_1_player_death_event.html#a67127e5a347cbcb747d171869fbc8b20":[2,0,0,3,3,10,3],
-"d7/d7d/classpocketmine_1_1event_1_1player_1_1_player_death_event.html#a67127e5a347cbcb747d171869fbc8b20":[3,0,1,9,3,10,3],
-"d7/d7d/classpocketmine_1_1event_1_1player_1_1_player_death_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,0,3,3,10,6]
+"d7/d7d/classpocketmine_1_1event_1_1player_1_1_player_death_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,3,10,1]
 };

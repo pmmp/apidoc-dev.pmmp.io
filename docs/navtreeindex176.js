@@ -1,5 +1,10 @@
 var NAVTREEINDEX176 =
 {
+"dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#a588080e805e50e4f97e1a3d256b8c11e":[3,0,1,0,88,14],
+"dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#a6201b0d5460ae6f3b5cee03197c9a94a":[2,0,0,0,86,39],
+"dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#a6201b0d5460ae6f3b5cee03197c9a94a":[3,0,1,0,88,39],
+"dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#a67e78ef075a244c8ca0658285dc99561":[2,0,0,0,86,13],
+"dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#a67e78ef075a244c8ca0658285dc99561":[3,0,1,0,88,13],
 "dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#a6d937579e316caf0a9f92c20753a66cb":[2,0,0,0,86,50],
 "dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#a6d937579e316caf0a9f92c20753a66cb":[3,0,1,0,88,50],
 "dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html#a6f13ff76dad934b1b2e078a5b57dd7a5":[2,0,0,0,86,35],
@@ -244,10 +249,5 @@ var NAVTREEINDEX176 =
 "dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,83,61],
 "dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,85,61],
 "dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,83,47],
-"dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,85,47],
-"dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,83,3],
-"dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,85,3],
-"dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,83,22],
-"dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[3,0,1,0,85,22],
-"dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a286fc64348f13417dcb6106c2695911b":[2,0,0,0,83,2]
+"dc/d19/classpocketmine_1_1block_1_1_double_tall_grass.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,85,47]
 };

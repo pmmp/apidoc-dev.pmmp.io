@@ -1,5 +1,10 @@
 var NAVTREEINDEX227 =
 {
+"df/d58/classpocketmine_1_1block_1_1_anvil.html#a5d57dfa3ec1e755788fab0ed75de9d99":[3,0,1,0,6,69],
+"df/d58/classpocketmine_1_1block_1_1_anvil.html#a6201b0d5460ae6f3b5cee03197c9a94a":[2,0,0,0,4,42],
+"df/d58/classpocketmine_1_1block_1_1_anvil.html#a6201b0d5460ae6f3b5cee03197c9a94a":[3,0,1,0,6,42],
+"df/d58/classpocketmine_1_1block_1_1_anvil.html#a6d3cefce63d654d994f2e1b5dcc11c54":[2,0,0,0,4,20],
+"df/d58/classpocketmine_1_1block_1_1_anvil.html#a6d3cefce63d654d994f2e1b5dcc11c54":[3,0,1,0,6,20],
 "df/d58/classpocketmine_1_1block_1_1_anvil.html#a6d937579e316caf0a9f92c20753a66cb":[2,0,0,0,4,53],
 "df/d58/classpocketmine_1_1block_1_1_anvil.html#a6d937579e316caf0a9f92c20753a66cb":[3,0,1,0,6,53],
 "df/d58/classpocketmine_1_1block_1_1_anvil.html#a6f13ff76dad934b1b2e078a5b57dd7a5":[2,0,0,0,4,38],
@@ -244,10 +249,5 @@ var NAVTREEINDEX227 =
 "df/d5e/classpocketmine_1_1scheduler_1_1_task.html":[3,0,1,22,10],
 "df/d5e/classpocketmine_1_1scheduler_1_1_task.html#a153c9206c78219aa5ce67f6397bd385e":[2,0,0,11,10,0],
 "df/d5e/classpocketmine_1_1scheduler_1_1_task.html#a153c9206c78219aa5ce67f6397bd385e":[3,0,1,22,10,0],
-"df/d5e/classpocketmine_1_1scheduler_1_1_task.html#a522823a2488fb2628c34fc114c7dec81":[2,0,0,11,10,2],
-"df/d5e/classpocketmine_1_1scheduler_1_1_task.html#a522823a2488fb2628c34fc114c7dec81":[3,0,1,22,10,2],
-"df/d5e/classpocketmine_1_1scheduler_1_1_task.html#a6a74daa0d11c2b41aff8beaca7b9d6ab":[2,0,0,11,10,1],
-"df/d5e/classpocketmine_1_1scheduler_1_1_task.html#a6a74daa0d11c2b41aff8beaca7b9d6ab":[3,0,1,22,10,1],
-"df/d5e/classpocketmine_1_1scheduler_1_1_task.html#ad4b838e4514dc31dcd88e649a49b0d77":[2,0,0,11,10,3],
-"df/d5e/classpocketmine_1_1scheduler_1_1_task.html#ad4b838e4514dc31dcd88e649a49b0d77":[3,0,1,22,10,3]
+"df/d5e/classpocketmine_1_1scheduler_1_1_task.html#a522823a2488fb2628c34fc114c7dec81":[2,0,0,11,10,2]
 };

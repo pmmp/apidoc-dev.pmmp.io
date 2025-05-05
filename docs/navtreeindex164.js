@@ -1,5 +1,9 @@
 var NAVTREEINDEX164 =
 {
+"da/dfb/_player_info_8php_source.html":[4,0,0,14,10],
+"da/dfc/_update_block_synced_packet_8php_source.html":[4,0,1,0,1,0,212],
+"da/dff/_resource_pack_client_response_packet_8php_source.html":[4,0,1,0,1,0,151],
+"db/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_game_rules_changed_packet.html":[3,0,1,16,0,6,71],
 "db/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_game_rules_changed_packet.html#a3ae5252774beade6665403845e3ad8a9":[3,0,1,16,0,6,71,7],
 "db/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_game_rules_changed_packet.html#a622a14e57ad4c298fc20c504b9cbf9fd":[3,0,1,16,0,6,71,2],
 "db/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_game_rules_changed_packet.html#a736a97bcd351b63d30a4a23352ec221c":[3,0,1,16,0,6,71,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX164 =
 "db/d1f/classpocketmine_1_1block_1_1tile_1_1_furnace.html#a2c4548cfebce3287d5dba7131579789e":[3,0,1,0,1,17,3],
 "db/d1f/classpocketmine_1_1block_1_1tile_1_1_furnace.html#a4f2c0b2742c1443c3f1cfb20b632aa50":[2,0,0,0,0,17,2],
 "db/d1f/classpocketmine_1_1block_1_1tile_1_1_furnace.html#a4f2c0b2742c1443c3f1cfb20b632aa50":[3,0,1,0,1,17,2],
-"db/d1f/classpocketmine_1_1block_1_1tile_1_1_furnace.html#a60827294e91d250ca72e81039461bbfe":[2,0,0,0,0,17,0],
-"db/d1f/classpocketmine_1_1block_1_1tile_1_1_furnace.html#a60827294e91d250ca72e81039461bbfe":[3,0,1,0,1,17,0],
-"db/d1f/classpocketmine_1_1block_1_1tile_1_1_furnace.html#a9a0a80ed9de93d8793c30f0d2486d701":[2,0,0,0,0,17,4],
-"db/d1f/classpocketmine_1_1block_1_1tile_1_1_furnace.html#a9a0a80ed9de93d8793c30f0d2486d701":[3,0,1,0,1,17,4],
-"db/d1f/classpocketmine_1_1block_1_1tile_1_1_furnace.html#ad2b453c1d5959d171ca75e9b2cabf4b2":[2,0,0,0,0,17,6]
+"db/d1f/classpocketmine_1_1block_1_1tile_1_1_furnace.html#a60827294e91d250ca72e81039461bbfe":[2,0,0,0,0,17,0]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX204 =
 {
+"dd/dc1/classpocketmine_1_1block_1_1_hay_bale.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,126,58],
+"dd/dc1/classpocketmine_1_1block_1_1_hay_bale.html#a09f4667329f89292dd319d56c4243b59":[2,0,0,0,124,30],
+"dd/dc1/classpocketmine_1_1block_1_1_hay_bale.html#a09f4667329f89292dd319d56c4243b59":[3,0,1,0,126,30],
+"dd/dc1/classpocketmine_1_1block_1_1_hay_bale.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,124,18],
+"dd/dc1/classpocketmine_1_1block_1_1_hay_bale.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,126,18],
 "dd/dc1/classpocketmine_1_1block_1_1_hay_bale.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,124,60],
 "dd/dc1/classpocketmine_1_1block_1_1_hay_bale.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,126,60],
 "dd/dc1/classpocketmine_1_1block_1_1_hay_bale.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,124,47],
@@ -244,10 +249,5 @@ var NAVTREEINDEX204 =
 "dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#acb7cc5bba94398c6a329b3b2af8fa859":[3,0,1,0,195,27],
 "dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[2,0,0,0,193,61],
 "dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[3,0,1,0,195,61],
-"dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#acfa7766036568571b645ae89ceb1029e":[2,0,0,0,193,47],
-"dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#acfa7766036568571b645ae89ceb1029e":[3,0,1,0,195,47],
-"dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#ad57a8bddf87431ff034f3a96e7219d63":[2,0,0,0,193,18],
-"dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#ad57a8bddf87431ff034f3a96e7219d63":[3,0,1,0,195,18],
-"dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#adc7b2fcbcc10f046b1cbcafdd0858863":[2,0,0,0,193,1],
-"dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#adc7b2fcbcc10f046b1cbcafdd0858863":[3,0,1,0,195,1]
+"dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#acfa7766036568571b645ae89ceb1029e":[2,0,0,0,193,47]
 };

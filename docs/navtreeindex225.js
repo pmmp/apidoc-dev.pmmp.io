@@ -1,5 +1,10 @@
 var NAVTREEINDEX225 =
 {
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a4b1a5210337efa1cbc001cd937cc6723":[3,0,1,7,25,62],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a4e8978f8b3b0896c5279379b1b950099":[2,0,0,2,20,73],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a4e8978f8b3b0896c5279379b1b950099":[3,0,1,7,25,73],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a51f179f6856625792527dd3c2b201003":[2,0,0,2,20,52],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a51f179f6856625792527dd3c2b201003":[3,0,1,7,25,52],
 "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a53b0d6d1b15c35b58e83c959ffec384c":[2,0,0,2,20,6],
 "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a53b0d6d1b15c35b58e83c959ffec384c":[3,0,1,7,25,6],
 "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a54a27a695ba157ddf7d551a683f86762":[2,0,0,2,20,8],
@@ -244,10 +249,5 @@ var NAVTREEINDEX225 =
 "df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_gui_data_pick_item_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,74,4],
 "df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_gui_data_pick_item_packet.html#a90d01abc8891f663ed75f313d68cdb53":[3,0,1,16,0,6,74,6],
 "df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_gui_data_pick_item_packet.html#a9de09c46f69d3e6e0ff4a02820f418ca":[3,0,1,16,0,6,74,2],
-"df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_gui_data_pick_item_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,74,0],
-"df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_gui_data_pick_item_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,74,3],
-"df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_gui_data_pick_item_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,74,1],
-"df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_block_synced_packet.html":[3,0,1,16,0,6,211],
-"df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_block_synced_packet.html#a21b448690c80d18ebc25aef2cf642497":[3,0,1,16,0,6,211,2],
-"df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_block_synced_packet.html#a6eff6602b04c29a88124c936bef9c57e":[3,0,1,16,0,6,211,6]
+"df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_gui_data_pick_item_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,74,0]
 };

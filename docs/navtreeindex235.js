@@ -1,5 +1,10 @@
 var NAVTREEINDEX235 =
 {
+"df/dac/classpocketmine_1_1item_1_1_steak.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,104,40],
+"df/dad/classpocketmine_1_1item_1_1_enchanted_book.html":[2,0,0,5,39],
+"df/dad/classpocketmine_1_1item_1_1_enchanted_book.html":[3,0,1,12,40],
+"df/dad/classpocketmine_1_1item_1_1_enchanted_book.html#a0a422a89abd427286bc2f312100f968c":[2,0,0,5,39,30],
+"df/dad/classpocketmine_1_1item_1_1_enchanted_book.html#a0a422a89abd427286bc2f312100f968c":[3,0,1,12,40,30],
 "df/dad/classpocketmine_1_1item_1_1_enchanted_book.html#a0decb7563eac37b016b7ab50f9e80446":[2,0,0,5,39,22],
 "df/dad/classpocketmine_1_1item_1_1_enchanted_book.html#a0decb7563eac37b016b7ab50f9e80446":[3,0,1,12,40,22],
 "df/dad/classpocketmine_1_1item_1_1_enchanted_book.html#a113df9761f1a285d72fae0d9da6b21d6":[2,0,0,5,39,9],
@@ -244,10 +249,5 @@ var NAVTREEINDEX235 =
 "df/db1/_listener_8php_source.html":[4,0,0,7,13],
 "df/db3/_chorus_fruit_8php_source.html":[4,0,0,10,22],
 "df/db5/classpocketmine_1_1errorhandler_1_1_error_record.html":[3,0,1,8,0],
-"df/db6/_pumpkin_pie_8php_source.html":[4,0,0,10,89],
-"df/db6/_resource_pack_data_info_packet_8php_source.html":[4,0,1,0,1,0,152],
-"df/db6/class_global_logger.html":[3,0,6],
-"df/db6/classpocketmine_1_1item_1_1_string_item.html":[2,0,0,5,105],
-"df/db6/classpocketmine_1_1item_1_1_string_item.html":[3,0,1,12,106],
-"df/db6/classpocketmine_1_1item_1_1_string_item.html#a0a422a89abd427286bc2f312100f968c":[2,0,0,5,105,30]
+"df/db6/_pumpkin_pie_8php_source.html":[4,0,0,10,89]
 };

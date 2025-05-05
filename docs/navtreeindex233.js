@@ -1,5 +1,10 @@
 var NAVTREEINDEX233 =
 {
+"df/d95/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_region_loader.html#af55669e4624fc2a4aee271b366cf3c64":[3,0,1,30,1,0,3,6,0],
+"df/d95/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_region_loader.html#afdc736bc408e349c10709eb8131df4d7":[3,0,1,30,1,0,3,6,1],
+"df/d96/_client_data_persona_skin_piece_8php_source.html":[4,0,1,0,1,0,1,5,4],
+"df/d9a/_world_data_8php_source.html":[4,0,0,25,1,0,13],
+"df/d9c/_bit_set_8php_source.html":[4,0,1,0,1,0,0,0],
 "df/d9c/_player_join_event_8php_source.html":[4,0,0,7,3,29],
 "df/da0/_player_toggle_glide_event_8php_source.html":[4,0,0,7,3,41],
 "df/da0/classpocketmine_1_1world_1_1generator_1_1populator_1_1_tree.html":[2,0,0,14,0,1,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX233 =
 "df/da2/classpocketmine_1_1item_1_1_raw_salmon.html#ad981d95fce9c8a14832dc5fabbf4f3e4":[3,0,1,12,92,23],
 "df/da2/classpocketmine_1_1item_1_1_raw_salmon.html#ae0735ccc1dee85d0c095aaa4109f40fb":[2,0,0,5,91,13],
 "df/da2/classpocketmine_1_1item_1_1_raw_salmon.html#ae0735ccc1dee85d0c095aaa4109f40fb":[3,0,1,12,92,13],
-"df/da2/classpocketmine_1_1item_1_1_raw_salmon.html#ae2543fd294d689ca6850d5bc78710522":[2,0,0,5,91,38],
-"df/da2/classpocketmine_1_1item_1_1_raw_salmon.html#ae2543fd294d689ca6850d5bc78710522":[3,0,1,12,92,38],
-"df/da2/classpocketmine_1_1item_1_1_raw_salmon.html#aec8070c04112770e0d01a3c56b252e81":[2,0,0,5,91,49],
-"df/da2/classpocketmine_1_1item_1_1_raw_salmon.html#aec8070c04112770e0d01a3c56b252e81":[3,0,1,12,92,49],
-"df/da2/classpocketmine_1_1item_1_1_raw_salmon.html#af737301b899b7a7c9e9b0bb9a234a119":[2,0,0,5,91,7],
-"df/da2/classpocketmine_1_1item_1_1_raw_salmon.html#af737301b899b7a7c9e9b0bb9a234a119":[3,0,1,12,92,7]
+"df/da2/classpocketmine_1_1item_1_1_raw_salmon.html#ae2543fd294d689ca6850d5bc78710522":[2,0,0,5,91,38]
 };

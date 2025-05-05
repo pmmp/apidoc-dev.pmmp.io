@@ -1,5 +1,9 @@
 var NAVTREEINDEX146 =
 {
+"d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a5afd6597d16c2bbfb8842a3df2ac8d0a":[2,0,0,2,19,5],
+"d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a5afd6597d16c2bbfb8842a3df2ac8d0a":[3,0,1,7,24,5],
+"d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a5c4fe1ec80833443b6f4954ba4d443c9":[2,0,0,2,19,64],
+"d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a5c4fe1ec80833443b6f4954ba4d443c9":[3,0,1,7,24,64],
 "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a5e1cfa8b2d94b3a2d4d327fc8e47041b":[2,0,0,2,19,14],
 "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a5e1cfa8b2d94b3a2d4d327fc8e47041b":[3,0,1,7,24,14],
 "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a611283432404a91c42a84307659e471f":[2,0,0,2,19,51],
@@ -245,9 +249,5 @@ var NAVTREEINDEX146 =
 "d9/d7f/_water_animal_8php_source.html":[4,0,0,6,25],
 "d9/d81/_axe_8php_source.html":[4,0,0,10,6],
 "d9/d82/_zlib_compressor_8php_source.html":[4,0,0,12,0,2,4],
-"d9/d84/_unknown_block_8php_source.html":[4,0,0,0,232],
-"d9/d86/_tinted_glass_8php_source.html":[4,0,0,0,222],
-"d9/d86/namespacepocketmine_1_1event_1_1entity.html":[2,0,0,3,1],
-"d9/d87/classraklib_1_1protocol_1_1_a_c_k.html":[3,0,2,2,0],
-"d9/d87/classraklib_1_1protocol_1_1_a_c_k.html#a2b68647227d2955b341e335dbe06d709":[3,0,2,2,0,2]
+"d9/d84/_unknown_block_8php_source.html":[4,0,0,0,232]
 };

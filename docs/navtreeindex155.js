@@ -1,5 +1,9 @@
 var NAVTREEINDEX155 =
 {
+"da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a94af1c8f15cefc7f2f4e2ab0bdb7573e":[2,0,0,0,78,40],
+"da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a94af1c8f15cefc7f2f4e2ab0bdb7573e":[3,0,1,0,80,40],
+"da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,78,38],
+"da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,80,38],
 "da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,78,7],
 "da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,80,7],
 "da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,78,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX155 =
 "da/d5e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_armor_damage_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,121,0],
 "da/d5e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_armor_damage_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,121,3],
 "da/d5e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_armor_damage_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,121,1],
-"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html":[2,0,0,0,39],
-"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html":[3,0,1,0,41],
-"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a028afd613a6f42370ede9aec4c9796d6":[2,0,0,0,39,49],
-"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a028afd613a6f42370ede9aec4c9796d6":[3,0,1,0,41,49],
-"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,39,60]
+"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html":[2,0,0,0,39]
 };

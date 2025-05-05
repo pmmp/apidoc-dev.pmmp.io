@@ -1,5 +1,10 @@
 var NAVTREEINDEX213 =
 {
+"de/d5c/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_serializer.html#abb186068ab1bab08774dc969b3ae8c3b":[3,0,1,6,0,1,3,0],
+"de/d5c/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_serializer.html#adf5b089e30f0d8cc7fbc7ae09bb68333":[3,0,1,6,0,1,3,2],
+"de/d5d/_cookie_8php_source.html":[4,0,0,10,35],
+"de/d5d/_dump_worker_memory_task_8php_source.html":[4,0,0,18,8],
+"de/d5d/classpocketmine_1_1nbt_1_1_unexpected_tag_type_exception.html":[2,0,0,7,13],
 "de/d5d/classpocketmine_1_1nbt_1_1_unexpected_tag_type_exception.html":[3,0,1,15,14],
 "de/d5e/classpocketmine_1_1world_1_1sound_1_1_bucket_empty_water_sound.html":[3,0,1,30,5,23],
 "de/d5e/classpocketmine_1_1world_1_1sound_1_1_bucket_empty_water_sound.html#a03ad8015b4427637c365d8f165d26f40":[3,0,1,30,5,23,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX213 =
 "de/d6e/classpocketmine_1_1world_1_1sound_1_1_armor_equip_chain_sound.html":[3,0,1,30,5,4],
 "de/d6e/classpocketmine_1_1world_1_1sound_1_1_armor_equip_chain_sound.html#a5b83fb1ac274b80feed9407a01fccb98":[3,0,1,30,5,4,0],
 "de/d6f/_medicine_type_id_map_8php_source.html":[4,0,0,5,0,18],
-"de/d6f/classpocketmine_1_1item_1_1_pickaxe.html":[2,0,0,5,75],
-"de/d6f/classpocketmine_1_1item_1_1_pickaxe.html":[3,0,1,12,76],
-"de/d6f/classpocketmine_1_1item_1_1_pickaxe.html#a077ae868fefe43a7ef999146b245ba57":[2,0,0,5,75,40],
-"de/d6f/classpocketmine_1_1item_1_1_pickaxe.html#a077ae868fefe43a7ef999146b245ba57":[3,0,1,12,76,40],
-"de/d6f/classpocketmine_1_1item_1_1_pickaxe.html#a0a422a89abd427286bc2f312100f968c":[2,0,0,5,75,34],
-"de/d6f/classpocketmine_1_1item_1_1_pickaxe.html#a0a422a89abd427286bc2f312100f968c":[3,0,1,12,76,34]
+"de/d6f/classpocketmine_1_1item_1_1_pickaxe.html":[2,0,0,5,75]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX169 =
 {
+"db/d8c/classpocketmine_1_1item_1_1_bowl.html#af85accbedba28b67bb66d5f12d329585":[2,0,0,5,16,37],
+"db/d8c/classpocketmine_1_1item_1_1_bowl.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,17,37],
+"db/d8d/_bool_game_rule_8php_source.html":[4,0,1,0,1,0,1,15],
+"db/d8d/classpocketmine_1_1block_1_1inventory_1_1_loom_inventory.html":[3,0,1,0,0,13],
+"db/d8d/classpocketmine_1_1block_1_1inventory_1_1_loom_inventory.html#a0104746c6eceddc519011f354d610438":[3,0,1,0,0,13,6],
 "db/d8d/classpocketmine_1_1block_1_1inventory_1_1_loom_inventory.html#a010a9ab31edc7fa850b79849037cede7":[3,0,1,0,0,13,22],
 "db/d8d/classpocketmine_1_1block_1_1inventory_1_1_loom_inventory.html#a0d82853303c17a6f720b487287092395":[3,0,1,0,0,13,17],
 "db/d8d/classpocketmine_1_1block_1_1inventory_1_1_loom_inventory.html#a295a782543c002623d01ec47a6e93329":[3,0,1,0,0,13,24],
@@ -244,10 +249,5 @@ var NAVTREEINDEX169 =
 "db/d9b/classpocketmine_1_1block_1_1_gold_ore.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,116,19],
 "db/d9b/classpocketmine_1_1block_1_1_gold_ore.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,118,19],
 "db/d9b/classpocketmine_1_1block_1_1_gold_ore.html#ab51ea2314ed5df2163bca971a462fb72":[2,0,0,0,116,8],
-"db/d9b/classpocketmine_1_1block_1_1_gold_ore.html#ab51ea2314ed5df2163bca971a462fb72":[3,0,1,0,118,8],
-"db/d9b/classpocketmine_1_1block_1_1_gold_ore.html#ab6b90601adfc9732893dcffe256514a9":[2,0,0,0,116,64],
-"db/d9b/classpocketmine_1_1block_1_1_gold_ore.html#ab6b90601adfc9732893dcffe256514a9":[3,0,1,0,118,64],
-"db/d9b/classpocketmine_1_1block_1_1_gold_ore.html#ab92353cf0aa5c05ad26535f98a2b1dca":[2,0,0,0,116,26],
-"db/d9b/classpocketmine_1_1block_1_1_gold_ore.html#ab92353cf0aa5c05ad26535f98a2b1dca":[3,0,1,0,118,26],
-"db/d9b/classpocketmine_1_1block_1_1_gold_ore.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[2,0,0,0,116,12]
+"db/d9b/classpocketmine_1_1block_1_1_gold_ore.html#ab51ea2314ed5df2163bca971a462fb72":[3,0,1,0,118,8]
 };

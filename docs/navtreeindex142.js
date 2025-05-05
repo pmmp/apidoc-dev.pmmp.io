@@ -1,5 +1,9 @@
 var NAVTREEINDEX142 =
 {
+"d9/d39/classpocketmine_1_1event_1_1player_1_1_player_bucket_empty_event.html#a90efcab0d539a5cb5b17968dfa164017":[2,0,0,3,3,3,4],
+"d9/d39/classpocketmine_1_1event_1_1player_1_1_player_bucket_empty_event.html#a90efcab0d539a5cb5b17968dfa164017":[3,0,1,9,3,3,4],
+"d9/d39/classpocketmine_1_1event_1_1player_1_1_player_bucket_empty_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,0,3,3,3,3],
+"d9/d39/classpocketmine_1_1event_1_1player_1_1_player_bucket_empty_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,3,3,3],
 "d9/d39/classpocketmine_1_1event_1_1player_1_1_player_bucket_empty_event.html#aa1271e7993677d9c1147651345579443":[2,0,0,3,3,3,1],
 "d9/d39/classpocketmine_1_1event_1_1player_1_1_player_bucket_empty_event.html#aa1271e7993677d9c1147651345579443":[3,0,1,9,3,3,1],
 "d9/d3a/_armor_equip_leather_sound_8php_source.html":[4,0,0,25,5,9],
@@ -245,9 +249,5 @@ var NAVTREEINDEX142 =
 "d9/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_simple_event_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,187,4],
 "d9/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_simple_event_packet.html#a8923274696b2f1f769fe79760b5d2d20":[3,0,1,16,0,6,187,2],
 "d9/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_simple_event_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,187,0],
-"d9/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_simple_event_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,187,3],
-"d9/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_simple_event_packet.html#aa7619f13a974d0cf8151f7c3574e49d3":[3,0,1,16,0,6,187,5],
-"d9/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_simple_event_packet.html#ab4956f9c77a1d981964fbbb32e9437e3":[3,0,1,16,0,6,187,7],
-"d9/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_simple_event_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,187,1],
-"d9/d53/_connected_ping_8php_source.html":[4,0,1,0,9,0,2,4]
+"d9/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_simple_event_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,187,3]
 };

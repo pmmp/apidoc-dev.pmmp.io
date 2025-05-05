@@ -1,5 +1,10 @@
 var NAVTREEINDEX184 =
 {
+"dc/d6e/classpocketmine_1_1command_1_1defaults_1_1_kill_command.html#a8c40c93db847fcf02c3e7b19a729dd10":[3,0,1,2,0,15,5],
+"dc/d6e/classpocketmine_1_1command_1_1defaults_1_1_kill_command.html#ac9790f6d386568af660860ceb824ee9a":[3,0,1,2,0,15,3],
+"dc/d6e/classpocketmine_1_1command_1_1defaults_1_1_kill_command.html#acbccfc9431699f8cefb66e359419e1df":[3,0,1,2,0,15,1],
+"dc/d6e/classpocketmine_1_1command_1_1defaults_1_1_kill_command.html#afc8a2bf15b375c60df2063833a9f2b41":[3,0,1,2,0,15,0],
+"dc/d6f/_brewing_fuel_use_event_8php_source.html":[4,0,0,7,0,13],
 "dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html":[2,0,0,0,133],
 "dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html":[3,0,1,0,135],
 "dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,133,58],
@@ -244,10 +249,5 @@ var NAVTREEINDEX184 =
 "dc/d82/_nbt_data_exception_8php_source.html":[4,0,1,0,8,0,7],
 "dc/d82/classpocketmine_1_1console_1_1_console_reader_child_process_daemon.html":[3,0,1,3,2],
 "dc/d83/_suspicious_stew_type_id_map_8php_source.html":[4,0,0,5,0,25],
-"dc/d83/classpocketmine_1_1event_1_1player_1_1_player_data_save_event.html":[2,0,0,3,3,9],
-"dc/d83/classpocketmine_1_1event_1_1player_1_1_player_data_save_event.html":[3,0,1,9,3,9],
-"dc/d83/classpocketmine_1_1event_1_1player_1_1_player_data_save_event.html#a394d377969d10cb4aed496e2a671a85b":[2,0,0,3,3,9,3],
-"dc/d83/classpocketmine_1_1event_1_1player_1_1_player_data_save_event.html#a394d377969d10cb4aed496e2a671a85b":[3,0,1,9,3,9,3],
-"dc/d83/classpocketmine_1_1event_1_1player_1_1_player_data_save_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,3,9,0],
-"dc/d83/classpocketmine_1_1event_1_1player_1_1_player_data_save_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,3,9,0]
+"dc/d83/classpocketmine_1_1event_1_1player_1_1_player_data_save_event.html":[2,0,0,3,3,9]
 };

@@ -2026,6 +2026,7 @@ var hierarchy =
     [ "pocketmine\\plugin\\PluginOwned", "d0/dcc/interfacepocketmine_1_1plugin_1_1_plugin_owned.html", [
       [ "pocketmine\\command\\PluginCommand", "d7/d63/classpocketmine_1_1command_1_1_plugin_command.html", null ]
     ] ],
+    [ "pocketmine\\world\\generator\\PopulationUtils", "d7/d7c/classpocketmine_1_1world_1_1generator_1_1_population_utils.html", null ],
     [ "pocketmine\\world\\generator\\populator\\Populator", "dd/d63/interfacepocketmine_1_1world_1_1generator_1_1populator_1_1_populator.html", [
       [ "pocketmine\\world\\generator\\populator\\GroundCover", "d3/d77/classpocketmine_1_1world_1_1generator_1_1populator_1_1_ground_cover.html", null ],
       [ "pocketmine\\world\\generator\\populator\\Ore", "dc/d8e/classpocketmine_1_1world_1_1generator_1_1populator_1_1_ore.html", null ],

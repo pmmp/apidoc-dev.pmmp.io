@@ -1,5 +1,9 @@
 var NAVTREEINDEX167 =
 {
+"db/d5c/classpocketmine_1_1block_1_1tile_1_1_smoker.html#a4f2c0b2742c1443c3f1cfb20b632aa50":[3,0,1,0,1,30,2],
+"db/d5c/classpocketmine_1_1block_1_1tile_1_1_smoker.html#a60827294e91d250ca72e81039461bbfe":[2,0,0,0,0,30,0],
+"db/d5c/classpocketmine_1_1block_1_1tile_1_1_smoker.html#a60827294e91d250ca72e81039461bbfe":[3,0,1,0,1,30,0],
+"db/d5c/classpocketmine_1_1block_1_1tile_1_1_smoker.html#a9a0a80ed9de93d8793c30f0d2486d701":[2,0,0,0,0,30,4],
 "db/d5c/classpocketmine_1_1block_1_1tile_1_1_smoker.html#a9a0a80ed9de93d8793c30f0d2486d701":[3,0,1,0,1,30,4],
 "db/d5c/classpocketmine_1_1block_1_1tile_1_1_smoker.html#ad2b453c1d5959d171ca75e9b2cabf4b2":[2,0,0,0,0,30,6],
 "db/d5c/classpocketmine_1_1block_1_1tile_1_1_smoker.html#ad2b453c1d5959d171ca75e9b2cabf4b2":[3,0,1,0,1,30,6],
@@ -10,6 +14,7 @@ var NAVTREEINDEX167 =
 "db/d5f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_jwt_header.html#a815fae8855a746cd4c43fa28a82767ef":[3,0,1,16,0,6,1,4,9,2],
 "db/d5f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_jwt_header.html#afd93cd786d86b92764eef8661c7cfde7":[3,0,1,16,0,6,1,4,9,0],
 "db/d60/_banner_pattern_type_8php_source.html":[4,0,0,0,2,5],
+"db/d61/_population_utils_8php_source.html":[4,0,0,25,2,16],
 "db/d61/_resource_pack_chunk_request_packet_8php_source.html":[4,0,1,0,1,0,150],
 "db/d61/_show_store_offer_redirect_type_8php_source.html":[4,0,1,0,1,0,1,72],
 "db/d62/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_u_i_inventory_slot_offset.html":[3,0,1,16,0,6,1,3,17],
@@ -244,10 +249,5 @@ var NAVTREEINDEX167 =
 "db/d85/classpocketmine_1_1item_1_1_armor.html#ae0735ccc1dee85d0c095aaa4109f40fb":[2,0,0,5,1,16],
 "db/d85/classpocketmine_1_1item_1_1_armor.html#ae0735ccc1dee85d0c095aaa4109f40fb":[3,0,1,12,2,16],
 "db/d85/classpocketmine_1_1item_1_1_armor.html#ae2543fd294d689ca6850d5bc78710522":[2,0,0,5,1,45],
-"db/d85/classpocketmine_1_1item_1_1_armor.html#ae2543fd294d689ca6850d5bc78710522":[3,0,1,12,2,45],
-"db/d85/classpocketmine_1_1item_1_1_armor.html#aec8070c04112770e0d01a3c56b252e81":[2,0,0,5,1,56],
-"db/d85/classpocketmine_1_1item_1_1_armor.html#aec8070c04112770e0d01a3c56b252e81":[3,0,1,12,2,56],
-"db/d85/classpocketmine_1_1item_1_1_armor.html#af737301b899b7a7c9e9b0bb9a234a119":[2,0,0,5,1,10],
-"db/d85/classpocketmine_1_1item_1_1_armor.html#af737301b899b7a7c9e9b0bb9a234a119":[3,0,1,12,2,10],
-"db/d85/classpocketmine_1_1item_1_1_armor.html#af85accbedba28b67bb66d5f12d329585":[2,0,0,5,1,47]
+"db/d85/classpocketmine_1_1item_1_1_armor.html#ae2543fd294d689ca6850d5bc78710522":[3,0,1,12,2,45]
 };
