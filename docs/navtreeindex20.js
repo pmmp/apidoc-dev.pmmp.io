@@ -1,5 +1,7 @@
 var NAVTREEINDEX20 =
 {
+"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a20c2f4e242017361f050ede75c4666f5":[2,0,0,0,68,8],
+"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a20c2f4e242017361f050ede75c4666f5":[3,0,1,0,70,8],
 "d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,68,3],
 "d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,70,3],
 "d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,68,22],
@@ -126,7 +128,7 @@ var NAVTREEINDEX20 =
 "d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,70,16],
 "d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,68,27],
 "d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,70,27],
-"d1/d67/_item_descriptor_8php_source.html":[4,0,1,0,1,0,1,6,5],
+"d1/d67/_item_descriptor_8php_source.html":[4,0,1,0,1,0,1,7,5],
 "d1/d68/classpocketmine_1_1inventory_1_1transaction_1_1_enchanting_transaction.html":[3,0,1,11,1,2],
 "d1/d68/classpocketmine_1_1inventory_1_1transaction_1_1_enchanting_transaction.html#a19eca710abe2264e3de36b3159e0e559":[3,0,1,11,1,2,1],
 "d1/d68/classpocketmine_1_1inventory_1_1transaction_1_1_enchanting_transaction.html#a4d540a5050aa431c59bdafc915362715":[3,0,1,11,1,2,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX20 =
 "d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[3,0,1,0,77,57],
 "d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#acfa7766036568571b645ae89ceb1029e":[2,0,0,0,75,43],
 "d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#acfa7766036568571b645ae89ceb1029e":[3,0,1,0,77,43],
-"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#ad57a8bddf87431ff034f3a96e7219d63":[2,0,0,0,75,15],
-"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#ad57a8bddf87431ff034f3a96e7219d63":[3,0,1,0,77,15],
-"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#ad925607ef09026804dbbf059583e3add":[2,0,0,0,75,42]
+"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#ad57a8bddf87431ff034f3a96e7219d63":[2,0,0,0,75,15]
 };

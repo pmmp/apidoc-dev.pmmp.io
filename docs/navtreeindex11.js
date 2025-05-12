@@ -1,5 +1,6 @@
 var NAVTREEINDEX11 =
 {
+"d0/dd3/classpocketmine_1_1block_1_1_trapped_chest.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[3,0,1,0,228,25],
 "d0/dd3/classpocketmine_1_1block_1_1_trapped_chest.html#a30a070aa7befb02f9fff5cbf2693c01e":[2,0,0,0,226,9],
 "d0/dd3/classpocketmine_1_1block_1_1_trapped_chest.html#a30a070aa7befb02f9fff5cbf2693c01e":[3,0,1,0,228,9],
 "d0/dd3/classpocketmine_1_1block_1_1_trapped_chest.html#a331782605e4f5e2600d571ca29fa78ea":[2,0,0,0,226,57],
@@ -248,6 +249,5 @@ var NAVTREEINDEX11 =
 "d0/dd6/_light_population_task_8php_source.html":[4,0,0,25,3,1],
 "d0/dd6/_projectile_hit_block_event_8php_source.html":[4,0,0,7,1,27],
 "d0/dd8/_stem_8php_source.html":[4,0,0,0,213],
-"d0/dd8/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_spawn_response_packet_handler.html":[3,0,1,16,0,5,12],
-"d0/dd8/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_spawn_response_packet_handler.html#a1d2f45d14ddd97e7da7f66a8afe763c9":[3,0,1,16,0,5,12,0]
+"d0/dd8/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_spawn_response_packet_handler.html":[3,0,1,16,0,5,12]
 };

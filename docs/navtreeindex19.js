@@ -1,5 +1,7 @@
 var NAVTREEINDEX19 =
 {
+"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,155,4],
+"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#aa2c95c94ce7dbb36bee8aa8cbd792d8b":[2,0,0,0,153,52],
 "d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#aa2c95c94ce7dbb36bee8aa8cbd792d8b":[3,0,1,0,155,52],
 "d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#aa4773f0153324728a2f41820fa52442d":[2,0,0,0,153,17],
 "d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,155,17],
@@ -73,7 +75,7 @@ var NAVTREEINDEX19 =
 "d1/d56/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_block_actor_data_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,20,1],
 "d1/d56/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_block_actor_data_packet.html#aed55eb86252ff96c0af22967d4486de3":[3,0,1,16,0,6,20,7],
 "d1/d56/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_block_actor_data_packet.html#af9931377559f1a35806b67d4ae6b80d6":[3,0,1,16,0,6,20,5],
-"d1/d58/_authentication_data_8php_source.html":[4,0,1,0,1,0,1,5,0],
+"d1/d58/_authentication_data_8php_source.html":[4,0,1,0,1,0,1,6,0],
 "d1/d58/_faces_opposite_placing_player_trait_8php_source.html":[4,0,0,0,2,21],
 "d1/d5c/_milk_bucket_8php_source.html":[4,0,0,10,76],
 "d1/d5c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_edu_uri_resource_packet.html":[3,0,1,16,0,6,67],
@@ -86,8 +88,8 @@ var NAVTREEINDEX19 =
 "d1/d5c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_edu_uri_resource_packet.html#ace22ca3dee7312f3fab0c111d7aea9d4":[3,0,1,16,0,6,67,2],
 "d1/d5c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_edu_uri_resource_packet.html#ae75a3332858b8f8e62b5b16111d73ab1":[3,0,1,16,0,6,67,6],
 "d1/d5d/_error_type_to_string_map_8php_source.html":[4,0,1,0,5,0,2],
-"d1/d5d/_player_metadata_flags_8php_source.html":[4,0,1,0,1,0,1,2,18],
-"d1/d5e/_biome_registry_8php_source.html":[4,0,0,25,0,1],
+"d1/d5d/_player_metadata_flags_8php_source.html":[4,0,1,0,1,0,1,3,18],
+"d1/d5e/_biome_registry_8php_source.html":[4,0,0,25,0,2],
 "d1/d5f/classpocketmine_1_1block_1_1_trapdoor.html":[2,0,0,0,225],
 "d1/d5f/classpocketmine_1_1block_1_1_trapdoor.html":[3,0,1,0,227],
 "d1/d5f/classpocketmine_1_1block_1_1_trapdoor.html#a028afd613a6f42370ede9aec4c9796d6":[2,0,0,0,225,48],
@@ -226,7 +228,7 @@ var NAVTREEINDEX19 =
 "d1/d5f/classpocketmine_1_1block_1_1_trapdoor.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,227,16],
 "d1/d5f/classpocketmine_1_1block_1_1_trapdoor.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,225,27],
 "d1/d5f/classpocketmine_1_1block_1_1_trapdoor.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,227,27],
-"d1/d5f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_block_position.html":[3,0,1,16,0,6,1,13],
+"d1/d5f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_block_position.html":[3,0,1,16,0,6,1,14],
 "d1/d60/_entity_motion_event_8php_source.html":[4,0,0,7,1,17],
 "d1/d62/_entity_death_event_8php_source.html":[4,0,0,7,1,8],
 "d1/d62/_error_to_exception_handler_8php_source.html":[4,0,1,0,5,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX19 =
 "d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,68,61],
 "d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,70,61],
 "d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,68,48],
-"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,70,48],
-"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a20c2f4e242017361f050ede75c4666f5":[2,0,0,0,68,8],
-"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a20c2f4e242017361f050ede75c4666f5":[3,0,1,0,70,8]
+"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,70,48]
 };

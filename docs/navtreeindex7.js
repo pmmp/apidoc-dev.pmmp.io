@@ -1,5 +1,6 @@
 var NAVTREEINDEX7 =
 {
+"d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a6d3cefce63d654d994f2e1b5dcc11c54":[3,0,1,0,249,23],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a6d937579e316caf0a9f92c20753a66cb":[2,0,0,0,247,54],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a6d937579e316caf0a9f92c20753a66cb":[3,0,1,0,249,54],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a6f13ff76dad934b1b2e078a5b57dd7a5":[2,0,0,0,247,38],
@@ -111,10 +112,10 @@ var NAVTREEINDEX7 =
 "d0/d9d/classpocketmine_1_1world_1_1generator_1_1_thread_local_generator_context.html":[2,0,0,14,0,13],
 "d0/d9d/classpocketmine_1_1world_1_1generator_1_1_thread_local_generator_context.html":[3,0,1,30,2,17],
 "d0/d9e/_enderman_teleport_sound_8php_source.html":[4,0,0,25,5,54],
-"d0/d9f/_toast_request_packet_8php_source.html":[4,0,1,0,1,0,204],
-"d0/d9f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_lab_table_combine_stack_request_action.html":[3,0,1,16,0,6,1,3,0,16],
+"d0/d9f/_toast_request_packet_8php_source.html":[4,0,1,0,1,0,203],
+"d0/d9f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_lab_table_combine_stack_request_action.html":[3,0,1,16,0,6,1,4,0,16],
 "d0/da1/_complex_inventory_map_entry_8php_source.html":[4,0,0,12,0,9],
-"d0/da1/_editor_world_type_8php_source.html":[4,0,1,0,1,0,1,26],
+"d0/da1/_editor_world_type_8php_source.html":[4,0,1,0,1,0,1,28],
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html":[2,0,0,0,50],
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html":[3,0,1,0,52],
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#a028afd613a6f42370ede9aec4c9796d6":[2,0,0,0,50,48],
@@ -248,6 +249,5 @@ var NAVTREEINDEX7 =
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#afe506084e4bb8741a7ac64f6d90c00a5":[2,0,0,0,50,16],
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,52,16],
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,50,27],
-"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,52,27],
-"d0/da3/classpocketmine_1_1event_1_1player_1_1_player_toggle_sprint_event.html":[2,0,0,3,3,42]
+"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,52,27]
 };
