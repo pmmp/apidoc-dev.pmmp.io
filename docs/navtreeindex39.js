@@ -1,15 +1,5 @@
 var NAVTREEINDEX39 =
 {
-"d2/d90/classpocketmine_1_1math_1_1_vector3.html#aabf00a3bb113ce67b71445e24920d71e":[3,0,1,14,7,14],
-"d2/d90/classpocketmine_1_1math_1_1_vector3.html#ac158644cb231fd9626f2be71ae52da09":[2,0,0,6,7,8],
-"d2/d90/classpocketmine_1_1math_1_1_vector3.html#ac158644cb231fd9626f2be71ae52da09":[3,0,1,14,7,8],
-"d2/d90/classpocketmine_1_1math_1_1_vector3.html#ac5e17a9979507f7d3d8658ce164db8c3":[2,0,0,6,7,16],
-"d2/d90/classpocketmine_1_1math_1_1_vector3.html#ac5e17a9979507f7d3d8658ce164db8c3":[3,0,1,14,7,16],
-"d2/d90/classpocketmine_1_1math_1_1_vector3.html#af00b0c58eb14b727b3ed91151b517ee4":[2,0,0,6,7,6],
-"d2/d90/classpocketmine_1_1math_1_1_vector3.html#af00b0c58eb14b727b3ed91151b517ee4":[3,0,1,14,7,6],
-"d2/d90/classpocketmine_1_1math_1_1_vector3.html#afd5e49285140152c656023ff1abc0dd6":[2,0,0,6,7,1],
-"d2/d90/classpocketmine_1_1math_1_1_vector3.html#afd5e49285140152c656023ff1abc0dd6":[3,0,1,14,7,1],
-"d2/d91/interfacepocketmine_1_1inventory_1_1_inventory_holder.html":[2,0,0,4,8],
 "d2/d91/interfacepocketmine_1_1inventory_1_1_inventory_holder.html":[3,0,1,11,10],
 "d2/d92/_static_support_trait_8php_source.html":[4,0,0,0,2,45],
 "d2/d93/_bed_8php_source.html":[4,0,0,0,18],
@@ -249,5 +239,15 @@ var NAVTREEINDEX39 =
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a44cac3a2b1b9dc176948bddc319251b8":[3,0,1,12,25,9],
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a49a05b01faaaf071449c97060fe44926":[2,0,0,5,24,0],
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a49a05b01faaaf071449c97060fe44926":[3,0,1,12,25,0],
-"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a4a9aa55600bb30c4d55ad63337874a07":[2,0,0,5,24,6]
+"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a4a9aa55600bb30c4d55ad63337874a07":[2,0,0,5,24,6],
+"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a4a9aa55600bb30c4d55ad63337874a07":[3,0,1,12,25,6],
+"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a51b97f07ff97887a144198bb3dba6fc4":[2,0,0,5,24,20],
+"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a51b97f07ff97887a144198bb3dba6fc4":[3,0,1,12,25,20],
+"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a536378f334334c0e8b06e5ccaeb4de39":[2,0,0,5,24,29],
+"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a536378f334334c0e8b06e5ccaeb4de39":[3,0,1,12,25,29],
+"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a568624515bba5ff57e21ec8c828ade56":[2,0,0,5,24,5],
+"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a568624515bba5ff57e21ec8c828ade56":[3,0,1,12,25,5],
+"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a5b53d78436bbdb5d53102fda463be4e6":[2,0,0,5,24,48],
+"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a5b53d78436bbdb5d53102fda463be4e6":[3,0,1,12,25,48],
+"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a67b44433c553602d7c851b1ca23e6e5e":[2,0,0,5,24,40]
 };

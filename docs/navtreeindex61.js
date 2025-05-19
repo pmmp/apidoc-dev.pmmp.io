@@ -1,17 +1,5 @@
 var NAVTREEINDEX61 =
 {
-"d4/d66/classpocketmine_1_1block_1_1_furnace.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,110,28],
-"d4/d66/classpocketmine_1_1block_1_1_furnace.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,0,0,108,56],
-"d4/d66/classpocketmine_1_1block_1_1_furnace.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,110,56],
-"d4/d66/classpocketmine_1_1block_1_1_furnace.html#a8a733c2fe564a205938a9146c8b0e0f1":[2,0,0,0,108,63],
-"d4/d66/classpocketmine_1_1block_1_1_furnace.html#a8a733c2fe564a205938a9146c8b0e0f1":[3,0,1,0,110,63],
-"d4/d66/classpocketmine_1_1block_1_1_furnace.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,108,11],
-"d4/d66/classpocketmine_1_1block_1_1_furnace.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,110,11],
-"d4/d66/classpocketmine_1_1block_1_1_furnace.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,108,65],
-"d4/d66/classpocketmine_1_1block_1_1_furnace.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,110,65],
-"d4/d66/classpocketmine_1_1block_1_1_furnace.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,108,38],
-"d4/d66/classpocketmine_1_1block_1_1_furnace.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,110,38],
-"d4/d66/classpocketmine_1_1block_1_1_furnace.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,108,7],
 "d4/d66/classpocketmine_1_1block_1_1_furnace.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,110,7],
 "d4/d66/classpocketmine_1_1block_1_1_furnace.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,108,4],
 "d4/d66/classpocketmine_1_1block_1_1_furnace.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,110,4],
@@ -249,5 +237,17 @@ var NAVTREEINDEX61 =
 "d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a1df151eb419168f838e6d927c50f9210":[3,0,1,12,46,5],
 "d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a23c827b82179f8a57b786a6fa38d08e8":[2,0,0,5,45,20],
 "d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a23c827b82179f8a57b786a6fa38d08e8":[3,0,1,12,46,20],
-"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a27ef1db0d41125973529fb720b06a00d":[2,0,0,5,45,36]
+"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a27ef1db0d41125973529fb720b06a00d":[2,0,0,5,45,36],
+"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a27ef1db0d41125973529fb720b06a00d":[3,0,1,12,46,36],
+"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a2b35e6f346e5955b086fcc07ead985a7":[2,0,0,5,45,26],
+"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a2b35e6f346e5955b086fcc07ead985a7":[3,0,1,12,46,26],
+"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a2bcaa528592d9ae259e2e6d0b89f375d":[2,0,0,5,45,22],
+"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a2bcaa528592d9ae259e2e6d0b89f375d":[3,0,1,12,46,22],
+"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a2ce778f940de9e172cd268f378893b8f":[2,0,0,5,45,14],
+"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a2ce778f940de9e172cd268f378893b8f":[3,0,1,12,46,14],
+"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a2e7d9e107f4f24de4aabc19764dc7dc2":[2,0,0,5,45,17],
+"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a2e7d9e107f4f24de4aabc19764dc7dc2":[3,0,1,12,46,17],
+"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a2ee3936259ed3fd96fa07dcbcc4797c1":[2,0,0,5,45,25],
+"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a2ee3936259ed3fd96fa07dcbcc4797c1":[3,0,1,12,46,25],
+"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a30c23cf281199b48fbbe0f4c45c01fb9":[2,0,0,5,45,37]
 };

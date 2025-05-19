@@ -196,12 +196,6 @@ var NAVTREEINDEX21 =
 "d1/d77/classpocketmine_1_1command_1_1defaults_1_1_xp_command.html#a8c40c93db847fcf02c3e7b19a729dd10":[3,0,1,2,0,41,5],
 "d1/d77/classpocketmine_1_1command_1_1defaults_1_1_xp_command.html#ac9790f6d386568af660860ceb824ee9a":[3,0,1,2,0,41,3],
 "d1/d77/classpocketmine_1_1command_1_1defaults_1_1_xp_command.html#acbccfc9431699f8cefb66e359419e1df":[3,0,1,2,0,41,1],
-"d1/d77/classpocketmine_1_1event_1_1server_1_1_server_event.html":[2,0,0,3,5,9],
-"d1/d77/classpocketmine_1_1event_1_1server_1_1_server_event.html":[3,0,1,9,5,9],
-"d1/d77/classpocketmine_1_1event_1_1server_1_1_server_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,5,9,0],
-"d1/d77/classpocketmine_1_1event_1_1server_1_1_server_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,5,9,0],
-"d1/d77/classpocketmine_1_1event_1_1server_1_1_server_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,0,3,5,9,1],
-"d1/d77/classpocketmine_1_1event_1_1server_1_1_server_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,5,9,1],
 "d1/d78/_manifest_8php_source.html":[4,0,0,17,0,0],
 "d1/d78/classpocketmine_1_1network_1_1_packet_handling_exception.html":[2,0,0,8,9],
 "d1/d78/classpocketmine_1_1network_1_1_packet_handling_exception.html":[3,0,1,16,10],
@@ -249,5 +243,11 @@ var NAVTREEINDEX21 =
 "d1/d7b/classpocketmine_1_1block_1_1_lava.html#a51352903abc53b372a95c6991dab6c24":[3,0,1,0,136,67],
 "d1/d7b/classpocketmine_1_1block_1_1_lava.html#a57b1586e3b6d81440be1aa89471f2a2a":[2,0,0,0,134,56],
 "d1/d7b/classpocketmine_1_1block_1_1_lava.html#a57b1586e3b6d81440be1aa89471f2a2a":[3,0,1,0,136,56],
-"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a588080e805e50e4f97e1a3d256b8c11e":[2,0,0,0,134,14]
+"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a588080e805e50e4f97e1a3d256b8c11e":[2,0,0,0,134,14],
+"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a588080e805e50e4f97e1a3d256b8c11e":[3,0,1,0,136,14],
+"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a6201b0d5460ae6f3b5cee03197c9a94a":[2,0,0,0,134,42],
+"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a6201b0d5460ae6f3b5cee03197c9a94a":[3,0,1,0,136,42],
+"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a65a7cb189da66109275b71a4b930f45d":[2,0,0,0,134,51],
+"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a65a7cb189da66109275b71a4b930f45d":[3,0,1,0,136,51],
+"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a6d937579e316caf0a9f92c20753a66cb":[2,0,0,0,134,53]
 };

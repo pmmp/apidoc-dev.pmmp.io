@@ -347,7 +347,6 @@ var searchData=
   ['crops_344',['Crops',['../d2/d70/classpocketmine_1_1block_1_1_crops.html',1,'pocketmine::block']]],
   ['current_345',['current',['../da/dce/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_data.html#ad8532b8785c971d65e325e2ed0073ae7',1,'pocketmine::data::bedrock::block::BlockStateData']]],
   ['current_5fprotocol_346',['CURRENT_PROTOCOL',['../db/dab/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_protocol_info.html#ae46f498b2bb241bfb097d104dde58b0e',1,'pocketmine::network::mcpe::protocol::ProtocolInfo']]],
-  ['current_5fversion_347',['CURRENT_VERSION',['../da/dce/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_data.html#aefaa523ff45ad0ea5ee7b842bde0af7f',1,'pocketmine::data::bedrock::block::BlockStateData']]],
-  ['currentstructurefeaturepacket_348',['CurrentStructureFeaturePacket',['../d5/df8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_current_structure_feature_packet.html',1,'pocketmine::network::mcpe::protocol']]],
-  ['currenttrace_349',['currentTrace',['../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a73a9e68983fb530aaa371c800b498d67',1,'pocketmine::utils::Utils']]]
+  ['currentstructurefeaturepacket_347',['CurrentStructureFeaturePacket',['../d5/df8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_current_structure_feature_packet.html',1,'pocketmine::network::mcpe::protocol']]],
+  ['currenttrace_348',['currentTrace',['../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a73a9e68983fb530aaa371c800b498d67',1,'pocketmine::utils::Utils']]]
 ];

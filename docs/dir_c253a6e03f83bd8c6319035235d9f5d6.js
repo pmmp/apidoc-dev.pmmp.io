@@ -9,6 +9,5 @@ var dir_c253a6e03f83bd8c6319035235d9f5d6 =
     [ "NetworkInterfaceRegisterEvent.php", "dd/de8/_network_interface_register_event_8php_source.html", null ],
     [ "NetworkInterfaceUnregisterEvent.php", "d3/d65/_network_interface_unregister_event_8php_source.html", null ],
     [ "QueryRegenerateEvent.php", "d1/d0e/_query_regenerate_event_8php_source.html", null ],
-    [ "ServerEvent.php", "d8/d9d/_server_event_8php_source.html", null ],
     [ "UpdateNotifyEvent.php", "d2/d0c/_update_notify_event_8php_source.html", null ]
 ];

@@ -521,7 +521,8 @@ var annotated_dup =
           [ "PotionTypeIdMap", "d9/d5d/classpocketmine_1_1data_1_1bedrock_1_1_potion_type_id_map.html", null ],
           [ "PotionTypeIds", "d2/dff/classpocketmine_1_1data_1_1bedrock_1_1_potion_type_ids.html", null ],
           [ "SuspiciousStewTypeIdMap", "d9/d16/classpocketmine_1_1data_1_1bedrock_1_1_suspicious_stew_type_id_map.html", null ],
-          [ "SuspiciousStewTypeIds", "d8/de5/classpocketmine_1_1data_1_1bedrock_1_1_suspicious_stew_type_ids.html", null ]
+          [ "SuspiciousStewTypeIds", "d8/de5/classpocketmine_1_1data_1_1bedrock_1_1_suspicious_stew_type_ids.html", null ],
+          [ "WorldDataVersions", "d2/d20/classpocketmine_1_1data_1_1bedrock_1_1_world_data_versions.html", "d2/d20/classpocketmine_1_1data_1_1bedrock_1_1_world_data_versions" ]
         ] ],
         [ "java", null, [
           [ "GameModeIdMap", "d9/d1c/classpocketmine_1_1data_1_1java_1_1_game_mode_id_map.html", null ]
@@ -743,7 +744,7 @@ var annotated_dup =
           [ "PluginEnableEvent", "d9/dca/classpocketmine_1_1event_1_1plugin_1_1_plugin_enable_event.html", "d9/dca/classpocketmine_1_1event_1_1plugin_1_1_plugin_enable_event" ],
           [ "PluginEvent", "de/d58/classpocketmine_1_1event_1_1plugin_1_1_plugin_event.html", "de/d58/classpocketmine_1_1event_1_1plugin_1_1_plugin_event" ]
         ] ],
-        [ "server", "db/d28/namespacepocketmine_1_1event_1_1server.html", [
+        [ "server", null, [
           [ "CommandEvent", "da/d32/classpocketmine_1_1event_1_1server_1_1_command_event.html", "da/d32/classpocketmine_1_1event_1_1server_1_1_command_event" ],
           [ "DataPacketDecodeEvent", "da/d79/classpocketmine_1_1event_1_1server_1_1_data_packet_decode_event.html", "da/d79/classpocketmine_1_1event_1_1server_1_1_data_packet_decode_event" ],
           [ "DataPacketReceiveEvent", "d1/dcc/classpocketmine_1_1event_1_1server_1_1_data_packet_receive_event.html", "d1/dcc/classpocketmine_1_1event_1_1server_1_1_data_packet_receive_event" ],
@@ -753,7 +754,6 @@ var annotated_dup =
           [ "NetworkInterfaceRegisterEvent", "d8/d02/classpocketmine_1_1event_1_1server_1_1_network_interface_register_event.html", "d8/d02/classpocketmine_1_1event_1_1server_1_1_network_interface_register_event" ],
           [ "NetworkInterfaceUnregisterEvent", "d5/db8/classpocketmine_1_1event_1_1server_1_1_network_interface_unregister_event.html", "d5/db8/classpocketmine_1_1event_1_1server_1_1_network_interface_unregister_event" ],
           [ "QueryRegenerateEvent", "dd/d42/classpocketmine_1_1event_1_1server_1_1_query_regenerate_event.html", "dd/d42/classpocketmine_1_1event_1_1server_1_1_query_regenerate_event" ],
-          [ "ServerEvent", "d1/d77/classpocketmine_1_1event_1_1server_1_1_server_event.html", "d1/d77/classpocketmine_1_1event_1_1server_1_1_server_event" ],
           [ "UpdateNotifyEvent", "d1/dc2/classpocketmine_1_1event_1_1server_1_1_update_notify_event.html", "d1/dc2/classpocketmine_1_1event_1_1server_1_1_update_notify_event" ]
         ] ],
         [ "world", "d7/d63/namespacepocketmine_1_1event_1_1world.html", [

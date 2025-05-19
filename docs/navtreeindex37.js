@@ -1,15 +1,5 @@
 var NAVTREEINDEX37 =
 {
-"d2/d75/classpocketmine_1_1block_1_1_thin.html#a4bc78712a6bf9ec1e50890f716dbbd2d":[2,0,0,0,219,61],
-"d2/d75/classpocketmine_1_1block_1_1_thin.html#a4bc78712a6bf9ec1e50890f716dbbd2d":[3,0,1,0,221,61],
-"d2/d75/classpocketmine_1_1block_1_1_thin.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[2,0,0,0,219,46],
-"d2/d75/classpocketmine_1_1block_1_1_thin.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[3,0,1,0,221,46],
-"d2/d75/classpocketmine_1_1block_1_1_thin.html#a57b1586e3b6d81440be1aa89471f2a2a":[2,0,0,0,219,53],
-"d2/d75/classpocketmine_1_1block_1_1_thin.html#a57b1586e3b6d81440be1aa89471f2a2a":[3,0,1,0,221,53],
-"d2/d75/classpocketmine_1_1block_1_1_thin.html#a588080e805e50e4f97e1a3d256b8c11e":[2,0,0,0,219,14],
-"d2/d75/classpocketmine_1_1block_1_1_thin.html#a588080e805e50e4f97e1a3d256b8c11e":[3,0,1,0,221,14],
-"d2/d75/classpocketmine_1_1block_1_1_thin.html#a61d53e088798a8cbbe8cb5f2155943a1":[2,0,0,0,219,62],
-"d2/d75/classpocketmine_1_1block_1_1_thin.html#a61d53e088798a8cbbe8cb5f2155943a1":[3,0,1,0,221,62],
 "d2/d75/classpocketmine_1_1block_1_1_thin.html#a6201b0d5460ae6f3b5cee03197c9a94a":[2,0,0,0,219,39],
 "d2/d75/classpocketmine_1_1block_1_1_thin.html#a6201b0d5460ae6f3b5cee03197c9a94a":[3,0,1,0,221,39],
 "d2/d75/classpocketmine_1_1block_1_1_thin.html#a6d3cefce63d654d994f2e1b5dcc11c54":[2,0,0,0,219,20],
@@ -249,5 +239,15 @@ var NAVTREEINDEX37 =
 "d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#ae6f3cdb7eeee27448b561fa3f8323916":[3,0,1,0,60,48],
 "d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,58,32],
 "d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#ae829b9f476afef6b23d6f4f7fd558e0f":[3,0,1,0,60,32],
-"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,58,54]
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,58,54],
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,60,54],
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#af45a3d45c4ab6528c6641915722b9de8":[2,0,0,0,58,6],
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#af45a3d45c4ab6528c6641915722b9de8":[3,0,1,0,60,6],
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#af97d045122137ac415425b45e7b22a36":[2,0,0,0,58,49],
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#af97d045122137ac415425b45e7b22a36":[3,0,1,0,60,49],
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,0,0,58,29],
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#afcc19c437c8bef4487f5ecb956ae9a1a":[3,0,1,0,60,29],
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#afe4928a6da38d63eccea78bd1a2fdcd3":[2,0,0,0,58,21],
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#afe4928a6da38d63eccea78bd1a2fdcd3":[3,0,1,0,60,21],
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#afe506084e4bb8741a7ac64f6d90c00a5":[2,0,0,0,58,16]
 };

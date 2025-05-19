@@ -5,7 +5,6 @@ var namespacepocketmine_1_1event =
     [ "inventory", "da/db8/namespacepocketmine_1_1event_1_1inventory.html", "da/db8/namespacepocketmine_1_1event_1_1inventory" ],
     [ "player", "de/d7b/namespacepocketmine_1_1event_1_1player.html", "de/d7b/namespacepocketmine_1_1event_1_1player" ],
     [ "plugin", "d9/d61/namespacepocketmine_1_1event_1_1plugin.html", "d9/d61/namespacepocketmine_1_1event_1_1plugin" ],
-    [ "server", "db/d28/namespacepocketmine_1_1event_1_1server.html", "db/d28/namespacepocketmine_1_1event_1_1server" ],
     [ "world", "d7/d63/namespacepocketmine_1_1event_1_1world.html", "d7/d63/namespacepocketmine_1_1event_1_1world" ],
     [ "Cancellable", "db/d62/interfacepocketmine_1_1event_1_1_cancellable.html", "db/d62/interfacepocketmine_1_1event_1_1_cancellable" ],
     [ "Event", "d1/d2f/classpocketmine_1_1event_1_1_event.html", "d1/d2f/classpocketmine_1_1event_1_1_event" ],

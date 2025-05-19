@@ -967,19 +967,17 @@ var hierarchy =
         [ "pocketmine\\event\\plugin\\PluginDisableEvent", "d6/d6d/classpocketmine_1_1event_1_1plugin_1_1_plugin_disable_event.html", null ],
         [ "pocketmine\\event\\plugin\\PluginEnableEvent", "d9/dca/classpocketmine_1_1event_1_1plugin_1_1_plugin_enable_event.html", null ]
       ] ],
-      [ "pocketmine\\event\\server\\ServerEvent", "d1/d77/classpocketmine_1_1event_1_1server_1_1_server_event.html", [
-        [ "pocketmine\\event\\server\\CommandEvent", "da/d32/classpocketmine_1_1event_1_1server_1_1_command_event.html", null ],
-        [ "pocketmine\\event\\server\\DataPacketDecodeEvent", "da/d79/classpocketmine_1_1event_1_1server_1_1_data_packet_decode_event.html", null ],
-        [ "pocketmine\\event\\server\\DataPacketReceiveEvent", "d1/dcc/classpocketmine_1_1event_1_1server_1_1_data_packet_receive_event.html", null ],
-        [ "pocketmine\\event\\server\\DataPacketSendEvent", "d5/dd4/classpocketmine_1_1event_1_1server_1_1_data_packet_send_event.html", null ],
-        [ "pocketmine\\event\\server\\LowMemoryEvent", "df/def/classpocketmine_1_1event_1_1server_1_1_low_memory_event.html", null ],
-        [ "pocketmine\\event\\server\\NetworkInterfaceEvent", "d3/d1a/classpocketmine_1_1event_1_1server_1_1_network_interface_event.html", [
-          [ "pocketmine\\event\\server\\NetworkInterfaceRegisterEvent", "d8/d02/classpocketmine_1_1event_1_1server_1_1_network_interface_register_event.html", null ],
-          [ "pocketmine\\event\\server\\NetworkInterfaceUnregisterEvent", "d5/db8/classpocketmine_1_1event_1_1server_1_1_network_interface_unregister_event.html", null ]
-        ] ],
-        [ "pocketmine\\event\\server\\QueryRegenerateEvent", "dd/d42/classpocketmine_1_1event_1_1server_1_1_query_regenerate_event.html", null ],
-        [ "pocketmine\\event\\server\\UpdateNotifyEvent", "d1/dc2/classpocketmine_1_1event_1_1server_1_1_update_notify_event.html", null ]
+      [ "pocketmine\\event\\server\\CommandEvent", "da/d32/classpocketmine_1_1event_1_1server_1_1_command_event.html", null ],
+      [ "pocketmine\\event\\server\\DataPacketDecodeEvent", "da/d79/classpocketmine_1_1event_1_1server_1_1_data_packet_decode_event.html", null ],
+      [ "pocketmine\\event\\server\\DataPacketReceiveEvent", "d1/dcc/classpocketmine_1_1event_1_1server_1_1_data_packet_receive_event.html", null ],
+      [ "pocketmine\\event\\server\\DataPacketSendEvent", "d5/dd4/classpocketmine_1_1event_1_1server_1_1_data_packet_send_event.html", null ],
+      [ "pocketmine\\event\\server\\LowMemoryEvent", "df/def/classpocketmine_1_1event_1_1server_1_1_low_memory_event.html", null ],
+      [ "pocketmine\\event\\server\\NetworkInterfaceEvent", "d3/d1a/classpocketmine_1_1event_1_1server_1_1_network_interface_event.html", [
+        [ "pocketmine\\event\\server\\NetworkInterfaceRegisterEvent", "d8/d02/classpocketmine_1_1event_1_1server_1_1_network_interface_register_event.html", null ],
+        [ "pocketmine\\event\\server\\NetworkInterfaceUnregisterEvent", "d5/db8/classpocketmine_1_1event_1_1server_1_1_network_interface_unregister_event.html", null ]
       ] ],
+      [ "pocketmine\\event\\server\\QueryRegenerateEvent", "dd/d42/classpocketmine_1_1event_1_1server_1_1_query_regenerate_event.html", null ],
+      [ "pocketmine\\event\\server\\UpdateNotifyEvent", "d1/dc2/classpocketmine_1_1event_1_1server_1_1_update_notify_event.html", null ],
       [ "pocketmine\\event\\world\\WorldEvent", "d9/d97/classpocketmine_1_1event_1_1world_1_1_world_event.html", [
         [ "pocketmine\\event\\world\\ChunkEvent", "dd/d06/classpocketmine_1_1event_1_1world_1_1_chunk_event.html", [
           [ "pocketmine\\event\\world\\ChunkLoadEvent", "dd/df4/classpocketmine_1_1event_1_1world_1_1_chunk_load_event.html", null ],
@@ -2493,6 +2491,7 @@ var hierarchy =
         [ "pocketmine\\world\\format\\io\\data\\JavaWorldData", "da/d8c/classpocketmine_1_1world_1_1format_1_1io_1_1data_1_1_java_world_data.html", null ]
       ] ]
     ] ],
+    [ "pocketmine\\data\\bedrock\\WorldDataVersions", "d2/d20/classpocketmine_1_1data_1_1bedrock_1_1_world_data_versions.html", null ],
     [ "pocketmine\\world\\WorldManager", "d8/d70/classpocketmine_1_1world_1_1_world_manager.html", null ],
     [ "pocketmine\\world\\format\\io\\WorldProvider", "d8/d94/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_provider.html", [
       [ "pocketmine\\world\\format\\io\\BaseWorldProvider", "d6/dfa/classpocketmine_1_1world_1_1format_1_1io_1_1_base_world_provider.html", [

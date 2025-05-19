@@ -172,7 +172,7 @@ var NAVTREEINDEX0 =
 "d0/d0c/classraklib_1_1generic_1_1_packet_handling_exception.html#a4be57af519994697bb2aac6ecb498cb5":[3,0,2,1,1,0],
 "d0/d0e/_mc_region_8php_source.html":[4,0,0,25,1,0,3,3],
 "d0/d10/_player_exhaust_event_8php_source.html":[4,0,0,7,3,21],
-"d0/d10/classpocketmine_1_1event_1_1_listener_method_tags.html":[2,0,0,3,13],
+"d0/d10/classpocketmine_1_1event_1_1_listener_method_tags.html":[2,0,0,3,12],
 "d0/d10/classpocketmine_1_1event_1_1_listener_method_tags.html":[3,0,1,9,13],
 "d0/d12/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_spawn_position_packet.html":[3,0,1,16,0,6,179],
 "d0/d12/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_spawn_position_packet.html#a2124ad8f72833cad92c58a8dd8d9b5e8":[3,0,1,16,0,6,179,7],
