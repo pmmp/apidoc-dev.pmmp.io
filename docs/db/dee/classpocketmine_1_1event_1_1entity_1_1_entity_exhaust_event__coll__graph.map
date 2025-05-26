@@ -1,7 +1,7 @@
-<map id="pocketmine\event\player\PlayerExhaustEvent" name="pocketmine\event\player\PlayerExhaustEvent">
-<area shape="rect" id="Node000001" title=" " alt="" coords="390,2077,582,2437"/>
+<map id="pocketmine\event\entity\EntityExhaustEvent" name="pocketmine\event\entity\EntityExhaustEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="390,2087,582,2427"/>
 <area shape="rect" id="Node000002" href="$de/d84/classpocketmine_1_1event_1_1entity_1_1_entity_event.html" title=" " alt="" coords="174,1757,347,1837"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="299,1847,339,1908,379,1976,424,2076,419,2078,374,1979,335,1911,295,1850"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="299,1847,339,1908,379,1976,428,2086,424,2088,374,1979,335,1911,295,1850"/>
 <area shape="rect" id="Node000005" href="$d5/de3/classpocketmine_1_1event_1_1entity_1_1_entity_damage_event.html" title=" " alt="" coords="159,1977,365,2537"/>
 <area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="263,1851,264,1977,258,1977,258,1851"/>
 <area shape="rect" id="Node000003" href="$d1/d2f/classpocketmine_1_1event_1_1_event.html" title=" " alt="" coords="175,1269,347,1375"/>
@@ -10,7 +10,7 @@
 <area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="786,3065,711,3035,622,2995,525,2945,424,2885,324,2814,231,2733,188,2689,148,2641,113,2591,82,2539,45,2460,20,2390,6,2324,3,2261,10,2197,26,2130,50,2058,82,1976,102,1938,129,1903,159,1872,189,1846,192,1850,162,1876,133,1906,107,1941,87,1978,55,2059,31,2132,15,2198,9,2261,12,2324,25,2388,50,2458,87,2536,117,2588,153,2638,192,2685,234,2729,327,2810,427,2880,527,2940,624,2990,713,3030,788,3060"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="368,2515,380,2536,425,2602,474,2668,579,2792,684,2903,777,2994,773,2998,680,2907,575,2796,470,2671,421,2605,376,2539,363,2518"/>
 <area shape="rect" id="Node000006" href="$db/d62/interfacepocketmine_1_1event_1_1_cancellable.html" title=" " alt="" coords="371,1765,582,1830"/>
-<area shape="poly" id="edge20_Node000001_Node000006" title=" " alt="" coords="480,1844,485,2077,480,2077,475,1844"/>
+<area shape="poly" id="edge20_Node000001_Node000006" title=" " alt="" coords="480,1843,485,2087,480,2087,475,1844"/>
 <area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="453,1844,380,1979,368,2005,363,2003,376,1976,448,1841"/>
 <area shape="rect" id="Node000007" href="$dc/d56/classpocketmine_1_1entity_1_1_location.html" title=" " alt="" coords="657,2155,848,2360"/>
 <area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="754,2360,757,2471,767,2590,787,2705,781,2706,762,2591,751,2471,748,2360"/>

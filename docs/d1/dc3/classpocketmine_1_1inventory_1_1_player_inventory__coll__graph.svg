@@ -787,7 +787,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="2452.5" y="-1607" font-family="Helvetica,sans-Serif" font-size="10.00">canBeMovedByCurrents()</text>
 <text text-anchor="start" x="2439.5" y="-1592" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="2452.5" y="-1592" font-family="Helvetica,sans-Serif" font-size="10.00">canBeRenamed()</text>
-<text text-anchor="start" x="2452.5" y="-1577" font-family="Helvetica,sans-Serif" font-size="10.00">and 94 more...</text>
+<text text-anchor="start" x="2452.5" y="-1577" font-family="Helvetica,sans-Serif" font-size="10.00">and 96 more...</text>
 <text text-anchor="start" x="2439.5" y="-1562" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="2452.5" y="-1562" font-family="Helvetica,sans-Serif" font-size="10.00">nextRuntimeId()</text>
 <text text-anchor="start" x="2439.5" y="-1547" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>

@@ -506,7 +506,9 @@ var hierarchy =
         [ "pocketmine\\event\\entity\\EntityEffectAddEvent", "d7/d1b/classpocketmine_1_1event_1_1entity_1_1_entity_effect_add_event.html", null ],
         [ "pocketmine\\event\\entity\\EntityEffectRemoveEvent", "da/de1/classpocketmine_1_1event_1_1entity_1_1_entity_effect_remove_event.html", null ]
       ] ],
+      [ "pocketmine\\event\\entity\\EntityExhaustEvent", "dd/d0b/classpocketmine_1_1event_1_1entity_1_1_entity_exhaust_event.html", null ],
       [ "pocketmine\\event\\entity\\EntityExplodeEvent", "d9/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_explode_event.html", null ],
+      [ "pocketmine\\event\\entity\\EntityFrostWalkerEvent", "d8/dfb/classpocketmine_1_1event_1_1entity_1_1_entity_frost_walker_event.html", null ],
       [ "pocketmine\\event\\entity\\EntityItemPickupEvent", "dc/d5b/classpocketmine_1_1event_1_1entity_1_1_entity_item_pickup_event.html", null ],
       [ "pocketmine\\event\\entity\\EntityMotionEvent", "d5/d70/classpocketmine_1_1event_1_1entity_1_1_entity_motion_event.html", null ],
       [ "pocketmine\\event\\entity\\EntityPreExplodeEvent", "d4/dd2/classpocketmine_1_1event_1_1entity_1_1_entity_pre_explode_event.html", null ],
@@ -538,7 +540,6 @@ var hierarchy =
       [ "pocketmine\\event\\player\\PlayerEnchantingOptionsRequestEvent", "d4/db8/classpocketmine_1_1event_1_1player_1_1_player_enchanting_options_request_event.html", null ],
       [ "pocketmine\\event\\player\\PlayerEntityInteractEvent", "d0/d26/classpocketmine_1_1event_1_1player_1_1_player_entity_interact_event.html", null ],
       [ "pocketmine\\event\\player\\PlayerEntityPickEvent", "d7/dc0/classpocketmine_1_1event_1_1player_1_1_player_entity_pick_event.html", null ],
-      [ "pocketmine\\event\\player\\PlayerExhaustEvent", "d9/dfb/classpocketmine_1_1event_1_1player_1_1_player_exhaust_event.html", null ],
       [ "pocketmine\\event\\player\\PlayerExperienceChangeEvent", "df/d28/classpocketmine_1_1event_1_1player_1_1_player_experience_change_event.html", null ],
       [ "pocketmine\\event\\player\\PlayerGameModeChangeEvent", "db/d3e/classpocketmine_1_1event_1_1player_1_1_player_game_mode_change_event.html", null ],
       [ "pocketmine\\event\\player\\PlayerInteractEvent", "d8/d28/classpocketmine_1_1event_1_1player_1_1_player_interact_event.html", null ],
@@ -894,8 +895,10 @@ var hierarchy =
         ] ],
         [ "pocketmine\\event\\entity\\EntityDespawnEvent", "dc/d06/classpocketmine_1_1event_1_1entity_1_1_entity_despawn_event.html", null ],
         [ "pocketmine\\event\\entity\\EntityEffectEvent", "d9/d22/classpocketmine_1_1event_1_1entity_1_1_entity_effect_event.html", null ],
+        [ "pocketmine\\event\\entity\\EntityExhaustEvent", "dd/d0b/classpocketmine_1_1event_1_1entity_1_1_entity_exhaust_event.html", null ],
         [ "pocketmine\\event\\entity\\EntityExplodeEvent", "d9/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_explode_event.html", null ],
         [ "pocketmine\\event\\entity\\EntityExtinguishEvent", "d7/d5a/classpocketmine_1_1event_1_1entity_1_1_entity_extinguish_event.html", null ],
+        [ "pocketmine\\event\\entity\\EntityFrostWalkerEvent", "d8/dfb/classpocketmine_1_1event_1_1entity_1_1_entity_frost_walker_event.html", null ],
         [ "pocketmine\\event\\entity\\EntityItemPickupEvent", "dc/d5b/classpocketmine_1_1event_1_1entity_1_1_entity_item_pickup_event.html", null ],
         [ "pocketmine\\event\\entity\\EntityMotionEvent", "d5/d70/classpocketmine_1_1event_1_1entity_1_1_entity_motion_event.html", null ],
         [ "pocketmine\\event\\entity\\EntityPreExplodeEvent", "d4/dd2/classpocketmine_1_1event_1_1entity_1_1_entity_pre_explode_event.html", null ],
@@ -912,7 +915,6 @@ var hierarchy =
           [ "pocketmine\\event\\entity\\ProjectileHitEntityEvent", "d0/dfb/classpocketmine_1_1event_1_1entity_1_1_projectile_hit_entity_event.html", null ]
         ] ],
         [ "pocketmine\\event\\entity\\ProjectileLaunchEvent", "d1/dea/classpocketmine_1_1event_1_1entity_1_1_projectile_launch_event.html", null ],
-        [ "pocketmine\\event\\player\\PlayerExhaustEvent", "d9/dfb/classpocketmine_1_1event_1_1player_1_1_player_exhaust_event.html", null ],
         [ "pocketmine\\event\\player\\PlayerExperienceChangeEvent", "df/d28/classpocketmine_1_1event_1_1player_1_1_player_experience_change_event.html", null ]
       ] ],
       [ "pocketmine\\event\\inventory\\CraftItemEvent", "d0/d1a/classpocketmine_1_1event_1_1inventory_1_1_craft_item_event.html", null ],

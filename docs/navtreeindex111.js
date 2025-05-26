@@ -1,5 +1,6 @@
 var NAVTREEINDEX111 =
 {
+"d7/d7c/classpocketmine_1_1world_1_1generator_1_1_population_utils.html#ada587d34bd12fe7bfdd99bc1554a8e8c":[3,0,1,30,2,16,0],
 "d7/d7d/classpocketmine_1_1event_1_1player_1_1_player_death_event.html":[2,0,0,3,3,10],
 "d7/d7d/classpocketmine_1_1event_1_1player_1_1_player_death_event.html":[3,0,1,9,3,10],
 "d7/d7d/classpocketmine_1_1event_1_1player_1_1_player_death_event.html#a059be072106297bef570cc3b7811beb6":[2,0,0,3,3,10,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX111 =
 "d7/d98/classpocketmine_1_1entity_1_1animation_1_1_squid_ink_cloud_animation.html":[3,0,1,7,0,9],
 "d7/d98/classpocketmine_1_1entity_1_1animation_1_1_squid_ink_cloud_animation.html#ada71c43f80f65ad442dddb12b7b47e34":[3,0,1,7,0,9,0],
 "d7/d99/_copper_grate_8php_source.html":[4,0,0,0,68],
-"d7/d9a/classpocketmine_1_1block_1_1_campfire.html":[2,0,0,0,41],
-"d7/d9a/classpocketmine_1_1block_1_1_campfire.html":[3,0,1,0,43]
+"d7/d9a/classpocketmine_1_1block_1_1_campfire.html":[2,0,0,0,41]
 };

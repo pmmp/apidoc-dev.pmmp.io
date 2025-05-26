@@ -1,5 +1,6 @@
 var NAVTREEINDEX117 =
 {
+"d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#abce48b40feb225f4ce9b7cf2e02a9336":[2,0,0,0,128,55],
 "d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#abce48b40feb225f4ce9b7cf2e02a9336":[3,0,1,0,130,55],
 "d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#ac85f12ad4e4d729db9f27ecb8e97998b":[2,0,0,0,128,51],
 "d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,130,51],
@@ -180,7 +181,7 @@ var NAVTREEINDEX117 =
 "d7/dfe/classpocketmine_1_1item_1_1_raw_porkchop.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,90,40],
 "d7/dfe/classpocketmine_1_1world_1_1sound_1_1_bucket_fill_water_sound.html":[3,0,1,30,5,25],
 "d7/dfe/classpocketmine_1_1world_1_1sound_1_1_bucket_fill_water_sound.html#a7634a2315c8a21d83705a780427d74d1":[3,0,1,30,5,25,0],
-"d8/d00/_projectile_launch_event_8php_source.html":[4,0,0,7,1,30],
+"d8/d00/_projectile_launch_event_8php_source.html":[4,0,0,7,1,32],
 "d8/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_actor_event.html":[3,0,1,16,0,6,1,11],
 "d8/d02/_creative_inventory_cache_entry_8php_source.html":[4,0,0,12,0,1,3],
 "d8/d02/classpocketmine_1_1event_1_1server_1_1_network_interface_register_event.html":[3,0,1,9,5,6],
@@ -188,7 +189,7 @@ var NAVTREEINDEX117 =
 "d8/d02/classpocketmine_1_1event_1_1server_1_1_network_interface_register_event.html#a90efcab0d539a5cb5b17968dfa164017":[3,0,1,9,5,6,2],
 "d8/d02/classpocketmine_1_1event_1_1server_1_1_network_interface_register_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,5,6,1],
 "d8/d03/_core_constants_8php_source.html":[4,0,0,27],
-"d8/d04/_player_post_chunk_send_event_8php_source.html":[4,0,0,7,3,35],
+"d8/d04/_player_post_chunk_send_event_8php_source.html":[4,0,0,7,3,34],
 "d8/d04/classpocketmine_1_1item_1_1_dried_kelp.html":[2,0,0,5,35],
 "d8/d04/classpocketmine_1_1item_1_1_dried_kelp.html":[3,0,1,12,36],
 "d8/d04/classpocketmine_1_1item_1_1_dried_kelp.html#a0a422a89abd427286bc2f312100f968c":[2,0,0,5,35,32],
@@ -248,6 +249,5 @@ var NAVTREEINDEX117 =
 "d8/d04/classpocketmine_1_1item_1_1_dried_kelp.html#a7b5c1e7e496c3077658212aaacec4b56":[2,0,0,5,35,16],
 "d8/d04/classpocketmine_1_1item_1_1_dried_kelp.html#a7b5c1e7e496c3077658212aaacec4b56":[3,0,1,12,36,16],
 "d8/d04/classpocketmine_1_1item_1_1_dried_kelp.html#a7d45886d40860e24fb4c18d02a3d1a32":[2,0,0,5,35,15],
-"d8/d04/classpocketmine_1_1item_1_1_dried_kelp.html#a7d45886d40860e24fb4c18d02a3d1a32":[3,0,1,12,36,15],
-"d8/d04/classpocketmine_1_1item_1_1_dried_kelp.html#a8e97e9296238bf8794a2d2f8e94e8a93":[2,0,0,5,35,51]
+"d8/d04/classpocketmine_1_1item_1_1_dried_kelp.html#a7d45886d40860e24fb4c18d02a3d1a32":[3,0,1,12,36,15]
 };

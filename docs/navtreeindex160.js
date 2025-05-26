@@ -1,5 +1,10 @@
 var NAVTREEINDEX160 =
 {
+"da/dba/classpocketmine_1_1block_1_1_wooden_button.html#a63a59c516524bff04f00d01320264add":[2,0,0,0,244,37],
+"da/dba/classpocketmine_1_1block_1_1_wooden_button.html#a63a59c516524bff04f00d01320264add":[3,0,1,0,246,37],
+"da/dba/classpocketmine_1_1block_1_1_wooden_button.html#a666e50d625fe1e57391c28c9da24a678":[2,0,0,0,244,64],
+"da/dba/classpocketmine_1_1block_1_1_wooden_button.html#a666e50d625fe1e57391c28c9da24a678":[3,0,1,0,246,64],
+"da/dba/classpocketmine_1_1block_1_1_wooden_button.html#a6d3cefce63d654d994f2e1b5dcc11c54":[2,0,0,0,244,20],
 "da/dba/classpocketmine_1_1block_1_1_wooden_button.html#a6d3cefce63d654d994f2e1b5dcc11c54":[3,0,1,0,246,20],
 "da/dba/classpocketmine_1_1block_1_1_wooden_button.html#a6d937579e316caf0a9f92c20753a66cb":[2,0,0,0,244,50],
 "da/dba/classpocketmine_1_1block_1_1_wooden_button.html#a6d937579e316caf0a9f92c20753a66cb":[3,0,1,0,246,50],
@@ -244,10 +249,5 @@ var NAVTREEINDEX160 =
 "da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,231,47],
 "da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,229,3],
 "da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,231,3],
-"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,229,22],
-"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[3,0,1,0,231,22],
-"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a286fc64348f13417dcb6106c2695911b":[2,0,0,0,229,2],
-"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a286fc64348f13417dcb6106c2695911b":[3,0,1,0,231,2],
-"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a2a8cdd2e0048ba0feb8420787b3f045b":[2,0,0,0,229,64],
-"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a2a8cdd2e0048ba0feb8420787b3f045b":[3,0,1,0,231,64]
+"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,229,22]
 };

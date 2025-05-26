@@ -1,5 +1,6 @@
 var NAVTREEINDEX98 =
 {
+"d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#afcc19c437c8bef4487f5ecb956ae9a1a":[3,0,1,0,209,29],
 "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#afe4928a6da38d63eccea78bd1a2fdcd3":[2,0,0,0,207,21],
 "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#afe4928a6da38d63eccea78bd1a2fdcd3":[3,0,1,0,209,21],
 "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#afe506084e4bb8741a7ac64f6d90c00a5":[2,0,0,0,207,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX98 =
 "d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html#a444028c60ad6c7afacda1a6cc3065e59":[3,0,1,0,242,15],
 "d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html#a44490a949a5f31145924fe121e418654":[2,0,0,0,240,7],
 "d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html#a44490a949a5f31145924fe121e418654":[3,0,1,0,242,7],
-"d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[2,0,0,0,240,40],
-"d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[3,0,1,0,242,40]
+"d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[2,0,0,0,240,40]
 };

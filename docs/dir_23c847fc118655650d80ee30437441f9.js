@@ -21,7 +21,6 @@ var dir_23c847fc118655650d80ee30437441f9 =
     [ "PlayerEntityInteractEvent.php", "d8/d64/_player_entity_interact_event_8php_source.html", null ],
     [ "PlayerEntityPickEvent.php", "d6/d2d/_player_entity_pick_event_8php_source.html", null ],
     [ "PlayerEvent.php", "d3/da2/_player_event_8php_source.html", null ],
-    [ "PlayerExhaustEvent.php", "d0/d10/_player_exhaust_event_8php_source.html", null ],
     [ "PlayerExperienceChangeEvent.php", "de/d37/_player_experience_change_event_8php_source.html", null ],
     [ "PlayerGameModeChangeEvent.php", "d2/d01/_player_game_mode_change_event_8php_source.html", null ],
     [ "PlayerInteractEvent.php", "de/d78/_player_interact_event_8php_source.html", null ],

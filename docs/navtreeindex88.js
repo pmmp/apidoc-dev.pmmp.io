@@ -1,5 +1,6 @@
 var NAVTREEINDEX88 =
 {
+"d6/d39/classpocketmine_1_1crafting_1_1json_1_1_potion_container_change_recipe_data.html#a4fca311ae89571279fc72bfd72b09a04":[3,0,1,4,0,2,2],
 "d6/d39/classpocketmine_1_1crafting_1_1json_1_1_potion_container_change_recipe_data.html#a9e2f22f487d89627312dc930e08a2a5d":[3,0,1,4,0,2,1],
 "d6/d39/classpocketmine_1_1crafting_1_1json_1_1_potion_container_change_recipe_data.html#afd8865b42dd279032ef95576e8bb15da":[3,0,1,4,0,2,0],
 "d6/d3a/classpocketmine_1_1block_1_1_hopper.html":[2,0,0,0,125],
@@ -248,6 +249,5 @@ var NAVTREEINDEX88 =
 "d6/d41/classpocketmine_1_1item_1_1_boat.html#aec8070c04112770e0d01a3c56b252e81":[3,0,1,12,14,45],
 "d6/d41/classpocketmine_1_1item_1_1_boat.html#af737301b899b7a7c9e9b0bb9a234a119":[2,0,0,5,13,7],
 "d6/d41/classpocketmine_1_1item_1_1_boat.html#af737301b899b7a7c9e9b0bb9a234a119":[3,0,1,12,14,7],
-"d6/d41/classpocketmine_1_1item_1_1_boat.html#af85accbedba28b67bb66d5f12d329585":[2,0,0,5,13,37],
-"d6/d41/classpocketmine_1_1item_1_1_boat.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,14,37]
+"d6/d41/classpocketmine_1_1item_1_1_boat.html#af85accbedba28b67bb66d5f12d329585":[2,0,0,5,13,37]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX102 =
 {
+"d6/ddf/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_sub_chunk_packet.html#a4f5838ca5c5389b9226bee6143ced0b0":[3,0,1,16,0,6,195,7],
 "d6/ddf/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_sub_chunk_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,195,4],
 "d6/ddf/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_sub_chunk_packet.html#a9b11d76528d14f63c41d1376b1224e41":[3,0,1,16,0,6,195,2],
 "d6/ddf/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_sub_chunk_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,195,0],
@@ -50,16 +51,16 @@ var NAVTREEINDEX102 =
 "d6/df1/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_p_m_anvil.html#afc331435c144a9526e7b473bb2f6abf6":[3,0,1,30,1,0,3,3,0],
 "d6/df2/block_2_melon_8php_source.html":[4,0,0,0,148],
 "d6/df8/_chunk_unload_event_8php_source.html":[4,0,0,7,6,3],
-"d6/df9/classpocketmine_1_1event_1_1entity_1_1_item_spawn_event.html":[2,0,0,3,1,26],
-"d6/df9/classpocketmine_1_1event_1_1entity_1_1_item_spawn_event.html":[3,0,1,9,1,26],
-"d6/df9/classpocketmine_1_1event_1_1entity_1_1_item_spawn_event.html#a2333d7f055234d7fefc00066158bd888":[2,0,0,3,1,26,3],
-"d6/df9/classpocketmine_1_1event_1_1entity_1_1_item_spawn_event.html#a2333d7f055234d7fefc00066158bd888":[3,0,1,9,1,26,3],
-"d6/df9/classpocketmine_1_1event_1_1entity_1_1_item_spawn_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,1,26,0],
-"d6/df9/classpocketmine_1_1event_1_1entity_1_1_item_spawn_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,1,26,0],
-"d6/df9/classpocketmine_1_1event_1_1entity_1_1_item_spawn_event.html#a8663d2cb2c18681a6701a0df7899f0a9":[2,0,0,3,1,26,1],
-"d6/df9/classpocketmine_1_1event_1_1entity_1_1_item_spawn_event.html#a8663d2cb2c18681a6701a0df7899f0a9":[3,0,1,9,1,26,1],
-"d6/df9/classpocketmine_1_1event_1_1entity_1_1_item_spawn_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,0,3,1,26,2],
-"d6/df9/classpocketmine_1_1event_1_1entity_1_1_item_spawn_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,1,26,2],
+"d6/df9/classpocketmine_1_1event_1_1entity_1_1_item_spawn_event.html":[2,0,0,3,1,28],
+"d6/df9/classpocketmine_1_1event_1_1entity_1_1_item_spawn_event.html":[3,0,1,9,1,28],
+"d6/df9/classpocketmine_1_1event_1_1entity_1_1_item_spawn_event.html#a2333d7f055234d7fefc00066158bd888":[2,0,0,3,1,28,3],
+"d6/df9/classpocketmine_1_1event_1_1entity_1_1_item_spawn_event.html#a2333d7f055234d7fefc00066158bd888":[3,0,1,9,1,28,3],
+"d6/df9/classpocketmine_1_1event_1_1entity_1_1_item_spawn_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,1,28,0],
+"d6/df9/classpocketmine_1_1event_1_1entity_1_1_item_spawn_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,1,28,0],
+"d6/df9/classpocketmine_1_1event_1_1entity_1_1_item_spawn_event.html#a8663d2cb2c18681a6701a0df7899f0a9":[2,0,0,3,1,28,1],
+"d6/df9/classpocketmine_1_1event_1_1entity_1_1_item_spawn_event.html#a8663d2cb2c18681a6701a0df7899f0a9":[3,0,1,9,1,28,1],
+"d6/df9/classpocketmine_1_1event_1_1entity_1_1_item_spawn_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,0,3,1,28,2],
+"d6/df9/classpocketmine_1_1event_1_1entity_1_1_item_spawn_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,1,28,2],
 "d6/dfa/classpocketmine_1_1event_1_1block_1_1_block_item_pickup_event.html":[2,0,0,3,0,7],
 "d6/dfa/classpocketmine_1_1event_1_1block_1_1_block_item_pickup_event.html":[3,0,1,9,0,7],
 "d6/dfa/classpocketmine_1_1event_1_1block_1_1_block_item_pickup_event.html#a2fe7d9a02b650c05f2fd7c2ced969630":[2,0,0,3,0,7,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX102 =
 "d7/d03/classpocketmine_1_1command_1_1_closure_command.html":[2,0,0,1,0],
 "d7/d03/classpocketmine_1_1command_1_1_closure_command.html":[3,0,1,2,2],
 "d7/d03/classpocketmine_1_1command_1_1_closure_command.html#a425117ae5e7bab32cc824f19f82b613b":[2,0,0,1,0,3],
-"d7/d03/classpocketmine_1_1command_1_1_closure_command.html#a425117ae5e7bab32cc824f19f82b613b":[3,0,1,2,2,3],
-"d7/d03/classpocketmine_1_1command_1_1_closure_command.html#a4859613939084965943bdd57df3696a3":[2,0,0,1,0,1]
+"d7/d03/classpocketmine_1_1command_1_1_closure_command.html#a425117ae5e7bab32cc824f19f82b613b":[3,0,1,2,2,3]
 };

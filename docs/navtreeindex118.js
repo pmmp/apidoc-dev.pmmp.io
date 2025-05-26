@@ -1,5 +1,6 @@
 var NAVTREEINDEX118 =
 {
+"d8/d04/classpocketmine_1_1item_1_1_dried_kelp.html#a8e97e9296238bf8794a2d2f8e94e8a93":[2,0,0,5,35,51],
 "d8/d04/classpocketmine_1_1item_1_1_dried_kelp.html#a8e97e9296238bf8794a2d2f8e94e8a93":[3,0,1,12,36,51],
 "d8/d04/classpocketmine_1_1item_1_1_dried_kelp.html#a95cfab40de7390593990a239f8e4af73":[2,0,0,5,35,12],
 "d8/d04/classpocketmine_1_1item_1_1_dried_kelp.html#a95cfab40de7390593990a239f8e4af73":[3,0,1,12,36,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX118 =
 "d8/d07/classpocketmine_1_1item_1_1_bamboo.html#a4a9aa55600bb30c4d55ad63337874a07":[3,0,1,12,8,6],
 "d8/d07/classpocketmine_1_1item_1_1_bamboo.html#a536378f334334c0e8b06e5ccaeb4de39":[2,0,0,5,7,29],
 "d8/d07/classpocketmine_1_1item_1_1_bamboo.html#a536378f334334c0e8b06e5ccaeb4de39":[3,0,1,12,8,29],
-"d8/d07/classpocketmine_1_1item_1_1_bamboo.html#a568624515bba5ff57e21ec8c828ade56":[2,0,0,5,7,5],
-"d8/d07/classpocketmine_1_1item_1_1_bamboo.html#a568624515bba5ff57e21ec8c828ade56":[3,0,1,12,8,5]
+"d8/d07/classpocketmine_1_1item_1_1_bamboo.html#a568624515bba5ff57e21ec8c828ade56":[2,0,0,5,7,5]
 };

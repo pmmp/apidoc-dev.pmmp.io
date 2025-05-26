@@ -247,7 +247,7 @@ var NAVTREEINDEX11 =
 "d0/dd5/classpocketmine_1_1block_1_1_big_dripleaf_head.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,20,27],
 "d0/dd5/classpocketmine_1_1block_1_1_big_dripleaf_head.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,22,27],
 "d0/dd6/_light_population_task_8php_source.html":[4,0,0,25,3,1],
-"d0/dd6/_projectile_hit_block_event_8php_source.html":[4,0,0,7,1,27],
+"d0/dd6/_projectile_hit_block_event_8php_source.html":[4,0,0,7,1,29],
 "d0/dd8/_stem_8php_source.html":[4,0,0,0,213],
 "d0/dd8/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_spawn_response_packet_handler.html":[3,0,1,16,0,5,12]
 };

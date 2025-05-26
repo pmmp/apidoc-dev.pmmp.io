@@ -1,5 +1,6 @@
 var NAVTREEINDEX94 =
 {
+"d6/d87/classpocketmine_1_1block_1_1_sapling.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,189,11],
 "d6/d87/classpocketmine_1_1block_1_1_sapling.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,187,66],
 "d6/d87/classpocketmine_1_1block_1_1_sapling.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,189,66],
 "d6/d87/classpocketmine_1_1block_1_1_sapling.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,187,38],
@@ -248,6 +249,5 @@ var NAVTREEINDEX94 =
 "d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#a6201b0d5460ae6f3b5cee03197c9a94a":[3,0,1,0,129,39],
 "d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#a6d937579e316caf0a9f92c20753a66cb":[2,0,0,0,127,50],
 "d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#a6d937579e316caf0a9f92c20753a66cb":[3,0,1,0,129,50],
-"d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#a6f13ff76dad934b1b2e078a5b57dd7a5":[2,0,0,0,127,35],
-"d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#a6f13ff76dad934b1b2e078a5b57dd7a5":[3,0,1,0,129,35]
+"d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#a6f13ff76dad934b1b2e078a5b57dd7a5":[2,0,0,0,127,35]
 };

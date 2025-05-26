@@ -1,5 +1,6 @@
 var NAVTREEINDEX97 =
 {
+"d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,13,3],
 "d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,11,22],
 "d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[3,0,1,0,13,22],
 "d6/db0/classpocketmine_1_1block_1_1_base_coral.html#a286fc64348f13417dcb6106c2695911b":[2,0,0,0,11,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX97 =
 "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#af45a3d45c4ab6528c6641915722b9de8":[3,0,1,0,209,6],
 "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#af97d045122137ac415425b45e7b22a36":[2,0,0,0,207,49],
 "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#af97d045122137ac415425b45e7b22a36":[3,0,1,0,209,49],
-"d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,0,0,207,29],
-"d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#afcc19c437c8bef4487f5ecb956ae9a1a":[3,0,1,0,209,29]
+"d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,0,0,207,29]
 };

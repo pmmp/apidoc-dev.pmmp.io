@@ -136,7 +136,7 @@ var NAVTREEINDEX29 =
 "d2/d00/classpocketmine_1_1block_1_1_torch.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,224,16],
 "d2/d00/classpocketmine_1_1block_1_1_torch.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,222,27],
 "d2/d00/classpocketmine_1_1block_1_1_torch.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,224,27],
-"d2/d01/_player_game_mode_change_event_8php_source.html":[4,0,0,7,3,23],
+"d2/d01/_player_game_mode_change_event_8php_source.html":[4,0,0,7,3,22],
 "d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html":[3,0,1,16,0,6,123],
 "d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html#a2f9fb5a852c1edb6601289ac78769d93":[3,0,1,16,0,6,123,6],
 "d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,123,4],

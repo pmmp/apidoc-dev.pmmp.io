@@ -1,5 +1,6 @@
 var NAVTREEINDEX99 =
 {
+"d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[3,0,1,0,242,40],
 "d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html#a4bc78712a6bf9ec1e50890f716dbbd2d":[2,0,0,0,240,66],
 "d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html#a4bc78712a6bf9ec1e50890f716dbbd2d":[3,0,1,0,242,66],
 "d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[2,0,0,0,240,51],
@@ -248,6 +249,5 @@ var NAVTREEINDEX99 =
 "d6/dc5/classpocketmine_1_1block_1_1_base_cake.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,12,11],
 "d6/dc5/classpocketmine_1_1block_1_1_base_cake.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,10,68],
 "d6/dc5/classpocketmine_1_1block_1_1_base_cake.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,12,68],
-"d6/dc5/classpocketmine_1_1block_1_1_base_cake.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,10,39],
-"d6/dc5/classpocketmine_1_1block_1_1_base_cake.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,12,39]
+"d6/dc5/classpocketmine_1_1block_1_1_base_cake.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,10,39]
 };

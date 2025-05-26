@@ -16,7 +16,7 @@ var NAVTREEINDEX41 =
 "d2/dd0/classpocketmine_1_1world_1_1generator_1_1noise_1_1_noise.html#accf22868a6612da641990ebd058bec8f":[2,0,0,14,0,0,0,4],
 "d2/dd0/classpocketmine_1_1world_1_1generator_1_1noise_1_1_noise.html#accf22868a6612da641990ebd058bec8f":[3,0,1,30,2,2,0,4],
 "d2/dd1/_iron_ore_8php_source.html":[4,0,0,0,130],
-"d2/dd1/_projectile_hit_entity_event_8php_source.html":[4,0,0,7,1,28],
+"d2/dd1/_projectile_hit_entity_event_8php_source.html":[4,0,0,7,1,30],
 "d2/dd1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_add_actor_packet.html":[3,0,1,16,0,6,4],
 "d2/dd1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_add_actor_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,4,4],
 "d2/dd1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_add_actor_packet.html#a9bc03d23390132126c36b5653d46fee1":[3,0,1,16,0,6,4,5],

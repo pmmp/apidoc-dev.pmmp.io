@@ -230,7 +230,7 @@ var NAVTREEINDEX33 =
 "d2/d42/_jwt_chain_8php_source.html":[4,0,1,0,1,0,1,6,7],
 "d2/d42/_split_packet_info_8php_source.html":[4,0,1,0,9,0,2,23],
 "d2/d42/classpocketmine_1_1thread_1_1_worker.html":[3,0,1,25,9],
-"d2/d43/_player_resource_pack_offer_event_8php_source.html":[4,0,0,7,3,38],
+"d2/d43/_player_resource_pack_offer_event_8php_source.html":[4,0,0,7,3,37],
 "d2/d43/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_time_packet.html":[3,0,1,16,0,6,180],
 "d2/d43/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_time_packet.html#a132e788e243db6f329d45be4a0ac47c4":[3,0,1,16,0,6,180,6],
 "d2/d43/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_time_packet.html#a666c24af0c80dbd0fcb42810efed0bd1":[3,0,1,16,0,6,180,4],

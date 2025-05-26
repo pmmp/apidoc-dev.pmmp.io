@@ -1,5 +1,6 @@
 var NAVTREEINDEX89 =
 {
+"d6/d41/classpocketmine_1_1item_1_1_boat.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,14,37],
 "d6/d42/_resource_pack_info_entry_8php_source.html":[4,0,1,0,1,0,1,8,0],
 "d6/d44/_item_break_sound_8php_source.html":[4,0,0,25,5,72],
 "d6/d47/_critical_hit_animation_8php_source.html":[4,0,0,6,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX89 =
 "d6/d5a/classpocketmine_1_1item_1_1_coal.html#a49a05b01faaaf071449c97060fe44926":[2,0,0,5,23,0],
 "d6/d5a/classpocketmine_1_1item_1_1_coal.html#a49a05b01faaaf071449c97060fe44926":[3,0,1,12,24,0],
 "d6/d5a/classpocketmine_1_1item_1_1_coal.html#a4a9aa55600bb30c4d55ad63337874a07":[2,0,0,5,23,6],
-"d6/d5a/classpocketmine_1_1item_1_1_coal.html#a4a9aa55600bb30c4d55ad63337874a07":[3,0,1,12,24,6],
-"d6/d5a/classpocketmine_1_1item_1_1_coal.html#a536378f334334c0e8b06e5ccaeb4de39":[2,0,0,5,23,29]
+"d6/d5a/classpocketmine_1_1item_1_1_coal.html#a4a9aa55600bb30c4d55ad63337874a07":[3,0,1,12,24,6]
 };

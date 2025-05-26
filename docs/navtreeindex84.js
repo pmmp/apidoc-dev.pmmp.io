@@ -44,12 +44,13 @@ var NAVTREEINDEX84 =
 "d5/dd4/classpocketmine_1_1event_1_1server_1_1_data_packet_send_event.html#af04a81b0dfb0fd788557cbd5379926aa":[3,0,1,9,5,3,3],
 "d5/dd4/classpocketmine_1_1event_1_1server_1_1_data_packet_send_event.html#afb1af1669b4289d6aaf41cc06e5596f8":[3,0,1,9,5,3,2],
 "d5/dd6/world_2generator_2populator_2_tall_grass_8php_source.html":[4,0,0,25,2,5,3],
+"d5/dda/_entity_exhaust_event_8php_source.html":[4,0,0,7,1,14],
 "d5/ddb/_lectern_update_packet_8php_source.html":[4,0,1,0,1,0,85],
 "d5/ddc/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_level_sound_event.html":[3,0,1,16,0,6,1,47],
 "d5/ddd/_amethyst_cluster_8php_source.html":[4,0,0,0,5],
 "d5/ddd/_wooden_trapdoor_8php_source.html":[4,0,0,0,252],
 "d5/ddd/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1recipe_1_1_molang_item_descriptor.html":[3,0,1,16,0,6,1,6,9],
-"d5/ddf/_projectile_hit_event_8php_source.html":[4,0,0,7,1,29],
+"d5/ddf/_projectile_hit_event_8php_source.html":[4,0,0,7,1,31],
 "d5/ddf/classpocketmine_1_1block_1_1tile_1_1_chiseled_bookshelf.html":[2,0,0,0,0,10],
 "d5/ddf/classpocketmine_1_1block_1_1tile_1_1_chiseled_bookshelf.html":[3,0,1,0,1,10],
 "d5/ddf/classpocketmine_1_1block_1_1tile_1_1_chiseled_bookshelf.html#a15ad5fdcf2a7888ffebf175bf7a2321e":[2,0,0,0,0,10,2],
@@ -62,7 +63,7 @@ var NAVTREEINDEX84 =
 "d5/ddf/classpocketmine_1_1block_1_1tile_1_1_chiseled_bookshelf.html#add39024dfb6bffdde18e92b43fc0554c":[3,0,1,0,1,10,0],
 "d5/de0/_minimum_cost_flow_calculator_8php_source.html":[4,0,0,0,2,30],
 "d5/de1/_smoker_8php_source.html":[4,0,0,0,1,32],
-"d5/de2/_player_transfer_event_8php_source.html":[4,0,0,7,3,45],
+"d5/de2/_player_transfer_event_8php_source.html":[4,0,0,7,3,44],
 "d5/de2/_spawn_particle_effect_packet_8php_source.html":[4,0,1,0,1,0,190],
 "d5/de3/classpocketmine_1_1event_1_1entity_1_1_entity_damage_event.html":[2,0,0,3,1,7],
 "d5/de3/classpocketmine_1_1event_1_1entity_1_1_entity_damage_event.html":[3,0,1,9,1,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX84 =
 "d5/df3/classpocketmine_1_1block_1_1_glass_pane.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,113,51],
 "d5/df3/classpocketmine_1_1block_1_1_glass_pane.html#acb449b40461f4800cf6e6288cb9a069d":[2,0,0,0,111,0],
 "d5/df3/classpocketmine_1_1block_1_1_glass_pane.html#acb449b40461f4800cf6e6288cb9a069d":[3,0,1,0,113,0],
-"d5/df3/classpocketmine_1_1block_1_1_glass_pane.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,111,24],
-"d5/df3/classpocketmine_1_1block_1_1_glass_pane.html#acb7cc5bba94398c6a329b3b2af8fa859":[3,0,1,0,113,24]
+"d5/df3/classpocketmine_1_1block_1_1_glass_pane.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,111,24]
 };

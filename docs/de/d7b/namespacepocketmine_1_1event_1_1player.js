@@ -20,7 +20,6 @@ var namespacepocketmine_1_1event_1_1player =
     [ "PlayerEntityInteractEvent", "d0/d26/classpocketmine_1_1event_1_1player_1_1_player_entity_interact_event.html", "d0/d26/classpocketmine_1_1event_1_1player_1_1_player_entity_interact_event" ],
     [ "PlayerEntityPickEvent", "d7/dc0/classpocketmine_1_1event_1_1player_1_1_player_entity_pick_event.html", "d7/dc0/classpocketmine_1_1event_1_1player_1_1_player_entity_pick_event" ],
     [ "PlayerEvent", "d1/db1/classpocketmine_1_1event_1_1player_1_1_player_event.html", "d1/db1/classpocketmine_1_1event_1_1player_1_1_player_event" ],
-    [ "PlayerExhaustEvent", "d9/dfb/classpocketmine_1_1event_1_1player_1_1_player_exhaust_event.html", "d9/dfb/classpocketmine_1_1event_1_1player_1_1_player_exhaust_event" ],
     [ "PlayerExperienceChangeEvent", "df/d28/classpocketmine_1_1event_1_1player_1_1_player_experience_change_event.html", "df/d28/classpocketmine_1_1event_1_1player_1_1_player_experience_change_event" ],
     [ "PlayerGameModeChangeEvent", "db/d3e/classpocketmine_1_1event_1_1player_1_1_player_game_mode_change_event.html", "db/d3e/classpocketmine_1_1event_1_1player_1_1_player_game_mode_change_event" ],
     [ "PlayerInteractEvent", "d8/d28/classpocketmine_1_1event_1_1player_1_1_player_interact_event.html", "d8/d28/classpocketmine_1_1event_1_1player_1_1_player_interact_event" ],

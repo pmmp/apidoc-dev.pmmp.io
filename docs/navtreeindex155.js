@@ -1,5 +1,10 @@
 var NAVTREEINDEX155 =
 {
+"da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a588080e805e50e4f97e1a3d256b8c11e":[2,0,0,0,78,14],
+"da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a588080e805e50e4f97e1a3d256b8c11e":[3,0,1,0,80,14],
+"da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a6201b0d5460ae6f3b5cee03197c9a94a":[2,0,0,0,78,39],
+"da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a6201b0d5460ae6f3b5cee03197c9a94a":[3,0,1,0,80,39],
+"da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a6d937579e316caf0a9f92c20753a66cb":[2,0,0,0,78,50],
 "da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a6d937579e316caf0a9f92c20753a66cb":[3,0,1,0,80,50],
 "da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a6f13ff76dad934b1b2e078a5b57dd7a5":[2,0,0,0,78,35],
 "da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a6f13ff76dad934b1b2e078a5b57dd7a5":[3,0,1,0,80,35],
@@ -244,10 +249,5 @@ var NAVTREEINDEX155 =
 "da/d59/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_entity_event.html":[2,0,0,3,1,2],
 "da/d59/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_entity_event.html":[3,0,1,9,1,2],
 "da/d59/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_entity_event.html#a08fb02264c2165b99cd2dc805d6ab8f8":[2,0,0,3,1,2,1],
-"da/d59/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_entity_event.html#a08fb02264c2165b99cd2dc805d6ab8f8":[3,0,1,9,1,2,1],
-"da/d59/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_entity_event.html#a2333d7f055234d7fefc00066158bd888":[2,0,0,3,1,2,5],
-"da/d59/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_entity_event.html#a2333d7f055234d7fefc00066158bd888":[3,0,1,9,1,2,5],
-"da/d59/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_entity_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,1,2,0],
-"da/d59/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_entity_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,1,2,0],
-"da/d59/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_entity_event.html#a90efcab0d539a5cb5b17968dfa164017":[2,0,0,3,1,2,4]
+"da/d59/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_entity_event.html#a08fb02264c2165b99cd2dc805d6ab8f8":[3,0,1,9,1,2,1]
 };

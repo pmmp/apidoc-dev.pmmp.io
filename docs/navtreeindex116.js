@@ -1,5 +1,6 @@
 var NAVTREEINDEX116 =
 {
+"d7/de5/classpocketmine_1_1block_1_1_nether_reactor.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,158,47],
 "d7/de5/classpocketmine_1_1block_1_1_nether_reactor.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,156,3],
 "d7/de5/classpocketmine_1_1block_1_1_nether_reactor.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,158,3],
 "d7/de5/classpocketmine_1_1block_1_1_nether_reactor.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,156,22],
@@ -248,6 +249,5 @@ var NAVTREEINDEX116 =
 "d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#ab92353cf0aa5c05ad26535f98a2b1dca":[2,0,0,0,128,26],
 "d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#ab92353cf0aa5c05ad26535f98a2b1dca":[3,0,1,0,130,26],
 "d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[2,0,0,0,128,12],
-"d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[3,0,1,0,130,12],
-"d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#abce48b40feb225f4ce9b7cf2e02a9336":[2,0,0,0,128,55]
+"d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[3,0,1,0,130,12]
 };

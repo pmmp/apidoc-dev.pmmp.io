@@ -218,7 +218,7 @@ var NAVTREEINDEX40 =
 "d2/dbc/_nbt_stream_writer_8php_source.html":[4,0,1,0,8,0,10],
 "d2/dbd/_packet_rate_limiter_8php_source.html":[4,0,0,12,0,19],
 "d2/dbd/_u_pn_p_8php_source.html":[4,0,0,12,2,0],
-"d2/dbf/_entity_shoot_bow_event_8php_source.html":[4,0,0,7,1,20],
+"d2/dbf/_entity_shoot_bow_event_8php_source.html":[4,0,0,7,1,22],
 "d2/dc3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_list_packet.html":[3,0,1,16,0,6,126],
 "d2/dc3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_list_packet.html#a10143c280d4a33eadc501a116e4da874":[3,0,1,16,0,6,126,5],
 "d2/dc3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_list_packet.html#a45dcff1bc4807183772cb1ae0ff125f4":[3,0,1,16,0,6,126,7],
