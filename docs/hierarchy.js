@@ -166,6 +166,7 @@ var hierarchy =
         [ "pocketmine\\block\\RedstoneLamp", "da/db8/classpocketmine_1_1block_1_1_redstone_lamp.html", null ],
         [ "pocketmine\\block\\RedstoneOre", "d6/d6a/classpocketmine_1_1block_1_1_redstone_ore.html", null ],
         [ "pocketmine\\block\\Reserved6", "dd/dec/classpocketmine_1_1block_1_1_reserved6.html", null ],
+        [ "pocketmine\\block\\RespawnAnchor", "d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html", null ],
         [ "pocketmine\\block\\Sand", "d3/d39/classpocketmine_1_1block_1_1_sand.html", null ],
         [ "pocketmine\\block\\Sculk", "d8/d97/classpocketmine_1_1block_1_1_sculk.html", null ],
         [ "pocketmine\\block\\ShulkerBox", "d3/da7/classpocketmine_1_1block_1_1_shulker_box.html", [
@@ -479,8 +480,10 @@ var hierarchy =
       ] ],
       [ "pocketmine\\event\\block\\BlockBreakEvent", "de/d3a/classpocketmine_1_1event_1_1block_1_1_block_break_event.html", null ],
       [ "pocketmine\\event\\block\\BlockBurnEvent", "db/da8/classpocketmine_1_1event_1_1block_1_1_block_burn_event.html", null ],
+      [ "pocketmine\\event\\block\\BlockExplodeEvent", "da/d0e/classpocketmine_1_1event_1_1block_1_1_block_explode_event.html", null ],
       [ "pocketmine\\event\\block\\BlockItemPickupEvent", "d6/dfa/classpocketmine_1_1event_1_1block_1_1_block_item_pickup_event.html", null ],
       [ "pocketmine\\event\\block\\BlockPlaceEvent", "de/d85/classpocketmine_1_1event_1_1block_1_1_block_place_event.html", null ],
+      [ "pocketmine\\event\\block\\BlockPreExplodeEvent", "da/dc2/classpocketmine_1_1event_1_1block_1_1_block_pre_explode_event.html", null ],
       [ "pocketmine\\event\\block\\BlockTeleportEvent", "d9/dc5/classpocketmine_1_1event_1_1block_1_1_block_teleport_event.html", null ],
       [ "pocketmine\\event\\block\\BlockUpdateEvent", "d2/dfc/classpocketmine_1_1event_1_1block_1_1_block_update_event.html", null ],
       [ "pocketmine\\event\\block\\BrewItemEvent", "d0/df2/classpocketmine_1_1event_1_1block_1_1_brew_item_event.html", null ],
@@ -551,6 +554,7 @@ var hierarchy =
       [ "pocketmine\\event\\player\\PlayerLoginEvent", "d6/d15/classpocketmine_1_1event_1_1player_1_1_player_login_event.html", null ],
       [ "pocketmine\\event\\player\\PlayerMissSwingEvent", "d4/d27/classpocketmine_1_1event_1_1player_1_1_player_miss_swing_event.html", null ],
       [ "pocketmine\\event\\player\\PlayerMoveEvent", "d3/d49/classpocketmine_1_1event_1_1player_1_1_player_move_event.html", null ],
+      [ "pocketmine\\event\\player\\PlayerRespawnAnchorUseEvent", "d1/daf/classpocketmine_1_1event_1_1player_1_1_player_respawn_anchor_use_event.html", null ],
       [ "pocketmine\\event\\player\\PlayerToggleFlightEvent", "df/d48/classpocketmine_1_1event_1_1player_1_1_player_toggle_flight_event.html", null ],
       [ "pocketmine\\event\\player\\PlayerToggleGlideEvent", "d7/d32/classpocketmine_1_1event_1_1player_1_1_player_toggle_glide_event.html", null ],
       [ "pocketmine\\event\\player\\PlayerToggleSneakEvent", "d1/d8b/classpocketmine_1_1event_1_1player_1_1_player_toggle_sneak_event.html", null ],
@@ -871,7 +875,9 @@ var hierarchy =
         [ "pocketmine\\event\\block\\BaseBlockChangeEvent", "d0/df9/classpocketmine_1_1event_1_1block_1_1_base_block_change_event.html", null ],
         [ "pocketmine\\event\\block\\BlockBreakEvent", "de/d3a/classpocketmine_1_1event_1_1block_1_1_block_break_event.html", null ],
         [ "pocketmine\\event\\block\\BlockBurnEvent", "db/da8/classpocketmine_1_1event_1_1block_1_1_block_burn_event.html", null ],
+        [ "pocketmine\\event\\block\\BlockExplodeEvent", "da/d0e/classpocketmine_1_1event_1_1block_1_1_block_explode_event.html", null ],
         [ "pocketmine\\event\\block\\BlockItemPickupEvent", "d6/dfa/classpocketmine_1_1event_1_1block_1_1_block_item_pickup_event.html", null ],
+        [ "pocketmine\\event\\block\\BlockPreExplodeEvent", "da/dc2/classpocketmine_1_1event_1_1block_1_1_block_pre_explode_event.html", null ],
         [ "pocketmine\\event\\block\\BlockTeleportEvent", "d9/dc5/classpocketmine_1_1event_1_1block_1_1_block_teleport_event.html", null ],
         [ "pocketmine\\event\\block\\BlockUpdateEvent", "d2/dfc/classpocketmine_1_1event_1_1block_1_1_block_update_event.html", null ],
         [ "pocketmine\\event\\block\\BrewItemEvent", "d0/df2/classpocketmine_1_1event_1_1block_1_1_brew_item_event.html", null ],
@@ -954,6 +960,7 @@ var hierarchy =
         [ "pocketmine\\event\\player\\PlayerMoveEvent", "d3/d49/classpocketmine_1_1event_1_1player_1_1_player_move_event.html", null ],
         [ "pocketmine\\event\\player\\PlayerPostChunkSendEvent", "dd/dd7/classpocketmine_1_1event_1_1player_1_1_player_post_chunk_send_event.html", null ],
         [ "pocketmine\\event\\player\\PlayerQuitEvent", "df/d81/classpocketmine_1_1event_1_1player_1_1_player_quit_event.html", null ],
+        [ "pocketmine\\event\\player\\PlayerRespawnAnchorUseEvent", "d1/daf/classpocketmine_1_1event_1_1player_1_1_player_respawn_anchor_use_event.html", null ],
         [ "pocketmine\\event\\player\\PlayerRespawnEvent", "de/d1c/classpocketmine_1_1event_1_1player_1_1_player_respawn_event.html", null ],
         [ "pocketmine\\event\\player\\PlayerToggleFlightEvent", "df/d48/classpocketmine_1_1event_1_1player_1_1_player_toggle_flight_event.html", null ],
         [ "pocketmine\\event\\player\\PlayerToggleGlideEvent", "d7/d32/classpocketmine_1_1event_1_1player_1_1_player_toggle_glide_event.html", null ],
@@ -1044,6 +1051,10 @@ var hierarchy =
       [ "pocketmine\\world\\generator\\Flat", "d1/dd4/classpocketmine_1_1world_1_1generator_1_1_flat.html", null ],
       [ "pocketmine\\world\\generator\\hell\\Nether", "d8/d74/classpocketmine_1_1world_1_1generator_1_1hell_1_1_nether.html", null ],
       [ "pocketmine\\world\\generator\\normal\\Normal", "db/d66/classpocketmine_1_1world_1_1generator_1_1normal_1_1_normal.html", null ]
+    ] ],
+    [ "pocketmine\\world\\generator\\executor\\GeneratorExecutor", "d4/da3/interfacepocketmine_1_1world_1_1generator_1_1executor_1_1_generator_executor.html", [
+      [ "pocketmine\\world\\generator\\executor\\AsyncGeneratorExecutor", "d3/d18/classpocketmine_1_1world_1_1generator_1_1executor_1_1_async_generator_executor.html", null ],
+      [ "pocketmine\\world\\generator\\executor\\SyncGeneratorExecutor", "da/d96/classpocketmine_1_1world_1_1generator_1_1executor_1_1_sync_generator_executor.html", null ]
     ] ],
     [ "pocketmine\\world\\generator\\GeneratorManager", "d6/dc2/classpocketmine_1_1world_1_1generator_1_1_generator_manager.html", null ],
     [ "pocketmine\\world\\generator\\GeneratorManagerEntry", "da/d06/classpocketmine_1_1world_1_1generator_1_1_generator_manager_entry.html", null ],
@@ -2321,6 +2332,9 @@ var hierarchy =
       [ "pocketmine\\world\\sound\\RecordStopSound", "d7/d19/classpocketmine_1_1world_1_1sound_1_1_record_stop_sound.html", null ],
       [ "pocketmine\\world\\sound\\RedstonePowerOffSound", "d6/d02/classpocketmine_1_1world_1_1sound_1_1_redstone_power_off_sound.html", null ],
       [ "pocketmine\\world\\sound\\RedstonePowerOnSound", "d8/df1/classpocketmine_1_1world_1_1sound_1_1_redstone_power_on_sound.html", null ],
+      [ "pocketmine\\world\\sound\\RespawnAnchorChargeSound", "d8/d50/classpocketmine_1_1world_1_1sound_1_1_respawn_anchor_charge_sound.html", null ],
+      [ "pocketmine\\world\\sound\\RespawnAnchorDepleteSound", "d3/d27/classpocketmine_1_1world_1_1sound_1_1_respawn_anchor_deplete_sound.html", null ],
+      [ "pocketmine\\world\\sound\\RespawnAnchorSetSpawnSound", "dc/d5f/classpocketmine_1_1world_1_1sound_1_1_respawn_anchor_set_spawn_sound.html", null ],
       [ "pocketmine\\world\\sound\\ScrapeSound", "d1/d7b/classpocketmine_1_1world_1_1sound_1_1_scrape_sound.html", null ],
       [ "pocketmine\\world\\sound\\ShulkerBoxCloseSound", "d2/d06/classpocketmine_1_1world_1_1sound_1_1_shulker_box_close_sound.html", null ],
       [ "pocketmine\\world\\sound\\ShulkerBoxOpenSound", "d6/db0/classpocketmine_1_1world_1_1sound_1_1_shulker_box_open_sound.html", null ],
@@ -2392,7 +2406,7 @@ var hierarchy =
     [ "pocketmine\\scheduler\\TaskScheduler", "db/d5a/classpocketmine_1_1scheduler_1_1_task_scheduler.html", null ],
     [ "pocketmine\\utils\\Terminal", "da/d57/classpocketmine_1_1utils_1_1_terminal.html", null ],
     [ "pocketmine\\utils\\TextFormat", "dd/db5/classpocketmine_1_1utils_1_1_text_format.html", null ],
-    [ "pocketmine\\world\\generator\\ThreadLocalGeneratorContext", "d0/d9d/classpocketmine_1_1world_1_1generator_1_1_thread_local_generator_context.html", null ],
+    [ "pocketmine\\world\\generator\\executor\\ThreadLocalGeneratorContext", "dc/d02/classpocketmine_1_1world_1_1generator_1_1executor_1_1_thread_local_generator_context.html", null ],
     [ "pocketmine\\block\\tile\\Tile", "d9/d74/classpocketmine_1_1block_1_1tile_1_1_tile.html", [
       [ "pocketmine\\block\\tile\\ChiseledBookshelf", "d5/ddf/classpocketmine_1_1block_1_1tile_1_1_chiseled_bookshelf.html", null ],
       [ "pocketmine\\block\\tile\\Comparator", "df/de7/classpocketmine_1_1block_1_1tile_1_1_comparator.html", null ],
@@ -2531,9 +2545,9 @@ var hierarchy =
         [ "pocketmine\\scheduler\\TimingsControlTask", "de/d2e/classpocketmine_1_1scheduler_1_1_timings_control_task.html", null ],
         [ "pocketmine\\stats\\SendUsageTask", "df/d2c/classpocketmine_1_1stats_1_1_send_usage_task.html", null ],
         [ "pocketmine\\updater\\UpdateCheckTask", "d7/d6f/classpocketmine_1_1updater_1_1_update_check_task.html", null ],
-        [ "pocketmine\\world\\generator\\GeneratorRegisterTask", "d2/d88/classpocketmine_1_1world_1_1generator_1_1_generator_register_task.html", null ],
-        [ "pocketmine\\world\\generator\\GeneratorUnregisterTask", "d0/dac/classpocketmine_1_1world_1_1generator_1_1_generator_unregister_task.html", null ],
         [ "pocketmine\\world\\generator\\PopulationTask", "d9/d4a/classpocketmine_1_1world_1_1generator_1_1_population_task.html", null ],
+        [ "pocketmine\\world\\generator\\executor\\AsyncGeneratorRegisterTask", "d5/d0f/classpocketmine_1_1world_1_1generator_1_1executor_1_1_async_generator_register_task.html", null ],
+        [ "pocketmine\\world\\generator\\executor\\AsyncGeneratorUnregisterTask", "de/da7/classpocketmine_1_1world_1_1generator_1_1executor_1_1_async_generator_unregister_task.html", null ],
         [ "pocketmine\\world\\light\\LightPopulationTask", "d9/d7c/classpocketmine_1_1world_1_1light_1_1_light_population_task.html", null ]
       ] ]
     ] ],
@@ -2545,6 +2559,7 @@ var hierarchy =
       [ "pocketmine\\thread\\ThreadManager", "df/dca/classpocketmine_1_1thread_1_1_thread_manager.html", null ],
       [ "pocketmine\\thread\\ThreadSafeClassLoader", "df/d2b/classpocketmine_1_1thread_1_1_thread_safe_class_loader.html", null ],
       [ "pocketmine\\thread\\log\\ThreadSafeLogger", "da/df4/classpocketmine_1_1thread_1_1log_1_1_thread_safe_logger.html", null ],
-      [ "pocketmine\\thread\\log\\ThreadSafeLoggerAttachment", "df/d2c/classpocketmine_1_1thread_1_1log_1_1_thread_safe_logger_attachment.html", null ]
+      [ "pocketmine\\thread\\log\\ThreadSafeLoggerAttachment", "df/d2c/classpocketmine_1_1thread_1_1log_1_1_thread_safe_logger_attachment.html", null ],
+      [ "pocketmine\\world\\generator\\executor\\GeneratorExecutorSetupParameters", "d1/d0b/classpocketmine_1_1world_1_1generator_1_1executor_1_1_generator_executor_setup_parameters.html", null ]
     ] ]
 ];

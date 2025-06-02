@@ -12,23 +12,31 @@
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="transparent" points="416.37,-1052 286.37,-1052 286.37,-932 416.37,-932 416.37,-1052"/>
-<text text-anchor="start" x="291.37" y="-1040" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
-<text text-anchor="start" x="293.87" y="-1029" font-family="Helvetica,sans-Serif" font-size="10.00">\EntityPreExplodeEvent</text>
-<text text-anchor="start" x="349.37" y="-1014" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="#999999" stroke="transparent" points="416.37,-1082 286.37,-1082 286.37,-902 416.37,-902 416.37,-1082"/>
+<text text-anchor="start" x="291.37" y="-1070" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
+<text text-anchor="start" x="293.87" y="-1059" font-family="Helvetica,sans-Serif" font-size="10.00">\EntityPreExplodeEvent</text>
+<text text-anchor="start" x="349.37" y="-1044" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="293.87" y="-1029" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="310.37" y="-1029" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
+<text text-anchor="start" x="293.87" y="-1014" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="310.37" y="-1014" font-family="Helvetica,sans-Serif" font-size="10.00">getFireChance()</text>
 <text text-anchor="start" x="293.87" y="-999" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="310.37" y="-999" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
+<text text-anchor="start" x="310.37" y="-999" font-family="Helvetica,sans-Serif" font-size="10.00">getRadius()</text>
 <text text-anchor="start" x="293.87" y="-984" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="310.37" y="-984" font-family="Helvetica,sans-Serif" font-size="10.00">getRadius()</text>
+<text text-anchor="start" x="310.37" y="-984" font-family="Helvetica,sans-Serif" font-size="10.00">isBlockBreaking()</text>
 <text text-anchor="start" x="293.87" y="-969" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="310.37" y="-969" font-family="Helvetica,sans-Serif" font-size="10.00">isBlockBreaking()</text>
+<text text-anchor="start" x="310.37" y="-969" font-family="Helvetica,sans-Serif" font-size="10.00">isIncendiary()</text>
 <text text-anchor="start" x="293.87" y="-954" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="310.37" y="-954" font-family="Helvetica,sans-Serif" font-size="10.00">setBlockBreaking()</text>
 <text text-anchor="start" x="293.87" y="-939" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="310.37" y="-939" font-family="Helvetica,sans-Serif" font-size="10.00">setRadius()</text>
-<polygon fill="#666666" stroke="#666666" points="286.37,-1024 286.37,-1024 416.37,-1024 416.37,-1024 286.37,-1024"/>
-<polygon fill="#666666" stroke="#666666" points="286.37,-1009 286.37,-1009 416.37,-1009 416.37,-1009 286.37,-1009"/>
-<polygon fill="none" stroke="#666666" points="286.37,-932 286.37,-1052 416.37,-1052 416.37,-932 286.37,-932"/>
+<text text-anchor="start" x="310.37" y="-939" font-family="Helvetica,sans-Serif" font-size="10.00">setFireChance()</text>
+<text text-anchor="start" x="293.87" y="-924" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="310.37" y="-924" font-family="Helvetica,sans-Serif" font-size="10.00">setIncendiary()</text>
+<text text-anchor="start" x="293.87" y="-909" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="310.37" y="-909" font-family="Helvetica,sans-Serif" font-size="10.00">setRadius()</text>
+<polygon fill="#666666" stroke="#666666" points="286.37,-1054 286.37,-1054 416.37,-1054 416.37,-1054 286.37,-1054"/>
+<polygon fill="#666666" stroke="#666666" points="286.37,-1039 286.37,-1039 416.37,-1039 416.37,-1039 286.37,-1039"/>
+<polygon fill="none" stroke="#666666" points="286.37,-902 286.37,-1082 416.37,-1082 416.37,-902 286.37,-902"/>
 </a>
 </g>
 </g>
@@ -52,7 +60,7 @@
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node2&#45;&gt;Node1</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M208.3,-1299.32C230.15,-1273.53 258.23,-1237.43 277.37,-1202 303.27,-1154.08 323.15,-1095.28 335.75,-1052.27"/>
+<path fill="none" stroke="#63b8ff" d="M208.3,-1299.32C230.15,-1273.53 258.23,-1237.43 277.37,-1202 297.69,-1164.41 314.3,-1120.13 326.6,-1082.02"/>
 <polygon fill="none" stroke="#63b8ff" points="205.59,-1297.11 201.74,-1306.98 210.9,-1301.66 205.59,-1297.11"/>
 </a>
 </g>
@@ -304,7 +312,7 @@
 <g id="edge20_Node000001_Node000006" class="edge">
 <title>Node6&#45;&gt;Node1</title>
 <g id="a_edge20_Node000001_Node000006"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M338.75,-1302.32C341.12,-1244.2 346.01,-1124.39 348.96,-1052.13"/>
+<path fill="none" stroke="#63b8ff" d="M338.75,-1302.36C340.81,-1251.73 344.79,-1154.21 347.74,-1082.14"/>
 <polygon fill="none" stroke="#63b8ff" points="335.25,-1302.29 338.34,-1312.42 342.24,-1302.58 335.25,-1302.29"/>
 </a>
 </g>
@@ -508,7 +516,7 @@
 <text text-anchor="start" x="467.37" y="-1602.5" font-family="Helvetica,sans-Serif" font-size="10.00">broadcastPacketToViewers()</text>
 <text text-anchor="start" x="454.37" y="-1587.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="467.37" y="-1587.5" font-family="Helvetica,sans-Serif" font-size="10.00">cancelUnloadChunkRequest()</text>
-<text text-anchor="start" x="467.37" y="-1572.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 123 more...</text>
+<text text-anchor="start" x="467.37" y="-1572.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 121 more...</text>
 <text text-anchor="start" x="454.37" y="-1557.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="467.37" y="-1557.5" font-family="Helvetica,sans-Serif" font-size="10.00">blockHash()</text>
 <text text-anchor="start" x="454.37" y="-1542.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>

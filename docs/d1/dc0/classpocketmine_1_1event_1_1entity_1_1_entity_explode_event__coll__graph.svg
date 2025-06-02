@@ -59,14 +59,16 @@ var sectionId = 'dynsection-1';
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="transparent" points="416.37,-1059.5 286.37,-1059.5 286.37,-924.5 416.37,-924.5 416.37,-1059.5"/>
-<text text-anchor="start" x="291.37" y="-1047" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
-<text text-anchor="start" x="301.87" y="-1036" font-family="Helvetica,sans-Serif" font-size="10.00">\EntityExplodeEvent</text>
-<text text-anchor="start" x="349.37" y="-1021" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="#999999" stroke="transparent" points="416.37,-1074.5 286.37,-1074.5 286.37,-909.5 416.37,-909.5 416.37,-1074.5"/>
+<text text-anchor="start" x="291.37" y="-1062" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\event\entity</text>
+<text text-anchor="start" x="301.87" y="-1051" font-family="Helvetica,sans-Serif" font-size="10.00">\EntityExplodeEvent</text>
+<text text-anchor="start" x="349.37" y="-1036" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="300.37" y="-1021" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="323.37" y="-1021" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
 <text text-anchor="start" x="300.37" y="-1006" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="323.37" y="-1006" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
+<text text-anchor="start" x="323.37" y="-1006" font-family="Helvetica,sans-Serif" font-size="10.00">getBlockList()</text>
 <text text-anchor="start" x="300.37" y="-991" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="323.37" y="-991" font-family="Helvetica,sans-Serif" font-size="10.00">getBlockList()</text>
+<text text-anchor="start" x="323.37" y="-991" font-family="Helvetica,sans-Serif" font-size="10.00">getIgnitions()</text>
 <text text-anchor="start" x="300.37" y="-976" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="323.37" y="-976" font-family="Helvetica,sans-Serif" font-size="10.00">getPosition()</text>
 <text text-anchor="start" x="300.37" y="-961" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
@@ -74,10 +76,12 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="300.37" y="-946" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="323.37" y="-946" font-family="Helvetica,sans-Serif" font-size="10.00">setBlockList()</text>
 <text text-anchor="start" x="300.37" y="-931" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="323.37" y="-931" font-family="Helvetica,sans-Serif" font-size="10.00">setYield()</text>
+<text text-anchor="start" x="323.37" y="-931" font-family="Helvetica,sans-Serif" font-size="10.00">setIgnitions()</text>
+<text text-anchor="start" x="300.37" y="-916" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="323.37" y="-916" font-family="Helvetica,sans-Serif" font-size="10.00">setYield()</text>
+<polygon fill="#666666" stroke="#666666" points="286.37,-1046 286.37,-1046 416.37,-1046 416.37,-1046 286.37,-1046"/>
 <polygon fill="#666666" stroke="#666666" points="286.37,-1031 286.37,-1031 416.37,-1031 416.37,-1031 286.37,-1031"/>
-<polygon fill="#666666" stroke="#666666" points="286.37,-1016 286.37,-1016 416.37,-1016 416.37,-1016 286.37,-1016"/>
-<polygon fill="none" stroke="#666666" points="286.37,-924.5 286.37,-1059.5 416.37,-1059.5 416.37,-924.5 286.37,-924.5"/>
+<polygon fill="none" stroke="#666666" points="286.37,-909.5 286.37,-1074.5 416.37,-1074.5 416.37,-909.5 286.37,-909.5"/>
 </a>
 </g>
 </g>
@@ -101,7 +105,7 @@ var sectionId = 'dynsection-1';
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node2&#45;&gt;Node1</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M208.3,-1299.32C230.15,-1273.53 258.23,-1237.43 277.37,-1202 301.81,-1156.79 320.88,-1101.9 333.54,-1059.71"/>
+<path fill="none" stroke="#63b8ff" d="M208.3,-1299.32C230.15,-1273.53 258.23,-1237.43 277.37,-1202 299.02,-1161.96 316.45,-1114.31 328.95,-1074.63"/>
 <polygon fill="none" stroke="#63b8ff" points="205.59,-1297.11 201.74,-1306.98 210.9,-1301.66 205.59,-1297.11"/>
 </a>
 </g>
@@ -353,7 +357,7 @@ var sectionId = 'dynsection-1';
 <g id="edge20_Node000001_Node000006" class="edge">
 <title>Node6&#45;&gt;Node1</title>
 <g id="a_edge20_Node000001_Node000006"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M338.75,-1302.31C341.04,-1246.12 345.69,-1132.3 348.66,-1059.5"/>
+<path fill="none" stroke="#63b8ff" d="M338.75,-1302.34C340.89,-1249.94 345.07,-1147.37 348.04,-1074.73"/>
 <polygon fill="none" stroke="#63b8ff" points="335.25,-1302.29 338.34,-1312.42 342.24,-1302.58 335.25,-1302.29"/>
 </a>
 </g>
@@ -557,7 +561,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="467.37" y="-1602.5" font-family="Helvetica,sans-Serif" font-size="10.00">broadcastPacketToViewers()</text>
 <text text-anchor="start" x="454.37" y="-1587.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="467.37" y="-1587.5" font-family="Helvetica,sans-Serif" font-size="10.00">cancelUnloadChunkRequest()</text>
-<text text-anchor="start" x="467.37" y="-1572.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 123 more...</text>
+<text text-anchor="start" x="467.37" y="-1572.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 121 more...</text>
 <text text-anchor="start" x="454.37" y="-1557.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="467.37" y="-1557.5" font-family="Helvetica,sans-Serif" font-size="10.00">blockHash()</text>
 <text text-anchor="start" x="454.37" y="-1542.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>

@@ -47,7 +47,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 2396;
+var viewWidth = 2509;
 var viewHeight = 504;
 var sectionId = 'dynsection-0';
 </script>
@@ -429,26 +429,20 @@ var sectionId = 'dynsection-0';
 <!-- Node14 -->
 <g id="Node000014" class="node">
 <title>Node14</title>
-<g id="a_Node000014"><a xlink:href="../../d2/d88/classpocketmine_1_1world_1_1generator_1_1_generator_register_task.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="1916,-127.5 1768,-127.5 1768,-7.5 1916,-7.5 1916,-127.5"/>
-<text text-anchor="start" x="1773" y="-115.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\generator</text>
-<text text-anchor="start" x="1784.5" y="-104.5" font-family="Helvetica,sans-Serif" font-size="10.00">\GeneratorRegisterTask</text>
-<text text-anchor="start" x="1787.5" y="-89.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1816" y="-89.5" font-family="Helvetica,sans-Serif" font-size="10.00">$seed</text>
-<text text-anchor="start" x="1787.5" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1816" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">$worldId</text>
-<text text-anchor="start" x="1787.5" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1816" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">$worldMaxY</text>
-<text text-anchor="start" x="1787.5" y="-44.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1816" y="-44.5" font-family="Helvetica,sans-Serif" font-size="10.00">$worldMinY</text>
-<text text-anchor="start" x="1787.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1816" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
-<text text-anchor="start" x="1787.5" y="-14.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1816" y="-14.5" font-family="Helvetica,sans-Serif" font-size="10.00">onRun()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="1768,-99.5 1768,-99.5 1916,-99.5 1916,-99.5 1768,-99.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="1768,-39.5 1768,-39.5 1814,-39.5 1814,-39.5 1768,-39.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="1814,-39.5 1814,-39.5 1916,-39.5 1916,-39.5 1814,-39.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="1768,-7.5 1768,-127.5 1916,-127.5 1916,-7.5 1768,-7.5"/>
+<g id="a_Node000014"><a xlink:href="../../d9/d4a/classpocketmine_1_1world_1_1generator_1_1_population_task.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="1916,-112.5 1768,-112.5 1768,-22.5 1916,-22.5 1916,-112.5"/>
+<text text-anchor="start" x="1773" y="-100.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\generator</text>
+<text text-anchor="start" x="1803.5" y="-89.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PopulationTask</text>
+<text text-anchor="start" x="1840" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="1784.5" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="1810" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
+<text text-anchor="start" x="1784.5" y="-44.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="1810" y="-44.5" font-family="Helvetica,sans-Serif" font-size="10.00">onCompletion()</text>
+<text text-anchor="start" x="1784.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="1810" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">onRun()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="1768,-84.5 1768,-84.5 1916,-84.5 1916,-84.5 1768,-84.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="1768,-69.5 1768,-69.5 1916,-69.5 1916,-69.5 1768,-69.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="1768,-22.5 1768,-112.5 1916,-112.5 1916,-22.5 1768,-22.5"/>
 </a>
 </g>
 </g>
@@ -456,7 +450,7 @@ var sectionId = 'dynsection-0';
 <g id="edge13_Node000001_Node000014" class="edge">
 <title>Node1&#45;&gt;Node14</title>
 <g id="a_edge13_Node000001_Node000014"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M1303.15,-278.46C1406.74,-259.25 1606.34,-214.72 1759,-135 1763.26,-132.78 1767.5,-130.32 1771.7,-127.7"/>
+<path fill="none" stroke="#63b8ff" d="M1303.15,-278.46C1406.74,-259.25 1606.34,-214.72 1759,-135 1770.78,-128.85 1782.51,-120.89 1793.27,-112.64"/>
 <polygon fill="none" stroke="#63b8ff" points="1302.33,-275.05 1293.13,-280.29 1303.59,-281.93 1302.33,-275.05"/>
 </a>
 </g>
@@ -464,20 +458,18 @@ var sectionId = 'dynsection-0';
 <!-- Node15 -->
 <g id="Node000015" class="node">
 <title>Node15</title>
-<g id="a_Node000015"><a xlink:href="../../d0/dac/classpocketmine_1_1world_1_1generator_1_1_generator_unregister_task.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="2082,-105 1934,-105 1934,-30 2082,-30 2082,-105"/>
-<text text-anchor="start" x="1939" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\generator</text>
-<text text-anchor="start" x="1945.5" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">\GeneratorUnregisterTask</text>
-<text text-anchor="start" x="1953.5" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1982" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00">$worldId</text>
-<text text-anchor="start" x="1953.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1982" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
-<text text-anchor="start" x="1953.5" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1982" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">onRun()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="1934,-76.5 1934,-76.5 2082,-76.5 2082,-76.5 1934,-76.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="1934,-61.5 1934,-61.5 1980,-61.5 1980,-61.5 1934,-61.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="1980,-61.5 1980,-61.5 2082,-61.5 2082,-61.5 1980,-61.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="1934,-30 1934,-105 2082,-105 2082,-30 1934,-30"/>
+<g id="a_Node000015"><a xlink:href="../../d5/d0f/classpocketmine_1_1world_1_1generator_1_1executor_1_1_async_generator_register_task.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="2133.5,-105 1934.5,-105 1934.5,-30 2133.5,-30 2133.5,-105"/>
+<text text-anchor="start" x="1940" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\generator</text>
+<text text-anchor="start" x="1940" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">\executor\AsyncGeneratorRegisterTask</text>
+<text text-anchor="start" x="2032.5" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="1967.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="2009" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
+<text text-anchor="start" x="1967.5" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="2009" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">onRun()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="1935,-76.5 1935,-76.5 2134,-76.5 2134,-76.5 1935,-76.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="1935,-61.5 1935,-61.5 2134,-61.5 2134,-61.5 1935,-61.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="1934.5,-30 1934.5,-105 2133.5,-105 2133.5,-30 1934.5,-30"/>
 </a>
 </g>
 </g>
@@ -485,28 +477,26 @@ var sectionId = 'dynsection-0';
 <g id="edge14_Node000001_Node000015" class="edge">
 <title>Node1&#45;&gt;Node15</title>
 <g id="a_edge14_Node000001_Node000015"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M1303.44,-284.83C1431.94,-273.06 1713,-236.9 1925,-135 1940.81,-127.4 1956.32,-116.28 1969.57,-105.31"/>
-<polygon fill="none" stroke="#63b8ff" points="1302.99,-281.36 1293.34,-285.73 1303.62,-288.33 1302.99,-281.36"/>
+<path fill="none" stroke="#63b8ff" d="M1303.25,-282.08C1430.29,-265.91 1707.49,-222.95 1925,-135 1944.42,-127.15 1964.36,-116.03 1981.78,-105.13"/>
+<polygon fill="none" stroke="#63b8ff" points="1302.75,-278.61 1293.26,-283.33 1303.62,-285.56 1302.75,-278.61"/>
 </a>
 </g>
 </g>
 <!-- Node16 -->
 <g id="Node000016" class="node">
 <title>Node16</title>
-<g id="a_Node000016"><a xlink:href="../../d9/d4a/classpocketmine_1_1world_1_1generator_1_1_population_task.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="2248,-112.5 2100,-112.5 2100,-22.5 2248,-22.5 2248,-112.5"/>
-<text text-anchor="start" x="2105" y="-100.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\generator</text>
-<text text-anchor="start" x="2135.5" y="-89.5" font-family="Helvetica,sans-Serif" font-size="10.00">\PopulationTask</text>
-<text text-anchor="start" x="2172" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="2116.5" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="2142" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
-<text text-anchor="start" x="2116.5" y="-44.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="2142" y="-44.5" font-family="Helvetica,sans-Serif" font-size="10.00">onCompletion()</text>
-<text text-anchor="start" x="2116.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="2142" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">onRun()</text>
-<polygon fill="#666666" stroke="#666666" points="2100,-84.5 2100,-84.5 2248,-84.5 2248,-84.5 2100,-84.5"/>
-<polygon fill="#666666" stroke="#666666" points="2100,-69.5 2100,-69.5 2248,-69.5 2248,-69.5 2100,-69.5"/>
-<polygon fill="none" stroke="#666666" points="2100,-22.5 2100,-112.5 2248,-112.5 2248,-22.5 2100,-22.5"/>
+<g id="a_Node000016"><a xlink:href="../../de/da7/classpocketmine_1_1world_1_1generator_1_1executor_1_1_async_generator_unregister_task.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="2360.5,-105 2151.5,-105 2151.5,-30 2360.5,-30 2360.5,-105"/>
+<text text-anchor="start" x="2157" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\generator</text>
+<text text-anchor="start" x="2157" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">\executor\AsyncGeneratorUnregisterTask</text>
+<text text-anchor="start" x="2254.5" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="2187" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="2231" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
+<text text-anchor="start" x="2187" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="2231" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">onRun()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="2152,-76.5 2152,-76.5 2361,-76.5 2361,-76.5 2152,-76.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="2152,-61.5 2152,-61.5 2361,-61.5 2361,-61.5 2152,-61.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="2151.5,-30 2151.5,-105 2360.5,-105 2360.5,-30 2151.5,-30"/>
 </a>
 </g>
 </g>
@@ -514,8 +504,8 @@ var sectionId = 'dynsection-0';
 <g id="edge15_Node000001_Node000016" class="edge">
 <title>Node1&#45;&gt;Node16</title>
 <g id="a_edge15_Node000001_Node000016"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M1303.08,-288.87C1453.26,-284.04 1817.93,-259.31 2091,-135 2103.6,-129.26 2115.95,-121.18 2127.1,-112.62"/>
-<polygon fill="none" stroke="#63b8ff" points="1302.96,-285.37 1293.07,-289.17 1303.17,-292.37 1302.96,-285.37"/>
+<path fill="none" stroke="#63b8ff" d="M1303.36,-286.71C1458.4,-277.54 1842.97,-244.66 2143,-135 2163.52,-127.5 2184.55,-116.27 2202.81,-105.17"/>
+<polygon fill="none" stroke="#63b8ff" points="1302.82,-283.23 1293.04,-287.3 1303.22,-290.22 1302.82,-283.23"/>
 </a>
 </g>
 </g>
@@ -523,21 +513,21 @@ var sectionId = 'dynsection-0';
 <g id="Node000017" class="node">
 <title>Node17</title>
 <g id="a_Node000017"><a xlink:href="../../d9/d7c/classpocketmine_1_1world_1_1light_1_1_light_population_task.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="2388,-112.5 2266,-112.5 2266,-22.5 2388,-22.5 2388,-112.5"/>
-<text text-anchor="start" x="2271" y="-100.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\light</text>
-<text text-anchor="start" x="2276.5" y="-89.5" font-family="Helvetica,sans-Serif" font-size="10.00">\LightPopulationTask</text>
-<text text-anchor="start" x="2276" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="2295" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">$chunk</text>
-<text text-anchor="start" x="2276" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="2295" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
-<text text-anchor="start" x="2276" y="-44.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="2295" y="-44.5" font-family="Helvetica,sans-Serif" font-size="10.00">onCompletion()</text>
-<text text-anchor="start" x="2276" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="2295" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">onRun()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="2266,-84.5 2266,-84.5 2388,-84.5 2388,-84.5 2266,-84.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="2266,-69.5 2266,-69.5 2293,-69.5 2293,-69.5 2266,-69.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="2293,-69.5 2293,-69.5 2388,-69.5 2388,-69.5 2293,-69.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="2266,-22.5 2266,-112.5 2388,-112.5 2388,-22.5 2266,-22.5"/>
+<polygon fill="white" stroke="transparent" points="2501,-112.5 2379,-112.5 2379,-22.5 2501,-22.5 2501,-112.5"/>
+<text text-anchor="start" x="2384" y="-100.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\light</text>
+<text text-anchor="start" x="2389.5" y="-89.5" font-family="Helvetica,sans-Serif" font-size="10.00">\LightPopulationTask</text>
+<text text-anchor="start" x="2389" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="2408" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">$chunk</text>
+<text text-anchor="start" x="2389" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="2408" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
+<text text-anchor="start" x="2389" y="-44.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="2408" y="-44.5" font-family="Helvetica,sans-Serif" font-size="10.00">onCompletion()</text>
+<text text-anchor="start" x="2389" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="2408" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">onRun()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="2379,-84.5 2379,-84.5 2501,-84.5 2501,-84.5 2379,-84.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="2379,-69.5 2379,-69.5 2406,-69.5 2406,-69.5 2379,-69.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="2406,-69.5 2406,-69.5 2501,-69.5 2501,-69.5 2406,-69.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="2379,-22.5 2379,-112.5 2501,-112.5 2501,-22.5 2379,-22.5"/>
 </a>
 </g>
 </g>
@@ -545,8 +535,8 @@ var sectionId = 'dynsection-0';
 <g id="edge16_Node000001_Node000017" class="edge">
 <title>Node1&#45;&gt;Node17</title>
 <g id="a_edge16_Node000001_Node000017"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M1303.47,-284.92C1505.15,-269.32 2087.21,-218.08 2257,-135 2268.44,-129.4 2279.26,-121.27 2288.82,-112.59"/>
-<polygon fill="none" stroke="#63b8ff" points="1303,-281.44 1293.29,-285.7 1303.53,-288.42 1303,-281.44"/>
+<path fill="none" stroke="#63b8ff" d="M1303.55,-286.1C1520.07,-273.08 2179,-226.72 2370,-135 2381.48,-129.49 2392.32,-121.38 2401.88,-112.72"/>
+<polygon fill="none" stroke="#63b8ff" points="1303.05,-282.62 1293.27,-286.71 1303.46,-289.61 1303.05,-282.62"/>
 </a>
 </g>
 </g>

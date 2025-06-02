@@ -1,7 +1,7 @@
 <map id="pocketmine\event\entity\EntityExplodeEvent" name="pocketmine\event\entity\EntityExplodeEvent">
-<area shape="rect" id="Node000001" title=" " alt="" coords="387,2167,560,2347"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="387,2147,560,2367"/>
 <area shape="rect" id="Node000002" href="$de/d84/classpocketmine_1_1event_1_1entity_1_1_entity_event.html" title=" " alt="" coords="152,1757,326,1837"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="285,1846,333,1906,378,1976,421,2073,453,2166,448,2168,416,2075,373,1979,328,1909,281,1849"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="285,1846,333,1906,378,1976,417,2061,446,2146,441,2148,412,2063,373,1979,328,1909,281,1849"/>
 <area shape="rect" id="Node000005" href="$d5/de3/classpocketmine_1_1event_1_1entity_1_1_entity_damage_event.html" title=" " alt="" coords="156,1977,362,2537"/>
 <area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="244,1851,250,1977,244,1977,239,1851"/>
 <area shape="rect" id="Node000003" href="$d1/d2f/classpocketmine_1_1event_1_1_event.html" title=" " alt="" coords="153,1269,325,1375"/>
@@ -10,7 +10,7 @@
 <area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="765,3063,691,3032,604,2992,509,2941,411,2881,314,2811,223,2731,182,2686,144,2640,109,2590,79,2539,43,2460,19,2390,6,2325,3,2262,11,2198,26,2131,49,2058,79,1976,98,1939,121,1904,175,1846,179,1850,126,1908,102,1942,84,1978,54,2060,31,2133,16,2199,9,2262,11,2324,24,2389,48,2458,84,2536,114,2588,148,2637,186,2683,227,2727,317,2807,414,2877,512,2937,606,2987,693,3027,767,3058"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="365,2515,377,2536,467,2665,567,2788,667,2898,756,2990,752,2993,663,2902,563,2792,463,2668,373,2539,360,2517"/>
 <area shape="rect" id="Node000006" href="$db/d62/interfacepocketmine_1_1event_1_1_cancellable.html" title=" " alt="" coords="350,1765,560,1830"/>
-<area shape="poly" id="edge20_Node000001_Node000006" title=" " alt="" coords="460,1843,473,2167,468,2167,454,1844"/>
+<area shape="poly" id="edge20_Node000001_Node000006" title=" " alt="" coords="460,1843,472,2147,467,2147,454,1844"/>
 <area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="437,1844,378,1978,365,2008,360,2006,373,1976,433,1842"/>
 <area shape="rect" id="Node000007" href="$dc/d56/classpocketmine_1_1entity_1_1_location.html" title=" " alt="" coords="636,2155,826,2360"/>
 <area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="732,2360,735,2471,746,2590,765,2705,760,2706,741,2591,730,2471,727,2360"/>
