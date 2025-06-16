@@ -12,3 +12,4 @@ jobs:
       src-repo: pmmp/PocketMine-MP
       ref: major-next
       pm-version-major: 5
+      php-version: 8.3
