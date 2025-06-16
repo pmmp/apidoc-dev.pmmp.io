@@ -1,5 +1,7 @@
 var NAVTREEINDEX168 =
 {
+"db/d71/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_instruction_packet.html":[3,0,1,16,0,6,27],
+"db/d71/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_instruction_packet.html#a257b720ebe73427ccd212dc62b00fa5d":[3,0,1,16,0,6,27,5],
 "db/d71/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_instruction_packet.html#a381b21349d946d47e7a3dc1bed9aa68b":[3,0,1,16,0,6,27,6],
 "db/d71/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_instruction_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,27,4],
 "db/d71/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_instruction_packet.html#a80198f6728e332237b3d4fc4171572ff":[3,0,1,16,0,6,27,2],
@@ -27,8 +29,6 @@ var NAVTREEINDEX168 =
 "db/d7f/_actor_pick_request_packet_8php_source.html":[4,0,1,0,1,0,3],
 "db/d80/_sub_chunk_request_packet_8php_source.html":[4,0,1,0,1,0,197],
 "db/d81/_take_or_place_stack_request_action_trait_8php_source.html":[4,0,1,0,1,0,1,5,0,22],
-"db/d81/interfacepocketmine_1_1world_1_1_chunk_loader.html":[2,0,0,14,3],
-"db/d81/interfacepocketmine_1_1world_1_1_chunk_loader.html":[3,0,1,30,9],
 "db/d82/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_container_set_data_packet.html":[3,0,1,16,0,6,54],
 "db/d82/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_container_set_data_packet.html#a3a227f775ddb71bc0fd3d25fd5b3fad9":[3,0,1,16,0,6,54,6],
 "db/d82/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_container_set_data_packet.html#a7470e3b832e272ea025375544a123b69":[3,0,1,16,0,6,54,2],

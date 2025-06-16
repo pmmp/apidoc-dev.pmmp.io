@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.28.3 git-d5a1007c80fcee27feb2251cf5dcf1ad5a59a85c</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.28.3 git-6d32ea5850fad9bbdb62b0e6bc1ba9983baba3ba</span>
    </div>
   </td>
  </tr>
@@ -134,8 +134,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ab7740e7968ca5c08f02d1890893ee507"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a43854190b5bf709f50697771b69391d2" id="r_a43854190b5bf709f50697771b69391d2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a43854190b5bf709f50697771b69391d2">getPluginDescription</a> (string $path)</td></tr>
 <tr class="separator:a43854190b5bf709f50697771b69391d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa998aea9ba7fe10ff67636570d03bc1d" id="r_aa998aea9ba7fe10ff67636570d03bc1d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aa998aea9ba7fe10ff67636570d03bc1d">loadPlugin</a> (string $path)</td></tr>
-<tr class="separator:aa998aea9ba7fe10ff67636570d03bc1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae22faa3e32dfb8f9ec96ecee35214eee" id="r_ae22faa3e32dfb8f9ec96ecee35214eee"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ae22faa3e32dfb8f9ec96ecee35214eee">loadPlugin</a> (string $path, <a class="el" href="../../d3/d16/classpocketmine_1_1plugin_1_1_plugin_description.html">PluginDescription</a> $description)</td></tr>
+<tr class="separator:ae22faa3e32dfb8f9ec96ecee35214eee"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Handles different types of plugins </p>
@@ -202,7 +202,7 @@ Public Member Functions</h2></td></tr>
 
 <p>Implements <a class="el" href="../../d5/d36/interfacepocketmine_1_1plugin_1_1_plugin_loader.html#a5a9482b1c2c5ee328cf5f4b107c5c889">pocketmine\plugin\PluginLoader</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/da3/_phar_plugin_loader_8php_source.html#l00064">64</a> of file <a class="el" href="../../d8/da3/_phar_plugin_loader_8php_source.html">PharPluginLoader.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/da3/_phar_plugin_loader_8php_source.html#l00061">61</a> of file <a class="el" href="../../d8/da3/_phar_plugin_loader_8php_source.html">PharPluginLoader.php</a>.</p>
 
 </div>
 </div>
@@ -224,12 +224,12 @@ Public Member Functions</h2></td></tr>
 
 <p>Implements <a class="el" href="../../d5/d36/interfacepocketmine_1_1plugin_1_1_plugin_loader.html#a31b2c3c99cd52191938119a723adaf8f">pocketmine\plugin\PluginLoader</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/da3/_phar_plugin_loader_8php_source.html#l00055">55</a> of file <a class="el" href="../../d8/da3/_phar_plugin_loader_8php_source.html">PharPluginLoader.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/da3/_phar_plugin_loader_8php_source.html#l00052">52</a> of file <a class="el" href="../../d8/da3/_phar_plugin_loader_8php_source.html">PharPluginLoader.php</a>.</p>
 
 </div>
 </div>
-<a id="aa998aea9ba7fe10ff67636570d03bc1d" name="aa998aea9ba7fe10ff67636570d03bc1d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa998aea9ba7fe10ff67636570d03bc1d">&#9670;&#160;</a></span>loadPlugin()</h2>
+<a id="ae22faa3e32dfb8f9ec96ecee35214eee" name="ae22faa3e32dfb8f9ec96ecee35214eee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae22faa3e32dfb8f9ec96ecee35214eee">&#9670;&#160;</a></span>loadPlugin()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -237,14 +237,18 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="memname">pocketmine\plugin\PharPluginLoader::loadPlugin </td>
           <td>(</td>
-          <td class="paramtype">string</td>          <td class="paramname"><span class="paramname"><em>$path</em></span></td><td>)</td>
+          <td class="paramtype">string</td>          <td class="paramname"><span class="paramname"><em>$path</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../d3/d16/classpocketmine_1_1plugin_1_1_plugin_description.html">PluginDescription</a></td>          <td class="paramname"><span class="paramname"><em>$description</em></span>&#160;)</td>
         </tr>
       </table>
 </div><div class="memdoc">
 <p>Loads the plugin contained in $file </p>
 
-<p>Implements <a class="el" href="../../d5/d36/interfacepocketmine_1_1plugin_1_1_plugin_loader.html#af648d8d97908725ebf45689ff429b2e3">pocketmine\plugin\PluginLoader</a>.</p>
+<p>Implements <a class="el" href="../../d5/d36/interfacepocketmine_1_1plugin_1_1_plugin_loader.html#a01645c91cf4ee6cfb935b818c19e3d99">pocketmine\plugin\PluginLoader</a>.</p>
 
 <p class="definition">Definition at line <a class="el" href="../../d8/da3/_phar_plugin_loader_8php_source.html#l00045">45</a> of file <a class="el" href="../../d8/da3/_phar_plugin_loader_8php_source.html">PharPluginLoader.php</a>.</p>
 

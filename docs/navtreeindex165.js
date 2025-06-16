@@ -1,5 +1,7 @@
 var NAVTREEINDEX165 =
 {
+"db/d05/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_builder_inventory.html#a816548c8e0db980edebec9903c9812a6":[3,0,1,11,1,5,20],
+"db/d05/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_builder_inventory.html#a83250db989d4fc9aa1fd598dce6255e6":[3,0,1,11,1,5,16],
 "db/d05/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_builder_inventory.html#a859793c26ba95c1963747b3c08be98bc":[3,0,1,11,1,5,17],
 "db/d05/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_builder_inventory.html#a9a6da410c5e52a66b55e3b5b1bf32f87":[3,0,1,11,1,5,28],
 "db/d05/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_builder_inventory.html#a9e8a9a58178c93680c225de229606fec":[3,0,1,11,1,5,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX165 =
 "db/d2a/classpocketmine_1_1permission_1_1_ban_list.html":[3,0,1,17,1],
 "db/d2a/classpocketmine_1_1permission_1_1_ban_list.html#ab80ee39ab44e66672ee74993338e28c6":[2,0,0,9,1,0],
 "db/d2a/classpocketmine_1_1permission_1_1_ban_list.html#ab80ee39ab44e66672ee74993338e28c6":[3,0,1,17,1,0],
-"db/d2d/interfaceraklib_1_1server_1_1_protocol_acceptor.html":[3,0,2,3,1],
-"db/d2f/_item_stack_request_8php_source.html":[4,0,1,0,1,0,1,5,0,13],
-"db/d2f/classpocketmine_1_1item_1_1_writable_book.html":[2,0,0,5,118]
+"db/d2d/interfaceraklib_1_1server_1_1_protocol_acceptor.html":[3,0,2,3,1]
 };

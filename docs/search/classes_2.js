@@ -83,7 +83,7 @@ var searchData=
   ['chunkevent_80',['ChunkEvent',['../dd/d06/classpocketmine_1_1event_1_1world_1_1_chunk_event.html',1,'pocketmine::event::world']]],
   ['chunkexception_81',['ChunkException',['../d0/db5/classpocketmine_1_1world_1_1format_1_1_chunk_exception.html',1,'pocketmine::world::format']]],
   ['chunklistener_82',['ChunkListener',['../de/dac/interfacepocketmine_1_1world_1_1_chunk_listener.html',1,'pocketmine::world']]],
-  ['chunkloader_83',['ChunkLoader',['../db/d81/interfacepocketmine_1_1world_1_1_chunk_loader.html',1,'pocketmine::world']]],
+  ['chunkloader_83',['ChunkLoader',['../da/d4e/classpocketmine_1_1world_1_1_chunk_loader.html',1,'pocketmine::world']]],
   ['chunkloadevent_84',['ChunkLoadEvent',['../dd/df4/classpocketmine_1_1event_1_1world_1_1_chunk_load_event.html',1,'pocketmine::event::world']]],
   ['chunklockid_85',['ChunkLockId',['../df/d2c/classpocketmine_1_1world_1_1_chunk_lock_id.html',1,'pocketmine::world']]],
   ['chunkmanager_86',['ChunkManager',['../d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html',1,'pocketmine::world']]],

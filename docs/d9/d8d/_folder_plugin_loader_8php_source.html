@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.28.3 git-d5a1007c80fcee27feb2251cf5dcf1ad5a59a85c</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.28.3 git-6d32ea5850fad9bbdb62b0e6bc1ba9983baba3ba</span>
    </div>
   </td>
  </tr>
@@ -150,43 +150,40 @@ $(function(){initNavTree('d9/d8d/_folder_plugin_loader_8php_source.html','../../
 </div>
 <div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span> </div>
 <div class="foldopen" id="foldopen00044" data-start="{" data-end="}">
-<div class="line"><a id="l00044" name="l00044"></a><span class="lineno"><a class="line" href="../../d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html#af62d38ea93a0dfe23655f26594f95cbc">   44</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html#af62d38ea93a0dfe23655f26594f95cbc">loadPlugin</a>(<span class="keywordtype">string</span> $path) : void{</div>
-<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>        $description = $this-&gt;getPluginDescription($path);</div>
-<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>        <span class="keywordflow">if</span>($description !== <span class="keyword">null</span>){</div>
-<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>            $this-&gt;loader-&gt;addPath($description-&gt;getSrcNamespacePrefix(), <span class="stringliteral">&quot;$path/src&quot;</span>);</div>
-<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>        }</div>
-<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>    }</div>
+<div class="line"><a id="l00044" name="l00044"></a><span class="lineno"><a class="line" href="../../d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html#a073b23fb3ace7704e486a66544ec3011">   44</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html#a073b23fb3ace7704e486a66544ec3011">loadPlugin</a>(<span class="keywordtype">string</span> $path, <a class="code hl_class" href="../../d3/d16/classpocketmine_1_1plugin_1_1_plugin_description.html">PluginDescription</a> $description) : void{</div>
+<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>        $this-&gt;loader-&gt;addPath($description-&gt;getSrcNamespacePrefix(), <span class="stringliteral">&quot;$path/src&quot;</span>);</div>
+<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>    }</div>
 </div>
-<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span> </div>
-<div class="foldopen" id="foldopen00054" data-start="{" data-end="}">
-<div class="line"><a id="l00054" name="l00054"></a><span class="lineno"><a class="line" href="../../d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html#a52f133f9fbd518416be11c88e4cbaa3a">   54</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html#a52f133f9fbd518416be11c88e4cbaa3a">getPluginDescription</a>(<span class="keywordtype">string</span> $path) : ?<a class="code hl_class" href="../../d3/d16/classpocketmine_1_1plugin_1_1_plugin_description.html">PluginDescription</a>{</div>
-<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>        $pluginYmlPath = Path::join($path, <span class="stringliteral">&quot;plugin.yml&quot;</span>);</div>
-<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>        <span class="keywordflow">if</span>(is_dir($path) &amp;&amp; file_exists($pluginYmlPath)){</div>
-<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>            <span class="keywordflow">try</span>{</div>
-<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>                $yaml = Filesystem::fileGetContents($pluginYmlPath);</div>
-<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>            }<span class="keywordflow">catch</span>(\RuntimeException){</div>
-<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>                <span class="comment">//TODO: this ought to be logged</span></div>
-<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>                <span class="keywordflow">return</span> <span class="keyword">null</span>;</div>
-<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>            }</div>
-<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>            <span class="keywordflow">return</span> <span class="keyword">new</span> <a class="code hl_class" href="../../d3/d16/classpocketmine_1_1plugin_1_1_plugin_description.html">PluginDescription</a>($yaml);</div>
-<div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>        }</div>
+<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span> </div>
+<div class="foldopen" id="foldopen00051" data-start="{" data-end="}">
+<div class="line"><a id="l00051" name="l00051"></a><span class="lineno"><a class="line" href="../../d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html#a52f133f9fbd518416be11c88e4cbaa3a">   51</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html#a52f133f9fbd518416be11c88e4cbaa3a">getPluginDescription</a>(<span class="keywordtype">string</span> $path) : ?<a class="code hl_class" href="../../d3/d16/classpocketmine_1_1plugin_1_1_plugin_description.html">PluginDescription</a>{</div>
+<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>        $pluginYmlPath = Path::join($path, <span class="stringliteral">&quot;plugin.yml&quot;</span>);</div>
+<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>        <span class="keywordflow">if</span>(is_dir($path) &amp;&amp; file_exists($pluginYmlPath)){</div>
+<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>            <span class="keywordflow">try</span>{</div>
+<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>                $yaml = Filesystem::fileGetContents($pluginYmlPath);</div>
+<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>            }<span class="keywordflow">catch</span>(\RuntimeException){</div>
+<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>                <span class="comment">//TODO: this ought to be logged</span></div>
+<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>                <span class="keywordflow">return</span> <span class="keyword">null</span>;</div>
+<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>            }</div>
+<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>            <span class="keywordflow">return</span> <span class="keyword">new</span> <a class="code hl_class" href="../../d3/d16/classpocketmine_1_1plugin_1_1_plugin_description.html">PluginDescription</a>($yaml);</div>
+<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>        }</div>
+<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span> </div>
+<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>        <span class="keywordflow">return</span> <span class="keyword">null</span>;</div>
+<div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>    }</div>
+</div>
 <div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span> </div>
-<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>        <span class="keywordflow">return</span> <span class="keyword">null</span>;</div>
-<div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>    }</div>
+<div class="foldopen" id="foldopen00066" data-start="{" data-end="}">
+<div class="line"><a id="l00066" name="l00066"></a><span class="lineno"><a class="line" href="../../d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html#a6585458186a235d37172ae6ad7aa6d18">   66</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html#a6585458186a235d37172ae6ad7aa6d18">getAccessProtocol</a>() : string{</div>
+<div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>        return <span class="stringliteral">&quot;&quot;</span>;</div>
+<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>    }</div>
 </div>
-<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span> </div>
-<div class="foldopen" id="foldopen00069" data-start="{" data-end="}">
-<div class="line"><a id="l00069" name="l00069"></a><span class="lineno"><a class="line" href="../../d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html#a6585458186a235d37172ae6ad7aa6d18">   69</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html#a6585458186a235d37172ae6ad7aa6d18">getAccessProtocol</a>() : string{</div>
-<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>        return <span class="stringliteral">&quot;&quot;</span>;</div>
-<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>    }</div>
-</div>
-<div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>}</div>
+<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>}</div>
 </div>
 <div class="ttc" id="aclasspocketmine_1_1plugin_1_1_folder_plugin_loader_html"><div class="ttname"><a href="../../d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html">pocketmine\plugin\FolderPluginLoader</a></div><div class="ttdef"><b>Definition</b> <a href="#l00032">FolderPluginLoader.php:32</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1plugin_1_1_folder_plugin_loader_html_a073b23fb3ace7704e486a66544ec3011"><div class="ttname"><a href="../../d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html#a073b23fb3ace7704e486a66544ec3011">pocketmine\plugin\FolderPluginLoader\loadPlugin</a></div><div class="ttdeci">loadPlugin(string $path, PluginDescription $description)</div><div class="ttdef"><b>Definition</b> <a href="#l00044">FolderPluginLoader.php:44</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1plugin_1_1_folder_plugin_loader_html_a1d38dd7842ae67946dda2f4f12089680"><div class="ttname"><a href="../../d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html#a1d38dd7842ae67946dda2f4f12089680">pocketmine\plugin\FolderPluginLoader\canLoadPlugin</a></div><div class="ttdeci">canLoadPlugin(string $path)</div><div class="ttdef"><b>Definition</b> <a href="#l00037">FolderPluginLoader.php:37</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1plugin_1_1_folder_plugin_loader_html_a52f133f9fbd518416be11c88e4cbaa3a"><div class="ttname"><a href="../../d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html#a52f133f9fbd518416be11c88e4cbaa3a">pocketmine\plugin\FolderPluginLoader\getPluginDescription</a></div><div class="ttdeci">getPluginDescription(string $path)</div><div class="ttdef"><b>Definition</b> <a href="#l00054">FolderPluginLoader.php:54</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1plugin_1_1_folder_plugin_loader_html_a6585458186a235d37172ae6ad7aa6d18"><div class="ttname"><a href="../../d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html#a6585458186a235d37172ae6ad7aa6d18">pocketmine\plugin\FolderPluginLoader\getAccessProtocol</a></div><div class="ttdeci">getAccessProtocol()</div><div class="ttdef"><b>Definition</b> <a href="#l00069">FolderPluginLoader.php:69</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1plugin_1_1_folder_plugin_loader_html_af62d38ea93a0dfe23655f26594f95cbc"><div class="ttname"><a href="../../d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html#af62d38ea93a0dfe23655f26594f95cbc">pocketmine\plugin\FolderPluginLoader\loadPlugin</a></div><div class="ttdeci">loadPlugin(string $path)</div><div class="ttdef"><b>Definition</b> <a href="#l00044">FolderPluginLoader.php:44</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1plugin_1_1_folder_plugin_loader_html_a52f133f9fbd518416be11c88e4cbaa3a"><div class="ttname"><a href="../../d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html#a52f133f9fbd518416be11c88e4cbaa3a">pocketmine\plugin\FolderPluginLoader\getPluginDescription</a></div><div class="ttdeci">getPluginDescription(string $path)</div><div class="ttdef"><b>Definition</b> <a href="#l00051">FolderPluginLoader.php:51</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1plugin_1_1_folder_plugin_loader_html_a6585458186a235d37172ae6ad7aa6d18"><div class="ttname"><a href="../../d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html#a6585458186a235d37172ae6ad7aa6d18">pocketmine\plugin\FolderPluginLoader\getAccessProtocol</a></div><div class="ttdeci">getAccessProtocol()</div><div class="ttdef"><b>Definition</b> <a href="#l00066">FolderPluginLoader.php:66</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1plugin_1_1_plugin_description_html"><div class="ttname"><a href="../../d3/d16/classpocketmine_1_1plugin_1_1_plugin_description.html">pocketmine\plugin\PluginDescription</a></div><div class="ttdef"><b>Definition</b> <a href="../../df/dbe/_plugin_description_8php_source.html#l00040">PluginDescription.php:40</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1thread_1_1_thread_safe_class_loader_html"><div class="ttname"><a href="../../df/d2b/classpocketmine_1_1thread_1_1_thread_safe_class_loader.html">pocketmine\thread\ThreadSafeClassLoader</a></div><div class="ttdef"><b>Definition</b> <a href="../../d2/dcd/_thread_safe_class_loader_8php_source.html#l00048">ThreadSafeClassLoader.php:48</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_filesystem_html"><div class="ttname"><a href="../../da/ddd/classpocketmine_1_1utils_1_1_filesystem.html">pocketmine\utils\Filesystem</a></div><div class="ttdef"><b>Definition</b> <a href="../../dd/d2f/_filesystem_8php_source.html#l00063">Filesystem.php:63</a></div></div>

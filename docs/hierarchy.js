@@ -586,7 +586,7 @@ var hierarchy =
       [ "pocketmine\\network\\mcpe\\cache\\ChunkCache", "d0/deb/classpocketmine_1_1network_1_1mcpe_1_1cache_1_1_chunk_cache.html", null ],
       [ "pocketmine\\player\\Player", "d0/d6f/classpocketmine_1_1player_1_1_player.html", null ]
     ] ],
-    [ "pocketmine\\world\\ChunkLoader", "db/d81/interfacepocketmine_1_1world_1_1_chunk_loader.html", null ],
+    [ "pocketmine\\world\\ChunkLoader", "da/d4e/classpocketmine_1_1world_1_1_chunk_loader.html", null ],
     [ "pocketmine\\world\\ChunkLockId", "df/d2c/classpocketmine_1_1world_1_1_chunk_lock_id.html", null ],
     [ "pocketmine\\world\\ChunkManager", "d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html", [
       [ "pocketmine\\world\\SimpleChunkManager", "dc/d3e/classpocketmine_1_1world_1_1_simple_chunk_manager.html", null ],

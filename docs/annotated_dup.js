@@ -2047,7 +2047,7 @@ var annotated_dup =
         ] ],
         [ "BlockTransaction", "d4/d3e/classpocketmine_1_1world_1_1_block_transaction.html", "d4/d3e/classpocketmine_1_1world_1_1_block_transaction" ],
         [ "ChunkListener", "de/dac/interfacepocketmine_1_1world_1_1_chunk_listener.html", "de/dac/interfacepocketmine_1_1world_1_1_chunk_listener" ],
-        [ "ChunkLoader", "db/d81/interfacepocketmine_1_1world_1_1_chunk_loader.html", null ],
+        [ "ChunkLoader", "da/d4e/classpocketmine_1_1world_1_1_chunk_loader.html", null ],
         [ "ChunkLockId", "df/d2c/classpocketmine_1_1world_1_1_chunk_lock_id.html", null ],
         [ "ChunkManager", "d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html", "d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager" ],
         [ "ChunkTicker", "dd/d51/classpocketmine_1_1world_1_1_chunk_ticker.html", null ],

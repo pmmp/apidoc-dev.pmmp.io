@@ -16,6 +16,8 @@ var NAVTREEINDEX156 =
 "da/d4e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_chunk_radius_updated_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,33,0],
 "da/d4e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_chunk_radius_updated_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,33,3],
 "da/d4e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_chunk_radius_updated_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,33,1],
+"da/d4e/classpocketmine_1_1world_1_1_chunk_loader.html":[2,0,0,14,3],
+"da/d4e/classpocketmine_1_1world_1_1_chunk_loader.html":[3,0,1,30,9],
 "da/d51/_console_reader_child_process_utils_8php_source.html":[4,0,0,2,4],
 "da/d53/_lesson_progress_packet_8php_source.html":[4,0,1,0,1,0,87],
 "da/d55/classpocketmine_1_1block_1_1_hardened_clay.html":[2,0,0,0,121],
@@ -247,7 +249,5 @@ var NAVTREEINDEX156 =
 "da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a75b16ca6e22355cf632466a969e79211":[2,0,0,0,39,42],
 "da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a75b16ca6e22355cf632466a969e79211":[3,0,1,0,41,42],
 "da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a771a30c30a36b0992f54c57dc63af10d":[2,0,0,0,39,41],
-"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a771a30c30a36b0992f54c57dc63af10d":[3,0,1,0,41,41],
-"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a797bd86eedd73a87a1eef7ea34e584ea":[2,0,0,0,39,53],
-"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a797bd86eedd73a87a1eef7ea34e584ea":[3,0,1,0,41,53]
+"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#a771a30c30a36b0992f54c57dc63af10d":[3,0,1,0,41,41]
 };

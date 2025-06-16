@@ -1,5 +1,7 @@
 var NAVTREEINDEX167 =
 {
+"db/d38/classpocketmine_1_1block_1_1_slime.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,196,54],
+"db/d38/classpocketmine_1_1block_1_1_slime.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,198,54],
 "db/d38/classpocketmine_1_1block_1_1_slime.html#af45a3d45c4ab6528c6641915722b9de8":[2,0,0,0,196,6],
 "db/d38/classpocketmine_1_1block_1_1_slime.html#af45a3d45c4ab6528c6641915722b9de8":[3,0,1,0,198,6],
 "db/d38/classpocketmine_1_1block_1_1_slime.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,0,0,196,29],
@@ -247,7 +249,5 @@ var NAVTREEINDEX167 =
 "db/d6f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_toggle_crafter_slot_request_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,130,1],
 "db/d6f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_toggle_crafter_slot_request_packet.html#ac7d7a176e028bc4696732dad7b904f8a":[3,0,1,16,0,6,130,7],
 "db/d6f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_toggle_crafter_slot_request_packet.html#ad3376e465d287eb131e8fb1e00f27435":[3,0,1,16,0,6,130,2],
-"db/d71/_forest_biome_8php_source.html":[4,0,0,25,0,4],
-"db/d71/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_instruction_packet.html":[3,0,1,16,0,6,27],
-"db/d71/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_instruction_packet.html#a257b720ebe73427ccd212dc62b00fa5d":[3,0,1,16,0,6,27,5]
+"db/d71/_forest_biome_8php_source.html":[4,0,0,25,0,4]
 };
