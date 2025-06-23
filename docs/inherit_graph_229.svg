@@ -2295,11 +2295,11 @@
 <!-- Node171 -->
 <g id="Node000171" class="node">
 <title>Node171</title>
-<g id="a_Node000171"><a xlink:href="d0/d6e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_server_settings_response_packet.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="530,-2808 366,-2808 366,-2767 530,-2767 530,-2808"/>
-<text text-anchor="start" x="374" y="-2796" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
-<text text-anchor="start" x="374" y="-2785" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\protocol\ServerSettings</text>
-<text text-anchor="middle" x="448" y="-2774" font-family="Helvetica,sans-Serif" font-size="10.00">ResponsePacket</text>
+<g id="a_Node000171"><a xlink:href="de/daf/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_server_script_debug_drawer_packet.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="524,-2808 372,-2808 372,-2767 524,-2767 524,-2808"/>
+<text text-anchor="start" x="380" y="-2796" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
+<text text-anchor="start" x="380" y="-2785" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\protocol\ServerScript</text>
+<text text-anchor="middle" x="448" y="-2774" font-family="Helvetica,sans-Serif" font-size="10.00">DebugDrawerPacket</text>
 </a>
 </g>
 </g>
@@ -2307,7 +2307,7 @@
 <g id="edge1017_Node000001_Node000171" class="edge">
 <title>Node1&#45;&gt;Node171</title>
 <g id="a_edge1017_Node000001_Node000171"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M237.88,-4552.74C237.3,-4329.21 238.32,-2959.31 350,-2817.5 354.36,-2811.96 359.73,-2807.42 365.68,-2803.7"/>
+<path fill="none" stroke="#63b8ff" d="M237.88,-4552.74C237.3,-4329.21 238.32,-2959.31 350,-2817.5 355.78,-2810.16 363.32,-2804.57 371.66,-2800.33"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="234.38,-4552.79 237.91,-4562.78 241.38,-4552.77 234.38,-4552.79"/>
 </a>
 </g>
@@ -2315,11 +2315,11 @@
 <!-- Node172 -->
 <g id="Node000172" class="node">
 <title>Node172</title>
-<g id="a_Node000172"><a xlink:href="d3/ddd/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_server_stats_packet.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="522.5,-2749 373.5,-2749 373.5,-2708 522.5,-2708 522.5,-2749"/>
-<text text-anchor="start" x="381.5" y="-2737" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
-<text text-anchor="start" x="381.5" y="-2726" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\protocol\ServerStats</text>
-<text text-anchor="middle" x="448" y="-2715" font-family="Helvetica,sans-Serif" font-size="10.00">Packet</text>
+<g id="a_Node000172"><a xlink:href="d0/d6e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_server_settings_response_packet.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="530,-2749 366,-2749 366,-2708 530,-2708 530,-2749"/>
+<text text-anchor="start" x="374" y="-2737" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
+<text text-anchor="start" x="374" y="-2726" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\protocol\ServerSettings</text>
+<text text-anchor="middle" x="448" y="-2715" font-family="Helvetica,sans-Serif" font-size="10.00">ResponsePacket</text>
 </a>
 </g>
 </g>
@@ -2327,7 +2327,7 @@
 <g id="edge1018_Node000001_Node000172" class="edge">
 <title>Node1&#45;&gt;Node172</title>
 <g id="a_edge1018_Node000001_Node000172"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M237.81,-4552.43C236.72,-4323.7 234.63,-2905.3 350,-2758.5 356.1,-2750.74 364.17,-2744.94 373.06,-2740.61"/>
+<path fill="none" stroke="#63b8ff" d="M237.81,-4552.43C236.72,-4323.7 234.63,-2905.3 350,-2758.5 354.36,-2752.96 359.72,-2748.41 365.67,-2744.69"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="234.32,-4552.72 237.87,-4562.7 241.32,-4552.68 234.32,-4552.72"/>
 </a>
 </g>
@@ -2335,11 +2335,11 @@
 <!-- Node173 -->
 <g id="Node000173" class="node">
 <title>Node173</title>
-<g id="a_Node000173"><a xlink:href="d9/d04/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_server_to_client_handshake_packet.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="529.5,-2690 366.5,-2690 366.5,-2649 529.5,-2649 529.5,-2690"/>
-<text text-anchor="start" x="374.5" y="-2678" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
-<text text-anchor="start" x="374.5" y="-2667" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\protocol\ServerToClient</text>
-<text text-anchor="middle" x="448" y="-2656" font-family="Helvetica,sans-Serif" font-size="10.00">HandshakePacket</text>
+<g id="a_Node000173"><a xlink:href="d3/ddd/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_server_stats_packet.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="522.5,-2690 373.5,-2690 373.5,-2649 522.5,-2649 522.5,-2690"/>
+<text text-anchor="start" x="381.5" y="-2678" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
+<text text-anchor="start" x="381.5" y="-2667" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\protocol\ServerStats</text>
+<text text-anchor="middle" x="448" y="-2656" font-family="Helvetica,sans-Serif" font-size="10.00">Packet</text>
 </a>
 </g>
 </g>
@@ -2347,8 +2347,28 @@
 <g id="edge1019_Node000001_Node000173" class="edge">
 <title>Node1&#45;&gt;Node173</title>
 <g id="a_edge1019_Node000001_Node000173"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M237.75,-4552.88C236.16,-4321.37 230.82,-2851.46 350,-2699.5 354.46,-2693.81 359.98,-2689.18 366.11,-2685.4"/>
+<path fill="none" stroke="#63b8ff" d="M237.75,-4552.88C236.16,-4321.37 230.82,-2851.46 350,-2699.5 356.09,-2691.73 364.16,-2685.93 373.05,-2681.6"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="234.26,-4552.98 237.83,-4562.95 241.25,-4552.93 234.26,-4552.98"/>
+</a>
+</g>
+</g>
+<!-- Node174 -->
+<g id="Node000174" class="node">
+<title>Node174</title>
+<g id="a_Node000174"><a xlink:href="d9/d04/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_server_to_client_handshake_packet.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="529.5,-2631 366.5,-2631 366.5,-2590 529.5,-2590 529.5,-2631"/>
+<text text-anchor="start" x="374.5" y="-2619" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
+<text text-anchor="start" x="374.5" y="-2608" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\protocol\ServerToClient</text>
+<text text-anchor="middle" x="448" y="-2597" font-family="Helvetica,sans-Serif" font-size="10.00">HandshakePacket</text>
+</a>
+</g>
+</g>
+<!-- Node1&#45;&gt;Node174 -->
+<g id="edge1020_Node000001_Node000174" class="edge">
+<title>Node1&#45;&gt;Node174</title>
+<g id="a_edge1020_Node000001_Node000174"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M238.78,-4552.74C245.04,-4310.62 288.43,-2719.15 350,-2640.5 354.46,-2634.81 359.97,-2630.17 366.09,-2626.4"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="235.28,-4552.85 238.52,-4562.93 242.27,-4553.03 235.28,-4552.85"/>
 </a>
 </g>
 </g>
@@ -2364,9 +2384,9 @@
 </g>
 </g>
 <!-- Node1&#45;&gt;Node65 -->
-<g id="edge1020_Node000001_Node000065" class="edge">
+<g id="edge1021_Node000001_Node000065" class="edge">
 <title>Node1&#45;&gt;Node65</title>
-<g id="a_edge1020_Node000001_Node000065"><a xlink:title=" ">
+<g id="a_edge1021_Node000001_Node000065"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M240.49,-4614.55C251.55,-4754.07 296.48,-5337.07 314,-5816.5 315.59,-5860.03 323.78,-8917.72 350,-8952.5 355.18,-8959.38 361.94,-8964.69 369.47,-8968.77"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="243.95,-4613.89 239.67,-4604.2 236.97,-4614.45 243.95,-4613.89"/>
 </a>
@@ -2384,9 +2404,9 @@
 </g>
 </g>
 <!-- Node1&#45;&gt;Node66 -->
-<g id="edge1021_Node000001_Node000066" class="edge">
+<g id="edge1022_Node000001_Node000066" class="edge">
 <title>Node1&#45;&gt;Node66</title>
-<g id="a_edge1021_Node000001_Node000066"><a xlink:title=" ">
+<g id="a_edge1022_Node000001_Node000066"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M240.49,-4614.55C251.54,-4754.07 296.43,-5337.07 314,-5816.5 315.57,-5859.21 324.27,-8859.37 350,-8893.5 355.5,-8900.8 362.77,-8906.33 370.86,-8910.51"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="243.95,-4613.89 239.66,-4604.2 236.97,-4614.45 243.95,-4613.89"/>
 </a>
@@ -2404,31 +2424,31 @@
 </g>
 </g>
 <!-- Node1&#45;&gt;Node67 -->
-<g id="edge1022_Node000001_Node000067" class="edge">
+<g id="edge1023_Node000001_Node000067" class="edge">
 <title>Node1&#45;&gt;Node67</title>
-<g id="a_edge1022_Node000001_Node000067"><a xlink:title=" ">
+<g id="a_edge1023_Node000001_Node000067"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M240.48,-4614.55C251.52,-4754.07 296.38,-5337.07 314,-5816.5 315.54,-5858.39 324.76,-8801.03 350,-8834.5 353.92,-8839.69 358.73,-8843.99 364.09,-8847.54"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="243.94,-4613.89 239.66,-4604.2 236.96,-4614.45 243.94,-4613.89"/>
 </a>
 </g>
 </g>
-<!-- Node174 -->
-<g id="Node000174" class="node">
-<title>Node174</title>
-<g id="a_Node000174"><a xlink:href="d4/dff/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_commands_enabled_packet.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="530,-2631 366,-2631 366,-2590 530,-2590 530,-2631"/>
-<text text-anchor="start" x="374" y="-2619" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
-<text text-anchor="start" x="374" y="-2608" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\protocol\SetCommands</text>
-<text text-anchor="middle" x="448" y="-2597" font-family="Helvetica,sans-Serif" font-size="10.00">EnabledPacket</text>
+<!-- Node175 -->
+<g id="Node000175" class="node">
+<title>Node175</title>
+<g id="a_Node000175"><a xlink:href="d4/dff/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_commands_enabled_packet.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="530,-2572 366,-2572 366,-2531 530,-2531 530,-2572"/>
+<text text-anchor="start" x="374" y="-2560" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
+<text text-anchor="start" x="374" y="-2549" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\protocol\SetCommands</text>
+<text text-anchor="middle" x="448" y="-2538" font-family="Helvetica,sans-Serif" font-size="10.00">EnabledPacket</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node174 -->
-<g id="edge1023_Node000001_Node000174" class="edge">
-<title>Node1&#45;&gt;Node174</title>
-<g id="a_edge1023_Node000001_Node000174"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M238.78,-4552.74C245.04,-4310.62 288.43,-2719.15 350,-2640.5 354.35,-2634.95 359.7,-2630.4 365.65,-2626.67"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="235.28,-4552.85 238.52,-4562.93 242.27,-4553.03 235.28,-4552.85"/>
+<!-- Node1&#45;&gt;Node175 -->
+<g id="edge1024_Node000001_Node000175" class="edge">
+<title>Node1&#45;&gt;Node175</title>
+<g id="a_edge1024_Node000001_Node000175"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M238.72,-4552.94C244.63,-4307.39 286.54,-2662.71 350,-2581.5 354.34,-2575.94 359.69,-2571.39 365.64,-2567.67"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="235.22,-4552.88 238.48,-4562.96 242.22,-4553.04 235.22,-4552.88"/>
 </a>
 </g>
 </g>
@@ -2444,9 +2464,9 @@
 </g>
 </g>
 <!-- Node1&#45;&gt;Node68 -->
-<g id="edge1024_Node000001_Node000068" class="edge">
+<g id="edge1025_Node000001_Node000068" class="edge">
 <title>Node1&#45;&gt;Node68</title>
-<g id="a_edge1024_Node000001_Node000068"><a xlink:title=" ">
+<g id="a_edge1025_Node000001_Node000068"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M240.48,-4614.55C251.51,-4754.07 296.32,-5337.08 314,-5816.5 315.51,-5857.57 325.25,-8742.69 350,-8775.5 353.18,-8779.71 356.94,-8783.33 361.11,-8786.44"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="243.94,-4613.89 239.66,-4604.2 236.96,-4614.45 243.94,-4613.89"/>
 </a>
@@ -2464,41 +2484,22 @@
 </g>
 </g>
 <!-- Node1&#45;&gt;Node69 -->
-<g id="edge1025_Node000001_Node000069" class="edge">
+<g id="edge1026_Node000001_Node000069" class="edge">
 <title>Node1&#45;&gt;Node69</title>
-<g id="a_edge1025_Node000001_Node000069"><a xlink:title=" ">
+<g id="a_edge1026_Node000001_Node000069"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M240.48,-4614.55C251.49,-4754.07 296.26,-5337.08 314,-5816.5 315.49,-5856.75 325.74,-8684.34 350,-8716.5 355.72,-8724.08 363.34,-8729.75 371.8,-8733.98"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="243.94,-4613.89 239.66,-4604.2 236.96,-4614.45 243.94,-4613.89"/>
-</a>
-</g>
-</g>
-<!-- Node175 -->
-<g id="Node000175" class="node">
-<title>Node175</title>
-<g id="a_Node000175"><a xlink:href="d5/de5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_display_objective_packet.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="543.5,-2572 352.5,-2572 352.5,-2531 543.5,-2531 543.5,-2572"/>
-<text text-anchor="start" x="360.5" y="-2560" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
-<text text-anchor="start" x="360.5" y="-2549" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\protocol\SetDisplayObjective</text>
-<text text-anchor="middle" x="448" y="-2538" font-family="Helvetica,sans-Serif" font-size="10.00">Packet</text>
-</a>
-</g>
-</g>
-<!-- Node1&#45;&gt;Node175 -->
-<g id="edge1026_Node000001_Node000175" class="edge">
-<title>Node1&#45;&gt;Node175</title>
-<g id="a_edge1026_Node000001_Node000175"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M238.72,-4552.94C244.63,-4307.39 286.54,-2662.71 350,-2581.5 352.71,-2578.03 355.82,-2574.95 359.22,-2572.22"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="235.22,-4552.88 238.48,-4562.96 242.22,-4553.04 235.22,-4552.88"/>
 </a>
 </g>
 </g>
 <!-- Node176 -->
 <g id="Node000176" class="node">
 <title>Node176</title>
-<g id="a_Node000176"><a xlink:href="d3/df7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_health_packet.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="534,-2512.5 362,-2512.5 362,-2482.5 534,-2482.5 534,-2512.5"/>
-<text text-anchor="start" x="370" y="-2500.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
-<text text-anchor="middle" x="448" y="-2489.5" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\protocol\SetHealthPacket</text>
+<g id="a_Node000176"><a xlink:href="d5/de5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_display_objective_packet.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="543.5,-2513 352.5,-2513 352.5,-2472 543.5,-2472 543.5,-2513"/>
+<text text-anchor="start" x="360.5" y="-2501" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
+<text text-anchor="start" x="360.5" y="-2490" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\protocol\SetDisplayObjective</text>
+<text text-anchor="middle" x="448" y="-2479" font-family="Helvetica,sans-Serif" font-size="10.00">Packet</text>
 </a>
 </g>
 </g>
@@ -2506,18 +2507,18 @@
 <g id="edge1027_Node000001_Node000176" class="edge">
 <title>Node1&#45;&gt;Node176</title>
 <g id="a_edge1027_Node000001_Node000176"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M238.64,-4552.8C243.99,-4302.55 282.69,-2604.65 350,-2522.5 353.42,-2518.33 357.43,-2514.8 361.84,-2511.83"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="235.14,-4552.92 238.42,-4562.99 242.14,-4553.07 235.14,-4552.92"/>
+<path fill="none" stroke="#63b8ff" d="M238.68,-4552.44C244.32,-4301.02 284.7,-2606.19 350,-2522.5 352.71,-2519.03 355.82,-2515.94 359.22,-2513.21"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="235.18,-4552.61 238.45,-4562.68 242.18,-4552.76 235.18,-4552.61"/>
 </a>
 </g>
 </g>
 <!-- Node177 -->
 <g id="Node000177" class="node">
 <title>Node177</title>
-<g id="a_Node000177"><a xlink:href="dc/da0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_hud_packet.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="527.5,-2464.5 368.5,-2464.5 368.5,-2434.5 527.5,-2434.5 527.5,-2464.5"/>
-<text text-anchor="start" x="376.5" y="-2452.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
-<text text-anchor="middle" x="448" y="-2441.5" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\protocol\SetHudPacket</text>
+<g id="a_Node000177"><a xlink:href="d3/df7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_health_packet.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="534,-2453.5 362,-2453.5 362,-2423.5 534,-2423.5 534,-2453.5"/>
+<text text-anchor="start" x="370" y="-2441.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
+<text text-anchor="middle" x="448" y="-2430.5" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\protocol\SetHealthPacket</text>
 </a>
 </g>
 </g>
@@ -2525,19 +2526,18 @@
 <g id="edge1028_Node000001_Node000177" class="edge">
 <title>Node1&#45;&gt;Node177</title>
 <g id="a_edge1028_Node000001_Node000177"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M238.6,-4552.47C243.66,-4297.63 280.71,-2557.35 350,-2473.5 354.97,-2467.48 361.19,-2462.84 368.07,-2459.27"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="235.09,-4552.77 238.4,-4562.84 242.09,-4552.91 235.09,-4552.77"/>
+<path fill="none" stroke="#63b8ff" d="M238.59,-4552.7C243.64,-4298.06 280.76,-2548.13 350,-2463.5 353.41,-2459.33 357.42,-2455.8 361.83,-2452.82"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="235.09,-4552.67 238.4,-4562.74 242.09,-4552.81 235.09,-4552.67"/>
 </a>
 </g>
 </g>
 <!-- Node178 -->
 <g id="Node000178" class="node">
 <title>Node178</title>
-<g id="a_Node000178"><a xlink:href="d4/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_last_hurt_by_packet.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="522.5,-2416 373.5,-2416 373.5,-2375 522.5,-2375 522.5,-2416"/>
-<text text-anchor="start" x="381.5" y="-2404" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
-<text text-anchor="start" x="381.5" y="-2393" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\protocol\SetLastHurt</text>
-<text text-anchor="middle" x="448" y="-2382" font-family="Helvetica,sans-Serif" font-size="10.00">ByPacket</text>
+<g id="a_Node000178"><a xlink:href="dc/da0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_hud_packet.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="527.5,-2405.5 368.5,-2405.5 368.5,-2375.5 527.5,-2375.5 527.5,-2405.5"/>
+<text text-anchor="start" x="376.5" y="-2393.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
+<text text-anchor="middle" x="448" y="-2382.5" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\protocol\SetHudPacket</text>
 </a>
 </g>
 </g>
@@ -2545,19 +2545,19 @@
 <g id="edge1029_Node000001_Node000178" class="edge">
 <title>Node1&#45;&gt;Node178</title>
 <g id="a_edge1029_Node000001_Node000178"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M238.6,-4552.58C243.73,-4295.04 281.61,-2513.38 350,-2425.5 356.17,-2417.57 364.4,-2411.69 373.47,-2407.33"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="235.1,-4552.66 238.4,-4562.72 242.1,-4552.8 235.1,-4552.66"/>
+<path fill="none" stroke="#63b8ff" d="M238.55,-4552.79C243.28,-4295.14 278.73,-2500.87 350,-2414.5 354.97,-2408.48 361.19,-2403.83 368.06,-2400.26"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="235.05,-4552.87 238.36,-4562.94 242.05,-4553 235.05,-4552.87"/>
 </a>
 </g>
 </g>
 <!-- Node179 -->
 <g id="Node000179" class="node">
 <title>Node179</title>
-<g id="a_Node000179"><a xlink:href="de/d38/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_movement_authority_packet.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="528.5,-2357 367.5,-2357 367.5,-2316 528.5,-2316 528.5,-2357"/>
-<text text-anchor="start" x="375.5" y="-2345" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
-<text text-anchor="start" x="375.5" y="-2334" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\protocol\SetMovement</text>
-<text text-anchor="middle" x="448" y="-2323" font-family="Helvetica,sans-Serif" font-size="10.00">AuthorityPacket</text>
+<g id="a_Node000179"><a xlink:href="d4/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_last_hurt_by_packet.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="522.5,-2357 373.5,-2357 373.5,-2316 522.5,-2316 522.5,-2357"/>
+<text text-anchor="start" x="381.5" y="-2345" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
+<text text-anchor="start" x="381.5" y="-2334" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\protocol\SetLastHurt</text>
+<text text-anchor="middle" x="448" y="-2323" font-family="Helvetica,sans-Serif" font-size="10.00">ByPacket</text>
 </a>
 </g>
 </g>
@@ -2565,7 +2565,7 @@
 <g id="edge1030_Node000001_Node000179" class="edge">
 <title>Node1&#45;&gt;Node179</title>
 <g id="a_edge1030_Node000001_Node000179"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M238.56,-4552.55C243.39,-4290.96 279.73,-2456.92 350,-2366.5 354.76,-2360.38 360.75,-2355.47 367.4,-2351.55"/>
+<path fill="none" stroke="#63b8ff" d="M238.56,-4552.55C243.39,-4290.96 279.73,-2456.92 350,-2366.5 356.17,-2358.57 364.39,-2352.68 373.46,-2348.32"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="235.05,-4552.78 238.37,-4562.84 242.05,-4552.91 235.05,-4552.78"/>
 </a>
 </g>
@@ -4290,10 +4290,10 @@
 </g>
 </g>
 <!-- Node3&#45;&gt;Node171 -->
-<g id="edge1215_Node000003_Node000171" class="edge">
+<g id="edge1214_Node000003_Node000171" class="edge">
 <title>Node3&#45;&gt;Node171</title>
-<g id="a_edge1215_Node000003_Node000171"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M239.96,-5815.28C249.79,-5687.34 294.18,-5097.34 314,-4613.5 316.04,-4563.64 319.98,-2857.36 350,-2817.5 354.35,-2811.73 359.79,-2807.03 365.87,-2803.22"/>
+<g id="a_edge1214_Node000003_Node000171"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M239.96,-5815.28C249.79,-5687.34 294.18,-5097.34 314,-4613.5 316.04,-4563.64 319.98,-2857.36 350,-2817.5 355.73,-2809.9 363.35,-2804.17 371.82,-2799.86"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="236.46,-5815.03 239.19,-5825.27 243.44,-5815.57 236.46,-5815.03"/>
 </a>
 </g>
@@ -4302,7 +4302,7 @@
 <g id="edge1216_Node000003_Node000172" class="edge">
 <title>Node3&#45;&gt;Node172</title>
 <g id="a_edge1216_Node000003_Node000172"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M239.96,-5815.28C249.83,-5687.34 294.33,-5097.34 314,-4613.5 316.09,-4562.01 319.01,-2799.68 350,-2758.5 356.04,-2750.47 364.2,-2744.53 373.24,-2740.15"/>
+<path fill="none" stroke="#63b8ff" d="M239.96,-5815.28C249.83,-5687.34 294.33,-5097.34 314,-4613.5 316.09,-4562.01 319.01,-2799.68 350,-2758.5 354.35,-2752.73 359.79,-2748.03 365.86,-2744.22"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="236.47,-5815.03 239.19,-5825.27 243.45,-5815.57 236.47,-5815.03"/>
 </a>
 </g>
@@ -4311,71 +4311,71 @@
 <g id="edge1217_Node000003_Node000173" class="edge">
 <title>Node3&#45;&gt;Node173</title>
 <g id="a_edge1217_Node000003_Node000173"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M239.97,-5815.28C249.86,-5687.34 294.47,-5097.35 314,-4613.5 316.14,-4560.37 318.04,-2742 350,-2699.5 354.45,-2693.58 360.05,-2688.8 366.3,-2684.94"/>
+<path fill="none" stroke="#63b8ff" d="M239.97,-5815.28C249.86,-5687.34 294.47,-5097.35 314,-4613.5 316.14,-4560.37 318.04,-2742 350,-2699.5 356.04,-2691.47 364.2,-2685.53 373.23,-2681.14"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="236.48,-5815.03 239.19,-5825.27 243.46,-5815.57 236.48,-5815.03"/>
 </a>
 </g>
 </g>
+<!-- Node3&#45;&gt;Node174 -->
+<g id="edge1218_Node000003_Node000174" class="edge">
+<title>Node3&#45;&gt;Node174</title>
+<g id="a_edge1218_Node000003_Node000174"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M239.97,-5815.28C249.89,-5687.34 294.61,-5097.35 314,-4613.5 316.19,-4558.73 317.07,-2684.32 350,-2640.5 354.45,-2634.58 360.05,-2629.8 366.3,-2625.94"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="236.48,-5815.03 239.2,-5825.27 243.46,-5815.57 236.48,-5815.03"/>
+</a>
+</g>
+</g>
 <!-- Node3&#45;&gt;Node65 -->
-<g id="edge1220_Node000003_Node000065" class="edge">
+<g id="edge1221_Node000003_Node000065" class="edge">
 <title>Node3&#45;&gt;Node65</title>
-<g id="a_edge1220_Node000003_Node000065"><a xlink:title=" ">
+<g id="a_edge1221_Node000003_Node000065"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M238.07,-5866.18C238.97,-6157.05 249.97,-8823.11 350,-8952.5 355.16,-8959.17 361.8,-8964.37 369.17,-8968.4"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="241.57,-5865.8 238.04,-5855.81 234.57,-5865.82 241.57,-5865.8"/>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node66 -->
-<g id="edge1221_Node000003_Node000066" class="edge">
+<g id="edge1222_Node000003_Node000066" class="edge">
 <title>Node3&#45;&gt;Node66</title>
-<g id="a_edge1221_Node000003_Node000066"><a xlink:title=" ">
+<g id="a_edge1222_Node000003_Node000066"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M238.09,-5865.7C239.18,-6151.05 251.82,-8766.59 350,-8893.5 355.49,-8900.59 362.63,-8906.01 370.57,-8910.13"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="241.59,-5865.5 238.05,-5855.52 234.59,-5865.53 241.59,-5865.5"/>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node67 -->
-<g id="edge1222_Node000003_Node000067" class="edge">
+<g id="edge1223_Node000003_Node000067" class="edge">
 <title>Node3&#45;&gt;Node67</title>
-<g id="a_edge1222_Node000003_Node000067"><a xlink:title=" ">
+<g id="a_edge1223_Node000003_Node000067"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M238.11,-5865.64C239.39,-6147.67 253.71,-8710.14 350,-8834.5 353.98,-8839.64 358.84,-8843.9 364.23,-8847.43"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="241.61,-5865.55 238.06,-5855.57 234.61,-5865.58 241.61,-5865.55"/>
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node174 -->
-<g id="edge1223_Node000003_Node000174" class="edge">
-<title>Node3&#45;&gt;Node174</title>
-<g id="a_edge1223_Node000003_Node000174"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M239.97,-5815.28C249.89,-5687.34 294.61,-5097.35 314,-4613.5 316.19,-4558.73 317.07,-2684.32 350,-2640.5 354.34,-2634.72 359.78,-2630.03 365.86,-2626.21"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="236.48,-5815.03 239.2,-5825.27 243.46,-5815.57 236.48,-5815.03"/>
+<!-- Node3&#45;&gt;Node175 -->
+<g id="edge1224_Node000003_Node000175" class="edge">
+<title>Node3&#45;&gt;Node175</title>
+<g id="a_edge1224_Node000003_Node000175"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M239.98,-5815.28C249.92,-5687.35 294.74,-5097.36 314,-4613.5 316.25,-4557.09 316.09,-2626.64 350,-2581.5 354.34,-2575.72 359.78,-2571.02 365.85,-2567.21"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="236.49,-5815.03 239.2,-5825.27 243.47,-5815.57 236.49,-5815.03"/>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node68 -->
-<g id="edge1224_Node000003_Node000068" class="edge">
+<g id="edge1225_Node000003_Node000068" class="edge">
 <title>Node3&#45;&gt;Node68</title>
-<g id="a_edge1224_Node000003_Node000068"><a xlink:title=" ">
+<g id="a_edge1225_Node000003_Node000068"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M238.13,-5865.98C239.63,-6146.66 255.66,-8653.75 350,-8775.5 353.23,-8779.67 357.03,-8783.26 361.24,-8786.35"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="241.63,-5865.59 238.07,-5855.61 234.63,-5865.63 241.63,-5865.59"/>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node69 -->
-<g id="edge1225_Node000003_Node000069" class="edge">
+<g id="edge1226_Node000003_Node000069" class="edge">
 <title>Node3&#45;&gt;Node69</title>
-<g id="a_edge1225_Node000003_Node000069"><a xlink:title=" ">
+<g id="a_edge1226_Node000003_Node000069"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M238.15,-5865.89C239.85,-6143.02 257.55,-8597.29 350,-8716.5 355.82,-8724 363.5,-8729.63 371.99,-8733.84"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="241.65,-5865.62 238.09,-5855.64 234.65,-5865.66 241.65,-5865.62"/>
-</a>
-</g>
-</g>
-<!-- Node3&#45;&gt;Node175 -->
-<g id="edge1226_Node000003_Node000175" class="edge">
-<title>Node3&#45;&gt;Node175</title>
-<g id="a_edge1226_Node000003_Node000175"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M239.98,-5815.28C249.92,-5687.35 294.74,-5097.36 314,-4613.5 316.25,-4557.09 316.09,-2626.64 350,-2581.5 352.65,-2577.98 355.7,-2574.86 359.06,-2572.09"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="236.49,-5815.03 239.2,-5825.27 243.47,-5815.57 236.49,-5815.03"/>
 </a>
 </g>
 </g>
@@ -4383,7 +4383,7 @@
 <g id="edge1227_Node000003_Node000176" class="edge">
 <title>Node3&#45;&gt;Node176</title>
 <g id="a_edge1227_Node000003_Node000176"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M239.98,-5815.28C249.95,-5687.35 294.86,-5097.36 314,-4613.5 316.3,-4555.45 314.02,-2568.11 350,-2522.5 353.34,-2518.27 357.29,-2514.69 361.66,-2511.68"/>
+<path fill="none" stroke="#63b8ff" d="M239.98,-5815.28C249.95,-5687.35 294.86,-5097.36 314,-4613.5 316.3,-4555.45 315.12,-2568.96 350,-2522.5 352.65,-2518.98 355.7,-2515.85 359.06,-2513.09"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="236.49,-5815.03 239.2,-5825.27 243.47,-5815.57 236.49,-5815.03"/>
 </a>
 </g>
@@ -4392,8 +4392,8 @@
 <g id="edge1228_Node000003_Node000177" class="edge">
 <title>Node3&#45;&gt;Node177</title>
 <g id="a_edge1228_Node000003_Node000177"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M239.99,-5815.28C249.97,-5687.35 294.95,-5097.37 314,-4613.5 316.34,-4554.09 312.96,-2520.01 350,-2473.5 354.97,-2467.26 361.29,-2462.48 368.31,-2458.85"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="236.49,-5815.03 239.2,-5825.27 243.47,-5815.58 236.49,-5815.03"/>
+<path fill="none" stroke="#63b8ff" d="M239.99,-5815.28C249.98,-5687.35 294.97,-5097.37 314,-4613.5 316.35,-4553.82 313.02,-2510.41 350,-2463.5 353.34,-2459.27 357.29,-2455.69 361.66,-2452.68"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="236.5,-5815.03 239.2,-5825.27 243.47,-5815.58 236.5,-5815.03"/>
 </a>
 </g>
 </g>
@@ -4401,16 +4401,16 @@
 <g id="edge1229_Node000003_Node000178" class="edge">
 <title>Node3&#45;&gt;Node178</title>
 <g id="a_edge1229_Node000003_Node000178"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M239.99,-5815.28C249.99,-5687.35 295.04,-5097.37 314,-4613.5 316.38,-4552.76 313.52,-2474.12 350,-2425.5 356.03,-2417.46 364.18,-2411.52 373.22,-2407.13"/>
+<path fill="none" stroke="#63b8ff" d="M239.99,-5815.28C250,-5687.35 295.06,-5097.37 314,-4613.5 316.39,-4552.46 311.95,-2462.3 350,-2414.5 354.97,-2408.26 361.29,-2403.48 368.3,-2399.85"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="236.5,-5815.03 239.21,-5825.27 243.48,-5815.58 236.5,-5815.03"/>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node179 -->
-<g id="edge1231_Node000003_Node000179" class="edge">
+<g id="edge1230_Node000003_Node000179" class="edge">
 <title>Node3&#45;&gt;Node179</title>
-<g id="a_edge1231_Node000003_Node000179"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M239.99,-5815.28C250.02,-5687.35 295.15,-5097.38 314,-4613.5 316.43,-4551.12 312.55,-2416.44 350,-2366.5 354.65,-2360.29 360.57,-2355.34 367.18,-2351.38"/>
+<g id="a_edge1230_Node000003_Node000179"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M239.99,-5815.28C250.02,-5687.35 295.15,-5097.38 314,-4613.5 316.43,-4551.12 312.55,-2416.44 350,-2366.5 356.03,-2358.46 364.18,-2352.52 373.21,-2348.13"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="236.5,-5815.03 239.21,-5825.27 243.48,-5815.58 236.5,-5815.03"/>
 </a>
 </g>
@@ -5418,9 +5418,9 @@
 </g>
 </g>
 <!-- Node3&#45;&gt;Node62 -->
-<g id="edge1214_Node000003_Node000062" class="edge">
+<g id="edge1215_Node000003_Node000062" class="edge">
 <title>Node3&#45;&gt;Node62</title>
-<g id="a_edge1214_Node000003_Node000062"><a xlink:title=" ">
+<g id="a_edge1215_Node000003_Node000062"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M238.46,-5865.62C244.87,-6211.29 316.04,-10009.14 350,-10053.5 354.38,-10059.22 359.85,-10063.85 365.94,-10067.6"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="241.96,-5865.52 238.28,-5855.59 234.96,-5865.65 241.96,-5865.52"/>
 </a>
@@ -5438,9 +5438,9 @@
 </g>
 </g>
 <!-- Node3&#45;&gt;Node63 -->
-<g id="edge1218_Node000003_Node000063" class="edge">
+<g id="edge1219_Node000003_Node000063" class="edge">
 <title>Node3&#45;&gt;Node63</title>
-<g id="a_edge1218_Node000003_Node000063"><a xlink:title=" ">
+<g id="a_edge1219_Node000003_Node000063"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M238.48,-5865.79C244.99,-6209.89 316.52,-9950.79 350,-9994.5 355.56,-10001.76 362.86,-10007.26 370.97,-10011.43"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="241.98,-5865.72 238.29,-5855.79 234.98,-5865.85 241.98,-5865.72"/>
 </a>
@@ -5458,9 +5458,9 @@
 </g>
 </g>
 <!-- Node3&#45;&gt;Node64 -->
-<g id="edge1219_Node000003_Node000064" class="edge">
+<g id="edge1220_Node000003_Node000064" class="edge">
 <title>Node3&#45;&gt;Node64</title>
-<g id="a_edge1219_Node000003_Node000064"><a xlink:title=" ">
+<g id="a_edge1220_Node000003_Node000064"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M238.48,-5865.68C245.07,-6206.46 316.99,-9892.43 350,-9935.5 355.56,-9942.75 362.86,-9948.26 370.97,-9952.42"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="241.98,-5865.5 238.29,-5855.57 234.98,-5865.64 241.98,-5865.5"/>
 </a>
@@ -5478,9 +5478,9 @@
 </g>
 </g>
 <!-- Node3&#45;&gt;Node70 -->
-<g id="edge1230_Node000003_Node000070" class="edge">
+<g id="edge1231_Node000003_Node000070" class="edge">
 <title>Node3&#45;&gt;Node70</title>
-<g id="a_edge1230_Node000003_Node000070"><a xlink:title=" ">
+<g id="a_edge1231_Node000003_Node000070"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M238.5,-5865.83C245.18,-6204.87 317.48,-9834.07 350,-9876.5 354.38,-9882.22 359.85,-9886.85 365.94,-9890.6"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="242,-5865.69 238.3,-5855.76 235,-5865.83 242,-5865.69"/>
 </a>

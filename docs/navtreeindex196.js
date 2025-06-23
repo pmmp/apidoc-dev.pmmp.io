@@ -1,5 +1,9 @@
 var NAVTREEINDEX196 =
 {
+"dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html#a8e97e9296238bf8794a2d2f8e94e8a93":[2,0,0,5,95,51],
+"dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html#a8e97e9296238bf8794a2d2f8e94e8a93":[3,0,1,12,96,51],
+"dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html#a95cfab40de7390593990a239f8e4af73":[2,0,0,5,95,12],
+"dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html#a95cfab40de7390593990a239f8e4af73":[3,0,1,12,96,12],
 "dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html#a9866a7ab362cec28252d67f6382a4ad4":[2,0,0,5,95,33],
 "dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html#a9866a7ab362cec28252d67f6382a4ad4":[3,0,1,12,96,33],
 "dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[2,0,0,5,95,3],
@@ -213,7 +217,7 @@ var NAVTREEINDEX196 =
 "dd/d27/interfacepocketmine_1_1block_1_1utils_1_1_fallable.html#aea140cd843d3e1efce93ced787a0570f":[3,0,1,0,2,4,1],
 "dd/d28/_cooked_salmon_8php_source.html":[4,0,0,10,34],
 "dd/d28/_sleeper_handler_8php_source.html":[4,0,1,0,11,0,0],
-"dd/d28/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_player_list_entry.html":[3,0,1,16,0,6,1,60],
+"dd/d28/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_player_list_entry.html":[3,0,1,16,0,6,1,61],
 "dd/d28/classpocketmine_1_1world_1_1sound_1_1_furnace_sound.html":[3,0,1,30,5,64],
 "dd/d28/classpocketmine_1_1world_1_1sound_1_1_furnace_sound.html#ace5adac55c9a25b1b9cd69691ac5fdd9":[3,0,1,30,5,64,0],
 "dd/d2b/_predicted_result_8php_source.html":[4,0,1,0,1,0,1,5,18],
@@ -245,9 +249,5 @@ var NAVTREEINDEX196 =
 "dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#a30a070aa7befb02f9fff5cbf2693c01e":[3,0,1,0,107,9],
 "dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#a36afea9f0214193963f75577e8d48c26":[2,0,0,0,105,59],
 "dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#a36afea9f0214193963f75577e8d48c26":[3,0,1,0,107,59],
-"dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#a38152aa774f1938ab67a54899e994909":[2,0,0,0,105,20],
-"dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#a38152aa774f1938ab67a54899e994909":[3,0,1,0,107,20],
-"dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,0,0,105,10],
-"dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,107,10],
-"dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,105,44]
+"dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#a38152aa774f1938ab67a54899e994909":[2,0,0,0,105,20]
 };

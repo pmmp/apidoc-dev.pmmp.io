@@ -1,5 +1,8 @@
 var NAVTREEINDEX180 =
 {
+"dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html#aad121ffc31a225748d5bcc0e0752a9f0":[2,0,0,0,201,24],
+"dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html#aad121ffc31a225748d5bcc0e0752a9f0":[3,0,1,0,203,24],
+"dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[2,0,0,0,201,33],
 "dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,203,33],
 "dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,201,20],
 "dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,203,20],
@@ -67,6 +70,7 @@ var NAVTREEINDEX180 =
 "dc/d3e/classpocketmine_1_1world_1_1_simple_chunk_manager.html#a908803953b3c0e645bcd9f81546e8f18":[3,0,1,30,15,2],
 "dc/d3e/classpocketmine_1_1world_1_1_simple_chunk_manager.html#aac56411407f3dd8ca801104e97313ab6":[2,0,0,14,9,1],
 "dc/d3e/classpocketmine_1_1world_1_1_simple_chunk_manager.html#aac56411407f3dd8ca801104e97313ab6":[3,0,1,30,15,1],
+"dc/d42/_server_script_debug_drawer_packet_8php_source.html":[4,0,1,0,1,0,160],
 "dc/d45/_wooden_fence_8php_source.html":[4,0,0,0,249],
 "dc/d46/_invalid_serialized_runtime_data_exception_8php_source.html":[4,0,0,5,2,0],
 "dc/d46/_update_trade_packet_8php_source.html":[4,0,1,0,1,0,218],
@@ -245,9 +249,5 @@ var NAVTREEINDEX180 =
 "dc/d4c/classpocketmine_1_1block_1_1_coal.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,59,10],
 "dc/d4c/classpocketmine_1_1block_1_1_coal.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,57,44],
 "dc/d4c/classpocketmine_1_1block_1_1_coal.html#a43e3458847422ebd5dec6c914b443c93":[3,0,1,0,59,44],
-"dc/d4c/classpocketmine_1_1block_1_1_coal.html#a444028c60ad6c7afacda1a6cc3065e59":[2,0,0,0,57,13],
-"dc/d4c/classpocketmine_1_1block_1_1_coal.html#a444028c60ad6c7afacda1a6cc3065e59":[3,0,1,0,59,13],
-"dc/d4c/classpocketmine_1_1block_1_1_coal.html#a49395de82d025ca78745a17528049f18":[2,0,0,0,57,52],
-"dc/d4c/classpocketmine_1_1block_1_1_coal.html#a49395de82d025ca78745a17528049f18":[3,0,1,0,59,52],
-"dc/d4c/classpocketmine_1_1block_1_1_coal.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[2,0,0,0,57,36]
+"dc/d4c/classpocketmine_1_1block_1_1_coal.html#a444028c60ad6c7afacda1a6cc3065e59":[2,0,0,0,57,13]
 };

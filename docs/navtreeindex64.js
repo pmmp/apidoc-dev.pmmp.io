@@ -53,7 +53,7 @@ var NAVTREEINDEX64 =
 "d4/daa/_light_update_8php_source.html":[4,0,0,25,3,3],
 "d4/dab/_amethyst_block_chime_sound_8php_source.html":[4,0,0,25,5,0],
 "d4/dab/_death_packet_handler_8php_source.html":[4,0,0,12,0,5,0],
-"d4/dac/_structure_settings_8php_source.html":[4,0,1,0,1,0,1,78],
+"d4/dac/_structure_settings_8php_source.html":[4,0,1,0,1,0,1,79],
 "d4/dad/_set_time_packet_8php_source.html":[4,0,1,0,1,0,181],
 "d4/dae/classpocketmine_1_1block_1_1_redstone_wire.html":[2,0,0,0,182],
 "d4/dae/classpocketmine_1_1block_1_1_redstone_wire.html":[3,0,1,0,184],

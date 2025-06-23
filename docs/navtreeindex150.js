@@ -1,5 +1,7 @@
 var NAVTREEINDEX150 =
 {
+"d9/dc8/classpocketmine_1_1inventory_1_1transaction_1_1action_1_1_slot_change_action.html":[3,0,1,11,1,0,5],
+"d9/dc8/classpocketmine_1_1inventory_1_1transaction_1_1action_1_1_slot_change_action.html#a0930059237ea6dbfdd6d0e660fd5d53e":[3,0,1,11,1,0,5,5],
 "d9/dc8/classpocketmine_1_1inventory_1_1transaction_1_1action_1_1_slot_change_action.html#a3cef8acc6859c9021e0644d972cbd86c":[3,0,1,11,1,0,5,3],
 "d9/dc8/classpocketmine_1_1inventory_1_1transaction_1_1action_1_1_slot_change_action.html#a69c056a479869af54741ff6b6b8bae71":[3,0,1,11,1,0,5,2],
 "d9/dc8/classpocketmine_1_1inventory_1_1transaction_1_1action_1_1_slot_change_action.html#a87f81a86e25aa38e9eb36ef02ed72e30":[3,0,1,11,1,0,5,0],
@@ -26,6 +28,7 @@ var NAVTREEINDEX150 =
 "d9/dce/classpocketmine_1_1command_1_1_simple_command_map.html#a826259e3accdc4610c6b5b5ba6ca8956":[2,0,0,1,7,1],
 "d9/dce/classpocketmine_1_1command_1_1_simple_command_map.html#a826259e3accdc4610c6b5b5ba6ca8956":[3,0,1,2,9,1],
 "d9/dd2/_item_identifier_8php_source.html":[4,0,0,10,66],
+"d9/dd3/_authentication_type_8php_source.html":[4,0,1,0,1,0,1,6,2],
 "d9/dd3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_adventure_settings_packet.html":[3,0,1,16,0,6,207],
 "d9/dd3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_adventure_settings_packet.html#a1c9c725e68ad7dc1154a09bfc4d87b54":[3,0,1,16,0,6,207,2],
 "d9/dd3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_adventure_settings_packet.html#a248541701ea9bc769a97dde38f43b93b":[3,0,1,16,0,6,207,6],
@@ -188,7 +191,7 @@ var NAVTREEINDEX150 =
 "d9/de5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_login_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,92,0],
 "d9/de5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_login_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,92,3],
 "d9/de5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_login_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,92,1],
-"d9/de5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_login_packet.html#af8b949f59413363e1b3c9f72f38837a8":[3,0,1,16,0,6,92,2],
+"d9/de5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_login_packet.html#ad8827972b92268ae041ff85b731612e6":[3,0,1,16,0,6,92,2],
 "d9/de6/generate-entity-ids_8php_source.html":[4,0,1,0,1,1,2],
 "d9/de9/_player_cursor_inventory_8php_source.html":[4,0,0,9,14],
 "d9/de9/classpocketmine_1_1world_1_1generator_1_1_flat_generator_options.html":[2,0,0,14,0,3],
@@ -235,7 +238,7 @@ var NAVTREEINDEX150 =
 "d9/df4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_batch.html#ac52f6e9e1e8fa320f474cfdfcdd6707c":[3,0,1,16,0,6,0,3,3],
 "d9/df4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_batch.html#af1c8c20b83a87347600f9c0be6b258e5":[3,0,1,16,0,6,0,3,1],
 "d9/df5/namespacepocketmine_1_1network_1_1query.html":[2,0,0,8,0],
-"d9/df6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_trim_pattern.html":[3,0,1,16,0,6,1,80],
+"d9/df6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_trim_pattern.html":[3,0,1,16,0,6,1,81],
 "d9/df8/_inventory_slot_packet_8php_source.html":[4,0,1,0,1,0,78],
 "d9/df8/classpocketmine_1_1world_1_1_explosion.html":[2,0,0,14,7],
 "d9/df8/classpocketmine_1_1world_1_1_explosion.html":[3,0,1,30,13],
@@ -246,8 +249,5 @@ var NAVTREEINDEX150 =
 "d9/df8/classpocketmine_1_1world_1_1_explosion.html#afed8a045f9c5b92f43d61066d03421bc":[2,0,0,14,7,0],
 "d9/df8/classpocketmine_1_1world_1_1_explosion.html#afed8a045f9c5b92f43d61066d03421bc":[3,0,1,30,13,0],
 "d9/dfb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_network_permissions.html":[3,0,1,16,0,6,1,53],
-"d9/dfd/_base_rail_8php_source.html":[4,0,0,0,15],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html":[2,0,0,5,57],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html":[3,0,1,12,58],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a0a422a89abd427286bc2f312100f968c":[2,0,0,5,57,30]
+"d9/dfd/_base_rail_8php_source.html":[4,0,0,0,15]
 };

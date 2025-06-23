@@ -1,5 +1,9 @@
 var NAVTREEINDEX185 =
 {
+"dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html#a49395de82d025ca78745a17528049f18":[2,0,0,0,133,52],
+"dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html#a49395de82d025ca78745a17528049f18":[3,0,1,0,135,52],
+"dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[2,0,0,0,133,36],
+"dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[3,0,1,0,135,36],
 "dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html#a4bc78712a6bf9ec1e50890f716dbbd2d":[2,0,0,0,133,61],
 "dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html#a4bc78712a6bf9ec1e50890f716dbbd2d":[3,0,1,0,135,61],
 "dc/d6f/classpocketmine_1_1block_1_1_lapis_ore.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[2,0,0,0,133,46],
@@ -189,7 +193,7 @@ var NAVTREEINDEX185 =
 "dc/d7b/classpocketmine_1_1world_1_1particle_1_1_terrain_particle.html":[3,0,1,30,4,34],
 "dc/d7b/classpocketmine_1_1world_1_1particle_1_1_terrain_particle.html#ae72191b426c162ecf270b5038205a9f5":[3,0,1,30,4,34,0],
 "dc/d7c/_default_gamemode_command_8php_source.html":[4,0,0,1,0,4],
-"dc/d7c/_u_i_profile_8php_source.html":[4,0,1,0,1,0,1,91],
+"dc/d7c/_u_i_profile_8php_source.html":[4,0,1,0,1,0,1,92],
 "dc/d7d/_legacy_to_string_id_map_8php_source.html":[4,0,0,5,0,17],
 "dc/d80/src_2crafting_2_furnace_recipe_8php_source.html":[4,0,0,3,7],
 "dc/d81/_leaves_8php_source.html":[4,0,0,0,138],
@@ -245,9 +249,5 @@ var NAVTREEINDEX185 =
 "dc/d98/classpocketmine_1_1entity_1_1object_1_1_end_crystal.html#a1bc4a8d3a405c0923c2ed2a8dbcff9a7":[3,0,1,7,2,0,21],
 "dc/d98/classpocketmine_1_1entity_1_1object_1_1_end_crystal.html#a1c05137f3b4e08df3be0b372726021b1":[3,0,1,7,2,0,40],
 "dc/d98/classpocketmine_1_1entity_1_1object_1_1_end_crystal.html#a1cb36d5dd35dc4ee35b2f6e59d93e17b":[3,0,1,7,2,0,24],
-"dc/d98/classpocketmine_1_1entity_1_1object_1_1_end_crystal.html#a22a098fc4892820db7d15a73edea64ca":[3,0,1,7,2,0,10],
-"dc/d98/classpocketmine_1_1entity_1_1object_1_1_end_crystal.html#a23093e6281aba70471af5c5e34051667":[3,0,1,7,2,0,6],
-"dc/d98/classpocketmine_1_1entity_1_1object_1_1_end_crystal.html#a25ad669890dc24d70b8cdad878cd6449":[3,0,1,7,2,0,34],
-"dc/d98/classpocketmine_1_1entity_1_1object_1_1_end_crystal.html#a265cb93031a89ccc4a4236b3702c690b":[3,0,1,7,2,0,27],
-"dc/d98/classpocketmine_1_1entity_1_1object_1_1_end_crystal.html#a2bd1fab41c3720c1ec9f75997958c223":[3,0,1,7,2,0,36]
+"dc/d98/classpocketmine_1_1entity_1_1object_1_1_end_crystal.html#a22a098fc4892820db7d15a73edea64ca":[3,0,1,7,2,0,10]
 };

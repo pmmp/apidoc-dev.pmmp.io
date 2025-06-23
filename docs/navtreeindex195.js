@@ -1,5 +1,9 @@
 var NAVTREEINDEX195 =
 {
+"dd/d08/classpocketmine_1_1item_1_1_item_block.html#a95cfab40de7390593990a239f8e4af73":[3,0,1,12,60,11],
+"dd/d08/classpocketmine_1_1item_1_1_item_block.html#a9866a7ab362cec28252d67f6382a4ad4":[2,0,0,5,59,31],
+"dd/d08/classpocketmine_1_1item_1_1_item_block.html#a9866a7ab362cec28252d67f6382a4ad4":[3,0,1,12,60,31],
+"dd/d08/classpocketmine_1_1item_1_1_item_block.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[2,0,0,5,59,3],
 "dd/d08/classpocketmine_1_1item_1_1_item_block.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[3,0,1,12,60,3],
 "dd/d08/classpocketmine_1_1item_1_1_item_block.html#a9dd9484fe3ab1afcbd2627860e01973a":[2,0,0,5,59,43],
 "dd/d08/classpocketmine_1_1item_1_1_item_block.html#a9dd9484fe3ab1afcbd2627860e01973a":[3,0,1,12,60,43],
@@ -166,7 +170,7 @@ var NAVTREEINDEX195 =
 "dd/d17/classpocketmine_1_1event_1_1block_1_1_structure_grow_event.html#a90efcab0d539a5cb5b17968dfa164017":[3,0,1,9,0,23,3],
 "dd/d17/classpocketmine_1_1event_1_1block_1_1_structure_grow_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,0,3,0,23,2],
 "dd/d17/classpocketmine_1_1event_1_1block_1_1_structure_grow_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,0,23,2],
-"dd/d18/_set_actor_data_packet_8php_source.html":[4,0,1,0,1,0,164],
+"dd/d18/_set_actor_data_packet_8php_source.html":[4,0,1,0,1,0,165],
 "dd/d18/classpocketmine_1_1block_1_1_block_identifier.html":[2,0,0,0,24],
 "dd/d18/classpocketmine_1_1block_1_1_block_identifier.html":[3,0,1,0,26],
 "dd/d18/classpocketmine_1_1block_1_1_block_identifier.html#a007bec20455b9a4e8499170a5d72117a":[2,0,0,0,24,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX195 =
 "dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html#a7b5c1e7e496c3077658212aaacec4b56":[2,0,0,5,95,16],
 "dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html#a7b5c1e7e496c3077658212aaacec4b56":[3,0,1,12,96,16],
 "dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html#a7d45886d40860e24fb4c18d02a3d1a32":[2,0,0,5,95,15],
-"dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html#a7d45886d40860e24fb4c18d02a3d1a32":[3,0,1,12,96,15],
-"dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html#a8e97e9296238bf8794a2d2f8e94e8a93":[2,0,0,5,95,51],
-"dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html#a8e97e9296238bf8794a2d2f8e94e8a93":[3,0,1,12,96,51],
-"dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html#a95cfab40de7390593990a239f8e4af73":[2,0,0,5,95,12],
-"dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html#a95cfab40de7390593990a239f8e4af73":[3,0,1,12,96,12]
+"dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html#a7d45886d40860e24fb4c18d02a3d1a32":[3,0,1,12,96,15]
 };

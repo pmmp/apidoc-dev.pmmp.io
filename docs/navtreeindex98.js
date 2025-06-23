@@ -1,6 +1,5 @@
 var NAVTREEINDEX98 =
 {
-"d6/db0/classpocketmine_1_1block_1_1_base_coral.html#afe4928a6da38d63eccea78bd1a2fdcd3":[3,0,1,0,13,21],
 "d6/db0/classpocketmine_1_1block_1_1_base_coral.html#afe506084e4bb8741a7ac64f6d90c00a5":[2,0,0,0,11,16],
 "d6/db0/classpocketmine_1_1block_1_1_base_coral.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,13,16],
 "d6/db0/classpocketmine_1_1block_1_1_base_coral.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,11,27],
@@ -150,7 +149,7 @@ var NAVTREEINDEX98 =
 "d6/db6/classraklib_1_1protocol_1_1_new_incoming_connection.html#a053633f1a7ac1d5511328b491fb812e9":[3,0,2,2,14,2],
 "d6/db6/classraklib_1_1protocol_1_1_new_incoming_connection.html#ab8de9fe0266990afaa8ba01c09ff302a":[3,0,2,2,14,1],
 "d6/db6/classraklib_1_1protocol_1_1_new_incoming_connection.html#ac7e76cdbad6daaa6bf594f5d3d46099e":[3,0,2,2,14,0],
-"d6/db7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_update_sub_chunk_blocks_packet_entry.html":[3,0,1,16,0,6,1,82],
+"d6/db7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_update_sub_chunk_blocks_packet_entry.html":[3,0,1,16,0,6,1,83],
 "d6/db9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_resource_pack_data_info_packet.html":[3,0,1,16,0,6,150],
 "d6/db9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_resource_pack_data_info_packet.html#a3006b6d757e05a7d9ca6a41c588e6c75":[3,0,1,16,0,6,150,6],
 "d6/db9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_resource_pack_data_info_packet.html#a5d11f9194740096fbaf44d93098f2b1a":[3,0,1,16,0,6,150,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX98 =
 "d6/dbb/classpocketmine_1_1block_1_1_end_rod.html#a99ac1aa857a49086ad7e6ea100a6450c":[3,0,1,0,95,30],
 "d6/dbb/classpocketmine_1_1block_1_1_end_rod.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,93,7],
 "d6/dbb/classpocketmine_1_1block_1_1_end_rod.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,95,7],
-"d6/dbb/classpocketmine_1_1block_1_1_end_rod.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,93,4]
+"d6/dbb/classpocketmine_1_1block_1_1_end_rod.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,93,4],
+"d6/dbb/classpocketmine_1_1block_1_1_end_rod.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,95,4]
 };

@@ -76,7 +76,7 @@ var NAVTREEINDEX26 =
 "d1/dd8/classpocketmine_1_1world_1_1biome_1_1_swamp_biome.html#aee779e604579f71977cc5624dc8dfd0f":[3,0,1,30,0,15,1],
 "d1/dd8/namespacepocketmine_1_1plugin.html":[2,0,0,10],
 "d1/dd8/namespacepocketmine_1_1plugin.html#a765c2f413a4fa914c11812f29f153151":[2,0,0,10,19],
-"d1/dda/_player_auth_input_flags_8php_source.html":[4,0,1,0,1,0,1,63],
+"d1/dda/_player_auth_input_flags_8php_source.html":[4,0,1,0,1,0,1,64],
 "d1/dda/classpocketmine_1_1block_1_1_concrete_powder.html":[2,0,0,0,62],
 "d1/dda/classpocketmine_1_1block_1_1_concrete_powder.html":[3,0,1,0,64],
 "d1/dda/classpocketmine_1_1block_1_1_concrete_powder.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,62,62],

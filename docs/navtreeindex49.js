@@ -130,7 +130,7 @@ var NAVTREEINDEX49 =
 "d3/d7c/classpocketmine_1_1world_1_1sound_1_1_armor_equip_diamond_sound.html":[3,0,1,30,5,5],
 "d3/d7c/classpocketmine_1_1world_1_1sound_1_1_armor_equip_diamond_sound.html#af532ed77f60ac7dd669cdd9a40294d74":[3,0,1,30,5,5,0],
 "d3/d7d/_create_item_action_8php_source.html":[4,0,0,9,1,0,1],
-"d3/d7e/_particle_ids_8php_source.html":[4,0,1,0,1,0,1,61],
+"d3/d7e/_particle_ids_8php_source.html":[4,0,1,0,1,0,1,62],
 "d3/d7e/_status_command_8php_source.html":[4,0,0,1,0,30],
 "d3/d80/_chunk_event_8php_source.html":[4,0,0,7,6,0],
 "d3/d80/classpocketmine_1_1world_1_1sound_1_1_armor_equip_leather_sound.html":[3,0,1,30,5,9],

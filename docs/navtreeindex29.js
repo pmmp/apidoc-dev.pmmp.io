@@ -141,7 +141,7 @@ var NAVTREEINDEX29 =
 "d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html#ae1e9e3739cc463aa0cb55732f1535973":[3,0,1,16,0,6,123,2],
 "d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html#ae6fba2ae90fd9d0b88135287a6c1ea03":[3,0,1,16,0,6,123,5],
 "d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html#afce1b06815509c65e4d34a4bd77be472":[3,0,1,16,0,6,123,7],
-"d2/d02/_server_settings_response_packet_8php_source.html":[4,0,1,0,1,0,161],
+"d2/d02/_server_settings_response_packet_8php_source.html":[4,0,1,0,1,0,162],
 "d2/d03/_chest_8php_source.html":[4,0,0,0,54],
 "d2/d06/_campfire_inventory_8php_source.html":[4,0,0,0,0,6],
 "d2/d06/classpocketmine_1_1world_1_1sound_1_1_shulker_box_close_sound.html":[3,0,1,30,5,94],

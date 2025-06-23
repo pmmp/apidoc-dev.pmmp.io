@@ -58,7 +58,7 @@ var NAVTREEINDEX59 =
 "d4/d32/tile_2_hopper_8php_source.html":[4,0,0,0,1,20],
 "d4/d33/_potion_type_id_map_8php_source.html":[4,0,0,5,0,23],
 "d4/d33/bedrock-protocol_2src_2serializer_2_packet_serializer_8php_source.html":[4,0,1,0,1,0,0,4],
-"d4/d34/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_player_block_action_with_block_info.html":[3,0,1,16,0,6,1,59],
+"d4/d34/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_player_block_action_with_block_info.html":[3,0,1,16,0,6,1,60],
 "d4/d35/_fence_gate_8php_source.html":[4,0,0,0,98],
 "d4/d35/classpocketmine_1_1block_1_1_smithing_table.html":[2,0,0,0,198],
 "d4/d35/classpocketmine_1_1block_1_1_smithing_table.html":[3,0,1,0,200],

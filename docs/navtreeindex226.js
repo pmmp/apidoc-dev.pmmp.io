@@ -1,5 +1,15 @@
 var NAVTREEINDEX226 =
 {
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a4087e033dc45159d7379699024657047":[3,0,1,7,25,24],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a4101d0cffe7303801b827969c461ed8b":[2,0,0,2,20,9],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a4101d0cffe7303801b827969c461ed8b":[3,0,1,7,25,9],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a489f597d6709091a6f9c250886b6ee65":[2,0,0,2,20,21],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a489f597d6709091a6f9c250886b6ee65":[3,0,1,7,25,21],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a4b1a5210337efa1cbc001cd937cc6723":[2,0,0,2,20,62],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a4b1a5210337efa1cbc001cd937cc6723":[3,0,1,7,25,62],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a4e8978f8b3b0896c5279379b1b950099":[2,0,0,2,20,73],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a4e8978f8b3b0896c5279379b1b950099":[3,0,1,7,25,73],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a51f179f6856625792527dd3c2b201003":[2,0,0,2,20,52],
 "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a51f179f6856625792527dd3c2b201003":[3,0,1,7,25,52],
 "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a53b0d6d1b15c35b58e83c959ffec384c":[2,0,0,2,20,6],
 "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a53b0d6d1b15c35b58e83c959ffec384c":[3,0,1,7,25,6],
@@ -221,7 +231,7 @@ var NAVTREEINDEX226 =
 "df/d48/classpocketmine_1_1event_1_1player_1_1_player_toggle_flight_event.html#a90efcab0d539a5cb5b17968dfa164017":[3,0,1,9,3,39,2],
 "df/d48/classpocketmine_1_1event_1_1player_1_1_player_toggle_flight_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,0,3,3,39,1],
 "df/d48/classpocketmine_1_1event_1_1player_1_1_player_toggle_flight_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,3,39,1],
-"df/d48/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_jwt_chain_link_body.html":[3,0,1,16,0,6,1,5,8],
+"df/d48/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_jwt_chain_link_body.html":[3,0,1,16,0,6,1,5,9],
 "df/d4c/classpocketmine_1_1world_1_1format_1_1io_1_1leveldb_1_1_level_d_b.html":[3,0,1,30,1,0,2,2],
 "df/d4c/classpocketmine_1_1world_1_1format_1_1io_1_1leveldb_1_1_level_d_b.html#a16ef2269160f2ae99bd259b2341e16ff":[3,0,1,30,1,0,2,2,6],
 "df/d4c/classpocketmine_1_1world_1_1format_1_1io_1_1leveldb_1_1_level_d_b.html#a24b685a9ced032a0a69cdf5895bec43f":[3,0,1,30,1,0,2,2,7],
@@ -239,15 +249,5 @@ var NAVTREEINDEX226 =
 "df/d4d/_soul_sand_8php_source.html":[4,0,0,0,205],
 "df/d4f/_block_state_dictionary_entry_8php_source.html":[4,0,0,12,0,3,1],
 "df/d4f/_tag_wildcard_recipe_ingredient_8php_source.html":[4,0,0,3,17],
-"df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_gui_data_pick_item_packet.html":[3,0,1,16,0,6,74],
-"df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_gui_data_pick_item_packet.html#a3f00b7be84de1015f43dbb7bf1129d0f":[3,0,1,16,0,6,74,7],
-"df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_gui_data_pick_item_packet.html#a46bd24bdd1231db72d6ee3c8de2ba673":[3,0,1,16,0,6,74,5],
-"df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_gui_data_pick_item_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,74,4],
-"df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_gui_data_pick_item_packet.html#a90d01abc8891f663ed75f313d68cdb53":[3,0,1,16,0,6,74,6],
-"df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_gui_data_pick_item_packet.html#a9de09c46f69d3e6e0ff4a02820f418ca":[3,0,1,16,0,6,74,2],
-"df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_gui_data_pick_item_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,74,0],
-"df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_gui_data_pick_item_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,74,3],
-"df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_gui_data_pick_item_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,74,1],
-"df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_block_synced_packet.html":[3,0,1,16,0,6,210],
-"df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_block_synced_packet.html#a21b448690c80d18ebc25aef2cf642497":[3,0,1,16,0,6,210,2]
+"df/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_gui_data_pick_item_packet.html":[3,0,1,16,0,6,74]
 };

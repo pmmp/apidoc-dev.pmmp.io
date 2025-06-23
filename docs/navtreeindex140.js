@@ -1,5 +1,7 @@
 var NAVTREEINDEX140 =
 {
+"d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#ab51ea2314ed5df2163bca971a462fb72":[3,0,1,0,109,8],
+"d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#ab92353cf0aa5c05ad26535f98a2b1dca":[2,0,0,0,107,26],
 "d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#ab92353cf0aa5c05ad26535f98a2b1dca":[3,0,1,0,109,26],
 "d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[2,0,0,0,107,12],
 "d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[3,0,1,0,109,12],
@@ -41,7 +43,7 @@ var NAVTREEINDEX140 =
 "d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,109,27],
 "d9/d1c/_set_world_spawn_command_8php_source.html":[4,0,0,1,0,28],
 "d9/d1c/classpocketmine_1_1data_1_1java_1_1_game_mode_id_map.html":[3,0,1,6,1,0],
-"d9/d1c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_player_permissions.html":[3,0,1,16,0,6,1,62],
+"d9/d1c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_player_permissions.html":[3,0,1,16,0,6,1,63],
 "d9/d1e/classpocketmine_1_1block_1_1_dried_kelp.html":[2,0,0,0,85],
 "d9/d1e/classpocketmine_1_1block_1_1_dried_kelp.html":[3,0,1,0,87],
 "d9/d1e/classpocketmine_1_1block_1_1_dried_kelp.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,85,58],
@@ -177,7 +179,7 @@ var NAVTREEINDEX140 =
 "d9/d1e/classpocketmine_1_1block_1_1_dried_kelp.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,85,27],
 "d9/d1e/classpocketmine_1_1block_1_1_dried_kelp.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,87,27],
 "d9/d1f/_block_transaction_8php_source.html":[4,0,0,25,7],
-"d9/d1f/_player_list_entry_8php_source.html":[4,0,1,0,1,0,1,67],
+"d9/d1f/_player_list_entry_8php_source.html":[4,0,1,0,1,0,1,68],
 "d9/d20/classpocketmine_1_1block_1_1_door.html":[2,0,0,0,80],
 "d9/d20/classpocketmine_1_1block_1_1_door.html":[3,0,1,0,82],
 "d9/d20/classpocketmine_1_1block_1_1_door.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,80,58],
@@ -247,7 +249,5 @@ var NAVTREEINDEX140 =
 "d9/d20/classpocketmine_1_1block_1_1_door.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,80,11],
 "d9/d20/classpocketmine_1_1block_1_1_door.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,82,11],
 "d9/d20/classpocketmine_1_1block_1_1_door.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,80,68],
-"d9/d20/classpocketmine_1_1block_1_1_door.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,82,68],
-"d9/d20/classpocketmine_1_1block_1_1_door.html#a97a0410fc2b7d64d529cdccdf2b61c36":[2,0,0,0,80,56],
-"d9/d20/classpocketmine_1_1block_1_1_door.html#a97a0410fc2b7d64d529cdccdf2b61c36":[3,0,1,0,82,56]
+"d9/d20/classpocketmine_1_1block_1_1_door.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,82,68]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX38 =
 {
+"d2/d7a/classpocketmine_1_1world_1_1sound_1_1_bucket_empty_lava_sound.html#a832ac6447aa72006c2a598db7f5c8b7c":[3,0,1,30,5,22,0],
 "d2/d7d/_sword_8php_source.html":[4,0,0,10,117],
 "d2/d7e/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_deserializer.html":[3,0,1,6,0,1,2],
 "d2/d7e/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_deserializer.html#a44af5f3b228252812152b89cf221c709":[3,0,1,6,0,1,2,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX38 =
 "d2/d96/classpocketmine_1_1event_1_1entity_1_1_entity_shoot_bow_event.html":[2,0,0,3,1,22],
 "d2/d96/classpocketmine_1_1event_1_1entity_1_1_entity_shoot_bow_event.html":[3,0,1,9,1,22],
 "d2/d96/classpocketmine_1_1event_1_1entity_1_1_entity_shoot_bow_event.html#a2021f7bc8849bd342a3d9248a7cbf8f2":[2,0,0,3,1,22,1],
-"d2/d96/classpocketmine_1_1event_1_1entity_1_1_entity_shoot_bow_event.html#a2021f7bc8849bd342a3d9248a7cbf8f2":[3,0,1,9,1,22,1],
-"d2/d96/classpocketmine_1_1event_1_1entity_1_1_entity_shoot_bow_event.html#a2333d7f055234d7fefc00066158bd888":[2,0,0,3,1,22,5]
+"d2/d96/classpocketmine_1_1event_1_1entity_1_1_entity_shoot_bow_event.html#a2021f7bc8849bd342a3d9248a7cbf8f2":[3,0,1,9,1,22,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX132 =
 {
+"d8/db0/classpocketmine_1_1block_1_1_mangrove_roots.html#afe4928a6da38d63eccea78bd1a2fdcd3":[2,0,0,0,145,21],
+"d8/db0/classpocketmine_1_1block_1_1_mangrove_roots.html#afe4928a6da38d63eccea78bd1a2fdcd3":[3,0,1,0,147,21],
 "d8/db0/classpocketmine_1_1block_1_1_mangrove_roots.html#afe506084e4bb8741a7ac64f6d90c00a5":[2,0,0,0,145,16],
 "d8/db0/classpocketmine_1_1block_1_1_mangrove_roots.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,147,16],
 "d8/db0/classpocketmine_1_1block_1_1_mangrove_roots.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,145,27],
@@ -139,7 +141,7 @@ var NAVTREEINDEX132 =
 "d8/db2/classpocketmine_1_1block_1_1_pumpkin.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,173,16],
 "d8/db2/classpocketmine_1_1block_1_1_pumpkin.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,171,27],
 "d8/db2/classpocketmine_1_1block_1_1_pumpkin.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,173,27],
-"d8/db2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_trim_material.html":[3,0,1,16,0,6,1,79],
+"d8/db2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_trim_material.html":[3,0,1,16,0,6,1,80],
 "d8/db3/_bedrock_data_files_8php_source.html":[4,0,0,5,0,3],
 "d8/db3/_script_plugin_loader_8php_source.html":[4,0,0,15,20],
 "d8/db3/namespacepocketmine_1_1math.html":[2,0,0,6],
@@ -176,7 +178,7 @@ var NAVTREEINDEX132 =
 "d8/dbd/_block_type_ids_8php_source.html":[4,0,0,0,28],
 "d8/dbd/_random_8php_source.html":[4,0,0,23,17],
 "d8/dbf/_dye_use_sound_8php_source.html":[4,0,0,25,5,51],
-"d8/dc1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_sub_chunk_packet_entry_without_cache.html":[3,0,1,16,0,6,1,72],
+"d8/dc1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_sub_chunk_packet_entry_without_cache.html":[3,0,1,16,0,6,1,73],
 "d8/dc1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_overload.html":[3,0,1,16,0,6,1,2,7],
 "d8/dc1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_overload.html#a7701cd260713b3540126311395dbd852":[3,0,1,16,0,6,1,2,7,1],
 "d8/dc1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_overload.html#afb648d1f72272f7b221fff3c14bf61b4":[3,0,1,16,0,6,1,2,7,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX132 =
 "d8/dce/classpocketmine_1_1block_1_1_fillable_cauldron.html#a36afea9f0214193963f75577e8d48c26":[3,0,1,0,99,63],
 "d8/dce/classpocketmine_1_1block_1_1_fillable_cauldron.html#a3a46169e7d256b3a1f3af8c54ddba832":[2,0,0,0,97,66],
 "d8/dce/classpocketmine_1_1block_1_1_fillable_cauldron.html#a3a46169e7d256b3a1f3af8c54ddba832":[3,0,1,0,99,66],
-"d8/dce/classpocketmine_1_1block_1_1_fillable_cauldron.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,0,0,97,11],
-"d8/dce/classpocketmine_1_1block_1_1_fillable_cauldron.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,99,11],
-"d8/dce/classpocketmine_1_1block_1_1_fillable_cauldron.html#a3c4f5719af351786307d4477f3f29a72":[2,0,0,0,97,23]
+"d8/dce/classpocketmine_1_1block_1_1_fillable_cauldron.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,0,0,97,11]
 };

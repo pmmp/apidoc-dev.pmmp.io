@@ -1,5 +1,6 @@
 var NAVTREEINDEX40 =
 {
+"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#aa807b0fa5751723fed80570a4de1231b":[2,0,0,5,24,42],
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#aa807b0fa5751723fed80570a4de1231b":[3,0,1,12,25,42],
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#aabd7c38d2f74e537da5bcc6149570fd8":[2,0,0,5,24,17],
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#aabd7c38d2f74e537da5bcc6149570fd8":[3,0,1,12,25,17],
@@ -213,12 +214,12 @@ var NAVTREEINDEX40 =
 "d2/dcd/_protection_enchantment_8php_source.html":[4,0,0,10,0,12],
 "d2/dcd/_reverse_priority_queue_8php_source.html":[4,0,0,23,19],
 "d2/dcd/_thread_safe_class_loader_8php_source.html":[4,0,0,20,9],
-"d2/dce/_sub_chunk_packet_entry_with_cache_list_8php_source.html":[4,0,1,0,1,0,1,81],
+"d2/dce/_sub_chunk_packet_entry_with_cache_list_8php_source.html":[4,0,1,0,1,0,1,82],
 "d2/dcf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_data_upgrader.html":[3,0,1,6,0,0,1,1],
 "d2/dcf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_data_upgrader.html#a2d7985ad8a72c01aed0cd5cb4378c302":[3,0,1,6,0,0,1,1,2],
 "d2/dcf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_data_upgrader.html#ad7886c880db0cb62ba8577c1fd7b2c74":[3,0,1,6,0,0,1,1,1],
 "d2/dcf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_data_upgrader.html#aed0d7e0f2862504c322a5dc3137164f5":[3,0,1,6,0,0,1,1,0],
-"d2/dcf/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_sub_chunk_position_offset.html":[3,0,1,16,0,6,1,77],
+"d2/dcf/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_sub_chunk_position_offset.html":[3,0,1,16,0,6,1,78],
 "d2/dd0/classpocketmine_1_1world_1_1generator_1_1noise_1_1_noise.html":[2,0,0,14,0,0,0],
 "d2/dd0/classpocketmine_1_1world_1_1generator_1_1noise_1_1_noise.html":[3,0,1,30,2,3,0],
 "d2/dd0/classpocketmine_1_1world_1_1generator_1_1noise_1_1_noise.html#a1e792c08e3c5071d7de1e9ba346e2575":[2,0,0,14,0,0,0,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX40 =
 "d2/dd1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_add_actor_packet.html#a9bc03d23390132126c36b5653d46fee1":[3,0,1,16,0,6,4,5],
 "d2/dd1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_add_actor_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,4,0],
 "d2/dd1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_add_actor_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,4,3],
-"d2/dd1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_add_actor_packet.html#aa5568332c3a7ce18e7ea3ce2b6105308":[3,0,1,16,0,6,4,2],
-"d2/dd1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_add_actor_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,4,1]
+"d2/dd1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_add_actor_packet.html#aa5568332c3a7ce18e7ea3ce2b6105308":[3,0,1,16,0,6,4,2]
 };

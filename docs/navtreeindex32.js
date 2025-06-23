@@ -207,6 +207,7 @@ var NAVTREEINDEX32 =
 "d2/d33/classpocketmine_1_1block_1_1_soul_sand.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,205,27],
 "d2/d33/classpocketmine_1_1data_1_1bedrock_1_1_legacy_biome_id_to_string_id_map.html":[3,0,1,6,0,14],
 "d2/d33/classpocketmine_1_1data_1_1bedrock_1_1_legacy_biome_id_to_string_id_map.html#a0746412c1d07cca3582238dfd610aa28":[3,0,1,6,0,14,0],
+"d2/d38/_authentication_info_8php_source.html":[4,0,1,0,1,0,1,6,1],
 "d2/d3a/_soul_fire_8php_source.html":[4,0,0,0,204],
 "d2/d3b/_inventory_8php_source.html":[4,0,0,9,10],
 "d2/d3b/classpocketmine_1_1entity_1_1effect_1_1_saturation_effect.html":[3,0,1,7,1,13],
@@ -219,7 +220,7 @@ var NAVTREEINDEX32 =
 "d2/d3b/classpocketmine_1_1entity_1_1effect_1_1_saturation_effect.html#a74f86736bfc7a4996dec76a943da07c1":[3,0,1,7,1,13,2],
 "d2/d3b/classpocketmine_1_1entity_1_1effect_1_1_saturation_effect.html#a7b2e804f2bd6d6f11acae88699ccec85":[3,0,1,7,1,13,4],
 "d2/d3b/classpocketmine_1_1entity_1_1effect_1_1_saturation_effect.html#ae4622599c73e72cb6a898e4fdf34d978":[3,0,1,7,1,13,8],
-"d2/d3b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_sub_chunk_packet_entry_with_cache.html":[3,0,1,16,0,6,1,70],
+"d2/d3b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_sub_chunk_packet_entry_with_cache.html":[3,0,1,16,0,6,1,71],
 "d2/d3c/classpocketmine_1_1entity_1_1_entity.html":[2,0,0,2,5],
 "d2/d3c/classpocketmine_1_1entity_1_1_entity.html":[3,0,1,7,10],
 "d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a020854e1ad1eb9bbc132710b1c09537d":[2,0,0,2,5,19],
@@ -248,6 +249,5 @@ var NAVTREEINDEX32 =
 "d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a25ad669890dc24d70b8cdad878cd6449":[3,0,1,7,10,34],
 "d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a265cb93031a89ccc4a4236b3702c690b":[2,0,0,2,5,27],
 "d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a265cb93031a89ccc4a4236b3702c690b":[3,0,1,7,10,27],
-"d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a2bd1fab41c3720c1ec9f75997958c223":[2,0,0,2,5,36],
-"d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a2bd1fab41c3720c1ec9f75997958c223":[3,0,1,7,10,36]
+"d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a2bd1fab41c3720c1ec9f75997958c223":[2,0,0,2,5,36]
 };

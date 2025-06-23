@@ -1,5 +1,7 @@
 var NAVTREEINDEX148 =
 {
+"d9/d97/classpocketmine_1_1item_1_1_clock.html#a67b44433c553602d7c851b1ca23e6e5e":[3,0,1,12,22,40],
+"d9/d97/classpocketmine_1_1item_1_1_clock.html#a71289362f9d561347b5c8c2717eb0512":[2,0,0,5,21,38],
 "d9/d97/classpocketmine_1_1item_1_1_clock.html#a71289362f9d561347b5c8c2717eb0512":[3,0,1,12,22,38],
 "d9/d97/classpocketmine_1_1item_1_1_clock.html#a7b5c1e7e496c3077658212aaacec4b56":[2,0,0,5,21,15],
 "d9/d97/classpocketmine_1_1item_1_1_clock.html#a7b5c1e7e496c3077658212aaacec4b56":[3,0,1,12,22,15],
@@ -129,7 +131,7 @@ var NAVTREEINDEX148 =
 "d9/dac/classpocketmine_1_1entity_1_1projectile_1_1_arrow.html#af005466cb161158c9e7af41bd4be8241":[3,0,1,7,3,0,16],
 "d9/dac/classpocketmine_1_1entity_1_1projectile_1_1_arrow.html#af9c9f94d4c46643cbdaeb7d06d3e44b1":[3,0,1,7,3,0,8],
 "d9/dac/classpocketmine_1_1entity_1_1projectile_1_1_arrow.html#afdd4efc12fe21730ceb104af111f576d":[3,0,1,7,3,0,22],
-"d9/dac/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_sub_chunk_request_result.html":[3,0,1,16,0,6,1,78],
+"d9/dac/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_sub_chunk_request_result.html":[3,0,1,16,0,6,1,79],
 "d9/dad/_enchanting_transaction_8php_source.html":[4,0,0,9,1,2],
 "d9/dae/_prefixed_logger_8php_source.html":[4,0,1,0,6,0,5],
 "d9/dae/classpocketmine_1_1scheduler_1_1_garbage_collection_task.html":[2,0,0,11,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX148 =
 "d9/db1/classpocketmine_1_1item_1_1_medicine.html#ac7e878537e8ea68cc0d4d565f9f25062":[2,0,0,5,67,44],
 "d9/db1/classpocketmine_1_1item_1_1_medicine.html#ac7e878537e8ea68cc0d4d565f9f25062":[3,0,1,12,68,44],
 "d9/db1/classpocketmine_1_1item_1_1_medicine.html#ad2d004e5063f6ca465ed956b024217b1":[2,0,0,5,67,28],
-"d9/db1/classpocketmine_1_1item_1_1_medicine.html#ad2d004e5063f6ca465ed956b024217b1":[3,0,1,12,68,28],
-"d9/db1/classpocketmine_1_1item_1_1_medicine.html#adab785f2a50709e3b4e0a2736af30873":[2,0,0,5,67,26],
-"d9/db1/classpocketmine_1_1item_1_1_medicine.html#adab785f2a50709e3b4e0a2736af30873":[3,0,1,12,68,26]
+"d9/db1/classpocketmine_1_1item_1_1_medicine.html#ad2d004e5063f6ca465ed956b024217b1":[3,0,1,12,68,28]
 };

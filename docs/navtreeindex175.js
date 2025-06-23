@@ -1,5 +1,8 @@
 var NAVTREEINDEX175 =
 {
+"db/dff/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_size_calculator.html#aa228f637b34b37d65b38950f3787ba10":[3,0,1,6,2,3,4],
+"db/dff/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_size_calculator.html#ad384b1f5b74c2eaae404226ed4e2176a":[3,0,1,6,2,3,1],
+"dc/d01/_color_data_8php_source.html":[4,0,0,25,0,0,1],
 "dc/d01/_update_attribute_8php_source.html":[4,0,1,0,1,0,1,3,22],
 "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html":[3,0,1,7,3,5],
 "dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#a020854e1ad1eb9bbc132710b1c09537d":[3,0,1,7,3,5,21],
@@ -206,7 +209,7 @@ var NAVTREEINDEX175 =
 "dc/d05/classpocketmine_1_1block_1_1_cauldron.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,47,27],
 "dc/d05/classpocketmine_1_1block_1_1_cauldron.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,49,27],
 "dc/d06/_packet_sender_8php_source.html":[4,0,0,12,0,20],
-"dc/d06/_sub_chunk_packet_height_map_type_8php_source.html":[4,0,1,0,1,0,1,85],
+"dc/d06/_sub_chunk_packet_height_map_type_8php_source.html":[4,0,1,0,1,0,1,86],
 "dc/d06/classpocketmine_1_1event_1_1entity_1_1_entity_despawn_event.html":[2,0,0,3,1,9],
 "dc/d06/classpocketmine_1_1event_1_1entity_1_1_entity_despawn_event.html":[3,0,1,9,1,9],
 "dc/d06/classpocketmine_1_1event_1_1entity_1_1_entity_despawn_event.html#a2333d7f055234d7fefc00066158bd888":[2,0,0,3,1,9,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX175 =
 "dc/d0b/classpocketmine_1_1block_1_1tile_1_1_spawnable.html#a9a0a80ed9de93d8793c30f0d2486d701":[2,0,0,0,0,31,3],
 "dc/d0b/classpocketmine_1_1block_1_1tile_1_1_spawnable.html#a9a0a80ed9de93d8793c30f0d2486d701":[3,0,1,0,1,31,3],
 "dc/d0c/classpocketmine_1_1block_1_1_stem.html":[2,0,0,0,212],
-"dc/d0c/classpocketmine_1_1block_1_1_stem.html":[3,0,1,0,214],
-"dc/d0c/classpocketmine_1_1block_1_1_stem.html#a00b17b6ab2ea033f777b0819343c5498":[2,0,0,0,212,64],
-"dc/d0c/classpocketmine_1_1block_1_1_stem.html#a00b17b6ab2ea033f777b0819343c5498":[3,0,1,0,214,64],
-"dc/d0c/classpocketmine_1_1block_1_1_stem.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,212,58]
+"dc/d0c/classpocketmine_1_1block_1_1_stem.html":[3,0,1,0,214]
 };

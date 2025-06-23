@@ -1,6 +1,5 @@
 var NAVTREEINDEX106 =
 {
-"d7/d26/classpocketmine_1_1block_1_1_stained_glass.html#a771a30c30a36b0992f54c57dc63af10d":[2,0,0,0,206,40],
 "d7/d26/classpocketmine_1_1block_1_1_stained_glass.html#a771a30c30a36b0992f54c57dc63af10d":[3,0,1,0,208,40],
 "d7/d26/classpocketmine_1_1block_1_1_stained_glass.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[2,0,0,0,206,28],
 "d7/d26/classpocketmine_1_1block_1_1_stained_glass.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,208,28],
@@ -212,7 +211,7 @@ var NAVTREEINDEX106 =
 "d7/d27/classpocketmine_1_1block_1_1_block.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,24,17],
 "d7/d27/classpocketmine_1_1block_1_1_block.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,22,28],
 "d7/d27/classpocketmine_1_1block_1_1_block.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,24,28],
-"d7/d28/_spawn_settings_8php_source.html":[4,0,1,0,1,0,1,76],
+"d7/d28/_spawn_settings_8php_source.html":[4,0,1,0,1,0,1,77],
 "d7/d29/_squid_ink_cloud_animation_8php_source.html":[4,0,0,6,0,9],
 "d7/d29/classpocketmine_1_1world_1_1sound_1_1_chest_open_sound.html":[3,0,1,30,5,40],
 "d7/d29/classpocketmine_1_1world_1_1sound_1_1_chest_open_sound.html#a53b196c91a82b94c9a7f7a6a447224ba":[3,0,1,30,5,40,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX106 =
 "d7/d31/classpocketmine_1_1block_1_1_air.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,2,47],
 "d7/d31/classpocketmine_1_1block_1_1_air.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,4,47],
 "d7/d31/classpocketmine_1_1block_1_1_air.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,2,3],
-"d7/d31/classpocketmine_1_1block_1_1_air.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,4,3]
+"d7/d31/classpocketmine_1_1block_1_1_air.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,4,3],
+"d7/d31/classpocketmine_1_1block_1_1_air.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,2,22]
 };

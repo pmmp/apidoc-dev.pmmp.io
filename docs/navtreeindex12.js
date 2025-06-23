@@ -168,7 +168,7 @@ var NAVTREEINDEX12 =
 "d0/ded/_version_info_8php_source.html":[4,0,0,36],
 "d0/dee/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1recipe_1_1_int_id_meta_item_descriptor.html":[3,0,1,16,0,6,1,6,4],
 "d0/df0/classpocketmine_1_1thread_1_1_thread_exception.html":[3,0,1,25,6],
-"d0/df2/_sub_chunk_request_result_8php_source.html":[4,0,1,0,1,0,1,88],
+"d0/df2/_sub_chunk_request_result_8php_source.html":[4,0,1,0,1,0,1,89],
 "d0/df2/classpocketmine_1_1event_1_1block_1_1_brew_item_event.html":[2,0,0,3,0,16],
 "d0/df2/classpocketmine_1_1event_1_1block_1_1_brew_item_event.html":[3,0,1,9,0,16],
 "d0/df2/classpocketmine_1_1event_1_1block_1_1_brew_item_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,0,16,0],

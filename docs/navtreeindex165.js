@@ -1,5 +1,8 @@
 var NAVTREEINDEX165 =
 {
+"db/d05/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_builder_inventory.html#a7032110ecf181d3fbbc863c5f45270b0":[3,0,1,11,1,5,19],
+"db/d05/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_builder_inventory.html#a7296a52c88addd5eefe215276200b6e3":[3,0,1,11,1,5,27],
+"db/d05/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_builder_inventory.html#a782f68d96eb96e27264ee54ed49184c7":[3,0,1,11,1,5,12],
 "db/d05/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_builder_inventory.html#a816548c8e0db980edebec9903c9812a6":[3,0,1,11,1,5,20],
 "db/d05/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_builder_inventory.html#a83250db989d4fc9aa1fd598dce6255e6":[3,0,1,11,1,5,16],
 "db/d05/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_builder_inventory.html#a859793c26ba95c1963747b3c08be98bc":[3,0,1,11,1,5,17],
@@ -246,8 +249,5 @@ var NAVTREEINDEX165 =
 "db/d25/classpocketmine_1_1math_1_1_axis.html#a34f82c5fe724a9e7694561f43ba30f8c":[3,0,1,14,0,0],
 "db/d28/entity_2projectile_2_ender_pearl_8php_source.html":[4,0,0,6,3,2],
 "db/d2a/classpocketmine_1_1permission_1_1_ban_list.html":[2,0,0,9,1],
-"db/d2a/classpocketmine_1_1permission_1_1_ban_list.html":[3,0,1,17,1],
-"db/d2a/classpocketmine_1_1permission_1_1_ban_list.html#ab80ee39ab44e66672ee74993338e28c6":[2,0,0,9,1,0],
-"db/d2a/classpocketmine_1_1permission_1_1_ban_list.html#ab80ee39ab44e66672ee74993338e28c6":[3,0,1,17,1,0],
-"db/d2d/interfaceraklib_1_1server_1_1_protocol_acceptor.html":[3,0,2,3,1]
+"db/d2a/classpocketmine_1_1permission_1_1_ban_list.html":[3,0,1,17,1]
 };

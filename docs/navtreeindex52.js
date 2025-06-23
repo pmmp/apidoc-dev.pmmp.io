@@ -80,7 +80,7 @@ var NAVTREEINDEX52 =
 "d3/db1/classpocketmine_1_1resourcepacks_1_1json_1_1_manifest_metadata.html":[3,0,1,21,0,3],
 "d3/db2/_experience_utils_8php_source.html":[4,0,0,6,4,0],
 "d3/db4/_crafting_manager_from_data_helper_8php_source.html":[4,0,0,3,4],
-"d3/db4/_play_mode_8php_source.html":[4,0,1,0,1,0,1,71],
+"d3/db4/_play_mode_8php_source.html":[4,0,1,0,1,0,1,72],
 "d3/db4/_settings_command_packet_8php_source.html":[4,0,1,0,1,0,182],
 "d3/db8/_froglight_8php_source.html":[4,0,0,0,108],
 "d3/db8/_furnace_recipe_manager_8php_source.html":[4,0,0,3,8],

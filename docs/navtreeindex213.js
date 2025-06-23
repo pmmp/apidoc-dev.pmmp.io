@@ -1,6 +1,5 @@
 var NAVTREEINDEX213 =
 {
-"de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,154,56],
 "de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a8a733c2fe564a205938a9146c8b0e0f1":[2,0,0,0,152,63],
 "de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a8a733c2fe564a205938a9146c8b0e0f1":[3,0,1,0,154,63],
 "de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,152,11],
@@ -249,5 +248,6 @@ var NAVTREEINDEX213 =
 "de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#a073ebb2808ad8071dfcfe4766aab86ea":[3,0,1,9,1,5,0],
 "de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#a07cd6d5e3b26834336b2637115f351ed":[2,0,0,3,1,5,2],
 "de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#a07cd6d5e3b26834336b2637115f351ed":[3,0,1,9,1,5,2],
-"de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#a1101a9056f8403897cc065084fb0b51e":[2,0,0,3,1,5,11]
+"de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#a1101a9056f8403897cc065084fb0b51e":[2,0,0,3,1,5,11],
+"de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#a1101a9056f8403897cc065084fb0b51e":[3,0,1,9,1,5,11]
 };

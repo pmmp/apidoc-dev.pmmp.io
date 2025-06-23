@@ -38,6 +38,7 @@ var hierarchy =
     [ "pocketmine\\network\\mcpe\\protocol\\types\\entity\\AttributeModifierOperation", "d3/da7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_attribute_modifier_operation.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\entity\\AttributeModifierTargetOperand", "d8/d39/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_attribute_modifier_target_operand.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\login\\AuthenticationData", "d4/d5e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_authentication_data.html", null ],
+    [ "pocketmine\\network\\mcpe\\protocol\\types\\login\\AuthenticationInfo", "dd/de3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_authentication_info.html", null ],
     [ "pocketmine\\item\\enchantment\\AvailableEnchantmentRegistry", "db/d9d/classpocketmine_1_1item_1_1enchantment_1_1_available_enchantment_registry.html", null ],
     [ "pocketmine\\math\\Axis", "db/d25/classpocketmine_1_1math_1_1_axis.html", null ],
     [ "pocketmine\\math\\AxisAlignedBB", "dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html", null ],
@@ -1573,6 +1574,7 @@ var hierarchy =
         [ "pocketmine\\network\\mcpe\\protocol\\RespawnPacket", "da/d3e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_respawn_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\ScriptMessagePacket", "d5/d10/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_script_message_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\ServerPlayerPostMovePositionPacket", "d7/d18/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_server_player_post_move_position_packet.html", null ],
+        [ "pocketmine\\network\\mcpe\\protocol\\ServerScriptDebugDrawerPacket", "de/daf/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_server_script_debug_drawer_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\ServerSettingsResponsePacket", "d0/d6e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_server_settings_response_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\ServerStatsPacket", "d3/ddd/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_server_stats_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\ServerToClientHandshakePacket", "d9/d04/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_server_to_client_handshake_packet.html", null ],
@@ -1586,7 +1588,6 @@ var hierarchy =
         [ "pocketmine\\network\\mcpe\\protocol\\SetHealthPacket", "d3/df7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_health_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\SetHudPacket", "dc/da0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_hud_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\SetLastHurtByPacket", "d4/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_last_hurt_by_packet.html", null ],
-        [ "pocketmine\\network\\mcpe\\protocol\\SetMovementAuthorityPacket", "de/d38/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_movement_authority_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\SetPlayerGameTypePacket", "d5/da1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_player_game_type_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\SetPlayerInventoryOptionsPacket", "d8/d7b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_player_inventory_options_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\SetScorePacket", "d5/dc6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_score_packet.html", null ],
@@ -1772,6 +1773,7 @@ var hierarchy =
         [ "pocketmine\\network\\mcpe\\protocol\\RespawnPacket", "da/d3e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_respawn_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\ScriptMessagePacket", "d5/d10/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_script_message_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\ServerPlayerPostMovePositionPacket", "d7/d18/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_server_player_post_move_position_packet.html", null ],
+        [ "pocketmine\\network\\mcpe\\protocol\\ServerScriptDebugDrawerPacket", "de/daf/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_server_script_debug_drawer_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\ServerSettingsRequestPacket", "d8/da3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_server_settings_request_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\ServerSettingsResponsePacket", "d0/d6e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_server_settings_response_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\ServerStatsPacket", "d3/ddd/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_server_stats_packet.html", null ],
@@ -1789,7 +1791,6 @@ var hierarchy =
         [ "pocketmine\\network\\mcpe\\protocol\\SetHudPacket", "dc/da0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_hud_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\SetLastHurtByPacket", "d4/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_last_hurt_by_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\SetLocalPlayerAsInitializedPacket", "d5/d0c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_local_player_as_initialized_packet.html", null ],
-        [ "pocketmine\\network\\mcpe\\protocol\\SetMovementAuthorityPacket", "de/d38/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_movement_authority_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\SetPlayerGameTypePacket", "d5/da1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_player_game_type_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\SetPlayerInventoryOptionsPacket", "d8/d7b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_player_inventory_options_packet.html", null ],
         [ "pocketmine\\network\\mcpe\\protocol\\SetScorePacket", "d5/dc6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_score_packet.html", null ],
@@ -1964,6 +1965,7 @@ var hierarchy =
     [ "pocketmine\\network\\mcpe\\PacketSender", "d4/d6a/interfacepocketmine_1_1network_1_1mcpe_1_1_packet_sender.html", [
       [ "pocketmine\\network\\mcpe\\raklib\\RakLibPacketSender", "dc/d49/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_packet_sender.html", null ]
     ] ],
+    [ "pocketmine\\network\\mcpe\\protocol\\types\\PacketShapeData", "df/d54/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_packet_shape_data.html", null ],
     [ "pocketmine\\entity\\object\\PaintingMotive", "de/d26/classpocketmine_1_1entity_1_1object_1_1_painting_motive.html", null ],
     [ "pocketmine\\world\\particle\\Particle", "d1/dac/interfacepocketmine_1_1world_1_1particle_1_1_particle.html", [
       [ "pocketmine\\world\\particle\\AngryVillagerParticle", "d9/dc1/classpocketmine_1_1world_1_1particle_1_1_angry_villager_particle.html", null ],

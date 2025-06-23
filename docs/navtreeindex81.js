@@ -1,6 +1,5 @@
 var NAVTREEINDEX81 =
 {
-"d5/dad/classpocketmine_1_1item_1_1_pumpkin_seeds.html#a3bc65b2324649d8735dadf9bf8cf0705":[3,0,1,12,84,44],
 "d5/dad/classpocketmine_1_1item_1_1_pumpkin_seeds.html#a49a05b01faaaf071449c97060fe44926":[2,0,0,5,83,0],
 "d5/dad/classpocketmine_1_1item_1_1_pumpkin_seeds.html#a49a05b01faaaf071449c97060fe44926":[3,0,1,12,84,0],
 "d5/dad/classpocketmine_1_1item_1_1_pumpkin_seeds.html#a4a9aa55600bb30c4d55ad63337874a07":[2,0,0,5,83,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX81 =
 "d5/db9/classpocketmine_1_1inventory_1_1_player_crafting_inventory.html#aa2045dd45c5d85624fd00afe01b7b11e":[3,0,1,11,12,15],
 "d5/db9/classpocketmine_1_1inventory_1_1_player_crafting_inventory.html#aa2d57d9cb0e9cbb043329c99539706ef":[2,0,0,4,10,5],
 "d5/db9/classpocketmine_1_1inventory_1_1_player_crafting_inventory.html#aa2d57d9cb0e9cbb043329c99539706ef":[3,0,1,11,12,5],
-"d5/db9/classpocketmine_1_1inventory_1_1_player_crafting_inventory.html#aa5d3e9ecb42223e9dc728316a7a3c206":[2,0,0,4,10,21]
+"d5/db9/classpocketmine_1_1inventory_1_1_player_crafting_inventory.html#aa5d3e9ecb42223e9dc728316a7a3c206":[2,0,0,4,10,21],
+"d5/db9/classpocketmine_1_1inventory_1_1_player_crafting_inventory.html#aa5d3e9ecb42223e9dc728316a7a3c206":[3,0,1,11,12,21]
 };

@@ -76,7 +76,7 @@ var NAVTREEINDEX28 =
 "d1/def/classpocketmine_1_1world_1_1format_1_1io_1_1data_1_1_base_nbt_world_data.html#aec29a66e36e8f6c91acca5a2e95116c9":[3,0,1,30,1,0,0,0,14],
 "d1/def/classpocketmine_1_1world_1_1format_1_1io_1_1data_1_1_base_nbt_world_data.html#aee7c1b06f1e1df5ebab732dddd81af68":[3,0,1,30,1,0,0,0,3],
 "d1/def/classpocketmine_1_1world_1_1format_1_1io_1_1data_1_1_base_nbt_world_data.html#aef9fe06abb9cd576febadee23fa7bc3a":[3,0,1,30,1,0,0,0,15],
-"d1/df0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_player_movement_settings.html":[3,0,1,16,0,6,1,61],
+"d1/df0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_player_movement_settings.html":[3,0,1,16,0,6,1,62],
 "d1/df2/_bow_8php_source.html":[4,0,0,10,17],
 "d1/df3/_block_type_info_8php_source.html":[4,0,0,0,29],
 "d1/df4/_beacon_payment_stack_request_action_8php_source.html":[4,0,1,0,1,0,1,5,0,0],

@@ -1,5 +1,14 @@
 var NAVTREEINDEX223 =
 {
+"df/d0c/classpocketmine_1_1entity_1_1_living.html#a5e1cfa8b2d94b3a2d4d327fc8e47041b":[2,0,0,2,15,14],
+"df/d0c/classpocketmine_1_1entity_1_1_living.html#a5e1cfa8b2d94b3a2d4d327fc8e47041b":[3,0,1,7,20,14],
+"df/d0c/classpocketmine_1_1entity_1_1_living.html#a611283432404a91c42a84307659e471f":[2,0,0,2,15,51],
+"df/d0c/classpocketmine_1_1entity_1_1_living.html#a611283432404a91c42a84307659e471f":[3,0,1,7,20,51],
+"df/d0c/classpocketmine_1_1entity_1_1_living.html#a640ba4e1b113e3f857306a3d6d12f4d9":[2,0,0,2,15,67],
+"df/d0c/classpocketmine_1_1entity_1_1_living.html#a640ba4e1b113e3f857306a3d6d12f4d9":[3,0,1,7,20,67],
+"df/d0c/classpocketmine_1_1entity_1_1_living.html#a654116dd48f7df842204bdc9958b44c2":[2,0,0,2,15,4],
+"df/d0c/classpocketmine_1_1entity_1_1_living.html#a654116dd48f7df842204bdc9958b44c2":[3,0,1,7,20,4],
+"df/d0c/classpocketmine_1_1entity_1_1_living.html#a6ccbbde23a4ce48ec0820bc8527050db":[2,0,0,2,15,33],
 "df/d0c/classpocketmine_1_1entity_1_1_living.html#a6ccbbde23a4ce48ec0820bc8527050db":[3,0,1,7,20,33],
 "df/d0c/classpocketmine_1_1entity_1_1_living.html#a6cffe11212563e8784ead553fa08bf23":[2,0,0,2,15,53],
 "df/d0c/classpocketmine_1_1entity_1_1_living.html#a6cffe11212563e8784ead553fa08bf23":[3,0,1,7,20,53],
@@ -148,7 +157,7 @@ var NAVTREEINDEX223 =
 "df/d15/namespacepocketmine_1_1world.html":[2,0,0,14],
 "df/d16/_level_d_b_8php_source.html":[4,0,0,25,1,0,2,2],
 "df/d17/_ice_bomb_hit_sound_8php_source.html":[4,0,0,25,5,69],
-"df/d17/_player_action_8php_source.html":[4,0,1,0,1,0,1,62],
+"df/d17/_player_action_8php_source.html":[4,0,1,0,1,0,1,63],
 "df/d17/_session_8php_source.html":[4,0,1,0,9,0,1,5],
 "df/d18/_door_bump_sound_8php_source.html":[4,0,0,25,5,46],
 "df/d18/classpocketmine_1_1scheduler_1_1_bulk_curl_task.html":[2,0,0,11,4],
@@ -240,14 +249,5 @@ var NAVTREEINDEX223 =
 "df/d1c/classpocketmine_1_1block_1_1_cake.html#a588080e805e50e4f97e1a3d256b8c11e":[2,0,0,0,38,14],
 "df/d1c/classpocketmine_1_1block_1_1_cake.html#a588080e805e50e4f97e1a3d256b8c11e":[3,0,1,0,40,14],
 "df/d1c/classpocketmine_1_1block_1_1_cake.html#a6201b0d5460ae6f3b5cee03197c9a94a":[2,0,0,0,38,40],
-"df/d1c/classpocketmine_1_1block_1_1_cake.html#a6201b0d5460ae6f3b5cee03197c9a94a":[3,0,1,0,40,40],
-"df/d1c/classpocketmine_1_1block_1_1_cake.html#a6d937579e316caf0a9f92c20753a66cb":[2,0,0,0,38,51],
-"df/d1c/classpocketmine_1_1block_1_1_cake.html#a6d937579e316caf0a9f92c20753a66cb":[3,0,1,0,40,51],
-"df/d1c/classpocketmine_1_1block_1_1_cake.html#a6f13ff76dad934b1b2e078a5b57dd7a5":[2,0,0,0,38,36],
-"df/d1c/classpocketmine_1_1block_1_1_cake.html#a6f13ff76dad934b1b2e078a5b57dd7a5":[3,0,1,0,40,36],
-"df/d1c/classpocketmine_1_1block_1_1_cake.html#a75b16ca6e22355cf632466a969e79211":[2,0,0,0,38,42],
-"df/d1c/classpocketmine_1_1block_1_1_cake.html#a75b16ca6e22355cf632466a969e79211":[3,0,1,0,40,42],
-"df/d1c/classpocketmine_1_1block_1_1_cake.html#a771a30c30a36b0992f54c57dc63af10d":[2,0,0,0,38,41],
-"df/d1c/classpocketmine_1_1block_1_1_cake.html#a771a30c30a36b0992f54c57dc63af10d":[3,0,1,0,40,41],
-"df/d1c/classpocketmine_1_1block_1_1_cake.html#a8307fc850da5c3f36e9dfc7ce639fe55":[2,0,0,0,38,46]
+"df/d1c/classpocketmine_1_1block_1_1_cake.html#a6201b0d5460ae6f3b5cee03197c9a94a":[3,0,1,0,40,40]
 };

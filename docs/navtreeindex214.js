@@ -1,6 +1,5 @@
 var NAVTREEINDEX214 =
 {
-"de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#a1101a9056f8403897cc065084fb0b51e":[3,0,1,9,1,5,11],
 "de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#a2333d7f055234d7fefc00066158bd888":[2,0,0,3,1,5,19],
 "de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#a2333d7f055234d7fefc00066158bd888":[3,0,1,9,1,5,19],
 "de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,1,5,1],
@@ -35,7 +34,7 @@ var NAVTREEINDEX214 =
 "de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#ae3b78818e0a9bda492f2017c22afaa0b":[3,0,1,9,1,5,8],
 "de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#af80ab3af401d712ab1b4d9e9493bce58":[2,0,0,3,1,5,3],
 "de/d62/classpocketmine_1_1event_1_1entity_1_1_entity_damage_by_child_entity_event.html#af80ab3af401d712ab1b4d9e9493bce58":[3,0,1,9,1,5,3],
-"de/d62/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_player_action.html":[3,0,1,16,0,6,1,55],
+"de/d62/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_player_action.html":[3,0,1,16,0,6,1,56],
 "de/d64/_player_video_capture_packet_8php_source.html":[4,0,1,0,1,0,133],
 "de/d65/_entity_regain_health_event_8php_source.html":[4,0,0,7,1,21],
 "de/d67/classpocketmine_1_1nbt_1_1tag_1_1_compound_tag.html":[3,0,1,15,0,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX214 =
 "de/d6f/classpocketmine_1_1item_1_1_pickaxe.html#a1df151eb419168f838e6d927c50f9210":[3,0,1,12,76,5],
 "de/d6f/classpocketmine_1_1item_1_1_pickaxe.html#a23c827b82179f8a57b786a6fa38d08e8":[2,0,0,5,75,20],
 "de/d6f/classpocketmine_1_1item_1_1_pickaxe.html#a23c827b82179f8a57b786a6fa38d08e8":[3,0,1,12,76,20],
-"de/d6f/classpocketmine_1_1item_1_1_pickaxe.html#a27ef1db0d41125973529fb720b06a00d":[2,0,0,5,75,36]
+"de/d6f/classpocketmine_1_1item_1_1_pickaxe.html#a27ef1db0d41125973529fb720b06a00d":[2,0,0,5,75,36],
+"de/d6f/classpocketmine_1_1item_1_1_pickaxe.html#a27ef1db0d41125973529fb720b06a00d":[3,0,1,12,76,36]
 };

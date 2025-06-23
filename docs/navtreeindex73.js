@@ -57,7 +57,6 @@ var NAVTREEINDEX73 =
 "d5/d20/classpocketmine_1_1block_1_1_glowstone.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,115,27],
 "d5/d20/classpocketmine_1_1block_1_1_glowstone.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,117,27],
 "d5/d23/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_packet_handler.html":[3,0,1,16,0,5,8],
-"d5/d28/_server_auth_movement_mode_8php_source.html":[4,0,1,0,1,0,1,74],
 "d5/d28/vendor_2pocketmine_2bedrock-protocol_2src_2types_2recipe_2_recipe_ingredient_8php_source.html":[4,0,1,0,1,0,1,7,13],
 "d5/d29/_cake_with_candle_8php_source.html":[4,0,0,0,41],
 "d5/d2e/classpocketmine_1_1entity_1_1animation_1_1_death_animation.html":[3,0,1,7,0,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX73 =
 "d5/d3c/classpocketmine_1_1command_1_1defaults_1_1_say_command.html#acb9bba5ecf3d9fd4a997d306ed68c127":[3,0,1,2,0,26,0],
 "d5/d3c/classpocketmine_1_1command_1_1defaults_1_1_say_command.html#acbccfc9431699f8cefb66e359419e1df":[3,0,1,2,0,26,1],
 "d5/d3d/classpocketmine_1_1world_1_1sound_1_1_xp_level_up_sound.html":[3,0,1,30,5,103],
-"d5/d3d/classpocketmine_1_1world_1_1sound_1_1_xp_level_up_sound.html#a14f7ab6616d80576462330de04b36d2a":[3,0,1,30,5,103,0]
+"d5/d3d/classpocketmine_1_1world_1_1sound_1_1_xp_level_up_sound.html#a14f7ab6616d80576462330de04b36d2a":[3,0,1,30,5,103,0],
+"d5/d3f/_wall_banner_8php_source.html":[4,0,0,0,237]
 };

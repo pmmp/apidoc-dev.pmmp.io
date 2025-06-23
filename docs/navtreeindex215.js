@@ -1,6 +1,5 @@
 var NAVTREEINDEX215 =
 {
-"de/d6f/classpocketmine_1_1item_1_1_pickaxe.html#a27ef1db0d41125973529fb720b06a00d":[3,0,1,12,76,36],
 "de/d6f/classpocketmine_1_1item_1_1_pickaxe.html#a2b35e6f346e5955b086fcc07ead985a7":[2,0,0,5,75,26],
 "de/d6f/classpocketmine_1_1item_1_1_pickaxe.html#a2b35e6f346e5955b086fcc07ead985a7":[3,0,1,12,76,26],
 "de/d6f/classpocketmine_1_1item_1_1_pickaxe.html#a2bcaa528592d9ae259e2e6d0b89f375d":[2,0,0,5,75,22],
@@ -249,5 +248,6 @@ var NAVTREEINDEX215 =
 "de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#a3f7f216b87cf31a3209f87f7ac631bf3":[3,0,1,0,172,15],
 "de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,170,48],
 "de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#a43e3458847422ebd5dec6c914b443c93":[3,0,1,0,172,48],
-"de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#a444028c60ad6c7afacda1a6cc3065e59":[2,0,0,0,170,14]
+"de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#a444028c60ad6c7afacda1a6cc3065e59":[2,0,0,0,170,14],
+"de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#a444028c60ad6c7afacda1a6cc3065e59":[3,0,1,0,172,14]
 };

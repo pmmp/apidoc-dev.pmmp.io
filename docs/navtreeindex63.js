@@ -88,7 +88,7 @@ var NAVTREEINDEX63 =
 "d4/d99/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_aim_assist_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,25,3],
 "d4/d99/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_aim_assist_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,25,1],
 "d4/d99/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_aim_assist_packet.html#aeb94484227d243ad5fdc6da6449d8d0e":[3,0,1,16,0,6,25,5],
-"d4/d9a/_set_hud_packet_8php_source.html":[4,0,1,0,1,0,172],
+"d4/d9a/_set_hud_packet_8php_source.html":[4,0,1,0,1,0,173],
 "d4/d9b/classpocketmine_1_1data_1_1bedrock_1_1_legacy_entity_id_to_string_id_map.html":[3,0,1,6,0,15],
 "d4/d9b/classpocketmine_1_1data_1_1bedrock_1_1_legacy_entity_id_to_string_id_map.html#a0746412c1d07cca3582238dfd610aa28":[3,0,1,6,0,15,0],
 "d4/d9b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_education_uri_resource.html":[3,0,1,16,0,6,1,30],

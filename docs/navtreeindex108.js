@@ -1,6 +1,5 @@
 var NAVTREEINDEX108 =
 {
-"d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#ae2543fd294d689ca6850d5bc78710522":[3,0,1,12,120,40],
 "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#aec8070c04112770e0d01a3c56b252e81":[2,0,0,5,119,51],
 "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#aec8070c04112770e0d01a3c56b252e81":[3,0,1,12,120,51],
 "d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#af737301b899b7a7c9e9b0bb9a234a119":[2,0,0,5,119,9],
@@ -40,7 +39,7 @@ var NAVTREEINDEX108 =
 "d7/d41/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_sub_chunk_blocks_packet.html#aaf3a45ee9158c49871323f8f51f43352":[3,0,1,16,0,6,216,2],
 "d7/d41/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_sub_chunk_blocks_packet.html#ab8638a31a009bccd7e617e4cc742fc8b":[3,0,1,16,0,6,216,9],
 "d7/d41/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_sub_chunk_blocks_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,216,1],
-"d7/d42/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_scoreboard_identity_packet_entry.html":[3,0,1,16,0,6,1,64],
+"d7/d42/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_scoreboard_identity_packet_entry.html":[3,0,1,16,0,6,1,65],
 "d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html":[2,0,0,10,2],
 "d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html":[3,0,1,19,2],
 "d7/d44/classpocketmine_1_1plugin_1_1_folder_plugin_loader.html#a073b23fb3ace7704e486a66544ec3011":[2,0,0,10,2,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX108 =
 "d7/d52/classpocketmine_1_1block_1_1_lit_pumpkin.html#a49395de82d025ca78745a17528049f18":[3,0,1,0,144,52],
 "d7/d52/classpocketmine_1_1block_1_1_lit_pumpkin.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[2,0,0,0,142,36],
 "d7/d52/classpocketmine_1_1block_1_1_lit_pumpkin.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[3,0,1,0,144,36],
-"d7/d52/classpocketmine_1_1block_1_1_lit_pumpkin.html#a4bc78712a6bf9ec1e50890f716dbbd2d":[2,0,0,0,142,61]
+"d7/d52/classpocketmine_1_1block_1_1_lit_pumpkin.html#a4bc78712a6bf9ec1e50890f716dbbd2d":[2,0,0,0,142,61],
+"d7/d52/classpocketmine_1_1block_1_1_lit_pumpkin.html#a4bc78712a6bf9ec1e50890f716dbbd2d":[3,0,1,0,144,61]
 };

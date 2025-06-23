@@ -151,7 +151,7 @@ var NAVTREEINDEX17 =
 "d1/d40/classpocketmine_1_1entity_1_1object_1_1_item_entity.html#ae96e5d919208d6d9d4ccc75136167684":[3,0,1,7,2,3,14],
 "d1/d40/classpocketmine_1_1entity_1_1object_1_1_item_entity.html#aeb75213027c56faa976d7038da4b437e":[3,0,1,7,2,3,19],
 "d1/d40/classpocketmine_1_1entity_1_1object_1_1_item_entity.html#afdd4efc12fe21730ceb104af111f576d":[3,0,1,7,2,3,21],
-"d1/d47/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_u_i_profile.html":[3,0,1,16,0,6,1,81],
+"d1/d47/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_u_i_profile.html":[3,0,1,16,0,6,1,82],
 "d1/d48/_smithing_transform_recipe_data_8php_source.html":[4,0,0,3,0,7],
 "d1/d48/_text_packet_8php_source.html":[4,0,1,0,1,0,201],
 "d1/d49/_clientbound_packet_8php_source.html":[4,0,1,0,1,0,38],

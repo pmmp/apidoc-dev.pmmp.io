@@ -1,5 +1,13 @@
 var NAVTREEINDEX212 =
 {
+"de/d36/classpocketmine_1_1entity_1_1_entity_factory.html#ae448ccecfa0baa549482369552b58ef4":[3,0,1,7,12,3],
+"de/d36/classpocketmine_1_1network_1_1mcpe_1_1_jwt_utils.html":[3,0,1,16,0,16],
+"de/d36/classpocketmine_1_1network_1_1mcpe_1_1_jwt_utils.html#a09922fd442bf74f626ab5a483857a13e":[3,0,1,16,0,16,2],
+"de/d36/classpocketmine_1_1network_1_1mcpe_1_1_jwt_utils.html#a5532eaefe0bf33b0ad89d2c594c3da97":[3,0,1,16,0,16,3],
+"de/d36/classpocketmine_1_1network_1_1mcpe_1_1_jwt_utils.html#a879a9d55621f37be1828edacbce7ec3e":[3,0,1,16,0,16,0],
+"de/d36/classpocketmine_1_1network_1_1mcpe_1_1_jwt_utils.html#ac980d34f123a8fb5e518211439c96042":[3,0,1,16,0,16,1],
+"de/d37/_player_experience_change_event_8php_source.html":[4,0,0,7,3,21],
+"de/d38/classpocketmine_1_1block_1_1_melon.html":[2,0,0,0,146],
 "de/d38/classpocketmine_1_1block_1_1_melon.html":[3,0,1,0,148],
 "de/d38/classpocketmine_1_1block_1_1_melon.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,146,58],
 "de/d38/classpocketmine_1_1block_1_1_melon.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,148,58],
@@ -133,15 +141,6 @@ var NAVTREEINDEX212 =
 "de/d38/classpocketmine_1_1block_1_1_melon.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,148,16],
 "de/d38/classpocketmine_1_1block_1_1_melon.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,146,27],
 "de/d38/classpocketmine_1_1block_1_1_melon.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,148,27],
-"de/d38/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_movement_authority_packet.html":[3,0,1,16,0,6,174],
-"de/d38/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_movement_authority_packet.html#a065a33be8f37a2a78a06ec5c1358d02c":[3,0,1,16,0,6,174,6],
-"de/d38/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_movement_authority_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,174,4],
-"de/d38/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_movement_authority_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,174,0],
-"de/d38/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_movement_authority_packet.html#aa0508550a10a29486c936cb7763e4803":[3,0,1,16,0,6,174,5],
-"de/d38/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_movement_authority_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,174,3],
-"de/d38/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_movement_authority_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,174,1],
-"de/d38/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_movement_authority_packet.html#acbc9c74fc1591de0cb280ffc780b8273":[3,0,1,16,0,6,174,7],
-"de/d38/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_movement_authority_packet.html#ae7a5fbc521263d7a9dcde8b397f3720e":[3,0,1,16,0,6,174,2],
 "de/d3a/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_serializer_helper.html":[3,0,1,6,0,0,0,3],
 "de/d3a/classpocketmine_1_1event_1_1block_1_1_block_break_event.html":[2,0,0,3,0,1],
 "de/d3a/classpocketmine_1_1event_1_1block_1_1_block_break_event.html":[3,0,1,9,0,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX212 =
 "de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a771a30c30a36b0992f54c57dc63af10d":[3,0,1,0,154,40],
 "de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[2,0,0,0,152,28],
 "de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,154,28],
-"de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,0,0,152,56]
+"de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,0,0,152,56],
+"de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,154,56]
 };

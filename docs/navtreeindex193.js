@@ -1,5 +1,9 @@
 var NAVTREEINDEX193 =
 {
+"dc/de9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_client_data_animation_frame.html#accca171f36c6fb18b681c89fe022ac30":[3,0,1,16,0,6,1,5,3,2],
+"dc/dea/_open_connection_request1_8php_source.html":[4,0,1,0,9,0,2,18],
+"dc/deb/_editor_network_packet_8php_source.html":[4,0,1,0,1,0,65],
+"dc/deb/_return_type_8php_source.html":[4,0,1,0,3,0,5],
 "dc/dec/_item_stack_info_8php_source.html":[4,0,0,12,0,13],
 "dc/ded/classpocketmine_1_1scheduler_1_1_bulk_curl_task_operation.html":[2,0,0,11,5],
 "dc/ded/classpocketmine_1_1scheduler_1_1_bulk_curl_task_operation.html":[3,0,1,22,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX193 =
 "dc/dff/classpocketmine_1_1item_1_1_redstone.html#a71289362f9d561347b5c8c2717eb0512":[2,0,0,5,93,38],
 "dc/dff/classpocketmine_1_1item_1_1_redstone.html#a71289362f9d561347b5c8c2717eb0512":[3,0,1,12,94,38],
 "dc/dff/classpocketmine_1_1item_1_1_redstone.html#a7b5c1e7e496c3077658212aaacec4b56":[2,0,0,5,93,15],
-"dc/dff/classpocketmine_1_1item_1_1_redstone.html#a7b5c1e7e496c3077658212aaacec4b56":[3,0,1,12,94,15],
-"dc/dff/classpocketmine_1_1item_1_1_redstone.html#a7d45886d40860e24fb4c18d02a3d1a32":[2,0,0,5,93,14],
-"dc/dff/classpocketmine_1_1item_1_1_redstone.html#a7d45886d40860e24fb4c18d02a3d1a32":[3,0,1,12,94,14],
-"dc/dff/classpocketmine_1_1item_1_1_redstone.html#a8e97e9296238bf8794a2d2f8e94e8a93":[2,0,0,5,93,47],
-"dc/dff/classpocketmine_1_1item_1_1_redstone.html#a8e97e9296238bf8794a2d2f8e94e8a93":[3,0,1,12,94,47]
+"dc/dff/classpocketmine_1_1item_1_1_redstone.html#a7b5c1e7e496c3077658212aaacec4b56":[3,0,1,12,94,15]
 };
