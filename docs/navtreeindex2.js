@@ -243,7 +243,7 @@ var NAVTREEINDEX2 =
 "d0/d3b/_vanilla_armor_materials_8php_source.html":[4,0,0,10,124],
 "d0/d3b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_container_ids.html":[3,0,1,16,0,6,1,4,2],
 "d0/d3c/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_pre_spawn_packet_handler.html":[3,0,1,16,0,5,9],
-"d0/d3d/_candle_trait_8php_source.html":[4,0,0,0,2,9],
+"d0/d3d/_candle_trait_8php_source.html":[4,0,0,0,2,12],
 "d0/d3d/classpocketmine_1_1world_1_1sound_1_1_enderman_teleport_sound.html":[3,0,1,30,5,54],
 "d0/d3d/classpocketmine_1_1world_1_1sound_1_1_enderman_teleport_sound.html#a51111cb685a04b10692f1d65099b4d7c":[3,0,1,30,5,54,0],
 "d0/d3f/_ice_8php_source.html":[4,0,0,0,128],

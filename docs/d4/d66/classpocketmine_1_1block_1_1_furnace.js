@@ -64,6 +64,7 @@ var classpocketmine_1_1block_1_1_furnace =
     [ "place", "d4/d66/classpocketmine_1_1block_1_1_furnace.html#a4bc78712a6bf9ec1e50890f716dbbd2d", null ],
     [ "readStateFromWorld", "d4/d66/classpocketmine_1_1block_1_1_furnace.html#a3a46169e7d256b3a1f3af8c54ddba832", null ],
     [ "recalculateCollisionBoxes", "d4/d66/classpocketmine_1_1block_1_1_furnace.html#a8a733c2fe564a205938a9146c8b0e0f1", null ],
+    [ "setLit", "d4/d66/classpocketmine_1_1block_1_1_furnace.html#af1807ff180e5678ba081b846f28fdeb0", null ],
     [ "ticksRandomly", "d4/d66/classpocketmine_1_1block_1_1_furnace.html#ab6b90601adfc9732893dcffe256514a9", null ],
     [ "writeStateToWorld", "d4/d66/classpocketmine_1_1block_1_1_furnace.html#a9404d9040389f3ff2462f86d9a181160", null ]
 ];

@@ -154,7 +154,7 @@ var NAVTREEINDEX3 =
 "d0/d42/classpocketmine_1_1block_1_1_bedrock.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,19,16],
 "d0/d42/classpocketmine_1_1block_1_1_bedrock.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,17,27],
 "d0/d42/classpocketmine_1_1block_1_1_bedrock.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,19,27],
-"d0/d43/_copper_trait_8php_source.html":[4,0,0,0,2,14],
+"d0/d43/_copper_trait_8php_source.html":[4,0,0,0,2,18],
 "d0/d45/classpocketmine_1_1network_1_1upnp_1_1_u_pn_p_network_interface.html":[2,0,0,8,1,2],
 "d0/d45/classpocketmine_1_1network_1_1upnp_1_1_u_pn_p_network_interface.html":[3,0,1,16,2,2],
 "d0/d45/classpocketmine_1_1network_1_1upnp_1_1_u_pn_p_network_interface.html#a876965d4b8b6fd7dc54a6ef25f7bbb50":[2,0,0,8,1,2,1],

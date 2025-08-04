@@ -70,15 +70,27 @@ var annotated_dup =
           [ "TileFactory", "d7/d93/classpocketmine_1_1block_1_1tile_1_1_tile_factory.html", "d7/d93/classpocketmine_1_1block_1_1tile_1_1_tile_factory" ]
         ] ],
         [ "utils", null, [
+          [ "Ageable", "dc/d33/interfacepocketmine_1_1block_1_1utils_1_1_ageable.html", "dc/d33/interfacepocketmine_1_1block_1_1utils_1_1_ageable" ],
+          [ "AnalogRedstoneSignalEmitter", "dd/d1e/interfacepocketmine_1_1block_1_1utils_1_1_analog_redstone_signal_emitter.html", "dd/d1e/interfacepocketmine_1_1block_1_1utils_1_1_analog_redstone_signal_emitter" ],
+          [ "AnyFacing", "d2/df5/interfacepocketmine_1_1block_1_1utils_1_1_any_facing.html", "d2/df5/interfacepocketmine_1_1block_1_1utils_1_1_any_facing" ],
           [ "BannerPatternLayer", "da/dd4/classpocketmine_1_1block_1_1utils_1_1_banner_pattern_layer.html", null ],
           [ "BlockEventHelper", "d4/d5d/classpocketmine_1_1block_1_1utils_1_1_block_event_helper.html", null ],
+          [ "Colored", "d8/d7d/interfacepocketmine_1_1block_1_1utils_1_1_colored.html", "d8/d7d/interfacepocketmine_1_1block_1_1utils_1_1_colored" ],
           [ "CopperMaterial", "d3/d54/interfacepocketmine_1_1block_1_1utils_1_1_copper_material.html", "d3/d54/interfacepocketmine_1_1block_1_1utils_1_1_copper_material" ],
+          [ "CoralMaterial", "d9/de2/interfacepocketmine_1_1block_1_1utils_1_1_coral_material.html", "d9/de2/interfacepocketmine_1_1block_1_1utils_1_1_coral_material" ],
           [ "CropGrowthHelper", "da/d21/classpocketmine_1_1block_1_1utils_1_1_crop_growth_helper.html", "da/d21/classpocketmine_1_1block_1_1utils_1_1_crop_growth_helper" ],
           [ "Fallable", "dd/d27/interfacepocketmine_1_1block_1_1utils_1_1_fallable.html", "dd/d27/interfacepocketmine_1_1block_1_1utils_1_1_fallable" ],
           [ "FortuneDropHelper", "dd/dfb/classpocketmine_1_1block_1_1utils_1_1_fortune_drop_helper.html", "dd/dfb/classpocketmine_1_1block_1_1utils_1_1_fortune_drop_helper" ],
+          [ "HorizontalFacing", "d7/daf/interfacepocketmine_1_1block_1_1utils_1_1_horizontal_facing.html", "d7/daf/interfacepocketmine_1_1block_1_1utils_1_1_horizontal_facing" ],
+          [ "Lightable", "d4/de8/interfacepocketmine_1_1block_1_1utils_1_1_lightable.html", "d4/de8/interfacepocketmine_1_1block_1_1utils_1_1_lightable" ],
           [ "MinimumCostFlowCalculator", "db/d5b/classpocketmine_1_1block_1_1utils_1_1_minimum_cost_flow_calculator.html", "db/d5b/classpocketmine_1_1block_1_1utils_1_1_minimum_cost_flow_calculator" ],
+          [ "MultiFacing", "d5/d60/interfacepocketmine_1_1block_1_1utils_1_1_multi_facing.html", "d5/d60/interfacepocketmine_1_1block_1_1utils_1_1_multi_facing" ],
+          [ "PillarRotation", "d2/dfa/interfacepocketmine_1_1block_1_1utils_1_1_pillar_rotation.html", "d2/dfa/interfacepocketmine_1_1block_1_1utils_1_1_pillar_rotation" ],
+          [ "PoweredByRedstone", "d0/db8/interfacepocketmine_1_1block_1_1utils_1_1_powered_by_redstone.html", "d0/db8/interfacepocketmine_1_1block_1_1utils_1_1_powered_by_redstone" ],
           [ "RailConnectionInfo", "d7/df9/classpocketmine_1_1block_1_1utils_1_1_rail_connection_info.html", null ],
-          [ "SignText", "d3/d1c/classpocketmine_1_1block_1_1utils_1_1_sign_text.html", "d3/d1c/classpocketmine_1_1block_1_1utils_1_1_sign_text" ]
+          [ "SignLikeRotation", "d7/d9c/interfacepocketmine_1_1block_1_1utils_1_1_sign_like_rotation.html", "d7/d9c/interfacepocketmine_1_1block_1_1utils_1_1_sign_like_rotation" ],
+          [ "SignText", "d3/d1c/classpocketmine_1_1block_1_1utils_1_1_sign_text.html", "d3/d1c/classpocketmine_1_1block_1_1utils_1_1_sign_text" ],
+          [ "WoodMaterial", "d0/df3/interfacepocketmine_1_1block_1_1utils_1_1_wood_material.html", null ]
         ] ],
         [ "ActivatorRail", "d6/d7d/classpocketmine_1_1block_1_1_activator_rail.html", "d6/d7d/classpocketmine_1_1block_1_1_activator_rail" ],
         [ "Air", "d7/d31/classpocketmine_1_1block_1_1_air.html", "d7/d31/classpocketmine_1_1block_1_1_air" ],

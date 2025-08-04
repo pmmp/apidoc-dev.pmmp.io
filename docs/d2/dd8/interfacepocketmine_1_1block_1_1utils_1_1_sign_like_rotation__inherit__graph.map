@@ -1,0 +1,7 @@
+<map id="pocketmine\block\utils\SignLikeRotation" name="pocketmine\block\utils\SignLikeRotation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="144,5,305,105"/>
+<area shape="rect" id="Node000002" href="$dc/d69/classpocketmine_1_1block_1_1_floor_banner.html" title=" " alt="" coords="5,153,217,239"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,118,148,155,143,151,174,114"/>
+<area shape="rect" id="Node000003" href="$dd/de8/classpocketmine_1_1block_1_1_floor_sign.html" title=" " alt="" coords="242,153,437,239"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="276,114,307,151,303,155,272,118"/>
+</map>

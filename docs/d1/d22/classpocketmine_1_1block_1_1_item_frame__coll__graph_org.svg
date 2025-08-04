@@ -12,43 +12,43 @@
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="transparent" points="439,-259 275,-259 275,0 439,0 439,-259"/>
-<text text-anchor="start" x="285.5" y="-246.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\ItemFrame</text>
-<text text-anchor="start" x="279" y="-231.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="292" y="-231.5" font-family="Helvetica,sans-Serif" font-size="10.00">ROTATIONS</text>
-<text text-anchor="start" x="279" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="292" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">$hasMap</text>
-<text text-anchor="start" x="279" y="-201.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="292" y="-201.5" font-family="Helvetica,sans-Serif" font-size="10.00">$itemDropChance</text>
-<text text-anchor="start" x="279" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="292" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00">$itemRotation</text>
-<text text-anchor="start" x="279" y="-171.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="292" y="-171.5" font-family="Helvetica,sans-Serif" font-size="10.00">getDropsForCompatibleTool()</text>
-<text text-anchor="start" x="279" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="292" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">getFramedItem()</text>
-<text text-anchor="start" x="279" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="292" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">getItemDropChance()</text>
-<text text-anchor="start" x="279" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="292" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">getItemRotation()</text>
-<text text-anchor="start" x="279" y="-111.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="292" y="-111.5" font-family="Helvetica,sans-Serif" font-size="10.00">getPickedItem()</text>
-<text text-anchor="start" x="279" y="-96.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="292" y="-96.5" font-family="Helvetica,sans-Serif" font-size="10.00">hasMap()</text>
-<text text-anchor="start" x="279" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="292" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">onAttack()</text>
-<text text-anchor="start" x="279" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="292" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00">onInteract()</text>
-<text text-anchor="start" x="279" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="292" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">onNearbyBlockChange()</text>
-<text text-anchor="start" x="279" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="292" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">place()</text>
-<text text-anchor="start" x="292" y="-21.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 6 more...</text>
-<text text-anchor="start" x="279" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="292" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">describeBlockOnlyState()</text>
-<polygon fill="#666666" stroke="#666666" points="275,-241.5 275,-241.5 439,-241.5 439,-241.5 275,-241.5"/>
-<polygon fill="#666666" stroke="#666666" points="275,-181.5 275,-181.5 290,-181.5 290,-181.5 275,-181.5"/>
-<polygon fill="#666666" stroke="#666666" points="290,-181.5 290,-181.5 439,-181.5 439,-181.5 290,-181.5"/>
-<polygon fill="none" stroke="#666666" points="275,0 275,-259 439,-259 439,0 275,0"/>
+<polygon fill="#999999" stroke="transparent" points="510,-259 346,-259 346,0 510,0 510,-259"/>
+<text text-anchor="start" x="356.5" y="-246.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\ItemFrame</text>
+<text text-anchor="start" x="350" y="-231.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="363" y="-231.5" font-family="Helvetica,sans-Serif" font-size="10.00">ROTATIONS</text>
+<text text-anchor="start" x="350" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="363" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">$hasMap</text>
+<text text-anchor="start" x="350" y="-201.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="363" y="-201.5" font-family="Helvetica,sans-Serif" font-size="10.00">$itemDropChance</text>
+<text text-anchor="start" x="350" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="363" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00">$itemRotation</text>
+<text text-anchor="start" x="350" y="-171.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="363" y="-171.5" font-family="Helvetica,sans-Serif" font-size="10.00">getDropsForCompatibleTool()</text>
+<text text-anchor="start" x="350" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="363" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">getFramedItem()</text>
+<text text-anchor="start" x="350" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="363" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">getItemDropChance()</text>
+<text text-anchor="start" x="350" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="363" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">getItemRotation()</text>
+<text text-anchor="start" x="350" y="-111.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="363" y="-111.5" font-family="Helvetica,sans-Serif" font-size="10.00">getPickedItem()</text>
+<text text-anchor="start" x="350" y="-96.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="363" y="-96.5" font-family="Helvetica,sans-Serif" font-size="10.00">hasMap()</text>
+<text text-anchor="start" x="350" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="363" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">onAttack()</text>
+<text text-anchor="start" x="350" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="363" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00">onInteract()</text>
+<text text-anchor="start" x="350" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="363" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">onNearbyBlockChange()</text>
+<text text-anchor="start" x="350" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="363" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">place()</text>
+<text text-anchor="start" x="363" y="-21.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 6 more...</text>
+<text text-anchor="start" x="350" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="363" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">describeBlockOnlyState()</text>
+<polygon fill="#666666" stroke="#666666" points="346,-241.5 346,-241.5 510,-241.5 510,-241.5 346,-241.5"/>
+<polygon fill="#666666" stroke="#666666" points="346,-181.5 346,-181.5 361,-181.5 361,-181.5 346,-181.5"/>
+<polygon fill="#666666" stroke="#666666" points="361,-181.5 361,-181.5 510,-181.5 510,-181.5 361,-181.5"/>
+<polygon fill="none" stroke="#666666" points="346,0 346,-259 510,-259 510,0 346,0"/>
 </a>
 </g>
 </g>
@@ -79,8 +79,8 @@
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node2&#45;&gt;Node1</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M285.67,-461.11C297.4,-406.77 314.66,-326.76 329.26,-259.07"/>
-<polygon fill="none" stroke="#63b8ff" points="282.24,-460.44 283.55,-470.95 289.08,-461.92 282.24,-460.44"/>
+<path fill="none" stroke="#63b8ff" d="M296.81,-461.25C313.94,-417.61 337.29,-358.26 358,-306 363.98,-290.9 370.27,-275.08 376.51,-259.39"/>
+<polygon fill="none" stroke="#63b8ff" points="293.53,-460.01 293.14,-470.6 300.05,-462.57 293.53,-460.01"/>
 </a>
 </g>
 </g>
@@ -561,68 +561,18 @@
 <!-- Node13 -->
 <g id="Node000013" class="node">
 <title>Node13</title>
-<g id="a_Node000013"><a xlink:href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="518.5,-745 367.5,-745 367.5,-306 518.5,-306 518.5,-745"/>
-<text text-anchor="start" x="389" y="-732.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Item</text>
-<text text-anchor="start" x="372" y="-717.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="385" y="-717.5" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_BLOCK_ENTITY_TAG</text>
-<text text-anchor="start" x="372" y="-702.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="385" y="-702.5" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_DISPLAY</text>
-<text text-anchor="start" x="372" y="-687.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="385" y="-687.5" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_DISPLAY_LORE</text>
-<text text-anchor="start" x="372" y="-672.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="385" y="-672.5" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_DISPLAY_NAME</text>
-<text text-anchor="start" x="372" y="-657.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="385" y="-657.5" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_ENCH</text>
-<text text-anchor="start" x="372" y="-642.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="385" y="-642.5" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_KEEP_ON_DEATH</text>
-<text text-anchor="start" x="372" y="-627.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="385" y="-627.5" font-family="Helvetica,sans-Serif" font-size="10.00">$canDestroy</text>
-<text text-anchor="start" x="372" y="-612.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="385" y="-612.5" font-family="Helvetica,sans-Serif" font-size="10.00">$canPlaceOn</text>
-<text text-anchor="start" x="372" y="-597.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="385" y="-597.5" font-family="Helvetica,sans-Serif" font-size="10.00">$count</text>
-<text text-anchor="start" x="372" y="-582.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="385" y="-582.5" font-family="Helvetica,sans-Serif" font-size="10.00">$customName</text>
-<text text-anchor="start" x="372" y="-567.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="385" y="-567.5" font-family="Helvetica,sans-Serif" font-size="10.00">$keepOnDeath</text>
-<text text-anchor="start" x="372" y="-552.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="385" y="-552.5" font-family="Helvetica,sans-Serif" font-size="10.00">$lore</text>
-<text text-anchor="start" x="372" y="-537.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="385" y="-537.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
-<text text-anchor="start" x="372" y="-522.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="385" y="-522.5" font-family="Helvetica,sans-Serif" font-size="10.00">__clone()</text>
-<text text-anchor="start" x="372" y="-507.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="385" y="-507.5" font-family="Helvetica,sans-Serif" font-size="10.00">__toString()</text>
-<text text-anchor="start" x="372" y="-492.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="385" y="-492.5" font-family="Helvetica,sans-Serif" font-size="10.00">canBePlaced()</text>
-<text text-anchor="start" x="372" y="-477.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="385" y="-477.5" font-family="Helvetica,sans-Serif" font-size="10.00">canStackWith()</text>
-<text text-anchor="start" x="372" y="-462.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="385" y="-462.5" font-family="Helvetica,sans-Serif" font-size="10.00">clearCustomBlockData()</text>
-<text text-anchor="start" x="372" y="-447.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="385" y="-447.5" font-family="Helvetica,sans-Serif" font-size="10.00">clearCustomName()</text>
-<text text-anchor="start" x="372" y="-432.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="385" y="-432.5" font-family="Helvetica,sans-Serif" font-size="10.00">clearNamedTag()</text>
-<text text-anchor="start" x="372" y="-417.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="385" y="-417.5" font-family="Helvetica,sans-Serif" font-size="10.00">equals()</text>
-<text text-anchor="start" x="372" y="-402.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="385" y="-402.5" font-family="Helvetica,sans-Serif" font-size="10.00">equalsExact()</text>
-<text text-anchor="start" x="385" y="-387.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 48 more...</text>
-<text text-anchor="start" x="372" y="-372.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="385" y="-372.5" font-family="Helvetica,sans-Serif" font-size="10.00">legacyJsonDeserialize()</text>
-<text text-anchor="start" x="372" y="-357.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="385" y="-357.5" font-family="Helvetica,sans-Serif" font-size="10.00">nbtDeserialize()</text>
-<text text-anchor="start" x="372" y="-342.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="385" y="-342.5" font-family="Helvetica,sans-Serif" font-size="10.00">describeState()</text>
-<text text-anchor="start" x="372" y="-327.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="385" y="-327.5" font-family="Helvetica,sans-Serif" font-size="10.00">deserializeCompoundTag()</text>
-<text text-anchor="start" x="372" y="-312.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="385" y="-312.5" font-family="Helvetica,sans-Serif" font-size="10.00">serializeCompoundTag()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="368,-727.5 368,-727.5 519,-727.5 519,-727.5 368,-727.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="368,-547.5 368,-547.5 383,-547.5 383,-547.5 368,-547.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="383,-547.5 383,-547.5 519,-547.5 519,-547.5 383,-547.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="367.5,-306 367.5,-745 518.5,-745 518.5,-306 367.5,-306"/>
+<g id="a_Node000013"><a xlink:href="../../d2/df5/interfacepocketmine_1_1block_1_1utils_1_1_any_facing.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="488.5,-563 367.5,-563 367.5,-488 488.5,-488 488.5,-563"/>
+<text text-anchor="start" x="373" y="-550.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
+<text text-anchor="start" x="402" y="-539.5" font-family="Helvetica,sans-Serif" font-size="10.00">\AnyFacing</text>
+<text text-anchor="start" x="426.5" y="-524.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="383" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="407" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">getFacing()</text>
+<text text-anchor="start" x="383" y="-494.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="407" y="-494.5" font-family="Helvetica,sans-Serif" font-size="10.00">setFacing()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="368,-534.5 368,-534.5 489,-534.5 489,-534.5 368,-534.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="368,-519.5 368,-519.5 489,-519.5 489,-519.5 368,-519.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="367.5,-488 367.5,-563 488.5,-563 488.5,-488 367.5,-488"/>
 </a>
 </g>
 </g>
@@ -630,156 +580,210 @@
 <g id="edge12_Node000001_Node000013" class="edge">
 <title>Node13&#45;&gt;Node1</title>
 <g id="a_edge12_Node000001_Node000013"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M395.28,-305.9C392.7,-294.05 390.14,-282.31 387.63,-270.85"/>
-<polygon fill="none" stroke="#63b8ff" points="387.61,-270.74 382.42,-265.73 385.05,-259.02 390.24,-264.02 387.61,-270.74"/>
+<path fill="none" stroke="#63b8ff" d="M428,-477.56C428,-423.95 428,-333.96 428,-259.05"/>
+<polygon fill="none" stroke="#63b8ff" points="424.5,-477.79 428,-487.79 431.5,-477.79 424.5,-477.79"/>
 </a>
 </g>
-<text text-anchor="middle" x="428" y="-280" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$framedItem</text>
 </g>
 <!-- Node14 -->
 <g id="Node000014" class="node">
 <title>Node14</title>
-<g id="a_Node000014"><a xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="480,-959 392,-959 392,-910 480,-910 480,-959"/>
-<text text-anchor="start" x="397" y="-946.5" font-family="Helvetica,sans-Serif" font-size="10.00">JsonSerializable</text>
-<text text-anchor="start" x="434" y="-931.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="434" y="-916.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="392,-941.5 392,-941.5 480,-941.5 480,-941.5 392,-941.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="392,-926.5 392,-926.5 480,-926.5 480,-926.5 392,-926.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="392,-910 392,-959 480,-959 480,-910 392,-910"/>
+<g id="a_Node000014"><a xlink:href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="657.5,-745 506.5,-745 506.5,-306 657.5,-306 657.5,-745"/>
+<text text-anchor="start" x="528" y="-732.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Item</text>
+<text text-anchor="start" x="511" y="-717.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="524" y="-717.5" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_BLOCK_ENTITY_TAG</text>
+<text text-anchor="start" x="511" y="-702.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="524" y="-702.5" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_DISPLAY</text>
+<text text-anchor="start" x="511" y="-687.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="524" y="-687.5" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_DISPLAY_LORE</text>
+<text text-anchor="start" x="511" y="-672.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="524" y="-672.5" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_DISPLAY_NAME</text>
+<text text-anchor="start" x="511" y="-657.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="524" y="-657.5" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_ENCH</text>
+<text text-anchor="start" x="511" y="-642.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="524" y="-642.5" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_KEEP_ON_DEATH</text>
+<text text-anchor="start" x="511" y="-627.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="524" y="-627.5" font-family="Helvetica,sans-Serif" font-size="10.00">$canDestroy</text>
+<text text-anchor="start" x="511" y="-612.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="524" y="-612.5" font-family="Helvetica,sans-Serif" font-size="10.00">$canPlaceOn</text>
+<text text-anchor="start" x="511" y="-597.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="524" y="-597.5" font-family="Helvetica,sans-Serif" font-size="10.00">$count</text>
+<text text-anchor="start" x="511" y="-582.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="524" y="-582.5" font-family="Helvetica,sans-Serif" font-size="10.00">$customName</text>
+<text text-anchor="start" x="511" y="-567.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="524" y="-567.5" font-family="Helvetica,sans-Serif" font-size="10.00">$keepOnDeath</text>
+<text text-anchor="start" x="511" y="-552.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="524" y="-552.5" font-family="Helvetica,sans-Serif" font-size="10.00">$lore</text>
+<text text-anchor="start" x="511" y="-537.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="524" y="-537.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
+<text text-anchor="start" x="511" y="-522.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="524" y="-522.5" font-family="Helvetica,sans-Serif" font-size="10.00">__clone()</text>
+<text text-anchor="start" x="511" y="-507.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="524" y="-507.5" font-family="Helvetica,sans-Serif" font-size="10.00">__toString()</text>
+<text text-anchor="start" x="511" y="-492.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="524" y="-492.5" font-family="Helvetica,sans-Serif" font-size="10.00">canBePlaced()</text>
+<text text-anchor="start" x="511" y="-477.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="524" y="-477.5" font-family="Helvetica,sans-Serif" font-size="10.00">canStackWith()</text>
+<text text-anchor="start" x="511" y="-462.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="524" y="-462.5" font-family="Helvetica,sans-Serif" font-size="10.00">clearCustomBlockData()</text>
+<text text-anchor="start" x="511" y="-447.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="524" y="-447.5" font-family="Helvetica,sans-Serif" font-size="10.00">clearCustomName()</text>
+<text text-anchor="start" x="511" y="-432.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="524" y="-432.5" font-family="Helvetica,sans-Serif" font-size="10.00">clearNamedTag()</text>
+<text text-anchor="start" x="511" y="-417.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="524" y="-417.5" font-family="Helvetica,sans-Serif" font-size="10.00">equals()</text>
+<text text-anchor="start" x="511" y="-402.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="524" y="-402.5" font-family="Helvetica,sans-Serif" font-size="10.00">equalsExact()</text>
+<text text-anchor="start" x="524" y="-387.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 48 more...</text>
+<text text-anchor="start" x="511" y="-372.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="524" y="-372.5" font-family="Helvetica,sans-Serif" font-size="10.00">legacyJsonDeserialize()</text>
+<text text-anchor="start" x="511" y="-357.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="524" y="-357.5" font-family="Helvetica,sans-Serif" font-size="10.00">nbtDeserialize()</text>
+<text text-anchor="start" x="511" y="-342.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="524" y="-342.5" font-family="Helvetica,sans-Serif" font-size="10.00">describeState()</text>
+<text text-anchor="start" x="511" y="-327.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="524" y="-327.5" font-family="Helvetica,sans-Serif" font-size="10.00">deserializeCompoundTag()</text>
+<text text-anchor="start" x="511" y="-312.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="524" y="-312.5" font-family="Helvetica,sans-Serif" font-size="10.00">serializeCompoundTag()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="507,-727.5 507,-727.5 658,-727.5 658,-727.5 507,-727.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="507,-547.5 507,-547.5 522,-547.5 522,-547.5 507,-547.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="522,-547.5 522,-547.5 658,-547.5 658,-547.5 522,-547.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="506.5,-306 506.5,-745 657.5,-745 657.5,-306 506.5,-306"/>
 </a>
 </g>
 </g>
-<!-- Node14&#45;&gt;Node13 -->
-<g id="edge13_Node000013_Node000014" class="edge">
-<title>Node14&#45;&gt;Node13</title>
-<g id="a_edge13_Node000013_Node000014"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M436.58,-899.65C437.19,-864.27 438.2,-805.56 439.24,-745.06"/>
-<polygon fill="none" stroke="#63b8ff" points="433.08,-899.8 436.41,-909.86 440.08,-899.92 433.08,-899.8"/>
+<!-- Node14&#45;&gt;Node1 -->
+<g id="edge13_Node000001_Node000014" class="edge">
+<title>Node14&#45;&gt;Node1</title>
+<g id="a_edge13_Node000001_Node000014"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M506.49,-330.29C503.29,-322.09 500.11,-313.96 497,-306 492.53,-294.56 487.88,-282.71 483.22,-270.81"/>
+<polygon fill="none" stroke="#63b8ff" points="483.12,-270.56 477.2,-266.44 478.74,-259.39 484.65,-263.52 483.12,-270.56"/>
 </a>
 </g>
+<text text-anchor="middle" x="528" y="-280" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$framedItem</text>
 </g>
 <!-- Node15 -->
 <g id="Node000015" class="node">
 <title>Node15</title>
-<g id="a_Node000015"><a xlink:href="../../de/d67/classpocketmine_1_1nbt_1_1tag_1_1_compound_tag.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="612,-1077 498,-1077 498,-792 612,-792 612,-1077"/>
-<text text-anchor="start" x="507.5" y="-1064.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\nbt\tag</text>
-<text text-anchor="start" x="518.5" y="-1053.5" font-family="Helvetica,sans-Serif" font-size="10.00">\CompoundTag</text>
-<text text-anchor="start" x="553" y="-1038.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="502" y="-1023.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="515" y="-1023.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
-<text text-anchor="start" x="502" y="-1008.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="515" y="-1008.5" font-family="Helvetica,sans-Serif" font-size="10.00">__clone()</text>
-<text text-anchor="start" x="502" y="-993.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="515" y="-993.5" font-family="Helvetica,sans-Serif" font-size="10.00">count()</text>
-<text text-anchor="start" x="502" y="-978.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="515" y="-978.5" font-family="Helvetica,sans-Serif" font-size="10.00">equals()</text>
-<text text-anchor="start" x="502" y="-963.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="515" y="-963.5" font-family="Helvetica,sans-Serif" font-size="10.00">getByte()</text>
-<text text-anchor="start" x="502" y="-948.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="515" y="-948.5" font-family="Helvetica,sans-Serif" font-size="10.00">getByteArray()</text>
-<text text-anchor="start" x="502" y="-933.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="515" y="-933.5" font-family="Helvetica,sans-Serif" font-size="10.00">getCompoundTag()</text>
-<text text-anchor="start" x="502" y="-918.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="515" y="-918.5" font-family="Helvetica,sans-Serif" font-size="10.00">getCount()</text>
-<text text-anchor="start" x="502" y="-903.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="515" y="-903.5" font-family="Helvetica,sans-Serif" font-size="10.00">getDouble()</text>
-<text text-anchor="start" x="502" y="-888.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="515" y="-888.5" font-family="Helvetica,sans-Serif" font-size="10.00">getFloat()</text>
-<text text-anchor="start" x="515" y="-873.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 23 more...</text>
-<text text-anchor="start" x="502" y="-858.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="515" y="-858.5" font-family="Helvetica,sans-Serif" font-size="10.00">create()</text>
-<text text-anchor="start" x="502" y="-843.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="515" y="-843.5" font-family="Helvetica,sans-Serif" font-size="10.00">read()</text>
-<text text-anchor="start" x="502" y="-828.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="515" y="-828.5" font-family="Helvetica,sans-Serif" font-size="10.00">getTypeName()</text>
-<text text-anchor="start" x="502" y="-813.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="515" y="-813.5" font-family="Helvetica,sans-Serif" font-size="10.00">makeCopy()</text>
-<text text-anchor="start" x="502" y="-798.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="515" y="-798.5" font-family="Helvetica,sans-Serif" font-size="10.00">stringifyValue()</text>
-<polygon fill="#666666" stroke="#666666" points="498,-1048.5 498,-1048.5 612,-1048.5 612,-1048.5 498,-1048.5"/>
-<polygon fill="#666666" stroke="#666666" points="498,-1033.5 498,-1033.5 612,-1033.5 612,-1033.5 498,-1033.5"/>
-<polygon fill="none" stroke="#666666" points="498,-792 498,-1077 612,-1077 612,-792 498,-792"/>
+<g id="a_Node000015"><a xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="588,-959 500,-959 500,-910 588,-910 588,-959"/>
+<text text-anchor="start" x="505" y="-946.5" font-family="Helvetica,sans-Serif" font-size="10.00">JsonSerializable</text>
+<text text-anchor="start" x="542" y="-931.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="542" y="-916.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="500,-941.5 500,-941.5 588,-941.5 588,-941.5 500,-941.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="500,-926.5 500,-926.5 588,-926.5 588,-926.5 500,-926.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="500,-910 500,-959 588,-959 588,-910 500,-910"/>
 </a>
 </g>
 </g>
-<!-- Node15&#45;&gt;Node13 -->
-<g id="edge14_Node000013_Node000015" class="edge">
-<title>Node15&#45;&gt;Node13</title>
-<g id="a_edge14_Node000013_Node000015"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M515.99,-791.72C512.86,-780.37 509.66,-768.73 506.42,-756.97"/>
-<polygon fill="none" stroke="#63b8ff" points="506.36,-756.74 500.91,-752.02 503.17,-745.17 508.62,-749.89 506.36,-756.74"/>
+<!-- Node15&#45;&gt;Node14 -->
+<g id="edge14_Node000014_Node000015" class="edge">
+<title>Node15&#45;&gt;Node14</title>
+<g id="a_edge14_Node000014_Node000015"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M547.16,-899.65C550.46,-864.27 555.95,-805.56 561.59,-745.06"/>
+<polygon fill="none" stroke="#63b8ff" points="543.65,-899.58 546.21,-909.86 550.62,-900.23 543.65,-899.58"/>
 </a>
 </g>
-<text text-anchor="middle" x="554.5" y="-766" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$blockEntityTag</text>
 </g>
 <!-- Node16 -->
 <g id="Node000016" class="node">
 <title>Node16</title>
-<g id="a_Node000016"><a xlink:href="../../dc/d26/classpocketmine_1_1nbt_1_1tag_1_1_tag.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="506.5,-1373 381.5,-1373 381.5,-1174 506.5,-1174 506.5,-1373"/>
-<text text-anchor="start" x="387" y="-1360.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\nbt\tag\Tag</text>
-<text text-anchor="start" x="390" y="-1345.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="407" y="-1345.5" font-family="Helvetica,sans-Serif" font-size="10.00">$cloning</text>
-<text text-anchor="start" x="390" y="-1330.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="407" y="-1330.5" font-family="Helvetica,sans-Serif" font-size="10.00">__toString()</text>
-<text text-anchor="start" x="390" y="-1315.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="407" y="-1315.5" font-family="Helvetica,sans-Serif" font-size="10.00">equals()</text>
-<text text-anchor="start" x="390" y="-1300.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="407" y="-1300.5" font-family="Helvetica,sans-Serif" font-size="10.00">getType()</text>
-<text text-anchor="start" x="390" y="-1285.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="407" y="-1285.5" font-family="Helvetica,sans-Serif" font-size="10.00">getValue()</text>
-<text text-anchor="start" x="390" y="-1270.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="407" y="-1270.5" font-family="Helvetica,sans-Serif" font-size="10.00">safeClone()</text>
-<text text-anchor="start" x="390" y="-1255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="407" y="-1255.5" font-family="Helvetica,sans-Serif" font-size="10.00">toString()</text>
-<text text-anchor="start" x="390" y="-1240.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="407" y="-1240.5" font-family="Helvetica,sans-Serif" font-size="10.00">write()</text>
-<text text-anchor="start" x="390" y="-1225.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="407" y="-1225.5" font-family="Helvetica,sans-Serif" font-size="10.00">getTypeName()</text>
-<text text-anchor="start" x="390" y="-1210.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="407" y="-1210.5" font-family="Helvetica,sans-Serif" font-size="10.00">makeCopy()</text>
-<text text-anchor="start" x="390" y="-1195.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="407" y="-1195.5" font-family="Helvetica,sans-Serif" font-size="10.00">stringifyValue()</text>
-<text text-anchor="start" x="390" y="-1180.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="407" y="-1180.5" font-family="Helvetica,sans-Serif" font-size="10.00">restrictArgCount()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="382,-1355.5 382,-1355.5 507,-1355.5 507,-1355.5 382,-1355.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="382,-1340.5 382,-1340.5 405,-1340.5 405,-1340.5 382,-1340.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="405,-1340.5 405,-1340.5 507,-1340.5 507,-1340.5 405,-1340.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="381.5,-1174 381.5,-1373 506.5,-1373 506.5,-1174 381.5,-1174"/>
+<g id="a_Node000016"><a xlink:href="../../de/d67/classpocketmine_1_1nbt_1_1tag_1_1_compound_tag.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="720,-1077 606,-1077 606,-792 720,-792 720,-1077"/>
+<text text-anchor="start" x="615.5" y="-1064.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\nbt\tag</text>
+<text text-anchor="start" x="626.5" y="-1053.5" font-family="Helvetica,sans-Serif" font-size="10.00">\CompoundTag</text>
+<text text-anchor="start" x="661" y="-1038.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="610" y="-1023.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="623" y="-1023.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
+<text text-anchor="start" x="610" y="-1008.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="623" y="-1008.5" font-family="Helvetica,sans-Serif" font-size="10.00">__clone()</text>
+<text text-anchor="start" x="610" y="-993.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="623" y="-993.5" font-family="Helvetica,sans-Serif" font-size="10.00">count()</text>
+<text text-anchor="start" x="610" y="-978.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="623" y="-978.5" font-family="Helvetica,sans-Serif" font-size="10.00">equals()</text>
+<text text-anchor="start" x="610" y="-963.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="623" y="-963.5" font-family="Helvetica,sans-Serif" font-size="10.00">getByte()</text>
+<text text-anchor="start" x="610" y="-948.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="623" y="-948.5" font-family="Helvetica,sans-Serif" font-size="10.00">getByteArray()</text>
+<text text-anchor="start" x="610" y="-933.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="623" y="-933.5" font-family="Helvetica,sans-Serif" font-size="10.00">getCompoundTag()</text>
+<text text-anchor="start" x="610" y="-918.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="623" y="-918.5" font-family="Helvetica,sans-Serif" font-size="10.00">getCount()</text>
+<text text-anchor="start" x="610" y="-903.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="623" y="-903.5" font-family="Helvetica,sans-Serif" font-size="10.00">getDouble()</text>
+<text text-anchor="start" x="610" y="-888.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="623" y="-888.5" font-family="Helvetica,sans-Serif" font-size="10.00">getFloat()</text>
+<text text-anchor="start" x="623" y="-873.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 23 more...</text>
+<text text-anchor="start" x="610" y="-858.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="623" y="-858.5" font-family="Helvetica,sans-Serif" font-size="10.00">create()</text>
+<text text-anchor="start" x="610" y="-843.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="623" y="-843.5" font-family="Helvetica,sans-Serif" font-size="10.00">read()</text>
+<text text-anchor="start" x="610" y="-828.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="623" y="-828.5" font-family="Helvetica,sans-Serif" font-size="10.00">getTypeName()</text>
+<text text-anchor="start" x="610" y="-813.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="623" y="-813.5" font-family="Helvetica,sans-Serif" font-size="10.00">makeCopy()</text>
+<text text-anchor="start" x="610" y="-798.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="623" y="-798.5" font-family="Helvetica,sans-Serif" font-size="10.00">stringifyValue()</text>
+<polygon fill="#666666" stroke="#666666" points="606,-1048.5 606,-1048.5 720,-1048.5 720,-1048.5 606,-1048.5"/>
+<polygon fill="#666666" stroke="#666666" points="606,-1033.5 606,-1033.5 720,-1033.5 720,-1033.5 606,-1033.5"/>
+<polygon fill="none" stroke="#666666" points="606,-792 606,-1077 720,-1077 720,-792 606,-792"/>
 </a>
 </g>
 </g>
-<!-- Node16&#45;&gt;Node15 -->
-<g id="edge15_Node000015_Node000016" class="edge">
-<title>Node16&#45;&gt;Node15</title>
-<g id="a_edge15_Node000015_Node000016"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M479.74,-1164C488.85,-1136.35 498.77,-1106.22 508.33,-1077.18"/>
-<polygon fill="none" stroke="#63b8ff" points="476.36,-1163.07 476.55,-1173.67 483.01,-1165.26 476.36,-1163.07"/>
+<!-- Node16&#45;&gt;Node14 -->
+<g id="edge15_Node000014_Node000016" class="edge">
+<title>Node16&#45;&gt;Node14</title>
+<g id="a_edge15_Node000014_Node000016"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M634.78,-791.72C632.52,-780.37 630.21,-768.73 627.87,-756.97"/>
+<polygon fill="none" stroke="#63b8ff" points="627.86,-756.94 622.77,-751.83 625.52,-745.17 630.61,-750.27 627.86,-756.94"/>
 </a>
 </g>
+<text text-anchor="middle" x="674.5" y="-766" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$blockEntityTag</text>
 </g>
 <!-- Node17 -->
 <g id="Node000017" class="node">
 <title>Node17</title>
-<g id="a_Node000017"><a xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="585,-1298 525,-1298 525,-1249 585,-1249 585,-1298"/>
-<text text-anchor="start" x="530" y="-1285.5" font-family="Helvetica,sans-Serif" font-size="10.00">Countable</text>
-<text text-anchor="start" x="553" y="-1270.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="553" y="-1255.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="525,-1280.5 525,-1280.5 585,-1280.5 585,-1280.5 525,-1280.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="525,-1265.5 525,-1265.5 585,-1265.5 585,-1265.5 525,-1265.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="525,-1249 525,-1298 585,-1298 585,-1249 525,-1249"/>
+<g id="a_Node000017"><a xlink:href="../../dc/d26/classpocketmine_1_1nbt_1_1tag_1_1_tag.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="614.5,-1373 489.5,-1373 489.5,-1174 614.5,-1174 614.5,-1373"/>
+<text text-anchor="start" x="495" y="-1360.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\nbt\tag\Tag</text>
+<text text-anchor="start" x="498" y="-1345.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="515" y="-1345.5" font-family="Helvetica,sans-Serif" font-size="10.00">$cloning</text>
+<text text-anchor="start" x="498" y="-1330.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="515" y="-1330.5" font-family="Helvetica,sans-Serif" font-size="10.00">__toString()</text>
+<text text-anchor="start" x="498" y="-1315.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="515" y="-1315.5" font-family="Helvetica,sans-Serif" font-size="10.00">equals()</text>
+<text text-anchor="start" x="498" y="-1300.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="515" y="-1300.5" font-family="Helvetica,sans-Serif" font-size="10.00">getType()</text>
+<text text-anchor="start" x="498" y="-1285.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="515" y="-1285.5" font-family="Helvetica,sans-Serif" font-size="10.00">getValue()</text>
+<text text-anchor="start" x="498" y="-1270.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="515" y="-1270.5" font-family="Helvetica,sans-Serif" font-size="10.00">safeClone()</text>
+<text text-anchor="start" x="498" y="-1255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="515" y="-1255.5" font-family="Helvetica,sans-Serif" font-size="10.00">toString()</text>
+<text text-anchor="start" x="498" y="-1240.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="515" y="-1240.5" font-family="Helvetica,sans-Serif" font-size="10.00">write()</text>
+<text text-anchor="start" x="498" y="-1225.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="515" y="-1225.5" font-family="Helvetica,sans-Serif" font-size="10.00">getTypeName()</text>
+<text text-anchor="start" x="498" y="-1210.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="515" y="-1210.5" font-family="Helvetica,sans-Serif" font-size="10.00">makeCopy()</text>
+<text text-anchor="start" x="498" y="-1195.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="515" y="-1195.5" font-family="Helvetica,sans-Serif" font-size="10.00">stringifyValue()</text>
+<text text-anchor="start" x="498" y="-1180.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="515" y="-1180.5" font-family="Helvetica,sans-Serif" font-size="10.00">restrictArgCount()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="490,-1355.5 490,-1355.5 615,-1355.5 615,-1355.5 490,-1355.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="490,-1340.5 490,-1340.5 513,-1340.5 513,-1340.5 490,-1340.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="513,-1340.5 513,-1340.5 615,-1340.5 615,-1340.5 513,-1340.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="489.5,-1174 489.5,-1373 614.5,-1373 614.5,-1174 489.5,-1174"/>
 </a>
 </g>
 </g>
-<!-- Node17&#45;&gt;Node15 -->
-<g id="edge16_Node000015_Node000017" class="edge">
-<title>Node17&#45;&gt;Node15</title>
-<g id="a_edge16_Node000015_Node000017"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M555,-1238.34C555,-1200.35 555,-1136.5 555,-1077.19"/>
-<polygon fill="none" stroke="#63b8ff" points="551.5,-1238.8 555,-1248.8 558.5,-1238.8 551.5,-1238.8"/>
+<!-- Node17&#45;&gt;Node16 -->
+<g id="edge16_Node000016_Node000017" class="edge">
+<title>Node17&#45;&gt;Node16</title>
+<g id="a_edge16_Node000016_Node000017"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M587.74,-1164C596.85,-1136.35 606.77,-1106.22 616.33,-1077.18"/>
+<polygon fill="none" stroke="#63b8ff" points="584.36,-1163.07 584.55,-1173.67 591.01,-1165.26 584.36,-1163.07"/>
 </a>
 </g>
 </g>
@@ -787,22 +791,45 @@
 <g id="Node000018" class="node">
 <title>Node18</title>
 <g id="a_Node000018"><a xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="700.5,-1298 603.5,-1298 603.5,-1249 700.5,-1249 700.5,-1298"/>
-<text text-anchor="start" x="609" y="-1285.5" font-family="Helvetica,sans-Serif" font-size="10.00">IteratorAggregate</text>
-<text text-anchor="start" x="650.5" y="-1270.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="650.5" y="-1255.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="604,-1280.5 604,-1280.5 701,-1280.5 701,-1280.5 604,-1280.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="604,-1265.5 604,-1265.5 701,-1265.5 701,-1265.5 604,-1265.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="603.5,-1249 603.5,-1298 700.5,-1298 700.5,-1249 603.5,-1249"/>
+<polygon fill="white" stroke="transparent" points="693,-1298 633,-1298 633,-1249 693,-1249 693,-1298"/>
+<text text-anchor="start" x="638" y="-1285.5" font-family="Helvetica,sans-Serif" font-size="10.00">Countable</text>
+<text text-anchor="start" x="661" y="-1270.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="661" y="-1255.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="633,-1280.5 633,-1280.5 693,-1280.5 693,-1280.5 633,-1280.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="633,-1265.5 633,-1265.5 693,-1265.5 693,-1265.5 633,-1265.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="633,-1249 633,-1298 693,-1298 693,-1249 633,-1249"/>
 </a>
 </g>
 </g>
-<!-- Node18&#45;&gt;Node15 -->
-<g id="edge17_Node000015_Node000018" class="edge">
-<title>Node18&#45;&gt;Node15</title>
-<g id="a_edge17_Node000015_Node000018"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M642.31,-1238.82C631.39,-1200.89 612.93,-1136.75 595.78,-1077.19"/>
-<polygon fill="none" stroke="#63b8ff" points="639.05,-1240.16 645.18,-1248.8 645.78,-1238.22 639.05,-1240.16"/>
+<!-- Node18&#45;&gt;Node16 -->
+<g id="edge17_Node000016_Node000018" class="edge">
+<title>Node18&#45;&gt;Node16</title>
+<g id="a_edge17_Node000016_Node000018"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M663,-1238.34C663,-1200.35 663,-1136.5 663,-1077.19"/>
+<polygon fill="none" stroke="#63b8ff" points="659.5,-1238.8 663,-1248.8 666.5,-1238.8 659.5,-1238.8"/>
+</a>
+</g>
+</g>
+<!-- Node19 -->
+<g id="Node000019" class="node">
+<title>Node19</title>
+<g id="a_Node000019"><a xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="808.5,-1298 711.5,-1298 711.5,-1249 808.5,-1249 808.5,-1298"/>
+<text text-anchor="start" x="717" y="-1285.5" font-family="Helvetica,sans-Serif" font-size="10.00">IteratorAggregate</text>
+<text text-anchor="start" x="758.5" y="-1270.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="758.5" y="-1255.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="712,-1280.5 712,-1280.5 809,-1280.5 809,-1280.5 712,-1280.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="712,-1265.5 712,-1265.5 809,-1265.5 809,-1265.5 712,-1265.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="711.5,-1249 711.5,-1298 808.5,-1298 808.5,-1249 711.5,-1249"/>
+</a>
+</g>
+</g>
+<!-- Node19&#45;&gt;Node16 -->
+<g id="edge18_Node000016_Node000019" class="edge">
+<title>Node19&#45;&gt;Node16</title>
+<g id="a_edge18_Node000016_Node000019"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M750.31,-1238.82C739.39,-1200.89 720.93,-1136.75 703.78,-1077.19"/>
+<polygon fill="none" stroke="#63b8ff" points="747.05,-1240.16 753.18,-1248.8 753.78,-1238.22 747.05,-1240.16"/>
 </a>
 </g>
 </g>

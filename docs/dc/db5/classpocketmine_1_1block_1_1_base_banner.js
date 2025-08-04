@@ -65,6 +65,7 @@ var classpocketmine_1_1block_1_1_base_banner =
     [ "place", "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#a3034ae91c0ec46e9567e1be483ae5ff6", null ],
     [ "readStateFromWorld", "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#aeb20ff2ee974d4684b838daffe726ca2", null ],
     [ "recalculateCollisionBoxes", "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#a94d7b31db84d6ac161d1864fc7e9587b", null ],
+    [ "setColor", "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#af95495be09d518364547340a75b91392", null ],
     [ "setPatterns", "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#a210f41a0a7d20f12b00c27a8402e4a43", null ],
     [ "ticksRandomly", "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#ab6b90601adfc9732893dcffe256514a9", null ],
     [ "writeStateToWorld", "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#afd2762b6c2ec7b9910fb9f6b45fa7c0c", null ]
