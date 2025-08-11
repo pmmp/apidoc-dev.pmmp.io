@@ -1,5 +1,7 @@
 var NAVTREEINDEX136 =
 {
+"d8/deb/classpocketmine_1_1block_1_1_leaves.html#ade77e0b1fce7bdebceed4092b9c5c022":[2,0,0,0,136,34],
+"d8/deb/classpocketmine_1_1block_1_1_leaves.html#ade77e0b1fce7bdebceed4092b9c5c022":[3,0,1,0,138,34],
 "d8/deb/classpocketmine_1_1block_1_1_leaves.html#ae129ef1bce665a265c5a8166884c9b30":[2,0,0,0,136,57],
 "d8/deb/classpocketmine_1_1block_1_1_leaves.html#ae129ef1bce665a265c5a8166884c9b30":[3,0,1,0,138,57],
 "d8/deb/classpocketmine_1_1block_1_1_leaves.html#ae63f1caeecc194a3eaa62ab745d2d798":[2,0,0,0,136,38],
@@ -172,7 +174,7 @@ var NAVTREEINDEX136 =
 "d8/dee/classpocketmine_1_1block_1_1_powered_rail.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,169,28],
 "d8/dee/classpocketmine_1_1block_1_1_powered_rail.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,171,28],
 "d8/def/_loom_inventory_8php_source.html":[4,0,0,0,0,15],
-"d8/df0/_camera_preset_8php_source.html":[4,0,1,0,1,0,1,1,11],
+"d8/df0/_camera_preset_8php_source.html":[4,0,1,0,1,0,1,1,12],
 "d8/df1/_monster_spawner_8php_source.html":[4,0,0,0,151],
 "d8/df1/classpocketmine_1_1event_1_1inventory_1_1_furnace_smelt_event.html":[2,0,0,3,2,2],
 "d8/df1/classpocketmine_1_1event_1_1inventory_1_1_furnace_smelt_event.html":[3,0,1,9,2,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX136 =
 "d8/df2/classpocketmine_1_1block_1_1_blue_ice.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,0,0,29,56],
 "d8/df2/classpocketmine_1_1block_1_1_blue_ice.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,31,56],
 "d8/df2/classpocketmine_1_1block_1_1_blue_ice.html#a8a733c2fe564a205938a9146c8b0e0f1":[2,0,0,0,29,63],
-"d8/df2/classpocketmine_1_1block_1_1_blue_ice.html#a8a733c2fe564a205938a9146c8b0e0f1":[3,0,1,0,31,63],
-"d8/df2/classpocketmine_1_1block_1_1_blue_ice.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,29,11],
-"d8/df2/classpocketmine_1_1block_1_1_blue_ice.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,31,11]
+"d8/df2/classpocketmine_1_1block_1_1_blue_ice.html#a8a733c2fe564a205938a9146c8b0e0f1":[3,0,1,0,31,63]
 };

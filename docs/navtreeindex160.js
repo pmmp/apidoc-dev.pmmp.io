@@ -1,5 +1,7 @@
 var NAVTREEINDEX160 =
 {
+"da/d8c/classpocketmine_1_1world_1_1format_1_1io_1_1data_1_1_java_world_data.html#ac39ea04ff044d9024b42fe2182798a78":[3,0,1,30,1,0,0,2,1],
+"da/d8c/classpocketmine_1_1world_1_1format_1_1io_1_1data_1_1_java_world_data.html#ac7b784b3055596080c2895d4a2e65284":[3,0,1,30,1,0,0,2,5],
 "da/d8c/classpocketmine_1_1world_1_1format_1_1io_1_1data_1_1_java_world_data.html#ad896ab62c0e732bd0504d23a6252f23c":[3,0,1,30,1,0,0,2,0],
 "da/d8c/classpocketmine_1_1world_1_1format_1_1io_1_1data_1_1_java_world_data.html#ae9d280f54b995095b3a045e770a9f0bf":[3,0,1,30,1,0,0,2,7],
 "da/d8c/classpocketmine_1_1world_1_1format_1_1io_1_1data_1_1_java_world_data.html#aee7c1b06f1e1df5ebab732dddd81af68":[3,0,1,30,1,0,0,2,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX160 =
 "da/daf/classpocketmine_1_1world_1_1sound_1_1_dripleaf_tilt_down_sound.html#ad00d2e5be1d94fab11cb29eee9883e41":[3,0,1,30,5,49,0],
 "da/db1/_nbt_stream_reader_8php_source.html":[4,0,1,0,8,0,9],
 "da/db6/classpocketmine_1_1world_1_1sound_1_1_copper_wax_remove_sound.html":[3,0,1,30,5,45],
-"da/db6/classpocketmine_1_1world_1_1sound_1_1_copper_wax_remove_sound.html#a1d9de6b73740a5a134f57beba5ebda35":[3,0,1,30,5,45,0],
-"da/db8/classpocketmine_1_1block_1_1_redstone_lamp.html":[2,0,0,0,178],
-"da/db8/classpocketmine_1_1block_1_1_redstone_lamp.html":[3,0,1,0,180]
+"da/db6/classpocketmine_1_1world_1_1sound_1_1_copper_wax_remove_sound.html#a1d9de6b73740a5a134f57beba5ebda35":[3,0,1,30,5,45,0]
 };

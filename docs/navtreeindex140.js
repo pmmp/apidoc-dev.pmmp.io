@@ -1,5 +1,7 @@
 var NAVTREEINDEX140 =
 {
+"d9/d15/classpocketmine_1_1block_1_1_packed_ice.html#a444028c60ad6c7afacda1a6cc3065e59":[2,0,0,0,162,13],
+"d9/d15/classpocketmine_1_1block_1_1_packed_ice.html#a444028c60ad6c7afacda1a6cc3065e59":[3,0,1,0,164,13],
 "d9/d15/classpocketmine_1_1block_1_1_packed_ice.html#a49395de82d025ca78745a17528049f18":[2,0,0,0,162,52],
 "d9/d15/classpocketmine_1_1block_1_1_packed_ice.html#a49395de82d025ca78745a17528049f18":[3,0,1,0,164,52],
 "d9/d15/classpocketmine_1_1block_1_1_packed_ice.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[2,0,0,0,162,36],
@@ -247,7 +249,5 @@ var NAVTREEINDEX140 =
 "d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,109,16],
 "d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,107,27],
 "d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,109,27],
-"d9/d1c/_set_world_spawn_command_8php_source.html":[4,0,0,1,0,28],
-"d9/d1c/classpocketmine_1_1data_1_1java_1_1_game_mode_id_map.html":[3,0,1,6,1,0],
-"d9/d1c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_player_permissions.html":[3,0,1,16,0,6,1,63]
+"d9/d1c/_set_world_spawn_command_8php_source.html":[4,0,0,1,0,28]
 };

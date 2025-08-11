@@ -1,5 +1,10 @@
 var NAVTREEINDEX216 =
 {
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,67,38],
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,69,38],
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,67,7],
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,69,7],
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a9c9b3dfce2e57bb4ddba1ee1fbe1928a":[2,0,0,0,67,45],
 "de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a9c9b3dfce2e57bb4ddba1ee1fbe1928a":[3,0,1,0,69,45],
 "de/d68/classpocketmine_1_1block_1_1_copper_ore.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,67,4],
 "de/d68/classpocketmine_1_1block_1_1_copper_ore.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,69,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX216 =
 "de/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_abilities_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,206,3],
 "de/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_abilities_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,206,1],
 "de/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_abilities_packet.html#ad85dd879a9e1a57fd8123eaaab5f8fbb":[3,0,1,16,0,6,206,7],
-"de/d7a/classpocketmine_1_1crafting_1_1_crafting_grid.html":[3,0,1,4,2],
-"de/d7a/classpocketmine_1_1crafting_1_1_crafting_grid.html#a0104746c6eceddc519011f354d610438":[3,0,1,4,2,6],
-"de/d7a/classpocketmine_1_1crafting_1_1_crafting_grid.html#a010a9ab31edc7fa850b79849037cede7":[3,0,1,4,2,25],
-"de/d7a/classpocketmine_1_1crafting_1_1_crafting_grid.html#a0d82853303c17a6f720b487287092395":[3,0,1,4,2,20],
-"de/d7a/classpocketmine_1_1crafting_1_1_crafting_grid.html#a18e623fb966824524eb1251e150b611c":[3,0,1,4,2,16],
-"de/d7a/classpocketmine_1_1crafting_1_1_crafting_grid.html#a295a782543c002623d01ec47a6e93329":[3,0,1,4,2,27]
+"de/d7a/classpocketmine_1_1crafting_1_1_crafting_grid.html":[3,0,1,4,2]
 };

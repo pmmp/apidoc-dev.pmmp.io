@@ -1,5 +1,7 @@
 var NAVTREEINDEX117 =
 {
+"d7/dda/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_jigsaw_structure_data_packet.html#ae1509e06cc64d6152c70870635247f43":[3,0,1,16,0,6,83,7],
+"d7/dda/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_jigsaw_structure_data_packet.html#ae1a28c9b11184d0088232f2b709336e9":[3,0,1,16,0,6,83,2],
 "d7/ddb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_dimension_data.html":[3,0,1,16,0,6,1,23],
 "d7/ddc/classpocketmine_1_1command_1_1utils_1_1_command_string_helper.html":[3,0,1,2,1,1],
 "d7/ddc/classpocketmine_1_1command_1_1utils_1_1_command_string_helper.html#a31c651ece9232e704c006233d2eb3a3d":[3,0,1,2,1,1,0],
@@ -222,7 +224,7 @@ var NAVTREEINDEX117 =
 "d7/deb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_container_close_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,51,1],
 "d7/deb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_container_close_packet.html#ac98e7577af9d7f94fd188f56b5839b91":[3,0,1,16,0,6,51,2],
 "d7/deb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_container_close_packet.html#ae6f2fbd4eaaf5768a10da5b1a71f0da6":[3,0,1,16,0,6,51,7],
-"d7/dec/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_preset_aim_assist.html":[3,0,1,16,0,6,1,1,10],
+"d7/dec/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_preset_aim_assist.html":[3,0,1,16,0,6,1,1,11],
 "d7/ded/_consumable_8php_source.html":[4,0,0,6,9],
 "d7/df0/_map_image_8php_source.html":[4,0,1,0,1,0,1,53],
 "d7/df0/classpocketmine_1_1block_1_1_iron_ore.html":[2,0,0,0,128],
@@ -247,7 +249,5 @@ var NAVTREEINDEX117 =
 "d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[3,0,1,0,130,25],
 "d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#a2f69b17d8bb1c49eaf8ee1b13e4fd6e2":[2,0,0,0,128,37],
 "d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#a2f69b17d8bb1c49eaf8ee1b13e4fd6e2":[3,0,1,0,130,37],
-"d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#a30a070aa7befb02f9fff5cbf2693c01e":[2,0,0,0,128,9],
-"d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#a30a070aa7befb02f9fff5cbf2693c01e":[3,0,1,0,130,9],
-"d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#a36afea9f0214193963f75577e8d48c26":[2,0,0,0,128,59]
+"d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#a30a070aa7befb02f9fff5cbf2693c01e":[2,0,0,0,128,9]
 };

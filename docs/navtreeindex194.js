@@ -1,5 +1,10 @@
 var NAVTREEINDEX194 =
 {
+"dc/de3/classpocketmine_1_1block_1_1_stone_button.html#a771a30c30a36b0992f54c57dc63af10d":[3,0,1,0,215,41],
+"dc/de3/classpocketmine_1_1block_1_1_stone_button.html#a8307fc850da5c3f36e9dfc7ce639fe55":[2,0,0,0,213,46],
+"dc/de3/classpocketmine_1_1block_1_1_stone_button.html#a8307fc850da5c3f36e9dfc7ce639fe55":[3,0,1,0,215,46],
+"dc/de3/classpocketmine_1_1block_1_1_stone_button.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[2,0,0,0,213,29],
+"dc/de3/classpocketmine_1_1block_1_1_stone_button.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,215,29],
 "dc/de3/classpocketmine_1_1block_1_1_stone_button.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,213,11],
 "dc/de3/classpocketmine_1_1block_1_1_stone_button.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,215,11],
 "dc/de3/classpocketmine_1_1block_1_1_stone_button.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,213,68],
@@ -244,10 +249,5 @@ var NAVTREEINDEX194 =
 "dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#ade77e0b1fce7bdebceed4092b9c5c022":[3,0,1,0,37,33],
 "dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#ae6f3cdb7eeee27448b561fa3f8323916":[2,0,0,0,35,48],
 "dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#ae6f3cdb7eeee27448b561fa3f8323916":[3,0,1,0,37,48],
-"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,35,32],
-"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#ae829b9f476afef6b23d6f4f7fd558e0f":[3,0,1,0,37,32],
-"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,35,54],
-"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,37,54],
-"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#af45a3d45c4ab6528c6641915722b9de8":[2,0,0,0,35,6],
-"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#af45a3d45c4ab6528c6641915722b9de8":[3,0,1,0,37,6]
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,35,32]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX168 =
 {
+"db/d38/classpocketmine_1_1block_1_1_slime.html#abce48b40feb225f4ce9b7cf2e02a9336":[2,0,0,0,196,55],
+"db/d38/classpocketmine_1_1block_1_1_slime.html#abce48b40feb225f4ce9b7cf2e02a9336":[3,0,1,0,198,55],
 "db/d38/classpocketmine_1_1block_1_1_slime.html#ac34d7d0bd5e5173f331e56f6b97ca796":[2,0,0,0,196,49],
 "db/d38/classpocketmine_1_1block_1_1_slime.html#ac34d7d0bd5e5173f331e56f6b97ca796":[3,0,1,0,198,49],
 "db/d38/classpocketmine_1_1block_1_1_slime.html#ac85f12ad4e4d729db9f27ecb8e97998b":[2,0,0,0,196,51],
@@ -247,7 +249,5 @@ var NAVTREEINDEX168 =
 "db/d63/_hopper_8php_source.html":[4,0,0,0,127],
 "db/d64/_block_inventory_trait_8php_source.html":[4,0,0,0,0,4],
 "db/d64/_block_object_to_state_serializer_8php_source.html":[4,0,0,5,0,0,0,0],
-"db/d65/raklib_2src_2protocol_2_packet_8php_source.html":[4,0,1,0,9,0,2,20],
-"db/d66/classpocketmine_1_1world_1_1generator_1_1normal_1_1_normal.html":[3,0,1,30,2,4,0],
-"db/d66/classpocketmine_1_1world_1_1generator_1_1normal_1_1_normal.html#a9626e17d9d5cb18fbb9224d7018fd4d8":[3,0,1,30,2,4,0,0]
+"db/d65/raklib_2src_2protocol_2_packet_8php_source.html":[4,0,1,0,9,0,2,20]
 };

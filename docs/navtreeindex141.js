@@ -1,5 +1,7 @@
 var NAVTREEINDEX141 =
 {
+"d9/d1c/classpocketmine_1_1data_1_1java_1_1_game_mode_id_map.html":[3,0,1,6,1,0],
+"d9/d1c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_player_permissions.html":[3,0,1,16,0,6,1,63],
 "d9/d1e/classpocketmine_1_1block_1_1_dried_kelp.html":[2,0,0,0,85],
 "d9/d1e/classpocketmine_1_1block_1_1_dried_kelp.html":[3,0,1,0,87],
 "d9/d1e/classpocketmine_1_1block_1_1_dried_kelp.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,85,58],
@@ -247,7 +249,5 @@ var NAVTREEINDEX141 =
 "d9/d20/classpocketmine_1_1block_1_1_door.html#acb449b40461f4800cf6e6288cb9a069d":[2,0,0,0,80,0],
 "d9/d20/classpocketmine_1_1block_1_1_door.html#acb449b40461f4800cf6e6288cb9a069d":[3,0,1,0,82,0],
 "d9/d20/classpocketmine_1_1block_1_1_door.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,80,25],
-"d9/d20/classpocketmine_1_1block_1_1_door.html#acb7cc5bba94398c6a329b3b2af8fa859":[3,0,1,0,82,25],
-"d9/d20/classpocketmine_1_1block_1_1_door.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[2,0,0,0,80,58],
-"d9/d20/classpocketmine_1_1block_1_1_door.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[3,0,1,0,82,58]
+"d9/d20/classpocketmine_1_1block_1_1_door.html#acb7cc5bba94398c6a329b3b2af8fa859":[3,0,1,0,82,25]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX180 =
 {
+"dc/d20/classpocketmine_1_1item_1_1_durable.html#abd2688f008221d4c5fcdacac754d807e":[2,0,0,5,36,41],
+"dc/d20/classpocketmine_1_1item_1_1_durable.html#abd2688f008221d4c5fcdacac754d807e":[3,0,1,12,37,41],
 "dc/d20/classpocketmine_1_1item_1_1_durable.html#abe253aa6fbfe2fc36389edadb753ffc7":[2,0,0,5,36,19],
 "dc/d20/classpocketmine_1_1item_1_1_durable.html#abe253aa6fbfe2fc36389edadb753ffc7":[3,0,1,12,37,19],
 "dc/d20/classpocketmine_1_1item_1_1_durable.html#ac534c116a4d2291a8d67f15c4b485b74":[2,0,0,5,36,27],
@@ -208,7 +210,7 @@ var NAVTREEINDEX180 =
 "dc/d35/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_multiplayer_settings_packet.html#aedfea63e9a82bee4b73d39e3fc429ebc":[3,0,1,16,0,6,105,7],
 "dc/d37/_block_death_event_8php_source.html":[4,0,0,7,0,3],
 "dc/d37/_huge_explode_seed_particle_8php_source.html":[4,0,0,25,4,18],
-"dc/d3a/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_set_instruction.html":[3,0,1,16,0,6,1,1,11],
+"dc/d3a/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_set_instruction.html":[3,0,1,16,0,6,1,1,12],
 "dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html":[2,0,0,0,201],
 "dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html":[3,0,1,0,203],
 "dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html#a012eb05337952ce21eb36ee2d52a4fbb":[2,0,0,0,201,64],
@@ -247,7 +249,5 @@ var NAVTREEINDEX180 =
 "dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html#a4546508b1d31f8091f12aa83a8ecbc32":[3,0,1,0,203,31],
 "dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html#a46b1d08b1e2a07b95da6e4f00d7f8a6e":[2,0,0,0,201,48],
 "dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html#a46b1d08b1e2a07b95da6e4f00d7f8a6e":[3,0,1,0,203,48],
-"dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[2,0,0,0,201,39],
-"dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[3,0,1,0,203,39],
-"dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html#a4cf9d206e4c05add6ebbb00bc3d25cc0":[2,0,0,0,201,66]
+"dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[2,0,0,0,201,39]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX148 =
 {
+"d9/d6f/classpocketmine_1_1item_1_1_item_type_ids.html":[2,0,0,5,63],
+"d9/d6f/classpocketmine_1_1item_1_1_item_type_ids.html":[3,0,1,12,64],
 "d9/d6f/classpocketmine_1_1item_1_1_item_type_ids.html#a5313a6bc3958d1fb0253f12556a5bd3f":[2,0,0,5,63,0],
 "d9/d6f/classpocketmine_1_1item_1_1_item_type_ids.html#a5313a6bc3958d1fb0253f12556a5bd3f":[3,0,1,12,64,0],
 "d9/d70/_pressure_plate_deactivate_sound_8php_source.html":[4,0,0,25,5,86],
@@ -247,7 +249,5 @@ var NAVTREEINDEX148 =
 "d9/d97/classpocketmine_1_1item_1_1_clock.html#aa807b0fa5751723fed80570a4de1231b":[2,0,0,5,21,42],
 "d9/d97/classpocketmine_1_1item_1_1_clock.html#aa807b0fa5751723fed80570a4de1231b":[3,0,1,12,22,42],
 "d9/d97/classpocketmine_1_1item_1_1_clock.html#aabd7c38d2f74e537da5bcc6149570fd8":[2,0,0,5,21,17],
-"d9/d97/classpocketmine_1_1item_1_1_clock.html#aabd7c38d2f74e537da5bcc6149570fd8":[3,0,1,12,22,17],
-"d9/d97/classpocketmine_1_1item_1_1_clock.html#aad9f6fbf32449170a157b787d4227ee6":[2,0,0,5,21,28],
-"d9/d97/classpocketmine_1_1item_1_1_clock.html#aad9f6fbf32449170a157b787d4227ee6":[3,0,1,12,22,28]
+"d9/d97/classpocketmine_1_1item_1_1_clock.html#aabd7c38d2f74e537da5bcc6149570fd8":[3,0,1,12,22,17]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX195 =
 {
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#ae829b9f476afef6b23d6f4f7fd558e0f":[3,0,1,0,37,32],
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,35,54],
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,37,54],
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#af45a3d45c4ab6528c6641915722b9de8":[2,0,0,0,35,6],
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#af45a3d45c4ab6528c6641915722b9de8":[3,0,1,0,37,6],
 "dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#af97d045122137ac415425b45e7b22a36":[2,0,0,0,35,49],
 "dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#af97d045122137ac415425b45e7b22a36":[3,0,1,0,37,49],
 "dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,0,0,35,29],
@@ -244,10 +249,5 @@ var NAVTREEINDEX195 =
 "dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aa2834fb1656bc61244f5a24091aaa600":[2,0,0,5,72,36],
 "dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aa2834fb1656bc61244f5a24091aaa600":[3,0,1,12,73,36],
 "dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aa807b0fa5751723fed80570a4de1231b":[2,0,0,5,72,46],
-"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aa807b0fa5751723fed80570a4de1231b":[3,0,1,12,73,46],
-"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aa8e6d5b0a8cc541423f4785fa3f4acdc":[2,0,0,5,72,8],
-"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aa8e6d5b0a8cc541423f4785fa3f4acdc":[3,0,1,12,73,8],
-"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aabd7c38d2f74e537da5bcc6149570fd8":[2,0,0,5,72,18],
-"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aabd7c38d2f74e537da5bcc6149570fd8":[3,0,1,12,73,18],
-"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aad9f6fbf32449170a157b787d4227ee6":[2,0,0,5,72,30]
+"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aa807b0fa5751723fed80570a4de1231b":[3,0,1,12,73,46]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX239 =
 {
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#aa27432059ecfd201a3cec74253b21fa9":[3,0,1,12,106,46],
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#aa2834fb1656bc61244f5a24091aaa600":[2,0,0,5,105,34],
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#aa2834fb1656bc61244f5a24091aaa600":[3,0,1,12,106,34],
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#aa74356d68747664f98e96439f4708f4d":[2,0,0,5,105,9],
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#aa74356d68747664f98e96439f4708f4d":[3,0,1,12,106,9],
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#aa807b0fa5751723fed80570a4de1231b":[2,0,0,5,105,42],
 "df/db6/classpocketmine_1_1item_1_1_string_item.html#aa807b0fa5751723fed80570a4de1231b":[3,0,1,12,106,42],
 "df/db6/classpocketmine_1_1item_1_1_string_item.html#aabd7c38d2f74e537da5bcc6149570fd8":[2,0,0,5,105,17],
 "df/db6/classpocketmine_1_1item_1_1_string_item.html#aabd7c38d2f74e537da5bcc6149570fd8":[3,0,1,12,106,17],
@@ -243,11 +249,5 @@ var NAVTREEINDEX239 =
 "df/dd6/_chunk_exception_8php_source.html":[4,0,0,25,1,2],
 "df/dda/_respawn_anchor_deplete_sound_8php_source.html":[4,0,0,25,5,92],
 "df/dda/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_presets_packet.html":[3,0,1,16,0,6,29],
-"df/dda/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_presets_packet.html#a269ce4a05de3864a700371a8abeace0a":[3,0,1,16,0,6,29,2],
-"df/dda/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_presets_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,29,4],
-"df/dda/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_presets_packet.html#a9501c3f52b15a82bdfbcfad1aa116088":[3,0,1,16,0,6,29,6],
-"df/dda/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_presets_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,29,0],
-"df/dda/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_presets_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,29,3],
-"df/dda/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_presets_packet.html#aa1f5de118a51dc49688ef688faf5bf87":[3,0,1,16,0,6,29,8],
-"df/dda/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_presets_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,29,1]
+"df/dda/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_presets_packet.html#a269ce4a05de3864a700371a8abeace0a":[3,0,1,16,0,6,29,2]
 };

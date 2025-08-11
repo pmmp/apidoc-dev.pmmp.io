@@ -1,5 +1,6 @@
 var NAVTREEINDEX102 =
 {
+"d6/dd1/classpocketmine_1_1block_1_1_candle.html#a36afea9f0214193963f75577e8d48c26":[3,0,1,0,44,59],
 "d6/dd1/classpocketmine_1_1block_1_1_candle.html#a3a46169e7d256b3a1f3af8c54ddba832":[2,0,0,0,42,62],
 "d6/dd1/classpocketmine_1_1block_1_1_candle.html#a3a46169e7d256b3a1f3af8c54ddba832":[3,0,1,0,44,62],
 "d6/dd1/classpocketmine_1_1block_1_1_candle.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,0,0,42,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX102 =
 "d6/dd1/classpocketmine_1_1block_1_1_nether_quartz_ore.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,156,27],
 "d6/dd5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_education_settings_packet.html":[3,0,1,16,0,6,66],
 "d6/dd5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_education_settings_packet.html#a1f95a72ef053f09b7294b3dd523a89d4":[3,0,1,16,0,6,66,7],
-"d6/dd5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_education_settings_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,66,4],
-"d6/dd5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_education_settings_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,66,0]
+"d6/dd5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_education_settings_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,66,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX91 =
 {
+"d6/d5a/classpocketmine_1_1item_1_1_coal.html#a2e7d9e107f4f24de4aabc19764dc7dc2":[3,0,1,12,24,16],
 "d6/d5a/classpocketmine_1_1item_1_1_coal.html#a2ee3936259ed3fd96fa07dcbcc4797c1":[2,0,0,5,23,23],
 "d6/d5a/classpocketmine_1_1item_1_1_coal.html#a2ee3936259ed3fd96fa07dcbcc4797c1":[3,0,1,12,24,23],
 "d6/d5a/classpocketmine_1_1item_1_1_coal.html#a30c23cf281199b48fbbe0f4c45c01fb9":[2,0,0,5,23,33],
@@ -248,6 +249,5 @@ var NAVTREEINDEX91 =
 "d6/d6a/classpocketmine_1_1block_1_1_redstone_ore.html#a47f44acacc3cf545a859a5a20540d47c":[2,0,0,0,179,20],
 "d6/d6a/classpocketmine_1_1block_1_1_redstone_ore.html#a47f44acacc3cf545a859a5a20540d47c":[3,0,1,0,181,20],
 "d6/d6a/classpocketmine_1_1block_1_1_redstone_ore.html#a49395de82d025ca78745a17528049f18":[2,0,0,0,179,52],
-"d6/d6a/classpocketmine_1_1block_1_1_redstone_ore.html#a49395de82d025ca78745a17528049f18":[3,0,1,0,181,52],
-"d6/d6a/classpocketmine_1_1block_1_1_redstone_ore.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[2,0,0,0,179,36]
+"d6/d6a/classpocketmine_1_1block_1_1_redstone_ore.html#a49395de82d025ca78745a17528049f18":[3,0,1,0,181,52]
 };

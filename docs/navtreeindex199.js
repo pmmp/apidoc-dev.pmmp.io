@@ -1,5 +1,10 @@
 var NAVTREEINDEX199 =
 {
+"dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html#a2e7d9e107f4f24de4aabc19764dc7dc2":[2,0,0,5,32,17],
+"dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html#a2e7d9e107f4f24de4aabc19764dc7dc2":[3,0,1,12,33,17],
+"dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html#a2ee3936259ed3fd96fa07dcbcc4797c1":[2,0,0,5,32,24],
+"dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html#a2ee3936259ed3fd96fa07dcbcc4797c1":[3,0,1,12,33,24],
+"dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html#a30c23cf281199b48fbbe0f4c45c01fb9":[2,0,0,5,32,35],
 "dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html#a30c23cf281199b48fbbe0f4c45c01fb9":[3,0,1,12,33,35],
 "dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html#a319a186a07d166461600dd4a639eb86f":[2,0,0,5,32,11],
 "dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html#a319a186a07d166461600dd4a639eb86f":[3,0,1,12,33,11],
@@ -244,10 +249,5 @@ var NAVTREEINDEX199 =
 "dd/d43/classpocketmine_1_1entity_1_1effect_1_1_levitation_effect.html#a6a3d10360dbcd001a11f3531e3a5234f":[3,0,1,7,1,10,5],
 "dd/d43/classpocketmine_1_1entity_1_1effect_1_1_levitation_effect.html#a6f10244e47d1979de4b4b92a84033ef6":[3,0,1,7,1,10,3],
 "dd/d43/classpocketmine_1_1entity_1_1effect_1_1_levitation_effect.html#a7b2e804f2bd6d6f11acae88699ccec85":[3,0,1,7,1,10,4],
-"dd/d43/classpocketmine_1_1entity_1_1effect_1_1_levitation_effect.html#ac8c2a223648c77bdc7343973a732159a":[3,0,1,7,1,10,1],
-"dd/d43/classpocketmine_1_1entity_1_1effect_1_1_levitation_effect.html#ad373dcbebf3bf6dd8c0be7ec52510702":[3,0,1,7,1,10,2],
-"dd/d45/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_scoreboard_identity_packet.html":[3,0,1,16,0,6,177],
-"dd/d45/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_scoreboard_identity_packet.html#a05098ac277415c03b9dae23cbdda63eb":[3,0,1,16,0,6,177,5],
-"dd/d45/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_scoreboard_identity_packet.html#a3061394ca4592ef1024bb1e3f5f5841e":[3,0,1,16,0,6,177,7],
-"dd/d45/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_scoreboard_identity_packet.html#a367c5be89ee8dfa4cbb42223c91995cc":[3,0,1,16,0,6,177,6]
+"dd/d43/classpocketmine_1_1entity_1_1effect_1_1_levitation_effect.html#ac8c2a223648c77bdc7343973a732159a":[3,0,1,7,1,10,1]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX221 =
 {
+"de/dc8/classpocketmine_1_1plugin_1_1_plugin_logger.html#af481321b150b700b751722731a1100ac":[2,0,0,10,15,3],
+"de/dc8/classpocketmine_1_1plugin_1_1_plugin_logger.html#af481321b150b700b751722731a1100ac":[3,0,1,19,15,3],
+"de/dc8/classpocketmine_1_1plugin_1_1_plugin_logger.html#afd90b06678e950d3df1fa3040ec2e39b":[2,0,0,10,15,4],
+"de/dc8/classpocketmine_1_1plugin_1_1_plugin_logger.html#afd90b06678e950d3df1fa3040ec2e39b":[3,0,1,19,15,4],
+"de/dc9/_player_data_save_exception_8php_source.html":[4,0,0,14,9],
+"de/dc9/_powered_rail_8php_source.html":[4,0,0,0,171],
 "de/dc9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_fade_instruction_time.html":[3,0,1,16,0,6,1,1,8],
 "de/dc9/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_server.html":[3,0,1,16,0,7,4],
 "de/dc9/classpocketmine_1_1network_1_1mcpe_1_1raklib_1_1_rak_lib_server.html#a6139874cff256e699f7ac83704f888dd":[3,0,1,16,0,7,4,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX221 =
 "de/dd3/classpocketmine_1_1item_1_1_egg.html#abd2688f008221d4c5fcdacac754d807e":[2,0,0,5,38,36],
 "de/dd3/classpocketmine_1_1item_1_1_egg.html#abd2688f008221d4c5fcdacac754d807e":[3,0,1,12,39,36],
 "de/dd3/classpocketmine_1_1item_1_1_egg.html#abe253aa6fbfe2fc36389edadb753ffc7":[2,0,0,5,38,18],
-"de/dd3/classpocketmine_1_1item_1_1_egg.html#abe253aa6fbfe2fc36389edadb753ffc7":[3,0,1,12,39,18],
-"de/dd3/classpocketmine_1_1item_1_1_egg.html#ac534c116a4d2291a8d67f15c4b485b74":[2,0,0,5,38,25],
-"de/dd3/classpocketmine_1_1item_1_1_egg.html#ac534c116a4d2291a8d67f15c4b485b74":[3,0,1,12,39,25],
-"de/dd3/classpocketmine_1_1item_1_1_egg.html#ac7e878537e8ea68cc0d4d565f9f25062":[2,0,0,5,38,41],
-"de/dd3/classpocketmine_1_1item_1_1_egg.html#ac7e878537e8ea68cc0d4d565f9f25062":[3,0,1,12,39,41],
-"de/dd3/classpocketmine_1_1item_1_1_egg.html#ad2d004e5063f6ca465ed956b024217b1":[2,0,0,5,38,26],
-"de/dd3/classpocketmine_1_1item_1_1_egg.html#ad2d004e5063f6ca465ed956b024217b1":[3,0,1,12,39,26]
+"de/dd3/classpocketmine_1_1item_1_1_egg.html#abe253aa6fbfe2fc36389edadb753ffc7":[3,0,1,12,39,18]
 };

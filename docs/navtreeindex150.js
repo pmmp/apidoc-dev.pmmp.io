@@ -1,5 +1,7 @@
 var NAVTREEINDEX150 =
 {
+"d9/db4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_spawn_experience_orb_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,188,0],
+"d9/db4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_spawn_experience_orb_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,188,3],
 "d9/db4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_spawn_experience_orb_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,188,1],
 "d9/db4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_spawn_experience_orb_packet.html#ad131278b5fb09b1fd57e1520a15044fa":[3,0,1,16,0,6,188,5],
 "d9/db4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_spawn_experience_orb_packet.html#af8cac5e88ce05cda9dac4f491a2336ce":[3,0,1,16,0,6,188,7],
@@ -7,7 +9,7 @@ var NAVTREEINDEX150 =
 "d9/db4/classpocketmine_1_1promise_1_1_promise.html#a5aca19f330d75e4e0816ccde00afec4e":[3,0,1,20,0,0],
 "d9/db4/classpocketmine_1_1promise_1_1_promise.html#a8c3963ca240c82cf314d94381d8578d9":[3,0,1,20,0,1],
 "d9/db7/tile_2_mob_head_8php_source.html":[4,0,0,0,1,24],
-"d9/db8/_camera_set_instruction_rotation_8php_source.html":[4,0,1,0,1,0,1,1,16],
+"d9/db8/_camera_set_instruction_rotation_8php_source.html":[4,0,1,0,1,0,1,1,17],
 "d9/db8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_move_actor_absolute_packet.html":[3,0,1,16,0,6,101],
 "d9/db8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_move_actor_absolute_packet.html#a503c0ca04021484ade460826d733118a":[3,0,1,16,0,6,101,7],
 "d9/db8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_move_actor_absolute_packet.html#a581a428bcf2c74c2e45daf3e9e42ca3f":[3,0,1,16,0,6,101,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX150 =
 "d9/dce/_enchant_table_8php_source.html":[4,0,0,0,1,15],
 "d9/dce/_plugin_disable_event_8php_source.html":[4,0,0,7,4,0],
 "d9/dce/classpocketmine_1_1command_1_1_simple_command_map.html":[2,0,0,1,7],
-"d9/dce/classpocketmine_1_1command_1_1_simple_command_map.html":[3,0,1,2,9],
-"d9/dce/classpocketmine_1_1command_1_1_simple_command_map.html#a2d61fb5f5b3227c592eb4a3b0804834d":[2,0,0,1,7,0],
-"d9/dce/classpocketmine_1_1command_1_1_simple_command_map.html#a2d61fb5f5b3227c592eb4a3b0804834d":[3,0,1,2,9,0]
+"d9/dce/classpocketmine_1_1command_1_1_simple_command_map.html":[3,0,1,2,9]
 };

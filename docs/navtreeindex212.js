@@ -1,5 +1,10 @@
 var NAVTREEINDEX212 =
 {
+"de/d16/classpocketmine_1_1item_1_1_chorus_fruit.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[2,0,0,5,20,3],
+"de/d16/classpocketmine_1_1item_1_1_chorus_fruit.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[3,0,1,12,21,3],
+"de/d16/classpocketmine_1_1item_1_1_chorus_fruit.html#a9dd9484fe3ab1afcbd2627860e01973a":[2,0,0,5,20,47],
+"de/d16/classpocketmine_1_1item_1_1_chorus_fruit.html#a9dd9484fe3ab1afcbd2627860e01973a":[3,0,1,12,21,47],
+"de/d16/classpocketmine_1_1item_1_1_chorus_fruit.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[2,0,0,5,20,9],
 "de/d16/classpocketmine_1_1item_1_1_chorus_fruit.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[3,0,1,12,21,9],
 "de/d16/classpocketmine_1_1item_1_1_chorus_fruit.html#aa27432059ecfd201a3cec74253b21fa9":[2,0,0,5,20,50],
 "de/d16/classpocketmine_1_1item_1_1_chorus_fruit.html#aa27432059ecfd201a3cec74253b21fa9":[3,0,1,12,21,50],
@@ -63,7 +68,7 @@ var NAVTREEINDEX212 =
 "de/d1c/classpocketmine_1_1event_1_1player_1_1_player_respawn_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,3,38,1],
 "de/d1d/_small_dripleaf_8php_source.html":[4,0,0,0,199],
 "de/d1f/_explode_particle_8php_source.html":[4,0,0,25,4,12],
-"de/d22/_camera_target_instruction_8php_source.html":[4,0,1,0,1,0,1,1,17],
+"de/d22/_camera_target_instruction_8php_source.html":[4,0,1,0,1,0,1,1,18],
 "de/d22/classpocketmine_1_1item_1_1_arrow.html":[2,0,0,5,4],
 "de/d22/classpocketmine_1_1item_1_1_arrow.html":[3,0,1,12,5],
 "de/d22/classpocketmine_1_1item_1_1_arrow.html#a0a422a89abd427286bc2f312100f968c":[2,0,0,5,4,30],
@@ -244,10 +249,5 @@ var NAVTREEINDEX212 =
 "de/d29/classpocketmine_1_1block_1_1_lantern.html#a75b16ca6e22355cf632466a969e79211":[2,0,0,0,132,41],
 "de/d29/classpocketmine_1_1block_1_1_lantern.html#a75b16ca6e22355cf632466a969e79211":[3,0,1,0,134,41],
 "de/d29/classpocketmine_1_1block_1_1_lantern.html#a771a30c30a36b0992f54c57dc63af10d":[2,0,0,0,132,40],
-"de/d29/classpocketmine_1_1block_1_1_lantern.html#a771a30c30a36b0992f54c57dc63af10d":[3,0,1,0,134,40],
-"de/d29/classpocketmine_1_1block_1_1_lantern.html#a8307fc850da5c3f36e9dfc7ce639fe55":[2,0,0,0,132,45],
-"de/d29/classpocketmine_1_1block_1_1_lantern.html#a8307fc850da5c3f36e9dfc7ce639fe55":[3,0,1,0,134,45],
-"de/d29/classpocketmine_1_1block_1_1_lantern.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[2,0,0,0,132,28],
-"de/d29/classpocketmine_1_1block_1_1_lantern.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,134,28],
-"de/d29/classpocketmine_1_1block_1_1_lantern.html#a8b4ee51ace291b9137bbc62d53389be1":[2,0,0,0,132,63]
+"de/d29/classpocketmine_1_1block_1_1_lantern.html#a771a30c30a36b0992f54c57dc63af10d":[3,0,1,0,134,40]
 };

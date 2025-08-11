@@ -1,5 +1,11 @@
 var NAVTREEINDEX228 =
 {
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#af9c9f94d4c46643cbdaeb7d06d3e44b1":[3,0,1,7,25,11],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#afdd4efc12fe21730ceb104af111f576d":[2,0,0,2,20,35],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#afdd4efc12fe21730ceb104af111f576d":[3,0,1,7,25,35],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#afeda8ddcc77181100f2934068c76facb":[2,0,0,2,20,42],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#afeda8ddcc77181100f2934068c76facb":[3,0,1,7,25,42],
+"df/d40/_ender_chest_inventory_8php_source.html":[4,0,0,0,0,12],
 "df/d41/_bidirectional_bandwidth_stats_tracker_8php_source.html":[4,0,0,12,5],
 "df/d43/classpocketmine_1_1item_1_1_clownfish.html":[2,0,0,5,22],
 "df/d43/classpocketmine_1_1item_1_1_clownfish.html":[3,0,1,12,23],
@@ -243,11 +249,5 @@ var NAVTREEINDEX228 =
 "df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,35,31],
 "df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#ab05ed23d3ff256f3f64cf6d86563c947":[2,0,0,0,33,8],
 "df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#ab05ed23d3ff256f3f64cf6d86563c947":[3,0,1,0,35,8],
-"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,33,19],
-"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,35,19],
-"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#ab6f623b466f3a77da4394a9ddb27edb6":[2,0,0,0,33,56],
-"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#ab6f623b466f3a77da4394a9ddb27edb6":[3,0,1,0,35,56],
-"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#ab92353cf0aa5c05ad26535f98a2b1dca":[2,0,0,0,33,26],
-"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#ab92353cf0aa5c05ad26535f98a2b1dca":[3,0,1,0,35,26],
-"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[2,0,0,0,33,12]
+"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,33,19]
 };

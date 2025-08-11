@@ -1,5 +1,6 @@
 var NAVTREEINDEX104 =
 {
+"d6/dfd/classpocketmine_1_1block_1_1_snow_layer.html#ae4948deb51c5f4f7aaca0a6b3c6d282b":[3,0,1,0,202,57],
 "d6/dfd/classpocketmine_1_1block_1_1_snow_layer.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,200,35],
 "d6/dfd/classpocketmine_1_1block_1_1_snow_layer.html#ae829b9f476afef6b23d6f4f7fd558e0f":[3,0,1,0,202,35],
 "d6/dfd/classpocketmine_1_1block_1_1_snow_layer.html#aea140cd843d3e1efce93ced787a0570f":[2,0,0,0,200,30],
@@ -248,6 +249,5 @@ var NAVTREEINDEX104 =
 "d7/d18/classpocketmine_1_1block_1_1_copper.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[2,0,0,0,63,25],
 "d7/d18/classpocketmine_1_1block_1_1_copper.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[3,0,1,0,65,25],
 "d7/d18/classpocketmine_1_1block_1_1_copper.html#a2f69b17d8bb1c49eaf8ee1b13e4fd6e2":[2,0,0,0,63,37],
-"d7/d18/classpocketmine_1_1block_1_1_copper.html#a2f69b17d8bb1c49eaf8ee1b13e4fd6e2":[3,0,1,0,65,37],
-"d7/d18/classpocketmine_1_1block_1_1_copper.html#a30a070aa7befb02f9fff5cbf2693c01e":[2,0,0,0,63,9]
+"d7/d18/classpocketmine_1_1block_1_1_copper.html#a2f69b17d8bb1c49eaf8ee1b13e4fd6e2":[3,0,1,0,65,37]
 };
