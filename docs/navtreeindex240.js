@@ -1,5 +1,17 @@
 var NAVTREEINDEX240 =
 {
+"df/dd4/classpocketmine_1_1event_1_1player_1_1_player_toggle_swim_event.html":[2,0,0,3,3,43],
+"df/dd4/classpocketmine_1_1event_1_1player_1_1_player_toggle_swim_event.html":[3,0,1,9,3,43],
+"df/dd4/classpocketmine_1_1event_1_1player_1_1_player_toggle_swim_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,3,43,0],
+"df/dd4/classpocketmine_1_1event_1_1player_1_1_player_toggle_swim_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,3,43,0],
+"df/dd4/classpocketmine_1_1event_1_1player_1_1_player_toggle_swim_event.html#a90efcab0d539a5cb5b17968dfa164017":[2,0,0,3,3,43,2],
+"df/dd4/classpocketmine_1_1event_1_1player_1_1_player_toggle_swim_event.html#a90efcab0d539a5cb5b17968dfa164017":[3,0,1,9,3,43,2],
+"df/dd4/classpocketmine_1_1event_1_1player_1_1_player_toggle_swim_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,0,3,3,43,1],
+"df/dd4/classpocketmine_1_1event_1_1player_1_1_player_toggle_swim_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,3,43,1],
+"df/dd6/_chunk_exception_8php_source.html":[4,0,0,25,1,2],
+"df/dda/_respawn_anchor_deplete_sound_8php_source.html":[4,0,0,25,5,92],
+"df/dda/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_presets_packet.html":[3,0,1,16,0,6,29],
+"df/dda/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_presets_packet.html#a269ce4a05de3864a700371a8abeace0a":[3,0,1,16,0,6,29,2],
 "df/dda/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_presets_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,29,4],
 "df/dda/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_presets_packet.html#a9501c3f52b15a82bdfbcfad1aa116088":[3,0,1,16,0,6,29,6],
 "df/dda/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_presets_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,29,0],
@@ -237,17 +249,5 @@ var NAVTREEINDEX240 =
 "df/dee/classpocketmine_1_1block_1_1_wall_banner.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,235,33],
 "df/dee/classpocketmine_1_1block_1_1_wall_banner.html#ae829b9f476afef6b23d6f4f7fd558e0f":[3,0,1,0,237,33],
 "df/dee/classpocketmine_1_1block_1_1_wall_banner.html#aeb20ff2ee974d4684b838daffe726ca2":[2,0,0,0,235,64],
-"df/dee/classpocketmine_1_1block_1_1_wall_banner.html#aeb20ff2ee974d4684b838daffe726ca2":[3,0,1,0,237,64],
-"df/dee/classpocketmine_1_1block_1_1_wall_banner.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,235,56],
-"df/dee/classpocketmine_1_1block_1_1_wall_banner.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,237,56],
-"df/dee/classpocketmine_1_1block_1_1_wall_banner.html#af45a3d45c4ab6528c6641915722b9de8":[2,0,0,0,235,6],
-"df/dee/classpocketmine_1_1block_1_1_wall_banner.html#af45a3d45c4ab6528c6641915722b9de8":[3,0,1,0,237,6],
-"df/dee/classpocketmine_1_1block_1_1_wall_banner.html#af95495be09d518364547340a75b91392":[2,0,0,0,235,66],
-"df/dee/classpocketmine_1_1block_1_1_wall_banner.html#af95495be09d518364547340a75b91392":[3,0,1,0,237,66],
-"df/dee/classpocketmine_1_1block_1_1_wall_banner.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,0,0,235,30],
-"df/dee/classpocketmine_1_1block_1_1_wall_banner.html#afcc19c437c8bef4487f5ecb956ae9a1a":[3,0,1,0,237,30],
-"df/dee/classpocketmine_1_1block_1_1_wall_banner.html#afd2762b6c2ec7b9910fb9f6b45fa7c0c":[2,0,0,0,235,70],
-"df/dee/classpocketmine_1_1block_1_1_wall_banner.html#afd2762b6c2ec7b9910fb9f6b45fa7c0c":[3,0,1,0,237,70],
-"df/dee/classpocketmine_1_1block_1_1_wall_banner.html#afe4928a6da38d63eccea78bd1a2fdcd3":[2,0,0,0,235,21],
-"df/dee/classpocketmine_1_1block_1_1_wall_banner.html#afe4928a6da38d63eccea78bd1a2fdcd3":[3,0,1,0,237,21]
+"df/dee/classpocketmine_1_1block_1_1_wall_banner.html#aeb20ff2ee974d4684b838daffe726ca2":[3,0,1,0,237,64]
 };

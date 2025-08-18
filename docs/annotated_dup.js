@@ -458,7 +458,9 @@ var annotated_dup =
               [ "BlockStateSerializerHelper", "de/d3a/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_serializer_helper.html", null ],
               [ "BlockStateToObjectDeserializer", "d1/d9c/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_to_object_deserializer.html", "d1/d9c/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_to_object_deserializer" ],
               [ "BlockStateWriter", "da/dc5/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_writer.html", "da/dc5/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_writer" ],
-              [ "UnsupportedBlockStateException", "d8/d56/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_unsupported_block_state_exception.html", null ]
+              [ "StringEnumMap", "da/ddf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_string_enum_map.html", "da/ddf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_string_enum_map" ],
+              [ "UnsupportedBlockStateException", "d8/d56/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_unsupported_block_state_exception.html", null ],
+              [ "ValueMappings", "da/d4e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_value_mappings.html", "da/d4e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_value_mappings" ]
             ] ],
             [ "upgrade", null, [
               [ "model", null, [

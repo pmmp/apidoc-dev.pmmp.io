@@ -1,5 +1,10 @@
 var NAVTREEINDEX149 =
 {
+"d9/d97/classpocketmine_1_1item_1_1_clock.html#aa2834fb1656bc61244f5a24091aaa600":[3,0,1,12,22,34],
+"d9/d97/classpocketmine_1_1item_1_1_clock.html#aa807b0fa5751723fed80570a4de1231b":[2,0,0,5,21,42],
+"d9/d97/classpocketmine_1_1item_1_1_clock.html#aa807b0fa5751723fed80570a4de1231b":[3,0,1,12,22,42],
+"d9/d97/classpocketmine_1_1item_1_1_clock.html#aabd7c38d2f74e537da5bcc6149570fd8":[2,0,0,5,21,17],
+"d9/d97/classpocketmine_1_1item_1_1_clock.html#aabd7c38d2f74e537da5bcc6149570fd8":[3,0,1,12,22,17],
 "d9/d97/classpocketmine_1_1item_1_1_clock.html#aad9f6fbf32449170a157b787d4227ee6":[2,0,0,5,21,28],
 "d9/d97/classpocketmine_1_1item_1_1_clock.html#aad9f6fbf32449170a157b787d4227ee6":[3,0,1,12,22,28],
 "d9/d97/classpocketmine_1_1item_1_1_clock.html#aba073e91196cf2978057ec4d3842aa76":[2,0,0,5,21,39],
@@ -244,10 +249,5 @@ var NAVTREEINDEX149 =
 "d9/db3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_play_sound_packet.html#a9d9e851f34922430eb79f4f954c62f77":[3,0,1,16,0,6,133,2],
 "d9/db3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_play_sound_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,133,0],
 "d9/db3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_play_sound_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,133,3],
-"d9/db3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_play_sound_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,133,1],
-"d9/db3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_play_sound_packet.html#ae85750fc699a7d492d43605d55bab925":[3,0,1,16,0,6,133,5],
-"d9/db4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_spawn_experience_orb_packet.html":[3,0,1,16,0,6,188],
-"d9/db4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_spawn_experience_orb_packet.html#a5717ad1da5ea3a1e4bc4468ea99b3a2d":[3,0,1,16,0,6,188,2],
-"d9/db4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_spawn_experience_orb_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,188,4],
-"d9/db4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_spawn_experience_orb_packet.html#a8ddb8ba5bb7be62d5575e8e5d0bbdb05":[3,0,1,16,0,6,188,6]
+"d9/db3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_play_sound_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,133,1]
 };

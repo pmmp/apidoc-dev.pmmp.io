@@ -1,5 +1,8 @@
 var NAVTREEINDEX52 =
 {
+"d3/da7/classpocketmine_1_1item_1_1enchantment_1_1_melee_weapon_enchantment.html":[3,0,1,12,0,11],
+"d3/da7/classpocketmine_1_1item_1_1enchantment_1_1_melee_weapon_enchantment.html#a08ed46fac725f7434593983de24794bd":[3,0,1,12,0,11,8],
+"d3/da7/classpocketmine_1_1item_1_1enchantment_1_1_melee_weapon_enchantment.html#a32075ad6f17fcf2b68e0bf967c7f2f58":[3,0,1,12,0,11,0],
 "d3/da7/classpocketmine_1_1item_1_1enchantment_1_1_melee_weapon_enchantment.html#a513ace727ac66a2a1c37f87c1b76c0fd":[3,0,1,12,0,11,2],
 "d3/da7/classpocketmine_1_1item_1_1enchantment_1_1_melee_weapon_enchantment.html#a62e35a177ddf2c42232aa7cd3dd26bfc":[3,0,1,12,0,11,6],
 "d3/da7/classpocketmine_1_1item_1_1enchantment_1_1_melee_weapon_enchantment.html#a6eee79efb8e07b635c919a8378a9cb28":[3,0,1,12,0,11,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX52 =
 "d3/dbc/classpocketmine_1_1block_1_1_chain.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,51,7],
 "d3/dbc/classpocketmine_1_1block_1_1_chain.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,49,4],
 "d3/dbc/classpocketmine_1_1block_1_1_chain.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,51,4],
-"d3/dbc/classpocketmine_1_1block_1_1_chain.html#aa4773f0153324728a2f41820fa52442d":[2,0,0,0,49,18],
-"d3/dbc/classpocketmine_1_1block_1_1_chain.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,51,18],
-"d3/dbc/classpocketmine_1_1block_1_1_chain.html#aac6828efb885bc8fe0f8876728ddde5d":[2,0,0,0,49,35],
-"d3/dbc/classpocketmine_1_1block_1_1_chain.html#aac6828efb885bc8fe0f8876728ddde5d":[3,0,1,0,51,35]
+"d3/dbc/classpocketmine_1_1block_1_1_chain.html#aa4773f0153324728a2f41820fa52442d":[2,0,0,0,49,18]
 };

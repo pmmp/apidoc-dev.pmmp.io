@@ -1,5 +1,17 @@
 var NAVTREEINDEX239 =
 {
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#a8e97e9296238bf8794a2d2f8e94e8a93":[3,0,1,12,106,47],
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#a95cfab40de7390593990a239f8e4af73":[2,0,0,5,105,11],
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#a95cfab40de7390593990a239f8e4af73":[3,0,1,12,106,11],
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#a9866a7ab362cec28252d67f6382a4ad4":[2,0,0,5,105,31],
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#a9866a7ab362cec28252d67f6382a4ad4":[3,0,1,12,106,31],
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[2,0,0,5,105,3],
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[3,0,1,12,106,3],
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#a9dd9484fe3ab1afcbd2627860e01973a":[2,0,0,5,105,43],
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#a9dd9484fe3ab1afcbd2627860e01973a":[3,0,1,12,106,43],
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[2,0,0,5,105,8],
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[3,0,1,12,106,8],
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#aa27432059ecfd201a3cec74253b21fa9":[2,0,0,5,105,46],
 "df/db6/classpocketmine_1_1item_1_1_string_item.html#aa27432059ecfd201a3cec74253b21fa9":[3,0,1,12,106,46],
 "df/db6/classpocketmine_1_1item_1_1_string_item.html#aa2834fb1656bc61244f5a24091aaa600":[2,0,0,5,105,34],
 "df/db6/classpocketmine_1_1item_1_1_string_item.html#aa2834fb1656bc61244f5a24091aaa600":[3,0,1,12,106,34],
@@ -237,17 +249,5 @@ var NAVTREEINDEX239 =
 "df/dd0/classpocketmine_1_1command_1_1defaults_1_1_enchant_command.html#ac9790f6d386568af660860ceb824ee9a":[3,0,1,2,0,9,3],
 "df/dd0/classpocketmine_1_1command_1_1defaults_1_1_enchant_command.html#acbccfc9431699f8cefb66e359419e1df":[3,0,1,2,0,9,1],
 "df/dd4/_detector_rail_8php_source.html":[4,0,0,0,79],
-"df/dd4/_lava_particle_8php_source.html":[4,0,0,25,4,23],
-"df/dd4/classpocketmine_1_1event_1_1player_1_1_player_toggle_swim_event.html":[2,0,0,3,3,43],
-"df/dd4/classpocketmine_1_1event_1_1player_1_1_player_toggle_swim_event.html":[3,0,1,9,3,43],
-"df/dd4/classpocketmine_1_1event_1_1player_1_1_player_toggle_swim_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,3,43,0],
-"df/dd4/classpocketmine_1_1event_1_1player_1_1_player_toggle_swim_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,3,43,0],
-"df/dd4/classpocketmine_1_1event_1_1player_1_1_player_toggle_swim_event.html#a90efcab0d539a5cb5b17968dfa164017":[2,0,0,3,3,43,2],
-"df/dd4/classpocketmine_1_1event_1_1player_1_1_player_toggle_swim_event.html#a90efcab0d539a5cb5b17968dfa164017":[3,0,1,9,3,43,2],
-"df/dd4/classpocketmine_1_1event_1_1player_1_1_player_toggle_swim_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,0,3,3,43,1],
-"df/dd4/classpocketmine_1_1event_1_1player_1_1_player_toggle_swim_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,3,43,1],
-"df/dd6/_chunk_exception_8php_source.html":[4,0,0,25,1,2],
-"df/dda/_respawn_anchor_deplete_sound_8php_source.html":[4,0,0,25,5,92],
-"df/dda/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_presets_packet.html":[3,0,1,16,0,6,29],
-"df/dda/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_presets_packet.html#a269ce4a05de3864a700371a8abeace0a":[3,0,1,16,0,6,29,2]
+"df/dd4/_lava_particle_8php_source.html":[4,0,0,25,4,23]
 };

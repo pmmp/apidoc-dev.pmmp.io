@@ -1,5 +1,17 @@
 var NAVTREEINDEX216 =
 {
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a83b1a1b69e7cf7ca9952a3b8d9c41356":[2,0,0,0,67,20],
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a83b1a1b69e7cf7ca9952a3b8d9c41356":[3,0,1,0,69,20],
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[2,0,0,0,67,28],
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,69,28],
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,0,0,67,56],
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,69,56],
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a8a733c2fe564a205938a9146c8b0e0f1":[2,0,0,0,67,63],
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a8a733c2fe564a205938a9146c8b0e0f1":[3,0,1,0,69,63],
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,67,11],
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,69,11],
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,67,65],
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,69,65],
 "de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,67,38],
 "de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,69,38],
 "de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,67,7],
@@ -237,17 +249,5 @@ var NAVTREEINDEX216 =
 "de/d75/classpocketmine_1_1item_1_1_string_to_item_parser.html#acbed028c72517571d021a8c2bdacb1e8":[3,0,1,12,107,0],
 "de/d76/_camera_aim_assist_category_priorities_8php_source.html":[4,0,1,0,1,0,1,1,4],
 "de/d76/_player_bed_enter_event_8php_source.html":[4,0,0,7,3,0],
-"de/d77/item_2_snowball_8php_source.html":[4,0,0,10,105],
-"de/d78/_network_nbt_serializer_8php_source.html":[4,0,1,0,1,0,0,2],
-"de/d78/_player_interact_event_8php_source.html":[4,0,0,7,3,23],
-"de/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_abilities_packet.html":[3,0,1,16,0,6,206],
-"de/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_abilities_packet.html#a13e7c93bdd99af6e71bd1d7b37a5128b":[3,0,1,16,0,6,206,5],
-"de/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_abilities_packet.html#a4e8013a288289bc924726c01aebac8e6":[3,0,1,16,0,6,206,2],
-"de/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_abilities_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,206,4],
-"de/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_abilities_packet.html#a9a198d62b93946093ab895082c1db4fa":[3,0,1,16,0,6,206,6],
-"de/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_abilities_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,206,0],
-"de/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_abilities_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,206,3],
-"de/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_abilities_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,206,1],
-"de/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_abilities_packet.html#ad85dd879a9e1a57fd8123eaaab5f8fbb":[3,0,1,16,0,6,206,7],
-"de/d7a/classpocketmine_1_1crafting_1_1_crafting_grid.html":[3,0,1,4,2]
+"de/d77/item_2_snowball_8php_source.html":[4,0,0,10,105]
 };

@@ -1,5 +1,16 @@
 var NAVTREEINDEX168 =
 {
+"db/d38/classpocketmine_1_1block_1_1_slime.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,198,31],
+"db/d38/classpocketmine_1_1block_1_1_slime.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,196,19],
+"db/d38/classpocketmine_1_1block_1_1_slime.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,198,19],
+"db/d38/classpocketmine_1_1block_1_1_slime.html#ab51ea2314ed5df2163bca971a462fb72":[2,0,0,0,196,8],
+"db/d38/classpocketmine_1_1block_1_1_slime.html#ab51ea2314ed5df2163bca971a462fb72":[3,0,1,0,198,8],
+"db/d38/classpocketmine_1_1block_1_1_slime.html#ab6b90601adfc9732893dcffe256514a9":[2,0,0,0,196,64],
+"db/d38/classpocketmine_1_1block_1_1_slime.html#ab6b90601adfc9732893dcffe256514a9":[3,0,1,0,198,64],
+"db/d38/classpocketmine_1_1block_1_1_slime.html#ab92353cf0aa5c05ad26535f98a2b1dca":[2,0,0,0,196,26],
+"db/d38/classpocketmine_1_1block_1_1_slime.html#ab92353cf0aa5c05ad26535f98a2b1dca":[3,0,1,0,198,26],
+"db/d38/classpocketmine_1_1block_1_1_slime.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[2,0,0,0,196,12],
+"db/d38/classpocketmine_1_1block_1_1_slime.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[3,0,1,0,198,12],
 "db/d38/classpocketmine_1_1block_1_1_slime.html#abce48b40feb225f4ce9b7cf2e02a9336":[2,0,0,0,196,55],
 "db/d38/classpocketmine_1_1block_1_1_slime.html#abce48b40feb225f4ce9b7cf2e02a9336":[3,0,1,0,198,55],
 "db/d38/classpocketmine_1_1block_1_1_slime.html#ac34d7d0bd5e5173f331e56f6b97ca796":[2,0,0,0,196,49],
@@ -238,16 +249,5 @@ var NAVTREEINDEX168 =
 "db/d5f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_jwt_header.html#a815fae8855a746cd4c43fa28a82767ef":[3,0,1,16,0,6,1,5,10,2],
 "db/d5f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_jwt_header.html#afd93cd786d86b92764eef8661c7cfde7":[3,0,1,16,0,6,1,5,10,0],
 "db/d60/_banner_pattern_type_8php_source.html":[4,0,0,0,2,8],
-"db/d61/_population_utils_8php_source.html":[4,0,0,25,2,15],
-"db/d61/_resource_pack_chunk_request_packet_8php_source.html":[4,0,1,0,1,0,149],
-"db/d61/_show_store_offer_redirect_type_8php_source.html":[4,0,1,0,1,0,1,76],
-"db/d62/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_u_i_inventory_slot_offset.html":[3,0,1,16,0,6,1,4,17],
-"db/d62/interfacepocketmine_1_1event_1_1_cancellable.html":[2,0,0,3,6],
-"db/d62/interfacepocketmine_1_1event_1_1_cancellable.html":[3,0,1,9,7],
-"db/d62/interfacepocketmine_1_1event_1_1_cancellable.html#a90efcab0d539a5cb5b17968dfa164017":[2,0,0,3,6,0],
-"db/d62/interfacepocketmine_1_1event_1_1_cancellable.html#a90efcab0d539a5cb5b17968dfa164017":[3,0,1,9,7,0],
-"db/d63/_hopper_8php_source.html":[4,0,0,0,127],
-"db/d64/_block_inventory_trait_8php_source.html":[4,0,0,0,0,4],
-"db/d64/_block_object_to_state_serializer_8php_source.html":[4,0,0,5,0,0,0,0],
-"db/d65/raklib_2src_2protocol_2_packet_8php_source.html":[4,0,1,0,9,0,2,20]
+"db/d61/_population_utils_8php_source.html":[4,0,0,25,2,15]
 };

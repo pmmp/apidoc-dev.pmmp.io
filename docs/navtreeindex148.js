@@ -1,5 +1,10 @@
 var NAVTREEINDEX148 =
 {
+"d9/d6b/classpocketmine_1_1entity_1_1_villager.html#afeda8ddcc77181100f2934068c76facb":[2,0,0,2,19,42],
+"d9/d6b/classpocketmine_1_1entity_1_1_villager.html#afeda8ddcc77181100f2934068c76facb":[3,0,1,7,24,42],
+"d9/d6e/_help_command_8php_source.html":[4,0,0,1,0,13],
+"d9/d6e/_multi_any_support_trait_8php_source.html":[4,0,0,0,2,40],
+"d9/d6f/_change_mob_property_packet_8php_source.html":[4,0,1,0,1,0,32],
 "d9/d6f/classpocketmine_1_1item_1_1_item_type_ids.html":[2,0,0,5,63],
 "d9/d6f/classpocketmine_1_1item_1_1_item_type_ids.html":[3,0,1,12,64],
 "d9/d6f/classpocketmine_1_1item_1_1_item_type_ids.html#a5313a6bc3958d1fb0253f12556a5bd3f":[2,0,0,5,63,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX148 =
 "d9/d97/classpocketmine_1_1item_1_1_clock.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[3,0,1,12,22,8],
 "d9/d97/classpocketmine_1_1item_1_1_clock.html#aa27432059ecfd201a3cec74253b21fa9":[2,0,0,5,21,46],
 "d9/d97/classpocketmine_1_1item_1_1_clock.html#aa27432059ecfd201a3cec74253b21fa9":[3,0,1,12,22,46],
-"d9/d97/classpocketmine_1_1item_1_1_clock.html#aa2834fb1656bc61244f5a24091aaa600":[2,0,0,5,21,34],
-"d9/d97/classpocketmine_1_1item_1_1_clock.html#aa2834fb1656bc61244f5a24091aaa600":[3,0,1,12,22,34],
-"d9/d97/classpocketmine_1_1item_1_1_clock.html#aa807b0fa5751723fed80570a4de1231b":[2,0,0,5,21,42],
-"d9/d97/classpocketmine_1_1item_1_1_clock.html#aa807b0fa5751723fed80570a4de1231b":[3,0,1,12,22,42],
-"d9/d97/classpocketmine_1_1item_1_1_clock.html#aabd7c38d2f74e537da5bcc6149570fd8":[2,0,0,5,21,17],
-"d9/d97/classpocketmine_1_1item_1_1_clock.html#aabd7c38d2f74e537da5bcc6149570fd8":[3,0,1,12,22,17]
+"d9/d97/classpocketmine_1_1item_1_1_clock.html#aa2834fb1656bc61244f5a24091aaa600":[2,0,0,5,21,34]
 };

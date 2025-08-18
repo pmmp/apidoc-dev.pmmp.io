@@ -1,5 +1,8 @@
 var NAVTREEINDEX66 =
 {
+"d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#a09f4667329f89292dd319d56c4243b59":[2,0,0,0,77,31],
+"d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#a09f4667329f89292dd319d56c4243b59":[3,0,1,0,79,31],
+"d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,77,18],
 "d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,79,18],
 "d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#a147b838e8b3dd652fdb2a7583be49610":[2,0,0,0,77,13],
 "d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#a147b838e8b3dd652fdb2a7583be49610":[3,0,1,0,79,13],
@@ -246,8 +249,5 @@ var NAVTREEINDEX66 =
 "d4/dc5/classpocketmine_1_1block_1_1_glow_lichen.html#ab6b90601adfc9732893dcffe256514a9":[3,0,1,0,116,68],
 "d4/dc5/classpocketmine_1_1block_1_1_glow_lichen.html#ab92353cf0aa5c05ad26535f98a2b1dca":[2,0,0,0,114,27],
 "d4/dc5/classpocketmine_1_1block_1_1_glow_lichen.html#ab92353cf0aa5c05ad26535f98a2b1dca":[3,0,1,0,116,27],
-"d4/dc5/classpocketmine_1_1block_1_1_glow_lichen.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[2,0,0,0,114,12],
-"d4/dc5/classpocketmine_1_1block_1_1_glow_lichen.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[3,0,1,0,116,12],
-"d4/dc5/classpocketmine_1_1block_1_1_glow_lichen.html#abb40b151e3cbf6247cb1ec1c5f28d5bc":[2,0,0,0,114,25],
-"d4/dc5/classpocketmine_1_1block_1_1_glow_lichen.html#abb40b151e3cbf6247cb1ec1c5f28d5bc":[3,0,1,0,116,25]
+"d4/dc5/classpocketmine_1_1block_1_1_glow_lichen.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[2,0,0,0,114,12]
 };

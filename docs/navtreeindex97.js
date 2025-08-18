@@ -1,5 +1,8 @@
 var NAVTREEINDEX97 =
 {
+"d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html#a27ef1db0d41125973529fb720b06a00d":[2,0,0,5,108,34],
+"d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html#a27ef1db0d41125973529fb720b06a00d":[3,0,1,12,109,34],
+"d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html#a2b35e6f346e5955b086fcc07ead985a7":[2,0,0,5,108,25],
 "d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html#a2b35e6f346e5955b086fcc07ead985a7":[3,0,1,12,109,25],
 "d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html#a2bcaa528592d9ae259e2e6d0b89f375d":[2,0,0,5,108,22],
 "d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html#a2bcaa528592d9ae259e2e6d0b89f375d":[3,0,1,12,109,22],
@@ -246,8 +249,5 @@ var NAVTREEINDEX97 =
 "d6/dae/classpocketmine_1_1block_1_1_bamboo_sapling.html#af85e45eff3ed9638a49da08745b5244e":[3,0,1,0,8,48],
 "d6/dae/classpocketmine_1_1block_1_1_bamboo_sapling.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,0,0,6,29],
 "d6/dae/classpocketmine_1_1block_1_1_bamboo_sapling.html#afcc19c437c8bef4487f5ecb956ae9a1a":[3,0,1,0,8,29],
-"d6/dae/classpocketmine_1_1block_1_1_bamboo_sapling.html#afe4928a6da38d63eccea78bd1a2fdcd3":[2,0,0,0,6,21],
-"d6/dae/classpocketmine_1_1block_1_1_bamboo_sapling.html#afe4928a6da38d63eccea78bd1a2fdcd3":[3,0,1,0,8,21],
-"d6/dae/classpocketmine_1_1block_1_1_bamboo_sapling.html#afe506084e4bb8741a7ac64f6d90c00a5":[2,0,0,0,6,16],
-"d6/dae/classpocketmine_1_1block_1_1_bamboo_sapling.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,8,16]
+"d6/dae/classpocketmine_1_1block_1_1_bamboo_sapling.html#afe4928a6da38d63eccea78bd1a2fdcd3":[2,0,0,0,6,21]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX152 =
 {
+"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a23c827b82179f8a57b786a6fa38d08e8":[3,0,1,12,58,19],
+"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a27ef1db0d41125973529fb720b06a00d":[2,0,0,5,57,32],
+"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a27ef1db0d41125973529fb720b06a00d":[3,0,1,12,58,32],
+"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a2b35e6f346e5955b086fcc07ead985a7":[2,0,0,5,57,24],
+"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a2b35e6f346e5955b086fcc07ead985a7":[3,0,1,12,58,24],
 "d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a2bcaa528592d9ae259e2e6d0b89f375d":[2,0,0,5,57,21],
 "d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a2bcaa528592d9ae259e2e6d0b89f375d":[3,0,1,12,58,21],
 "d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a2ce778f940de9e172cd268f378893b8f":[2,0,0,5,57,13],
@@ -244,10 +249,5 @@ var NAVTREEINDEX152 =
 "da/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_item_type_dictionary.html":[3,0,1,16,0,6,0,1],
 "da/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_item_type_dictionary.html#a1ad4ad3c335214e63ccf19e0a7cf83af":[3,0,1,16,0,6,0,1,1],
 "da/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_item_type_dictionary.html#ac65688d46092a7ad816fea5dc27380de":[3,0,1,16,0,6,0,1,0],
-"da/d02/_crash_dump_data_8php_source.html":[4,0,0,4,1],
-"da/d02/classpocketmine_1_1entity_1_1effect_1_1_effect_manager.html":[3,0,1,7,1,3],
-"da/d02/classpocketmine_1_1entity_1_1effect_1_1_effect_manager.html#a0965cbdffc097e217ef65931b2662cae":[3,0,1,7,1,3,2],
-"da/d02/classpocketmine_1_1entity_1_1effect_1_1_effect_manager.html#a275eb85609217f8d3f5d78aca290afcb":[3,0,1,7,1,3,5],
-"da/d02/classpocketmine_1_1entity_1_1effect_1_1_effect_manager.html#a471b1d413d13f5eaf58f91a6e4ad237a":[3,0,1,7,1,3,1],
-"da/d02/classpocketmine_1_1entity_1_1effect_1_1_effect_manager.html#a533b1fd076bb7cf6945c7f7b5883c3c1":[3,0,1,7,1,3,7]
+"da/d02/_crash_dump_data_8php_source.html":[4,0,0,4,1]
 };

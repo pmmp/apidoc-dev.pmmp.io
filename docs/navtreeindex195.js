@@ -1,5 +1,16 @@
 var NAVTREEINDEX195 =
 {
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#ad925607ef09026804dbbf059583e3add":[2,0,0,0,35,42],
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#ad925607ef09026804dbbf059583e3add":[3,0,1,0,37,42],
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#adc7b2fcbcc10f046b1cbcafdd0858863":[2,0,0,0,35,1],
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#adc7b2fcbcc10f046b1cbcafdd0858863":[3,0,1,0,37,1],
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#add4d4fd4fecc779dee9c9f94b8a556e5":[2,0,0,0,35,5],
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#add4d4fd4fecc779dee9c9f94b8a556e5":[3,0,1,0,37,5],
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#ade77e0b1fce7bdebceed4092b9c5c022":[2,0,0,0,35,33],
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#ade77e0b1fce7bdebceed4092b9c5c022":[3,0,1,0,37,33],
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#ae6f3cdb7eeee27448b561fa3f8323916":[2,0,0,0,35,48],
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#ae6f3cdb7eeee27448b561fa3f8323916":[3,0,1,0,37,48],
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,35,32],
 "dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#ae829b9f476afef6b23d6f4f7fd558e0f":[3,0,1,0,37,32],
 "dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,35,54],
 "dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,37,54],
@@ -238,16 +249,5 @@ var NAVTREEINDEX195 =
 "dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#a95cfab40de7390593990a239f8e4af73":[3,0,1,12,73,12],
 "dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#a9866a7ab362cec28252d67f6382a4ad4":[2,0,0,5,72,33],
 "dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#a9866a7ab362cec28252d67f6382a4ad4":[3,0,1,12,73,33],
-"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[2,0,0,5,72,3],
-"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[3,0,1,12,73,3],
-"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#a9dd9484fe3ab1afcbd2627860e01973a":[2,0,0,5,72,47],
-"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#a9dd9484fe3ab1afcbd2627860e01973a":[3,0,1,12,73,47],
-"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[2,0,0,5,72,9],
-"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[3,0,1,12,73,9],
-"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aa27432059ecfd201a3cec74253b21fa9":[2,0,0,5,72,50],
-"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aa27432059ecfd201a3cec74253b21fa9":[3,0,1,12,73,50],
-"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aa2834fb1656bc61244f5a24091aaa600":[2,0,0,5,72,36],
-"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aa2834fb1656bc61244f5a24091aaa600":[3,0,1,12,73,36],
-"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aa807b0fa5751723fed80570a4de1231b":[2,0,0,5,72,46],
-"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aa807b0fa5751723fed80570a4de1231b":[3,0,1,12,73,46]
+"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[2,0,0,5,72,3]
 };

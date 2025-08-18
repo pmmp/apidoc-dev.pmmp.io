@@ -1,5 +1,8 @@
 var NAVTREEINDEX59 =
 {
+"d4/d2f/classpocketmine_1_1block_1_1_sponge.html#afe506084e4bb8741a7ac64f6d90c00a5":[2,0,0,0,204,16],
+"d4/d2f/classpocketmine_1_1block_1_1_sponge.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,206,16],
+"d4/d2f/classpocketmine_1_1block_1_1_sponge.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,204,27],
 "d4/d2f/classpocketmine_1_1block_1_1_sponge.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,206,27],
 "d4/d2f/classpocketmine_1_1data_1_1bedrock_1_1_enchantment_ids.html":[3,0,1,6,0,10],
 "d4/d31/classpocketmine_1_1block_1_1_lever.html":[2,0,0,0,138],
@@ -246,8 +249,5 @@ var NAVTREEINDEX59 =
 "d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,200,51],
 "d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#acb449b40461f4800cf6e6288cb9a069d":[2,0,0,0,198,0],
 "d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#acb449b40461f4800cf6e6288cb9a069d":[3,0,1,0,200,0],
-"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,198,24],
-"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#acb7cc5bba94398c6a329b3b2af8fa859":[3,0,1,0,200,24],
-"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[2,0,0,0,198,57],
-"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[3,0,1,0,200,57]
+"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,198,24]
 };

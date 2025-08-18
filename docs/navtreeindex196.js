@@ -1,5 +1,16 @@
 var NAVTREEINDEX196 =
 {
+"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[3,0,1,12,73,3],
+"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#a9dd9484fe3ab1afcbd2627860e01973a":[2,0,0,5,72,47],
+"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#a9dd9484fe3ab1afcbd2627860e01973a":[3,0,1,12,73,47],
+"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[2,0,0,5,72,9],
+"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[3,0,1,12,73,9],
+"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aa27432059ecfd201a3cec74253b21fa9":[2,0,0,5,72,50],
+"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aa27432059ecfd201a3cec74253b21fa9":[3,0,1,12,73,50],
+"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aa2834fb1656bc61244f5a24091aaa600":[2,0,0,5,72,36],
+"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aa2834fb1656bc61244f5a24091aaa600":[3,0,1,12,73,36],
+"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aa807b0fa5751723fed80570a4de1231b":[2,0,0,5,72,46],
+"dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aa807b0fa5751723fed80570a4de1231b":[3,0,1,12,73,46],
 "dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aa8e6d5b0a8cc541423f4785fa3f4acdc":[2,0,0,5,72,8],
 "dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aa8e6d5b0a8cc541423f4785fa3f4acdc":[3,0,1,12,73,8],
 "dd/d02/classpocketmine_1_1item_1_1_mushroom_stew.html#aabd7c38d2f74e537da5bcc6149570fd8":[2,0,0,5,72,18],
@@ -136,6 +147,7 @@ var NAVTREEINDEX196 =
 "dd/d08/classpocketmine_1_1item_1_1_item_block.html#af737301b899b7a7c9e9b0bb9a234a119":[3,0,1,12,60,7],
 "dd/d08/classpocketmine_1_1item_1_1_item_block.html#af85accbedba28b67bb66d5f12d329585":[2,0,0,5,59,37],
 "dd/d08/classpocketmine_1_1item_1_1_item_block.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,60,37],
+"dd/d09/_string_enum_map_8php_source.html":[4,0,0,5,0,0,0,6],
 "dd/d09/classpocketmine_1_1player_1_1_offline_player.html":[3,0,1,18,4],
 "dd/d0a/_compression_algorithm_8php_source.html":[4,0,1,0,1,0,1,22],
 "dd/d0a/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_item_stack_request_executor.html":[3,0,1,16,0,5,4],
@@ -237,17 +249,5 @@ var NAVTREEINDEX196 =
 "dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html#ab40b70be279c92682f4d91d7bdd35096":[3,0,1,14,1,3],
 "dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html#ababf1512bfcedd28cedfabe801000d3f":[2,0,0,6,1,2],
 "dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html#ababf1512bfcedd28cedfabe801000d3f":[3,0,1,14,1,2],
-"dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html#abd4953ca10412d52882381d5e5a7d81f":[2,0,0,6,1,17],
-"dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html#abd4953ca10412d52882381d5e5a7d81f":[3,0,1,14,1,17],
-"dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html#ac9ee8078bc3a8b20a765c67699a3342d":[2,0,0,6,1,0],
-"dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html#ac9ee8078bc3a8b20a765c67699a3342d":[3,0,1,14,1,0],
-"dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html#adbdea74993f66210353721863b9855f2":[2,0,0,6,1,23],
-"dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html#adbdea74993f66210353721863b9855f2":[3,0,1,14,1,23],
-"dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html#ae74c22b87cf5ac8620ce2afceb16209c":[2,0,0,6,1,16],
-"dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html#ae74c22b87cf5ac8620ce2afceb16209c":[3,0,1,14,1,16],
-"dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html#aec5757f714fb26b35db1762f490b014f":[2,0,0,6,1,18],
-"dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html#aec5757f714fb26b35db1762f490b014f":[3,0,1,14,1,18],
-"dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html#afa8d8e0d9598e87b01ef2be8d699cfd7":[2,0,0,6,1,1],
-"dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html#afa8d8e0d9598e87b01ef2be8d699cfd7":[3,0,1,14,1,1],
-"dd/d17/classpocketmine_1_1event_1_1block_1_1_structure_grow_event.html":[2,0,0,3,0,23]
+"dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html#abd4953ca10412d52882381d5e5a7d81f":[2,0,0,6,1,17]
 };

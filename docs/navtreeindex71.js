@@ -1,5 +1,8 @@
 var NAVTREEINDEX71 =
 {
+"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a319a186a07d166461600dd4a639eb86f":[3,0,1,12,78,11],
+"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a336d6f91be72079853413f5b4036a57d":[2,0,0,5,77,2],
+"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a336d6f91be72079853413f5b4036a57d":[3,0,1,12,78,2],
 "d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a3bc65b2324649d8735dadf9bf8cf0705":[2,0,0,5,77,48],
 "d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a3bc65b2324649d8735dadf9bf8cf0705":[3,0,1,12,78,48],
 "d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a49a05b01faaaf071449c97060fe44926":[2,0,0,5,77,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX71 =
 "d5/d0a/classpocketmine_1_1item_1_1_axe.html#afb489a765b44b99eb48d936afe81e212":[2,0,0,5,5,12],
 "d5/d0a/classpocketmine_1_1item_1_1_axe.html#afb489a765b44b99eb48d936afe81e212":[3,0,1,12,6,12],
 "d5/d0a/classpocketmine_1_1item_1_1_axe.html#afeeecf923ffec0b2cf16e9a571fc0d38":[2,0,0,5,5,38],
-"d5/d0a/classpocketmine_1_1item_1_1_axe.html#afeeecf923ffec0b2cf16e9a571fc0d38":[3,0,1,12,6,38],
-"d5/d0a/classpocketmine_1_1item_1_1enchantment_1_1_enchantment_instance.html":[3,0,1,12,0,4],
-"d5/d0a/classpocketmine_1_1item_1_1enchantment_1_1_enchantment_instance.html#a3b27b7c724cc7e1b283b2ec6429108e1":[3,0,1,12,0,4,0],
-"d5/d0a/classpocketmine_1_1item_1_1enchantment_1_1_enchantment_instance.html#acacebf07e30745aff1b59f7c5682d6a1":[3,0,1,12,0,4,1]
+"d5/d0a/classpocketmine_1_1item_1_1_axe.html#afeeecf923ffec0b2cf16e9a571fc0d38":[3,0,1,12,6,38]
 };

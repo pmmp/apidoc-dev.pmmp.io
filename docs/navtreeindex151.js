@@ -1,5 +1,10 @@
 var NAVTREEINDEX151 =
 {
+"d9/dcc/_creative_inventory_entry_8php_source.html":[4,0,0,9,8],
+"d9/dce/_enchant_table_8php_source.html":[4,0,0,0,1,15],
+"d9/dce/_plugin_disable_event_8php_source.html":[4,0,0,7,4,0],
+"d9/dce/classpocketmine_1_1command_1_1_simple_command_map.html":[2,0,0,1,7],
+"d9/dce/classpocketmine_1_1command_1_1_simple_command_map.html":[3,0,1,2,9],
 "d9/dce/classpocketmine_1_1command_1_1_simple_command_map.html#a2d61fb5f5b3227c592eb4a3b0804834d":[2,0,0,1,7,0],
 "d9/dce/classpocketmine_1_1command_1_1_simple_command_map.html#a2d61fb5f5b3227c592eb4a3b0804834d":[3,0,1,2,9,0],
 "d9/dce/classpocketmine_1_1command_1_1_simple_command_map.html#a826259e3accdc4610c6b5b5ba6ca8956":[2,0,0,1,7,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX151 =
 "d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a1179a3b7a49461ede413b50c82b5684a":[3,0,1,12,58,27],
 "d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a1df151eb419168f838e6d927c50f9210":[2,0,0,5,57,4],
 "d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a1df151eb419168f838e6d927c50f9210":[3,0,1,12,58,4],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a23c827b82179f8a57b786a6fa38d08e8":[2,0,0,5,57,19],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a23c827b82179f8a57b786a6fa38d08e8":[3,0,1,12,58,19],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a27ef1db0d41125973529fb720b06a00d":[2,0,0,5,57,32],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a27ef1db0d41125973529fb720b06a00d":[3,0,1,12,58,32],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a2b35e6f346e5955b086fcc07ead985a7":[2,0,0,5,57,24],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a2b35e6f346e5955b086fcc07ead985a7":[3,0,1,12,58,24]
+"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a23c827b82179f8a57b786a6fa38d08e8":[2,0,0,5,57,19]
 };

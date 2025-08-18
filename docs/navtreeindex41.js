@@ -1,5 +1,8 @@
 var NAVTREEINDEX41 =
 {
+"d2/db8/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_zlib_compressor.html#af386ea111199ed5cc16fefbce1c40f88":[3,0,1,16,0,2,4,1],
+"d2/db9/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_region_exception.html":[3,0,1,30,1,0,3,4],
+"d2/dbb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1biome_1_1chunkgen_1_1_biome_weighted_temperature_data.html":[3,0,1,16,0,6,1,0,0,17],
 "d2/dbc/_nbt_stream_writer_8php_source.html":[4,0,1,0,8,0,10],
 "d2/dbd/_packet_rate_limiter_8php_source.html":[4,0,0,12,0,19],
 "d2/dbd/_u_pn_p_8php_source.html":[4,0,0,12,2,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX41 =
 "d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a2295052904e3730345973ce47e4dc083":[3,0,1,0,66,66],
 "d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,64,22],
 "d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[3,0,1,0,66,22],
-"d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a286fc64348f13417dcb6106c2695911b":[2,0,0,0,64,2],
-"d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a286fc64348f13417dcb6106c2695911b":[3,0,1,0,66,2],
-"d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[2,0,0,0,64,25],
-"d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[3,0,1,0,66,25]
+"d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#a286fc64348f13417dcb6106c2695911b":[2,0,0,0,64,2]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX164 =
 {
+"da/dd7/classpocketmine_1_1world_1_1particle_1_1_heart_particle.html#aa3c9f9063701c690d7a6d908cfe97da6":[3,0,1,30,4,16,0],
+"da/dd9/_effect_ids_8php_source.html":[4,0,0,5,0,8],
+"da/ddd/classpocketmine_1_1utils_1_1_filesystem.html":[2,0,0,12,7],
+"da/ddd/classpocketmine_1_1utils_1_1_filesystem.html":[3,0,1,28,7],
+"da/ddd/classpocketmine_1_1utils_1_1_filesystem.html#a414d066751a7b3cc582344123835f5ff":[2,0,0,12,7,3],
+"da/ddd/classpocketmine_1_1utils_1_1_filesystem.html#a414d066751a7b3cc582344123835f5ff":[3,0,1,28,7,3],
+"da/ddd/classpocketmine_1_1utils_1_1_filesystem.html#a4c3ae51775c0d2f54e91bd3467909d5d":[2,0,0,12,7,2],
 "da/ddd/classpocketmine_1_1utils_1_1_filesystem.html#a4c3ae51775c0d2f54e91bd3467909d5d":[3,0,1,28,7,2],
 "da/ddd/classpocketmine_1_1utils_1_1_filesystem.html#a4d10c13c08994d33c947f5174ec967b5":[2,0,0,12,7,1],
 "da/ddd/classpocketmine_1_1utils_1_1_filesystem.html#a4d10c13c08994d33c947f5174ec967b5":[3,0,1,28,7,1],
@@ -10,6 +17,10 @@ var NAVTREEINDEX164 =
 "da/ddd/classpocketmine_1_1utils_1_1_filesystem.html#a8e9e278bb4a0a88652caafa3fb96c230":[2,0,0,12,7,5],
 "da/ddd/classpocketmine_1_1utils_1_1_filesystem.html#a8e9e278bb4a0a88652caafa3fb96c230":[3,0,1,28,7,5],
 "da/dde/_connection_request_8php_source.html":[4,0,1,0,9,0,2,6],
+"da/ddf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_string_enum_map.html":[3,0,1,6,0,0,0,6],
+"da/ddf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_string_enum_map.html#a1a4ad2cbee0f8d997b1dacf5ddc70fa0":[3,0,1,6,0,0,0,6,0],
+"da/ddf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_string_enum_map.html#ad606c243e9940224fa1cbef6204a76e6":[3,0,1,6,0,0,0,6,2],
+"da/ddf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_string_enum_map.html#aee221a8e2463a166d87281138f64f5bd":[3,0,1,6,0,0,0,6,1],
 "da/ddf/tile_2_cauldron_8php_source.html":[4,0,0,0,1,8],
 "da/de0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_attribute.html":[3,0,1,16,0,6,1,3,0],
 "da/de0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_attribute.html#a30335c6bc8537d8c0f2e02ee5f2c5ed1":[3,0,1,16,0,6,1,3,0,1],
@@ -238,16 +249,5 @@ var NAVTREEINDEX164 =
 "da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,72,71],
 "da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html#a983065db27892462c92d245ea78da026":[2,0,0,0,70,13],
 "da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html#a983065db27892462c92d245ea78da026":[3,0,1,0,72,13],
-"da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,70,39],
-"da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,72,39],
-"da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,70,7],
-"da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,72,7],
-"da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,70,4],
-"da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,72,4],
-"da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html#aa4773f0153324728a2f41820fa52442d":[2,0,0,0,70,17],
-"da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,72,17],
-"da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html#aab90087967229f1456a93718f2938ea9":[2,0,0,0,70,64],
-"da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html#aab90087967229f1456a93718f2938ea9":[3,0,1,0,72,64],
-"da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html#aac6828efb885bc8fe0f8876728ddde5d":[2,0,0,0,70,35],
-"da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html#aac6828efb885bc8fe0f8876728ddde5d":[3,0,1,0,72,35]
+"da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,70,39]
 };

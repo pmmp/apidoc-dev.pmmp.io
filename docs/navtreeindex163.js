@@ -1,5 +1,12 @@
 var NAVTREEINDEX163 =
 {
+"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a757245dc40dfd7bc69aacb369936f4c6":[3,0,1,0,232,30],
+"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a75b16ca6e22355cf632466a969e79211":[2,0,0,0,230,41],
+"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a75b16ca6e22355cf632466a969e79211":[3,0,1,0,232,41],
+"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a771a30c30a36b0992f54c57dc63af10d":[2,0,0,0,230,40],
+"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a771a30c30a36b0992f54c57dc63af10d":[3,0,1,0,232,40],
+"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a8307fc850da5c3f36e9dfc7ce639fe55":[2,0,0,0,230,45],
+"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a8307fc850da5c3f36e9dfc7ce639fe55":[3,0,1,0,232,45],
 "da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[2,0,0,0,230,28],
 "da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,232,28],
 "da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,230,11],
@@ -242,12 +249,5 @@ var NAVTREEINDEX163 =
 "da/dd7/classpocketmine_1_1block_1_1_carrot.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,46,16],
 "da/dd7/classpocketmine_1_1block_1_1_carrot.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,44,27],
 "da/dd7/classpocketmine_1_1block_1_1_carrot.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,46,27],
-"da/dd7/classpocketmine_1_1world_1_1particle_1_1_heart_particle.html":[3,0,1,30,4,16],
-"da/dd7/classpocketmine_1_1world_1_1particle_1_1_heart_particle.html#aa3c9f9063701c690d7a6d908cfe97da6":[3,0,1,30,4,16,0],
-"da/dd9/_effect_ids_8php_source.html":[4,0,0,5,0,8],
-"da/ddd/classpocketmine_1_1utils_1_1_filesystem.html":[2,0,0,12,7],
-"da/ddd/classpocketmine_1_1utils_1_1_filesystem.html":[3,0,1,28,7],
-"da/ddd/classpocketmine_1_1utils_1_1_filesystem.html#a414d066751a7b3cc582344123835f5ff":[2,0,0,12,7,3],
-"da/ddd/classpocketmine_1_1utils_1_1_filesystem.html#a414d066751a7b3cc582344123835f5ff":[3,0,1,28,7,3],
-"da/ddd/classpocketmine_1_1utils_1_1_filesystem.html#a4c3ae51775c0d2f54e91bd3467909d5d":[2,0,0,12,7,2]
+"da/dd7/classpocketmine_1_1world_1_1particle_1_1_heart_particle.html":[3,0,1,30,4,16]
 };

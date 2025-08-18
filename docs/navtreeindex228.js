@@ -1,5 +1,17 @@
 var NAVTREEINDEX228 =
 {
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#ae36a7e5064724e460fabfe810f2def20":[3,0,1,7,25,15],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#ae3d1faacc118b9fd25a401a995fcb1f4":[2,0,0,2,20,71],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#ae3d1faacc118b9fd25a401a995fcb1f4":[3,0,1,7,25,71],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#ae8a891986a06e3621c4486538b0e5a60":[2,0,0,2,20,46],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#ae8a891986a06e3621c4486538b0e5a60":[3,0,1,7,25,46],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#ae96e5d919208d6d9d4ccc75136167684":[2,0,0,2,20,22],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#ae96e5d919208d6d9d4ccc75136167684":[3,0,1,7,25,22],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#aecbf08b9c016e79822cd3c7ad71c7f55":[2,0,0,2,20,18],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#aecbf08b9c016e79822cd3c7ad71c7f55":[3,0,1,7,25,18],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#af412cd40918d6a86e39b9f5348ea105c":[2,0,0,2,20,45],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#af412cd40918d6a86e39b9f5348ea105c":[3,0,1,7,25,45],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#af9c9f94d4c46643cbdaeb7d06d3e44b1":[2,0,0,2,20,11],
 "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#af9c9f94d4c46643cbdaeb7d06d3e44b1":[3,0,1,7,25,11],
 "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#afdd4efc12fe21730ceb104af111f576d":[2,0,0,2,20,35],
 "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#afdd4efc12fe21730ceb104af111f576d":[3,0,1,7,25,35],
@@ -237,17 +249,5 @@ var NAVTREEINDEX228 =
 "df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,35,38],
 "df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,33,7],
 "df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,35,7],
-"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,33,4],
-"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,35,4],
-"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#aa4773f0153324728a2f41820fa52442d":[2,0,0,0,33,17],
-"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,35,17],
-"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#aac6828efb885bc8fe0f8876728ddde5d":[2,0,0,0,33,34],
-"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#aac6828efb885bc8fe0f8876728ddde5d":[3,0,1,0,35,34],
-"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#aad121ffc31a225748d5bcc0e0752a9f0":[2,0,0,0,33,23],
-"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#aad121ffc31a225748d5bcc0e0752a9f0":[3,0,1,0,35,23],
-"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[2,0,0,0,33,31],
-"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,35,31],
-"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#ab05ed23d3ff256f3f64cf6d86563c947":[2,0,0,0,33,8],
-"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#ab05ed23d3ff256f3f64cf6d86563c947":[3,0,1,0,35,8],
-"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,33,19]
+"df/d55/classpocketmine_1_1block_1_1_brown_mushroom.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,33,4]
 };

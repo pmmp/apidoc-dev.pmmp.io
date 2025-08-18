@@ -1,5 +1,8 @@
 var NAVTREEINDEX26 =
 {
+"d1/db8/classpocketmine_1_1math_1_1_vector_math.html":[2,0,0,6,8],
+"d1/db8/classpocketmine_1_1math_1_1_vector_math.html":[3,0,1,14,8],
+"d1/db8/classpocketmine_1_1utils_1_1_git.html":[2,0,0,12,8],
 "d1/db8/classpocketmine_1_1utils_1_1_git.html":[3,0,1,28,8],
 "d1/db8/classpocketmine_1_1utils_1_1_git.html#a7e8e0350314c8f5c2fa0e87d9ede0896":[2,0,0,12,8,1],
 "d1/db8/classpocketmine_1_1utils_1_1_git.html#a7e8e0350314c8f5c2fa0e87d9ede0896":[3,0,1,28,8,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX26 =
 "d1/dda/classpocketmine_1_1block_1_1_concrete_powder.html#aea140cd843d3e1efce93ced787a0570f":[2,0,0,0,62,30],
 "d1/dda/classpocketmine_1_1block_1_1_concrete_powder.html#aea140cd843d3e1efce93ced787a0570f":[3,0,1,0,64,30],
 "d1/dda/classpocketmine_1_1block_1_1_concrete_powder.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,62,58],
-"d1/dda/classpocketmine_1_1block_1_1_concrete_powder.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,64,58],
-"d1/dda/classpocketmine_1_1block_1_1_concrete_powder.html#aee29b52ec6061e35bff88e57e396a7d2":[2,0,0,0,62,69],
-"d1/dda/classpocketmine_1_1block_1_1_concrete_powder.html#aee29b52ec6061e35bff88e57e396a7d2":[3,0,1,0,64,69],
-"d1/dda/classpocketmine_1_1block_1_1_concrete_powder.html#af45a3d45c4ab6528c6641915722b9de8":[2,0,0,0,62,6]
+"d1/dda/classpocketmine_1_1block_1_1_concrete_powder.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,64,58]
 };

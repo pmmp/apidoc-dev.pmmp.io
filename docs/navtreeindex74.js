@@ -1,5 +1,8 @@
 var NAVTREEINDEX74 =
 {
+"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,90,7],
+"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,92,7],
+"d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,90,4],
 "d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,92,4],
 "d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#aa4773f0153324728a2f41820fa52442d":[2,0,0,0,90,17],
 "d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,92,17],
@@ -246,8 +249,5 @@ var NAVTREEINDEX74 =
 "d5/d49/classpocketmine_1_1entity_1_1_squid.html#acf169f2d54e0084902937105bbc94b84":[2,0,0,2,18,19],
 "d5/d49/classpocketmine_1_1entity_1_1_squid.html#acf169f2d54e0084902937105bbc94b84":[3,0,1,7,23,19],
 "d5/d49/classpocketmine_1_1entity_1_1_squid.html#ad0800b31de14ef7ebb1354eb01588010":[2,0,0,2,18,47],
-"d5/d49/classpocketmine_1_1entity_1_1_squid.html#ad0800b31de14ef7ebb1354eb01588010":[3,0,1,7,23,47],
-"d5/d49/classpocketmine_1_1entity_1_1_squid.html#ad52d796618bbd28ffa2f90b368f2dd0c":[2,0,0,2,18,54],
-"d5/d49/classpocketmine_1_1entity_1_1_squid.html#ad52d796618bbd28ffa2f90b368f2dd0c":[3,0,1,7,23,54],
-"d5/d49/classpocketmine_1_1entity_1_1_squid.html#ad79f9505c6859c4241a95ba52e0002bd":[2,0,0,2,18,29]
+"d5/d49/classpocketmine_1_1entity_1_1_squid.html#ad0800b31de14ef7ebb1354eb01588010":[3,0,1,7,23,47]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX122 =
 {
+"d8/d23/classpocketmine_1_1item_1_1_item_block_wall_or_floor.html#a27ef1db0d41125973529fb720b06a00d":[2,0,0,5,60,32],
+"d8/d23/classpocketmine_1_1item_1_1_item_block_wall_or_floor.html#a27ef1db0d41125973529fb720b06a00d":[3,0,1,12,61,32],
+"d8/d23/classpocketmine_1_1item_1_1_item_block_wall_or_floor.html#a2b35e6f346e5955b086fcc07ead985a7":[2,0,0,5,60,24],
+"d8/d23/classpocketmine_1_1item_1_1_item_block_wall_or_floor.html#a2b35e6f346e5955b086fcc07ead985a7":[3,0,1,12,61,24],
+"d8/d23/classpocketmine_1_1item_1_1_item_block_wall_or_floor.html#a2bcaa528592d9ae259e2e6d0b89f375d":[2,0,0,5,60,21],
 "d8/d23/classpocketmine_1_1item_1_1_item_block_wall_or_floor.html#a2bcaa528592d9ae259e2e6d0b89f375d":[3,0,1,12,61,21],
 "d8/d23/classpocketmine_1_1item_1_1_item_block_wall_or_floor.html#a2ce778f940de9e172cd268f378893b8f":[2,0,0,5,60,13],
 "d8/d23/classpocketmine_1_1item_1_1_item_block_wall_or_floor.html#a2ce778f940de9e172cd268f378893b8f":[3,0,1,12,61,13],
@@ -244,10 +249,5 @@ var NAVTREEINDEX122 =
 "d8/d25/classpocketmine_1_1block_1_1_concrete.html#a30a070aa7befb02f9fff5cbf2693c01e":[3,0,1,0,63,9],
 "d8/d25/classpocketmine_1_1block_1_1_concrete.html#a36afea9f0214193963f75577e8d48c26":[2,0,0,0,61,59],
 "d8/d25/classpocketmine_1_1block_1_1_concrete.html#a36afea9f0214193963f75577e8d48c26":[3,0,1,0,63,59],
-"d8/d25/classpocketmine_1_1block_1_1_concrete.html#a3a46169e7d256b3a1f3af8c54ddba832":[2,0,0,0,61,62],
-"d8/d25/classpocketmine_1_1block_1_1_concrete.html#a3a46169e7d256b3a1f3af8c54ddba832":[3,0,1,0,63,62],
-"d8/d25/classpocketmine_1_1block_1_1_concrete.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,0,0,61,10],
-"d8/d25/classpocketmine_1_1block_1_1_concrete.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,63,10],
-"d8/d25/classpocketmine_1_1block_1_1_concrete.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,61,44],
-"d8/d25/classpocketmine_1_1block_1_1_concrete.html#a43e3458847422ebd5dec6c914b443c93":[3,0,1,0,63,44]
+"d8/d25/classpocketmine_1_1block_1_1_concrete.html#a3a46169e7d256b3a1f3af8c54ddba832":[2,0,0,0,61,62]
 };

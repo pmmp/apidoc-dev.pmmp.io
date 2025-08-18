@@ -1,5 +1,8 @@
 var NAVTREEINDEX40 =
 {
+"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a1df151eb419168f838e6d927c50f9210":[3,0,1,12,25,4],
+"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a23c827b82179f8a57b786a6fa38d08e8":[2,0,0,5,24,19],
+"d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a23c827b82179f8a57b786a6fa38d08e8":[3,0,1,12,25,19],
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a27ef1db0d41125973529fb720b06a00d":[2,0,0,5,24,32],
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a27ef1db0d41125973529fb720b06a00d":[3,0,1,12,25,32],
 "d2/da7/classpocketmine_1_1item_1_1_cocoa_beans.html#a2b35e6f346e5955b086fcc07ead985a7":[2,0,0,5,24,24],
@@ -246,8 +249,5 @@ var NAVTREEINDEX40 =
 "d2/db8/_request_network_settings_packet_8php_source.html":[4,0,1,0,1,0,146],
 "d2/db8/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_zlib_compressor.html":[3,0,1,16,0,2,4],
 "d2/db8/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_zlib_compressor.html#a1690c3a9a7025244fb7c2ff076154360":[3,0,1,16,0,2,4,2],
-"d2/db8/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_zlib_compressor.html#a711491a5b54b83e10bc9e361709e3801":[3,0,1,16,0,2,4,0],
-"d2/db8/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_zlib_compressor.html#af386ea111199ed5cc16fefbce1c40f88":[3,0,1,16,0,2,4,1],
-"d2/db9/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_region_exception.html":[3,0,1,30,1,0,3,4],
-"d2/dbb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1biome_1_1chunkgen_1_1_biome_weighted_temperature_data.html":[3,0,1,16,0,6,1,0,0,17]
+"d2/db8/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_zlib_compressor.html#a711491a5b54b83e10bc9e361709e3801":[3,0,1,16,0,2,4,0]
 };

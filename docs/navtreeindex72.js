@@ -1,5 +1,8 @@
 var NAVTREEINDEX72 =
 {
+"d5/d0a/classpocketmine_1_1item_1_1enchantment_1_1_enchantment_instance.html":[3,0,1,12,0,4],
+"d5/d0a/classpocketmine_1_1item_1_1enchantment_1_1_enchantment_instance.html#a3b27b7c724cc7e1b283b2ec6429108e1":[3,0,1,12,0,4,0],
+"d5/d0a/classpocketmine_1_1item_1_1enchantment_1_1_enchantment_instance.html#acacebf07e30745aff1b59f7c5682d6a1":[3,0,1,12,0,4,1],
 "d5/d0c/_sub_chunk_explorer_status_8php_source.html":[4,0,0,25,6,1],
 "d5/d0c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_local_player_as_initialized_packet.html":[3,0,1,16,0,6,174],
 "d5/d0c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_local_player_as_initialized_packet.html#a0e4e6e38bc6db225a87e7fce035a990b":[3,0,1,16,0,6,174,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX72 =
 "d5/d1b/classpocketmine_1_1block_1_1_transparent.html#abce48b40feb225f4ce9b7cf2e02a9336":[2,0,0,0,225,55],
 "d5/d1b/classpocketmine_1_1block_1_1_transparent.html#abce48b40feb225f4ce9b7cf2e02a9336":[3,0,1,0,227,55],
 "d5/d1b/classpocketmine_1_1block_1_1_transparent.html#ac34d7d0bd5e5173f331e56f6b97ca796":[2,0,0,0,225,49],
-"d5/d1b/classpocketmine_1_1block_1_1_transparent.html#ac34d7d0bd5e5173f331e56f6b97ca796":[3,0,1,0,227,49],
-"d5/d1b/classpocketmine_1_1block_1_1_transparent.html#ac85f12ad4e4d729db9f27ecb8e97998b":[2,0,0,0,225,51],
-"d5/d1b/classpocketmine_1_1block_1_1_transparent.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,227,51],
-"d5/d1b/classpocketmine_1_1block_1_1_transparent.html#acb449b40461f4800cf6e6288cb9a069d":[2,0,0,0,225,0]
+"d5/d1b/classpocketmine_1_1block_1_1_transparent.html#ac34d7d0bd5e5173f331e56f6b97ca796":[3,0,1,0,227,49]
 };

@@ -2477,6 +2477,7 @@ var hierarchy =
         [ "pocketmine\\crafting\\TagWildcardRecipeIngredient", "d4/d64/classpocketmine_1_1crafting_1_1_tag_wildcard_recipe_ingredient.html", null ]
       ] ]
     ] ],
+    [ "pocketmine\\data\\bedrock\\block\\convert\\StringEnumMap", "da/ddf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_string_enum_map.html", null ],
     [ "pocketmine\\utils\\StringToTParser", "d7/d64/classpocketmine_1_1utils_1_1_string_to_t_parser.html", [
       [ "pocketmine\\entity\\effect\\StringToEffectParser", "d2/deb/classpocketmine_1_1entity_1_1effect_1_1_string_to_effect_parser.html", null ],
       [ "pocketmine\\item\\StringToItemParser", "de/d75/classpocketmine_1_1item_1_1_string_to_item_parser.html", null ],
@@ -2602,6 +2603,7 @@ var hierarchy =
     [ "pocketmine\\network\\upnp\\UPnP", "d2/d96/classpocketmine_1_1network_1_1upnp_1_1_u_pn_p.html", null ],
     [ "raklib\\server\\ipc\\UserToRakLibThreadMessageProtocol", "d6/dd5/classraklib_1_1server_1_1ipc_1_1_user_to_rak_lib_thread_message_protocol.html", null ],
     [ "pocketmine\\utils\\Utils", "dc/d1a/classpocketmine_1_1utils_1_1_utils.html", null ],
+    [ "pocketmine\\data\\bedrock\\block\\convert\\ValueMappings", "da/d4e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_value_mappings.html", null ],
     [ "pocketmine\\item\\VanillaArmorMaterials", "d2/d63/classpocketmine_1_1item_1_1_vanilla_armor_materials.html", null ],
     [ "pocketmine\\block\\VanillaBlocks", "df/dec/classpocketmine_1_1block_1_1_vanilla_blocks.html", null ],
     [ "pocketmine\\entity\\effect\\VanillaEffects", "d9/d5f/classpocketmine_1_1entity_1_1effect_1_1_vanilla_effects.html", null ],
