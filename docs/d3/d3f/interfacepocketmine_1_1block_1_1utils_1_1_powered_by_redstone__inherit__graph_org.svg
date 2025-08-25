@@ -183,16 +183,20 @@
 <g id="Node000007" class="node">
 <title>Node7</title>
 <g id="a_Node000007"><a xlink:href="../../da/db8/classpocketmine_1_1block_1_1_redstone_lamp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="1053,-114.5 880,-114.5 880,-50.5 1053,-50.5 1053,-114.5"/>
-<text text-anchor="start" x="885.5" y="-102.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\RedstoneLamp</text>
-<text text-anchor="start" x="965" y="-87.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="transparent" points="1053,-129.5 880,-129.5 880,-35.5 1053,-35.5 1053,-129.5"/>
+<text text-anchor="start" x="885.5" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\RedstoneLamp</text>
+<text text-anchor="start" x="965" y="-102.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="891.5" y="-87.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="911.5" y="-87.5" font-family="Helvetica,sans-Serif" font-size="10.00">getLightLevel()</text>
 <text text-anchor="start" x="891.5" y="-72.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="911.5" y="-72.5" font-family="Helvetica,sans-Serif" font-size="10.00">getLightLevel()</text>
-<text text-anchor="start" x="891.5" y="-57.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="911.5" y="-57.5" font-family="Helvetica,sans-Serif" font-size="10.00">describeBlockOnlyState()</text>
+<text text-anchor="start" x="911.5" y="-72.5" font-family="Helvetica,sans-Serif" font-size="10.00">isLit()</text>
+<text text-anchor="start" x="891.5" y="-57.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="911.5" y="-57.5" font-family="Helvetica,sans-Serif" font-size="10.00">setLit()</text>
+<text text-anchor="start" x="891.5" y="-42.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="911.5" y="-42.5" font-family="Helvetica,sans-Serif" font-size="10.00">describeBlockOnlyState()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="880.5,-112.5 880.5,-112.5 1053.5,-112.5 1053.5,-112.5 880.5,-112.5"/>
 <polygon fill="#bfbfbf" stroke="#bfbfbf" points="880.5,-97.5 880.5,-97.5 1053.5,-97.5 1053.5,-97.5 880.5,-97.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="880.5,-82.5 880.5,-82.5 1053.5,-82.5 1053.5,-82.5 880.5,-82.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="880,-50.5 880,-114.5 1053,-114.5 1053,-50.5 880,-50.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="880,-35.5 880,-129.5 1053,-129.5 1053,-35.5 880,-35.5"/>
 </a>
 </g>
 </g>
@@ -200,7 +204,7 @@
 <g id="edge6_Node000001_Node000007" class="edge">
 <title>Node1&#45;&gt;Node7</title>
 <g id="a_edge6_Node000001_Node000007"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M678.94,-226.59C733.53,-216.14 809.83,-197.12 870.5,-165 895.04,-152.01 918.86,-131.85 936.63,-114.83"/>
+<path fill="none" stroke="#63b8ff" d="M678.94,-226.59C733.53,-216.14 809.83,-197.12 870.5,-165 888.08,-155.69 905.3,-142.7 920.18,-129.83"/>
 <polygon fill="none" stroke="#63b8ff" points="678.2,-223.16 669.01,-228.44 679.48,-230.05 678.2,-223.16"/>
 </a>
 </g>

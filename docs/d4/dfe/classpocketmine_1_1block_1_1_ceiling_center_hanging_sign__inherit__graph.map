@@ -1,0 +1,13 @@
+<map id="pocketmine\block\CeilingCenterHangingSign" name="pocketmine\block\CeilingCenterHangingSign">
+<area shape="rect" id="Node000001" title=" " alt="" coords="237,1060,415,1160"/>
+<area shape="rect" id="Node000002" href="$df/d0b/classpocketmine_1_1block_1_1_base_sign.html" title=" " alt="" coords="117,667,327,1012"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="296,1024,310,1059,305,1061,291,1026"/>
+<area shape="rect" id="Node000003" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="13,546,223,611"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="138,623,155,665,150,667,133,625"/>
+<area shape="rect" id="Node000004" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="5,5,231,491"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="121,504,121,546,115,546,115,504"/>
+<area shape="rect" id="Node000005" href="$d0/df3/interfacepocketmine_1_1block_1_1utils_1_1_wood_material.html" title=" " alt="" coords="247,539,408,619"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="309,633,295,667,290,665,304,631"/>
+<area shape="rect" id="Node000006" href="$d7/d9c/interfacepocketmine_1_1block_1_1utils_1_1_sign_like_rotation.html" title=" " alt="" coords="351,789,512,889"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="409,904,348,1061,343,1059,404,902"/>
+</map>

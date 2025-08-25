@@ -1,0 +1,19 @@
+<map id="pocketmine\data\bedrock\block\convert\property\Property" name="pocketmine\data\bedrock\block\convert\property\Property">
+<area shape="rect" id="Node000001" title=" " alt="" coords="513,5,692,140"/>
+<area shape="rect" id="Node000002" href="$df/d34/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_bool_property.html" title=" " alt="" coords="5,188,184,363"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="500,93,431,108,353,128,273,156,197,190,186,197,183,192,195,186,271,151,352,123,430,102,499,88"/>
+<area shape="rect" id="Node000003" href="$d6/dce/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_dummy_property.html" title=" " alt="" coords="208,198,387,353"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="502,128,400,190,387,200,383,196,397,186,500,124"/>
+<area shape="rect" id="Node000004" href="$d8/d43/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_int_property.html" title=" " alt="" coords="411,188,589,363"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="565,153,547,189,542,186,560,151"/>
+<area shape="rect" id="Node000005" href="$d3/d9c/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_option_set_from_int_property.html" title=" " alt="" coords="613,198,800,353"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="646,151,670,197,665,199,641,153"/>
+<area shape="rect" id="Node000006" href="$d4/de3/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_string_property.html" title=" " alt="" coords="824,208,1003,343"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="706,122,813,186,840,206,837,210,811,190,703,126"/>
+<area shape="rect" id="Node000009" href="$d0/d6d/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_value_from_int_property.html" title=" " alt="" coords="1027,188,1205,363"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="706,87,777,102,856,123,938,150,1016,186,1028,192,1025,197,1013,190,936,155,855,128,776,107,705,92"/>
+<area shape="rect" id="Node000007" href="$d9/d00/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_bool_from_string_property.html" title=" " alt="" coords="721,411,900,625"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="882,356,859,412,854,410,877,354"/>
+<area shape="rect" id="Node000008" href="$dd/d2e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_value_from_string_property.html" title=" " alt="" coords="925,411,1105,625"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="949,354,972,410,967,412,944,356"/>
+</map>

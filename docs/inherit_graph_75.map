@@ -1,3 +1,19 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$d2/dcf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_data_upgrader.html" title=" " alt="" coords="5,5,255,45"/>
+<area shape="rect" id="Node000000" href="$d0/d87/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_property.html" title=" " alt="" coords="5,203,192,257"/>
+<area shape="rect" id="Node000001" href="$df/d34/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_bool_property.html" title=" " alt="" coords="244,5,431,60"/>
+<area shape="poly" id="edge610_Node000000_Node000001" title=" " alt="" coords="124,189,173,129,204,97,238,69,257,58,260,62,242,74,208,101,177,132,128,193"/>
+<area shape="rect" id="Node000002" href="$d6/dce/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_dummy_property.html" title=" " alt="" coords="244,84,431,139"/>
+<area shape="poly" id="edge611_Node000000_Node000002" title=" " alt="" coords="155,193,239,148,264,136,266,141,241,152,157,198"/>
+<area shape="rect" id="Node000003" href="$d8/d43/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_int_property.html" title=" " alt="" coords="244,163,431,217"/>
+<area shape="poly" id="edge612_Node000000_Node000003" title=" " alt="" coords="205,209,243,203,244,208,206,215"/>
+<area shape="rect" id="Node000004" href="$d3/d9c/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_option_set_from_int_property.html" title=" " alt="" coords="240,241,435,296"/>
+<area shape="poly" id="edge613_Node000000_Node000004" title=" " alt="" coords="206,245,240,250,239,256,205,250"/>
+<area shape="rect" id="Node000005" href="$d4/de3/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_string_property.html" title=" " alt="" coords="244,320,431,375"/>
+<area shape="poly" id="edge614_Node000000_Node000005" title=" " alt="" coords="160,262,241,305,269,317,266,322,239,310,157,267"/>
+<area shape="rect" id="Node000008" href="$d0/d6d/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_value_from_int_property.html" title=" " alt="" coords="244,399,431,453"/>
+<area shape="poly" id="edge617_Node000000_Node000008" title=" " alt="" coords="129,267,178,326,208,357,242,384,262,396,259,401,238,388,205,361,174,330,125,270"/>
+<area shape="rect" id="Node000006" href="$d9/d00/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_bool_from_string_property.html" title=" " alt="" coords="483,281,670,336"/>
+<area shape="poly" id="edge615_Node000005_Node000006" title=" " alt="" coords="444,327,483,321,483,326,445,333"/>
+<area shape="rect" id="Node000007" href="$dd/d2e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_value_from_string_property.html" title=" " alt="" coords="483,360,671,415"/>
+<area shape="poly" id="edge616_Node000005_Node000007" title=" " alt="" coords="445,363,483,369,482,374,444,368"/>
 </map>

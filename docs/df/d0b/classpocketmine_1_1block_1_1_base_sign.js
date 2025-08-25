@@ -39,6 +39,8 @@ var classpocketmine_1_1block_1_1_base_sign =
     [ "getPickedItem", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#aac6828efb885bc8fe0f8876728ddde5d", null ],
     [ "getSide", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a6f13ff76dad934b1b2e078a5b57dd7a5", null ],
     [ "getSilkTouchDrops", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a4b01df2347f9cc897c5eb2858d6c5e7e", null ],
+    [ "getSupportingFace", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#ad25c168d3c2bf0b320ebef24a540964e", null ],
+    [ "getSupportingFaceOptions", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a6c83ba0c659c05e0b2be01e16659d780", null ],
     [ "getSupportType", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#ac091a189d056e5d79e53900eaecd8694", null ],
     [ "getText", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a0f649b79e6c05fc9f8d744ff69bb0b23", null ],
     [ "getTypeId", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#a994b80e9138156e5b90a803def57c7db", null ],

@@ -12,26 +12,26 @@
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="transparent" points="417.5,-124 272.5,-124 272.5,0 417.5,0 417.5,-124"/>
-<text text-anchor="start" x="281.5" y="-112" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Furnace</text>
-<text text-anchor="start" x="277" y="-97" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="290" y="-97" font-family="Helvetica,sans-Serif" font-size="10.00">$furnaceType</text>
-<text text-anchor="start" x="277" y="-82" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="290" y="-82" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
-<text text-anchor="start" x="277" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="290" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00">getFurnaceType()</text>
-<text text-anchor="start" x="277" y="-52" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="290" y="-52" font-family="Helvetica,sans-Serif" font-size="10.00">getLightLevel()</text>
-<text text-anchor="start" x="277" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="290" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">onInteract()</text>
-<text text-anchor="start" x="277" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="290" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">onScheduledUpdate()</text>
-<text text-anchor="start" x="277" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="290" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">describeBlockOnlyState()</text>
-<polygon fill="#666666" stroke="#666666" points="273,-107 273,-107 418,-107 418,-107 273,-107"/>
-<polygon fill="#666666" stroke="#666666" points="273,-92 273,-92 288,-92 288,-92 273,-92"/>
-<polygon fill="#666666" stroke="#666666" points="288,-92 288,-92 418,-92 418,-92 288,-92"/>
-<polygon fill="none" stroke="#666666" points="272.5,0 272.5,-124 417.5,-124 417.5,0 272.5,0"/>
+<polygon fill="#999999" stroke="transparent" points="491.5,-124 346.5,-124 346.5,0 491.5,0 491.5,-124"/>
+<text text-anchor="start" x="355.5" y="-112" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Furnace</text>
+<text text-anchor="start" x="351" y="-97" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="364" y="-97" font-family="Helvetica,sans-Serif" font-size="10.00">$furnaceType</text>
+<text text-anchor="start" x="351" y="-82" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="364" y="-82" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
+<text text-anchor="start" x="351" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="364" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00">getFurnaceType()</text>
+<text text-anchor="start" x="351" y="-52" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="364" y="-52" font-family="Helvetica,sans-Serif" font-size="10.00">getLightLevel()</text>
+<text text-anchor="start" x="351" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="364" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">onInteract()</text>
+<text text-anchor="start" x="351" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="364" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">onScheduledUpdate()</text>
+<text text-anchor="start" x="351" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="364" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">describeBlockOnlyState()</text>
+<polygon fill="#666666" stroke="#666666" points="347,-107 347,-107 492,-107 492,-107 347,-107"/>
+<polygon fill="#666666" stroke="#666666" points="347,-92 347,-92 362,-92 362,-92 347,-92"/>
+<polygon fill="#666666" stroke="#666666" points="362,-92 362,-92 492,-92 492,-92 362,-92"/>
+<polygon fill="none" stroke="#666666" points="346.5,0 346.5,-124 491.5,-124 491.5,0 346.5,0"/>
 </a>
 </g>
 </g>
@@ -54,8 +54,8 @@
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node2&#45;&gt;Node1</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M289.74,-164.81C296.42,-152.51 304.24,-138.1 311.87,-124.05"/>
-<polygon fill="none" stroke="#63b8ff" points="286.58,-163.31 284.88,-173.76 292.73,-166.64 286.58,-163.31"/>
+<path fill="none" stroke="#63b8ff" d="M305.38,-166.96C319.31,-154.21 336.02,-138.92 352.28,-124.05"/>
+<polygon fill="none" stroke="#63b8ff" points="302.96,-164.43 297.94,-173.76 307.68,-169.6 302.96,-164.43"/>
 </a>
 </g>
 </g>
@@ -350,7 +350,7 @@
 <polygon fill="none" stroke="#63b8ff" points="473.12,-804.47 467.43,-800.04 469.33,-793.09 475.02,-797.52 473.12,-804.47"/>
 </a>
 </g>
-<text text-anchor="middle" x="500.5" y="-814" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +$world</text>
+<text text-anchor="middle" x="501.5" y="-814" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +$world</text>
 </g>
 <!-- Node9 -->
 <g id="Node000009" class="node">
@@ -439,7 +439,7 @@
 <polygon fill="none" stroke="#63b8ff" points="642.79,-1316.46 637.1,-1312.03 639,-1305.07 644.69,-1309.51 642.79,-1316.46"/>
 </a>
 </g>
-<text text-anchor="middle" x="673.5" y="-1326" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +$timings</text>
+<text text-anchor="middle" x="674.5" y="-1326" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +$timings</text>
 </g>
 <!-- Node11 -->
 <g id="Node000011" class="node">
@@ -531,8 +531,35 @@
 <g id="edge11_Node000001_Node000012" class="edge">
 <title>Node12&#45;&gt;Node1</title>
 <g id="a_edge11_Node000001_Node000012"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M393.96,-151.98C389.01,-143 383.75,-133.43 378.58,-124.03"/>
-<polygon fill="none" stroke="#63b8ff" points="390.89,-153.67 398.78,-160.75 397.03,-150.3 390.89,-153.67"/>
+<path fill="none" stroke="#63b8ff" d="M419,-150.57C419,-142 419,-132.94 419,-124.03"/>
+<polygon fill="none" stroke="#63b8ff" points="415.5,-150.75 419,-160.75 422.5,-150.75 415.5,-150.75"/>
+</a>
+</g>
+</g>
+<!-- Node13 -->
+<g id="Node000013" class="node">
+<title>Node13</title>
+<g id="a_Node000013"><a xlink:href="../../d7/daf/interfacepocketmine_1_1block_1_1utils_1_1_horizontal_facing.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="618.5,-236 497.5,-236 497.5,-161 618.5,-161 618.5,-236"/>
+<text text-anchor="start" x="503" y="-223.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
+<text text-anchor="start" x="516" y="-212.5" font-family="Helvetica,sans-Serif" font-size="10.00">\HorizontalFacing</text>
+<text text-anchor="start" x="556.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="513" y="-182.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="537" y="-182.5" font-family="Helvetica,sans-Serif" font-size="10.00">getFacing()</text>
+<text text-anchor="start" x="513" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="537" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">setFacing()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="498,-207.5 498,-207.5 619,-207.5 619,-207.5 498,-207.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="498,-192.5 498,-192.5 619,-192.5 619,-192.5 498,-192.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="497.5,-161 497.5,-236 618.5,-236 618.5,-161 497.5,-161"/>
+</a>
+</g>
+</g>
+<!-- Node13&#45;&gt;Node1 -->
+<g id="edge12_Node000001_Node000013" class="edge">
+<title>Node13&#45;&gt;Node1</title>
+<g id="a_edge12_Node000001_Node000013"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M512.69,-153.66C502.91,-144.19 492.39,-134.02 482.07,-124.03"/>
+<polygon fill="none" stroke="#63b8ff" points="510.4,-156.31 520.02,-160.75 515.27,-151.28 510.4,-156.31"/>
 </a>
 </g>
 </g>

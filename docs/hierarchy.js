@@ -249,8 +249,15 @@ var hierarchy =
           [ "pocketmine\\block\\FloorCoralFan", "d1/d8d/classpocketmine_1_1block_1_1_floor_coral_fan.html", null ],
           [ "pocketmine\\block\\WallCoralFan", "d1/dfd/classpocketmine_1_1block_1_1_wall_coral_fan.html", null ]
         ] ],
+        [ "pocketmine\\block\\BaseOminousBanner", "d3/dfa/classpocketmine_1_1block_1_1_base_ominous_banner.html", [
+          [ "pocketmine\\block\\OminousFloorBanner", "d9/dc2/classpocketmine_1_1block_1_1_ominous_floor_banner.html", null ],
+          [ "pocketmine\\block\\OminousWallBanner", "dc/d6d/classpocketmine_1_1block_1_1_ominous_wall_banner.html", null ]
+        ] ],
         [ "pocketmine\\block\\BaseSign", "df/d0b/classpocketmine_1_1block_1_1_base_sign.html", [
+          [ "pocketmine\\block\\CeilingCenterHangingSign", "df/da1/classpocketmine_1_1block_1_1_ceiling_center_hanging_sign.html", null ],
+          [ "pocketmine\\block\\CeilingEdgesHangingSign", "d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html", null ],
           [ "pocketmine\\block\\FloorSign", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html", null ],
+          [ "pocketmine\\block\\WallHangingSign", "da/df3/classpocketmine_1_1block_1_1_wall_hanging_sign.html", null ],
           [ "pocketmine\\block\\WallSign", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html", null ]
         ] ],
         [ "pocketmine\\block\\Beacon", "d2/d0e/classpocketmine_1_1block_1_1_beacon.html", null ],
@@ -443,11 +450,11 @@ var hierarchy =
     [ "pocketmine\\data\\bedrock\\block\\BlockLegacyMetadata", "df/d5e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_block_legacy_metadata.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\BlockPaletteEntry", "dc/d64/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_block_palette_entry.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\BlockPosition", "d1/d5f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_block_position.html", null ],
+    [ "pocketmine\\data\\bedrock\\block\\convert\\BlockSerializerDeserializerRegistrar", "d3/dcf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_serializer_deserializer_registrar.html", null ],
     [ "pocketmine\\data\\bedrock\\block\\BlockStateData", "da/dce/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_data.html", null ],
     [ "pocketmine\\data\\bedrock\\block\\BlockStateDeserializer", "dd/d67/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_deserializer.html", [
       [ "pocketmine\\data\\bedrock\\block\\convert\\BlockStateToObjectDeserializer", "d1/d9c/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_to_object_deserializer.html", null ]
     ] ],
-    [ "pocketmine\\data\\bedrock\\block\\convert\\BlockStateDeserializerHelper", "da/dd2/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_deserializer_helper.html", null ],
     [ "pocketmine\\network\\mcpe\\convert\\BlockStateDictionary", "da/d25/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary.html", null ],
     [ "pocketmine\\network\\mcpe\\convert\\BlockStateDictionaryEntry", "d1/d2e/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary_entry.html", null ],
     [ "pocketmine\\data\\bedrock\\block\\BlockStateNames", "d3/de7/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_names.html", null ],
@@ -455,7 +462,6 @@ var hierarchy =
     [ "pocketmine\\data\\bedrock\\block\\BlockStateSerializer", "db/dc6/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_serializer.html", [
       [ "pocketmine\\data\\bedrock\\block\\convert\\BlockObjectToStateSerializer", "d8/d0c/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_object_to_state_serializer.html", null ]
     ] ],
-    [ "pocketmine\\data\\bedrock\\block\\convert\\BlockStateSerializerHelper", "de/d3a/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_state_serializer_helper.html", null ],
     [ "pocketmine\\data\\bedrock\\block\\BlockStateStringValues", "d6/d24/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_string_values.html", null ],
     [ "pocketmine\\data\\bedrock\\block\\upgrade\\BlockStateUpgrader", "d3/d19/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrader.html", null ],
     [ "pocketmine\\data\\bedrock\\block\\upgrade\\BlockStateUpgradeSchema", "de/d35/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema.html", null ],
@@ -719,6 +725,7 @@ var hierarchy =
     [ "pocketmine\\network\\mcpe\\protocol\\types\\command\\CommandParameterTypes", "db/d73/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_parameter_types.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\command\\CommandPermissions", "d1/dfa/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_permissions.html", null ],
     [ "pocketmine\\command\\utils\\CommandStringHelper", "d7/ddc/classpocketmine_1_1command_1_1utils_1_1_command_string_helper.html", null ],
+    [ "pocketmine\\data\\bedrock\\block\\convert\\property\\CommonProperties", "d2/d7b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_common_properties.html", null ],
     [ "pocketmine\\network\\mcpe\\ComplexInventoryMapEntry", "da/d18/classpocketmine_1_1network_1_1mcpe_1_1_complex_inventory_map_entry.html", null ],
     [ "pocketmine\\data\\bedrock\\CompoundTypeIds", "d1/d35/classpocketmine_1_1data_1_1bedrock_1_1_compound_type_ids.html", null ],
     [ "pocketmine\\network\\mcpe\\compression\\CompressBatchPromise", "d4/d17/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_compress_batch_promise.html", null ],
@@ -1083,6 +1090,7 @@ var hierarchy =
     [ "pocketmine\\network\\mcpe\\protocol\\types\\FeatureRegistryPacketEntry", "d7/db6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_feature_registry_packet_entry.html", null ],
     [ "pocketmine\\utils\\Filesystem", "da/ddd/classpocketmine_1_1utils_1_1_filesystem.html", null ],
     [ "pocketmine\\world\\generator\\FlatGeneratorOptions", "d9/de9/classpocketmine_1_1world_1_1generator_1_1_flat_generator_options.html", null ],
+    [ "pocketmine\\data\\bedrock\\block\\convert\\FlattenedIdModel", "d1/d58/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_flattened_id_model.html", null ],
     [ "pocketmine\\world\\format\\io\\FormatConverter", "dd/dc7/classpocketmine_1_1world_1_1format_1_1io_1_1_format_converter.html", null ],
     [ "pocketmine\\block\\utils\\FortuneDropHelper", "dd/dfb/classpocketmine_1_1block_1_1utils_1_1_fortune_drop_helper.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\FullContainerName", "d6/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_full_container_name.html", null ],
@@ -1128,6 +1136,7 @@ var hierarchy =
       [ "pocketmine\\block\\Bell", "df/d78/classpocketmine_1_1block_1_1_bell.html", null ],
       [ "pocketmine\\block\\Campfire", "d7/d9a/classpocketmine_1_1block_1_1_campfire.html", null ],
       [ "pocketmine\\block\\CarvedPumpkin", "d9/d07/classpocketmine_1_1block_1_1_carved_pumpkin.html", null ],
+      [ "pocketmine\\block\\CeilingEdgesHangingSign", "d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html", null ],
       [ "pocketmine\\block\\ChemistryTable", "dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html", null ],
       [ "pocketmine\\block\\Chest", "d8/d5c/classpocketmine_1_1block_1_1_chest.html", null ],
       [ "pocketmine\\block\\ChiseledBookshelf", "d4/d9c/classpocketmine_1_1block_1_1_chiseled_bookshelf.html", null ],
@@ -1136,10 +1145,12 @@ var hierarchy =
       [ "pocketmine\\block\\EndPortalFrame", "da/d8c/classpocketmine_1_1block_1_1_end_portal_frame.html", null ],
       [ "pocketmine\\block\\EnderChest", "d8/d15/classpocketmine_1_1block_1_1_ender_chest.html", null ],
       [ "pocketmine\\block\\FenceGate", "d7/dd3/classpocketmine_1_1block_1_1_fence_gate.html", null ],
+      [ "pocketmine\\block\\Furnace", "d4/d66/classpocketmine_1_1block_1_1_furnace.html", null ],
       [ "pocketmine\\block\\GlazedTerracotta", "dc/d22/classpocketmine_1_1block_1_1_glazed_terracotta.html", null ],
       [ "pocketmine\\block\\Ladder", "dd/dd0/classpocketmine_1_1block_1_1_ladder.html", null ],
       [ "pocketmine\\block\\Lectern", "de/d09/classpocketmine_1_1block_1_1_lectern.html", null ],
       [ "pocketmine\\block\\Loom", "df/d1f/classpocketmine_1_1block_1_1_loom.html", null ],
+      [ "pocketmine\\block\\OminousWallBanner", "dc/d6d/classpocketmine_1_1block_1_1_ominous_wall_banner.html", null ],
       [ "pocketmine\\block\\PinkPetals", "db/dc0/classpocketmine_1_1block_1_1_pink_petals.html", null ],
       [ "pocketmine\\block\\RedstoneComparator", "dc/dc1/classpocketmine_1_1block_1_1_redstone_comparator.html", null ],
       [ "pocketmine\\block\\RedstoneRepeater", "de/dd0/classpocketmine_1_1block_1_1_redstone_repeater.html", null ],
@@ -1150,6 +1161,7 @@ var hierarchy =
       [ "pocketmine\\block\\TripwireHook", "da/df6/classpocketmine_1_1block_1_1_tripwire_hook.html", null ],
       [ "pocketmine\\block\\WallBanner", "df/dee/classpocketmine_1_1block_1_1_wall_banner.html", null ],
       [ "pocketmine\\block\\WallCoralFan", "d1/dfd/classpocketmine_1_1block_1_1_wall_coral_fan.html", null ],
+      [ "pocketmine\\block\\WallHangingSign", "da/df3/classpocketmine_1_1block_1_1_wall_hanging_sign.html", null ],
       [ "pocketmine\\block\\WallSign", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html", null ]
     ] ],
     [ "pocketmine\\entity\\HungerManager", "d0/dfc/classpocketmine_1_1entity_1_1_hunger_manager.html", null ],
@@ -1369,6 +1381,7 @@ var hierarchy =
         [ "pocketmine\\item\\Food", "dc/de1/classpocketmine_1_1item_1_1_food.html", null ],
         [ "pocketmine\\item\\GlassBottle", "d2/d57/classpocketmine_1_1item_1_1_glass_bottle.html", null ],
         [ "pocketmine\\item\\GoatHorn", "d5/d62/classpocketmine_1_1item_1_1_goat_horn.html", null ],
+        [ "pocketmine\\item\\HangingSign", "db/dc1/classpocketmine_1_1item_1_1_hanging_sign.html", null ],
         [ "pocketmine\\item\\ItemBlock", "dd/d08/classpocketmine_1_1item_1_1_item_block.html", null ],
         [ "pocketmine\\item\\ItemBlockWallOrFloor", "d8/d23/classpocketmine_1_1item_1_1_item_block_wall_or_floor.html", [
           [ "pocketmine\\item\\Banner", "d8/d7a/classpocketmine_1_1item_1_1_banner.html", null ]
@@ -1432,6 +1445,7 @@ var hierarchy =
       [ "pocketmine\\block\\Candle", "d6/dd1/classpocketmine_1_1block_1_1_candle.html", null ],
       [ "pocketmine\\block\\CopperBulb", "d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html", null ],
       [ "pocketmine\\block\\Furnace", "d4/d66/classpocketmine_1_1block_1_1_furnace.html", null ],
+      [ "pocketmine\\block\\RedstoneLamp", "da/db8/classpocketmine_1_1block_1_1_redstone_lamp.html", null ],
       [ "pocketmine\\block\\RedstoneOre", "d6/d6a/classpocketmine_1_1block_1_1_redstone_ore.html", null ],
       [ "pocketmine\\block\\RedstoneTorch", "d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html", null ]
     ] ],
@@ -1499,12 +1513,12 @@ var hierarchy =
     ] ],
     [ "pocketmine\\block\\utils\\MinimumCostFlowCalculator", "db/d5b/classpocketmine_1_1block_1_1utils_1_1_minimum_cost_flow_calculator.html", null ],
     [ "pocketmine\\data\\bedrock\\MobHeadTypeIdMap", "d7/de9/classpocketmine_1_1data_1_1bedrock_1_1_mob_head_type_id_map.html", null ],
+    [ "pocketmine\\data\\bedrock\\block\\convert\\Model", "dd/d79/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_model.html", null ],
     [ "pocketmine\\block\\utils\\MultiFacing", "d5/d60/interfacepocketmine_1_1block_1_1utils_1_1_multi_facing.html", [
       [ "pocketmine\\block\\GlowLichen", "d4/dc5/classpocketmine_1_1block_1_1_glow_lichen.html", null ],
       [ "pocketmine\\block\\ResinClump", "d1/da4/classpocketmine_1_1block_1_1_resin_clump.html", null ]
     ] ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\MultiplayerGameVisibility", "d1/d2e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_multiplayer_game_visibility.html", null ],
-    [ "pocketmine\\data\\bedrock\\MushroomBlockTypeIdMap", "db/db9/classpocketmine_1_1data_1_1bedrock_1_1_mushroom_block_type_id_map.html", null ],
     [ "pocketmine\\block\\tile\\Nameable", "d1/d55/interfacepocketmine_1_1block_1_1tile_1_1_nameable.html", [
       [ "pocketmine\\block\\tile\\Barrel", "d4/dcc/classpocketmine_1_1block_1_1tile_1_1_barrel.html", null ],
       [ "pocketmine\\block\\tile\\BrewingStand", "d3/d41/classpocketmine_1_1block_1_1tile_1_1_brewing_stand.html", null ],
@@ -2190,6 +2204,17 @@ var hierarchy =
     [ "pocketmine\\promise\\Promise", "d9/db4/classpocketmine_1_1promise_1_1_promise.html", null ],
     [ "pocketmine\\promise\\PromiseResolver", "d8/d05/classpocketmine_1_1promise_1_1_promise_resolver.html", null ],
     [ "pocketmine\\promise\\PromiseSharedData", "d2/d15/classpocketmine_1_1promise_1_1_promise_shared_data.html", null ],
+    [ "pocketmine\\data\\bedrock\\block\\convert\\property\\Property", "d0/d87/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_property.html", [
+      [ "pocketmine\\data\\bedrock\\block\\convert\\property\\BoolProperty", "df/d34/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_bool_property.html", null ],
+      [ "pocketmine\\data\\bedrock\\block\\convert\\property\\DummyProperty", "d6/dce/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_dummy_property.html", null ],
+      [ "pocketmine\\data\\bedrock\\block\\convert\\property\\IntProperty", "d8/d43/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_int_property.html", null ],
+      [ "pocketmine\\data\\bedrock\\block\\convert\\property\\OptionSetFromIntProperty", "d3/d9c/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_option_set_from_int_property.html", null ],
+      [ "pocketmine\\data\\bedrock\\block\\convert\\property\\StringProperty", "d4/de3/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_string_property.html", [
+        [ "pocketmine\\data\\bedrock\\block\\convert\\property\\BoolFromStringProperty", "d9/d00/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_bool_from_string_property.html", null ],
+        [ "pocketmine\\data\\bedrock\\block\\convert\\property\\ValueFromStringProperty", "dd/d2e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_value_from_string_property.html", null ]
+      ] ],
+      [ "pocketmine\\data\\bedrock\\block\\convert\\property\\ValueFromIntProperty", "d0/d6d/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_value_from_int_property.html", null ]
+    ] ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\entity\\PropertySyncData", "d5/d6c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_property_sync_data.html", null ],
     [ "raklib\\server\\ProtocolAcceptor", "db/d2d/interfaceraklib_1_1server_1_1_protocol_acceptor.html", [
       [ "raklib\\server\\SimpleProtocolAcceptor", "d2/d81/classraklib_1_1server_1_1_simple_protocol_acceptor.html", null ]
@@ -2332,8 +2357,10 @@ var hierarchy =
     [ "pocketmine\\wizard\\SetupWizard", "d7/dde/classpocketmine_1_1wizard_1_1_setup_wizard.html", null ],
     [ "pocketmine\\utils\\SignalHandler", "df/d2e/classpocketmine_1_1utils_1_1_signal_handler.html", null ],
     [ "pocketmine\\block\\utils\\SignLikeRotation", "d7/d9c/interfacepocketmine_1_1block_1_1utils_1_1_sign_like_rotation.html", [
+      [ "pocketmine\\block\\CeilingCenterHangingSign", "df/da1/classpocketmine_1_1block_1_1_ceiling_center_hanging_sign.html", null ],
       [ "pocketmine\\block\\FloorBanner", "dc/d69/classpocketmine_1_1block_1_1_floor_banner.html", null ],
-      [ "pocketmine\\block\\FloorSign", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html", null ]
+      [ "pocketmine\\block\\FloorSign", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html", null ],
+      [ "pocketmine\\block\\OminousFloorBanner", "d9/dc2/classpocketmine_1_1block_1_1_ominous_floor_banner.html", null ]
     ] ],
     [ "pocketmine\\block\\utils\\SignText", "d3/d1c/classpocketmine_1_1block_1_1utils_1_1_sign_text.html", null ],
     [ "pocketmine\\entity\\Skin", "d8/d49/classpocketmine_1_1entity_1_1_skin.html", null ],
@@ -2469,6 +2496,10 @@ var hierarchy =
     [ "SplPriorityQueue", null, [
       [ "pocketmine\\utils\\ReversePriorityQueue", "df/dad/classpocketmine_1_1utils_1_1_reverse_priority_queue.html", null ]
     ] ],
+    [ "pocketmine\\data\\bedrock\\block\\convert\\property\\StateMap", "d0/d33/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_state_map.html", [
+      [ "pocketmine\\data\\bedrock\\block\\convert\\property\\EnumFromRawStateMap", "d1/d24/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_enum_from_raw_state_map.html", null ],
+      [ "pocketmine\\data\\bedrock\\block\\convert\\property\\IntFromRawStateMap", "db/d8b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_int_from_raw_state_map.html", null ]
+    ] ],
     [ "pocketmine\\network\\mcpe\\cache\\StaticPacketCache", "df/dc5/classpocketmine_1_1network_1_1mcpe_1_1cache_1_1_static_packet_cache.html", null ],
     [ "Stringable", null, [
       [ "pocketmine\\crafting\\RecipeIngredient", "dd/d65/interfacepocketmine_1_1crafting_1_1_recipe_ingredient.html", [
@@ -2477,7 +2508,6 @@ var hierarchy =
         [ "pocketmine\\crafting\\TagWildcardRecipeIngredient", "d4/d64/classpocketmine_1_1crafting_1_1_tag_wildcard_recipe_ingredient.html", null ]
       ] ]
     ] ],
-    [ "pocketmine\\data\\bedrock\\block\\convert\\StringEnumMap", "da/ddf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_string_enum_map.html", null ],
     [ "pocketmine\\utils\\StringToTParser", "d7/d64/classpocketmine_1_1utils_1_1_string_to_t_parser.html", [
       [ "pocketmine\\entity\\effect\\StringToEffectParser", "d2/deb/classpocketmine_1_1entity_1_1effect_1_1_string_to_effect_parser.html", null ],
       [ "pocketmine\\item\\StringToItemParser", "de/d75/classpocketmine_1_1item_1_1_string_to_item_parser.html", null ],
@@ -2554,7 +2584,9 @@ var hierarchy =
         [ "pocketmine\\block\\tile\\MobHead", "dc/d52/classpocketmine_1_1block_1_1tile_1_1_mob_head.html", null ],
         [ "pocketmine\\block\\tile\\MonsterSpawner", "d6/d8f/classpocketmine_1_1block_1_1tile_1_1_monster_spawner.html", null ],
         [ "pocketmine\\block\\tile\\ShulkerBox", "dd/dd0/classpocketmine_1_1block_1_1tile_1_1_shulker_box.html", null ],
-        [ "pocketmine\\block\\tile\\Sign", "d7/d0d/classpocketmine_1_1block_1_1tile_1_1_sign.html", null ],
+        [ "pocketmine\\block\\tile\\Sign", "d7/d0d/classpocketmine_1_1block_1_1tile_1_1_sign.html", [
+          [ "pocketmine\\block\\tile\\HangingSign", "d9/d1e/classpocketmine_1_1block_1_1tile_1_1_hanging_sign.html", null ]
+        ] ],
         [ "pocketmine\\block\\tile\\SporeBlossom", "d2/d51/classpocketmine_1_1block_1_1tile_1_1_spore_blossom.html", null ]
       ] ]
     ] ],
@@ -2603,8 +2635,9 @@ var hierarchy =
     [ "pocketmine\\network\\upnp\\UPnP", "d2/d96/classpocketmine_1_1network_1_1upnp_1_1_u_pn_p.html", null ],
     [ "raklib\\server\\ipc\\UserToRakLibThreadMessageProtocol", "d6/dd5/classraklib_1_1server_1_1ipc_1_1_user_to_rak_lib_thread_message_protocol.html", null ],
     [ "pocketmine\\utils\\Utils", "dc/d1a/classpocketmine_1_1utils_1_1_utils.html", null ],
-    [ "pocketmine\\data\\bedrock\\block\\convert\\ValueMappings", "da/d4e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_value_mappings.html", null ],
+    [ "pocketmine\\data\\bedrock\\block\\convert\\property\\ValueMappings", "db/df3/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_value_mappings.html", null ],
     [ "pocketmine\\item\\VanillaArmorMaterials", "d2/d63/classpocketmine_1_1item_1_1_vanilla_armor_materials.html", null ],
+    [ "pocketmine\\data\\bedrock\\block\\convert\\VanillaBlockMappings", "da/ddf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_vanilla_block_mappings.html", null ],
     [ "pocketmine\\block\\VanillaBlocks", "df/dec/classpocketmine_1_1block_1_1_vanilla_blocks.html", null ],
     [ "pocketmine\\entity\\effect\\VanillaEffects", "d9/d5f/classpocketmine_1_1entity_1_1effect_1_1_vanilla_effects.html", null ],
     [ "pocketmine\\item\\enchantment\\VanillaEnchantments", "d3/dfc/classpocketmine_1_1item_1_1enchantment_1_1_vanilla_enchantments.html", null ],

@@ -1,7 +1,6 @@
 var classpocketmine_1_1utils_1_1_utils =
 [
     [ "assumeNotFalse", "dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a292c99eeb9f5c7baac8531811ec237de", null ],
-    [ "cloneCallback", "dc/d1a/classpocketmine_1_1utils_1_1_utils.html#aac62997164a42bfbaa201b2d66a27c55", null ],
     [ "cloneObjectArray", "dc/d1a/classpocketmine_1_1utils_1_1_utils.html#ada3d8be004e77d96080c3201394084c8", null ],
     [ "currentTrace", "dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a73a9e68983fb530aaa371c800b498d67", null ],
     [ "getMachineUniqueId", "dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a5011dae1b141d5d2a263c794bb5e62d1", null ],

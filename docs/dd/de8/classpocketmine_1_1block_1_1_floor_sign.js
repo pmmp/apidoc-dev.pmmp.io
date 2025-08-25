@@ -39,6 +39,8 @@ var classpocketmine_1_1block_1_1_floor_sign =
     [ "getRotation", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#a10aae4a1c309e36a024add2c5924ae7f", null ],
     [ "getSide", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#a6f13ff76dad934b1b2e078a5b57dd7a5", null ],
     [ "getSilkTouchDrops", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#a4b01df2347f9cc897c5eb2858d6c5e7e", null ],
+    [ "getSupportingFace", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#ab4da23a5e63a9bdfbf51e267f32b3266", null ],
+    [ "getSupportingFaceOptions", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#a6c83ba0c659c05e0b2be01e16659d780", null ],
     [ "getSupportType", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#ac091a189d056e5d79e53900eaecd8694", null ],
     [ "getText", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#a0f649b79e6c05fc9f8d744ff69bb0b23", null ],
     [ "getTypeId", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#a994b80e9138156e5b90a803def57c7db", null ],

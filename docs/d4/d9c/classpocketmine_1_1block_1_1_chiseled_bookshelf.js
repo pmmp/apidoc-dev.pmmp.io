@@ -71,6 +71,7 @@ var classpocketmine_1_1block_1_1_chiseled_bookshelf =
     [ "setFacing", "d4/d9c/classpocketmine_1_1block_1_1_chiseled_bookshelf.html#a309c4f7dfc285c358bb69a4253114afa", null ],
     [ "setLastInteractedSlot", "d4/d9c/classpocketmine_1_1block_1_1_chiseled_bookshelf.html#af80ff7f38107d61c1a14506089e28451", null ],
     [ "setSlot", "d4/d9c/classpocketmine_1_1block_1_1_chiseled_bookshelf.html#a1dd9cd995ebe6aa3f7c44c529e33bf94", null ],
+    [ "setSlots", "d4/d9c/classpocketmine_1_1block_1_1_chiseled_bookshelf.html#a2124f965df5fedfff452a95f52eb5084", null ],
     [ "ticksRandomly", "d4/d9c/classpocketmine_1_1block_1_1_chiseled_bookshelf.html#ab6b90601adfc9732893dcffe256514a9", null ],
     [ "writeStateToWorld", "d4/d9c/classpocketmine_1_1block_1_1_chiseled_bookshelf.html#a94f042b69b4218372b202ea233eaeed0", null ]
 ];
