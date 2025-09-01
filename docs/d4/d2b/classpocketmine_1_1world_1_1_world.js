@@ -95,5 +95,5 @@ var classpocketmine_1_1world_1_1_world =
     [ "unregisterChunkListenerFromAll", "d4/d2b/classpocketmine_1_1world_1_1_world.html#aa5d895755fb6883ebb3a62e97523747d", null ],
     [ "unregisterTickingChunk", "d4/d2b/classpocketmine_1_1world_1_1_world.html#ac6e66c73ae74575ec53bb3d448b34fa7", null ],
     [ "useBreakOn", "d4/d2b/classpocketmine_1_1world_1_1_world.html#a9b5a4da614249e28d3fc98a81a88fb9f", null ],
-    [ "useItemOn", "d4/d2b/classpocketmine_1_1world_1_1_world.html#ab3173b7c869185b74e47b652252268e4", null ]
+    [ "useItemOn", "d4/d2b/classpocketmine_1_1world_1_1_world.html#ac06eae54d411feeb618e90437c2a58c0", null ]
 ];

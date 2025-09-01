@@ -295,7 +295,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="403" y="-443" font-family="Helvetica,sans-Serif" font-size="10.00">distance()</text>
 <text text-anchor="start" x="384" y="-428" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="403" y="-428" font-family="Helvetica,sans-Serif" font-size="10.00">distanceSquared()</text>
-<text text-anchor="start" x="403" y="-413" font-family="Helvetica,sans-Serif" font-size="10.00">and 32 more...</text>
+<text text-anchor="start" x="403" y="-413" font-family="Helvetica,sans-Serif" font-size="10.00">and 31 more...</text>
 <text text-anchor="start" x="384" y="-398" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="403" y="-398" font-family="Helvetica,sans-Serif" font-size="10.00">maxComponents()</text>
 <text text-anchor="start" x="384" y="-383" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>

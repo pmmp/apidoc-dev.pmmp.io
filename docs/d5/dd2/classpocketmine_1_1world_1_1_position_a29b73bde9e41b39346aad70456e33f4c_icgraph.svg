@@ -68,7 +68,7 @@ var sectionId = 'dynsection-2';
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#a6f13ff76dad934b1b2e078a5b57dd7a5" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#a8635dccd33641330c42129a61377b2fd" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="333,-102 200,-102 200,-72 333,-72 333,-102"/>
 <text text-anchor="start" x="208" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Block</text>
 <text text-anchor="middle" x="266.5" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">\getSide</text>
@@ -87,7 +87,7 @@ var sectionId = 'dynsection-2';
 <!-- Node3 -->
 <g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_Node000003"><a xlink:href="../../df/d58/classpocketmine_1_1block_1_1_copper_door.html#a5eaeef83f4517eb577776b6967c48817" target="_top" xlink:title=" ">
+<g id="a_Node000003"><a xlink:href="../../df/d58/classpocketmine_1_1block_1_1_copper_door.html#a39a3ce6b32569ed28c37c75d2d8b37c9" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="164,-174 0,-174 0,-144 164,-144 164,-174"/>
 <text text-anchor="start" x="8" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\CopperDoor</text>
 <text text-anchor="middle" x="82" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">\onInteract</text>
@@ -106,7 +106,7 @@ var sectionId = 'dynsection-2';
 <!-- Node4 -->
 <g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_Node000004"><a xlink:href="../../d2/d6f/classpocketmine_1_1item_1_1_end_crystal.html#ae7b76b6c65cd0eac23cbe2db6a661a7f" target="_top" xlink:title=" ">
+<g id="a_Node000004"><a xlink:href="../../d2/d6f/classpocketmine_1_1item_1_1_end_crystal.html#ab49d66a70d6790b4c1f9b97e7f0dff2b" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="159.5,-126 4.5,-126 4.5,-96 159.5,-96 159.5,-126"/>
 <text text-anchor="start" x="12.5" y="-114" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\EndCrystal</text>
 <text text-anchor="middle" x="82" y="-103" font-family="Helvetica,sans-Serif" font-size="10.00">\onInteractBlock</text>

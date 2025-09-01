@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['potiontype_0',['PotionType',['../d0/dec/namespacepocketmine_1_1item.html#ae624cd043eb049f4230e50cc788d5a52',1,'pocketmine::item']]]
+  ['facing_0',['Facing',['../d8/db3/namespacepocketmine_1_1math.html#aa886a69cf6f1686b3db497cee3400814',1,'pocketmine::math']]]
 ];

@@ -1,5 +1,4 @@
 var interfacepocketmine_1_1block_1_1utils_1_1_horizontal_facing =
 [
-    [ "getFacing", "d7/daf/interfacepocketmine_1_1block_1_1utils_1_1_horizontal_facing.html#a8581da0e1cba085fdfebe5612edfbbfb", null ],
-    [ "setFacing", "d7/daf/interfacepocketmine_1_1block_1_1utils_1_1_horizontal_facing.html#a309c4f7dfc285c358bb69a4253114afa", null ]
+    [ "setFacing", "d7/daf/interfacepocketmine_1_1block_1_1utils_1_1_horizontal_facing.html#ad0fa95cb4e7c3308f4d8f0c29d876dc1", null ]
 ];

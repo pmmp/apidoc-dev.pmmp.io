@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.32.2 git-1ebd7d3960d713d56f77f610fe0c15cdee201069</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.33.2 git-77ce07d065c5f14ffd50741c72dbef3004f34620</span>
    </div>
   </td>
  </tr>
@@ -137,128 +137,130 @@ $(function(){initNavTree('d7/dd7/_respawn_anchor_8php_source.html','../../'); in
 <div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>use <a class="code hl_class" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">pocketmine\item\Item</a>;</div>
 <div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>use <a class="code hl_class" href="../../d9/d6f/classpocketmine_1_1item_1_1_item_type_ids.html">pocketmine\item\ItemTypeIds</a>;</div>
 <div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>use <a class="code hl_class" href="../../d0/dc6/classpocketmine_1_1lang_1_1_known_translation_factory.html">pocketmine\lang\KnownTranslationFactory</a>;</div>
-<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>use <a class="code hl_class" href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">pocketmine\math\Vector3</a>;</div>
-<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>use <a class="code hl_class" href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html">pocketmine\player\Player</a>;</div>
-<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>use <a class="code hl_class" href="../../dd/db5/classpocketmine_1_1utils_1_1_text_format.html">pocketmine\utils\TextFormat</a>;</div>
-<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>use <a class="code hl_class" href="../../d9/df8/classpocketmine_1_1world_1_1_explosion.html">pocketmine\world\Explosion</a>;</div>
-<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>use <a class="code hl_class" href="../../d5/dd2/classpocketmine_1_1world_1_1_position.html">pocketmine\world\Position</a>;</div>
-<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>use <a class="code hl_class" href="../../d8/d50/classpocketmine_1_1world_1_1sound_1_1_respawn_anchor_charge_sound.html">pocketmine\world\sound\RespawnAnchorChargeSound</a>;</div>
-<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>use <a class="code hl_class" href="../../dc/d5f/classpocketmine_1_1world_1_1sound_1_1_respawn_anchor_set_spawn_sound.html">pocketmine\world\sound\RespawnAnchorSetSpawnSound</a>;</div>
-<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span> </div>
-<div class="foldopen" id="foldopen00040" data-start="{" data-end="};">
-<div class="line"><a id="l00040" name="l00040"></a><span class="lineno"><a class="line" href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html">   40</a></span><span class="keyword">final</span> <span class="keyword">class </span><a class="code hl_class" href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html">RespawnAnchor</a> <span class="keyword">extends</span> <a class="code hl_class" href="../../db/dc5/classpocketmine_1_1block_1_1_opaque.html">Opaque</a>{</div>
-<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>    <span class="keyword">private</span> <span class="keyword">const</span> MIN_CHARGES = 0;</div>
-<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>    <span class="keyword">private</span> <span class="keyword">const</span> MAX_CHARGES = 4;</div>
-<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span> </div>
-<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>    <span class="keyword">private</span> <span class="keywordtype">int</span> $charges = self::MIN_CHARGES;</div>
-<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span> </div>
-<div class="foldopen" id="foldopen00046" data-start="{" data-end="}">
-<div class="line"><a id="l00046" name="l00046"></a><span class="lineno"><a class="line" href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#ae4f13e2630cc07a8bf1857bd0428253e">   46</a></span>    <span class="keyword">protected</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#ae4f13e2630cc07a8bf1857bd0428253e">describeBlockOnlyState</a>(<a class="code hl_interface" href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html">RuntimeDataDescriber</a> $w) : void{</div>
-<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>        $w-&gt;boundedIntAuto(self::MIN_CHARGES, self::MAX_CHARGES, $this-&gt;charges);</div>
-<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>    }</div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>use <a class="code hl_enumeration" href="../../d8/db3/namespacepocketmine_1_1math.html#aa886a69cf6f1686b3db497cee3400814">pocketmine\math\Facing</a>;</div>
+<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>use <a class="code hl_class" href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">pocketmine\math\Vector3</a>;</div>
+<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>use <a class="code hl_class" href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html">pocketmine\player\Player</a>;</div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>use <a class="code hl_class" href="../../dd/db5/classpocketmine_1_1utils_1_1_text_format.html">pocketmine\utils\TextFormat</a>;</div>
+<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>use <a class="code hl_class" href="../../d9/df8/classpocketmine_1_1world_1_1_explosion.html">pocketmine\world\Explosion</a>;</div>
+<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>use <a class="code hl_class" href="../../d5/dd2/classpocketmine_1_1world_1_1_position.html">pocketmine\world\Position</a>;</div>
+<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>use <a class="code hl_class" href="../../d8/d50/classpocketmine_1_1world_1_1sound_1_1_respawn_anchor_charge_sound.html">pocketmine\world\sound\RespawnAnchorChargeSound</a>;</div>
+<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>use <a class="code hl_class" href="../../dc/d5f/classpocketmine_1_1world_1_1sound_1_1_respawn_anchor_set_spawn_sound.html">pocketmine\world\sound\RespawnAnchorSetSpawnSound</a>;</div>
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span> </div>
+<div class="foldopen" id="foldopen00041" data-start="{" data-end="};">
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno"><a class="line" href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html">   41</a></span><span class="keyword">final</span> <span class="keyword">class </span><a class="code hl_class" href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html">RespawnAnchor</a> <span class="keyword">extends</span> <a class="code hl_class" href="../../db/dc5/classpocketmine_1_1block_1_1_opaque.html">Opaque</a>{</div>
+<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>    <span class="keyword">private</span> <span class="keyword">const</span> MIN_CHARGES = 0;</div>
+<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>    <span class="keyword">private</span> <span class="keyword">const</span> MAX_CHARGES = 4;</div>
+<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span> </div>
+<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>    <span class="keyword">private</span> <span class="keywordtype">int</span> $charges = self::MIN_CHARGES;</div>
+<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span> </div>
+<div class="foldopen" id="foldopen00047" data-start="{" data-end="}">
+<div class="line"><a id="l00047" name="l00047"></a><span class="lineno"><a class="line" href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#ae4f13e2630cc07a8bf1857bd0428253e">   47</a></span>    <span class="keyword">protected</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#ae4f13e2630cc07a8bf1857bd0428253e">describeBlockOnlyState</a>(<a class="code hl_interface" href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html">RuntimeDataDescriber</a> $w) : void{</div>
+<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>        $w-&gt;boundedIntAuto(self::MIN_CHARGES, self::MAX_CHARGES, $this-&gt;charges);</div>
+<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>    }</div>
 </div>
-<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span> </div>
-<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>    <span class="keyword">public</span> <span class="keyword">function</span> getCharges() : int{</div>
-<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>        return $this-&gt;charges;</div>
-<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>    }</div>
-<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span> </div>
-<div class="foldopen" id="foldopen00055" data-start="{" data-end="}">
-<div class="line"><a id="l00055" name="l00055"></a><span class="lineno"><a class="line" href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#ac8d8fb35f3e042ab888de5041abcf216">   55</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#ac8d8fb35f3e042ab888de5041abcf216">setCharges</a>(<span class="keywordtype">int</span> $charges) : self{</div>
-<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>        if($charges &lt; self::MIN_CHARGES || $charges &gt; self::MAX_CHARGES){</div>
-<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>            <span class="keywordflow">throw</span> new \InvalidArgumentException(<span class="stringliteral">&quot;Charges must be between &quot;</span> . self::MIN_CHARGES . <span class="stringliteral">&quot; and &quot;</span> . self::MAX_CHARGES . <span class="stringliteral">&quot;, given: $charges&quot;</span>);</div>
-<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>        }</div>
-<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>        $this-&gt;charges = $charges;</div>
-<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>        <span class="keywordflow">return</span> $this;</div>
-<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>    }</div>
+<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span> </div>
+<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>    <span class="keyword">public</span> <span class="keyword">function</span> getCharges() : int{</div>
+<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>        return $this-&gt;charges;</div>
+<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>    }</div>
+<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span> </div>
+<div class="foldopen" id="foldopen00056" data-start="{" data-end="}">
+<div class="line"><a id="l00056" name="l00056"></a><span class="lineno"><a class="line" href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#ac8d8fb35f3e042ab888de5041abcf216">   56</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#ac8d8fb35f3e042ab888de5041abcf216">setCharges</a>(<span class="keywordtype">int</span> $charges) : self{</div>
+<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>        if($charges &lt; self::MIN_CHARGES || $charges &gt; self::MAX_CHARGES){</div>
+<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>            <span class="keywordflow">throw</span> new \InvalidArgumentException(<span class="stringliteral">&quot;Charges must be between &quot;</span> . self::MIN_CHARGES . <span class="stringliteral">&quot; and &quot;</span> . self::MAX_CHARGES . <span class="stringliteral">&quot;, given: $charges&quot;</span>);</div>
+<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>        }</div>
+<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>        $this-&gt;charges = $charges;</div>
+<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>        <span class="keywordflow">return</span> $this;</div>
+<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>    }</div>
 </div>
-<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span> </div>
-<div class="foldopen" id="foldopen00063" data-start="{" data-end="}">
-<div class="line"><a id="l00063" name="l00063"></a><span class="lineno"><a class="line" href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#adec6bb2cf325f3703a241a2236b766dd">   63</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#adec6bb2cf325f3703a241a2236b766dd">getLightLevel</a>() : int{</div>
-<div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>        return $this-&gt;charges &gt; 0 ? ($this-&gt;charges * 4) - 1 : 0;</div>
-<div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>    }</div>
+<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span> </div>
+<div class="foldopen" id="foldopen00064" data-start="{" data-end="}">
+<div class="line"><a id="l00064" name="l00064"></a><span class="lineno"><a class="line" href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#adec6bb2cf325f3703a241a2236b766dd">   64</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#adec6bb2cf325f3703a241a2236b766dd">getLightLevel</a>() : int{</div>
+<div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>        return $this-&gt;charges &gt; 0 ? ($this-&gt;charges * 4) - 1 : 0;</div>
+<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>    }</div>
 </div>
-<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span> </div>
-<div class="foldopen" id="foldopen00067" data-start="{" data-end="}">
-<div class="line"><a id="l00067" name="l00067"></a><span class="lineno"><a class="line" href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#a86867b597b461c412a38cb3e46732872">   67</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#a86867b597b461c412a38cb3e46732872">onInteract</a>(<a class="code hl_class" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">Item</a> $item, <span class="keywordtype">int</span> $face, <a class="code hl_class" href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">Vector3</a> $clickVector, ?<a class="code hl_class" href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html">Player</a> $player = <span class="keyword">null</span>, array &amp;$returnedItems = []) : bool{</div>
-<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>        if($item-&gt;getTypeId() === <a class="code hl_class" href="../../d9/d6f/classpocketmine_1_1item_1_1_item_type_ids.html">ItemTypeIds</a>::fromBlockTypeId(<a class="code hl_class" href="../../db/dbe/classpocketmine_1_1block_1_1_block_type_ids.html">BlockTypeIds</a>::GLOWSTONE) &amp;&amp; $this-&gt;charges &lt; self::MAX_CHARGES){</div>
-<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>            $this-&gt;position-&gt;getWorld()-&gt;setBlock($this-&gt;position, $this-&gt;setCharges($this-&gt;charges + 1));</div>
-<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>            $this-&gt;position-&gt;getWorld()-&gt;addSound($this-&gt;position, <span class="keyword">new</span> <a class="code hl_class" href="../../d8/d50/classpocketmine_1_1world_1_1sound_1_1_respawn_anchor_charge_sound.html">RespawnAnchorChargeSound</a>());</div>
-<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>        }</div>
-<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span> </div>
-<div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>        <span class="keywordflow">if</span>($this-&gt;charges &gt; self::MIN_CHARGES){</div>
-<div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span>            <span class="keywordflow">if</span>($player === <span class="keyword">null</span>){</div>
-<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a id="l00077" name="l00077"></a><span class="lineno">   77</span>            }</div>
-<div class="line"><a id="l00078" name="l00078"></a><span class="lineno">   78</span> </div>
-<div class="line"><a id="l00079" name="l00079"></a><span class="lineno">   79</span>            $ev = <span class="keyword">new</span> PlayerRespawnAnchorUseEvent($player, $this, PlayerRespawnAnchorUseEvent::ACTION_EXPLODE);</div>
-<div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span>            $ev-&gt;call();</div>
-<div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span>            <span class="keywordflow">if</span>($ev-&gt;isCancelled()){</div>
-<div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>            }</div>
-<div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span> </div>
-<div class="line"><a id="l00085" name="l00085"></a><span class="lineno">   85</span>            <span class="keywordflow">switch</span>($ev-&gt;getAction()){</div>
-<div class="line"><a id="l00086" name="l00086"></a><span class="lineno">   86</span>                <span class="keywordflow">case</span> PlayerRespawnAnchorUseEvent::ACTION_EXPLODE:</div>
-<div class="line"><a id="l00087" name="l00087"></a><span class="lineno">   87</span>                    $this-&gt;explode($player);</div>
-<div class="line"><a id="l00088" name="l00088"></a><span class="lineno">   88</span>                    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><a id="l00089" name="l00089"></a><span class="lineno">   89</span> </div>
-<div class="line"><a id="l00090" name="l00090"></a><span class="lineno">   90</span>                <span class="keywordflow">case</span> PlayerRespawnAnchorUseEvent::ACTION_SET_SPAWN:</div>
-<div class="line"><a id="l00091" name="l00091"></a><span class="lineno">   91</span>                    <span class="keywordflow">if</span>($player-&gt;getSpawn() !== <span class="keyword">null</span> &amp;&amp; $player-&gt;getSpawn()-&gt;equals($this-&gt;position)){</div>
-<div class="line"><a id="l00092" name="l00092"></a><span class="lineno">   92</span>                        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><a id="l00093" name="l00093"></a><span class="lineno">   93</span>                    }</div>
-<div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span> </div>
-<div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span>                    $player-&gt;setSpawn($this-&gt;position);</div>
-<div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span>                    $this-&gt;position-&gt;getWorld()-&gt;addSound($this-&gt;position, <span class="keyword">new</span> RespawnAnchorSetSpawnSound());</div>
-<div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span>                    $player-&gt;sendMessage(KnownTranslationFactory::tile_respawn_anchor_respawnSet()-&gt;prefix(TextFormat::GRAY));</div>
-<div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span>                    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span>            }</div>
-<div class="line"><a id="l00100" name="l00100"></a><span class="lineno">  100</span>        }</div>
-<div class="line"><a id="l00101" name="l00101"></a><span class="lineno">  101</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a id="l00102" name="l00102"></a><span class="lineno">  102</span>    }</div>
+<div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span> </div>
+<div class="foldopen" id="foldopen00068" data-start="{" data-end="}">
+<div class="line"><a id="l00068" name="l00068"></a><span class="lineno"><a class="line" href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#aec2349362e6557e7bac35ac37cdba870">   68</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#aec2349362e6557e7bac35ac37cdba870">onInteract</a>(<a class="code hl_class" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">Item</a> $item, <a class="code hl_enumeration" href="../../d8/db3/namespacepocketmine_1_1math.html#aa886a69cf6f1686b3db497cee3400814">Facing</a> $face, <a class="code hl_class" href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">Vector3</a> $clickVector, ?<a class="code hl_class" href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html">Player</a> $player = <span class="keyword">null</span>, array &amp;$returnedItems = []) : bool{</div>
+<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>        if($item-&gt;getTypeId() === <a class="code hl_class" href="../../d9/d6f/classpocketmine_1_1item_1_1_item_type_ids.html">ItemTypeIds</a>::fromBlockTypeId(<a class="code hl_class" href="../../db/dbe/classpocketmine_1_1block_1_1_block_type_ids.html">BlockTypeIds</a>::GLOWSTONE) &amp;&amp; $this-&gt;charges &lt; self::MAX_CHARGES){</div>
+<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>            $this-&gt;position-&gt;getWorld()-&gt;setBlock($this-&gt;position, $this-&gt;setCharges($this-&gt;charges + 1));</div>
+<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>            $this-&gt;position-&gt;getWorld()-&gt;addSound($this-&gt;position, <span class="keyword">new</span> <a class="code hl_class" href="../../d8/d50/classpocketmine_1_1world_1_1sound_1_1_respawn_anchor_charge_sound.html">RespawnAnchorChargeSound</a>());</div>
+<div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>        }</div>
+<div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span> </div>
+<div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span>        <span class="keywordflow">if</span>($this-&gt;charges &gt; self::MIN_CHARGES){</div>
+<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>            <span class="keywordflow">if</span>($player === <span class="keyword">null</span>){</div>
+<div class="line"><a id="l00077" name="l00077"></a><span class="lineno">   77</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><a id="l00078" name="l00078"></a><span class="lineno">   78</span>            }</div>
+<div class="line"><a id="l00079" name="l00079"></a><span class="lineno">   79</span> </div>
+<div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span>            $ev = <span class="keyword">new</span> PlayerRespawnAnchorUseEvent($player, $this, PlayerRespawnAnchorUseEvent::ACTION_EXPLODE);</div>
+<div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span>            $ev-&gt;call();</div>
+<div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span>            <span class="keywordflow">if</span>($ev-&gt;isCancelled()){</div>
+<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span>            }</div>
+<div class="line"><a id="l00085" name="l00085"></a><span class="lineno">   85</span> </div>
+<div class="line"><a id="l00086" name="l00086"></a><span class="lineno">   86</span>            <span class="keywordflow">switch</span>($ev-&gt;getAction()){</div>
+<div class="line"><a id="l00087" name="l00087"></a><span class="lineno">   87</span>                <span class="keywordflow">case</span> PlayerRespawnAnchorUseEvent::ACTION_EXPLODE:</div>
+<div class="line"><a id="l00088" name="l00088"></a><span class="lineno">   88</span>                    $this-&gt;explode($player);</div>
+<div class="line"><a id="l00089" name="l00089"></a><span class="lineno">   89</span>                    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><a id="l00090" name="l00090"></a><span class="lineno">   90</span> </div>
+<div class="line"><a id="l00091" name="l00091"></a><span class="lineno">   91</span>                <span class="keywordflow">case</span> PlayerRespawnAnchorUseEvent::ACTION_SET_SPAWN:</div>
+<div class="line"><a id="l00092" name="l00092"></a><span class="lineno">   92</span>                    <span class="keywordflow">if</span>($player-&gt;getSpawn() !== <span class="keyword">null</span> &amp;&amp; $player-&gt;getSpawn()-&gt;equals($this-&gt;position)){</div>
+<div class="line"><a id="l00093" name="l00093"></a><span class="lineno">   93</span>                        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span>                    }</div>
+<div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span> </div>
+<div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span>                    $player-&gt;setSpawn($this-&gt;position);</div>
+<div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span>                    $this-&gt;position-&gt;getWorld()-&gt;addSound($this-&gt;position, <span class="keyword">new</span> RespawnAnchorSetSpawnSound());</div>
+<div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span>                    $player-&gt;sendMessage(KnownTranslationFactory::tile_respawn_anchor_respawnSet()-&gt;prefix(TextFormat::GRAY));</div>
+<div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span>                    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><a id="l00100" name="l00100"></a><span class="lineno">  100</span>            }</div>
+<div class="line"><a id="l00101" name="l00101"></a><span class="lineno">  101</span>        }</div>
+<div class="line"><a id="l00102" name="l00102"></a><span class="lineno">  102</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><a id="l00103" name="l00103"></a><span class="lineno">  103</span>    }</div>
 </div>
-<div class="line"><a id="l00103" name="l00103"></a><span class="lineno">  103</span> </div>
-<div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span>    <span class="keyword">private</span> <span class="keyword">function</span> explode(?Player $player) : void{</div>
-<div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span>        $ev = new BlockPreExplodeEvent($this, 5, $player);</div>
-<div class="line"><a id="l00106" name="l00106"></a><span class="lineno">  106</span>        $ev-&gt;setIncendiary(<span class="keyword">true</span>);</div>
-<div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span> </div>
-<div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span>        $ev-&gt;call();</div>
-<div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span>        <span class="keywordflow">if</span>($ev-&gt;isCancelled()){</div>
-<div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span>            return;</div>
-<div class="line"><a id="l00111" name="l00111"></a><span class="lineno">  111</span>        }</div>
-<div class="line"><a id="l00112" name="l00112"></a><span class="lineno">  112</span> </div>
-<div class="line"><a id="l00113" name="l00113"></a><span class="lineno">  113</span>        $this-&gt;position-&gt;getWorld()-&gt;setBlock($this-&gt;position, VanillaBlocks::AIR());</div>
-<div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span> </div>
-<div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span>        $explosion = <span class="keyword">new</span> Explosion(Position::fromObject($this-&gt;position-&gt;add(0.5, 0.5, 0.5), $this-&gt;position-&gt;getWorld()), $ev-&gt;getRadius(), $this);</div>
-<div class="line"><a id="l00116" name="l00116"></a><span class="lineno">  116</span>        $explosion-&gt;setFireChance($ev-&gt;getFireChance());</div>
-<div class="line"><a id="l00117" name="l00117"></a><span class="lineno">  117</span> </div>
-<div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span>        <span class="keywordflow">if</span>($ev-&gt;isBlockBreaking()){</div>
-<div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>            $explosion-&gt;explodeA();</div>
-<div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>        }</div>
-<div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>        $explosion-&gt;explodeB();</div>
-<div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>    }</div>
-<div class="line"><a id="l00123" name="l00123"></a><span class="lineno">  123</span>}</div>
+<div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span> </div>
+<div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span>    <span class="keyword">private</span> <span class="keyword">function</span> explode(?Player $player) : void{</div>
+<div class="line"><a id="l00106" name="l00106"></a><span class="lineno">  106</span>        $ev = new BlockPreExplodeEvent($this, 5, $player);</div>
+<div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span>        $ev-&gt;setIncendiary(<span class="keyword">true</span>);</div>
+<div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span> </div>
+<div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span>        $ev-&gt;call();</div>
+<div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span>        <span class="keywordflow">if</span>($ev-&gt;isCancelled()){</div>
+<div class="line"><a id="l00111" name="l00111"></a><span class="lineno">  111</span>            return;</div>
+<div class="line"><a id="l00112" name="l00112"></a><span class="lineno">  112</span>        }</div>
+<div class="line"><a id="l00113" name="l00113"></a><span class="lineno">  113</span> </div>
+<div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span>        $this-&gt;position-&gt;getWorld()-&gt;setBlock($this-&gt;position, VanillaBlocks::AIR());</div>
+<div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span> </div>
+<div class="line"><a id="l00116" name="l00116"></a><span class="lineno">  116</span>        $explosion = <span class="keyword">new</span> Explosion(Position::fromObject($this-&gt;position-&gt;add(0.5, 0.5, 0.5), $this-&gt;position-&gt;getWorld()), $ev-&gt;getRadius(), $this);</div>
+<div class="line"><a id="l00117" name="l00117"></a><span class="lineno">  117</span>        $explosion-&gt;setFireChance($ev-&gt;getFireChance());</div>
+<div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span> </div>
+<div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>        <span class="keywordflow">if</span>($ev-&gt;isBlockBreaking()){</div>
+<div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>            $explosion-&gt;explodeA();</div>
+<div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>        }</div>
+<div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>        $explosion-&gt;explodeB();</div>
+<div class="line"><a id="l00123" name="l00123"></a><span class="lineno">  123</span>    }</div>
+<div class="line"><a id="l00124" name="l00124"></a><span class="lineno">  124</span>}</div>
 </div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_block_type_ids_html"><div class="ttname"><a href="../../db/dbe/classpocketmine_1_1block_1_1_block_type_ids.html">pocketmine\block\BlockTypeIds</a></div><div class="ttdef"><b>Definition</b> <a href="../../d8/dbd/_block_type_ids_8php_source.html#l00036">BlockTypeIds.php:36</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_opaque_html"><div class="ttname"><a href="../../db/dc5/classpocketmine_1_1block_1_1_opaque.html">pocketmine\block\Opaque</a></div><div class="ttdef"><b>Definition</b> <a href="../../d1/dbc/_opaque_8php_source.html#l00030">Opaque.php:30</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_respawn_anchor_html"><div class="ttname"><a href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html">pocketmine\block\RespawnAnchor</a></div><div class="ttdef"><b>Definition</b> <a href="#l00040">RespawnAnchor.php:40</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_respawn_anchor_html_a86867b597b461c412a38cb3e46732872"><div class="ttname"><a href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#a86867b597b461c412a38cb3e46732872">pocketmine\block\RespawnAnchor\onInteract</a></div><div class="ttdeci">onInteract(Item $item, int $face, Vector3 $clickVector, ?Player $player=null, array &amp;$returnedItems=[])</div><div class="ttdef"><b>Definition</b> <a href="#l00067">RespawnAnchor.php:67</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_respawn_anchor_html_ac8d8fb35f3e042ab888de5041abcf216"><div class="ttname"><a href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#ac8d8fb35f3e042ab888de5041abcf216">pocketmine\block\RespawnAnchor\setCharges</a></div><div class="ttdeci">setCharges(int $charges)</div><div class="ttdef"><b>Definition</b> <a href="#l00055">RespawnAnchor.php:55</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_respawn_anchor_html_adec6bb2cf325f3703a241a2236b766dd"><div class="ttname"><a href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#adec6bb2cf325f3703a241a2236b766dd">pocketmine\block\RespawnAnchor\getLightLevel</a></div><div class="ttdeci">getLightLevel()</div><div class="ttdef"><b>Definition</b> <a href="#l00063">RespawnAnchor.php:63</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_respawn_anchor_html_ae4f13e2630cc07a8bf1857bd0428253e"><div class="ttname"><a href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#ae4f13e2630cc07a8bf1857bd0428253e">pocketmine\block\RespawnAnchor\describeBlockOnlyState</a></div><div class="ttdeci">describeBlockOnlyState(RuntimeDataDescriber $w)</div><div class="ttdef"><b>Definition</b> <a href="#l00046">RespawnAnchor.php:46</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_respawn_anchor_html"><div class="ttname"><a href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html">pocketmine\block\RespawnAnchor</a></div><div class="ttdef"><b>Definition</b> <a href="#l00041">RespawnAnchor.php:41</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_respawn_anchor_html_ac8d8fb35f3e042ab888de5041abcf216"><div class="ttname"><a href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#ac8d8fb35f3e042ab888de5041abcf216">pocketmine\block\RespawnAnchor\setCharges</a></div><div class="ttdeci">setCharges(int $charges)</div><div class="ttdef"><b>Definition</b> <a href="#l00056">RespawnAnchor.php:56</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_respawn_anchor_html_adec6bb2cf325f3703a241a2236b766dd"><div class="ttname"><a href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#adec6bb2cf325f3703a241a2236b766dd">pocketmine\block\RespawnAnchor\getLightLevel</a></div><div class="ttdeci">getLightLevel()</div><div class="ttdef"><b>Definition</b> <a href="#l00064">RespawnAnchor.php:64</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_respawn_anchor_html_ae4f13e2630cc07a8bf1857bd0428253e"><div class="ttname"><a href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#ae4f13e2630cc07a8bf1857bd0428253e">pocketmine\block\RespawnAnchor\describeBlockOnlyState</a></div><div class="ttdeci">describeBlockOnlyState(RuntimeDataDescriber $w)</div><div class="ttdef"><b>Definition</b> <a href="#l00047">RespawnAnchor.php:47</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_respawn_anchor_html_aec2349362e6557e7bac35ac37cdba870"><div class="ttname"><a href="../../d3/dfe/classpocketmine_1_1block_1_1_respawn_anchor.html#aec2349362e6557e7bac35ac37cdba870">pocketmine\block\RespawnAnchor\onInteract</a></div><div class="ttdeci">onInteract(Item $item, Facing $face, Vector3 $clickVector, ?Player $player=null, array &amp;$returnedItems=[])</div><div class="ttdef"><b>Definition</b> <a href="#l00068">RespawnAnchor.php:68</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1event_1_1block_1_1_block_pre_explode_event_html"><div class="ttname"><a href="../../da/dc2/classpocketmine_1_1event_1_1block_1_1_block_pre_explode_event.html">pocketmine\event\block\BlockPreExplodeEvent</a></div><div class="ttdef"><b>Definition</b> <a href="../../dd/d10/_block_pre_explode_event_8php_source.html#l00039">BlockPreExplodeEvent.php:39</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1event_1_1player_1_1_player_respawn_anchor_use_event_html"><div class="ttname"><a href="../../d1/daf/classpocketmine_1_1event_1_1player_1_1_player_respawn_anchor_use_event.html">pocketmine\event\player\PlayerRespawnAnchorUseEvent</a></div><div class="ttdef"><b>Definition</b> <a href="../../d0/d25/_player_respawn_anchor_use_event_8php_source.html#l00031">PlayerRespawnAnchorUseEvent.php:31</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">pocketmine\item\Item</a></div><div class="ttdef"><b>Definition</b> <a href="../../db/d98/_item_8php_source.html#l00060">Item.php:60</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">pocketmine\item\Item</a></div><div class="ttdef"><b>Definition</b> <a href="../../db/d98/_item_8php_source.html#l00062">Item.php:62</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_item_type_ids_html"><div class="ttname"><a href="../../d9/d6f/classpocketmine_1_1item_1_1_item_type_ids.html">pocketmine\item\ItemTypeIds</a></div><div class="ttdef"><b>Definition</b> <a href="../../d4/d6d/_item_type_ids_8php_source.html#l00033">ItemTypeIds.php:33</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1lang_1_1_known_translation_factory_html"><div class="ttname"><a href="../../d0/dc6/classpocketmine_1_1lang_1_1_known_translation_factory.html">pocketmine\lang\KnownTranslationFactory</a></div><div class="ttdef"><b>Definition</b> <a href="../../d6/d12/_known_translation_factory_8php_source.html#l00033">KnownTranslationFactory.php:33</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1math_1_1_vector3_html"><div class="ttname"><a href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">pocketmine\math\Vector3</a></div><div class="ttdef"><b>Definition</b> <a href="../../de/d7b/_vector3_8php_source.html#l00036">Vector3.php:36</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1player_1_1_player_html"><div class="ttname"><a href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html">pocketmine\player\Player</a></div><div class="ttdef"><b>Definition</b> <a href="../../d9/d76/_player_8php_source.html#l00173">Player.php:173</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1math_1_1_vector3_html"><div class="ttname"><a href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">pocketmine\math\Vector3</a></div><div class="ttdef"><b>Definition</b> <a href="../../de/d7b/_vector3_8php_source.html#l00037">Vector3.php:37</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1player_1_1_player_html"><div class="ttname"><a href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html">pocketmine\player\Player</a></div><div class="ttdef"><b>Definition</b> <a href="../../d9/d76/_player_8php_source.html#l00175">Player.php:175</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_text_format_html"><div class="ttname"><a href="../../dd/db5/classpocketmine_1_1utils_1_1_text_format.html">pocketmine\utils\TextFormat</a></div><div class="ttdef"><b>Definition</b> <a href="../../da/d59/_text_format_8php_source.html#l00045">TextFormat.php:45</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1_explosion_html"><div class="ttname"><a href="../../d9/df8/classpocketmine_1_1world_1_1_explosion.html">pocketmine\world\Explosion</a></div><div class="ttdef"><b>Definition</b> <a href="../../db/deb/_explosion_8php_source.html#l00054">Explosion.php:54</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1world_1_1_position_html"><div class="ttname"><a href="../../d5/dd2/classpocketmine_1_1world_1_1_position.html">pocketmine\world\Position</a></div><div class="ttdef"><b>Definition</b> <a href="../../d7/d0f/_position_8php_source.html#l00030">Position.php:30</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1world_1_1_position_html"><div class="ttname"><a href="../../d5/dd2/classpocketmine_1_1world_1_1_position.html">pocketmine\world\Position</a></div><div class="ttdef"><b>Definition</b> <a href="../../d7/d0f/_position_8php_source.html#l00031">Position.php:31</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1sound_1_1_respawn_anchor_charge_sound_html"><div class="ttname"><a href="../../d8/d50/classpocketmine_1_1world_1_1sound_1_1_respawn_anchor_charge_sound.html">pocketmine\world\sound\RespawnAnchorChargeSound</a></div><div class="ttdef"><b>Definition</b> <a href="../../dd/d04/_respawn_anchor_charge_sound_8php_source.html#l00030">RespawnAnchorChargeSound.php:30</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1sound_1_1_respawn_anchor_set_spawn_sound_html"><div class="ttname"><a href="../../dc/d5f/classpocketmine_1_1world_1_1sound_1_1_respawn_anchor_set_spawn_sound.html">pocketmine\world\sound\RespawnAnchorSetSpawnSound</a></div><div class="ttdef"><b>Definition</b> <a href="../../d3/dcc/_respawn_anchor_set_spawn_sound_8php_source.html#l00030">RespawnAnchorSetSpawnSound.php:30</a></div></div>
-<div class="ttc" id="ainterfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer_html"><div class="ttname"><a href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html">pocketmine\data\runtime\RuntimeDataDescriber</a></div><div class="ttdef"><b>Definition</b> <a href="../../db/d3f/_runtime_data_describer_8php_source.html#l00037">RuntimeDataDescriber.php:37</a></div></div>
+<div class="ttc" id="ainterfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer_html"><div class="ttname"><a href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html">pocketmine\data\runtime\RuntimeDataDescriber</a></div><div class="ttdef"><b>Definition</b> <a href="../../db/d3f/_runtime_data_describer_8php_source.html#l00038">RuntimeDataDescriber.php:38</a></div></div>
 <div class="ttc" id="anamespacepocketmine_1_1block_html"><div class="ttname"><a href="../../d0/dc3/namespacepocketmine_1_1block.html">pocketmine\block</a></div><div class="ttdef"><b>Definition</b> <a href="../../d2/de9/_activator_rail_8php_source.html#l00024">ActivatorRail.php:24</a></div></div>
+<div class="ttc" id="anamespacepocketmine_1_1math_html_aa886a69cf6f1686b3db497cee3400814"><div class="ttname"><a href="../../d8/db3/namespacepocketmine_1_1math.html#aa886a69cf6f1686b3db497cee3400814">pocketmine\math\Facing</a></div><div class="ttdeci">Facing</div><div class="ttdef"><b>Definition</b> <a href="../../df/d0d/_facing_8php_source.html#l00028">Facing.php:28</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

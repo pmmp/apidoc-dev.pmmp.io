@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.32.2 git-1ebd7d3960d713d56f77f610fe0c15cdee201069</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.33.2 git-77ce07d065c5f14ffd50741c72dbef3004f34620</span>
    </div>
   </td>
  </tr>
@@ -158,14 +158,14 @@ $(function(){initNavTree('de/d44/_math_8php_source.html','../../'); initResizabl
 <div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>        if($a === 0.0){</div>
 <div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>            <span class="keywordflow">throw</span> new \InvalidArgumentException(<span class="stringliteral">&quot;Coefficient a cannot be 0!&quot;</span>);</div>
 <div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>        }</div>
-<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>        $discriminant = $b ** 2 - 4 * $a * $c;</div>
+<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>        $discriminant = $b * $b - 4 * $a * $c;</div>
 <div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>        <span class="keywordflow">if</span>($discriminant &gt; 0){ <span class="comment">//2 real roots</span></div>
 <div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>            $sqrtDiscriminant = sqrt($discriminant);</div>
 <div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>            <span class="keywordflow">return</span> [</div>
 <div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>                (-$b + $sqrtDiscriminant) / (2 * $a),</div>
 <div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>                (-$b - $sqrtDiscriminant) / (2 * $a)</div>
 <div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>            ];</div>
-<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>        }elseif($discriminant == 0){ <span class="comment">//1 real root</span></div>
+<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>        }elseif($discriminant === 0.0){ <span class="comment">//1 real root</span></div>
 <div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>            <span class="keywordflow">return</span> [</div>
 <div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>                -$b / (2 * $a)</div>
 <div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>            ];</div>

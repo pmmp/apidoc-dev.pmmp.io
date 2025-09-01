@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.32.2 git-1ebd7d3960d713d56f77f610fe0c15cdee201069</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.33.2 git-77ce07d065c5f14ffd50741c72dbef3004f34620</span>
    </div>
   </td>
  </tr>
@@ -144,30 +144,30 @@ Public Attributes</h2></td></tr>
 <b>Initial value:</b><div class="fragment"><div class="line">= [</div>
 <div class="line">        </div>
 <div class="line">        BlockLegacyMetadata::RAIL_STRAIGHT_NORTH_SOUTH =&gt; [</div>
-<div class="line">            Facing::NORTH,</div>
-<div class="line">            Facing::SOUTH</div>
+<div class="line">            Facing::NORTH-&gt;value,</div>
+<div class="line">            Facing::SOUTH-&gt;value</div>
 <div class="line">        ],</div>
 <div class="line">        BlockLegacyMetadata::RAIL_STRAIGHT_EAST_WEST =&gt; [</div>
-<div class="line">            Facing::EAST,</div>
-<div class="line">            Facing::WEST</div>
+<div class="line">            Facing::EAST-&gt;value,</div>
+<div class="line">            Facing::WEST-&gt;value</div>
 <div class="line">        ],</div>
 <div class="line"> </div>
 <div class="line">        </div>
 <div class="line">        BlockLegacyMetadata::RAIL_ASCENDING_EAST =&gt; [</div>
-<div class="line">            Facing::WEST,</div>
-<div class="line">            Facing::EAST | self::FLAG_ASCEND</div>
+<div class="line">            Facing::WEST-&gt;value,</div>
+<div class="line">            Facing::EAST-&gt;value | self::FLAG_ASCEND</div>
 <div class="line">        ],</div>
 <div class="line">        BlockLegacyMetadata::RAIL_ASCENDING_WEST =&gt; [</div>
-<div class="line">            Facing::EAST,</div>
-<div class="line">            Facing::WEST | self::FLAG_ASCEND</div>
+<div class="line">            Facing::EAST-&gt;value,</div>
+<div class="line">            Facing::WEST-&gt;value | self::FLAG_ASCEND</div>
 <div class="line">        ],</div>
 <div class="line">        BlockLegacyMetadata::RAIL_ASCENDING_NORTH =&gt; [</div>
-<div class="line">            Facing::SOUTH,</div>
-<div class="line">            Facing::NORTH | self::FLAG_ASCEND</div>
+<div class="line">            Facing::SOUTH-&gt;value,</div>
+<div class="line">            Facing::NORTH-&gt;value | self::FLAG_ASCEND</div>
 <div class="line">        ],</div>
 <div class="line">        BlockLegacyMetadata::RAIL_ASCENDING_SOUTH =&gt; [</div>
-<div class="line">            Facing::NORTH,</div>
-<div class="line">            Facing::SOUTH | self::FLAG_ASCEND</div>
+<div class="line">            Facing::NORTH-&gt;value,</div>
+<div class="line">            Facing::SOUTH-&gt;value | self::FLAG_ASCEND</div>
 <div class="line">        ]</div>
 <div class="line">    ]</div>
 </div><!-- fragment -->
@@ -188,20 +188,20 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 <b>Initial value:</b><div class="fragment"><div class="line">= [</div>
 <div class="line">        BlockLegacyMetadata::RAIL_CURVE_SOUTHEAST =&gt; [</div>
-<div class="line">            Facing::SOUTH,</div>
-<div class="line">            Facing::EAST</div>
+<div class="line">            Facing::SOUTH-&gt;value,</div>
+<div class="line">            Facing::EAST-&gt;value</div>
 <div class="line">        ],</div>
 <div class="line">        BlockLegacyMetadata::RAIL_CURVE_SOUTHWEST =&gt; [</div>
-<div class="line">            Facing::SOUTH,</div>
-<div class="line">            Facing::WEST</div>
+<div class="line">            Facing::SOUTH-&gt;value,</div>
+<div class="line">            Facing::WEST-&gt;value</div>
 <div class="line">        ],</div>
 <div class="line">        BlockLegacyMetadata::RAIL_CURVE_NORTHWEST =&gt; [</div>
-<div class="line">            Facing::NORTH,</div>
-<div class="line">            Facing::WEST</div>
+<div class="line">            Facing::NORTH-&gt;value,</div>
+<div class="line">            Facing::WEST-&gt;value</div>
 <div class="line">        ],</div>
 <div class="line">        BlockLegacyMetadata::RAIL_CURVE_NORTHEAST =&gt; [</div>
-<div class="line">            Facing::NORTH,</div>
-<div class="line">            Facing::EAST</div>
+<div class="line">            Facing::NORTH-&gt;value,</div>
+<div class="line">            Facing::EAST-&gt;value</div>
 <div class="line">        ]</div>
 <div class="line">    ]</div>
 </div><!-- fragment -->

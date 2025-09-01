@@ -32,7 +32,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#a6f13ff76dad934b1b2e078a5b57dd7a5" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="../../d7/d27/classpocketmine_1_1block_1_1_block.html#a8635dccd33641330c42129a61377b2fd" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="296,-78 163,-78 163,-48 296,-48 296,-78"/>
 <text text-anchor="start" x="171" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Block</text>
 <text text-anchor="middle" x="229.5" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">\getSide</text>
@@ -51,7 +51,7 @@
 <!-- Node4 -->
 <g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_Node000004"><a xlink:href="../../d0/d73/classpocketmine_1_1block_1_1_wall.html#a35e81a2b9fecf82a57e51f53cd6b4069" target="_top" xlink:title=" ">
+<g id="a_Node000004"><a xlink:href="../../d0/d73/classpocketmine_1_1block_1_1_wall.html#a22dff697dbd4c3f9a7873a9444b3025e" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="293,-30 166,-30 166,0 293,0 293,-30"/>
 <text text-anchor="start" x="174" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Wall</text>
 <text text-anchor="middle" x="229.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">\getSupportType</text>

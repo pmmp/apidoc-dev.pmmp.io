@@ -118,7 +118,7 @@ var searchData=
   ['asyncworker_115',['AsyncWorker',['../d1/d4e/classpocketmine_1_1scheduler_1_1_async_worker.html',1,'pocketmine::scheduler']]],
   ['attachablelogger_116',['AttachableLogger',['../d9/d4f/interface_attachable_logger.html',1,'']]],
   ['attachablethreadsafelogger_117',['AttachableThreadSafeLogger',['../d8/daf/classpocketmine_1_1thread_1_1log_1_1_attachable_thread_safe_logger.html',1,'pocketmine::thread::log']]],
-  ['attackblock_118',['attackBlock',['../d0/d6f/classpocketmine_1_1player_1_1_player.html#a26507d3b66dc3c15d3906920c6f70ad5',1,'pocketmine::player::Player']]],
+  ['attackblock_118',['attackBlock',['../d0/d6f/classpocketmine_1_1player_1_1_player.html#a02269d0367816808e32acdaf32022650',1,'pocketmine::player::Player']]],
   ['attackentity_119',['attackEntity',['../d0/d6f/classpocketmine_1_1player_1_1_player.html#a82bbc56526adde25c90cb984fd20fd45',1,'pocketmine::player::Player']]],
   ['attribute_120',['Attribute',['../d1/d8b/classpocketmine_1_1entity_1_1_attribute.html',1,'pocketmine\entity\Attribute'],['../da/de0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_attribute.html',1,'pocketmine\network\mcpe\protocol\types\entity\Attribute']]],
   ['attributefactory_121',['AttributeFactory',['../dd/da4/classpocketmine_1_1entity_1_1_attribute_factory.html',1,'pocketmine::entity']]],
@@ -135,7 +135,7 @@ var searchData=
   ['availableenchantmentregistry_132',['AvailableEnchantmentRegistry',['../db/d9d/classpocketmine_1_1item_1_1enchantment_1_1_available_enchantment_registry.html',1,'pocketmine::item::enchantment']]],
   ['awardachievementpacket_133',['AwardAchievementPacket',['../df/d80/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_award_achievement_packet.html',1,'pocketmine::network::mcpe::protocol']]],
   ['axe_134',['Axe',['../d5/d0a/classpocketmine_1_1item_1_1_axe.html',1,'pocketmine::item']]],
-  ['axis_135',['Axis',['../db/d25/classpocketmine_1_1math_1_1_axis.html',1,'pocketmine::math']]],
-  ['axis_136',['axis',['../dd/d25/classpocketmine_1_1math_1_1_facing.html#aa4bc499d0bcfe86df35a6bdec0bc9eb0',1,'pocketmine::math::Facing']]],
+  ['axis_135',['Axis',['../d8/db3/namespacepocketmine_1_1math.html#a8d098d8d1c59798ecdfb300ce728ae6e',1,'pocketmine::math']]],
+  ['axis_136',['axis',['../d8/db3/namespacepocketmine_1_1math.html#aa886a69cf6f1686b3db497cee3400814a4c7671b48be7177ef504cda08d438bc7',1,'pocketmine::math']]],
   ['axisalignedbb_137',['AxisAlignedBB',['../dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html',1,'pocketmine::math']]]
 ];

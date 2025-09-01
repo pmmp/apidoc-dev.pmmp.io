@@ -46,7 +46,6 @@ var searchData=
   ['asposition_43',['asPosition',['../d5/dd2/classpocketmine_1_1world_1_1_position.html#a5d8e9b62367219f84eb7438f19be4f88',1,'pocketmine::world::Position']]],
   ['assumenotfalse_44',['assumeNotFalse',['../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a292c99eeb9f5c7baac8531811ec237de',1,'pocketmine::utils::Utils']]],
   ['asvector3_45',['asVector3',['../d2/d90/classpocketmine_1_1math_1_1_vector3.html#a1bbf94c2ac5a3bfc67aaf6d9c0448b48',1,'pocketmine::math::Vector3']]],
-  ['attackblock_46',['attackBlock',['../d0/d6f/classpocketmine_1_1player_1_1_player.html#a26507d3b66dc3c15d3906920c6f70ad5',1,'pocketmine::player::Player']]],
-  ['attackentity_47',['attackEntity',['../d0/d6f/classpocketmine_1_1player_1_1_player.html#a82bbc56526adde25c90cb984fd20fd45',1,'pocketmine::player::Player']]],
-  ['axis_48',['axis',['../dd/d25/classpocketmine_1_1math_1_1_facing.html#aa4bc499d0bcfe86df35a6bdec0bc9eb0',1,'pocketmine::math::Facing']]]
+  ['attackblock_46',['attackBlock',['../d0/d6f/classpocketmine_1_1player_1_1_player.html#a02269d0367816808e32acdaf32022650',1,'pocketmine::player::Player']]],
+  ['attackentity_47',['attackEntity',['../d0/d6f/classpocketmine_1_1player_1_1_player.html#a82bbc56526adde25c90cb984fd20fd45',1,'pocketmine::player::Player']]]
 ];

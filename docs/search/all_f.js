@@ -67,6 +67,5 @@ var searchData=
   ['notice_64',['notice',['../d9/d27/classpocketmine_1_1utils_1_1_main_logger.html#a7f32d187305bcfdfbda2e7bfe09afbd4',1,'pocketmine\\utils\MainLogger\notice()'],['../d4/d00/interface_logger.html#a54be4b7ff0c72b3fa4b88624a6d4742e',1,'Logger\notice()'],['../d9/df4/class_simple_logger.html#a7ac1aa95a08676d825b73abb4ea2d235',1,'SimpleLogger\notice()']]],
   ['notifyneighbourblockupdate_65',['notifyNeighbourBlockUpdate',['../d4/d2b/classpocketmine_1_1world_1_1_world.html#a0760f9b660cabe2649ea685ed579df49',1,'pocketmine::world::World']]],
   ['npcdialoguepacket_66',['NpcDialoguePacket',['../d8/d30/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_npc_dialogue_packet.html',1,'pocketmine::network::mcpe::protocol']]],
-  ['npcrequestpacket_67',['NpcRequestPacket',['../dc/da8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_npc_request_packet.html',1,'pocketmine::network::mcpe::protocol']]],
-  ['nullable_68',['NULLABLE',['../d6/d33/class_dave_random_1_1_callback_validator_1_1_type.html#ab99bcf07a1a703653db47a489e1348db',1,'DaveRandom::CallbackValidator::Type']]]
+  ['npcrequestpacket_67',['NpcRequestPacket',['../dc/da8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_npc_request_packet.html',1,'pocketmine::network::mcpe::protocol']]]
 ];

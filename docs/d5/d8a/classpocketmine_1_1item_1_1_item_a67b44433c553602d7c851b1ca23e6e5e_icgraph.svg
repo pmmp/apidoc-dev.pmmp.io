@@ -67,7 +67,7 @@ var sectionId = 'dynsection-4';
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="../../d1/dae/classpocketmine_1_1block_1_1_bamboo.html#a86b636e543cc443407c3b0c6347444a1" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="../../d1/dae/classpocketmine_1_1block_1_1_bamboo.html#af678bfff4039d7e2119c40470103929f" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="164,-1086 18,-1086 18,-1056 164,-1056 164,-1086"/>
 <text text-anchor="start" x="26" y="-1074" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Bamboo</text>
 <text text-anchor="middle" x="91" y="-1063" font-family="Helvetica,sans-Serif" font-size="10.00">\onInteract</text>
@@ -86,7 +86,7 @@ var sectionId = 'dynsection-4';
 <!-- Node3 -->
 <g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_Node000003"><a xlink:href="../../d6/dae/classpocketmine_1_1block_1_1_bamboo_sapling.html#af01e5cc00d9fa23654cffaf5254fe75e" target="_top" xlink:title=" ">
+<g id="a_Node000003"><a xlink:href="../../d6/dae/classpocketmine_1_1block_1_1_bamboo_sapling.html#a57df582f722a264027129cc90c5fa62b" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="182,-1038 0,-1038 0,-1008 182,-1008 182,-1038"/>
 <text text-anchor="start" x="8" y="-1026" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\BambooSapling</text>
 <text text-anchor="middle" x="91" y="-1015" font-family="Helvetica,sans-Serif" font-size="10.00">\onInteract</text>
@@ -105,7 +105,7 @@ var sectionId = 'dynsection-4';
 <!-- Node4 -->
 <g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_Node000004"><a xlink:href="../../d5/d5a/classpocketmine_1_1block_1_1_base_big_dripleaf.html#ad4c153b1920d1b9e5bc201d5a6de7054" target="_top" xlink:title=" ">
+<g id="a_Node000004"><a xlink:href="../../d5/d5a/classpocketmine_1_1block_1_1_base_big_dripleaf.html#a48ffbda49b24e34bed6ada54de13e188" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="164,-990 18,-990 18,-960 164,-960 164,-990"/>
 <text text-anchor="start" x="26" y="-978" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\BaseBig</text>
 <text text-anchor="middle" x="91" y="-967" font-family="Helvetica,sans-Serif" font-size="10.00">Dripleaf\onInteract</text>
@@ -124,7 +124,7 @@ var sectionId = 'dynsection-4';
 <!-- Node5 -->
 <g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_Node000005"><a xlink:href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html#a45815ac91b49c1d30b1ea40fabdd3ce9" target="_top" xlink:title=" ">
+<g id="a_Node000005"><a xlink:href="../../df/d1c/classpocketmine_1_1block_1_1_cake.html#a0808afffd87ac3af86c51e01adddac43" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="156,-942 26,-942 26,-912 156,-912 156,-942"/>
 <text text-anchor="start" x="34" y="-930" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Cake</text>
 <text text-anchor="middle" x="91" y="-919" font-family="Helvetica,sans-Serif" font-size="10.00">\onInteract</text>
@@ -143,7 +143,7 @@ var sectionId = 'dynsection-4';
 <!-- Node6 -->
 <g id="Node000006" class="node">
 <title>Node6</title>
-<g id="a_Node000006"><a xlink:href="../../d9/d68/classpocketmine_1_1block_1_1_cocoa_block.html#a8dac94b490c40381a68ed917c0083c01" target="_top" xlink:title=" ">
+<g id="a_Node000006"><a xlink:href="../../d9/d68/classpocketmine_1_1block_1_1_cocoa_block.html#abf40dd01f4729fbe2a1cb1ee0140600c" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="172.5,-894 9.5,-894 9.5,-864 172.5,-864 172.5,-894"/>
 <text text-anchor="start" x="17.5" y="-882" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\CocoaBlock</text>
 <text text-anchor="middle" x="91" y="-871" font-family="Helvetica,sans-Serif" font-size="10.00">\onInteract</text>
@@ -162,7 +162,7 @@ var sectionId = 'dynsection-4';
 <!-- Node7 -->
 <g id="Node000007" class="node">
 <title>Node7</title>
-<g id="a_Node000007"><a xlink:href="../../d2/d70/classpocketmine_1_1block_1_1_crops.html#a6c9da7f1ae5d2201f833497a2d8e915f" target="_top" xlink:title=" ">
+<g id="a_Node000007"><a xlink:href="../../d2/d70/classpocketmine_1_1block_1_1_crops.html#a9588d2998744ad286e7d2d0cc54097a0" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="158,-846 24,-846 24,-816 158,-816 158,-846"/>
 <text text-anchor="start" x="32" y="-834" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Crops</text>
 <text text-anchor="middle" x="91" y="-823" font-family="Helvetica,sans-Serif" font-size="10.00">\onInteract</text>
@@ -181,7 +181,7 @@ var sectionId = 'dynsection-4';
 <!-- Node8 -->
 <g id="Node000008" class="node">
 <title>Node8</title>
-<g id="a_Node000008"><a xlink:href="../../da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#a8bb2a541b8977cdb13024f71d754d959" target="_top" xlink:title=" ">
+<g id="a_Node000008"><a xlink:href="../../da/d01/classpocketmine_1_1block_1_1_double_pitcher_crop.html#a7552319f7c1d1d42af43117445d7f322" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="178,-798 4,-798 4,-768 178,-768 178,-798"/>
 <text text-anchor="start" x="12" y="-786" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\DoublePitcher</text>
 <text text-anchor="middle" x="91" y="-775" font-family="Helvetica,sans-Serif" font-size="10.00">Crop\onInteract</text>
@@ -200,7 +200,7 @@ var sectionId = 'dynsection-4';
 <!-- Node9 -->
 <g id="Node000009" class="node">
 <title>Node9</title>
-<g id="a_Node000009"><a xlink:href="../../d4/dc5/classpocketmine_1_1block_1_1_glow_lichen.html#a9f1a594e1821b190423f067b6f151940" target="_top" xlink:title=" ">
+<g id="a_Node000009"><a xlink:href="../../d4/dc5/classpocketmine_1_1block_1_1_glow_lichen.html#ab2b15827bbfbce0279b83a08cc10bd84" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="172,-750 10,-750 10,-720 172,-720 172,-750"/>
 <text text-anchor="start" x="18" y="-738" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\GlowLichen</text>
 <text text-anchor="middle" x="91" y="-727" font-family="Helvetica,sans-Serif" font-size="10.00">\onInteract</text>
@@ -219,7 +219,7 @@ var sectionId = 'dynsection-4';
 <!-- Node10 -->
 <g id="Node000010" class="node">
 <title>Node10</title>
-<g id="a_Node000010"><a xlink:href="../../db/d15/classpocketmine_1_1block_1_1_jukebox.html#ad282da10a5427d2fb36ae427bf6480b0" target="_top" xlink:title=" ">
+<g id="a_Node000010"><a xlink:href="../../db/d15/classpocketmine_1_1block_1_1_jukebox.html#a6cd7ef9c2baed3082e405bb5fd464b3e" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="163,-702 19,-702 19,-672 163,-672 163,-702"/>
 <text text-anchor="start" x="27" y="-690" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Jukebox</text>
 <text text-anchor="middle" x="91" y="-679" font-family="Helvetica,sans-Serif" font-size="10.00">\onInteract</text>
@@ -238,7 +238,7 @@ var sectionId = 'dynsection-4';
 <!-- Node11 -->
 <g id="Node000011" class="node">
 <title>Node11</title>
-<g id="a_Node000011"><a xlink:href="../../de/d09/classpocketmine_1_1block_1_1_lectern.html#a84faa25359442844f27348bad5b95fc9" target="_top" xlink:title=" ">
+<g id="a_Node000011"><a xlink:href="../../de/d09/classpocketmine_1_1block_1_1_lectern.html#a55d164057789645890007a224d5dd2b8" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="162,-654 20,-654 20,-624 162,-624 162,-654"/>
 <text text-anchor="start" x="28" y="-642" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Lectern</text>
 <text text-anchor="middle" x="91" y="-631" font-family="Helvetica,sans-Serif" font-size="10.00">\onInteract</text>
@@ -257,7 +257,7 @@ var sectionId = 'dynsection-4';
 <!-- Node12 -->
 <g id="Node000012" class="node">
 <title>Node12</title>
-<g id="a_Node000012"><a xlink:href="../../d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#ac266ed61314519f7c450516441686da6" target="_top" xlink:title=" ">
+<g id="a_Node000012"><a xlink:href="../../d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#ad5db5c594b3cd8630f5d5fe069744b50" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="174,-606 8,-606 8,-576 174,-576 174,-606"/>
 <text text-anchor="start" x="16" y="-594" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\NetherVines</text>
 <text text-anchor="middle" x="91" y="-583" font-family="Helvetica,sans-Serif" font-size="10.00">\onInteract</text>
@@ -276,7 +276,7 @@ var sectionId = 'dynsection-4';
 <!-- Node13 -->
 <g id="Node000013" class="node">
 <title>Node13</title>
-<g id="a_Node000013"><a xlink:href="../../db/dc0/classpocketmine_1_1block_1_1_pink_petals.html#a5c103dd12f2f2a138eec2f26dc2dfe9d" target="_top" xlink:title=" ">
+<g id="a_Node000013"><a xlink:href="../../db/dc0/classpocketmine_1_1block_1_1_pink_petals.html#a732af7b5c952e61d03580a2ed586948b" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="169.5,-558 12.5,-558 12.5,-528 169.5,-528 169.5,-558"/>
 <text text-anchor="start" x="20.5" y="-546" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\PinkPetals</text>
 <text text-anchor="middle" x="91" y="-535" font-family="Helvetica,sans-Serif" font-size="10.00">\onInteract</text>
@@ -295,7 +295,7 @@ var sectionId = 'dynsection-4';
 <!-- Node14 -->
 <g id="Node000014" class="node">
 <title>Node14</title>
-<g id="a_Node000014"><a xlink:href="../../da/d04/classpocketmine_1_1block_1_1_pitcher_crop.html#a47c98c95d1c7c33fdbd913a05f8d7d59" target="_top" xlink:title=" ">
+<g id="a_Node000014"><a xlink:href="../../da/d04/classpocketmine_1_1block_1_1_pitcher_crop.html#a3bf8c57e0edeb6b9f14590d4d2726cca" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="161,-510 21,-510 21,-480 161,-480 161,-510"/>
 <text text-anchor="start" x="29" y="-498" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Pitcher</text>
 <text text-anchor="middle" x="91" y="-487" font-family="Helvetica,sans-Serif" font-size="10.00">Crop\onInteract</text>
@@ -314,7 +314,7 @@ var sectionId = 'dynsection-4';
 <!-- Node15 -->
 <g id="Node000015" class="node">
 <title>Node15</title>
-<g id="a_Node000015"><a xlink:href="../../d6/d87/classpocketmine_1_1block_1_1_sapling.html#a33754eb89d9bc549b8529a5a800c62f2" target="_top" xlink:title=" ">
+<g id="a_Node000015"><a xlink:href="../../d6/d87/classpocketmine_1_1block_1_1_sapling.html#a4fd26857829d64bd84e02fa810e1b890" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="162,-462 20,-462 20,-432 162,-432 162,-462"/>
 <text text-anchor="start" x="28" y="-450" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Sapling</text>
 <text text-anchor="middle" x="91" y="-439" font-family="Helvetica,sans-Serif" font-size="10.00">\onInteract</text>
@@ -333,7 +333,7 @@ var sectionId = 'dynsection-4';
 <!-- Node16 -->
 <g id="Node000016" class="node">
 <title>Node16</title>
-<g id="a_Node000016"><a xlink:href="../../df/d71/classpocketmine_1_1block_1_1_small_dripleaf.html#a177d359388b09f7cfbdafaf528450626" target="_top" xlink:title=" ">
+<g id="a_Node000016"><a xlink:href="../../df/d71/classpocketmine_1_1block_1_1_small_dripleaf.html#ab9fc25432f408f4371207abc4bfa7c67" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="177.5,-414 4.5,-414 4.5,-384 177.5,-384 177.5,-414"/>
 <text text-anchor="start" x="12.5" y="-402" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\SmallDripleaf</text>
 <text text-anchor="middle" x="91" y="-391" font-family="Helvetica,sans-Serif" font-size="10.00">\onInteract</text>
@@ -352,7 +352,7 @@ var sectionId = 'dynsection-4';
 <!-- Node17 -->
 <g id="Node000017" class="node">
 <title>Node17</title>
-<g id="a_Node000017"><a xlink:href="../../da/da9/classpocketmine_1_1block_1_1_sugarcane.html#a7442fd80109d1e73aa4d62a0d1b85a6b" target="_top" xlink:title=" ">
+<g id="a_Node000017"><a xlink:href="../../da/da9/classpocketmine_1_1block_1_1_sugarcane.html#a9498efaa0153483102019195e81395dd" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="169.5,-366 12.5,-366 12.5,-336 169.5,-336 169.5,-366"/>
 <text text-anchor="start" x="20.5" y="-354" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Sugarcane</text>
 <text text-anchor="middle" x="91" y="-343" font-family="Helvetica,sans-Serif" font-size="10.00">\onInteract</text>
@@ -371,7 +371,7 @@ var sectionId = 'dynsection-4';
 <!-- Node18 -->
 <g id="Node000018" class="node">
 <title>Node18</title>
-<g id="a_Node000018"><a xlink:href="../../d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html#ad9edd253072c13db2a4f52090c826303" target="_top" xlink:title=" ">
+<g id="a_Node000018"><a xlink:href="../../d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html#a5519b7892371075fb2cdee8edab86457" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="172,-318 10,-318 10,-288 172,-288 172,-318"/>
 <text text-anchor="start" x="18" y="-306" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\SweetBerry</text>
 <text text-anchor="middle" x="91" y="-295" font-family="Helvetica,sans-Serif" font-size="10.00">Bush\onInteract</text>
@@ -390,7 +390,7 @@ var sectionId = 'dynsection-4';
 <!-- Node19 -->
 <g id="Node000019" class="node">
 <title>Node19</title>
-<g id="a_Node000019"><a xlink:href="../../dc/dce/classpocketmine_1_1block_1_1_t_n_t.html#af27c2026d3226e84e3d3aede48933e01" target="_top" xlink:title=" ">
+<g id="a_Node000019"><a xlink:href="../../dc/dce/classpocketmine_1_1block_1_1_t_n_t.html#a243dc315941c92020cfba0df7a2aea5b" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="153.5,-270 28.5,-270 28.5,-240 153.5,-240 153.5,-270"/>
 <text text-anchor="start" x="36.5" y="-258" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\TNT</text>
 <text text-anchor="middle" x="91" y="-247" font-family="Helvetica,sans-Serif" font-size="10.00">\onInteract</text>
@@ -409,7 +409,7 @@ var sectionId = 'dynsection-4';
 <!-- Node20 -->
 <g id="Node000020" class="node">
 <title>Node20</title>
-<g id="a_Node000020"><a xlink:href="../../de/d91/classpocketmine_1_1block_1_1_torchflower_crop.html#aaf61de947d43fdb7cb09ce1bef780fdd" target="_top" xlink:title=" ">
+<g id="a_Node000020"><a xlink:href="../../de/d91/classpocketmine_1_1block_1_1_torchflower_crop.html#a444bda1110b9f0938c9eac1ee4ec9e75" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="171.5,-222 10.5,-222 10.5,-192 171.5,-192 171.5,-222"/>
 <text text-anchor="start" x="18.5" y="-210" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Torchflower</text>
 <text text-anchor="middle" x="91" y="-199" font-family="Helvetica,sans-Serif" font-size="10.00">Crop\onInteract</text>
@@ -428,7 +428,7 @@ var sectionId = 'dynsection-4';
 <!-- Node21 -->
 <g id="Node000021" class="node">
 <title>Node21</title>
-<g id="a_Node000021"><a xlink:href="../../d2/d6f/classpocketmine_1_1item_1_1_end_crystal.html#ae7b76b6c65cd0eac23cbe2db6a661a7f" target="_top" xlink:title=" ">
+<g id="a_Node000021"><a xlink:href="../../d2/d6f/classpocketmine_1_1item_1_1_end_crystal.html#ab49d66a70d6790b4c1f9b97e7f0dff2b" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="168.5,-174 13.5,-174 13.5,-144 168.5,-144 168.5,-174"/>
 <text text-anchor="start" x="21.5" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\EndCrystal</text>
 <text text-anchor="middle" x="91" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">\onInteractBlock</text>
@@ -447,7 +447,7 @@ var sectionId = 'dynsection-4';
 <!-- Node22 -->
 <g id="Node000022" class="node">
 <title>Node22</title>
-<g id="a_Node000022"><a xlink:href="../../d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#aa46b353b8b7765f4ab780a997a55affc" target="_top" xlink:title=" ">
+<g id="a_Node000022"><a xlink:href="../../d9/d13/classpocketmine_1_1item_1_1_fire_charge.html#af840e3f83a0677d4cfdc67b83654d9e7" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="168.5,-126 13.5,-126 13.5,-96 168.5,-96 168.5,-126"/>
 <text text-anchor="start" x="21.5" y="-114" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\FireCharge</text>
 <text text-anchor="middle" x="91" y="-103" font-family="Helvetica,sans-Serif" font-size="10.00">\onInteractBlock</text>
@@ -466,7 +466,7 @@ var sectionId = 'dynsection-4';
 <!-- Node23 -->
 <g id="Node000023" class="node">
 <title>Node23</title>
-<g id="a_Node000023"><a xlink:href="../../d2/d57/classpocketmine_1_1item_1_1_glass_bottle.html#a552e338f3abfb3e855e2bdbe57bf3b09" target="_top" xlink:title=" ">
+<g id="a_Node000023"><a xlink:href="../../d2/d57/classpocketmine_1_1item_1_1_glass_bottle.html#a09a708faf3a040877d581267274db683" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="170,-78 12,-78 12,-48 170,-48 170,-78"/>
 <text text-anchor="start" x="20" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\GlassBottle</text>
 <text text-anchor="middle" x="91" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">\onInteractBlock</text>

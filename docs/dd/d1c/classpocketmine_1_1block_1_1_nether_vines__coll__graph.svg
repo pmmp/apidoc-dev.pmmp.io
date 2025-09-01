@@ -339,7 +339,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="354" y="-1249.5" font-family="Helvetica,sans-Serif" font-size="10.00">distance()</text>
 <text text-anchor="start" x="335" y="-1234.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="354" y="-1234.5" font-family="Helvetica,sans-Serif" font-size="10.00">distanceSquared()</text>
-<text text-anchor="start" x="354" y="-1219.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 32 more...</text>
+<text text-anchor="start" x="354" y="-1219.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 31 more...</text>
 <text text-anchor="start" x="335" y="-1204.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="354" y="-1204.5" font-family="Helvetica,sans-Serif" font-size="10.00">maxComponents()</text>
 <text text-anchor="start" x="335" y="-1189.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
@@ -604,17 +604,19 @@ var sectionId = 'dynsection-1';
 <g id="Node000013" class="node">
 <title>Node13</title>
 <g id="a_Node000013"><a xlink:href="../../dc/d33/interfacepocketmine_1_1block_1_1utils_1_1_ageable.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="488.5,-343 367.5,-343 367.5,-268 488.5,-268 488.5,-343"/>
-<text text-anchor="start" x="373" y="-330.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
-<text text-anchor="start" x="407" y="-319.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Ageable</text>
-<text text-anchor="start" x="426.5" y="-304.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="386" y="-289.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="413" y="-289.5" font-family="Helvetica,sans-Serif" font-size="10.00">getAge()</text>
-<text text-anchor="start" x="386" y="-274.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="413" y="-274.5" font-family="Helvetica,sans-Serif" font-size="10.00">setAge()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="368,-314.5 368,-314.5 489,-314.5 489,-314.5 368,-314.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="368,-299.5 368,-299.5 489,-299.5 489,-299.5 368,-299.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="367.5,-268 367.5,-343 488.5,-343 488.5,-268 367.5,-268"/>
+<polygon fill="white" stroke="transparent" points="488.5,-350.5 367.5,-350.5 367.5,-260.5 488.5,-260.5 488.5,-350.5"/>
+<text text-anchor="start" x="373" y="-338.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
+<text text-anchor="start" x="407" y="-327.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Ageable</text>
+<text text-anchor="start" x="426.5" y="-312.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="381" y="-297.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="403" y="-297.5" font-family="Helvetica,sans-Serif" font-size="10.00">getAge()</text>
+<text text-anchor="start" x="381" y="-282.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="403" y="-282.5" font-family="Helvetica,sans-Serif" font-size="10.00">getMaxAge()</text>
+<text text-anchor="start" x="381" y="-267.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="403" y="-267.5" font-family="Helvetica,sans-Serif" font-size="10.00">setAge()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="368,-322.5 368,-322.5 489,-322.5 489,-322.5 368,-322.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="368,-307.5 368,-307.5 489,-307.5 489,-307.5 368,-307.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="367.5,-260.5 367.5,-350.5 488.5,-350.5 488.5,-260.5 367.5,-260.5"/>
 </a>
 </g>
 </g>
@@ -622,8 +624,8 @@ var sectionId = 'dynsection-1';
 <g id="edge12_Node000001_Node000013" class="edge">
 <title>Node13&#45;&gt;Node1</title>
 <g id="a_edge12_Node000001_Node000013"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M409.59,-258.12C404.27,-244.72 398.23,-229.51 392.09,-214.04"/>
-<polygon fill="none" stroke="#63b8ff" points="406.39,-259.54 413.33,-267.54 412.89,-256.95 406.39,-259.54"/>
+<path fill="none" stroke="#63b8ff" d="M406.76,-250.98C402.18,-239.46 397.19,-226.89 392.13,-214.14"/>
+<polygon fill="none" stroke="#63b8ff" points="403.55,-252.4 410.5,-260.4 410.06,-249.82 403.55,-252.4"/>
 </a>
 </g>
 </g>

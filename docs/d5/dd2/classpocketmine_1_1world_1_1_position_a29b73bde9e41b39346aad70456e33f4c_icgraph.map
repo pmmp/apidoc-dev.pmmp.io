@@ -1,10 +1,10 @@
 <map id="pocketmine\world\Position\isValid" name="pocketmine\world\Position\isValid">
 <area shape="rect" id="Node000001" title=" " alt="" coords="497,101,692,141"/>
-<area shape="rect" id="Node000002" href="$d7/d27/classpocketmine_1_1block_1_1_block.html#a6f13ff76dad934b1b2e078a5b57dd7a5" title=" " alt="" coords="272,101,449,141"/>
+<area shape="rect" id="Node000002" href="$d7/d27/classpocketmine_1_1block_1_1_block.html#a8635dccd33641330c42129a61377b2fd" title=" " alt="" coords="272,101,449,141"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="484,124,450,124,450,119,484,119"/>
-<area shape="rect" id="Node000003" href="$df/d58/classpocketmine_1_1block_1_1_copper_door.html#a5eaeef83f4517eb577776b6967c48817" title=" " alt="" coords="5,5,224,45"/>
+<area shape="rect" id="Node000003" href="$df/d58/classpocketmine_1_1block_1_1_copper_door.html#a39a3ce6b32569ed28c37c75d2d8b37c9" title=" " alt="" coords="5,5,224,45"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="308,98,223,60,188,48,190,43,225,55,310,93"/>
-<area shape="rect" id="Node000004" href="$d2/d6f/classpocketmine_1_1item_1_1_end_crystal.html#ae7b76b6c65cd0eac23cbe2db6a661a7f" title=" " alt="" coords="11,69,218,109"/>
+<area shape="rect" id="Node000004" href="$d2/d6f/classpocketmine_1_1item_1_1_end_crystal.html#ab49d66a70d6790b4c1f9b97e7f0dff2b" title=" " alt="" coords="11,69,218,109"/>
 <area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="258,111,218,105,218,100,259,105"/>
 <area shape="rect" id="Node000005" href="$dd/d68/classpocketmine_1_1block_1_1_fence.html#ab156fcc5b87a7c71d98a4753b6764e2d" title=" " alt="" coords="25,133,204,173"/>
 <area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="259,137,205,144,204,139,258,132"/>

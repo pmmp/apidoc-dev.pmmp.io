@@ -1,6 +1,6 @@
 var NAVTREEINDEX6 =
 {
-"d0/d73/classpocketmine_1_1block_1_1_wall.html#afed3d9d9854ea18bc45345afc8b9195e":[3,0,1,0,241,65],
+"d0/d73/classpocketmine_1_1block_1_1_wall.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,241,28],
 "d0/d74/_add_painting_packet_8php_source.html":[4,0,1,0,1,0,7],
 "d0/d74/_inventory_manager_entry_8php_source.html":[4,0,0,12,0,12],
 "d0/d74/_short_tag_8php_source.html":[4,0,1,0,8,0,0,12],
@@ -93,9 +93,9 @@ var NAVTREEINDEX6 =
 "d0/d86/classpocketmine_1_1entity_1_1projectile_1_1_throwable.html#af9c9f94d4c46643cbdaeb7d06d3e44b1":[3,0,1,7,3,9,8],
 "d0/d86/classpocketmine_1_1entity_1_1projectile_1_1_throwable.html#afdd4efc12fe21730ceb104af111f576d":[3,0,1,7,3,9,22],
 "d0/d87/_brew_item_event_8php_source.html":[4,0,0,7,0,16],
-"d0/d87/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_property.html":[3,0,1,6,0,0,0,0,8],
-"d0/d87/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_property.html#a8b68e5723ceaa5087baf509496991530":[3,0,1,6,0,0,0,0,8,1],
-"d0/d87/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_property.html#ad87ed0756ac9c168bfb51c26e66f0f07":[3,0,1,6,0,0,0,0,8,0],
+"d0/d87/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_property.html":[3,0,1,6,0,0,0,0,7],
+"d0/d87/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_property.html#a8b68e5723ceaa5087baf509496991530":[3,0,1,6,0,0,0,0,7,1],
+"d0/d87/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_property.html#ad87ed0756ac9c168bfb51c26e66f0f07":[3,0,1,6,0,0,0,0,7,0],
 "d0/d88/_birch_tree_8php_source.html":[4,0,0,25,2,5,1],
 "d0/d88/_cooked_fish_8php_source.html":[4,0,0,10,30],
 "d0/d88/_item_id_meta_upgrade_schema_utils_8php_source.html":[4,0,0,5,0,1,0,4],
@@ -232,8 +232,12 @@ var NAVTREEINDEX6 =
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[3,0,1,0,256,25],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a286fc64348f13417dcb6106c2695911b":[2,0,0,0,254,2],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a286fc64348f13417dcb6106c2695911b":[3,0,1,0,256,2],
+"d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a29de0ee0759d77d0295937cbd76c8db5":[2,0,0,0,254,9],
+"d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a29de0ee0759d77d0295937cbd76c8db5":[3,0,1,0,256,9],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[2,0,0,0,254,28],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[3,0,1,0,256,28],
+"d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a2f9490d942078cae5c78fd3f5633e2da":[2,0,0,0,254,40],
+"d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a2f9490d942078cae5c78fd3f5633e2da":[3,0,1,0,256,40],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a30a070aa7befb02f9fff5cbf2693c01e":[2,0,0,0,254,10],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a30a070aa7befb02f9fff5cbf2693c01e":[3,0,1,0,256,10],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a31b789765ede98d12bc821a64ea7c60f":[2,0,0,0,254,52],
@@ -245,9 +249,5 @@ var NAVTREEINDEX6 =
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a3a46169e7d256b3a1f3af8c54ddba832":[2,0,0,0,254,66],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a3a46169e7d256b3a1f3af8c54ddba832":[3,0,1,0,256,66],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,0,0,254,11],
-"d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,256,11],
-"d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a3f7f216b87cf31a3209f87f7ac631bf3":[2,0,0,0,254,15],
-"d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a3f7f216b87cf31a3209f87f7ac631bf3":[3,0,1,0,256,15],
-"d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,254,48],
-"d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a43e3458847422ebd5dec6c914b443c93":[3,0,1,0,256,48]
+"d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,256,11]
 };

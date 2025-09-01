@@ -1,7 +1,7 @@
 <map id="pocketmine\block\RedstoneRepeater" name="pocketmine\block\RedstoneRepeater">
-<area shape="rect" id="Node000001" title=" " alt="" coords="473,2747,679,2967"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="473,2747,679,2947"/>
 <area shape="rect" id="Node000002" href="$d3/d1e/classpocketmine_1_1block_1_1_flowable.html" title=" " alt="" coords="265,2552,471,2697"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="445,2706,479,2744,475,2748,441,2710"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="447,2706,484,2744,480,2748,444,2710"/>
 <area shape="rect" id="Node000003" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="263,2437,473,2503"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,2516,371,2552,365,2552,365,2516"/>
 <area shape="rect" id="Node000004" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="255,1963,481,2388"/>
@@ -23,7 +23,7 @@
 <area shape="rect" id="Node000012" href="$d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html" title=" " alt="" coords="827,5,1040,405"/>
 <area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="936,405,936,598,931,598,931,405"/>
 <area shape="rect" id="Node000013" href="$d0/db8/interfacepocketmine_1_1block_1_1utils_1_1_powered_by_redstone.html" title=" " alt="" coords="495,2575,657,2675"/>
-<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="579,2689,579,2746,573,2746,573,2689"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="579,2688,579,2746,573,2746,573,2688"/>
 <area shape="rect" id="Node000014" href="$d7/daf/interfacepocketmine_1_1block_1_1utils_1_1_horizontal_facing.html" title=" " alt="" coords="681,2575,842,2675"/>
-<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="715,2688,666,2748,662,2745,711,2684"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="714,2687,662,2748,658,2745,710,2683"/>
 </map>

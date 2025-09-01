@@ -14,9 +14,10 @@ var classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_commo
     [ "$liquidData", "d2/d7b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_common_properties.html#aa8803bbeb0374bf165fc2600c5604aa1", null ],
     [ "$lit", "d2/d7b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_common_properties.html#a353821c3a63eef1e2f53b52f7efafe6a", null ],
     [ "$litIdInfix", "d2/d7b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_common_properties.html#a53d799a00dfd83640c0a024f386329f3", null ],
-    [ "$multiFacingFlags", "d2/d7b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_common_properties.html#a2be4c2c6616c5499cccf6f9c55b0f138", null ],
+    [ "$multiFacingFlags", "d2/d7b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_common_properties.html#a9d784b8e656f01f3ece7f2a045a60f96", null ],
     [ "$pillarAxis", "d2/d7b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_common_properties.html#a90a5d86eb585379b3233cf14de36af73", null ],
     [ "$slabIdInfix", "d2/d7b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_common_properties.html#a9a2f6645b6dd2730a2f6b185e1768e80", null ],
     [ "$slabPositionProperty", "d2/d7b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_common_properties.html#ae837038ba86cc6efb52f2cee2957da1a", null ],
+    [ "$straightOnlyRailShape", "d2/d7b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_common_properties.html#aae29b9b522a89e21cb3143cbd15e0626", null ],
     [ "$torchFacing", "d2/d7b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_common_properties.html#a7214654840d9a830ac6b73bad9cee741", null ]
 ];

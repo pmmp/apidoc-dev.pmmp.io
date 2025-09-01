@@ -78,6 +78,5 @@ var searchData=
   ['availableenchantmentregistry_75',['AvailableEnchantmentRegistry',['../db/d9d/classpocketmine_1_1item_1_1enchantment_1_1_available_enchantment_registry.html',1,'pocketmine::item::enchantment']]],
   ['awardachievementpacket_76',['AwardAchievementPacket',['../df/d80/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_award_achievement_packet.html',1,'pocketmine::network::mcpe::protocol']]],
   ['axe_77',['Axe',['../d5/d0a/classpocketmine_1_1item_1_1_axe.html',1,'pocketmine::item']]],
-  ['axis_78',['Axis',['../db/d25/classpocketmine_1_1math_1_1_axis.html',1,'pocketmine::math']]],
-  ['axisalignedbb_79',['AxisAlignedBB',['../dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html',1,'pocketmine::math']]]
+  ['axisalignedbb_78',['AxisAlignedBB',['../dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html',1,'pocketmine::math']]]
 ];

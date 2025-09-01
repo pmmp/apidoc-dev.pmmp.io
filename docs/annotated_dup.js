@@ -2,13 +2,8 @@ var annotated_dup =
 [
     [ "DaveRandom", null, [
       [ "CallbackValidator", null, [
-        [ "BuiltInTypes", "de/d3c/class_dave_random_1_1_callback_validator_1_1_built_in_types.html", null ],
-        [ "CallbackType", "d6/dae/class_dave_random_1_1_callback_validator_1_1_callback_type.html", "d6/dae/class_dave_random_1_1_callback_validator_1_1_callback_type" ],
-        [ "InvalidCallbackException", "dd/d7d/class_dave_random_1_1_callback_validator_1_1_invalid_callback_exception.html", null ],
-        [ "MatchTester", "d3/d4a/class_dave_random_1_1_callback_validator_1_1_match_tester.html", "d3/d4a/class_dave_random_1_1_callback_validator_1_1_match_tester" ],
-        [ "ParameterType", "d4/de9/class_dave_random_1_1_callback_validator_1_1_parameter_type.html", "d4/de9/class_dave_random_1_1_callback_validator_1_1_parameter_type" ],
-        [ "ReturnType", "d9/d22/class_dave_random_1_1_callback_validator_1_1_return_type.html", "d9/d22/class_dave_random_1_1_callback_validator_1_1_return_type" ],
-        [ "Type", "d6/d33/class_dave_random_1_1_callback_validator_1_1_type.html", "d6/d33/class_dave_random_1_1_callback_validator_1_1_type" ]
+        [ "MatchTester", "d3/d4a/class_dave_random_1_1_callback_validator_1_1_match_tester.html", null ],
+        [ "Prototype", "d7/d9f/class_dave_random_1_1_callback_validator_1_1_prototype.html", null ]
       ] ]
     ] ],
     [ "pocketmine", "d2/d69/namespacepocketmine.html", [
@@ -85,7 +80,7 @@ var annotated_dup =
           [ "HorizontalFacing", "d7/daf/interfacepocketmine_1_1block_1_1utils_1_1_horizontal_facing.html", "d7/daf/interfacepocketmine_1_1block_1_1utils_1_1_horizontal_facing" ],
           [ "Lightable", "d4/de8/interfacepocketmine_1_1block_1_1utils_1_1_lightable.html", "d4/de8/interfacepocketmine_1_1block_1_1utils_1_1_lightable" ],
           [ "MinimumCostFlowCalculator", "db/d5b/classpocketmine_1_1block_1_1utils_1_1_minimum_cost_flow_calculator.html", "db/d5b/classpocketmine_1_1block_1_1utils_1_1_minimum_cost_flow_calculator" ],
-          [ "MultiFacing", "d5/d60/interfacepocketmine_1_1block_1_1utils_1_1_multi_facing.html", "d5/d60/interfacepocketmine_1_1block_1_1utils_1_1_multi_facing" ],
+          [ "MultiAnyFacing", "db/d50/interfacepocketmine_1_1block_1_1utils_1_1_multi_any_facing.html", "db/d50/interfacepocketmine_1_1block_1_1utils_1_1_multi_any_facing" ],
           [ "PillarRotation", "d2/dfa/interfacepocketmine_1_1block_1_1utils_1_1_pillar_rotation.html", "d2/dfa/interfacepocketmine_1_1block_1_1utils_1_1_pillar_rotation" ],
           [ "PoweredByRedstone", "d0/db8/interfacepocketmine_1_1block_1_1utils_1_1_powered_by_redstone.html", "d0/db8/interfacepocketmine_1_1block_1_1utils_1_1_powered_by_redstone" ],
           [ "RailConnectionInfo", "d7/df9/classpocketmine_1_1block_1_1utils_1_1_rail_connection_info.html", null ],
@@ -467,13 +462,13 @@ var annotated_dup =
                 [ "EnumFromRawStateMap", "d1/d24/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_enum_from_raw_state_map.html", "d1/d24/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_enum_from_raw_state_map" ],
                 [ "IntFromRawStateMap", "db/d8b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_int_from_raw_state_map.html", "db/d8b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_int_from_raw_state_map" ],
                 [ "IntProperty", "d8/d43/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_int_property.html", "d8/d43/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_int_property" ],
-                [ "OptionSetFromIntProperty", "d3/d9c/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_option_set_from_int_property.html", "d3/d9c/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_option_set_from_int_property" ],
                 [ "Property", "d0/d87/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_property.html", "d0/d87/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_property" ],
                 [ "StateMap", "d0/d33/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_state_map.html", "d0/d33/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_state_map" ],
                 [ "StringProperty", "d4/de3/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_string_property.html", "d4/de3/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_string_property" ],
                 [ "ValueFromIntProperty", "d0/d6d/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_value_from_int_property.html", "d0/d6d/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_value_from_int_property" ],
                 [ "ValueFromStringProperty", "dd/d2e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_value_from_string_property.html", "dd/d2e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_value_from_string_property" ],
-                [ "ValueMappings", "db/df3/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_value_mappings.html", "db/df3/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_value_mappings" ]
+                [ "ValueMappings", "db/df3/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_value_mappings.html", "db/df3/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_value_mappings" ],
+                [ "ValueSetFromIntProperty", "dd/d3e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_value_set_from_int_property.html", "dd/d3e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_value_set_from_int_property" ]
               ] ],
               [ "BlockObjectToStateSerializer", "d8/d0c/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_object_to_state_serializer.html", "d8/d0c/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_object_to_state_serializer" ],
               [ "BlockSerializerDeserializerRegistrar", "d3/dcf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_serializer_deserializer_registrar.html", "d3/dcf/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1_block_serializer_deserializer_registrar" ],
@@ -1023,12 +1018,9 @@ var annotated_dup =
         [ "Translatable", "da/d80/classpocketmine_1_1lang_1_1_translatable.html", "da/d80/classpocketmine_1_1lang_1_1_translatable" ]
       ] ],
       [ "math", "d8/db3/namespacepocketmine_1_1math.html", [
-        [ "Axis", "db/d25/classpocketmine_1_1math_1_1_axis.html", "db/d25/classpocketmine_1_1math_1_1_axis" ],
         [ "AxisAlignedBB", "dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html", "dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b" ],
-        [ "Facing", "dd/d25/classpocketmine_1_1math_1_1_facing.html", "dd/d25/classpocketmine_1_1math_1_1_facing" ],
         [ "Math", "d4/db7/classpocketmine_1_1math_1_1_math.html", "d4/db7/classpocketmine_1_1math_1_1_math" ],
-        [ "Matrix", "da/d46/classpocketmine_1_1math_1_1_matrix.html", "da/d46/classpocketmine_1_1math_1_1_matrix" ],
-        [ "RayTraceResult", "d2/dfa/classpocketmine_1_1math_1_1_ray_trace_result.html", "d2/dfa/classpocketmine_1_1math_1_1_ray_trace_result" ],
+        [ "RayTraceResult", "d2/dfa/classpocketmine_1_1math_1_1_ray_trace_result.html", null ],
         [ "Vector2", "d7/d11/classpocketmine_1_1math_1_1_vector2.html", null ],
         [ "Vector3", "d2/d90/classpocketmine_1_1math_1_1_vector3.html", "d2/d90/classpocketmine_1_1math_1_1_vector3" ],
         [ "VectorMath", "d1/db8/classpocketmine_1_1math_1_1_vector_math.html", null ],

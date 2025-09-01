@@ -523,7 +523,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="1380.5" y="-2864.5" font-family="Helvetica,sans-Serif" font-size="10.00">distance()</text>
 <text text-anchor="start" x="1361.5" y="-2849.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="1380.5" y="-2849.5" font-family="Helvetica,sans-Serif" font-size="10.00">distanceSquared()</text>
-<text text-anchor="start" x="1380.5" y="-2834.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 32 more...</text>
+<text text-anchor="start" x="1380.5" y="-2834.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 31 more...</text>
 <text text-anchor="start" x="1361.5" y="-2819.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="1380.5" y="-2819.5" font-family="Helvetica,sans-Serif" font-size="10.00">maxComponents()</text>
 <text text-anchor="start" x="1361.5" y="-2804.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
@@ -838,12 +838,12 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="680.5" y="-2006" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="706.5" y="-2006" font-family="Helvetica,sans-Serif" font-size="10.00">calculateZOffset()</text>
 <text text-anchor="start" x="680.5" y="-1991" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="706.5" y="-1991" font-family="Helvetica,sans-Serif" font-size="10.00">contract()</text>
+<text text-anchor="start" x="706.5" y="-1991" font-family="Helvetica,sans-Serif" font-size="10.00">contractedCopy()</text>
 <text text-anchor="start" x="680.5" y="-1976" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="706.5" y="-1976" font-family="Helvetica,sans-Serif" font-size="10.00">contractedCopy()</text>
+<text text-anchor="start" x="706.5" y="-1976" font-family="Helvetica,sans-Serif" font-size="10.00">expandedCopy()</text>
 <text text-anchor="start" x="680.5" y="-1961" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="706.5" y="-1961" font-family="Helvetica,sans-Serif" font-size="10.00">expand()</text>
-<text text-anchor="start" x="706.5" y="-1946" font-family="Helvetica,sans-Serif" font-size="10.00">and 24 more...</text>
+<text text-anchor="start" x="706.5" y="-1961" font-family="Helvetica,sans-Serif" font-size="10.00">extendedCopy()</text>
+<text text-anchor="start" x="706.5" y="-1946" font-family="Helvetica,sans-Serif" font-size="10.00">and 16 more...</text>
 <text text-anchor="start" x="680.5" y="-1931" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="706.5" y="-1931" font-family="Helvetica,sans-Serif" font-size="10.00">one()</text>
 <polygon fill="#bfbfbf" stroke="#bfbfbf" points="663.5,-2196 663.5,-2196 833.5,-2196 833.5,-2196 663.5,-2196"/>

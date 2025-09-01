@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.32.2 git-1ebd7d3960d713d56f77f610fe0c15cdee201069</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.33.2 git-77ce07d065c5f14ffd50741c72dbef3004f34620</span>
    </div>
   </td>
  </tr>
@@ -292,7 +292,7 @@ $(function(){initNavTree('df/dfe/_projectile_8php_source.html','../../'); initRe
 <div class="line"><a id="l00186" name="l00186"></a><span class="lineno">  186</span>        $entityDistance = PHP_INT_MAX;</div>
 <div class="line"><a id="l00187" name="l00187"></a><span class="lineno">  187</span> </div>
 <div class="line"><a id="l00188" name="l00188"></a><span class="lineno">  188</span>        $newDiff = $end-&gt;subtractVector($start);</div>
-<div class="line"><a id="l00189" name="l00189"></a><span class="lineno">  189</span>        <span class="keywordflow">foreach</span>($world-&gt;getCollidingEntities($this-&gt;boundingBox-&gt;addCoord($newDiff-&gt;x, $newDiff-&gt;y, $newDiff-&gt;z)-&gt;expand(1, 1, 1), $this) as $entity){</div>
+<div class="line"><a id="l00189" name="l00189"></a><span class="lineno">  189</span>        <span class="keywordflow">foreach</span>($world-&gt;getCollidingEntities($this-&gt;boundingBox-&gt;addCoord($newDiff-&gt;x, $newDiff-&gt;y, $newDiff-&gt;z)-&gt;expandedCopy(1, 1, 1), $this) as $entity){</div>
 <div class="line"><a id="l00190" name="l00190"></a><span class="lineno">  190</span>            <span class="keywordflow">if</span>($entity-&gt;getId() === $this-&gt;getOwningEntityId() &amp;&amp; $this-&gt;ticksLived &lt; 5){</div>
 <div class="line"><a id="l00191" name="l00191"></a><span class="lineno">  191</span>                <span class="keywordflow">continue</span>;</div>
 <div class="line"><a id="l00192" name="l00192"></a><span class="lineno">  192</span>            }</div>
@@ -429,8 +429,8 @@ $(function(){initNavTree('df/dfe/_projectile_8php_source.html','../../'); initRe
 <div class="ttc" id="aclasspocketmine_1_1event_1_1entity_1_1_projectile_hit_entity_event_html"><div class="ttname"><a href="../../d0/dfb/classpocketmine_1_1event_1_1entity_1_1_projectile_hit_entity_event.html">pocketmine\event\entity\ProjectileHitEntityEvent</a></div><div class="ttdef"><b>Definition</b> <a href="../../d2/dd1/_projectile_hit_entity_event_8php_source.html#l00030">ProjectileHitEntityEvent.php:30</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1event_1_1entity_1_1_projectile_hit_event_html"><div class="ttname"><a href="../../d3/d75/classpocketmine_1_1event_1_1entity_1_1_projectile_hit_event.html">pocketmine\event\entity\ProjectileHitEvent</a></div><div class="ttdef"><b>Definition</b> <a href="../../d5/ddf/_projectile_hit_event_8php_source.html#l00033">ProjectileHitEvent.php:33</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1math_1_1_ray_trace_result_html"><div class="ttname"><a href="../../d2/dfa/classpocketmine_1_1math_1_1_ray_trace_result.html">pocketmine\math\RayTraceResult</a></div><div class="ttdef"><b>Definition</b> <a href="../../da/dc1/_ray_trace_result_8php_source.html#l00029">RayTraceResult.php:29</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1math_1_1_vector3_html"><div class="ttname"><a href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">pocketmine\math\Vector3</a></div><div class="ttdef"><b>Definition</b> <a href="../../de/d7b/_vector3_8php_source.html#l00036">Vector3.php:36</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1math_1_1_voxel_ray_trace_html"><div class="ttname"><a href="../../d4/d39/classpocketmine_1_1math_1_1_voxel_ray_trace.html">pocketmine\math\VoxelRayTrace</a></div><div class="ttdef"><b>Definition</b> <a href="../../dc/d93/_voxel_ray_trace_8php_source.html#l00029">VoxelRayTrace.php:29</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1math_1_1_vector3_html"><div class="ttname"><a href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">pocketmine\math\Vector3</a></div><div class="ttdef"><b>Definition</b> <a href="../../de/d7b/_vector3_8php_source.html#l00037">Vector3.php:37</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1math_1_1_voxel_ray_trace_html"><div class="ttname"><a href="../../d4/d39/classpocketmine_1_1math_1_1_voxel_ray_trace.html">pocketmine\math\VoxelRayTrace</a></div><div class="ttdef"><b>Definition</b> <a href="../../dc/d93/_voxel_ray_trace_8php_source.html#l00030">VoxelRayTrace.php:30</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1nbt_1_1_n_b_t_html"><div class="ttname"><a href="../../d5/d67/classpocketmine_1_1nbt_1_1_n_b_t.html">pocketmine\nbt\NBT</a></div><div class="ttdef"><b>Definition</b> <a href="../../d9/da2/_n_b_t_8php_source.html#l00042">NBT.php:42</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1nbt_1_1tag_1_1_compound_tag_html"><div class="ttname"><a href="../../de/d67/classpocketmine_1_1nbt_1_1tag_1_1_compound_tag.html">pocketmine\nbt\tag\CompoundTag</a></div><div class="ttdef"><b>Definition</b> <a href="../../d7/d8c/_compound_tag_8php_source.html#l00045">CompoundTag.php:45</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1nbt_1_1tag_1_1_compound_tag_html_a1394545e652ca41b3d3793201049862e"><div class="ttname"><a href="../../de/d67/classpocketmine_1_1nbt_1_1tag_1_1_compound_tag.html#a1394545e652ca41b3d3793201049862e">pocketmine\nbt\tag\CompoundTag\getListTag</a></div><div class="ttdeci">getListTag(string $name)</div><div class="ttdef"><b>Definition</b> <a href="../../d7/d8c/_compound_tag_8php_source.html#l00095">CompoundTag.php:95</a></div></div>

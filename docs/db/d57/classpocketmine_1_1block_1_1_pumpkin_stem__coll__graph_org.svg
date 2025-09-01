@@ -340,7 +340,7 @@
 <text text-anchor="start" x="354" y="-1406.5" font-family="Helvetica,sans-Serif" font-size="10.00">distance()</text>
 <text text-anchor="start" x="335" y="-1391.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="354" y="-1391.5" font-family="Helvetica,sans-Serif" font-size="10.00">distanceSquared()</text>
-<text text-anchor="start" x="354" y="-1376.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 32 more...</text>
+<text text-anchor="start" x="354" y="-1376.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 31 more...</text>
 <text text-anchor="start" x="335" y="-1361.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="354" y="-1361.5" font-family="Helvetica,sans-Serif" font-size="10.00">maxComponents()</text>
 <text text-anchor="start" x="335" y="-1346.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
@@ -605,17 +605,19 @@
 <g id="Node000015" class="node">
 <title>Node15</title>
 <g id="a_Node000015"><a xlink:href="../../dc/d33/interfacepocketmine_1_1block_1_1utils_1_1_ageable.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="488.5,-500 367.5,-500 367.5,-425 488.5,-425 488.5,-500"/>
-<text text-anchor="start" x="373" y="-487.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
-<text text-anchor="start" x="407" y="-476.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Ageable</text>
-<text text-anchor="start" x="426.5" y="-461.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="386" y="-446.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="413" y="-446.5" font-family="Helvetica,sans-Serif" font-size="10.00">getAge()</text>
-<text text-anchor="start" x="386" y="-431.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="413" y="-431.5" font-family="Helvetica,sans-Serif" font-size="10.00">setAge()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="368,-471.5 368,-471.5 489,-471.5 489,-471.5 368,-471.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="368,-456.5 368,-456.5 489,-456.5 489,-456.5 368,-456.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="367.5,-425 367.5,-500 488.5,-500 488.5,-425 367.5,-425"/>
+<polygon fill="white" stroke="transparent" points="488.5,-507.5 367.5,-507.5 367.5,-417.5 488.5,-417.5 488.5,-507.5"/>
+<text text-anchor="start" x="373" y="-495.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
+<text text-anchor="start" x="407" y="-484.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Ageable</text>
+<text text-anchor="start" x="426.5" y="-469.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="381" y="-454.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="403" y="-454.5" font-family="Helvetica,sans-Serif" font-size="10.00">getAge()</text>
+<text text-anchor="start" x="381" y="-439.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="403" y="-439.5" font-family="Helvetica,sans-Serif" font-size="10.00">getMaxAge()</text>
+<text text-anchor="start" x="381" y="-424.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="403" y="-424.5" font-family="Helvetica,sans-Serif" font-size="10.00">setAge()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="368,-479.5 368,-479.5 489,-479.5 489,-479.5 368,-479.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="368,-464.5 368,-464.5 489,-464.5 489,-464.5 368,-464.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="367.5,-417.5 367.5,-507.5 488.5,-507.5 488.5,-417.5 367.5,-417.5"/>
 </a>
 </g>
 </g>
@@ -623,8 +625,8 @@
 <g id="edge14_Node000003_Node000015" class="edge">
 <title>Node15&#45;&gt;Node3</title>
 <g id="a_edge14_Node000003_Node000015"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M400.46,-415.95C391.58,-401.27 381.83,-385.14 373.29,-371.01"/>
-<polygon fill="none" stroke="#63b8ff" points="397.69,-418.13 405.86,-424.88 403.68,-414.51 397.69,-418.13"/>
+<path fill="none" stroke="#63b8ff" d="M396.17,-408.86C388.54,-396.25 380.54,-383.01 373.38,-371.16"/>
+<polygon fill="none" stroke="#63b8ff" points="393.21,-410.72 401.37,-417.47 399.2,-407.1 393.21,-410.72"/>
 </a>
 </g>
 </g>

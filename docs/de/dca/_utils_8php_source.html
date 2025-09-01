@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.32.2 git-1ebd7d3960d713d56f77f610fe0c15cdee201069</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.33.2 git-77ce07d065c5f14ffd50741c72dbef3004f34620</span>
    </div>
   </td>
  </tr>
@@ -131,7 +131,7 @@ $(function(){initNavTree('de/dca/_utils_8php_source.html','../../'); initResizab
 <div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span> </div>
 <div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span><span class="keyword">namespace </span><a class="code hl_namespace" href="../../dc/db6/namespacepocketmine_1_1utils.html">pocketmine\utils</a>;</div>
 <div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span> </div>
-<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>use <a class="code hl_class" href="../../d6/dae/class_dave_random_1_1_callback_validator_1_1_callback_type.html">DaveRandom\CallbackValidator\CallbackType</a>;</div>
+<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>use <a class="code hl_class" href="../../d7/d9f/class_dave_random_1_1_callback_validator_1_1_prototype.html">DaveRandom\CallbackValidator\Prototype</a>;</div>
 <div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>use <a class="code hl_class" href="../../dc/d56/classpocketmine_1_1entity_1_1_location.html">pocketmine\entity\Location</a>;</div>
 <div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>use <a class="code hl_class" href="../../df/d91/classpocketmine_1_1errorhandler_1_1_error_type_to_string_map.html">pocketmine\errorhandler\ErrorTypeToStringMap</a>;</div>
 <div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>use <a class="code hl_class" href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">pocketmine\math\Vector3</a>;</div>
@@ -603,126 +603,122 @@ $(function(){initNavTree('de/dca/_utils_8php_source.html','../../'); initResizab
 <div class="line"><a id="l00551" name="l00551"></a><span class="lineno">  551</span>    }</div>
 </div>
 <div class="line"><a id="l00552" name="l00552"></a><span class="lineno">  552</span> </div>
-<div class="foldopen" id="foldopen00565" data-start="{" data-end="}">
-<div class="line"><a id="l00565" name="l00565"></a><span class="lineno"><a class="line" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a496f1c43cf987c01fa66621672465bd1">  565</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> <a class="code hl_function" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a496f1c43cf987c01fa66621672465bd1">validateCallableSignature</a>(callable|<a class="code hl_class" href="../../d6/dae/class_dave_random_1_1_callback_validator_1_1_callback_type.html">CallbackType</a> $signature, callable $subject) : void{</div>
-<div class="line"><a id="l00566" name="l00566"></a><span class="lineno">  566</span>        if(!($signature instanceof <a class="code hl_class" href="../../d6/dae/class_dave_random_1_1_callback_validator_1_1_callback_type.html">CallbackType</a>)){</div>
-<div class="line"><a id="l00567" name="l00567"></a><span class="lineno">  567</span>            $signature = CallbackType::createFromCallable($signature);</div>
-<div class="line"><a id="l00568" name="l00568"></a><span class="lineno">  568</span>        }</div>
-<div class="line"><a id="l00569" name="l00569"></a><span class="lineno">  569</span>        <span class="keywordflow">if</span>(!$signature-&gt;isSatisfiedBy($subject)){</div>
-<div class="line"><a id="l00570" name="l00570"></a><span class="lineno">  570</span>            <span class="keywordflow">throw</span> new \TypeError(<span class="stringliteral">&quot;Declaration of callable `&quot;</span> . CallbackType::createFromCallable($subject) . <span class="stringliteral">&quot;` must be compatible with `&quot;</span> . $signature . <span class="stringliteral">&quot;`&quot;</span>);</div>
-<div class="line"><a id="l00571" name="l00571"></a><span class="lineno">  571</span>        }</div>
-<div class="line"><a id="l00572" name="l00572"></a><span class="lineno">  572</span>    }</div>
+<div class="foldopen" id="foldopen00562" data-start="{" data-end="}">
+<div class="line"><a id="l00562" name="l00562"></a><span class="lineno"><a class="line" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#ab55366010bb9c9ec9ee57889e1ff5567">  562</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> <a class="code hl_function" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#ab55366010bb9c9ec9ee57889e1ff5567">validateCallableSignature</a>(\Closure $signature, \Closure $subject) : void{</div>
+<div class="line"><a id="l00563" name="l00563"></a><span class="lineno">  563</span>        if(!<a class="code hl_class" href="../../d7/d9f/class_dave_random_1_1_callback_validator_1_1_prototype.html">Prototype</a>::isSatisfiedBy($signature, $subject)){</div>
+<div class="line"><a id="l00564" name="l00564"></a><span class="lineno">  564</span>            <span class="keywordflow">throw</span> new \TypeError(<span class="stringliteral">&quot;Declaration of callable `&quot;</span> . Prototype::print($subject) . <span class="stringliteral">&quot;` must be compatible with `&quot;</span> . Prototype::print($signature) . <span class="stringliteral">&quot;`&quot;</span>);</div>
+<div class="line"><a id="l00565" name="l00565"></a><span class="lineno">  565</span>        }</div>
+<div class="line"><a id="l00566" name="l00566"></a><span class="lineno">  566</span>    }</div>
 </div>
-<div class="line"><a id="l00573" name="l00573"></a><span class="lineno">  573</span> </div>
-<div class="foldopen" id="foldopen00579" data-start="{" data-end="}">
-<div class="line"><a id="l00579" name="l00579"></a><span class="lineno"><a class="line" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a36c8869416d8f0672e18858f34ec533d">  579</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> <a class="code hl_function" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a36c8869416d8f0672e18858f34ec533d">validateArrayValueType</a>(array $array, \Closure $validator) : void{</div>
-<div class="line"><a id="l00580" name="l00580"></a><span class="lineno">  580</span>        foreach(<a class="code hl_class" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html">Utils</a>::promoteKeys($array) as $k =&gt; $v){</div>
-<div class="line"><a id="l00581" name="l00581"></a><span class="lineno">  581</span>            <span class="keywordflow">try</span>{</div>
-<div class="line"><a id="l00582" name="l00582"></a><span class="lineno">  582</span>                $validator($v);</div>
-<div class="line"><a id="l00583" name="l00583"></a><span class="lineno">  583</span>            }<span class="keywordflow">catch</span>(\TypeError $e){</div>
-<div class="line"><a id="l00584" name="l00584"></a><span class="lineno">  584</span>                <span class="keywordflow">throw</span> new \TypeError(<span class="stringliteral">&quot;Incorrect type of element at \&quot;$k\&quot;: &quot;</span> . $e-&gt;getMessage(), 0, $e);</div>
-<div class="line"><a id="l00585" name="l00585"></a><span class="lineno">  585</span>            }</div>
-<div class="line"><a id="l00586" name="l00586"></a><span class="lineno">  586</span>        }</div>
-<div class="line"><a id="l00587" name="l00587"></a><span class="lineno">  587</span>    }</div>
+<div class="line"><a id="l00567" name="l00567"></a><span class="lineno">  567</span> </div>
+<div class="foldopen" id="foldopen00573" data-start="{" data-end="}">
+<div class="line"><a id="l00573" name="l00573"></a><span class="lineno"><a class="line" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a36c8869416d8f0672e18858f34ec533d">  573</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> <a class="code hl_function" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a36c8869416d8f0672e18858f34ec533d">validateArrayValueType</a>(array $array, \Closure $validator) : void{</div>
+<div class="line"><a id="l00574" name="l00574"></a><span class="lineno">  574</span>        foreach(<a class="code hl_class" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html">Utils</a>::promoteKeys($array) as $k =&gt; $v){</div>
+<div class="line"><a id="l00575" name="l00575"></a><span class="lineno">  575</span>            <span class="keywordflow">try</span>{</div>
+<div class="line"><a id="l00576" name="l00576"></a><span class="lineno">  576</span>                $validator($v);</div>
+<div class="line"><a id="l00577" name="l00577"></a><span class="lineno">  577</span>            }<span class="keywordflow">catch</span>(\TypeError $e){</div>
+<div class="line"><a id="l00578" name="l00578"></a><span class="lineno">  578</span>                <span class="keywordflow">throw</span> new \TypeError(<span class="stringliteral">&quot;Incorrect type of element at \&quot;$k\&quot;: &quot;</span> . $e-&gt;getMessage(), 0, $e);</div>
+<div class="line"><a id="l00579" name="l00579"></a><span class="lineno">  579</span>            }</div>
+<div class="line"><a id="l00580" name="l00580"></a><span class="lineno">  580</span>        }</div>
+<div class="line"><a id="l00581" name="l00581"></a><span class="lineno">  581</span>    }</div>
 </div>
-<div class="line"><a id="l00588" name="l00588"></a><span class="lineno">  588</span> </div>
-<div class="foldopen" id="foldopen00599" data-start="{" data-end="}">
-<div class="line"><a id="l00599" name="l00599"></a><span class="lineno"><a class="line" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a61fa28abdb615125801308a857e76db7">  599</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> <a class="code hl_function" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a61fa28abdb615125801308a857e76db7">stringifyKeys</a>(array $array) : \<a class="code hl_class" href="../../d3/df9/classpocketmine_1_1world_1_1generator_1_1_generator.html">Generator</a>{</div>
-<div class="line"><a id="l00600" name="l00600"></a><span class="lineno">  600</span>        foreach($array as $key =&gt; $value){ <span class="comment">// @phpstan-ignore-line - this is where we fix the stupid bullshit with array keys :)</span></div>
-<div class="line"><a id="l00601" name="l00601"></a><span class="lineno">  601</span>            yield (<span class="keywordtype">string</span>) $key =&gt; $value;</div>
-<div class="line"><a id="l00602" name="l00602"></a><span class="lineno">  602</span>        }</div>
-<div class="line"><a id="l00603" name="l00603"></a><span class="lineno">  603</span>    }</div>
+<div class="line"><a id="l00582" name="l00582"></a><span class="lineno">  582</span> </div>
+<div class="foldopen" id="foldopen00593" data-start="{" data-end="}">
+<div class="line"><a id="l00593" name="l00593"></a><span class="lineno"><a class="line" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a61fa28abdb615125801308a857e76db7">  593</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> <a class="code hl_function" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a61fa28abdb615125801308a857e76db7">stringifyKeys</a>(array $array) : \<a class="code hl_class" href="../../d3/df9/classpocketmine_1_1world_1_1generator_1_1_generator.html">Generator</a>{</div>
+<div class="line"><a id="l00594" name="l00594"></a><span class="lineno">  594</span>        foreach($array as $key =&gt; $value){ <span class="comment">// @phpstan-ignore-line - this is where we fix the stupid bullshit with array keys :)</span></div>
+<div class="line"><a id="l00595" name="l00595"></a><span class="lineno">  595</span>            yield (<span class="keywordtype">string</span>) $key =&gt; $value;</div>
+<div class="line"><a id="l00596" name="l00596"></a><span class="lineno">  596</span>        }</div>
+<div class="line"><a id="l00597" name="l00597"></a><span class="lineno">  597</span>    }</div>
 </div>
-<div class="line"><a id="l00604" name="l00604"></a><span class="lineno">  604</span> </div>
-<div class="foldopen" id="foldopen00613" data-start="{" data-end="}">
-<div class="line"><a id="l00613" name="l00613"></a><span class="lineno"><a class="line" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#afcafffb0ea3cd0c64bce46a119d6855c">  613</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> <a class="code hl_function" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#afcafffb0ea3cd0c64bce46a119d6855c">promoteKeys</a>(array $array) : array{</div>
-<div class="line"><a id="l00614" name="l00614"></a><span class="lineno">  614</span>        return $array;</div>
+<div class="line"><a id="l00598" name="l00598"></a><span class="lineno">  598</span> </div>
+<div class="foldopen" id="foldopen00607" data-start="{" data-end="}">
+<div class="line"><a id="l00607" name="l00607"></a><span class="lineno"><a class="line" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#afcafffb0ea3cd0c64bce46a119d6855c">  607</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> <a class="code hl_function" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#afcafffb0ea3cd0c64bce46a119d6855c">promoteKeys</a>(array $array) : array{</div>
+<div class="line"><a id="l00608" name="l00608"></a><span class="lineno">  608</span>        return $array;</div>
+<div class="line"><a id="l00609" name="l00609"></a><span class="lineno">  609</span>    }</div>
+</div>
+<div class="line"><a id="l00610" name="l00610"></a><span class="lineno">  610</span> </div>
+<div class="line"><a id="l00611" name="l00611"></a><span class="lineno">  611</span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> checkUTF8(<span class="keywordtype">string</span> $string) : void{</div>
+<div class="line"><a id="l00612" name="l00612"></a><span class="lineno">  612</span>        if(!mb_check_encoding($string, <span class="stringliteral">&#39;UTF-8&#39;</span>)){</div>
+<div class="line"><a id="l00613" name="l00613"></a><span class="lineno">  613</span>            <span class="keywordflow">throw</span> new \InvalidArgumentException(<span class="stringliteral">&quot;Text must be valid UTF-8&quot;</span>);</div>
+<div class="line"><a id="l00614" name="l00614"></a><span class="lineno">  614</span>        }</div>
 <div class="line"><a id="l00615" name="l00615"></a><span class="lineno">  615</span>    }</div>
-</div>
 <div class="line"><a id="l00616" name="l00616"></a><span class="lineno">  616</span> </div>
-<div class="line"><a id="l00617" name="l00617"></a><span class="lineno">  617</span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> checkUTF8(<span class="keywordtype">string</span> $string) : void{</div>
-<div class="line"><a id="l00618" name="l00618"></a><span class="lineno">  618</span>        if(!mb_check_encoding($string, <span class="stringliteral">&#39;UTF-8&#39;</span>)){</div>
-<div class="line"><a id="l00619" name="l00619"></a><span class="lineno">  619</span>            <span class="keywordflow">throw</span> new \InvalidArgumentException(<span class="stringliteral">&quot;Text must be valid UTF-8&quot;</span>);</div>
-<div class="line"><a id="l00620" name="l00620"></a><span class="lineno">  620</span>        }</div>
-<div class="line"><a id="l00621" name="l00621"></a><span class="lineno">  621</span>    }</div>
-<div class="line"><a id="l00622" name="l00622"></a><span class="lineno">  622</span> </div>
-<div class="foldopen" id="foldopen00629" data-start="{" data-end="}">
-<div class="line"><a id="l00629" name="l00629"></a><span class="lineno"><a class="line" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a292c99eeb9f5c7baac8531811ec237de">  629</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> <a class="code hl_function" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a292c99eeb9f5c7baac8531811ec237de">assumeNotFalse</a>(mixed $value, \Closure|<span class="keywordtype">string</span> $context = <span class="stringliteral">&quot;This should never be false&quot;</span>) : mixed{</div>
-<div class="line"><a id="l00630" name="l00630"></a><span class="lineno">  630</span>        if($value === false){</div>
-<div class="line"><a id="l00631" name="l00631"></a><span class="lineno">  631</span>            <span class="keywordflow">throw</span> <span class="keyword">new</span> <a class="code hl_class" href="../../d1/d30/classpocketmine_1_1utils_1_1_assumption_failed_error.html">AssumptionFailedError</a>(<span class="stringliteral">&quot;Assumption failure: &quot;</span> . (is_string($context) ? $context : $context()) . <span class="stringliteral">&quot; (THIS IS A BUG)&quot;</span>);</div>
-<div class="line"><a id="l00632" name="l00632"></a><span class="lineno">  632</span>        }</div>
-<div class="line"><a id="l00633" name="l00633"></a><span class="lineno">  633</span>        <span class="keywordflow">return</span> $value;</div>
-<div class="line"><a id="l00634" name="l00634"></a><span class="lineno">  634</span>    }</div>
+<div class="foldopen" id="foldopen00623" data-start="{" data-end="}">
+<div class="line"><a id="l00623" name="l00623"></a><span class="lineno"><a class="line" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a292c99eeb9f5c7baac8531811ec237de">  623</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> <a class="code hl_function" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a292c99eeb9f5c7baac8531811ec237de">assumeNotFalse</a>(mixed $value, \Closure|<span class="keywordtype">string</span> $context = <span class="stringliteral">&quot;This should never be false&quot;</span>) : mixed{</div>
+<div class="line"><a id="l00624" name="l00624"></a><span class="lineno">  624</span>        if($value === false){</div>
+<div class="line"><a id="l00625" name="l00625"></a><span class="lineno">  625</span>            <span class="keywordflow">throw</span> <span class="keyword">new</span> <a class="code hl_class" href="../../d1/d30/classpocketmine_1_1utils_1_1_assumption_failed_error.html">AssumptionFailedError</a>(<span class="stringliteral">&quot;Assumption failure: &quot;</span> . (is_string($context) ? $context : $context()) . <span class="stringliteral">&quot; (THIS IS A BUG)&quot;</span>);</div>
+<div class="line"><a id="l00626" name="l00626"></a><span class="lineno">  626</span>        }</div>
+<div class="line"><a id="l00627" name="l00627"></a><span class="lineno">  627</span>        <span class="keywordflow">return</span> $value;</div>
+<div class="line"><a id="l00628" name="l00628"></a><span class="lineno">  628</span>    }</div>
 </div>
-<div class="line"><a id="l00635" name="l00635"></a><span class="lineno">  635</span> </div>
-<div class="line"><a id="l00636" name="l00636"></a><span class="lineno">  636</span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> checkFloatNotInfOrNaN(<span class="keywordtype">string</span> $name, <span class="keywordtype">float</span> $float) : void{</div>
-<div class="line"><a id="l00637" name="l00637"></a><span class="lineno">  637</span>        if(is_nan($float)){</div>
-<div class="line"><a id="l00638" name="l00638"></a><span class="lineno">  638</span>            <span class="keywordflow">throw</span> new \InvalidArgumentException(<span class="stringliteral">&quot;$name cannot be NaN&quot;</span>);</div>
-<div class="line"><a id="l00639" name="l00639"></a><span class="lineno">  639</span>        }</div>
-<div class="line"><a id="l00640" name="l00640"></a><span class="lineno">  640</span>        <span class="keywordflow">if</span>(is_infinite($float)){</div>
-<div class="line"><a id="l00641" name="l00641"></a><span class="lineno">  641</span>            <span class="keywordflow">throw</span> new \InvalidArgumentException(<span class="stringliteral">&quot;$name cannot be infinite&quot;</span>);</div>
-<div class="line"><a id="l00642" name="l00642"></a><span class="lineno">  642</span>        }</div>
-<div class="line"><a id="l00643" name="l00643"></a><span class="lineno">  643</span>    }</div>
-<div class="line"><a id="l00644" name="l00644"></a><span class="lineno">  644</span> </div>
-<div class="line"><a id="l00645" name="l00645"></a><span class="lineno">  645</span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> checkVector3NotInfOrNaN(Vector3 $vector3) : void{</div>
-<div class="line"><a id="l00646" name="l00646"></a><span class="lineno">  646</span>        if($vector3 instanceof Location){ <span class="comment">//location could be masquerading as vector3</span></div>
-<div class="line"><a id="l00647" name="l00647"></a><span class="lineno">  647</span>            self::checkFloatNotInfOrNaN(<span class="stringliteral">&quot;yaw&quot;</span>, $vector3-&gt;yaw);</div>
-<div class="line"><a id="l00648" name="l00648"></a><span class="lineno">  648</span>            self::checkFloatNotInfOrNaN(<span class="stringliteral">&quot;pitch&quot;</span>, $vector3-&gt;pitch);</div>
-<div class="line"><a id="l00649" name="l00649"></a><span class="lineno">  649</span>        }</div>
-<div class="line"><a id="l00650" name="l00650"></a><span class="lineno">  650</span>        self::checkFloatNotInfOrNaN(<span class="stringliteral">&quot;x&quot;</span>, $vector3-&gt;x);</div>
-<div class="line"><a id="l00651" name="l00651"></a><span class="lineno">  651</span>        self::checkFloatNotInfOrNaN(<span class="stringliteral">&quot;y&quot;</span>, $vector3-&gt;y);</div>
-<div class="line"><a id="l00652" name="l00652"></a><span class="lineno">  652</span>        self::checkFloatNotInfOrNaN(<span class="stringliteral">&quot;z&quot;</span>, $vector3-&gt;z);</div>
-<div class="line"><a id="l00653" name="l00653"></a><span class="lineno">  653</span>    }</div>
-<div class="line"><a id="l00654" name="l00654"></a><span class="lineno">  654</span> </div>
-<div class="line"><a id="l00655" name="l00655"></a><span class="lineno">  655</span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> checkLocationNotInfOrNaN(Location $location) : void{</div>
-<div class="line"><a id="l00656" name="l00656"></a><span class="lineno">  656</span>        self::checkVector3NotInfOrNaN($location);</div>
-<div class="line"><a id="l00657" name="l00657"></a><span class="lineno">  657</span>    }</div>
-<div class="line"><a id="l00658" name="l00658"></a><span class="lineno">  658</span> </div>
-<div class="foldopen" id="foldopen00663" data-start="{" data-end="}">
-<div class="line"><a id="l00663" name="l00663"></a><span class="lineno"><a class="line" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a8ff42d7f21873dd15c3c4f9ea21f8d4a">  663</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> <a class="code hl_function" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a8ff42d7f21873dd15c3c4f9ea21f8d4a">getOpcacheJitMode</a>() : ?int{</div>
-<div class="line"><a id="l00664" name="l00664"></a><span class="lineno">  664</span>        if(</div>
-<div class="line"><a id="l00665" name="l00665"></a><span class="lineno">  665</span>            function_exists(<span class="stringliteral">&#39;opcache_get_status&#39;</span>) &amp;&amp;</div>
-<div class="line"><a id="l00666" name="l00666"></a><span class="lineno">  666</span>            ($opcacheStatus = opcache_get_status(false)) !== false &amp;&amp;</div>
-<div class="line"><a id="l00667" name="l00667"></a><span class="lineno">  667</span>            isset($opcacheStatus[<span class="stringliteral">&quot;jit&quot;</span>][<span class="stringliteral">&quot;on&quot;</span>])</div>
-<div class="line"><a id="l00668" name="l00668"></a><span class="lineno">  668</span>        ){</div>
-<div class="line"><a id="l00669" name="l00669"></a><span class="lineno">  669</span>            $jit = $opcacheStatus[<span class="stringliteral">&quot;jit&quot;</span>];</div>
-<div class="line"><a id="l00670" name="l00670"></a><span class="lineno">  670</span>            <span class="keywordflow">if</span>($jit[<span class="stringliteral">&quot;on&quot;</span>] === <span class="keyword">true</span>){</div>
-<div class="line"><a id="l00671" name="l00671"></a><span class="lineno">  671</span>                <span class="keywordflow">return</span> (($jit[<span class="stringliteral">&quot;opt_flags&quot;</span>] &gt;&gt; 2) * 1000) +</div>
-<div class="line"><a id="l00672" name="l00672"></a><span class="lineno">  672</span>                    (($jit[<span class="stringliteral">&quot;opt_flags&quot;</span>] &amp; 0x03) * 100) +</div>
-<div class="line"><a id="l00673" name="l00673"></a><span class="lineno">  673</span>                    ($jit[<span class="stringliteral">&quot;kind&quot;</span>] * 10) +</div>
-<div class="line"><a id="l00674" name="l00674"></a><span class="lineno">  674</span>                    $jit[<span class="stringliteral">&quot;opt_level&quot;</span>];</div>
-<div class="line"><a id="l00675" name="l00675"></a><span class="lineno">  675</span>            }</div>
-<div class="line"><a id="l00676" name="l00676"></a><span class="lineno">  676</span> </div>
-<div class="line"><a id="l00677" name="l00677"></a><span class="lineno">  677</span>            <span class="comment">//jit available, but disabled</span></div>
-<div class="line"><a id="l00678" name="l00678"></a><span class="lineno">  678</span>            <span class="keywordflow">return</span> 0;</div>
-<div class="line"><a id="l00679" name="l00679"></a><span class="lineno">  679</span>        }</div>
-<div class="line"><a id="l00680" name="l00680"></a><span class="lineno">  680</span> </div>
-<div class="line"><a id="l00681" name="l00681"></a><span class="lineno">  681</span>        <span class="comment">//jit not available</span></div>
-<div class="line"><a id="l00682" name="l00682"></a><span class="lineno">  682</span>        <span class="keywordflow">return</span> <span class="keyword">null</span>;</div>
-<div class="line"><a id="l00683" name="l00683"></a><span class="lineno">  683</span>    }</div>
+<div class="line"><a id="l00629" name="l00629"></a><span class="lineno">  629</span> </div>
+<div class="line"><a id="l00630" name="l00630"></a><span class="lineno">  630</span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> checkFloatNotInfOrNaN(<span class="keywordtype">string</span> $name, <span class="keywordtype">float</span> $float) : void{</div>
+<div class="line"><a id="l00631" name="l00631"></a><span class="lineno">  631</span>        if(is_nan($float)){</div>
+<div class="line"><a id="l00632" name="l00632"></a><span class="lineno">  632</span>            <span class="keywordflow">throw</span> new \InvalidArgumentException(<span class="stringliteral">&quot;$name cannot be NaN&quot;</span>);</div>
+<div class="line"><a id="l00633" name="l00633"></a><span class="lineno">  633</span>        }</div>
+<div class="line"><a id="l00634" name="l00634"></a><span class="lineno">  634</span>        <span class="keywordflow">if</span>(is_infinite($float)){</div>
+<div class="line"><a id="l00635" name="l00635"></a><span class="lineno">  635</span>            <span class="keywordflow">throw</span> new \InvalidArgumentException(<span class="stringliteral">&quot;$name cannot be infinite&quot;</span>);</div>
+<div class="line"><a id="l00636" name="l00636"></a><span class="lineno">  636</span>        }</div>
+<div class="line"><a id="l00637" name="l00637"></a><span class="lineno">  637</span>    }</div>
+<div class="line"><a id="l00638" name="l00638"></a><span class="lineno">  638</span> </div>
+<div class="line"><a id="l00639" name="l00639"></a><span class="lineno">  639</span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> checkVector3NotInfOrNaN(Vector3 $vector3) : void{</div>
+<div class="line"><a id="l00640" name="l00640"></a><span class="lineno">  640</span>        if($vector3 instanceof Location){ <span class="comment">//location could be masquerading as vector3</span></div>
+<div class="line"><a id="l00641" name="l00641"></a><span class="lineno">  641</span>            self::checkFloatNotInfOrNaN(<span class="stringliteral">&quot;yaw&quot;</span>, $vector3-&gt;yaw);</div>
+<div class="line"><a id="l00642" name="l00642"></a><span class="lineno">  642</span>            self::checkFloatNotInfOrNaN(<span class="stringliteral">&quot;pitch&quot;</span>, $vector3-&gt;pitch);</div>
+<div class="line"><a id="l00643" name="l00643"></a><span class="lineno">  643</span>        }</div>
+<div class="line"><a id="l00644" name="l00644"></a><span class="lineno">  644</span>        self::checkFloatNotInfOrNaN(<span class="stringliteral">&quot;x&quot;</span>, $vector3-&gt;x);</div>
+<div class="line"><a id="l00645" name="l00645"></a><span class="lineno">  645</span>        self::checkFloatNotInfOrNaN(<span class="stringliteral">&quot;y&quot;</span>, $vector3-&gt;y);</div>
+<div class="line"><a id="l00646" name="l00646"></a><span class="lineno">  646</span>        self::checkFloatNotInfOrNaN(<span class="stringliteral">&quot;z&quot;</span>, $vector3-&gt;z);</div>
+<div class="line"><a id="l00647" name="l00647"></a><span class="lineno">  647</span>    }</div>
+<div class="line"><a id="l00648" name="l00648"></a><span class="lineno">  648</span> </div>
+<div class="line"><a id="l00649" name="l00649"></a><span class="lineno">  649</span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> checkLocationNotInfOrNaN(Location $location) : void{</div>
+<div class="line"><a id="l00650" name="l00650"></a><span class="lineno">  650</span>        self::checkVector3NotInfOrNaN($location);</div>
+<div class="line"><a id="l00651" name="l00651"></a><span class="lineno">  651</span>    }</div>
+<div class="line"><a id="l00652" name="l00652"></a><span class="lineno">  652</span> </div>
+<div class="foldopen" id="foldopen00657" data-start="{" data-end="}">
+<div class="line"><a id="l00657" name="l00657"></a><span class="lineno"><a class="line" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a8ff42d7f21873dd15c3c4f9ea21f8d4a">  657</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> <a class="code hl_function" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a8ff42d7f21873dd15c3c4f9ea21f8d4a">getOpcacheJitMode</a>() : ?int{</div>
+<div class="line"><a id="l00658" name="l00658"></a><span class="lineno">  658</span>        if(</div>
+<div class="line"><a id="l00659" name="l00659"></a><span class="lineno">  659</span>            function_exists(<span class="stringliteral">&#39;opcache_get_status&#39;</span>) &amp;&amp;</div>
+<div class="line"><a id="l00660" name="l00660"></a><span class="lineno">  660</span>            ($opcacheStatus = opcache_get_status(false)) !== false &amp;&amp;</div>
+<div class="line"><a id="l00661" name="l00661"></a><span class="lineno">  661</span>            isset($opcacheStatus[<span class="stringliteral">&quot;jit&quot;</span>][<span class="stringliteral">&quot;on&quot;</span>])</div>
+<div class="line"><a id="l00662" name="l00662"></a><span class="lineno">  662</span>        ){</div>
+<div class="line"><a id="l00663" name="l00663"></a><span class="lineno">  663</span>            $jit = $opcacheStatus[<span class="stringliteral">&quot;jit&quot;</span>];</div>
+<div class="line"><a id="l00664" name="l00664"></a><span class="lineno">  664</span>            <span class="keywordflow">if</span>($jit[<span class="stringliteral">&quot;on&quot;</span>] === <span class="keyword">true</span>){</div>
+<div class="line"><a id="l00665" name="l00665"></a><span class="lineno">  665</span>                <span class="keywordflow">return</span> (($jit[<span class="stringliteral">&quot;opt_flags&quot;</span>] &gt;&gt; 2) * 1000) +</div>
+<div class="line"><a id="l00666" name="l00666"></a><span class="lineno">  666</span>                    (($jit[<span class="stringliteral">&quot;opt_flags&quot;</span>] &amp; 0x03) * 100) +</div>
+<div class="line"><a id="l00667" name="l00667"></a><span class="lineno">  667</span>                    ($jit[<span class="stringliteral">&quot;kind&quot;</span>] * 10) +</div>
+<div class="line"><a id="l00668" name="l00668"></a><span class="lineno">  668</span>                    $jit[<span class="stringliteral">&quot;opt_level&quot;</span>];</div>
+<div class="line"><a id="l00669" name="l00669"></a><span class="lineno">  669</span>            }</div>
+<div class="line"><a id="l00670" name="l00670"></a><span class="lineno">  670</span> </div>
+<div class="line"><a id="l00671" name="l00671"></a><span class="lineno">  671</span>            <span class="comment">//jit available, but disabled</span></div>
+<div class="line"><a id="l00672" name="l00672"></a><span class="lineno">  672</span>            <span class="keywordflow">return</span> 0;</div>
+<div class="line"><a id="l00673" name="l00673"></a><span class="lineno">  673</span>        }</div>
+<div class="line"><a id="l00674" name="l00674"></a><span class="lineno">  674</span> </div>
+<div class="line"><a id="l00675" name="l00675"></a><span class="lineno">  675</span>        <span class="comment">//jit not available</span></div>
+<div class="line"><a id="l00676" name="l00676"></a><span class="lineno">  676</span>        <span class="keywordflow">return</span> <span class="keyword">null</span>;</div>
+<div class="line"><a id="l00677" name="l00677"></a><span class="lineno">  677</span>    }</div>
 </div>
-<div class="line"><a id="l00684" name="l00684"></a><span class="lineno">  684</span> </div>
-<div class="foldopen" id="foldopen00689" data-start="{" data-end="}">
-<div class="line"><a id="l00689" name="l00689"></a><span class="lineno"><a class="line" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#adec7b8e3efe887faaacd68dac025154a">  689</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> <a class="code hl_function" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#adec7b8e3efe887faaacd68dac025154a">getRandomFloat</a>() : float{</div>
-<div class="line"><a id="l00690" name="l00690"></a><span class="lineno">  690</span>        return mt_rand() / mt_getrandmax();</div>
-<div class="line"><a id="l00691" name="l00691"></a><span class="lineno">  691</span>    }</div>
+<div class="line"><a id="l00678" name="l00678"></a><span class="lineno">  678</span> </div>
+<div class="foldopen" id="foldopen00683" data-start="{" data-end="}">
+<div class="line"><a id="l00683" name="l00683"></a><span class="lineno"><a class="line" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#adec7b8e3efe887faaacd68dac025154a">  683</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">function</span> <a class="code hl_function" href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#adec7b8e3efe887faaacd68dac025154a">getRandomFloat</a>() : float{</div>
+<div class="line"><a id="l00684" name="l00684"></a><span class="lineno">  684</span>        return mt_rand() / mt_getrandmax();</div>
+<div class="line"><a id="l00685" name="l00685"></a><span class="lineno">  685</span>    }</div>
 </div>
-<div class="line"><a id="l00692" name="l00692"></a><span class="lineno">  692</span>}</div>
+<div class="line"><a id="l00686" name="l00686"></a><span class="lineno">  686</span>}</div>
 </div>
-<div class="ttc" id="aclass_dave_random_1_1_callback_validator_1_1_callback_type_html"><div class="ttname"><a href="../../d6/dae/class_dave_random_1_1_callback_validator_1_1_callback_type.html">DaveRandom\CallbackValidator\CallbackType</a></div><div class="ttdef"><b>Definition</b> <a href="../../d4/db9/_callback_type_8php_source.html#l00005">CallbackType.php:6</a></div></div>
+<div class="ttc" id="aclass_dave_random_1_1_callback_validator_1_1_prototype_html"><div class="ttname"><a href="../../d7/d9f/class_dave_random_1_1_callback_validator_1_1_prototype.html">DaveRandom\CallbackValidator\Prototype</a></div><div class="ttdef"><b>Definition</b> <a href="../../de/dd8/_prototype_8php_source.html#l00008">Prototype.php:8</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1entity_1_1_location_html"><div class="ttname"><a href="../../dc/d56/classpocketmine_1_1entity_1_1_location.html">pocketmine\entity\Location</a></div><div class="ttdef"><b>Definition</b> <a href="../../db/df8/_location_8php_source.html#l00030">Location.php:30</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1errorhandler_1_1_error_type_to_string_map_html"><div class="ttname"><a href="../../df/d91/classpocketmine_1_1errorhandler_1_1_error_type_to_string_map.html">pocketmine\errorhandler\ErrorTypeToStringMap</a></div><div class="ttdef"><b>Definition</b> <a href="../../d1/d5d/_error_type_to_string_map_8php_source.html#l00022">ErrorTypeToStringMap.php:22</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1math_1_1_vector3_html"><div class="ttname"><a href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">pocketmine\math\Vector3</a></div><div class="ttdef"><b>Definition</b> <a href="../../de/d7b/_vector3_8php_source.html#l00036">Vector3.php:36</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1math_1_1_vector3_html"><div class="ttname"><a href="../../d2/d90/classpocketmine_1_1math_1_1_vector3.html">pocketmine\math\Vector3</a></div><div class="ttdef"><b>Definition</b> <a href="../../de/d7b/_vector3_8php_source.html#l00037">Vector3.php:37</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1thread_1_1_thread_crash_info_frame_html"><div class="ttname"><a href="../../d8/d9f/classpocketmine_1_1thread_1_1_thread_crash_info_frame.html">pocketmine\thread\ThreadCrashInfoFrame</a></div><div class="ttdef"><b>Definition</b> <a href="../../da/dea/_thread_crash_info_frame_8php_source.html#l00028">ThreadCrashInfoFrame.php:28</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_assumption_failed_error_html"><div class="ttname"><a href="../../d1/d30/classpocketmine_1_1utils_1_1_assumption_failed_error.html">pocketmine\utils\AssumptionFailedError</a></div><div class="ttdef"><b>Definition</b> <a href="../../da/da5/_assumption_failed_error_8php_source.html#l00031">AssumptionFailedError.php:31</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html">pocketmine\utils\Utils</a></div><div class="ttdef"><b>Definition</b> <a href="#l00105">Utils.php:105</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_a24eef638f5ab45d661ecd6a9403aa8b9"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a24eef638f5ab45d661ecd6a9403aa8b9">pocketmine\utils\Utils\printableExceptionInfo</a></div><div class="ttdeci">static printableExceptionInfo(\Throwable $e, $trace=null)</div><div class="ttdef"><b>Definition</b> <a href="#l00394">Utils.php:394</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_a2575f0e6acaedaf1d7a4fbe78329eec6"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a2575f0e6acaedaf1d7a4fbe78329eec6">pocketmine\utils\Utils\parseDocComment</a></div><div class="ttdeci">static parseDocComment(string $docComment)</div><div class="ttdef"><b>Definition</b> <a href="#l00522">Utils.php:522</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_a292c99eeb9f5c7baac8531811ec237de"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a292c99eeb9f5c7baac8531811ec237de">pocketmine\utils\Utils\assumeNotFalse</a></div><div class="ttdeci">static assumeNotFalse(mixed $value, \Closure|string $context=&quot;This should never be false&quot;)</div><div class="ttdef"><b>Definition</b> <a href="#l00629">Utils.php:629</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_a36c8869416d8f0672e18858f34ec533d"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a36c8869416d8f0672e18858f34ec533d">pocketmine\utils\Utils\validateArrayValueType</a></div><div class="ttdeci">static validateArrayValueType(array $array, \Closure $validator)</div><div class="ttdef"><b>Definition</b> <a href="#l00579">Utils.php:579</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_a496f1c43cf987c01fa66621672465bd1"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a496f1c43cf987c01fa66621672465bd1">pocketmine\utils\Utils\validateCallableSignature</a></div><div class="ttdeci">static validateCallableSignature(callable|CallbackType $signature, callable $subject)</div><div class="ttdef"><b>Definition</b> <a href="#l00565">Utils.php:565</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_a292c99eeb9f5c7baac8531811ec237de"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a292c99eeb9f5c7baac8531811ec237de">pocketmine\utils\Utils\assumeNotFalse</a></div><div class="ttdeci">static assumeNotFalse(mixed $value, \Closure|string $context=&quot;This should never be false&quot;)</div><div class="ttdef"><b>Definition</b> <a href="#l00623">Utils.php:623</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_a36c8869416d8f0672e18858f34ec533d"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a36c8869416d8f0672e18858f34ec533d">pocketmine\utils\Utils\validateArrayValueType</a></div><div class="ttdeci">static validateArrayValueType(array $array, \Closure $validator)</div><div class="ttdef"><b>Definition</b> <a href="#l00573">Utils.php:573</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_a5011dae1b141d5d2a263c794bb5e62d1"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a5011dae1b141d5d2a263c794bb5e62d1">pocketmine\utils\Utils\getMachineUniqueId</a></div><div class="ttdeci">static getMachineUniqueId(string $extra=&quot;&quot;)</div><div class="ttdef"><b>Definition</b> <a href="#l00190">Utils.php:190</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_a61fa28abdb615125801308a857e76db7"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a61fa28abdb615125801308a857e76db7">pocketmine\utils\Utils\stringifyKeys</a></div><div class="ttdeci">static stringifyKeys(array $array)</div><div class="ttdef"><b>Definition</b> <a href="#l00599">Utils.php:599</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_a61fa28abdb615125801308a857e76db7"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a61fa28abdb615125801308a857e76db7">pocketmine\utils\Utils\stringifyKeys</a></div><div class="ttdeci">static stringifyKeys(array $array)</div><div class="ttdef"><b>Definition</b> <a href="#l00593">Utils.php:593</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_a6554668929420cbb0739b8ac43ebef4e"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a6554668929420cbb0739b8ac43ebef4e">pocketmine\utils\Utils\hexdump</a></div><div class="ttdeci">static hexdump(string $bin)</div><div class="ttdef"><b>Definition</b> <a href="#l00321">Utils.php:321</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_a6f0b324a58b2f53f75bd04f02f0f5019"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a6f0b324a58b2f53f75bd04f02f0f5019">pocketmine\utils\Utils\getNiceClosureName</a></div><div class="ttdeci">static getNiceClosureName(\Closure $closure)</div><div class="ttdef"><b>Definition</b> <a href="#l00124">Utils.php:124</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_a713aab61da011ccfcd4bea3e6349fc67"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a713aab61da011ccfcd4bea3e6349fc67">pocketmine\utils\Utils\getOS</a></div><div class="ttdeci">static getOS(bool $recalculate=false)</div><div class="ttdef"><b>Definition</b> <a href="#l00259">Utils.php:259</a></div></div>
@@ -730,13 +726,14 @@ $(function(){initNavTree('de/dca/_utils_8php_source.html','../../'); initResizab
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_a7efc8f01d6c7034ff0c32ad3c999bb4a"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a7efc8f01d6c7034ff0c32ad3c999bb4a">pocketmine\utils\Utils\printable</a></div><div class="ttdeci">static printable(mixed $str)</div><div class="ttdef"><b>Definition</b> <a href="#l00336">Utils.php:336</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_a80cbcb26d19c538cfe02a9ae3883517f"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a80cbcb26d19c538cfe02a9ae3883517f">pocketmine\utils\Utils\printableTraceWithMetadata</a></div><div class="ttdeci">static printableTraceWithMetadata(array $rawTrace, int $maxStringLength=80)</div><div class="ttdef"><b>Definition</b> <a href="#l00477">Utils.php:477</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_a82b8d8de5245778093dd85feea8aee60"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a82b8d8de5245778093dd85feea8aee60">pocketmine\utils\Utils\testValidInstance</a></div><div class="ttdeci">static testValidInstance(string $className, string $baseName)</div><div class="ttdef"><b>Definition</b> <a href="#l00533">Utils.php:533</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_a8ff42d7f21873dd15c3c4f9ea21f8d4a"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a8ff42d7f21873dd15c3c4f9ea21f8d4a">pocketmine\utils\Utils\getOpcacheJitMode</a></div><div class="ttdeci">static getOpcacheJitMode()</div><div class="ttdef"><b>Definition</b> <a href="#l00663">Utils.php:663</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_a8ff42d7f21873dd15c3c4f9ea21f8d4a"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a8ff42d7f21873dd15c3c4f9ea21f8d4a">pocketmine\utils\Utils\getOpcacheJitMode</a></div><div class="ttdeci">static getOpcacheJitMode()</div><div class="ttdef"><b>Definition</b> <a href="#l00657">Utils.php:657</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_aa33b4389f5f0e9c4683cfffa1d6a897d"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#aa33b4389f5f0e9c4683cfffa1d6a897d">pocketmine\utils\Utils\getNiceClassName</a></div><div class="ttdeci">static getNiceClassName(object $obj)</div><div class="ttdef"><b>Definition</b> <a href="#l00154">Utils.php:154</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_ab55366010bb9c9ec9ee57889e1ff5567"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#ab55366010bb9c9ec9ee57889e1ff5567">pocketmine\utils\Utils\validateCallableSignature</a></div><div class="ttdeci">static validateCallableSignature(\Closure $signature, \Closure $subject)</div><div class="ttdef"><b>Definition</b> <a href="#l00562">Utils.php:562</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_ada3d8be004e77d96080c3201394084c8"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#ada3d8be004e77d96080c3201394084c8">pocketmine\utils\Utils\cloneObjectArray</a></div><div class="ttdeci">static cloneObjectArray(array $array)</div><div class="ttdef"><b>Definition</b> <a href="#l00178">Utils.php:178</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_adec7b8e3efe887faaacd68dac025154a"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#adec7b8e3efe887faaacd68dac025154a">pocketmine\utils\Utils\getRandomFloat</a></div><div class="ttdeci">static getRandomFloat()</div><div class="ttdef"><b>Definition</b> <a href="#l00689">Utils.php:689</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_adec7b8e3efe887faaacd68dac025154a"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#adec7b8e3efe887faaacd68dac025154a">pocketmine\utils\Utils\getRandomFloat</a></div><div class="ttdeci">static getRandomFloat()</div><div class="ttdef"><b>Definition</b> <a href="#l00683">Utils.php:683</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_ae326bf6e866851a1413f942560a8b5bd"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#ae326bf6e866851a1413f942560a8b5bd">pocketmine\utils\Utils\printableTrace</a></div><div class="ttdeci">static printableTrace(array $trace, int $maxStringLength=80)</div><div class="ttdef"><b>Definition</b> <a href="#l00435">Utils.php:435</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_af00138324d8edeb90ebddacf4ec65bfb"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#af00138324d8edeb90ebddacf4ec65bfb">pocketmine\utils\Utils\printableCurrentTrace</a></div><div class="ttdeci">static printableCurrentTrace(int $skipFrames=0)</div><div class="ttdef"><b>Definition</b> <a href="#l00513">Utils.php:513</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_afcafffb0ea3cd0c64bce46a119d6855c"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#afcafffb0ea3cd0c64bce46a119d6855c">pocketmine\utils\Utils\promoteKeys</a></div><div class="ttdeci">static promoteKeys(array $array)</div><div class="ttdef"><b>Definition</b> <a href="#l00613">Utils.php:613</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1utils_1_1_utils_html_afcafffb0ea3cd0c64bce46a119d6855c"><div class="ttname"><a href="../../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#afcafffb0ea3cd0c64bce46a119d6855c">pocketmine\utils\Utils\promoteKeys</a></div><div class="ttdeci">static promoteKeys(array $array)</div><div class="ttdef"><b>Definition</b> <a href="#l00607">Utils.php:607</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1generator_1_1_generator_html"><div class="ttname"><a href="../../d3/df9/classpocketmine_1_1world_1_1generator_1_1_generator.html">pocketmine\world\generator\Generator</a></div><div class="ttdef"><b>Definition</b> <a href="../../d4/d9c/_generator_8php_source.html#l00034">Generator.php:34</a></div></div>
 <div class="ttc" id="anamespacepocketmine_1_1utils_html"><div class="ttname"><a href="../../dc/db6/namespacepocketmine_1_1utils.html">pocketmine\utils</a></div><div class="ttdef"><b>Definition</b> <a href="../../da/da5/_assumption_failed_error_8php_source.html#l00024">AssumptionFailedError.php:24</a></div></div>
 </div><!-- fragment --></div><!-- contents -->

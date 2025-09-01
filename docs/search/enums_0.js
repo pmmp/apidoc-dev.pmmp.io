@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['creativecategory_0',['CreativeCategory',['../db/d9b/namespacepocketmine_1_1inventory.html#a10b8fd4fd42e48951a80042e1d1b9e9f',1,'pocketmine::inventory']]]
+  ['axis_0',['Axis',['../d8/db3/namespacepocketmine_1_1math.html#a8d098d8d1c59798ecdfb300ce728ae6e',1,'pocketmine::math']]]
 ];

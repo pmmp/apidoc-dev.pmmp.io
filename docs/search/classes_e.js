@@ -15,7 +15,6 @@ var searchData=
   ['openconnectionrequest1_12',['OpenConnectionRequest1',['../d2/dfe/classraklib_1_1protocol_1_1_open_connection_request1.html',1,'raklib::protocol']]],
   ['openconnectionrequest2_13',['OpenConnectionRequest2',['../de/df1/classraklib_1_1protocol_1_1_open_connection_request2.html',1,'raklib::protocol']]],
   ['opensignpacket_14',['OpenSignPacket',['../d1/de5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_open_sign_packet.html',1,'pocketmine::network::mcpe::protocol']]],
-  ['optionsetfromintproperty_15',['OptionSetFromIntProperty',['../d3/d9c/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_option_set_from_int_property.html',1,'pocketmine::data::bedrock::block::convert::property']]],
-  ['ore_16',['Ore',['../d3/d44/classpocketmine_1_1world_1_1generator_1_1object_1_1_ore.html',1,'pocketmine\world\generator\object\Ore'],['../dc/d8e/classpocketmine_1_1world_1_1generator_1_1populator_1_1_ore.html',1,'pocketmine\world\generator\populator\Ore']]],
-  ['oretype_17',['OreType',['../d0/da7/classpocketmine_1_1world_1_1generator_1_1object_1_1_ore_type.html',1,'pocketmine::world::generator::object']]]
+  ['ore_15',['Ore',['../d3/d44/classpocketmine_1_1world_1_1generator_1_1object_1_1_ore.html',1,'pocketmine\world\generator\object\Ore'],['../dc/d8e/classpocketmine_1_1world_1_1generator_1_1populator_1_1_ore.html',1,'pocketmine\world\generator\populator\Ore']]],
+  ['oretype_16',['OreType',['../d0/da7/classpocketmine_1_1world_1_1generator_1_1object_1_1_ore_type.html',1,'pocketmine::world::generator::object']]]
 ];

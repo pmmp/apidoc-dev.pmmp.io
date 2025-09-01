@@ -1,8 +1,8 @@
 <map id="pocketmine\block\Fence\readStateFromWorld" name="pocketmine\block\Fence\readStateFromWorld">
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,37,184,77"/>
-<area shape="rect" id="Node000002" href="$d7/d27/classpocketmine_1_1block_1_1_block.html#a6f13ff76dad934b1b2e078a5b57dd7a5" title=" " alt="" coords="249,5,426,45"/>
+<area shape="rect" id="Node000002" href="$d7/d27/classpocketmine_1_1block_1_1_block.html#a8635dccd33641330c42129a61377b2fd" title=" " alt="" coords="249,5,426,45"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,43,235,36,235,41,184,48"/>
-<area shape="rect" id="Node000004" href="$d7/dd3/classpocketmine_1_1block_1_1_fence_gate.html#aa4644a9aa7eb271c828799faa16a477c" title=" " alt="" coords="232,69,443,109"/>
+<area shape="rect" id="Node000004" href="$d7/dd3/classpocketmine_1_1block_1_1_fence_gate.html#a2f9fca7af2895d76f0b4f1557db3f7a4" title=" " alt="" coords="232,69,443,109"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,66,219,71,218,76,184,72"/>
 <area shape="rect" id="Node000003" href="$d5/dd2/classpocketmine_1_1world_1_1_position.html#a29b73bde9e41b39346aad70456e33f4c" title=" " alt="" coords="491,5,685,45"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="426,23,477,23,477,28,426,28"/>

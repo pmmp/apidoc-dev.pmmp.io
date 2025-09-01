@@ -1055,31 +1055,29 @@
 <g id="Node000051" class="node">
 <title>Node51</title>
 <g id="a_Node000051"><a xlink:href="../../dc/dc1/classpocketmine_1_1block_1_1_redstone_comparator.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="5108.5,-372 4954.5,-372 4954.5,-207 5108.5,-207 5108.5,-372"/>
-<text text-anchor="start" x="4963.5" y="-359.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Redstone</text>
-<text text-anchor="start" x="5002.5" y="-348.5" font-family="Helvetica,sans-Serif" font-size="10.00">Comparator</text>
-<text text-anchor="start" x="4958.5" y="-333.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="4971.5" y="-333.5" font-family="Helvetica,sans-Serif" font-size="10.00">$isSubtractMode</text>
-<text text-anchor="start" x="4958.5" y="-318.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4971.5" y="-318.5" font-family="Helvetica,sans-Serif" font-size="10.00">isSubtractMode()</text>
-<text text-anchor="start" x="4958.5" y="-303.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4971.5" y="-303.5" font-family="Helvetica,sans-Serif" font-size="10.00">onInteract()</text>
-<text text-anchor="start" x="4958.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4971.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">place()</text>
-<text text-anchor="start" x="4958.5" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4971.5" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00">readStateFromWorld()</text>
-<text text-anchor="start" x="4958.5" y="-258.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4971.5" y="-258.5" font-family="Helvetica,sans-Serif" font-size="10.00">setSubtractMode()</text>
-<text text-anchor="start" x="4958.5" y="-243.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4971.5" y="-243.5" font-family="Helvetica,sans-Serif" font-size="10.00">writeStateToWorld()</text>
-<text text-anchor="start" x="4958.5" y="-228.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="4971.5" y="-228.5" font-family="Helvetica,sans-Serif" font-size="10.00">describeBlockOnlyState()</text>
-<text text-anchor="start" x="4958.5" y="-213.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="4971.5" y="-213.5" font-family="Helvetica,sans-Serif" font-size="10.00">recalculateCollisionBoxes()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="4954.5,-343.5 4954.5,-343.5 5108.5,-343.5 5108.5,-343.5 4954.5,-343.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="4954.5,-328.5 4954.5,-328.5 4969.5,-328.5 4969.5,-328.5 4954.5,-328.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="4969.5,-328.5 4969.5,-328.5 5108.5,-328.5 5108.5,-328.5 4969.5,-328.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="4954.5,-207 4954.5,-372 5108.5,-372 5108.5,-207 4954.5,-207"/>
+<polygon fill="white" stroke="transparent" points="5108.5,-364.5 4954.5,-364.5 4954.5,-214.5 5108.5,-214.5 5108.5,-364.5"/>
+<text text-anchor="start" x="4963.5" y="-352.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Redstone</text>
+<text text-anchor="start" x="5002.5" y="-341.5" font-family="Helvetica,sans-Serif" font-size="10.00">Comparator</text>
+<text text-anchor="start" x="4958.5" y="-326.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="4971.5" y="-326.5" font-family="Helvetica,sans-Serif" font-size="10.00">$isSubtractMode</text>
+<text text-anchor="start" x="4958.5" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4971.5" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00">isSubtractMode()</text>
+<text text-anchor="start" x="4958.5" y="-296.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4971.5" y="-296.5" font-family="Helvetica,sans-Serif" font-size="10.00">onInteract()</text>
+<text text-anchor="start" x="4958.5" y="-281.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4971.5" y="-281.5" font-family="Helvetica,sans-Serif" font-size="10.00">readStateFromWorld()</text>
+<text text-anchor="start" x="4958.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4971.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">setSubtractMode()</text>
+<text text-anchor="start" x="4958.5" y="-251.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4971.5" y="-251.5" font-family="Helvetica,sans-Serif" font-size="10.00">writeStateToWorld()</text>
+<text text-anchor="start" x="4958.5" y="-236.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="4971.5" y="-236.5" font-family="Helvetica,sans-Serif" font-size="10.00">describeBlockOnlyState()</text>
+<text text-anchor="start" x="4958.5" y="-221.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="4971.5" y="-221.5" font-family="Helvetica,sans-Serif" font-size="10.00">recalculateCollisionBoxes()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="4954.5,-336.5 4954.5,-336.5 5108.5,-336.5 5108.5,-336.5 4954.5,-336.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="4954.5,-321.5 4954.5,-321.5 4969.5,-321.5 4969.5,-321.5 4954.5,-321.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="4969.5,-321.5 4969.5,-321.5 5108.5,-321.5 5108.5,-321.5 4969.5,-321.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="4954.5,-214.5 4954.5,-364.5 5108.5,-364.5 5108.5,-214.5 4954.5,-214.5"/>
 </a>
 </g>
 </g>
@@ -1087,7 +1085,7 @@
 <g id="edge33_Node000001_Node000051" class="edge">
 <title>Node1&#45;&gt;Node51</title>
 <g id="a_edge33_Node000001_Node000051"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M3946.96,-520.85C4190.06,-512.86 4861.52,-486.25 4945.5,-434 4968.93,-419.42 4986.81,-395.9 5000.04,-372.09"/>
+<path fill="none" stroke="#63b8ff" d="M3946.96,-520.85C4190.06,-512.86 4861.52,-486.25 4945.5,-434 4971.39,-417.89 4990.51,-390.85 5004.06,-364.57"/>
 <polygon fill="none" stroke="#63b8ff" points="3946.64,-517.36 3936.76,-521.18 3946.87,-524.36 3946.64,-517.36"/>
 </a>
 </g>
@@ -1096,31 +1094,29 @@
 <g id="Node000052" class="node">
 <title>Node52</title>
 <g id="a_Node000052"><a xlink:href="../../de/dd0/classpocketmine_1_1block_1_1_redstone_repeater.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="5280.5,-372 5126.5,-372 5126.5,-207 5280.5,-207 5280.5,-372"/>
-<text text-anchor="start" x="5135.5" y="-359.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Redstone</text>
-<text text-anchor="start" x="5181" y="-348.5" font-family="Helvetica,sans-Serif" font-size="10.00">Repeater</text>
-<text text-anchor="start" x="5130.5" y="-333.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="5143.5" y="-333.5" font-family="Helvetica,sans-Serif" font-size="10.00">MAX_DELAY</text>
-<text text-anchor="start" x="5130.5" y="-318.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="5143.5" y="-318.5" font-family="Helvetica,sans-Serif" font-size="10.00">MIN_DELAY</text>
-<text text-anchor="start" x="5130.5" y="-303.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="5143.5" y="-303.5" font-family="Helvetica,sans-Serif" font-size="10.00">$delay</text>
-<text text-anchor="start" x="5130.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="5143.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">getDelay()</text>
-<text text-anchor="start" x="5130.5" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="5143.5" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00">onInteract()</text>
-<text text-anchor="start" x="5130.5" y="-258.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="5143.5" y="-258.5" font-family="Helvetica,sans-Serif" font-size="10.00">place()</text>
-<text text-anchor="start" x="5130.5" y="-243.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="5143.5" y="-243.5" font-family="Helvetica,sans-Serif" font-size="10.00">setDelay()</text>
-<text text-anchor="start" x="5130.5" y="-228.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="5143.5" y="-228.5" font-family="Helvetica,sans-Serif" font-size="10.00">describeBlockOnlyState()</text>
-<text text-anchor="start" x="5130.5" y="-213.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="5143.5" y="-213.5" font-family="Helvetica,sans-Serif" font-size="10.00">recalculateCollisionBoxes()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="5126.5,-343.5 5126.5,-343.5 5280.5,-343.5 5280.5,-343.5 5126.5,-343.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="5126.5,-298.5 5126.5,-298.5 5141.5,-298.5 5141.5,-298.5 5126.5,-298.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="5141.5,-298.5 5141.5,-298.5 5280.5,-298.5 5280.5,-298.5 5141.5,-298.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="5126.5,-207 5126.5,-372 5280.5,-372 5280.5,-207 5126.5,-207"/>
+<polygon fill="white" stroke="transparent" points="5280.5,-364.5 5126.5,-364.5 5126.5,-214.5 5280.5,-214.5 5280.5,-364.5"/>
+<text text-anchor="start" x="5135.5" y="-352.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Redstone</text>
+<text text-anchor="start" x="5181" y="-341.5" font-family="Helvetica,sans-Serif" font-size="10.00">Repeater</text>
+<text text-anchor="start" x="5130.5" y="-326.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="5143.5" y="-326.5" font-family="Helvetica,sans-Serif" font-size="10.00">MAX_DELAY</text>
+<text text-anchor="start" x="5130.5" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="5143.5" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00">MIN_DELAY</text>
+<text text-anchor="start" x="5130.5" y="-296.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="5143.5" y="-296.5" font-family="Helvetica,sans-Serif" font-size="10.00">$delay</text>
+<text text-anchor="start" x="5130.5" y="-281.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="5143.5" y="-281.5" font-family="Helvetica,sans-Serif" font-size="10.00">getDelay()</text>
+<text text-anchor="start" x="5130.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="5143.5" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">onInteract()</text>
+<text text-anchor="start" x="5130.5" y="-251.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="5143.5" y="-251.5" font-family="Helvetica,sans-Serif" font-size="10.00">setDelay()</text>
+<text text-anchor="start" x="5130.5" y="-236.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="5143.5" y="-236.5" font-family="Helvetica,sans-Serif" font-size="10.00">describeBlockOnlyState()</text>
+<text text-anchor="start" x="5130.5" y="-221.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="5143.5" y="-221.5" font-family="Helvetica,sans-Serif" font-size="10.00">recalculateCollisionBoxes()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="5126.5,-336.5 5126.5,-336.5 5280.5,-336.5 5280.5,-336.5 5126.5,-336.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="5126.5,-291.5 5126.5,-291.5 5141.5,-291.5 5141.5,-291.5 5126.5,-291.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="5141.5,-291.5 5141.5,-291.5 5280.5,-291.5 5280.5,-291.5 5141.5,-291.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="5126.5,-214.5 5126.5,-364.5 5280.5,-364.5 5280.5,-214.5 5126.5,-214.5"/>
 </a>
 </g>
 </g>
@@ -1128,7 +1124,7 @@
 <g id="edge34_Node000001_Node000052" class="edge">
 <title>Node1&#45;&gt;Node52</title>
 <g id="a_edge34_Node000001_Node000052"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M3947,-521.91C4215.96,-516.39 5018.33,-494.93 5117.5,-434 5141.01,-419.56 5158.91,-396.07 5172.13,-372.24"/>
+<path fill="none" stroke="#63b8ff" d="M3947,-521.91C4215.96,-516.39 5018.33,-494.93 5117.5,-434 5143.48,-418.03 5162.62,-391.03 5176.16,-364.72"/>
 <polygon fill="none" stroke="#63b8ff" points="3946.82,-518.41 3936.9,-522.12 3946.97,-525.41 3946.82,-518.41"/>
 </a>
 </g>

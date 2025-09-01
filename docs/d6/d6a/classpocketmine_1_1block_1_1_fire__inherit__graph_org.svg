@@ -192,17 +192,19 @@
 <g id="Node000006" class="node">
 <title>Node6</title>
 <g id="a_Node000006"><a xlink:href="../../dc/d33/interfacepocketmine_1_1block_1_1utils_1_1_ageable.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="306,-237 185,-237 185,-162 306,-162 306,-237"/>
-<text text-anchor="start" x="190.5" y="-224.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
-<text text-anchor="start" x="224.5" y="-213.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Ageable</text>
-<text text-anchor="start" x="244" y="-198.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="203.5" y="-183.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="230.5" y="-183.5" font-family="Helvetica,sans-Serif" font-size="10.00">getAge()</text>
-<text text-anchor="start" x="203.5" y="-168.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="230.5" y="-168.5" font-family="Helvetica,sans-Serif" font-size="10.00">setAge()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="185.5,-208.5 185.5,-208.5 306.5,-208.5 306.5,-208.5 185.5,-208.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="185.5,-193.5 185.5,-193.5 306.5,-193.5 306.5,-193.5 185.5,-193.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="185,-162 185,-237 306,-237 306,-162 185,-162"/>
+<polygon fill="white" stroke="transparent" points="306,-244.5 185,-244.5 185,-154.5 306,-154.5 306,-244.5"/>
+<text text-anchor="start" x="190.5" y="-232.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
+<text text-anchor="start" x="224.5" y="-221.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Ageable</text>
+<text text-anchor="start" x="244" y="-206.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="198.5" y="-191.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="220.5" y="-191.5" font-family="Helvetica,sans-Serif" font-size="10.00">getAge()</text>
+<text text-anchor="start" x="198.5" y="-176.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="220.5" y="-176.5" font-family="Helvetica,sans-Serif" font-size="10.00">getMaxAge()</text>
+<text text-anchor="start" x="198.5" y="-161.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="220.5" y="-161.5" font-family="Helvetica,sans-Serif" font-size="10.00">setAge()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="185.5,-216.5 185.5,-216.5 306.5,-216.5 306.5,-216.5 185.5,-216.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="185.5,-201.5 185.5,-201.5 306.5,-201.5 306.5,-201.5 185.5,-201.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="185,-154.5 185,-244.5 306,-244.5 306,-154.5 185,-154.5"/>
 </a>
 </g>
 </g>
@@ -210,8 +212,8 @@
 <g id="edge5_Node000001_Node000006" class="edge">
 <title>Node6&#45;&gt;Node1</title>
 <g id="a_edge5_Node000001_Node000006"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M219.61,-152.8C211.75,-138.92 203.04,-123.54 194.91,-109.19"/>
-<polygon fill="none" stroke="#63b8ff" points="216.67,-154.7 224.64,-161.67 222.76,-151.25 216.67,-154.7"/>
+<path fill="none" stroke="#63b8ff" d="M215.5,-145.54C208.79,-133.69 201.67,-121.12 194.95,-109.25"/>
+<polygon fill="none" stroke="#63b8ff" points="212.56,-147.45 220.54,-154.43 218.65,-144 212.56,-147.45"/>
 </a>
 </g>
 </g>

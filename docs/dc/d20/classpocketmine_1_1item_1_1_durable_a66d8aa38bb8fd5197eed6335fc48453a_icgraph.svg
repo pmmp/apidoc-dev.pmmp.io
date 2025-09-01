@@ -32,7 +32,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="../../d5/db8/classpocketmine_1_1item_1_1_flint_steel.html#af375b7ca3356ffa611f7c126cac1c220" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="../../d5/db8/classpocketmine_1_1item_1_1_flint_steel.html#a929548489eed12dab06b8b7204f45fee" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="149,-30 0,-30 0,0 149,0 149,-30"/>
 <text text-anchor="start" x="8" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\FlintSteel</text>
 <text text-anchor="middle" x="74.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">\onInteractBlock</text>

@@ -295,17 +295,19 @@ var sectionId = 'dynsection-0';
 <g id="Node000006" class="node">
 <title>Node6</title>
 <g id="a_Node000006"><a xlink:href="../../dc/d33/interfacepocketmine_1_1block_1_1utils_1_1_ageable.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="306,-497 185,-497 185,-422 306,-422 306,-497"/>
-<text text-anchor="start" x="190.5" y="-484.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
-<text text-anchor="start" x="224.5" y="-473.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Ageable</text>
-<text text-anchor="start" x="244" y="-458.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="203.5" y="-443.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="230.5" y="-443.5" font-family="Helvetica,sans-Serif" font-size="10.00">getAge()</text>
-<text text-anchor="start" x="203.5" y="-428.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="230.5" y="-428.5" font-family="Helvetica,sans-Serif" font-size="10.00">setAge()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="185.5,-468.5 185.5,-468.5 306.5,-468.5 306.5,-468.5 185.5,-468.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="185.5,-453.5 185.5,-453.5 306.5,-453.5 306.5,-453.5 185.5,-453.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="185,-422 185,-497 306,-497 306,-422 185,-422"/>
+<polygon fill="white" stroke="transparent" points="306,-504.5 185,-504.5 185,-414.5 306,-414.5 306,-504.5"/>
+<text text-anchor="start" x="190.5" y="-492.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
+<text text-anchor="start" x="224.5" y="-481.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Ageable</text>
+<text text-anchor="start" x="244" y="-466.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="198.5" y="-451.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="220.5" y="-451.5" font-family="Helvetica,sans-Serif" font-size="10.00">getAge()</text>
+<text text-anchor="start" x="198.5" y="-436.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="220.5" y="-436.5" font-family="Helvetica,sans-Serif" font-size="10.00">getMaxAge()</text>
+<text text-anchor="start" x="198.5" y="-421.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="220.5" y="-421.5" font-family="Helvetica,sans-Serif" font-size="10.00">setAge()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="185.5,-476.5 185.5,-476.5 306.5,-476.5 306.5,-476.5 185.5,-476.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="185.5,-461.5 185.5,-461.5 306.5,-461.5 306.5,-461.5 185.5,-461.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="185,-414.5 185,-504.5 306,-504.5 306,-414.5 185,-414.5"/>
 </a>
 </g>
 </g>
@@ -313,8 +315,8 @@ var sectionId = 'dynsection-0';
 <g id="edge5_Node000002_Node000006" class="edge">
 <title>Node6&#45;&gt;Node2</title>
 <g id="a_edge5_Node000002_Node000006"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M217.85,-413.13C209.15,-398.85 199.62,-383.21 191.22,-369.42"/>
-<polygon fill="none" stroke="#63b8ff" points="214.96,-415.1 223.15,-421.82 220.93,-411.46 214.96,-415.1"/>
+<path fill="none" stroke="#63b8ff" d="M213.3,-405.65C205.83,-393.4 198.02,-380.58 191.01,-369.07"/>
+<polygon fill="none" stroke="#63b8ff" points="210.46,-407.73 218.66,-414.45 216.44,-404.09 210.46,-407.73"/>
 </a>
 </g>
 </g>

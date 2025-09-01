@@ -1,5 +1,5 @@
 <map id="pocketmine\data\runtime\RuntimeDataSizeCalculator" name="pocketmine\data\runtime\RuntimeDataSizeCalculator">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,413,203,713"/>
-<area shape="rect" id="Node000002" href="$d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html" title=" " alt="" coords="12,5,196,365"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,379,107,413,101,413,101,379"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,273,203,533"/>
+<area shape="rect" id="Node000002" href="$d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html" title=" " alt="" coords="15,5,193,225"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,239,107,273,101,273,101,239"/>
 </map>

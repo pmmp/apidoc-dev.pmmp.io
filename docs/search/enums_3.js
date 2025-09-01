@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['suspiciousstewtype_0',['SuspiciousStewType',['../d0/dec/namespacepocketmine_1_1item.html#a5eff4130b27df798bb3a2d9d15d10118',1,'pocketmine::item']]]
+  ['medicinetype_0',['MedicineType',['../d0/dec/namespacepocketmine_1_1item.html#a1a8161163ff591511b03228458c683dd',1,'pocketmine::item']]]
 ];

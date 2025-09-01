@@ -59,18 +59,20 @@ var sectionId = 'dynsection-1';
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="transparent" points="598,-79 416,-79 416,0 598,0 598,-79"/>
-<text text-anchor="start" x="421" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\WallHangingSign</text>
-<text text-anchor="start" x="505" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="426" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="445" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">place()</text>
-<text text-anchor="start" x="426" y="-21.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="445" y="-21.5" font-family="Helvetica,sans-Serif" font-size="10.00">getSupportingFace()</text>
-<text text-anchor="start" x="426" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="445" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">getSupportingFaceOptions()</text>
-<polygon fill="#666666" stroke="#666666" points="416,-61.5 416,-61.5 598,-61.5 598,-61.5 416,-61.5"/>
-<polygon fill="#666666" stroke="#666666" points="416,-46.5 416,-46.5 598,-46.5 598,-46.5 416,-46.5"/>
-<polygon fill="none" stroke="#666666" points="416,0 416,-79 598,-79 598,0 416,0"/>
+<polygon fill="#999999" stroke="transparent" points="598,-94 416,-94 416,0 598,0 598,-94"/>
+<text text-anchor="start" x="421" y="-82" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\WallHangingSign</text>
+<text text-anchor="start" x="505" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="427" y="-52" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="447" y="-52" font-family="Helvetica,sans-Serif" font-size="10.00">onNearbyBlockChange()</text>
+<text text-anchor="start" x="427" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="447" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">place()</text>
+<text text-anchor="start" x="427" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="447" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">getSupportingFace()</text>
+<text text-anchor="start" x="427" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="447" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">recalculateCollisionBoxes()</text>
+<polygon fill="#666666" stroke="#666666" points="416,-77 416,-77 598,-77 598,-77 416,-77"/>
+<polygon fill="#666666" stroke="#666666" points="416,-62 416,-62 598,-62 598,-62 416,-62"/>
+<polygon fill="none" stroke="#666666" points="416,0 416,-94 598,-94 598,0 416,0"/>
 </a>
 </g>
 </g>
@@ -78,41 +80,39 @@ var sectionId = 'dynsection-1';
 <g id="Node000002" class="node">
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="../../df/d0b/classpocketmine_1_1block_1_1_base_sign.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="507.5,-360 350.5,-360 350.5,-116 507.5,-116 507.5,-360"/>
-<text text-anchor="start" x="362" y="-348" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\BaseSign</text>
-<text text-anchor="start" x="355" y="-333" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="368" y="-333" font-family="Helvetica,sans-Serif" font-size="10.00">$editorEntityRuntimeId</text>
-<text text-anchor="start" x="355" y="-318" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="368" y="-318" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
-<text text-anchor="start" x="355" y="-303" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="368" y="-303" font-family="Helvetica,sans-Serif" font-size="10.00">asItem()</text>
-<text text-anchor="start" x="355" y="-288" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="368" y="-288" font-family="Helvetica,sans-Serif" font-size="10.00">getEditorEntityRuntimeId()</text>
-<text text-anchor="start" x="355" y="-273" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="368" y="-273" font-family="Helvetica,sans-Serif" font-size="10.00">getFuelTime()</text>
-<text text-anchor="start" x="355" y="-258" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="368" y="-258" font-family="Helvetica,sans-Serif" font-size="10.00">getMaxStackSize()</text>
-<text text-anchor="start" x="355" y="-243" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="368" y="-243" font-family="Helvetica,sans-Serif" font-size="10.00">getSupportType()</text>
-<text text-anchor="start" x="355" y="-228" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="368" y="-228" font-family="Helvetica,sans-Serif" font-size="10.00">getText()</text>
-<text text-anchor="start" x="355" y="-213" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="368" y="-213" font-family="Helvetica,sans-Serif" font-size="10.00">isSolid()</text>
-<text text-anchor="start" x="355" y="-198" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="368" y="-198" font-family="Helvetica,sans-Serif" font-size="10.00">isWaxed()</text>
-<text text-anchor="start" x="355" y="-183" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="368" y="-183" font-family="Helvetica,sans-Serif" font-size="10.00">onInteract()</text>
-<text text-anchor="start" x="368" y="-168" font-family="Helvetica,sans-Serif" font-size="10.00">and 9 more...</text>
-<text text-anchor="start" x="355" y="-153" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="368" y="-153" font-family="Helvetica,sans-Serif" font-size="10.00">getSupportingFace()</text>
-<text text-anchor="start" x="355" y="-138" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="368" y="-138" font-family="Helvetica,sans-Serif" font-size="10.00">getSupportingFaceOptions()</text>
-<text text-anchor="start" x="355" y="-123" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="368" y="-123" font-family="Helvetica,sans-Serif" font-size="10.00">recalculateCollisionBoxes()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="351,-343 351,-343 508,-343 508,-343 351,-343"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="351,-328 351,-328 366,-328 366,-328 351,-328"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="366,-328 366,-328 508,-328 508,-328 366,-328"/>
-<polygon fill="none" stroke="#bfbfbf" points="350.5,-116 350.5,-360 507.5,-360 507.5,-116 350.5,-116"/>
+<polygon fill="white" stroke="transparent" points="506,-360 352,-360 352,-131 506,-131 506,-360"/>
+<text text-anchor="start" x="361.5" y="-347.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\BaseSign</text>
+<text text-anchor="start" x="356" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="369" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">$editorEntityRuntimeId</text>
+<text text-anchor="start" x="356" y="-317.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="369" y="-317.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
+<text text-anchor="start" x="356" y="-302.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="369" y="-302.5" font-family="Helvetica,sans-Serif" font-size="10.00">asItem()</text>
+<text text-anchor="start" x="356" y="-287.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="369" y="-287.5" font-family="Helvetica,sans-Serif" font-size="10.00">getEditorEntityRuntimeId()</text>
+<text text-anchor="start" x="356" y="-272.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="369" y="-272.5" font-family="Helvetica,sans-Serif" font-size="10.00">getFuelTime()</text>
+<text text-anchor="start" x="356" y="-257.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="369" y="-257.5" font-family="Helvetica,sans-Serif" font-size="10.00">getMaxStackSize()</text>
+<text text-anchor="start" x="356" y="-242.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="369" y="-242.5" font-family="Helvetica,sans-Serif" font-size="10.00">getSupportType()</text>
+<text text-anchor="start" x="356" y="-227.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="369" y="-227.5" font-family="Helvetica,sans-Serif" font-size="10.00">getText()</text>
+<text text-anchor="start" x="356" y="-212.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="369" y="-212.5" font-family="Helvetica,sans-Serif" font-size="10.00">isSolid()</text>
+<text text-anchor="start" x="356" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="369" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">isWaxed()</text>
+<text text-anchor="start" x="356" y="-182.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="369" y="-182.5" font-family="Helvetica,sans-Serif" font-size="10.00">onInteract()</text>
+<text text-anchor="start" x="369" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 9 more...</text>
+<text text-anchor="start" x="356" y="-152.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="369" y="-152.5" font-family="Helvetica,sans-Serif" font-size="10.00">getSupportingFace()</text>
+<text text-anchor="start" x="356" y="-137.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="369" y="-137.5" font-family="Helvetica,sans-Serif" font-size="10.00">recalculateCollisionBoxes()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="352,-342.5 352,-342.5 506,-342.5 506,-342.5 352,-342.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="352,-327.5 352,-327.5 367,-327.5 367,-327.5 352,-327.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="367,-327.5 367,-327.5 506,-327.5 506,-327.5 367,-327.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="352,-131 352,-360 506,-360 506,-131 352,-131"/>
 </a>
 </g>
 </g>
@@ -120,8 +120,8 @@ var sectionId = 'dynsection-1';
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node2&#45;&gt;Node1</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M480.8,-106.5C484.64,-96.82 488.3,-87.61 491.6,-79.31"/>
-<polygon fill="none" stroke="#63b8ff" points="477.5,-105.32 477.07,-115.91 484.01,-107.91 477.5,-105.32"/>
+<path fill="none" stroke="#63b8ff" d="M477.84,-121.47C481.65,-111.87 485.33,-102.6 488.71,-94.08"/>
+<polygon fill="none" stroke="#63b8ff" points="474.58,-120.18 474.15,-130.76 481.09,-122.76 474.58,-120.18"/>
 </a>
 </g>
 </g>
@@ -144,8 +144,8 @@ var sectionId = 'dynsection-1';
 <g id="edge2_Node000002_Node000003" class="edge">
 <title>Node3&#45;&gt;Node2</title>
 <g id="a_edge2_Node000002_Node000003"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M293.55,-441.31C308.53,-418.94 329.5,-387.62 350.47,-356.3"/>
-<polygon fill="none" stroke="#63b8ff" points="290.57,-439.47 287.92,-449.72 296.39,-443.36 290.57,-439.47"/>
+<path fill="none" stroke="#63b8ff" d="M294.26,-441.31C309.55,-419.21 330.82,-388.45 351.96,-357.89"/>
+<polygon fill="none" stroke="#63b8ff" points="291.31,-439.42 288.51,-449.64 297.07,-443.4 291.31,-439.42"/>
 </a>
 </g>
 </g>
@@ -338,7 +338,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="354" y="-1345.5" font-family="Helvetica,sans-Serif" font-size="10.00">distance()</text>
 <text text-anchor="start" x="335" y="-1330.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="354" y="-1330.5" font-family="Helvetica,sans-Serif" font-size="10.00">distanceSquared()</text>
-<text text-anchor="start" x="354" y="-1315.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 32 more...</text>
+<text text-anchor="start" x="354" y="-1315.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 31 more...</text>
 <text text-anchor="start" x="335" y="-1300.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="354" y="-1300.5" font-family="Helvetica,sans-Serif" font-size="10.00">maxComponents()</text>
 <text text-anchor="start" x="335" y="-1285.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
@@ -619,8 +619,8 @@ var sectionId = 'dynsection-1';
 <g id="edge12_Node000002_Node000013" class="edge">
 <title>Node13&#45;&gt;Node2</title>
 <g id="a_edge12_Node000002_Node000013"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M429,-434.06C429,-413.45 429,-387 429,-360.26"/>
-<polygon fill="none" stroke="#63b8ff" points="425.5,-434.27 429,-444.27 432.5,-434.27 425.5,-434.27"/>
+<path fill="none" stroke="#63b8ff" d="M429,-434.02C429,-413.3 429,-386.74 429,-360.18"/>
+<polygon fill="none" stroke="#63b8ff" points="425.5,-434.29 429,-444.29 432.5,-434.29 425.5,-434.29"/>
 </a>
 </g>
 </g>
@@ -656,8 +656,8 @@ var sectionId = 'dynsection-1';
 <g id="edge13_Node000002_Node000014" class="edge">
 <title>Node14&#45;&gt;Node2</title>
 <g id="a_edge13_Node000002_Node000014"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M528.54,-406.93C521.77,-395.5 514.52,-383.28 507.15,-370.84"/>
-<polygon fill="none" stroke="#63b8ff" points="507.05,-370.67 500.55,-367.55 500.93,-360.35 507.43,-363.47 507.05,-370.67"/>
+<path fill="none" stroke="#63b8ff" d="M527.23,-406.93C520.23,-395.48 512.74,-383.26 505.15,-370.87"/>
+<polygon fill="none" stroke="#63b8ff" points="505.03,-370.66 498.48,-367.63 498.76,-360.43 505.31,-363.45 505.03,-370.66"/>
 </a>
 </g>
 <text text-anchor="middle" x="534.5" y="-381" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$text</text>
@@ -666,17 +666,17 @@ var sectionId = 'dynsection-1';
 <g id="Node000015" class="node">
 <title>Node15</title>
 <g id="a_Node000015"><a xlink:href="../../d7/daf/interfacepocketmine_1_1block_1_1utils_1_1_horizontal_facing.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="646.5,-275.5 525.5,-275.5 525.5,-200.5 646.5,-200.5 646.5,-275.5"/>
-<text text-anchor="start" x="531" y="-263" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
-<text text-anchor="start" x="544" y="-252" font-family="Helvetica,sans-Serif" font-size="10.00">\HorizontalFacing</text>
-<text text-anchor="start" x="584.5" y="-237" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="541" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="565" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">getFacing()</text>
-<text text-anchor="start" x="541" y="-207" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="565" y="-207" font-family="Helvetica,sans-Serif" font-size="10.00">setFacing()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="526,-247 526,-247 647,-247 647,-247 526,-247"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="526,-232 526,-232 647,-232 647,-232 526,-232"/>
-<polygon fill="none" stroke="#bfbfbf" points="525.5,-200.5 525.5,-275.5 646.5,-275.5 646.5,-200.5 525.5,-200.5"/>
+<polygon fill="white" stroke="transparent" points="645.5,-283 524.5,-283 524.5,-208 645.5,-208 645.5,-283"/>
+<text text-anchor="start" x="530" y="-270.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
+<text text-anchor="start" x="543" y="-259.5" font-family="Helvetica,sans-Serif" font-size="10.00">\HorizontalFacing</text>
+<text text-anchor="start" x="583.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="540" y="-229.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="564" y="-229.5" font-family="Helvetica,sans-Serif" font-size="10.00">getFacing()</text>
+<text text-anchor="start" x="540" y="-214.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="564" y="-214.5" font-family="Helvetica,sans-Serif" font-size="10.00">setFacing()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="525,-254.5 525,-254.5 646,-254.5 646,-254.5 525,-254.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="525,-239.5 525,-239.5 646,-239.5 646,-239.5 525,-239.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="524.5,-208 524.5,-283 645.5,-283 645.5,-208 524.5,-208"/>
 </a>
 </g>
 </g>
@@ -684,8 +684,8 @@ var sectionId = 'dynsection-1';
 <g id="edge14_Node000001_Node000015" class="edge">
 <title>Node15&#45;&gt;Node1</title>
 <g id="a_edge14_Node000001_Node000015"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M567.25,-190.37C553.64,-156.5 535.43,-111.21 522.6,-79.31"/>
-<polygon fill="none" stroke="#63b8ff" points="564.16,-192.07 571.14,-200.04 570.66,-189.46 564.16,-192.07"/>
+<path fill="none" stroke="#63b8ff" d="M566.6,-198.14C554.14,-166.76 537.76,-125.48 525.32,-94.15"/>
+<polygon fill="none" stroke="#63b8ff" points="563.39,-199.54 570.33,-207.54 569.89,-196.95 563.39,-199.54"/>
 </a>
 </g>
 </g>

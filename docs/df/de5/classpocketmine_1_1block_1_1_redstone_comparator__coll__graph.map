@@ -1,7 +1,7 @@
 <map id="pocketmine\block\RedstoneComparator" name="pocketmine\block\RedstoneComparator">
-<area shape="rect" id="Node000001" title=" " alt="" coords="604,2747,809,2967"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="604,2747,809,2947"/>
 <area shape="rect" id="Node000002" href="$d3/d1e/classpocketmine_1_1block_1_1_flowable.html" title=" " alt="" coords="265,2552,471,2697"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="484,2701,605,2783,602,2788,481,2706"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="484,2698,605,2776,602,2781,481,2702"/>
 <area shape="rect" id="Node000003" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="263,2437,473,2503"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,2516,371,2552,365,2552,365,2516"/>
 <area shape="rect" id="Node000004" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="255,1963,481,2388"/>
@@ -23,9 +23,9 @@
 <area shape="rect" id="Node000012" href="$d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html" title=" " alt="" coords="825,5,1039,405"/>
 <area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="935,405,935,598,929,598,929,405"/>
 <area shape="rect" id="Node000013" href="$dd/d1e/interfacepocketmine_1_1block_1_1utils_1_1_analog_redstone_signal_emitter.html" title=" " alt="" coords="495,2575,707,2675"/>
-<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="632,2686,659,2745,654,2747,627,2689"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="633,2686,662,2745,657,2748,628,2688"/>
 <area shape="rect" id="Node000014" href="$d0/db8/interfacepocketmine_1_1block_1_1utils_1_1_powered_by_redstone.html" title=" " alt="" coords="731,2575,893,2675"/>
-<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="786,2689,759,2747,754,2745,781,2686"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="785,2688,757,2748,752,2745,780,2686"/>
 <area shape="rect" id="Node000015" href="$d7/daf/interfacepocketmine_1_1block_1_1utils_1_1_horizontal_facing.html" title=" " alt="" coords="917,2575,1078,2675"/>
-<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="926,2685,811,2776,808,2772,923,2681"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="925,2685,906,2699,811,2770,808,2766,902,2695,921,2681"/>
 </map>

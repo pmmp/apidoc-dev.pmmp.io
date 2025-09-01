@@ -205,13 +205,12 @@ var searchData=
   ['bufferedlogger_202',['BufferedLogger',['../d3/d4b/interface_buffered_logger.html',1,'']]],
   ['builddefinitionsfromdata_203',['buildDefinitionsFromData',['../d7/d12/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_biome_definition_list_packet.html#a72808b1706178c1520f09d690c0ea423',1,'pocketmine::network::mcpe::protocol::BiomeDefinitionListPacket']]],
   ['buildfromlocationtable_204',['buildFromLocationTable',['../d1/dd5/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_region_garbage_map.html#ab88766c77e68dabc77512d923cc21abc',1,'pocketmine::world::format::io::region::RegionGarbageMap']]],
-  ['builtintypes_205',['BuiltInTypes',['../de/d3c/class_dave_random_1_1_callback_validator_1_1_built_in_types.html',1,'DaveRandom::CallbackValidator']]],
-  ['bulkcurltask_206',['BulkCurlTask',['../df/d18/classpocketmine_1_1scheduler_1_1_bulk_curl_task.html',1,'pocketmine::scheduler']]],
-  ['bulkcurltaskoperation_207',['BulkCurlTaskOperation',['../dc/ded/classpocketmine_1_1scheduler_1_1_bulk_curl_task_operation.html',1,'pocketmine::scheduler']]],
-  ['burnsforever_208',['burnsForever',['../d0/d42/classpocketmine_1_1block_1_1_bedrock.html#a89e4577a705c3dd71f0e9971b4ae8e6d',1,'pocketmine\block\Bedrock\burnsForever()'],['../d7/d27/classpocketmine_1_1block_1_1_block.html#aa09e248dd611c0ebb95cf2adf2d6d31c',1,'pocketmine\block\Block\burnsForever()'],['../d5/d81/classpocketmine_1_1block_1_1_magma.html#a6beb443035ff0fb6f814f3eb99973161',1,'pocketmine\block\Magma\burnsForever()'],['../d5/d84/classpocketmine_1_1block_1_1_netherrack.html#a9e475d758c94d2dad6f3ed0045a48cdd',1,'pocketmine\block\Netherrack\burnsForever()']]],
-  ['burpsound_209',['BurpSound',['../d3/d67/classpocketmine_1_1world_1_1sound_1_1_burp_sound.html',1,'pocketmine::world::sound']]],
-  ['button_210',['Button',['../d2/da2/classpocketmine_1_1block_1_1_button.html',1,'pocketmine::block']]],
-  ['bytearraytag_211',['ByteArrayTag',['../dd/dec/classpocketmine_1_1nbt_1_1tag_1_1_byte_array_tag.html',1,'pocketmine::nbt::tag']]],
-  ['bytemetadataproperty_212',['ByteMetadataProperty',['../d5/dc6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_byte_metadata_property.html',1,'pocketmine::network::mcpe::protocol::types::entity']]],
-  ['bytetag_213',['ByteTag',['../d1/d0a/classpocketmine_1_1nbt_1_1tag_1_1_byte_tag.html',1,'pocketmine::nbt::tag']]]
+  ['bulkcurltask_205',['BulkCurlTask',['../df/d18/classpocketmine_1_1scheduler_1_1_bulk_curl_task.html',1,'pocketmine::scheduler']]],
+  ['bulkcurltaskoperation_206',['BulkCurlTaskOperation',['../dc/ded/classpocketmine_1_1scheduler_1_1_bulk_curl_task_operation.html',1,'pocketmine::scheduler']]],
+  ['burnsforever_207',['burnsForever',['../d0/d42/classpocketmine_1_1block_1_1_bedrock.html#a89e4577a705c3dd71f0e9971b4ae8e6d',1,'pocketmine\block\Bedrock\burnsForever()'],['../d7/d27/classpocketmine_1_1block_1_1_block.html#aa09e248dd611c0ebb95cf2adf2d6d31c',1,'pocketmine\block\Block\burnsForever()'],['../d5/d81/classpocketmine_1_1block_1_1_magma.html#a6beb443035ff0fb6f814f3eb99973161',1,'pocketmine\block\Magma\burnsForever()'],['../d5/d84/classpocketmine_1_1block_1_1_netherrack.html#a9e475d758c94d2dad6f3ed0045a48cdd',1,'pocketmine\block\Netherrack\burnsForever()']]],
+  ['burpsound_208',['BurpSound',['../d3/d67/classpocketmine_1_1world_1_1sound_1_1_burp_sound.html',1,'pocketmine::world::sound']]],
+  ['button_209',['Button',['../d2/da2/classpocketmine_1_1block_1_1_button.html',1,'pocketmine::block']]],
+  ['bytearraytag_210',['ByteArrayTag',['../dd/dec/classpocketmine_1_1nbt_1_1tag_1_1_byte_array_tag.html',1,'pocketmine::nbt::tag']]],
+  ['bytemetadataproperty_211',['ByteMetadataProperty',['../d5/dc6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_byte_metadata_property.html',1,'pocketmine::network::mcpe::protocol::types::entity']]],
+  ['bytetag_212',['ByteTag',['../d1/d0a/classpocketmine_1_1nbt_1_1tag_1_1_byte_tag.html',1,'pocketmine::nbt::tag']]]
 ];

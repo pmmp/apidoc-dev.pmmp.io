@@ -7,7 +7,7 @@ var classpocketmine_1_1entity_1_1object_1_1_painting =
     [ "canBeRenamed", "de/dc4/classpocketmine_1_1entity_1_1object_1_1_painting.html#a6713726bec4a4eb990c7ed3868fc7a2b", null ],
     [ "canClimb", "de/dc4/classpocketmine_1_1entity_1_1object_1_1_painting.html#a4101d0cffe7303801b827969c461ed8b", null ],
     [ "canClimbWalls", "de/dc4/classpocketmine_1_1entity_1_1object_1_1_painting.html#a23093e6281aba70471af5c5e34051667", null ],
-    [ "canFit", "de/dc4/classpocketmine_1_1entity_1_1object_1_1_painting.html#a1ef620b149de55804305fd526f43e463", null ],
+    [ "canFit", "de/dc4/classpocketmine_1_1entity_1_1object_1_1_painting.html#a6d280056f0175e5d940931b84a57beb5", null ],
     [ "canSaveWithChunk", "de/dc4/classpocketmine_1_1entity_1_1object_1_1_painting.html#af9c9f94d4c46643cbdaeb7d06d3e44b1", null ],
     [ "close", "de/dc4/classpocketmine_1_1entity_1_1object_1_1_painting.html#a02eb3401e4fe566c7a2528aeb7b0222a", null ],
     [ "dealFireDamage", "de/dc4/classpocketmine_1_1entity_1_1object_1_1_painting.html#ae36a7e5064724e460fabfe810f2def20", null ],

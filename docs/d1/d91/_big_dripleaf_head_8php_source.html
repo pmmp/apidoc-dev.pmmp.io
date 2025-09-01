@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.32.2 git-1ebd7d3960d713d56f77f610fe0c15cdee201069</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.33.2 git-77ce07d065c5f14ffd50741c72dbef3004f34620</span>
    </div>
   </td>
  </tr>
@@ -136,7 +136,7 @@ $(function(){initNavTree('d1/d91/_big_dripleaf_head_8php_source.html','../../');
 <div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>use <a class="code hl_class" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html">pocketmine\entity\Entity</a>;</div>
 <div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>use <a class="code hl_class" href="../../dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html">pocketmine\entity\projectile\Projectile</a>;</div>
 <div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>use <a class="code hl_class" href="../../dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html">pocketmine\math\AxisAlignedBB</a>;</div>
-<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>use <a class="code hl_class" href="../../dd/d25/classpocketmine_1_1math_1_1_facing.html">pocketmine\math\Facing</a>;</div>
+<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>use <a class="code hl_enumeration" href="../../d8/db3/namespacepocketmine_1_1math.html#aa886a69cf6f1686b3db497cee3400814">pocketmine\math\Facing</a>;</div>
 <div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>use <a class="code hl_class" href="../../d2/dfa/classpocketmine_1_1math_1_1_ray_trace_result.html">pocketmine\math\RayTraceResult</a>;</div>
 <div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>use <a class="code hl_class" href="../../da/daf/classpocketmine_1_1world_1_1sound_1_1_dripleaf_tilt_down_sound.html">pocketmine\world\sound\DripleafTiltDownSound</a>;</div>
 <div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>use <a class="code hl_class" href="../../d9/dc2/classpocketmine_1_1world_1_1sound_1_1_dripleaf_tilt_up_sound.html">pocketmine\world\sound\DripleafTiltUpSound</a>;</div>
@@ -195,8 +195,8 @@ $(function(){initNavTree('d1/d91/_big_dripleaf_head_8php_source.html','../../');
 <div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span>        if(!$entity instanceof <a class="code hl_class" href="../../dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html">Projectile</a> &amp;&amp; $this-&gt;leafState === DripleafState::STABLE){</div>
 <div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span>            <span class="comment">//the entity must be standing on top of the leaf - do not collapse if the entity is standing underneath</span></div>
 <div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span>            $intersection = AxisAlignedBB::one()</div>
-<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>                -&gt;offset($this-&gt;position-&gt;x, $this-&gt;position-&gt;y, $this-&gt;position-&gt;z)</div>
-<div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span>                -&gt;trim(Facing::DOWN, 1 - $this-&gt;getLeafTopOffset());</div>
+<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>                -&gt;offsetCopy($this-&gt;position-&gt;x, $this-&gt;position-&gt;y, $this-&gt;position-&gt;z)</div>
+<div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span>                -&gt;trimmedCopy(Facing::DOWN, 1 - $this-&gt;getLeafTopOffset());</div>
 <div class="line"><a id="l00085" name="l00085"></a><span class="lineno">   85</span>            <span class="keywordflow">if</span>($entity-&gt;getBoundingBox()-&gt;intersectsWith($intersection)){</div>
 <div class="line"><a id="l00086" name="l00086"></a><span class="lineno">   86</span>                $this-&gt;setTiltAndScheduleTick(DripleafState::UNSTABLE);</div>
 <div class="line"><a id="l00087" name="l00087"></a><span class="lineno">   87</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
@@ -237,8 +237,8 @@ $(function(){initNavTree('d1/d91/_big_dripleaf_head_8php_source.html','../../');
 <div class="line"><a id="l00116" name="l00116"></a><span class="lineno">  116</span>        if($this-&gt;leafState !== DripleafState::FULL_TILT){</div>
 <div class="line"><a id="l00117" name="l00117"></a><span class="lineno">  117</span>            <span class="keywordflow">return</span> [</div>
 <div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span>                AxisAlignedBB::one()</div>
-<div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>                    -&gt;trim(Facing::DOWN, 11 / 16)</div>
-<div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>                    -&gt;trim(Facing::UP, $this-&gt;getLeafTopOffset())</div>
+<div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>                    -&gt;trimmedCopy(Facing::DOWN, 11 / 16)</div>
+<div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>                    -&gt;trimmedCopy(Facing::UP, $this-&gt;getLeafTopOffset())</div>
 <div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>            ];</div>
 <div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>        }</div>
 <div class="line"><a id="l00123" name="l00123"></a><span class="lineno">  123</span>        <span class="keywordflow">return</span> [];</div>
@@ -246,7 +246,7 @@ $(function(){initNavTree('d1/d91/_big_dripleaf_head_8php_source.html','../../');
 </div>
 <div class="line"><a id="l00125" name="l00125"></a><span class="lineno">  125</span>}</div>
 </div>
-<div class="ttc" id="aclasspocketmine_1_1block_1_1_base_big_dripleaf_html"><div class="ttname"><a href="../../d5/d5a/classpocketmine_1_1block_1_1_base_big_dripleaf.html">pocketmine\block\BaseBigDripleaf</a></div><div class="ttdef"><b>Definition</b> <a href="../../d9/d76/_base_big_dripleaf_8php_source.html#l00037">BaseBigDripleaf.php:37</a></div></div>
+<div class="ttc" id="aclasspocketmine_1_1block_1_1_base_big_dripleaf_html"><div class="ttname"><a href="../../d5/d5a/classpocketmine_1_1block_1_1_base_big_dripleaf.html">pocketmine\block\BaseBigDripleaf</a></div><div class="ttdef"><b>Definition</b> <a href="../../d9/d76/_base_big_dripleaf_8php_source.html#l00038">BaseBigDripleaf.php:38</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_big_dripleaf_head_html"><div class="ttname"><a href="../../d0/dd5/classpocketmine_1_1block_1_1_big_dripleaf_head.html">pocketmine\block\BigDripleafHead</a></div><div class="ttdef"><b>Definition</b> <a href="#l00036">BigDripleafHead.php:36</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_big_dripleaf_head_html_a74ac2a3ea9bb0503ab998139b86dbcb1"><div class="ttname"><a href="../../d0/dd5/classpocketmine_1_1block_1_1_big_dripleaf_head.html#a74ac2a3ea9bb0503ab998139b86dbcb1">pocketmine\block\BigDripleafHead\recalculateCollisionBoxes</a></div><div class="ttdeci">recalculateCollisionBoxes()</div><div class="ttdef"><b>Definition</b> <a href="#l00115">BigDripleafHead.php:115</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1block_1_1_big_dripleaf_head_html_a8c5906deae3c15a6c8106b7919e87b00"><div class="ttname"><a href="../../d0/dd5/classpocketmine_1_1block_1_1_big_dripleaf_head.html#a8c5906deae3c15a6c8106b7919e87b00">pocketmine\block\BigDripleafHead\onEntityInside</a></div><div class="ttdeci">onEntityInside(Entity $entity)</div><div class="ttdef"><b>Definition</b> <a href="#l00079">BigDripleafHead.php:79</a></div></div>
@@ -258,13 +258,13 @@ $(function(){initNavTree('d1/d91/_big_dripleaf_head_8php_source.html','../../');
 <div class="ttc" id="aclasspocketmine_1_1entity_1_1_entity_html"><div class="ttname"><a href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html">pocketmine\entity\Entity</a></div><div class="ttdef"><b>Definition</b> <a href="../../d1/d1d/_entity_8php_source.html#l00086">Entity.php:86</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1entity_1_1projectile_1_1_projectile_html"><div class="ttname"><a href="../../dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html">pocketmine\entity\projectile\Projectile</a></div><div class="ttdef"><b>Definition</b> <a href="../../df/dfe/_projectile_8php_source.html#l00054">Projectile.php:54</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1math_1_1_axis_aligned_b_b_html"><div class="ttname"><a href="../../dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html">pocketmine\math\AxisAlignedBB</a></div><div class="ttdef"><b>Definition</b> <a href="../../d8/d87/_axis_aligned_b_b_8php_source.html#l00029">AxisAlignedBB.php:29</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1math_1_1_facing_html"><div class="ttname"><a href="../../dd/d25/classpocketmine_1_1math_1_1_facing.html">pocketmine\math\Facing</a></div><div class="ttdef"><b>Definition</b> <a href="../../df/d0d/_facing_8php_source.html#l00028">Facing.php:28</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1math_1_1_ray_trace_result_html"><div class="ttname"><a href="../../d2/dfa/classpocketmine_1_1math_1_1_ray_trace_result.html">pocketmine\math\RayTraceResult</a></div><div class="ttdef"><b>Definition</b> <a href="../../da/dc1/_ray_trace_result_8php_source.html#l00029">RayTraceResult.php:29</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1sound_1_1_dripleaf_tilt_down_sound_html"><div class="ttname"><a href="../../da/daf/classpocketmine_1_1world_1_1sound_1_1_dripleaf_tilt_down_sound.html">pocketmine\world\sound\DripleafTiltDownSound</a></div><div class="ttdef"><b>Definition</b> <a href="../../dc/d6b/_dripleaf_tilt_down_sound_8php_source.html#l00030">DripleafTiltDownSound.php:30</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1world_1_1sound_1_1_dripleaf_tilt_up_sound_html"><div class="ttname"><a href="../../d9/dc2/classpocketmine_1_1world_1_1sound_1_1_dripleaf_tilt_up_sound.html">pocketmine\world\sound\DripleafTiltUpSound</a></div><div class="ttdef"><b>Definition</b> <a href="../../d2/de5/_dripleaf_tilt_up_sound_8php_source.html#l00030">DripleafTiltUpSound.php:30</a></div></div>
-<div class="ttc" id="ainterfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer_html"><div class="ttname"><a href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html">pocketmine\data\runtime\RuntimeDataDescriber</a></div><div class="ttdef"><b>Definition</b> <a href="../../db/d3f/_runtime_data_describer_8php_source.html#l00037">RuntimeDataDescriber.php:37</a></div></div>
+<div class="ttc" id="ainterfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer_html"><div class="ttname"><a href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html">pocketmine\data\runtime\RuntimeDataDescriber</a></div><div class="ttdef"><b>Definition</b> <a href="../../db/d3f/_runtime_data_describer_8php_source.html#l00038">RuntimeDataDescriber.php:38</a></div></div>
 <div class="ttc" id="ainterfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer_html_aff988395c7a4cbeba9f1fe082a6e8e33"><div class="ttname"><a href="../../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html#aff988395c7a4cbeba9f1fe082a6e8e33">pocketmine\data\runtime\RuntimeDataDescriber\enum</a></div><div class="ttdeci">enum(\UnitEnum &amp;$case)</div></div>
 <div class="ttc" id="anamespacepocketmine_1_1block_html"><div class="ttname"><a href="../../d0/dc3/namespacepocketmine_1_1block.html">pocketmine\block</a></div><div class="ttdef"><b>Definition</b> <a href="../../d2/de9/_activator_rail_8php_source.html#l00024">ActivatorRail.php:24</a></div></div>
+<div class="ttc" id="anamespacepocketmine_1_1math_html_aa886a69cf6f1686b3db497cee3400814"><div class="ttname"><a href="../../d8/db3/namespacepocketmine_1_1math.html#aa886a69cf6f1686b3db497cee3400814">pocketmine\math\Facing</a></div><div class="ttdeci">Facing</div><div class="ttdef"><b>Definition</b> <a href="../../df/d0d/_facing_8php_source.html#l00028">Facing.php:28</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

@@ -75,7 +75,6 @@ var searchData=
   ['tripwire_72',['Tripwire',['../d5/d77/classpocketmine_1_1block_1_1_tripwire.html',1,'pocketmine::block']]],
   ['tripwirehook_73',['TripwireHook',['../da/df6/classpocketmine_1_1block_1_1_tripwire_hook.html',1,'pocketmine::block']]],
   ['turtlehelmet_74',['TurtleHelmet',['../d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html',1,'pocketmine::item']]],
-  ['type_75',['Type',['../d6/d33/class_dave_random_1_1_callback_validator_1_1_type.html',1,'DaveRandom::CallbackValidator']]],
-  ['typeconversionexception_76',['TypeConversionException',['../dd/de4/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_type_conversion_exception.html',1,'pocketmine::network::mcpe::convert']]],
-  ['typeconverter_77',['TypeConverter',['../d8/d07/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_type_converter.html',1,'pocketmine::network::mcpe::convert']]]
+  ['typeconversionexception_75',['TypeConversionException',['../dd/de4/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_type_conversion_exception.html',1,'pocketmine::network::mcpe::convert']]],
+  ['typeconverter_76',['TypeConverter',['../d8/d07/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_type_converter.html',1,'pocketmine::network::mcpe::convert']]]
 ];
