@@ -106,13 +106,13 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="4" y="-82" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17" y="-82" font-family="Helvetica,sans-Serif" font-size="10.00">onHitGround()</text>
 <text text-anchor="start" x="4" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00">onInteract()</text>
+<text text-anchor="start" x="17" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00">place()</text>
 <text text-anchor="start" x="4" y="-52" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17" y="-52" font-family="Helvetica,sans-Serif" font-size="10.00">place()</text>
-<text text-anchor="start" x="4" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">setDamage()</text>
+<text text-anchor="start" x="17" y="-52" font-family="Helvetica,sans-Serif" font-size="10.00">setDamage()</text>
+<text text-anchor="start" x="4" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="17" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">describeBlockOnlyState()</text>
 <text text-anchor="start" x="4" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="17" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">describeBlockOnlyState()</text>
+<text text-anchor="start" x="17" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">newMenu()</text>
 <text text-anchor="start" x="4" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
 <text text-anchor="start" x="17" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">recalculateCollisionBoxes()</text>
 <polygon fill="#bfbfbf" stroke="#bfbfbf" points="0,-227 0,-227 154,-227 154,-227 0,-227"/>

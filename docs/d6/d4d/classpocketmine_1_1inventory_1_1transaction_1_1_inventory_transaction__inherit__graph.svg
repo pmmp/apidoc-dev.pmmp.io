@@ -67,7 +67,7 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="96" y="-402.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
 <text text-anchor="start" x="109.5" y="-402.5" font-family="Helvetica,sans-Serif" font-size="10.00">$hasExecuted</text>
 <text text-anchor="start" x="96" y="-387.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="109.5" y="-387.5" font-family="Helvetica,sans-Serif" font-size="10.00">$inventories</text>
+<text text-anchor="start" x="109.5" y="-387.5" font-family="Helvetica,sans-Serif" font-size="10.00">$inventoryWindows</text>
 <text text-anchor="start" x="96" y="-372.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="109.5" y="-372.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
 <text text-anchor="start" x="96" y="-357.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
@@ -77,7 +77,7 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="96" y="-327.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="109.5" y="-327.5" font-family="Helvetica,sans-Serif" font-size="10.00">getActions()</text>
 <text text-anchor="start" x="96" y="-312.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="109.5" y="-312.5" font-family="Helvetica,sans-Serif" font-size="10.00">getInventories()</text>
+<text text-anchor="start" x="109.5" y="-312.5" font-family="Helvetica,sans-Serif" font-size="10.00">getInventoryWindows()</text>
 <text text-anchor="start" x="96" y="-297.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="109.5" y="-297.5" font-family="Helvetica,sans-Serif" font-size="10.00">getSource()</text>
 <text text-anchor="start" x="96" y="-282.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>

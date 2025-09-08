@@ -50,7 +50,7 @@ var searchData=
   ['fullcontainername_47',['FullContainerName',['../d6/d50/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_full_container_name.html',1,'pocketmine::network::mcpe::protocol::types::inventory']]],
   ['furnace_48',['Furnace',['../d4/d66/classpocketmine_1_1block_1_1_furnace.html',1,'pocketmine\block\Furnace'],['../db/d1f/classpocketmine_1_1block_1_1tile_1_1_furnace.html',1,'pocketmine\block\tile\Furnace']]],
   ['furnaceburnevent_49',['FurnaceBurnEvent',['../d5/d82/classpocketmine_1_1event_1_1inventory_1_1_furnace_burn_event.html',1,'pocketmine::event::inventory']]],
-  ['furnaceinventory_50',['FurnaceInventory',['../d8/d69/classpocketmine_1_1block_1_1inventory_1_1_furnace_inventory.html',1,'pocketmine::block::inventory']]],
+  ['furnaceinventorywindow_50',['FurnaceInventoryWindow',['../d9/dd1/classpocketmine_1_1block_1_1inventory_1_1window_1_1_furnace_inventory_window.html',1,'pocketmine::block::inventory::window']]],
   ['furnacerecipe_51',['FurnaceRecipe',['../da/d41/classpocketmine_1_1crafting_1_1_furnace_recipe.html',1,'pocketmine\crafting\FurnaceRecipe'],['../db/d68/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1recipe_1_1_furnace_recipe.html',1,'pocketmine\network\mcpe\protocol\types\recipe\FurnaceRecipe']]],
   ['furnacerecipeblockname_52',['FurnaceRecipeBlockName',['../d6/d97/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1recipe_1_1_furnace_recipe_block_name.html',1,'pocketmine::network::mcpe::protocol::types::recipe']]],
   ['furnacerecipedata_53',['FurnaceRecipeData',['../d1/d4b/classpocketmine_1_1crafting_1_1json_1_1_furnace_recipe_data.html',1,'pocketmine::crafting::json']]],

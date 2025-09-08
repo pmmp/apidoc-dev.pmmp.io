@@ -1,0 +1,7 @@
+<map id="pocketmine\block\Campfire\onScheduledUpdate" name="pocketmine\block\Campfire\onScheduledUpdate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,205,77"/>
+<area shape="rect" id="Node000002" href="$db/d39/interfacepocketmine_1_1inventory_1_1_inventory.html#a486ad078b4b853d130af8bb11c4486c1" title=" " alt="" coords="253,5,424,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,41,240,36,240,41,206,46"/>
+<area shape="rect" id="Node000003" href="$db/d39/interfacepocketmine_1_1inventory_1_1_inventory.html#a547b8de8fcb0e1011551fa6bbf5348d7" title=" " alt="" coords="257,69,421,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,68,243,74,243,79,205,74"/>
+</map>

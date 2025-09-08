@@ -9,23 +9,20 @@ var annotated_dup =
     [ "pocketmine", "d2/d69/namespacepocketmine.html", [
       [ "block", "d0/dc3/namespacepocketmine_1_1block.html", [
         [ "inventory", null, [
-          [ "AnvilInventory", "d6/d6d/classpocketmine_1_1block_1_1inventory_1_1_anvil_inventory.html", "d6/d6d/classpocketmine_1_1block_1_1inventory_1_1_anvil_inventory" ],
-          [ "BarrelInventory", "d6/d7b/classpocketmine_1_1block_1_1inventory_1_1_barrel_inventory.html", "d6/d7b/classpocketmine_1_1block_1_1inventory_1_1_barrel_inventory" ],
-          [ "BlockInventory", "d4/d3a/interfacepocketmine_1_1block_1_1inventory_1_1_block_inventory.html", null ],
-          [ "BrewingStandInventory", "db/d3b/classpocketmine_1_1block_1_1inventory_1_1_brewing_stand_inventory.html", "db/d3b/classpocketmine_1_1block_1_1inventory_1_1_brewing_stand_inventory" ],
-          [ "CampfireInventory", "da/d73/classpocketmine_1_1block_1_1inventory_1_1_campfire_inventory.html", "da/d73/classpocketmine_1_1block_1_1inventory_1_1_campfire_inventory" ],
-          [ "CartographyTableInventory", "db/d85/classpocketmine_1_1block_1_1inventory_1_1_cartography_table_inventory.html", "db/d85/classpocketmine_1_1block_1_1inventory_1_1_cartography_table_inventory" ],
-          [ "ChestInventory", "da/d24/classpocketmine_1_1block_1_1inventory_1_1_chest_inventory.html", "da/d24/classpocketmine_1_1block_1_1inventory_1_1_chest_inventory" ],
-          [ "CraftingTableInventory", "de/def/classpocketmine_1_1block_1_1inventory_1_1_crafting_table_inventory.html", "de/def/classpocketmine_1_1block_1_1inventory_1_1_crafting_table_inventory" ],
-          [ "DoubleChestInventory", "d3/d26/classpocketmine_1_1block_1_1inventory_1_1_double_chest_inventory.html", "d3/d26/classpocketmine_1_1block_1_1inventory_1_1_double_chest_inventory" ],
-          [ "EnchantInventory", "d6/d4e/classpocketmine_1_1block_1_1inventory_1_1_enchant_inventory.html", "d6/d4e/classpocketmine_1_1block_1_1inventory_1_1_enchant_inventory" ],
-          [ "EnderChestInventory", "d5/dd0/classpocketmine_1_1block_1_1inventory_1_1_ender_chest_inventory.html", "d5/dd0/classpocketmine_1_1block_1_1inventory_1_1_ender_chest_inventory" ],
-          [ "FurnaceInventory", "d8/d69/classpocketmine_1_1block_1_1inventory_1_1_furnace_inventory.html", "d8/d69/classpocketmine_1_1block_1_1inventory_1_1_furnace_inventory" ],
-          [ "HopperInventory", "d0/dc5/classpocketmine_1_1block_1_1inventory_1_1_hopper_inventory.html", "d0/dc5/classpocketmine_1_1block_1_1inventory_1_1_hopper_inventory" ],
-          [ "LoomInventory", "db/d8d/classpocketmine_1_1block_1_1inventory_1_1_loom_inventory.html", "db/d8d/classpocketmine_1_1block_1_1inventory_1_1_loom_inventory" ],
-          [ "ShulkerBoxInventory", "d4/db4/classpocketmine_1_1block_1_1inventory_1_1_shulker_box_inventory.html", "d4/db4/classpocketmine_1_1block_1_1inventory_1_1_shulker_box_inventory" ],
-          [ "SmithingTableInventory", "dd/d95/classpocketmine_1_1block_1_1inventory_1_1_smithing_table_inventory.html", "dd/d95/classpocketmine_1_1block_1_1inventory_1_1_smithing_table_inventory" ],
-          [ "StonecutterInventory", "db/d21/classpocketmine_1_1block_1_1inventory_1_1_stonecutter_inventory.html", "db/d21/classpocketmine_1_1block_1_1inventory_1_1_stonecutter_inventory" ]
+          [ "window", null, [
+            [ "AnvilInventoryWindow", "d4/df0/classpocketmine_1_1block_1_1inventory_1_1window_1_1_anvil_inventory_window.html", null ],
+            [ "BlockInventoryWindow", "d6/dc8/classpocketmine_1_1block_1_1inventory_1_1window_1_1_block_inventory_window.html", null ],
+            [ "BrewingStandInventoryWindow", "dc/dc6/classpocketmine_1_1block_1_1inventory_1_1window_1_1_brewing_stand_inventory_window.html", null ],
+            [ "CartographyTableInventoryWindow", "d1/d3b/classpocketmine_1_1block_1_1inventory_1_1window_1_1_cartography_table_inventory_window.html", null ],
+            [ "CraftingTableInventoryWindow", "d4/d89/classpocketmine_1_1block_1_1inventory_1_1window_1_1_crafting_table_inventory_window.html", null ],
+            [ "DoubleChestInventoryWindow", "db/d11/classpocketmine_1_1block_1_1inventory_1_1window_1_1_double_chest_inventory_window.html", null ],
+            [ "EnchantingTableInventoryWindow", "d5/d1c/classpocketmine_1_1block_1_1inventory_1_1window_1_1_enchanting_table_inventory_window.html", null ],
+            [ "FurnaceInventoryWindow", "d9/dd1/classpocketmine_1_1block_1_1inventory_1_1window_1_1_furnace_inventory_window.html", null ],
+            [ "HopperInventoryWindow", "d9/d22/classpocketmine_1_1block_1_1inventory_1_1window_1_1_hopper_inventory_window.html", null ],
+            [ "LoomInventoryWindow", "d8/d95/classpocketmine_1_1block_1_1inventory_1_1window_1_1_loom_inventory_window.html", null ],
+            [ "SmithingTableInventoryWindow", "d2/de9/classpocketmine_1_1block_1_1inventory_1_1window_1_1_smithing_table_inventory_window.html", null ],
+            [ "StonecutterInventoryWindow", "df/d78/classpocketmine_1_1block_1_1inventory_1_1window_1_1_stonecutter_inventory_window.html", null ]
+          ] ]
         ] ],
         [ "tile", "db/dba/namespacepocketmine_1_1block_1_1tile.html", [
           [ "Banner", "d2/d87/classpocketmine_1_1block_1_1tile_1_1_banner.html", "d2/d87/classpocketmine_1_1block_1_1tile_1_1_banner" ],
@@ -40,7 +37,7 @@ var annotated_dup =
           [ "Chest", "d9/d64/classpocketmine_1_1block_1_1tile_1_1_chest.html", "d9/d64/classpocketmine_1_1block_1_1tile_1_1_chest" ],
           [ "ChiseledBookshelf", "d5/ddf/classpocketmine_1_1block_1_1tile_1_1_chiseled_bookshelf.html", "d5/ddf/classpocketmine_1_1block_1_1tile_1_1_chiseled_bookshelf" ],
           [ "Comparator", "df/de7/classpocketmine_1_1block_1_1tile_1_1_comparator.html", "df/de7/classpocketmine_1_1block_1_1tile_1_1_comparator" ],
-          [ "Container", "d9/de1/interfacepocketmine_1_1block_1_1tile_1_1_container.html", "d9/de1/interfacepocketmine_1_1block_1_1tile_1_1_container" ],
+          [ "ContainerTile", "de/d93/interfacepocketmine_1_1block_1_1tile_1_1_container_tile.html", "de/d93/interfacepocketmine_1_1block_1_1tile_1_1_container_tile" ],
           [ "DaylightSensor", "de/df4/classpocketmine_1_1block_1_1tile_1_1_daylight_sensor.html", "de/df4/classpocketmine_1_1block_1_1tile_1_1_daylight_sensor" ],
           [ "EnchantTable", "df/d38/classpocketmine_1_1block_1_1tile_1_1_enchant_table.html", "df/d38/classpocketmine_1_1block_1_1tile_1_1_enchant_table" ],
           [ "EnderChest", "d4/d65/classpocketmine_1_1block_1_1tile_1_1_ender_chest.html", "d4/d65/classpocketmine_1_1block_1_1tile_1_1_ender_chest" ],
@@ -68,10 +65,12 @@ var annotated_dup =
         [ "utils", null, [
           [ "Ageable", "dc/d33/interfacepocketmine_1_1block_1_1utils_1_1_ageable.html", "dc/d33/interfacepocketmine_1_1block_1_1utils_1_1_ageable" ],
           [ "AnalogRedstoneSignalEmitter", "dd/d1e/interfacepocketmine_1_1block_1_1utils_1_1_analog_redstone_signal_emitter.html", "dd/d1e/interfacepocketmine_1_1block_1_1utils_1_1_analog_redstone_signal_emitter" ],
+          [ "AnimatedContainerLike", "d4/d7f/interfacepocketmine_1_1block_1_1utils_1_1_animated_container_like.html", "d4/d7f/interfacepocketmine_1_1block_1_1utils_1_1_animated_container_like" ],
           [ "AnyFacing", "d2/df5/interfacepocketmine_1_1block_1_1utils_1_1_any_facing.html", "d2/df5/interfacepocketmine_1_1block_1_1utils_1_1_any_facing" ],
           [ "BannerPatternLayer", "da/dd4/classpocketmine_1_1block_1_1utils_1_1_banner_pattern_layer.html", null ],
           [ "BlockEventHelper", "d4/d5d/classpocketmine_1_1block_1_1utils_1_1_block_event_helper.html", null ],
           [ "Colored", "d8/d7d/interfacepocketmine_1_1block_1_1utils_1_1_colored.html", "d8/d7d/interfacepocketmine_1_1block_1_1utils_1_1_colored" ],
+          [ "Container", "d6/dbd/interfacepocketmine_1_1block_1_1utils_1_1_container.html", "d6/dbd/interfacepocketmine_1_1block_1_1utils_1_1_container" ],
           [ "CopperMaterial", "d3/d54/interfacepocketmine_1_1block_1_1utils_1_1_copper_material.html", "d3/d54/interfacepocketmine_1_1block_1_1utils_1_1_copper_material" ],
           [ "CoralMaterial", "d9/de2/interfacepocketmine_1_1block_1_1utils_1_1_coral_material.html", "d9/de2/interfacepocketmine_1_1block_1_1utils_1_1_coral_material" ],
           [ "CropGrowthHelper", "da/d21/classpocketmine_1_1block_1_1utils_1_1_crop_growth_helper.html", "da/d21/classpocketmine_1_1block_1_1utils_1_1_crop_growth_helper" ],
@@ -79,6 +78,7 @@ var annotated_dup =
           [ "FortuneDropHelper", "dd/dfb/classpocketmine_1_1block_1_1utils_1_1_fortune_drop_helper.html", "dd/dfb/classpocketmine_1_1block_1_1utils_1_1_fortune_drop_helper" ],
           [ "HorizontalFacing", "d7/daf/interfacepocketmine_1_1block_1_1utils_1_1_horizontal_facing.html", "d7/daf/interfacepocketmine_1_1block_1_1utils_1_1_horizontal_facing" ],
           [ "Lightable", "d4/de8/interfacepocketmine_1_1block_1_1utils_1_1_lightable.html", "d4/de8/interfacepocketmine_1_1block_1_1utils_1_1_lightable" ],
+          [ "MenuAccessor", "d2/dc0/interfacepocketmine_1_1block_1_1utils_1_1_menu_accessor.html", "d2/dc0/interfacepocketmine_1_1block_1_1utils_1_1_menu_accessor" ],
           [ "MinimumCostFlowCalculator", "db/d5b/classpocketmine_1_1block_1_1utils_1_1_minimum_cost_flow_calculator.html", "db/d5b/classpocketmine_1_1block_1_1utils_1_1_minimum_cost_flow_calculator" ],
           [ "MultiAnyFacing", "db/d50/interfacepocketmine_1_1block_1_1utils_1_1_multi_any_facing.html", "db/d50/interfacepocketmine_1_1block_1_1utils_1_1_multi_any_facing" ],
           [ "PillarRotation", "d2/dfa/interfacepocketmine_1_1block_1_1utils_1_1_pillar_rotation.html", "d2/dfa/interfacepocketmine_1_1block_1_1utils_1_1_pillar_rotation" ],
@@ -841,8 +841,8 @@ var annotated_dup =
           [ "CraftingTransaction", "db/d5b/classpocketmine_1_1inventory_1_1transaction_1_1_crafting_transaction.html", "db/d5b/classpocketmine_1_1inventory_1_1transaction_1_1_crafting_transaction" ],
           [ "EnchantingTransaction", "d1/d68/classpocketmine_1_1inventory_1_1transaction_1_1_enchanting_transaction.html", "d1/d68/classpocketmine_1_1inventory_1_1transaction_1_1_enchanting_transaction" ],
           [ "InventoryTransaction", "d3/de1/classpocketmine_1_1inventory_1_1transaction_1_1_inventory_transaction.html", "d3/de1/classpocketmine_1_1inventory_1_1transaction_1_1_inventory_transaction" ],
+          [ "SlotChangeActionBuilder", "d9/de2/classpocketmine_1_1inventory_1_1transaction_1_1_slot_change_action_builder.html", "d9/de2/classpocketmine_1_1inventory_1_1transaction_1_1_slot_change_action_builder" ],
           [ "TransactionBuilder", "d6/de0/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_builder.html", "d6/de0/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_builder" ],
-          [ "TransactionBuilderInventory", "db/d05/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_builder_inventory.html", "db/d05/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_builder_inventory" ],
           [ "TransactionCancelledException", "dd/d12/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_cancelled_exception.html", null ],
           [ "TransactionException", "dc/db9/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_exception.html", null ],
           [ "TransactionValidationException", "db/dea/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_validation_exception.html", null ]
@@ -850,21 +850,16 @@ var annotated_dup =
         [ "ArmorInventory", "d0/d70/classpocketmine_1_1inventory_1_1_armor_inventory.html", "d0/d70/classpocketmine_1_1inventory_1_1_armor_inventory" ],
         [ "BaseInventory", "d5/dc4/classpocketmine_1_1inventory_1_1_base_inventory.html", "d5/dc4/classpocketmine_1_1inventory_1_1_base_inventory" ],
         [ "CallbackInventoryListener", "da/d3b/classpocketmine_1_1inventory_1_1_callback_inventory_listener.html", "da/d3b/classpocketmine_1_1inventory_1_1_callback_inventory_listener" ],
+        [ "CombinedInventoryProxy", "dd/dcb/classpocketmine_1_1inventory_1_1_combined_inventory_proxy.html", "dd/dcb/classpocketmine_1_1inventory_1_1_combined_inventory_proxy" ],
         [ "CreativeGroup", "df/d51/classpocketmine_1_1inventory_1_1_creative_group.html", "df/d51/classpocketmine_1_1inventory_1_1_creative_group" ],
         [ "CreativeInventory", "d3/d3e/classpocketmine_1_1inventory_1_1_creative_inventory.html", "d3/d3e/classpocketmine_1_1inventory_1_1_creative_inventory" ],
         [ "CreativeInventoryEntry", "da/d8c/classpocketmine_1_1inventory_1_1_creative_inventory_entry.html", null ],
-        [ "DelegateInventory", "d2/d0e/classpocketmine_1_1inventory_1_1_delegate_inventory.html", "d2/d0e/classpocketmine_1_1inventory_1_1_delegate_inventory" ],
+        [ "Hotbar", "d5/d49/classpocketmine_1_1inventory_1_1_hotbar.html", "d5/d49/classpocketmine_1_1inventory_1_1_hotbar" ],
         [ "Inventory", "db/d39/interfacepocketmine_1_1inventory_1_1_inventory.html", "db/d39/interfacepocketmine_1_1inventory_1_1_inventory" ],
         [ "InventoryHolder", "d2/d91/interfacepocketmine_1_1inventory_1_1_inventory_holder.html", null ],
         [ "InventoryListener", "d8/df4/interfacepocketmine_1_1inventory_1_1_inventory_listener.html", "d8/df4/interfacepocketmine_1_1inventory_1_1_inventory_listener" ],
-        [ "PlayerCraftingInventory", "d5/db9/classpocketmine_1_1inventory_1_1_player_crafting_inventory.html", "d5/db9/classpocketmine_1_1inventory_1_1_player_crafting_inventory" ],
-        [ "PlayerCursorInventory", "d3/d37/classpocketmine_1_1inventory_1_1_player_cursor_inventory.html", "d3/d37/classpocketmine_1_1inventory_1_1_player_cursor_inventory" ],
-        [ "PlayerEnderInventory", "d4/df7/classpocketmine_1_1inventory_1_1_player_ender_inventory.html", "d4/df7/classpocketmine_1_1inventory_1_1_player_ender_inventory" ],
-        [ "PlayerInventory", "dc/d77/classpocketmine_1_1inventory_1_1_player_inventory.html", "dc/d77/classpocketmine_1_1inventory_1_1_player_inventory" ],
-        [ "PlayerOffHandInventory", "d0/d89/classpocketmine_1_1inventory_1_1_player_off_hand_inventory.html", "d0/d89/classpocketmine_1_1inventory_1_1_player_off_hand_inventory" ],
         [ "SimpleInventory", "d6/dc1/classpocketmine_1_1inventory_1_1_simple_inventory.html", "d6/dc1/classpocketmine_1_1inventory_1_1_simple_inventory" ],
-        [ "SlotValidatedInventory", "dd/d33/interfacepocketmine_1_1inventory_1_1_slot_validated_inventory.html", "dd/d33/interfacepocketmine_1_1inventory_1_1_slot_validated_inventory" ],
-        [ "TemporaryInventory", "d5/d7b/interfacepocketmine_1_1inventory_1_1_temporary_inventory.html", "d5/d7b/interfacepocketmine_1_1inventory_1_1_temporary_inventory" ]
+        [ "SlotValidatedInventory", "dd/d33/interfacepocketmine_1_1inventory_1_1_slot_validated_inventory.html", "dd/d33/interfacepocketmine_1_1inventory_1_1_slot_validated_inventory" ]
       ] ],
       [ "item", "d0/dec/namespacepocketmine_1_1item.html", [
         [ "enchantment", null, [
@@ -1603,7 +1598,7 @@ var annotated_dup =
             [ "ChunkSerializer", "dd/dc9/classpocketmine_1_1network_1_1mcpe_1_1serializer_1_1_chunk_serializer.html", "dd/dc9/classpocketmine_1_1network_1_1mcpe_1_1serializer_1_1_chunk_serializer" ]
           ] ],
           [ "ChunkRequestTask", "d2/d46/classpocketmine_1_1network_1_1mcpe_1_1_chunk_request_task.html", "d2/d46/classpocketmine_1_1network_1_1mcpe_1_1_chunk_request_task" ],
-          [ "ComplexInventoryMapEntry", "da/d18/classpocketmine_1_1network_1_1mcpe_1_1_complex_inventory_map_entry.html", "da/d18/classpocketmine_1_1network_1_1mcpe_1_1_complex_inventory_map_entry" ],
+          [ "ComplexWindowMapEntry", "db/d59/classpocketmine_1_1network_1_1mcpe_1_1_complex_window_map_entry.html", "db/d59/classpocketmine_1_1network_1_1mcpe_1_1_complex_window_map_entry" ],
           [ "EntityEventBroadcaster", "d6/dce/interfacepocketmine_1_1network_1_1mcpe_1_1_entity_event_broadcaster.html", "d6/dce/interfacepocketmine_1_1network_1_1mcpe_1_1_entity_event_broadcaster" ],
           [ "InventoryManager", "d3/da1/classpocketmine_1_1network_1_1mcpe_1_1_inventory_manager.html", "d3/da1/classpocketmine_1_1network_1_1mcpe_1_1_inventory_manager" ],
           [ "InventoryManagerEntry", "d8/dac/classpocketmine_1_1network_1_1mcpe_1_1_inventory_manager_entry.html", null ],
@@ -1661,6 +1656,7 @@ var annotated_dup =
         ] ],
         [ "ChunkSelector", "d4/db4/classpocketmine_1_1player_1_1_chunk_selector.html", "d4/db4/classpocketmine_1_1player_1_1_chunk_selector" ],
         [ "DatFilePlayerDataProvider", "d5/db7/classpocketmine_1_1player_1_1_dat_file_player_data_provider.html", "d5/db7/classpocketmine_1_1player_1_1_dat_file_player_data_provider" ],
+        [ "InventoryWindow", "d4/d5e/classpocketmine_1_1player_1_1_inventory_window.html", null ],
         [ "IPlayer", "d2/df5/interfacepocketmine_1_1player_1_1_i_player.html", null ],
         [ "OfflinePlayer", "dd/d09/classpocketmine_1_1player_1_1_offline_player.html", null ],
         [ "Player", "d0/d6f/classpocketmine_1_1player_1_1_player.html", "d0/d6f/classpocketmine_1_1player_1_1_player" ],
@@ -1668,7 +1664,9 @@ var annotated_dup =
         [ "PlayerDataProvider", "d4/d27/interfacepocketmine_1_1player_1_1_player_data_provider.html", "d4/d27/interfacepocketmine_1_1player_1_1_player_data_provider" ],
         [ "PlayerDataSaveException", "dc/d86/classpocketmine_1_1player_1_1_player_data_save_exception.html", null ],
         [ "PlayerInfo", "d2/d93/classpocketmine_1_1player_1_1_player_info.html", "d2/d93/classpocketmine_1_1player_1_1_player_info" ],
+        [ "PlayerInventoryWindow", "d0/d61/classpocketmine_1_1player_1_1_player_inventory_window.html", "d0/d61/classpocketmine_1_1player_1_1_player_inventory_window" ],
         [ "SurvivalBlockBreakHandler", "db/dcb/classpocketmine_1_1player_1_1_survival_block_break_handler.html", null ],
+        [ "TemporaryInventoryWindow", "d6/d8d/interfacepocketmine_1_1player_1_1_temporary_inventory_window.html", null ],
         [ "XboxLivePlayerInfo", "d7/da2/classpocketmine_1_1player_1_1_xbox_live_player_info.html", "d7/da2/classpocketmine_1_1player_1_1_xbox_live_player_info" ]
       ] ],
       [ "plugin", "d1/dd8/namespacepocketmine_1_1plugin.html", [

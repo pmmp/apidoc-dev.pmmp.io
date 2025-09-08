@@ -47,7 +47,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 439;
+var viewWidth = 593;
 var viewHeight = 643;
 var sectionId = 'dynsection-0';
 </script>
@@ -59,26 +59,26 @@ var sectionId = 'dynsection-0';
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="transparent" points="304,-124 159,-124 159,0 304,0 304,-124"/>
-<text text-anchor="start" x="168" y="-112" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Furnace</text>
-<text text-anchor="start" x="163.5" y="-97" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="176.5" y="-97" font-family="Helvetica,sans-Serif" font-size="10.00">$furnaceType</text>
-<text text-anchor="start" x="163.5" y="-82" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="176.5" y="-82" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
-<text text-anchor="start" x="163.5" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="176.5" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00">getFurnaceType()</text>
-<text text-anchor="start" x="163.5" y="-52" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="176.5" y="-52" font-family="Helvetica,sans-Serif" font-size="10.00">getLightLevel()</text>
-<text text-anchor="start" x="163.5" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="176.5" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">onInteract()</text>
-<text text-anchor="start" x="163.5" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="176.5" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">onScheduledUpdate()</text>
-<text text-anchor="start" x="163.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="176.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">describeBlockOnlyState()</text>
-<polygon fill="#666666" stroke="#666666" points="159.5,-107 159.5,-107 304.5,-107 304.5,-107 159.5,-107"/>
-<polygon fill="#666666" stroke="#666666" points="159.5,-92 159.5,-92 174.5,-92 174.5,-92 159.5,-92"/>
-<polygon fill="#666666" stroke="#666666" points="174.5,-92 174.5,-92 304.5,-92 304.5,-92 174.5,-92"/>
-<polygon fill="none" stroke="#666666" points="159,0 159,-124 304,-124 304,0 159,0"/>
+<polygon fill="#999999" stroke="transparent" points="388,-124 243,-124 243,0 388,0 388,-124"/>
+<text text-anchor="start" x="252" y="-112" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Furnace</text>
+<text text-anchor="start" x="247.5" y="-97" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="260.5" y="-97" font-family="Helvetica,sans-Serif" font-size="10.00">$furnaceType</text>
+<text text-anchor="start" x="247.5" y="-82" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="260.5" y="-82" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
+<text text-anchor="start" x="247.5" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="260.5" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00">getFurnaceType()</text>
+<text text-anchor="start" x="247.5" y="-52" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="260.5" y="-52" font-family="Helvetica,sans-Serif" font-size="10.00">getLightLevel()</text>
+<text text-anchor="start" x="247.5" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="260.5" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">onScheduledUpdate()</text>
+<text text-anchor="start" x="247.5" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="260.5" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">describeBlockOnlyState()</text>
+<text text-anchor="start" x="247.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="260.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">newMenu()</text>
+<polygon fill="#666666" stroke="#666666" points="243.5,-107 243.5,-107 388.5,-107 388.5,-107 243.5,-107"/>
+<polygon fill="#666666" stroke="#666666" points="243.5,-92 243.5,-92 258.5,-92 258.5,-92 243.5,-92"/>
+<polygon fill="#666666" stroke="#666666" points="258.5,-92 258.5,-92 388.5,-92 388.5,-92 258.5,-92"/>
+<polygon fill="none" stroke="#666666" points="243,0 243,-124 388,-124 388,0 243,0"/>
 </a>
 </g>
 </g>
@@ -86,14 +86,14 @@ var sectionId = 'dynsection-0';
 <g id="Node000002" class="node">
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="../../db/dc5/classpocketmine_1_1block_1_1_opaque.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="153,-222 16,-222 16,-173 153,-173 153,-222"/>
-<text text-anchor="start" x="21.5" y="-209.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Opaque</text>
-<text text-anchor="start" x="83" y="-194.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="39.5" y="-179.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="71.5" y="-179.5" font-family="Helvetica,sans-Serif" font-size="10.00">isSolid()</text>
-<polygon fill="#666666" stroke="#666666" points="16.5,-204.5 16.5,-204.5 153.5,-204.5 153.5,-204.5 16.5,-204.5"/>
-<polygon fill="#666666" stroke="#666666" points="16.5,-189.5 16.5,-189.5 153.5,-189.5 153.5,-189.5 16.5,-189.5"/>
-<polygon fill="none" stroke="#666666" points="16,-173 16,-222 153,-222 153,-173 16,-173"/>
+<polygon fill="white" stroke="transparent" points="163,-222 26,-222 26,-173 163,-173 163,-222"/>
+<text text-anchor="start" x="31.5" y="-209.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Opaque</text>
+<text text-anchor="start" x="93" y="-194.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="49.5" y="-179.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="81.5" y="-179.5" font-family="Helvetica,sans-Serif" font-size="10.00">isSolid()</text>
+<polygon fill="#666666" stroke="#666666" points="26.5,-204.5 26.5,-204.5 163.5,-204.5 163.5,-204.5 26.5,-204.5"/>
+<polygon fill="#666666" stroke="#666666" points="26.5,-189.5 26.5,-189.5 163.5,-189.5 163.5,-189.5 26.5,-189.5"/>
+<polygon fill="none" stroke="#666666" points="26,-173 26,-222 163,-222 163,-173 26,-173"/>
 </a>
 </g>
 </g>
@@ -101,8 +101,8 @@ var sectionId = 'dynsection-0';
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node2&#45;&gt;Node1</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M118.18,-165.92C131.87,-153.48 148.21,-138.64 164.15,-124.16"/>
-<polygon fill="none" stroke="#63b8ff" points="115.49,-163.63 110.44,-172.94 120.2,-168.81 115.49,-163.63"/>
+<path fill="none" stroke="#63b8ff" d="M142.32,-167.61C171.7,-149.87 209.91,-126.79 242.96,-106.82"/>
+<polygon fill="none" stroke="#63b8ff" points="140.25,-164.77 133.5,-172.94 143.87,-170.77 140.25,-164.77"/>
 </a>
 </g>
 </g>
@@ -168,26 +168,26 @@ var sectionId = 'dynsection-0';
 <g id="edge2_Node000002_Node000003" class="edge">
 <title>Node3&#45;&gt;Node2</title>
 <g id="a_edge2_Node000002_Node000003"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M84.5,-260.79C84.5,-245.88 84.5,-232.6 84.5,-222.16"/>
-<polygon fill="none" stroke="#63b8ff" points="81,-260.8 84.5,-270.8 88,-260.8 81,-260.8"/>
+<path fill="none" stroke="#63b8ff" d="M92.04,-260.79C92.63,-245.88 93.15,-232.6 93.57,-222.16"/>
+<polygon fill="none" stroke="#63b8ff" points="88.54,-260.67 91.65,-270.8 95.54,-260.95 88.54,-260.67"/>
 </a>
 </g>
 </g>
 <!-- Node4 -->
 <g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_Node000004"><a xlink:href="../../d4/de8/interfacepocketmine_1_1block_1_1utils_1_1_lightable.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="292,-235 171,-235 171,-160 292,-160 292,-235"/>
-<text text-anchor="start" x="176.5" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
-<text text-anchor="start" x="207.5" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Lightable</text>
-<text text-anchor="start" x="230" y="-196.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="191.5" y="-181.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="220.5" y="-181.5" font-family="Helvetica,sans-Serif" font-size="10.00">isLit()</text>
-<text text-anchor="start" x="191.5" y="-166.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="220.5" y="-166.5" font-family="Helvetica,sans-Serif" font-size="10.00">setLit()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="171.5,-206.5 171.5,-206.5 292.5,-206.5 292.5,-206.5 171.5,-206.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="171.5,-191.5 171.5,-191.5 292.5,-191.5 292.5,-191.5 171.5,-191.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="171,-160 171,-235 292,-235 292,-160 171,-160"/>
+<g id="a_Node000004"><a xlink:href="../../d6/dbd/interfacepocketmine_1_1block_1_1utils_1_1_container.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="307,-235 186,-235 186,-160 307,-160 307,-235"/>
+<text text-anchor="start" x="191.5" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
+<text text-anchor="start" x="221.5" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Container</text>
+<text text-anchor="start" x="245" y="-196.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="197" y="-181.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="216.5" y="-181.5" font-family="Helvetica,sans-Serif" font-size="10.00">canOpenWith()</text>
+<text text-anchor="start" x="197" y="-166.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="216.5" y="-166.5" font-family="Helvetica,sans-Serif" font-size="10.00">getInventory()</text>
+<polygon fill="#666666" stroke="#666666" points="186.5,-206.5 186.5,-206.5 307.5,-206.5 307.5,-206.5 186.5,-206.5"/>
+<polygon fill="#666666" stroke="#666666" points="186.5,-191.5 186.5,-191.5 307.5,-191.5 307.5,-191.5 186.5,-191.5"/>
+<polygon fill="none" stroke="#666666" points="186,-160 186,-235 307,-235 307,-160 186,-160"/>
 </a>
 </g>
 </g>
@@ -195,35 +195,89 @@ var sectionId = 'dynsection-0';
 <g id="edge3_Node000001_Node000004" class="edge">
 <title>Node4&#45;&gt;Node1</title>
 <g id="a_edge3_Node000001_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M231.5,-149.52C231.5,-141.28 231.5,-132.61 231.5,-124.06"/>
-<polygon fill="none" stroke="#63b8ff" points="228,-149.67 231.5,-159.67 235,-149.67 228,-149.67"/>
+<path fill="none" stroke="#63b8ff" d="M270.22,-150.61C274.64,-142.05 279.33,-132.99 283.94,-124.06"/>
+<polygon fill="none" stroke="#63b8ff" points="267.02,-149.18 265.54,-159.67 273.24,-152.39 267.02,-149.18"/>
 </a>
 </g>
 </g>
 <!-- Node5 -->
 <g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_Node000005"><a xlink:href="../../d7/daf/interfacepocketmine_1_1block_1_1utils_1_1_horizontal_facing.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="431,-235 310,-235 310,-160 431,-160 431,-235"/>
-<text text-anchor="start" x="315.5" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
-<text text-anchor="start" x="328.5" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">\HorizontalFacing</text>
-<text text-anchor="start" x="369" y="-196.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="325.5" y="-181.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="349.5" y="-181.5" font-family="Helvetica,sans-Serif" font-size="10.00">getFacing()</text>
-<text text-anchor="start" x="325.5" y="-166.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="349.5" y="-166.5" font-family="Helvetica,sans-Serif" font-size="10.00">setFacing()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="310.5,-206.5 310.5,-206.5 431.5,-206.5 431.5,-206.5 310.5,-206.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="310.5,-191.5 310.5,-191.5 431.5,-191.5 431.5,-191.5 310.5,-191.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="310,-160 310,-235 431,-235 431,-160 310,-160"/>
+<g id="a_Node000005"><a xlink:href="../../d2/dc0/interfacepocketmine_1_1block_1_1utils_1_1_menu_accessor.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="318,-490.5 187,-490.5 187,-415.5 318,-415.5 318,-490.5"/>
+<text text-anchor="start" x="197.5" y="-478" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
+<text text-anchor="start" x="216" y="-467" font-family="Helvetica,sans-Serif" font-size="10.00">\MenuAccessor</text>
+<text text-anchor="start" x="251" y="-452" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="191.5" y="-437" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="204.5" y="-437" font-family="Helvetica,sans-Serif" font-size="10.00">isOpeningObstructed()</text>
+<text text-anchor="start" x="191.5" y="-422" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="204.5" y="-422" font-family="Helvetica,sans-Serif" font-size="10.00">openToUnchecked()</text>
+<polygon fill="#666666" stroke="#666666" points="187.5,-462 187.5,-462 318.5,-462 318.5,-462 187.5,-462"/>
+<polygon fill="#666666" stroke="#666666" points="187.5,-447 187.5,-447 318.5,-447 318.5,-447 187.5,-447"/>
+<polygon fill="none" stroke="#666666" points="187,-415.5 187,-490.5 318,-490.5 318,-415.5 187,-415.5"/>
 </a>
 </g>
 </g>
-<!-- Node5&#45;&gt;Node1 -->
-<g id="edge4_Node000001_Node000005" class="edge">
-<title>Node5&#45;&gt;Node1</title>
-<g id="a_edge4_Node000001_Node000005"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M324.7,-152.51C315.22,-143.41 305.06,-133.65 295.08,-124.06"/>
-<polygon fill="none" stroke="#63b8ff" points="322.51,-155.26 332.15,-159.67 327.36,-150.22 322.51,-155.26"/>
+<!-- Node5&#45;&gt;Node4 -->
+<g id="edge4_Node000004_Node000005" class="edge">
+<title>Node5&#45;&gt;Node4</title>
+<g id="a_edge4_Node000004_Node000005"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M251.4,-405.37C250.23,-356.27 248.43,-280 247.37,-235.08"/>
+<polygon fill="none" stroke="#63b8ff" points="247.9,-405.5 251.63,-415.41 254.9,-405.33 247.9,-405.5"/>
+</a>
+</g>
+</g>
+<!-- Node6 -->
+<g id="Node000006" class="node">
+<title>Node6</title>
+<g id="a_Node000006"><a xlink:href="../../d4/de8/interfacepocketmine_1_1block_1_1utils_1_1_lightable.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="446,-235 325,-235 325,-160 446,-160 446,-235"/>
+<text text-anchor="start" x="330.5" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
+<text text-anchor="start" x="361.5" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Lightable</text>
+<text text-anchor="start" x="384" y="-196.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="345.5" y="-181.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="374.5" y="-181.5" font-family="Helvetica,sans-Serif" font-size="10.00">isLit()</text>
+<text text-anchor="start" x="345.5" y="-166.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="374.5" y="-166.5" font-family="Helvetica,sans-Serif" font-size="10.00">setLit()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="325.5,-206.5 325.5,-206.5 446.5,-206.5 446.5,-206.5 325.5,-206.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="325.5,-191.5 325.5,-191.5 446.5,-191.5 446.5,-191.5 325.5,-191.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="325,-160 325,-235 446,-235 446,-160 325,-160"/>
+</a>
+</g>
+</g>
+<!-- Node6&#45;&gt;Node1 -->
+<g id="edge5_Node000001_Node000006" class="edge">
+<title>Node6&#45;&gt;Node1</title>
+<g id="a_edge5_Node000001_Node000006"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M361.44,-150.61C356.95,-142.05 352.2,-132.99 347.52,-124.06"/>
+<polygon fill="none" stroke="#63b8ff" points="358.44,-152.44 366.19,-159.67 364.64,-149.19 358.44,-152.44"/>
+</a>
+</g>
+</g>
+<!-- Node7 -->
+<g id="Node000007" class="node">
+<title>Node7</title>
+<g id="a_Node000007"><a xlink:href="../../d7/daf/interfacepocketmine_1_1block_1_1utils_1_1_horizontal_facing.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="585,-235 464,-235 464,-160 585,-160 585,-235"/>
+<text text-anchor="start" x="469.5" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
+<text text-anchor="start" x="482.5" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">\HorizontalFacing</text>
+<text text-anchor="start" x="523" y="-196.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="479.5" y="-181.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="503.5" y="-181.5" font-family="Helvetica,sans-Serif" font-size="10.00">getFacing()</text>
+<text text-anchor="start" x="479.5" y="-166.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="503.5" y="-166.5" font-family="Helvetica,sans-Serif" font-size="10.00">setFacing()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="464.5,-206.5 464.5,-206.5 585.5,-206.5 585.5,-206.5 464.5,-206.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="464.5,-191.5 464.5,-191.5 585.5,-191.5 585.5,-191.5 464.5,-191.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="464,-160 464,-235 585,-235 585,-160 464,-160"/>
+</a>
+</g>
+</g>
+<!-- Node7&#45;&gt;Node1 -->
+<g id="edge6_Node000001_Node000007" class="edge">
+<title>Node7&#45;&gt;Node1</title>
+<g id="a_edge6_Node000001_Node000007"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M458.66,-154.45C436.23,-140.11 411.02,-124.02 388.09,-109.37"/>
+<polygon fill="none" stroke="#63b8ff" points="456.8,-157.41 467.11,-159.84 460.57,-151.51 456.8,-157.41"/>
 </a>
 </g>
 </g>

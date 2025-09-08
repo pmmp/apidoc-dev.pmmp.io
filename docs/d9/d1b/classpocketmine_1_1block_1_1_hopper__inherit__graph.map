@@ -1,9 +1,13 @@
 <map id="pocketmine\block\Hopper" name="pocketmine\block\Hopper">
-<area shape="rect" id="Node000001" title=" " alt="" coords="119,687,325,892"/>
-<area shape="rect" id="Node000002" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="13,556,223,621"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,632,171,685,166,688,138,635"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="235,687,441,892"/>
+<area shape="rect" id="Node000002" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="20,556,229,621"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,629,237,691,233,695,167,633"/>
 <area shape="rect" id="Node000003" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="5,5,231,491"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,504,121,556,115,556,115,504"/>
-<area shape="rect" id="Node000004" href="$d0/db8/interfacepocketmine_1_1block_1_1utils_1_1_powered_by_redstone.html" title=" " alt="" coords="247,539,408,639"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="297,652,278,688,274,685,293,650"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="126,504,127,556,121,556,120,504"/>
+<area shape="rect" id="Node000004" href="$d6/dbd/interfacepocketmine_1_1block_1_1utils_1_1_container.html" title=" " alt="" coords="257,539,419,639"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="341,652,341,687,335,687,335,652"/>
+<area shape="rect" id="Node000005" href="$d2/dc0/interfacepocketmine_1_1block_1_1utils_1_1_menu_accessor.html" title=" " alt="" coords="255,198,429,298"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="344,312,341,539,336,539,339,311"/>
+<area shape="rect" id="Node000006" href="$d0/db8/interfacepocketmine_1_1block_1_1utils_1_1_powered_by_redstone.html" title=" " alt="" coords="443,539,604,639"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="470,651,435,688,431,685,466,647"/>
 </map>

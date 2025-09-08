@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.33.2 git-77ce07d065c5f14ffd50741c72dbef3004f34620</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.33.2 git-1133d49c924b4358c79d44eeb97dcbf56cb4d1eb</span>
    </div>
   </td>
  </tr>
@@ -129,32 +129,28 @@ $(function(){initNavTree('d6/d50/_container_8php_source.html','../../'); initRes
 <div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span> </div>
 <div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span>declare(strict_types=1);</div>
 <div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span> </div>
-<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span><span class="keyword">namespace </span><a class="code hl_namespace" href="../../db/dba/namespacepocketmine_1_1block_1_1tile.html">pocketmine\block\tile</a>;</div>
+<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span><span class="keyword">namespace </span>pocketmine\block\utils;</div>
 <div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span> </div>
 <div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>use <a class="code hl_interface" href="../../db/d39/interfacepocketmine_1_1inventory_1_1_inventory.html">pocketmine\inventory\Inventory</a>;</div>
-<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>use <a class="code hl_interface" href="../../d2/d91/interfacepocketmine_1_1inventory_1_1_inventory_holder.html">pocketmine\inventory\InventoryHolder</a>;</div>
-<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span> </div>
-<div class="foldopen" id="foldopen00029" data-start="{" data-end="};">
-<div class="line"><a id="l00029" name="l00029"></a><span class="lineno"><a class="line" href="../../d9/de1/interfacepocketmine_1_1block_1_1tile_1_1_container.html">   29</a></span><span class="keyword">interface </span><a class="code hl_interface" href="../../d9/de1/interfacepocketmine_1_1block_1_1tile_1_1_container.html">Container</a> <span class="keyword">extends</span> <a class="code hl_interface" href="../../d2/d91/interfacepocketmine_1_1inventory_1_1_inventory_holder.html">InventoryHolder</a>{</div>
-<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>    <span class="keyword">public</span> <span class="keyword">const</span> TAG_ITEMS = <span class="stringliteral">&quot;Items&quot;</span>;</div>
-<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>    <span class="keyword">public</span> <span class="keyword">const</span> TAG_LOCK = <span class="stringliteral">&quot;Lock&quot;</span>;</div>
-<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span> </div>
-<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>    <span class="keyword">public</span> <span class="keyword">function</span> getRealInventory() : <a class="code hl_interface" href="../../db/d39/interfacepocketmine_1_1inventory_1_1_inventory.html">Inventory</a>;</div>
-<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span> </div>
-<div class="line"><a id="l00038" name="l00038"></a><span class="lineno"><a class="line" href="../../d9/de1/interfacepocketmine_1_1block_1_1tile_1_1_container.html#add39024dfb6bffdde18e92b43fc0554c">   38</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d9/de1/interfacepocketmine_1_1block_1_1tile_1_1_container.html#add39024dfb6bffdde18e92b43fc0554c">canOpenWith</a>(<span class="keywordtype">string</span> $key) : bool;</div>
-<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>}</div>
+<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span> </div>
+<div class="foldopen" id="foldopen00032" data-start="{" data-end="};">
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno"><a class="line" href="../../d6/dbd/interfacepocketmine_1_1block_1_1utils_1_1_container.html">   32</a></span><span class="keyword">interface </span><a class="code hl_interface" href="../../d6/dbd/interfacepocketmine_1_1block_1_1utils_1_1_container.html">Container</a> <span class="keyword">extends</span> <a class="code hl_interface" href="../../d2/dc0/interfacepocketmine_1_1block_1_1utils_1_1_menu_accessor.html">MenuAccessor</a>{</div>
+<div class="line"><a id="l00036" name="l00036"></a><span class="lineno"><a class="line" href="../../d6/dbd/interfacepocketmine_1_1block_1_1utils_1_1_container.html#a121e827fefa099fbc9a4e045d9a30f57">   36</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d6/dbd/interfacepocketmine_1_1block_1_1utils_1_1_container.html#a121e827fefa099fbc9a4e045d9a30f57">canOpenWith</a>(<span class="keywordtype">string</span> $key) : bool;</div>
+<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span> </div>
+<div class="line"><a id="l00043" name="l00043"></a><span class="lineno"><a class="line" href="../../d6/dbd/interfacepocketmine_1_1block_1_1utils_1_1_container.html#aaefed762bcd424813c990d670c0fbd50">   43</a></span>    <span class="keyword">public</span> <span class="keyword">function</span> <a class="code hl_function" href="../../d6/dbd/interfacepocketmine_1_1block_1_1utils_1_1_container.html#aaefed762bcd424813c990d670c0fbd50">getInventory</a>() : ?<a class="code hl_interface" href="../../db/d39/interfacepocketmine_1_1inventory_1_1_inventory.html">Inventory</a>;</div>
+<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>}</div>
 </div>
-<div class="ttc" id="ainterfacepocketmine_1_1block_1_1tile_1_1_container_html"><div class="ttname"><a href="../../d9/de1/interfacepocketmine_1_1block_1_1tile_1_1_container.html">pocketmine\block\tile\Container</a></div><div class="ttdef"><b>Definition</b> <a href="#l00029">Container.php:29</a></div></div>
-<div class="ttc" id="ainterfacepocketmine_1_1block_1_1tile_1_1_container_html_add39024dfb6bffdde18e92b43fc0554c"><div class="ttname"><a href="../../d9/de1/interfacepocketmine_1_1block_1_1tile_1_1_container.html#add39024dfb6bffdde18e92b43fc0554c">pocketmine\block\tile\Container\canOpenWith</a></div><div class="ttdeci">canOpenWith(string $key)</div></div>
-<div class="ttc" id="ainterfacepocketmine_1_1inventory_1_1_inventory_holder_html"><div class="ttname"><a href="../../d2/d91/interfacepocketmine_1_1inventory_1_1_inventory_holder.html">pocketmine\inventory\InventoryHolder</a></div><div class="ttdef"><b>Definition</b> <a href="../../d5/d33/_inventory_holder_8php_source.html#l00026">InventoryHolder.php:26</a></div></div>
-<div class="ttc" id="ainterfacepocketmine_1_1inventory_1_1_inventory_html"><div class="ttname"><a href="../../db/d39/interfacepocketmine_1_1inventory_1_1_inventory.html">pocketmine\inventory\Inventory</a></div><div class="ttdef"><b>Definition</b> <a href="../../d2/d3b/_inventory_8php_source.html#l00033">Inventory.php:33</a></div></div>
-<div class="ttc" id="anamespacepocketmine_1_1block_1_1tile_html"><div class="ttname"><a href="../../db/dba/namespacepocketmine_1_1block_1_1tile.html">pocketmine\block\tile</a></div><div class="ttdef"><b>Definition</b> <a href="../../d6/d49/block_2tile_2_banner_8php_source.html#l00024">block/tile/Banner.php:24</a></div></div>
+<div class="ttc" id="ainterfacepocketmine_1_1block_1_1utils_1_1_container_html"><div class="ttname"><a href="../../d6/dbd/interfacepocketmine_1_1block_1_1utils_1_1_container.html">pocketmine\block\utils\Container</a></div><div class="ttdef"><b>Definition</b> <a href="#l00032">Container.php:32</a></div></div>
+<div class="ttc" id="ainterfacepocketmine_1_1block_1_1utils_1_1_container_html_a121e827fefa099fbc9a4e045d9a30f57"><div class="ttname"><a href="../../d6/dbd/interfacepocketmine_1_1block_1_1utils_1_1_container.html#a121e827fefa099fbc9a4e045d9a30f57">pocketmine\block\utils\Container\canOpenWith</a></div><div class="ttdeci">canOpenWith(string $key)</div></div>
+<div class="ttc" id="ainterfacepocketmine_1_1block_1_1utils_1_1_container_html_aaefed762bcd424813c990d670c0fbd50"><div class="ttname"><a href="../../d6/dbd/interfacepocketmine_1_1block_1_1utils_1_1_container.html#aaefed762bcd424813c990d670c0fbd50">pocketmine\block\utils\Container\getInventory</a></div><div class="ttdeci">getInventory()</div></div>
+<div class="ttc" id="ainterfacepocketmine_1_1block_1_1utils_1_1_menu_accessor_html"><div class="ttname"><a href="../../d2/dc0/interfacepocketmine_1_1block_1_1utils_1_1_menu_accessor.html">pocketmine\block\utils\MenuAccessor</a></div><div class="ttdef"><b>Definition</b> <a href="../../d3/d4d/_menu_accessor_8php_source.html#l00032">MenuAccessor.php:32</a></div></div>
+<div class="ttc" id="ainterfacepocketmine_1_1inventory_1_1_inventory_html"><div class="ttname"><a href="../../db/d39/interfacepocketmine_1_1inventory_1_1_inventory.html">pocketmine\inventory\Inventory</a></div><div class="ttdef"><b>Definition</b> <a href="../../d2/d3b/_inventory_8php_source.html#l00034">Inventory.php:34</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="../../dir_46a300e4974f45ffe4be063a03f2fd9d.html">block</a></li><li class="navelem"><a class="el" href="../../dir_046b3d45760c1b746efcebdccdb0c4e6.html">tile</a></li><li class="navelem"><b>Container.php</b></li>
+    <li class="navelem"><a class="el" href="../../dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="../../dir_46a300e4974f45ffe4be063a03f2fd9d.html">block</a></li><li class="navelem"><a class="el" href="../../dir_eb5c35eebaf6ab74591a06573b7be797.html">utils</a></li><li class="navelem"><b>Container.php</b></li>
     <li class="footer">Generated by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.12.0 </li>
   </ul>
 </div>

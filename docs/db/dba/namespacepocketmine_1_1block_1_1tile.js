@@ -12,7 +12,7 @@ var namespacepocketmine_1_1block_1_1tile =
     [ "Chest", "d9/d64/classpocketmine_1_1block_1_1tile_1_1_chest.html", "d9/d64/classpocketmine_1_1block_1_1tile_1_1_chest" ],
     [ "ChiseledBookshelf", "d5/ddf/classpocketmine_1_1block_1_1tile_1_1_chiseled_bookshelf.html", "d5/ddf/classpocketmine_1_1block_1_1tile_1_1_chiseled_bookshelf" ],
     [ "Comparator", "df/de7/classpocketmine_1_1block_1_1tile_1_1_comparator.html", "df/de7/classpocketmine_1_1block_1_1tile_1_1_comparator" ],
-    [ "Container", "d9/de1/interfacepocketmine_1_1block_1_1tile_1_1_container.html", "d9/de1/interfacepocketmine_1_1block_1_1tile_1_1_container" ],
+    [ "ContainerTile", "de/d93/interfacepocketmine_1_1block_1_1tile_1_1_container_tile.html", "de/d93/interfacepocketmine_1_1block_1_1tile_1_1_container_tile" ],
     [ "DaylightSensor", "de/df4/classpocketmine_1_1block_1_1tile_1_1_daylight_sensor.html", "de/df4/classpocketmine_1_1block_1_1tile_1_1_daylight_sensor" ],
     [ "EnchantTable", "df/d38/classpocketmine_1_1block_1_1tile_1_1_enchant_table.html", "df/d38/classpocketmine_1_1block_1_1tile_1_1_enchant_table" ],
     [ "EnderChest", "d4/d65/classpocketmine_1_1block_1_1tile_1_1_ender_chest.html", "d4/d65/classpocketmine_1_1block_1_1tile_1_1_ender_chest" ],
@@ -40,6 +40,6 @@ var namespacepocketmine_1_1block_1_1tile =
     [ "copyDataFromItem", "db/dba/namespacepocketmine_1_1block_1_1tile.html#ac76a990f17e2485a82e0e6aa811e824f", null ],
     [ "getPosition", "db/dba/namespacepocketmine_1_1block_1_1tile.html#a038dc192c49ffb08dd35be026126841a", null ],
     [ "onBlockDestroyedHook", "db/dba/namespacepocketmine_1_1block_1_1tile.html#a394bc8d12f9a7133597abdc62e6edab0", null ],
-    [ "ContainerTrait", "db/dba/namespacepocketmine_1_1block_1_1tile.html#ae569096e2d912dc5e923d0330da10368", null ],
+    [ "ContainerTileTrait", "db/dba/namespacepocketmine_1_1block_1_1tile.html#ad184247e003e85697ca75b4deb9ad430", null ],
     [ "NameableTrait", "db/dba/namespacepocketmine_1_1block_1_1tile.html#a54f3b4288bddac560a6ab91ddeab2bb1", null ]
 ];

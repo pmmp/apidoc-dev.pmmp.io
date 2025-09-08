@@ -1,27 +1,31 @@
 <map id="pocketmine\block\Furnace" name="pocketmine\block\Furnace">
-<area shape="rect" id="Node000001" title=" " alt="" coords="467,2587,661,2752"/>
-<area shape="rect" id="Node000002" href="$db/dc5/classpocketmine_1_1block_1_1_opaque.html" title=" " alt="" coords="277,2455,459,2520"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="414,2527,477,2585,473,2589,411,2531"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="630,2587,823,2752"/>
+<area shape="rect" id="Node000002" href="$db/dc5/classpocketmine_1_1block_1_1_opaque.html" title=" " alt="" coords="294,2455,477,2520"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="459,2524,631,2615,628,2619,456,2529"/>
 <area shape="rect" id="Node000003" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="255,1963,481,2388"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,2402,371,2454,365,2454,365,2402"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="383,2402,386,2454,381,2455,378,2402"/>
 <area shape="rect" id="Node000004" href="$dd/d18/classpocketmine_1_1block_1_1_block_identifier.html" title=" " alt="" coords="5,1745,232,1850"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="155,1849,248,1989,244,1992,151,1852"/>
 <area shape="rect" id="Node000005" href="$de/d9a/classpocketmine_1_1block_1_1_block_type_info.html" title=" " alt="" coords="256,1725,480,1870"/>
 <area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="371,1870,371,1946,365,1946,365,1870"/>
 <area shape="rect" id="Node000006" href="$d5/dd2/classpocketmine_1_1world_1_1_position.html" title=" " alt="" coords="504,1695,691,1900"/>
-<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="538,1902,491,1977,487,1974,533,1899"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="533,1902,494,1964,492,1969,487,1966,490,1961,529,1899"/>
 <area shape="rect" id="Node000007" href="$d2/d90/classpocketmine_1_1math_1_1_vector3.html" title=" " alt="" coords="439,1149,620,1495"/>
 <area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="559,1508,585,1694,580,1695,553,1509"/>
 <area shape="rect" id="Node000008" href="$d4/d2b/classpocketmine_1_1world_1_1_world.html" title=" " alt="" coords="644,1012,865,1632"/>
 <area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="654,1633,639,1680,634,1678,649,1631"/>
-<area shape="rect" id="Node000009" href="$d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html" title=" " alt="" coords="565,689,797,875"/>
-<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="698,888,715,1011,710,1012,693,889"/>
-<area shape="rect" id="Node000010" href="$d7/d08/classpocketmine_1_1world_1_1_world_timings.html" title=" " alt="" coords="822,615,1045,949"/>
-<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="881,951,865,997,860,996,875,949"/>
-<area shape="rect" id="Node000011" href="$d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html" title=" " alt="" coords="827,5,1040,405"/>
-<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="936,405,936,598,931,598,931,405"/>
-<area shape="rect" id="Node000012" href="$d4/de8/interfacepocketmine_1_1block_1_1utils_1_1_lightable.html" title=" " alt="" coords="483,2437,645,2537"/>
-<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="567,2551,567,2587,561,2587,561,2551"/>
-<area shape="rect" id="Node000013" href="$d7/daf/interfacepocketmine_1_1block_1_1utils_1_1_horizontal_facing.html" title=" " alt="" coords="669,2437,830,2537"/>
-<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="691,2549,650,2589,646,2585,687,2545"/>
+<area shape="rect" id="Node000009" href="$d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html" title=" " alt="" coords="564,689,796,875"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="697,888,714,1011,709,1012,692,889"/>
+<area shape="rect" id="Node000010" href="$d7/d08/classpocketmine_1_1world_1_1_world_timings.html" title=" " alt="" coords="821,615,1043,949"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="880,951,864,997,859,996,875,949"/>
+<area shape="rect" id="Node000011" href="$d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html" title=" " alt="" coords="825,5,1039,405"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="935,405,935,598,929,598,929,405"/>
+<area shape="rect" id="Node000012" href="$d6/dbd/interfacepocketmine_1_1block_1_1utils_1_1_container.html" title=" " alt="" coords="507,2437,669,2537"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="636,2547,666,2585,662,2588,632,2550"/>
+<area shape="rect" id="Node000013" href="$d2/dc0/interfacepocketmine_1_1block_1_1utils_1_1_menu_accessor.html" title=" " alt="" coords="505,2125,679,2225"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="594,2239,591,2437,586,2437,589,2239"/>
+<area shape="rect" id="Node000014" href="$d4/de8/interfacepocketmine_1_1block_1_1utils_1_1_lightable.html" title=" " alt="" coords="693,2437,854,2537"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="760,2552,750,2587,745,2586,755,2550"/>
+<area shape="rect" id="Node000015" href="$d7/daf/interfacepocketmine_1_1block_1_1utils_1_1_horizontal_facing.html" title=" " alt="" coords="878,2437,1039,2537"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="886,2548,825,2595,822,2591,883,2544"/>
 </map>

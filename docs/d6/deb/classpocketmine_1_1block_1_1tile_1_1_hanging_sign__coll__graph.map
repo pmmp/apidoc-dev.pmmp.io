@@ -1,9 +1,9 @@
 <map id="pocketmine\block\tile\HangingSign" name="pocketmine\block\tile\HangingSign">
-<area shape="rect" id="Node000001" title=" " alt="" coords="505,3135,660,3215"/>
-<area shape="rect" id="Node000002" href="$d7/d0d/classpocketmine_1_1block_1_1tile_1_1_sign.html" title=" " alt="" coords="466,2640,699,3085"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="585,3099,585,3135,580,3135,580,3099"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="505,3189,660,3269"/>
+<area shape="rect" id="Node000002" href="$d7/d0d/classpocketmine_1_1block_1_1tile_1_1_sign.html" title=" " alt="" coords="466,2655,699,3140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="585,3154,585,3189,580,3189,580,3154"/>
 <area shape="rect" id="Node000003" href="$dc/d0b/classpocketmine_1_1block_1_1tile_1_1_spawnable.html" title=" " alt="" coords="347,2400,592,2575"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="502,2587,518,2639,513,2641,497,2589"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="500,2588,518,2654,513,2655,494,2589"/>
 <area shape="rect" id="Node000004" href="$d9/d74/classpocketmine_1_1block_1_1tile_1_1_tile.html" title=" " alt="" coords="373,1963,565,2348"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="472,2362,472,2400,467,2400,467,2362"/>
 <area shape="rect" id="Node000005" href="$d5/dd2/classpocketmine_1_1world_1_1_position.html" title=" " alt="" coords="280,1695,467,1900"/>
@@ -20,5 +20,5 @@
 <area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="543,405,549,429,567,526,572,603,568,781,568,1799,562,1873,548,1947,542,1946,557,1872,563,1799,563,781,567,604,562,527,544,430,538,407"/>
 <area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="349,407,343,430,335,471,332,514,336,598,331,598,327,513,330,471,337,429,344,405"/>
 <area shape="rect" id="Node000011" href="$d3/d1c/classpocketmine_1_1block_1_1utils_1_1_sign_text.html" title=" " alt="" coords="617,2397,778,2577"/>
-<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="673,2578,658,2625,653,2623,667,2577"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="675,2578,658,2639,653,2638,670,2577"/>
 </map>

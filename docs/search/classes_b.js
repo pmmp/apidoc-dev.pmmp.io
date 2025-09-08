@@ -63,7 +63,7 @@ var searchData=
   ['longmetadataproperty_60',['LongMetadataProperty',['../d5/d92/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_long_metadata_property.html',1,'pocketmine::network::mcpe::protocol::types::entity']]],
   ['longtag_61',['LongTag',['../d1/d29/classpocketmine_1_1nbt_1_1tag_1_1_long_tag.html',1,'pocketmine::nbt::tag']]],
   ['loom_62',['Loom',['../df/d1f/classpocketmine_1_1block_1_1_loom.html',1,'pocketmine::block']]],
-  ['loominventory_63',['LoomInventory',['../db/d8d/classpocketmine_1_1block_1_1inventory_1_1_loom_inventory.html',1,'pocketmine::block::inventory']]],
+  ['loominventorywindow_63',['LoomInventoryWindow',['../d8/d95/classpocketmine_1_1block_1_1inventory_1_1window_1_1_loom_inventory_window.html',1,'pocketmine::block::inventory::window']]],
   ['loomstackrequestaction_64',['LoomStackRequestAction',['../d6/d9a/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_loom_stack_request_action.html',1,'pocketmine::network::mcpe::protocol::types::inventory::stackrequest']]],
   ['lowmemoryevent_65',['LowMemoryEvent',['../df/def/classpocketmine_1_1event_1_1server_1_1_low_memory_event.html',1,'pocketmine::event::server']]]
 ];

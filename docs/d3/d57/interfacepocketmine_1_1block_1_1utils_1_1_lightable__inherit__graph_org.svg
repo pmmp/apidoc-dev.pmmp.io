@@ -209,11 +209,11 @@
 <text text-anchor="start" x="725" y="-257" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="738" y="-257" font-family="Helvetica,sans-Serif" font-size="10.00">getLightLevel()</text>
 <text text-anchor="start" x="725" y="-242" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="738" y="-242" font-family="Helvetica,sans-Serif" font-size="10.00">onInteract()</text>
-<text text-anchor="start" x="725" y="-227" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="738" y="-227" font-family="Helvetica,sans-Serif" font-size="10.00">onScheduledUpdate()</text>
+<text text-anchor="start" x="738" y="-242" font-family="Helvetica,sans-Serif" font-size="10.00">onScheduledUpdate()</text>
+<text text-anchor="start" x="725" y="-227" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="738" y="-227" font-family="Helvetica,sans-Serif" font-size="10.00">describeBlockOnlyState()</text>
 <text text-anchor="start" x="725" y="-212" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="738" y="-212" font-family="Helvetica,sans-Serif" font-size="10.00">describeBlockOnlyState()</text>
+<text text-anchor="start" x="738" y="-212" font-family="Helvetica,sans-Serif" font-size="10.00">newMenu()</text>
 <polygon fill="#bfbfbf" stroke="#bfbfbf" points="721,-312 721,-312 866,-312 866,-312 721,-312"/>
 <polygon fill="#bfbfbf" stroke="#bfbfbf" points="721,-297 721,-297 736,-297 736,-297 721,-297"/>
 <polygon fill="#bfbfbf" stroke="#bfbfbf" points="736,-297 736,-297 866,-297 866,-297 736,-297"/>

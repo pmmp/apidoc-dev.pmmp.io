@@ -424,24 +424,6 @@ var hierarchy =
     [ "pocketmine\\block\\utils\\BlockEventHelper", "d4/d5d/classpocketmine_1_1block_1_1utils_1_1_block_event_helper.html", null ],
     [ "pocketmine\\block\\BlockIdentifier", "dd/d18/classpocketmine_1_1block_1_1_block_identifier.html", null ],
     [ "pocketmine\\data\\bedrock\\block\\upgrade\\BlockIdMetaUpgrader", "df/db9/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_id_meta_upgrader.html", null ],
-    [ "pocketmine\\block\\inventory\\BlockInventory", "d4/d3a/interfacepocketmine_1_1block_1_1inventory_1_1_block_inventory.html", [
-      [ "pocketmine\\block\\inventory\\AnvilInventory", "d6/d6d/classpocketmine_1_1block_1_1inventory_1_1_anvil_inventory.html", null ],
-      [ "pocketmine\\block\\inventory\\BarrelInventory", "d6/d7b/classpocketmine_1_1block_1_1inventory_1_1_barrel_inventory.html", null ],
-      [ "pocketmine\\block\\inventory\\BrewingStandInventory", "db/d3b/classpocketmine_1_1block_1_1inventory_1_1_brewing_stand_inventory.html", null ],
-      [ "pocketmine\\block\\inventory\\CampfireInventory", "da/d73/classpocketmine_1_1block_1_1inventory_1_1_campfire_inventory.html", null ],
-      [ "pocketmine\\block\\inventory\\CartographyTableInventory", "db/d85/classpocketmine_1_1block_1_1inventory_1_1_cartography_table_inventory.html", null ],
-      [ "pocketmine\\block\\inventory\\ChestInventory", "da/d24/classpocketmine_1_1block_1_1inventory_1_1_chest_inventory.html", null ],
-      [ "pocketmine\\block\\inventory\\CraftingTableInventory", "de/def/classpocketmine_1_1block_1_1inventory_1_1_crafting_table_inventory.html", null ],
-      [ "pocketmine\\block\\inventory\\DoubleChestInventory", "d3/d26/classpocketmine_1_1block_1_1inventory_1_1_double_chest_inventory.html", null ],
-      [ "pocketmine\\block\\inventory\\EnchantInventory", "d6/d4e/classpocketmine_1_1block_1_1inventory_1_1_enchant_inventory.html", null ],
-      [ "pocketmine\\block\\inventory\\EnderChestInventory", "d5/dd0/classpocketmine_1_1block_1_1inventory_1_1_ender_chest_inventory.html", null ],
-      [ "pocketmine\\block\\inventory\\FurnaceInventory", "d8/d69/classpocketmine_1_1block_1_1inventory_1_1_furnace_inventory.html", null ],
-      [ "pocketmine\\block\\inventory\\HopperInventory", "d0/dc5/classpocketmine_1_1block_1_1inventory_1_1_hopper_inventory.html", null ],
-      [ "pocketmine\\block\\inventory\\LoomInventory", "db/d8d/classpocketmine_1_1block_1_1inventory_1_1_loom_inventory.html", null ],
-      [ "pocketmine\\block\\inventory\\ShulkerBoxInventory", "d4/db4/classpocketmine_1_1block_1_1inventory_1_1_shulker_box_inventory.html", null ],
-      [ "pocketmine\\block\\inventory\\SmithingTableInventory", "dd/d95/classpocketmine_1_1block_1_1inventory_1_1_smithing_table_inventory.html", null ],
-      [ "pocketmine\\block\\inventory\\StonecutterInventory", "db/d21/classpocketmine_1_1block_1_1inventory_1_1_stonecutter_inventory.html", null ]
-    ] ],
     [ "pocketmine\\data\\bedrock\\item\\BlockItemIdMap", "d1/d52/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_block_item_id_map.html", null ],
     [ "pocketmine\\data\\bedrock\\block\\BlockLegacyMetadata", "df/d5e/classpocketmine_1_1data_1_1bedrock_1_1block_1_1_block_legacy_metadata.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\BlockPaletteEntry", "dc/d64/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_block_palette_entry.html", null ],
@@ -720,7 +702,7 @@ var hierarchy =
     [ "pocketmine\\network\\mcpe\\protocol\\types\\command\\CommandPermissions", "d1/dfa/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_permissions.html", null ],
     [ "pocketmine\\command\\utils\\CommandStringHelper", "d7/ddc/classpocketmine_1_1command_1_1utils_1_1_command_string_helper.html", null ],
     [ "pocketmine\\data\\bedrock\\block\\convert\\property\\CommonProperties", "d2/d7b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_common_properties.html", null ],
-    [ "pocketmine\\network\\mcpe\\ComplexInventoryMapEntry", "da/d18/classpocketmine_1_1network_1_1mcpe_1_1_complex_inventory_map_entry.html", null ],
+    [ "pocketmine\\network\\mcpe\\ComplexWindowMapEntry", "db/d59/classpocketmine_1_1network_1_1mcpe_1_1_complex_window_map_entry.html", null ],
     [ "pocketmine\\data\\bedrock\\CompoundTypeIds", "d1/d35/classpocketmine_1_1data_1_1bedrock_1_1_compound_type_ids.html", null ],
     [ "pocketmine\\network\\mcpe\\compression\\CompressBatchPromise", "d4/d17/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_compress_batch_promise.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\CompressionAlgorithm", "d3/d28/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_compression_algorithm.html", null ],
@@ -1157,6 +1139,7 @@ var hierarchy =
       [ "pocketmine\\block\\WallHangingSign", "da/df3/classpocketmine_1_1block_1_1_wall_hanging_sign.html", null ],
       [ "pocketmine\\block\\WallSign", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html", null ]
     ] ],
+    [ "pocketmine\\inventory\\Hotbar", "d5/d49/classpocketmine_1_1inventory_1_1_hotbar.html", null ],
     [ "pocketmine\\entity\\HungerManager", "d0/dfc/classpocketmine_1_1entity_1_1_hunger_manager.html", null ],
     [ "pocketmine\\item\\enchantment\\IncompatibleEnchantmentGroups", "da/d7a/classpocketmine_1_1item_1_1enchantment_1_1_incompatible_enchantment_groups.html", null ],
     [ "pocketmine\\item\\enchantment\\IncompatibleEnchantmentRegistry", "de/dbf/classpocketmine_1_1item_1_1enchantment_1_1_incompatible_enchantment_registry.html", null ],
@@ -1178,46 +1161,12 @@ var hierarchy =
     ] ],
     [ "pocketmine\\inventory\\Inventory", "db/d39/interfacepocketmine_1_1inventory_1_1_inventory.html", [
       [ "pocketmine\\inventory\\BaseInventory", "d5/dc4/classpocketmine_1_1inventory_1_1_base_inventory.html", [
-        [ "pocketmine\\block\\inventory\\DoubleChestInventory", "d3/d26/classpocketmine_1_1block_1_1inventory_1_1_double_chest_inventory.html", null ],
-        [ "pocketmine\\inventory\\DelegateInventory", "d2/d0e/classpocketmine_1_1inventory_1_1_delegate_inventory.html", [
-          [ "pocketmine\\block\\inventory\\EnderChestInventory", "d5/dd0/classpocketmine_1_1block_1_1inventory_1_1_ender_chest_inventory.html", null ]
-        ] ],
+        [ "pocketmine\\inventory\\CombinedInventoryProxy", "dd/dcb/classpocketmine_1_1inventory_1_1_combined_inventory_proxy.html", null ],
         [ "pocketmine\\inventory\\SimpleInventory", "d6/dc1/classpocketmine_1_1inventory_1_1_simple_inventory.html", [
-          [ "pocketmine\\block\\inventory\\AnvilInventory", "d6/d6d/classpocketmine_1_1block_1_1inventory_1_1_anvil_inventory.html", null ],
-          [ "pocketmine\\block\\inventory\\BarrelInventory", "d6/d7b/classpocketmine_1_1block_1_1inventory_1_1_barrel_inventory.html", null ],
-          [ "pocketmine\\block\\inventory\\BrewingStandInventory", "db/d3b/classpocketmine_1_1block_1_1inventory_1_1_brewing_stand_inventory.html", null ],
-          [ "pocketmine\\block\\inventory\\CampfireInventory", "da/d73/classpocketmine_1_1block_1_1inventory_1_1_campfire_inventory.html", null ],
-          [ "pocketmine\\block\\inventory\\CartographyTableInventory", "db/d85/classpocketmine_1_1block_1_1inventory_1_1_cartography_table_inventory.html", null ],
-          [ "pocketmine\\block\\inventory\\ChestInventory", "da/d24/classpocketmine_1_1block_1_1inventory_1_1_chest_inventory.html", null ],
-          [ "pocketmine\\block\\inventory\\EnchantInventory", "d6/d4e/classpocketmine_1_1block_1_1inventory_1_1_enchant_inventory.html", null ],
-          [ "pocketmine\\block\\inventory\\FurnaceInventory", "d8/d69/classpocketmine_1_1block_1_1inventory_1_1_furnace_inventory.html", null ],
-          [ "pocketmine\\block\\inventory\\HopperInventory", "d0/dc5/classpocketmine_1_1block_1_1inventory_1_1_hopper_inventory.html", null ],
-          [ "pocketmine\\block\\inventory\\LoomInventory", "db/d8d/classpocketmine_1_1block_1_1inventory_1_1_loom_inventory.html", null ],
-          [ "pocketmine\\block\\inventory\\ShulkerBoxInventory", "d4/db4/classpocketmine_1_1block_1_1inventory_1_1_shulker_box_inventory.html", null ],
-          [ "pocketmine\\block\\inventory\\SmithingTableInventory", "dd/d95/classpocketmine_1_1block_1_1inventory_1_1_smithing_table_inventory.html", null ],
-          [ "pocketmine\\block\\inventory\\StonecutterInventory", "db/d21/classpocketmine_1_1block_1_1inventory_1_1_stonecutter_inventory.html", null ],
-          [ "pocketmine\\crafting\\CraftingGrid", "de/d7a/classpocketmine_1_1crafting_1_1_crafting_grid.html", [
-            [ "pocketmine\\block\\inventory\\CraftingTableInventory", "de/def/classpocketmine_1_1block_1_1inventory_1_1_crafting_table_inventory.html", null ],
-            [ "pocketmine\\inventory\\PlayerCraftingInventory", "d5/db9/classpocketmine_1_1inventory_1_1_player_crafting_inventory.html", null ]
-          ] ],
-          [ "pocketmine\\inventory\\ArmorInventory", "d0/d70/classpocketmine_1_1inventory_1_1_armor_inventory.html", null ],
-          [ "pocketmine\\inventory\\PlayerCursorInventory", "d3/d37/classpocketmine_1_1inventory_1_1_player_cursor_inventory.html", null ],
-          [ "pocketmine\\inventory\\PlayerEnderInventory", "d4/df7/classpocketmine_1_1inventory_1_1_player_ender_inventory.html", null ],
-          [ "pocketmine\\inventory\\PlayerInventory", "dc/d77/classpocketmine_1_1inventory_1_1_player_inventory.html", null ],
-          [ "pocketmine\\inventory\\PlayerOffHandInventory", "d0/d89/classpocketmine_1_1inventory_1_1_player_off_hand_inventory.html", null ]
+          [ "pocketmine\\crafting\\CraftingGrid", "de/d7a/classpocketmine_1_1crafting_1_1_crafting_grid.html", null ],
+          [ "pocketmine\\inventory\\ArmorInventory", "d0/d70/classpocketmine_1_1inventory_1_1_armor_inventory.html", null ]
         ] ],
-        [ "pocketmine\\inventory\\transaction\\TransactionBuilderInventory", "db/d05/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_builder_inventory.html", null ]
-      ] ],
-      [ "pocketmine\\inventory\\TemporaryInventory", "d5/d7b/interfacepocketmine_1_1inventory_1_1_temporary_inventory.html", [
-        [ "pocketmine\\block\\inventory\\AnvilInventory", "d6/d6d/classpocketmine_1_1block_1_1inventory_1_1_anvil_inventory.html", null ],
-        [ "pocketmine\\block\\inventory\\CartographyTableInventory", "db/d85/classpocketmine_1_1block_1_1inventory_1_1_cartography_table_inventory.html", null ],
-        [ "pocketmine\\block\\inventory\\CraftingTableInventory", "de/def/classpocketmine_1_1block_1_1inventory_1_1_crafting_table_inventory.html", null ],
-        [ "pocketmine\\block\\inventory\\EnchantInventory", "d6/d4e/classpocketmine_1_1block_1_1inventory_1_1_enchant_inventory.html", null ],
-        [ "pocketmine\\block\\inventory\\LoomInventory", "db/d8d/classpocketmine_1_1block_1_1inventory_1_1_loom_inventory.html", null ],
-        [ "pocketmine\\block\\inventory\\SmithingTableInventory", "dd/d95/classpocketmine_1_1block_1_1inventory_1_1_smithing_table_inventory.html", null ],
-        [ "pocketmine\\block\\inventory\\StonecutterInventory", "db/d21/classpocketmine_1_1block_1_1inventory_1_1_stonecutter_inventory.html", null ],
-        [ "pocketmine\\inventory\\PlayerCraftingInventory", "d5/db9/classpocketmine_1_1inventory_1_1_player_crafting_inventory.html", null ],
-        [ "pocketmine\\inventory\\PlayerCursorInventory", "d3/d37/classpocketmine_1_1inventory_1_1_player_cursor_inventory.html", null ]
+        [ "pocketmine\\inventory\\transaction\\SlotChangeActionBuilder", "d9/de2/classpocketmine_1_1inventory_1_1transaction_1_1_slot_change_action_builder.html", null ]
       ] ]
     ] ],
     [ "pocketmine\\inventory\\transaction\\action\\InventoryAction", "df/def/classpocketmine_1_1inventory_1_1transaction_1_1action_1_1_inventory_action.html", [
@@ -1227,8 +1176,7 @@ var hierarchy =
       [ "pocketmine\\inventory\\transaction\\action\\SlotChangeAction", "d9/dc8/classpocketmine_1_1inventory_1_1transaction_1_1action_1_1_slot_change_action.html", null ]
     ] ],
     [ "pocketmine\\inventory\\InventoryHolder", "d2/d91/interfacepocketmine_1_1inventory_1_1_inventory_holder.html", [
-      [ "pocketmine\\block\\inventory\\DoubleChestInventory", "d3/d26/classpocketmine_1_1block_1_1inventory_1_1_double_chest_inventory.html", null ],
-      [ "pocketmine\\block\\tile\\Container", "d9/de1/interfacepocketmine_1_1block_1_1tile_1_1_container.html", [
+      [ "pocketmine\\block\\tile\\ContainerTile", "de/d93/interfacepocketmine_1_1block_1_1tile_1_1_container_tile.html", [
         [ "pocketmine\\block\\tile\\Barrel", "d4/dcc/classpocketmine_1_1block_1_1tile_1_1_barrel.html", null ],
         [ "pocketmine\\block\\tile\\BrewingStand", "d3/d41/classpocketmine_1_1block_1_1tile_1_1_brewing_stand.html", null ],
         [ "pocketmine\\block\\tile\\Campfire", "d5/d8b/classpocketmine_1_1block_1_1tile_1_1_campfire.html", null ],
@@ -1245,15 +1193,31 @@ var hierarchy =
       [ "pocketmine\\entity\\Human", "d4/ddf/classpocketmine_1_1entity_1_1_human.html", null ]
     ] ],
     [ "pocketmine\\inventory\\InventoryListener", "d8/df4/interfacepocketmine_1_1inventory_1_1_inventory_listener.html", [
-      [ "pocketmine\\inventory\\CallbackInventoryListener", "da/d3b/classpocketmine_1_1inventory_1_1_callback_inventory_listener.html", null ]
+      [ "pocketmine\\inventory\\CallbackInventoryListener", "da/d3b/classpocketmine_1_1inventory_1_1_callback_inventory_listener.html", null ],
+      [ "pocketmine\\network\\mcpe\\InventoryManager", "d3/da1/classpocketmine_1_1network_1_1mcpe_1_1_inventory_manager.html", null ]
     ] ],
-    [ "pocketmine\\network\\mcpe\\InventoryManager", "d3/da1/classpocketmine_1_1network_1_1mcpe_1_1_inventory_manager.html", null ],
     [ "pocketmine\\network\\mcpe\\InventoryManagerEntry", "d8/dac/classpocketmine_1_1network_1_1mcpe_1_1_inventory_manager_entry.html", null ],
     [ "pocketmine\\inventory\\transaction\\InventoryTransaction", "d3/de1/classpocketmine_1_1inventory_1_1transaction_1_1_inventory_transaction.html", [
       [ "pocketmine\\inventory\\transaction\\CraftingTransaction", "db/d5b/classpocketmine_1_1inventory_1_1transaction_1_1_crafting_transaction.html", null ],
       [ "pocketmine\\inventory\\transaction\\EnchantingTransaction", "d1/d68/classpocketmine_1_1inventory_1_1transaction_1_1_enchanting_transaction.html", null ]
     ] ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\InventoryTransactionChangedSlotsHack", "dd/d7e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_inventory_transaction_changed_slots_hack.html", null ],
+    [ "pocketmine\\player\\InventoryWindow", "d4/d5e/classpocketmine_1_1player_1_1_inventory_window.html", [
+      [ "pocketmine\\block\\inventory\\window\\BlockInventoryWindow", "d6/dc8/classpocketmine_1_1block_1_1inventory_1_1window_1_1_block_inventory_window.html", [
+        [ "pocketmine\\block\\inventory\\window\\AnvilInventoryWindow", "d4/df0/classpocketmine_1_1block_1_1inventory_1_1window_1_1_anvil_inventory_window.html", null ],
+        [ "pocketmine\\block\\inventory\\window\\BrewingStandInventoryWindow", "dc/dc6/classpocketmine_1_1block_1_1inventory_1_1window_1_1_brewing_stand_inventory_window.html", null ],
+        [ "pocketmine\\block\\inventory\\window\\CartographyTableInventoryWindow", "d1/d3b/classpocketmine_1_1block_1_1inventory_1_1window_1_1_cartography_table_inventory_window.html", null ],
+        [ "pocketmine\\block\\inventory\\window\\CraftingTableInventoryWindow", "d4/d89/classpocketmine_1_1block_1_1inventory_1_1window_1_1_crafting_table_inventory_window.html", null ],
+        [ "pocketmine\\block\\inventory\\window\\DoubleChestInventoryWindow", "db/d11/classpocketmine_1_1block_1_1inventory_1_1window_1_1_double_chest_inventory_window.html", null ],
+        [ "pocketmine\\block\\inventory\\window\\EnchantingTableInventoryWindow", "d5/d1c/classpocketmine_1_1block_1_1inventory_1_1window_1_1_enchanting_table_inventory_window.html", null ],
+        [ "pocketmine\\block\\inventory\\window\\FurnaceInventoryWindow", "d9/dd1/classpocketmine_1_1block_1_1inventory_1_1window_1_1_furnace_inventory_window.html", null ],
+        [ "pocketmine\\block\\inventory\\window\\HopperInventoryWindow", "d9/d22/classpocketmine_1_1block_1_1inventory_1_1window_1_1_hopper_inventory_window.html", null ],
+        [ "pocketmine\\block\\inventory\\window\\LoomInventoryWindow", "d8/d95/classpocketmine_1_1block_1_1inventory_1_1window_1_1_loom_inventory_window.html", null ],
+        [ "pocketmine\\block\\inventory\\window\\SmithingTableInventoryWindow", "d2/de9/classpocketmine_1_1block_1_1inventory_1_1window_1_1_smithing_table_inventory_window.html", null ],
+        [ "pocketmine\\block\\inventory\\window\\StonecutterInventoryWindow", "df/d78/classpocketmine_1_1block_1_1inventory_1_1window_1_1_stonecutter_inventory_window.html", null ]
+      ] ],
+      [ "pocketmine\\player\\PlayerInventoryWindow", "d0/d61/classpocketmine_1_1player_1_1_player_inventory_window.html", null ]
+    ] ],
     [ "pocketmine\\player\\IPlayer", "d2/df5/interfacepocketmine_1_1player_1_1_i_player.html", [
       [ "pocketmine\\player\\OfflinePlayer", "dd/d09/classpocketmine_1_1player_1_1_offline_player.html", null ],
       [ "pocketmine\\player\\Player", "d0/d6f/classpocketmine_1_1player_1_1_player.html", null ]
@@ -1491,6 +1455,29 @@ var hierarchy =
     [ "pocketmine\\data\\bedrock\\MedicineTypeIds", "d9/df2/classpocketmine_1_1data_1_1bedrock_1_1_medicine_type_ids.html", null ],
     [ "pocketmine\\MemoryDump", "dc/da9/classpocketmine_1_1_memory_dump.html", null ],
     [ "pocketmine\\MemoryManager", "d3/df7/classpocketmine_1_1_memory_manager.html", null ],
+    [ "pocketmine\\block\\utils\\MenuAccessor", "d2/dc0/interfacepocketmine_1_1block_1_1utils_1_1_menu_accessor.html", [
+      [ "pocketmine\\block\\Anvil", "df/d58/classpocketmine_1_1block_1_1_anvil.html", null ],
+      [ "pocketmine\\block\\CartographyTable", "d2/d0c/classpocketmine_1_1block_1_1_cartography_table.html", null ],
+      [ "pocketmine\\block\\CraftingTable", "d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html", null ],
+      [ "pocketmine\\block\\EnchantingTable", "d5/d2f/classpocketmine_1_1block_1_1_enchanting_table.html", null ],
+      [ "pocketmine\\block\\Loom", "df/d1f/classpocketmine_1_1block_1_1_loom.html", null ],
+      [ "pocketmine\\block\\SmithingTable", "d4/d35/classpocketmine_1_1block_1_1_smithing_table.html", null ],
+      [ "pocketmine\\block\\Stonecutter", "df/d79/classpocketmine_1_1block_1_1_stonecutter.html", null ],
+      [ "pocketmine\\block\\utils\\AnimatedContainerLike", "d4/d7f/interfacepocketmine_1_1block_1_1utils_1_1_animated_container_like.html", [
+        [ "pocketmine\\block\\Barrel", "da/d36/classpocketmine_1_1block_1_1_barrel.html", null ],
+        [ "pocketmine\\block\\Chest", "d8/d5c/classpocketmine_1_1block_1_1_chest.html", null ],
+        [ "pocketmine\\block\\EnderChest", "d8/d15/classpocketmine_1_1block_1_1_ender_chest.html", null ],
+        [ "pocketmine\\block\\ShulkerBox", "d3/da7/classpocketmine_1_1block_1_1_shulker_box.html", null ]
+      ] ],
+      [ "pocketmine\\block\\utils\\Container", "d6/dbd/interfacepocketmine_1_1block_1_1utils_1_1_container.html", [
+        [ "pocketmine\\block\\Barrel", "da/d36/classpocketmine_1_1block_1_1_barrel.html", null ],
+        [ "pocketmine\\block\\BrewingStand", "d0/d73/classpocketmine_1_1block_1_1_brewing_stand.html", null ],
+        [ "pocketmine\\block\\Chest", "d8/d5c/classpocketmine_1_1block_1_1_chest.html", null ],
+        [ "pocketmine\\block\\Furnace", "d4/d66/classpocketmine_1_1block_1_1_furnace.html", null ],
+        [ "pocketmine\\block\\Hopper", "d6/d3a/classpocketmine_1_1block_1_1_hopper.html", null ],
+        [ "pocketmine\\block\\ShulkerBox", "d3/da7/classpocketmine_1_1block_1_1_shulker_box.html", null ]
+      ] ]
+    ] ],
     [ "raklib\\protocol\\MessageIdentifiers", "dd/d22/interfaceraklib_1_1protocol_1_1_message_identifiers.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\entity\\MetadataProperty", "d0/d15/interfacepocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_metadata_property.html", [
       [ "pocketmine\\network\\mcpe\\protocol\\types\\entity\\BlockPosMetadataProperty", "d0/db0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_block_pos_metadata_property.html", null ],
@@ -2546,6 +2533,13 @@ var hierarchy =
     ] ],
     [ "pocketmine\\scheduler\\TaskHandler", "dd/d18/classpocketmine_1_1scheduler_1_1_task_handler.html", null ],
     [ "pocketmine\\scheduler\\TaskScheduler", "db/d5a/classpocketmine_1_1scheduler_1_1_task_scheduler.html", null ],
+    [ "pocketmine\\player\\TemporaryInventoryWindow", "d6/d8d/interfacepocketmine_1_1player_1_1_temporary_inventory_window.html", [
+      [ "pocketmine\\block\\inventory\\window\\AnvilInventoryWindow", "d4/df0/classpocketmine_1_1block_1_1inventory_1_1window_1_1_anvil_inventory_window.html", null ],
+      [ "pocketmine\\block\\inventory\\window\\CartographyTableInventoryWindow", "d1/d3b/classpocketmine_1_1block_1_1inventory_1_1window_1_1_cartography_table_inventory_window.html", null ],
+      [ "pocketmine\\block\\inventory\\window\\LoomInventoryWindow", "d8/d95/classpocketmine_1_1block_1_1inventory_1_1window_1_1_loom_inventory_window.html", null ],
+      [ "pocketmine\\block\\inventory\\window\\SmithingTableInventoryWindow", "d2/de9/classpocketmine_1_1block_1_1inventory_1_1window_1_1_smithing_table_inventory_window.html", null ],
+      [ "pocketmine\\block\\inventory\\window\\StonecutterInventoryWindow", "df/d78/classpocketmine_1_1block_1_1inventory_1_1window_1_1_stonecutter_inventory_window.html", null ]
+    ] ],
     [ "pocketmine\\utils\\Terminal", "da/d57/classpocketmine_1_1utils_1_1_terminal.html", null ],
     [ "pocketmine\\utils\\TextFormat", "dd/db5/classpocketmine_1_1utils_1_1_text_format.html", null ],
     [ "pocketmine\\world\\generator\\executor\\ThreadLocalGeneratorContext", "dc/d02/classpocketmine_1_1world_1_1generator_1_1executor_1_1_thread_local_generator_context.html", null ],

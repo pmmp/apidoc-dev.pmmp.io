@@ -183,16 +183,16 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="511.5" y="-107.5" font-family="Helvetica,sans-Serif" font-size="10.00">\transaction\action\SlotChange</text>
 <text text-anchor="start" x="571" y="-96.5" font-family="Helvetica,sans-Serif" font-size="10.00">Action</text>
 <text text-anchor="start" x="584.5" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="527.5" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="557.5" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
-<text text-anchor="start" x="527.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="557.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">execute()</text>
-<text text-anchor="start" x="527.5" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="557.5" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">getInventory()</text>
-<text text-anchor="start" x="527.5" y="-21.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="557.5" y="-21.5" font-family="Helvetica,sans-Serif" font-size="10.00">getSlot()</text>
-<text text-anchor="start" x="527.5" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="557.5" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">validate()</text>
+<text text-anchor="start" x="518" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="538.5" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
+<text text-anchor="start" x="518" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="538.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">execute()</text>
+<text text-anchor="start" x="518" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="538.5" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">getInventoryWindow()</text>
+<text text-anchor="start" x="518" y="-21.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="538.5" y="-21.5" font-family="Helvetica,sans-Serif" font-size="10.00">getSlot()</text>
+<text text-anchor="start" x="518" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="538.5" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">validate()</text>
 <polygon fill="#666666" stroke="#666666" points="506.5,-91.5 506.5,-91.5 666.5,-91.5 666.5,-91.5 506.5,-91.5"/>
 <polygon fill="#666666" stroke="#666666" points="506.5,-76.5 506.5,-76.5 666.5,-76.5 666.5,-76.5 506.5,-76.5"/>
 <polygon fill="none" stroke="#666666" points="506.5,0 506.5,-131 666.5,-131 666.5,0 506.5,0"/>

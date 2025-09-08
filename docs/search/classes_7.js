@@ -18,13 +18,14 @@ var searchData=
   ['hoe_15',['Hoe',['../db/d96/classpocketmine_1_1item_1_1_hoe.html',1,'pocketmine::item']]],
   ['honeybottle_16',['HoneyBottle',['../d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html',1,'pocketmine::item']]],
   ['hopper_17',['Hopper',['../d6/d3a/classpocketmine_1_1block_1_1_hopper.html',1,'pocketmine\block\Hopper'],['../d2/d1d/classpocketmine_1_1block_1_1tile_1_1_hopper.html',1,'pocketmine\block\tile\Hopper']]],
-  ['hopperinventory_18',['HopperInventory',['../d0/dc5/classpocketmine_1_1block_1_1inventory_1_1_hopper_inventory.html',1,'pocketmine::block::inventory']]],
+  ['hopperinventorywindow_18',['HopperInventoryWindow',['../d9/d22/classpocketmine_1_1block_1_1inventory_1_1window_1_1_hopper_inventory_window.html',1,'pocketmine::block::inventory::window']]],
   ['horizontalfacing_19',['HorizontalFacing',['../d7/daf/interfacepocketmine_1_1block_1_1utils_1_1_horizontal_facing.html',1,'pocketmine::block::utils']]],
-  ['hugeexplodeparticle_20',['HugeExplodeParticle',['../d6/d15/classpocketmine_1_1world_1_1particle_1_1_huge_explode_particle.html',1,'pocketmine::world::particle']]],
-  ['hugeexplodeseedparticle_21',['HugeExplodeSeedParticle',['../de/d4e/classpocketmine_1_1world_1_1particle_1_1_huge_explode_seed_particle.html',1,'pocketmine::world::particle']]],
-  ['human_22',['Human',['../d4/ddf/classpocketmine_1_1entity_1_1_human.html',1,'pocketmine::entity']]],
-  ['hungereffect_23',['HungerEffect',['../d2/d93/classpocketmine_1_1entity_1_1effect_1_1_hunger_effect.html',1,'pocketmine::entity::effect']]],
-  ['hungermanager_24',['HungerManager',['../d0/dfc/classpocketmine_1_1entity_1_1_hunger_manager.html',1,'pocketmine::entity']]],
-  ['hurtanimation_25',['HurtAnimation',['../d5/de7/classpocketmine_1_1entity_1_1animation_1_1_hurt_animation.html',1,'pocketmine::entity::animation']]],
-  ['hurtarmorpacket_26',['HurtArmorPacket',['../dc/d0d/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_hurt_armor_packet.html',1,'pocketmine::network::mcpe::protocol']]]
+  ['hotbar_20',['Hotbar',['../d5/d49/classpocketmine_1_1inventory_1_1_hotbar.html',1,'pocketmine::inventory']]],
+  ['hugeexplodeparticle_21',['HugeExplodeParticle',['../d6/d15/classpocketmine_1_1world_1_1particle_1_1_huge_explode_particle.html',1,'pocketmine::world::particle']]],
+  ['hugeexplodeseedparticle_22',['HugeExplodeSeedParticle',['../de/d4e/classpocketmine_1_1world_1_1particle_1_1_huge_explode_seed_particle.html',1,'pocketmine::world::particle']]],
+  ['human_23',['Human',['../d4/ddf/classpocketmine_1_1entity_1_1_human.html',1,'pocketmine::entity']]],
+  ['hungereffect_24',['HungerEffect',['../d2/d93/classpocketmine_1_1entity_1_1effect_1_1_hunger_effect.html',1,'pocketmine::entity::effect']]],
+  ['hungermanager_25',['HungerManager',['../d0/dfc/classpocketmine_1_1entity_1_1_hunger_manager.html',1,'pocketmine::entity']]],
+  ['hurtanimation_26',['HurtAnimation',['../d5/de7/classpocketmine_1_1entity_1_1animation_1_1_hurt_animation.html',1,'pocketmine::entity::animation']]],
+  ['hurtarmorpacket_27',['HurtArmorPacket',['../dc/d0d/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_hurt_armor_packet.html',1,'pocketmine::network::mcpe::protocol']]]
 ];

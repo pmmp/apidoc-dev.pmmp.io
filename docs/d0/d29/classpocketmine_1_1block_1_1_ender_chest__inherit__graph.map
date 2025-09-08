@@ -1,9 +1,13 @@
 <map id="pocketmine\block\EnderChest" name="pocketmine\block\EnderChest">
-<area shape="rect" id="Node000001" title=" " alt="" coords="113,687,331,852"/>
-<area shape="rect" id="Node000002" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="13,556,223,621"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,632,177,685,172,688,141,634"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="230,687,449,992"/>
+<area shape="rect" id="Node000002" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="17,556,227,621"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,630,232,711,228,715,157,634"/>
 <area shape="rect" id="Node000003" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="5,5,231,491"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,504,121,556,115,556,115,504"/>
-<area shape="rect" id="Node000004" href="$d7/daf/interfacepocketmine_1_1block_1_1utils_1_1_horizontal_facing.html" title=" " alt="" coords="247,539,408,639"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="294,652,272,688,268,685,289,649"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="124,504,124,556,119,556,118,504"/>
+<area shape="rect" id="Node000004" href="$d4/d7f/interfacepocketmine_1_1block_1_1utils_1_1_animated_container_like.html" title=" " alt="" coords="254,539,425,639"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="342,652,342,686,337,686,337,652"/>
+<area shape="rect" id="Node000005" href="$d2/dc0/interfacepocketmine_1_1block_1_1utils_1_1_menu_accessor.html" title=" " alt="" coords="255,198,429,298"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="344,312,342,539,337,539,339,311"/>
+<area shape="rect" id="Node000006" href="$d7/daf/interfacepocketmine_1_1block_1_1utils_1_1_horizontal_facing.html" title=" " alt="" coords="449,539,611,639"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="486,652,451,697,447,694,482,648"/>
 </map>

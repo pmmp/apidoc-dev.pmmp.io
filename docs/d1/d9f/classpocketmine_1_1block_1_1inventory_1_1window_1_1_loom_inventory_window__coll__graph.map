@@ -1,0 +1,9 @@
+<map id="pocketmine\block\inventory\window\LoomInventoryWindow" name="pocketmine\block\inventory\window\LoomInventoryWindow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="125,401,348,521"/>
+<area shape="rect" id="Node000002" href="$d6/dc8/classpocketmine_1_1block_1_1inventory_1_1window_1_1_block_inventory_window.html" title=" " alt="" coords="5,213,228,353"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,363,199,400,194,403,169,366"/>
+<area shape="rect" id="Node000003" href="$d4/d5e/classpocketmine_1_1player_1_1_inventory_window.html" title=" " alt="" coords="16,5,217,165"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,179,119,213,114,213,114,179"/>
+<area shape="rect" id="Node000004" href="$d6/d8d/interfacepocketmine_1_1player_1_1_temporary_inventory_window.html" title=" " alt="" coords="253,243,461,323"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="325,336,279,403,275,400,320,333"/>
+</map>

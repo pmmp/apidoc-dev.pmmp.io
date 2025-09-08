@@ -71,5 +71,5 @@ var classpocketmine_1_1block_1_1_campfire =
     [ "setLit", "d7/d9a/classpocketmine_1_1block_1_1_campfire.html#af1807ff180e5678ba081b846f28fdeb0", null ],
     [ "ticksRandomly", "d7/d9a/classpocketmine_1_1block_1_1_campfire.html#ab6b90601adfc9732893dcffe256514a9", null ],
     [ "writeStateToWorld", "d7/d9a/classpocketmine_1_1block_1_1_campfire.html#aea0f9fb1389bd102d1da8e07eecf1db9", null ],
-    [ "$inventory", "d7/d9a/classpocketmine_1_1block_1_1_campfire.html#acdd2f630f36ebd234f03c65425632417", null ]
+    [ "$inventory", "d7/d9a/classpocketmine_1_1block_1_1_campfire.html#af689351ef68a03f00146ac9412f5866b", null ]
 ];

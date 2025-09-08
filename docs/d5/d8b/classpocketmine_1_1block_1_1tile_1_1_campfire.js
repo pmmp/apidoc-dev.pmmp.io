@@ -1,7 +1,7 @@
 var classpocketmine_1_1block_1_1tile_1_1_campfire =
 [
     [ "addAdditionalSpawnData", "d5/d8b/classpocketmine_1_1block_1_1tile_1_1_campfire.html#a074a7679fcad81895be3e9ccf55a2d9d", null ],
-    [ "canOpenWith", "d5/d8b/classpocketmine_1_1block_1_1tile_1_1_campfire.html#add39024dfb6bffdde18e92b43fc0554c", null ],
+    [ "canOpenWith", "d5/d8b/classpocketmine_1_1block_1_1tile_1_1_campfire.html#a54750e288742c48e3153b6c8dea99244", null ],
     [ "getCookingTimes", "d5/d8b/classpocketmine_1_1block_1_1tile_1_1_campfire.html#a74c0760149d42913a19c14cc80d59138", null ],
     [ "getRenderUpdateBugWorkaroundStateProperties", "d5/d8b/classpocketmine_1_1block_1_1tile_1_1_campfire.html#a4f2c0b2742c1443c3f1cfb20b632aa50", null ],
     [ "getSerializedSpawnCompound", "d5/d8b/classpocketmine_1_1block_1_1tile_1_1_campfire.html#a2c4548cfebce3287d5dba7131579789e", null ],

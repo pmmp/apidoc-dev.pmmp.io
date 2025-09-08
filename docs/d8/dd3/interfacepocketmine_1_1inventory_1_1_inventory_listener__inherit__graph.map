@@ -1,5 +1,7 @@
 <map id="pocketmine\inventory\InventoryListener" name="pocketmine\inventory\InventoryListener">
-<area shape="rect" id="Node000001" title=" " alt="" coords="21,5,177,105"/>
-<area shape="rect" id="Node000002" href="$da/d3b/classpocketmine_1_1inventory_1_1_callback_inventory_listener.html" title=" " alt="" coords="5,153,193,293"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,119,102,153,97,153,97,119"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="139,5,295,105"/>
+<area shape="rect" id="Node000002" href="$da/d3b/classpocketmine_1_1inventory_1_1_callback_inventory_listener.html" title=" " alt="" coords="5,248,193,388"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,119,133,249,128,247,187,117"/>
+<area shape="rect" id="Node000003" href="$d3/da1/classpocketmine_1_1network_1_1mcpe_1_1_inventory_manager.html" title=" " alt="" coords="217,153,451,483"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,117,263,152,258,154,242,119"/>
 </map>

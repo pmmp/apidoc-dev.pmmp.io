@@ -94,7 +94,7 @@ var searchData=
   ['lookupstateidfromdata_91',['lookupStateIdFromData',['../da/d25/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary.html#a7486a9abdbbf4cf7baeb02b4283c0a1c',1,'pocketmine::network::mcpe::convert::BlockStateDictionary']]],
   ['lookupstateidfromidmeta_92',['lookupStateIdFromIdMeta',['../da/d25/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary.html#a0146b532ab41d2f45db844f3f1d0be29',1,'pocketmine::network::mcpe::convert::BlockStateDictionary']]],
   ['loom_93',['Loom',['../df/d1f/classpocketmine_1_1block_1_1_loom.html',1,'pocketmine::block']]],
-  ['loominventory_94',['LoomInventory',['../db/d8d/classpocketmine_1_1block_1_1inventory_1_1_loom_inventory.html',1,'pocketmine::block::inventory']]],
+  ['loominventorywindow_94',['LoomInventoryWindow',['../d8/d95/classpocketmine_1_1block_1_1inventory_1_1window_1_1_loom_inventory_window.html',1,'pocketmine::block::inventory::window']]],
   ['loomstackrequestaction_95',['LoomStackRequestAction',['../d6/d9a/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_loom_stack_request_action.html',1,'pocketmine::network::mcpe::protocol::types::inventory::stackrequest']]],
   ['low_96',['LOW',['../d6/d55/classpocketmine_1_1event_1_1_event_priority.html#a4c5376b60d0bc61e1d66d8bc671164b4',1,'pocketmine::event::EventPriority']]],
   ['lowest_97',['LOWEST',['../d6/d55/classpocketmine_1_1event_1_1_event_priority.html#a92ffa2932bc1b84f1439144966470cba',1,'pocketmine::event::EventPriority']]],

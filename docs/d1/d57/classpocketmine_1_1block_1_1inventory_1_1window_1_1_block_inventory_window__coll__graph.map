@@ -1,0 +1,5 @@
+<map id="pocketmine\block\inventory\window\BlockInventoryWindow" name="pocketmine\block\inventory\window\BlockInventoryWindow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,213,228,353"/>
+<area shape="rect" id="Node000002" href="$d4/d5e/classpocketmine_1_1player_1_1_inventory_window.html" title=" " alt="" coords="16,5,217,165"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,179,119,213,114,213,114,179"/>
+</map>

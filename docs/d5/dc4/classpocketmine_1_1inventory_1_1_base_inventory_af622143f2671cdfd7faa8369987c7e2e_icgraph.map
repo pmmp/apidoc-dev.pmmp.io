@@ -1,5 +1,5 @@
 <map id="pocketmine\inventory\BaseInventory\clear" name="pocketmine\inventory\BaseInventory\clear">
-<area shape="rect" id="Node000001" title=" " alt="" coords="276,13,440,53"/>
-<area shape="rect" id="Node000002" href="$db/d05/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_builder_inventory.html#a9fa8edba13de24c63c8388c4d211887a" title=" " alt="" coords="5,5,228,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,35,228,35,228,30,262,30"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="272,13,436,53"/>
+<area shape="rect" id="Node000002" href="$d9/de2/classpocketmine_1_1inventory_1_1transaction_1_1_slot_change_action_builder.html#a0ad7f88b5cd3388b1b65823abe771a82" title=" " alt="" coords="5,5,224,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,35,224,35,224,30,258,30"/>
 </map>

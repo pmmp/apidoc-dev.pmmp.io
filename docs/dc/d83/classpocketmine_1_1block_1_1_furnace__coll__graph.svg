@@ -47,7 +47,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 859;
+var viewWidth = 858;
 var viewHeight = 2068;
 var sectionId = 'dynsection-1';
 </script>
@@ -59,26 +59,26 @@ var sectionId = 'dynsection-1';
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="transparent" points="491.5,-124 346.5,-124 346.5,0 491.5,0 491.5,-124"/>
-<text text-anchor="start" x="355.5" y="-112" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Furnace</text>
-<text text-anchor="start" x="351" y="-97" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="364" y="-97" font-family="Helvetica,sans-Serif" font-size="10.00">$furnaceType</text>
-<text text-anchor="start" x="351" y="-82" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="364" y="-82" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
-<text text-anchor="start" x="351" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="364" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00">getFurnaceType()</text>
-<text text-anchor="start" x="351" y="-52" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="364" y="-52" font-family="Helvetica,sans-Serif" font-size="10.00">getLightLevel()</text>
-<text text-anchor="start" x="351" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="364" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">onInteract()</text>
-<text text-anchor="start" x="351" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="364" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">onScheduledUpdate()</text>
-<text text-anchor="start" x="351" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="364" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">describeBlockOnlyState()</text>
-<polygon fill="#666666" stroke="#666666" points="347,-107 347,-107 492,-107 492,-107 347,-107"/>
-<polygon fill="#666666" stroke="#666666" points="347,-92 347,-92 362,-92 362,-92 347,-92"/>
-<polygon fill="#666666" stroke="#666666" points="362,-92 362,-92 492,-92 492,-92 362,-92"/>
-<polygon fill="none" stroke="#666666" points="346.5,0 346.5,-124 491.5,-124 491.5,0 346.5,0"/>
+<polygon fill="#999999" stroke="transparent" points="613.5,-124 468.5,-124 468.5,0 613.5,0 613.5,-124"/>
+<text text-anchor="start" x="477.5" y="-112" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Furnace</text>
+<text text-anchor="start" x="473" y="-97" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="486" y="-97" font-family="Helvetica,sans-Serif" font-size="10.00">$furnaceType</text>
+<text text-anchor="start" x="473" y="-82" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="486" y="-82" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
+<text text-anchor="start" x="473" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="486" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00">getFurnaceType()</text>
+<text text-anchor="start" x="473" y="-52" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="486" y="-52" font-family="Helvetica,sans-Serif" font-size="10.00">getLightLevel()</text>
+<text text-anchor="start" x="473" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="486" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">onScheduledUpdate()</text>
+<text text-anchor="start" x="473" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="486" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">describeBlockOnlyState()</text>
+<text text-anchor="start" x="473" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="486" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">newMenu()</text>
+<polygon fill="#666666" stroke="#666666" points="469,-107 469,-107 614,-107 614,-107 469,-107"/>
+<polygon fill="#666666" stroke="#666666" points="469,-92 469,-92 484,-92 484,-92 469,-92"/>
+<polygon fill="#666666" stroke="#666666" points="484,-92 484,-92 614,-92 614,-92 484,-92"/>
+<polygon fill="none" stroke="#666666" points="468.5,0 468.5,-124 613.5,-124 613.5,0 468.5,0"/>
 </a>
 </g>
 </g>
@@ -86,14 +86,14 @@ var sectionId = 'dynsection-1';
 <g id="Node000002" class="node">
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="../../db/dc5/classpocketmine_1_1block_1_1_opaque.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="340.5,-223 203.5,-223 203.5,-174 340.5,-174 340.5,-223"/>
-<text text-anchor="start" x="209" y="-210.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Opaque</text>
-<text text-anchor="start" x="270.5" y="-195.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="227" y="-180.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="259" y="-180.5" font-family="Helvetica,sans-Serif" font-size="10.00">isSolid()</text>
-<polygon fill="#666666" stroke="#666666" points="204,-205.5 204,-205.5 341,-205.5 341,-205.5 204,-205.5"/>
-<polygon fill="#666666" stroke="#666666" points="204,-190.5 204,-190.5 341,-190.5 341,-190.5 204,-190.5"/>
-<polygon fill="none" stroke="#666666" points="203.5,-174 203.5,-223 340.5,-223 340.5,-174 203.5,-174"/>
+<polygon fill="white" stroke="transparent" points="353.5,-223 216.5,-223 216.5,-174 353.5,-174 353.5,-223"/>
+<text text-anchor="start" x="222" y="-210.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Opaque</text>
+<text text-anchor="start" x="283.5" y="-195.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="240" y="-180.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="272" y="-180.5" font-family="Helvetica,sans-Serif" font-size="10.00">isSolid()</text>
+<polygon fill="#666666" stroke="#666666" points="217,-205.5 217,-205.5 354,-205.5 354,-205.5 217,-205.5"/>
+<polygon fill="#666666" stroke="#666666" points="217,-190.5 217,-190.5 354,-190.5 354,-190.5 217,-190.5"/>
+<polygon fill="none" stroke="#666666" points="216.5,-174 216.5,-223 353.5,-223 353.5,-174 216.5,-174"/>
 </a>
 </g>
 </g>
@@ -101,8 +101,8 @@ var sectionId = 'dynsection-1';
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node2&#45;&gt;Node1</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M305.38,-166.96C319.31,-154.21 336.02,-138.92 352.28,-124.05"/>
-<polygon fill="none" stroke="#63b8ff" points="302.96,-164.43 297.94,-173.76 307.68,-169.6 302.96,-164.43"/>
+<path fill="none" stroke="#63b8ff" d="M339.15,-169.05C376.72,-149.31 427.21,-122.78 468.29,-101.2"/>
+<polygon fill="none" stroke="#63b8ff" points="337.11,-166.17 329.88,-173.92 340.37,-172.37 337.11,-166.17"/>
 </a>
 </g>
 </g>
@@ -162,8 +162,8 @@ var sectionId = 'dynsection-1';
 <g id="edge2_Node000002_Node000003" class="edge">
 <title>Node3&#45;&gt;Node2</title>
 <g id="a_edge2_Node000002_Node000003"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M272,-262.71C272,-247.5 272,-233.83 272,-223.13"/>
-<polygon fill="none" stroke="#63b8ff" points="268.5,-262.91 272,-272.91 275.5,-262.91 268.5,-262.91"/>
+<path fill="none" stroke="#63b8ff" d="M281.46,-262.71C282.31,-247.5 283.08,-233.83 283.68,-223.13"/>
+<polygon fill="none" stroke="#63b8ff" points="277.95,-262.73 280.89,-272.91 284.94,-263.12 277.95,-262.73"/>
 </a>
 </g>
 </g>
@@ -262,11 +262,11 @@ var sectionId = 'dynsection-1';
 <g id="edge5_Node000003_Node000006" class="edge">
 <title>Node6&#45;&gt;Node3</title>
 <g id="a_edge5_Node000003_Node000006"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M397.45,-638.82C386.65,-621.14 374.79,-601.73 362.8,-582.11"/>
-<polygon fill="none" stroke="#63b8ff" points="362.78,-582.08 356.24,-579.05 356.53,-571.84 363.07,-574.88 362.78,-582.08"/>
+<path fill="none" stroke="#63b8ff" d="M394.42,-638.86C384.56,-623.42 374.36,-607.25 365,-592 364.31,-590.88 363.62,-589.75 362.93,-588.62"/>
+<polygon fill="none" stroke="#63b8ff" points="362.9,-588.58 356.36,-585.54 356.66,-578.33 363.2,-581.37 362.9,-588.58"/>
 </a>
 </g>
-<text text-anchor="middle" x="412.5" y="-613" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$position</text>
+<text text-anchor="middle" x="410.5" y="-613" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$position</text>
 </g>
 <!-- Node7 -->
 <g id="Node000007" class="node">
@@ -403,26 +403,26 @@ var sectionId = 'dynsection-1';
 <g id="Node000009" class="node">
 <title>Node9</title>
 <g id="a_Node000009"><a xlink:href="../../d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="594,-1547 420,-1547 420,-1408 594,-1408 594,-1547"/>
-<text text-anchor="start" x="425" y="-1534.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\ChunkManager</text>
-<text text-anchor="start" x="505" y="-1519.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="447" y="-1504.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="483" y="-1504.5" font-family="Helvetica,sans-Serif" font-size="10.00">getBlockAt()</text>
-<text text-anchor="start" x="447" y="-1489.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="483" y="-1489.5" font-family="Helvetica,sans-Serif" font-size="10.00">getChunk()</text>
-<text text-anchor="start" x="447" y="-1474.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="483" y="-1474.5" font-family="Helvetica,sans-Serif" font-size="10.00">getMaxY()</text>
-<text text-anchor="start" x="447" y="-1459.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="483" y="-1459.5" font-family="Helvetica,sans-Serif" font-size="10.00">getMinY()</text>
-<text text-anchor="start" x="447" y="-1444.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="483" y="-1444.5" font-family="Helvetica,sans-Serif" font-size="10.00">isInWorld()</text>
-<text text-anchor="start" x="447" y="-1429.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="483" y="-1429.5" font-family="Helvetica,sans-Serif" font-size="10.00">setBlockAt()</text>
-<text text-anchor="start" x="447" y="-1414.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="483" y="-1414.5" font-family="Helvetica,sans-Serif" font-size="10.00">setChunk()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="420,-1529.5 420,-1529.5 594,-1529.5 594,-1529.5 420,-1529.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="420,-1514.5 420,-1514.5 594,-1514.5 594,-1514.5 420,-1514.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="420,-1408 420,-1547 594,-1547 594,-1408 420,-1408"/>
+<polygon fill="white" stroke="transparent" points="593,-1547 419,-1547 419,-1408 593,-1408 593,-1547"/>
+<text text-anchor="start" x="424" y="-1534.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\ChunkManager</text>
+<text text-anchor="start" x="504" y="-1519.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="446" y="-1504.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="482" y="-1504.5" font-family="Helvetica,sans-Serif" font-size="10.00">getBlockAt()</text>
+<text text-anchor="start" x="446" y="-1489.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="482" y="-1489.5" font-family="Helvetica,sans-Serif" font-size="10.00">getChunk()</text>
+<text text-anchor="start" x="446" y="-1474.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="482" y="-1474.5" font-family="Helvetica,sans-Serif" font-size="10.00">getMaxY()</text>
+<text text-anchor="start" x="446" y="-1459.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="482" y="-1459.5" font-family="Helvetica,sans-Serif" font-size="10.00">getMinY()</text>
+<text text-anchor="start" x="446" y="-1444.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="482" y="-1444.5" font-family="Helvetica,sans-Serif" font-size="10.00">isInWorld()</text>
+<text text-anchor="start" x="446" y="-1429.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="482" y="-1429.5" font-family="Helvetica,sans-Serif" font-size="10.00">setBlockAt()</text>
+<text text-anchor="start" x="446" y="-1414.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="482" y="-1414.5" font-family="Helvetica,sans-Serif" font-size="10.00">setChunk()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="419,-1529.5 419,-1529.5 593,-1529.5 593,-1529.5 419,-1529.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="419,-1514.5 419,-1514.5 593,-1514.5 593,-1514.5 419,-1514.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="419,-1408 419,-1547 593,-1547 593,-1408 419,-1408"/>
 </a>
 </g>
 </g>
@@ -430,8 +430,8 @@ var sectionId = 'dynsection-1';
 <g id="edge8_Node000008_Node000009" class="edge">
 <title>Node9&#45;&gt;Node8</title>
 <g id="a_edge8_Node000008_Node000009"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M517.78,-1397.5C521.49,-1370.3 525.86,-1338.3 530.38,-1305.18"/>
-<polygon fill="none" stroke="#63b8ff" points="514.28,-1397.3 516.39,-1407.68 521.21,-1398.24 514.28,-1397.3"/>
+<path fill="none" stroke="#63b8ff" d="M516.98,-1397.5C520.76,-1370.3 525.2,-1338.3 529.81,-1305.18"/>
+<polygon fill="none" stroke="#63b8ff" points="513.47,-1397.29 515.56,-1407.68 520.41,-1398.26 513.47,-1397.29"/>
 </a>
 </g>
 </g>
@@ -439,42 +439,42 @@ var sectionId = 'dynsection-1';
 <g id="Node000010" class="node">
 <title>Node10</title>
 <g id="a_Node000010"><a xlink:href="../../d7/d08/classpocketmine_1_1world_1_1_world_timings.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="779.5,-1603 612.5,-1603 612.5,-1352 779.5,-1352 779.5,-1603"/>
-<text text-anchor="start" x="618" y="-1590.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\WorldTimings</text>
-<text text-anchor="start" x="617" y="-1575.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="630" y="-1575.5" font-family="Helvetica,sans-Serif" font-size="10.00">$randomChunkUpdatesChunk</text>
-<text text-anchor="start" x="630" y="-1564.5" font-family="Helvetica,sans-Serif" font-size="10.00">Selection</text>
-<text text-anchor="start" x="617" y="-1549.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="630" y="-1549.5" font-family="Helvetica,sans-Serif" font-size="10.00">$scheduledBlockUpdates</text>
-<text text-anchor="start" x="617" y="-1534.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="630" y="-1534.5" font-family="Helvetica,sans-Serif" font-size="10.00">$setBlock</text>
-<text text-anchor="start" x="617" y="-1519.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="630" y="-1519.5" font-family="Helvetica,sans-Serif" font-size="10.00">$syncChunkLoad</text>
-<text text-anchor="start" x="617" y="-1504.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="630" y="-1504.5" font-family="Helvetica,sans-Serif" font-size="10.00">$syncChunkLoadData</text>
-<text text-anchor="start" x="617" y="-1489.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="630" y="-1489.5" font-family="Helvetica,sans-Serif" font-size="10.00">$syncChunkLoadEntities</text>
-<text text-anchor="start" x="617" y="-1474.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="630" y="-1474.5" font-family="Helvetica,sans-Serif" font-size="10.00">$syncChunkLoadFixInvalid</text>
-<text text-anchor="start" x="630" y="-1463.5" font-family="Helvetica,sans-Serif" font-size="10.00">Blocks</text>
-<text text-anchor="start" x="617" y="-1448.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="630" y="-1448.5" font-family="Helvetica,sans-Serif" font-size="10.00">$syncChunkLoadTileEntities</text>
-<text text-anchor="start" x="617" y="-1433.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="630" y="-1433.5" font-family="Helvetica,sans-Serif" font-size="10.00">$syncChunkSave</text>
-<text text-anchor="start" x="617" y="-1418.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="630" y="-1418.5" font-family="Helvetica,sans-Serif" font-size="10.00">$syncChunkSend</text>
-<text text-anchor="start" x="617" y="-1403.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="630" y="-1403.5" font-family="Helvetica,sans-Serif" font-size="10.00">$syncChunkSendPrepare</text>
-<text text-anchor="start" x="617" y="-1388.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="630" y="-1388.5" font-family="Helvetica,sans-Serif" font-size="10.00">$syncDataSave</text>
-<text text-anchor="start" x="617" y="-1373.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="630" y="-1373.5" font-family="Helvetica,sans-Serif" font-size="10.00">$tileTick</text>
-<text text-anchor="start" x="617" y="-1358.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="630" y="-1358.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="613,-1585.5 613,-1585.5 780,-1585.5 780,-1585.5 613,-1585.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="613,-1368.5 613,-1368.5 628,-1368.5 628,-1368.5 613,-1368.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="628,-1368.5 628,-1368.5 780,-1368.5 780,-1368.5 628,-1368.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="612.5,-1352 612.5,-1603 779.5,-1603 779.5,-1352 612.5,-1352"/>
+<polygon fill="white" stroke="transparent" points="778.5,-1603 611.5,-1603 611.5,-1352 778.5,-1352 778.5,-1603"/>
+<text text-anchor="start" x="617" y="-1590.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\WorldTimings</text>
+<text text-anchor="start" x="616" y="-1575.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="629" y="-1575.5" font-family="Helvetica,sans-Serif" font-size="10.00">$randomChunkUpdatesChunk</text>
+<text text-anchor="start" x="629" y="-1564.5" font-family="Helvetica,sans-Serif" font-size="10.00">Selection</text>
+<text text-anchor="start" x="616" y="-1549.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="629" y="-1549.5" font-family="Helvetica,sans-Serif" font-size="10.00">$scheduledBlockUpdates</text>
+<text text-anchor="start" x="616" y="-1534.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="629" y="-1534.5" font-family="Helvetica,sans-Serif" font-size="10.00">$setBlock</text>
+<text text-anchor="start" x="616" y="-1519.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="629" y="-1519.5" font-family="Helvetica,sans-Serif" font-size="10.00">$syncChunkLoad</text>
+<text text-anchor="start" x="616" y="-1504.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="629" y="-1504.5" font-family="Helvetica,sans-Serif" font-size="10.00">$syncChunkLoadData</text>
+<text text-anchor="start" x="616" y="-1489.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="629" y="-1489.5" font-family="Helvetica,sans-Serif" font-size="10.00">$syncChunkLoadEntities</text>
+<text text-anchor="start" x="616" y="-1474.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="629" y="-1474.5" font-family="Helvetica,sans-Serif" font-size="10.00">$syncChunkLoadFixInvalid</text>
+<text text-anchor="start" x="629" y="-1463.5" font-family="Helvetica,sans-Serif" font-size="10.00">Blocks</text>
+<text text-anchor="start" x="616" y="-1448.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="629" y="-1448.5" font-family="Helvetica,sans-Serif" font-size="10.00">$syncChunkLoadTileEntities</text>
+<text text-anchor="start" x="616" y="-1433.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="629" y="-1433.5" font-family="Helvetica,sans-Serif" font-size="10.00">$syncChunkSave</text>
+<text text-anchor="start" x="616" y="-1418.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="629" y="-1418.5" font-family="Helvetica,sans-Serif" font-size="10.00">$syncChunkSend</text>
+<text text-anchor="start" x="616" y="-1403.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="629" y="-1403.5" font-family="Helvetica,sans-Serif" font-size="10.00">$syncChunkSendPrepare</text>
+<text text-anchor="start" x="616" y="-1388.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="629" y="-1388.5" font-family="Helvetica,sans-Serif" font-size="10.00">$syncDataSave</text>
+<text text-anchor="start" x="616" y="-1373.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="629" y="-1373.5" font-family="Helvetica,sans-Serif" font-size="10.00">$tileTick</text>
+<text text-anchor="start" x="616" y="-1358.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="629" y="-1358.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="612,-1585.5 612,-1585.5 779,-1585.5 779,-1585.5 612,-1585.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="612,-1368.5 612,-1368.5 627,-1368.5 627,-1368.5 612,-1368.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="627,-1368.5 627,-1368.5 779,-1368.5 779,-1368.5 627,-1368.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="611.5,-1352 611.5,-1603 778.5,-1603 778.5,-1352 611.5,-1352"/>
 </a>
 </g>
 </g>
@@ -482,57 +482,57 @@ var sectionId = 'dynsection-1';
 <g id="edge9_Node000008_Node000010" class="edge">
 <title>Node10&#45;&gt;Node8</title>
 <g id="a_edge9_Node000008_Node000010"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M654.52,-1351.75C650.73,-1340.36 646.82,-1328.59 642.84,-1316.61"/>
-<polygon fill="none" stroke="#63b8ff" points="642.79,-1316.46 637.1,-1312.03 639,-1305.07 644.69,-1309.51 642.79,-1316.46"/>
+<path fill="none" stroke="#63b8ff" d="M653.83,-1351.75C650.07,-1340.36 646.19,-1328.59 642.23,-1316.61"/>
+<polygon fill="none" stroke="#63b8ff" points="642.19,-1316.47 636.51,-1312.03 638.43,-1305.07 644.1,-1309.52 642.19,-1316.47"/>
 </a>
 </g>
-<text text-anchor="middle" x="674.5" y="-1326" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +$timings</text>
+<text text-anchor="middle" x="673.5" y="-1326" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +$timings</text>
 </g>
 <!-- Node11 -->
 <g id="Node000011" class="node">
 <title>Node11</title>
 <g id="a_Node000011"><a xlink:href="../../d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="776,-2060 616,-2060 616,-1760 776,-1760 776,-2060"/>
-<text text-anchor="start" x="647.5" y="-2048" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\timings</text>
-<text text-anchor="start" x="655.5" y="-2037" font-family="Helvetica,sans-Serif" font-size="10.00">\TimingsHandler</text>
-<text text-anchor="start" x="694" y="-2022" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="620" y="-2007" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="633" y="-2007" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
-<text text-anchor="start" x="620" y="-1992" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="633" y="-1992" font-family="Helvetica,sans-Serif" font-size="10.00">getGroup()</text>
-<text text-anchor="start" x="620" y="-1977" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="633" y="-1977" font-family="Helvetica,sans-Serif" font-size="10.00">getName()</text>
-<text text-anchor="start" x="620" y="-1962" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="633" y="-1962" font-family="Helvetica,sans-Serif" font-size="10.00">reset()</text>
-<text text-anchor="start" x="620" y="-1947" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="633" y="-1947" font-family="Helvetica,sans-Serif" font-size="10.00">startTiming()</text>
-<text text-anchor="start" x="620" y="-1932" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="633" y="-1932" font-family="Helvetica,sans-Serif" font-size="10.00">stopTiming()</text>
-<text text-anchor="start" x="620" y="-1917" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="633" y="-1917" font-family="Helvetica,sans-Serif" font-size="10.00">time()</text>
-<text text-anchor="start" x="620" y="-1902" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="633" y="-1902" font-family="Helvetica,sans-Serif" font-size="10.00">getCollectCallbacks()</text>
-<text text-anchor="start" x="620" y="-1887" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="633" y="-1887" font-family="Helvetica,sans-Serif" font-size="10.00">getReloadCallbacks()</text>
-<text text-anchor="start" x="620" y="-1872" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="633" y="-1872" font-family="Helvetica,sans-Serif" font-size="10.00">getStartTime()</text>
-<text text-anchor="start" x="620" y="-1857" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="633" y="-1857" font-family="Helvetica,sans-Serif" font-size="10.00">getToggleCallbacks()</text>
-<text text-anchor="start" x="620" y="-1842" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="633" y="-1842" font-family="Helvetica,sans-Serif" font-size="10.00">isEnabled()</text>
-<text text-anchor="start" x="620" y="-1827" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="633" y="-1827" font-family="Helvetica,sans-Serif" font-size="10.00">printCurrentThreadRecords()</text>
-<text text-anchor="start" x="620" y="-1812" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="633" y="-1812" font-family="Helvetica,sans-Serif" font-size="10.00">reload()</text>
-<text text-anchor="start" x="620" y="-1797" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="633" y="-1797" font-family="Helvetica,sans-Serif" font-size="10.00">requestPrintTimings()</text>
-<text text-anchor="start" x="620" y="-1782" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="633" y="-1782" font-family="Helvetica,sans-Serif" font-size="10.00">setEnabled()</text>
-<text text-anchor="start" x="620" y="-1767" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="633" y="-1767" font-family="Helvetica,sans-Serif" font-size="10.00">tick()</text>
-<polygon fill="#666666" stroke="#666666" points="616,-2032 616,-2032 776,-2032 776,-2032 616,-2032"/>
-<polygon fill="#666666" stroke="#666666" points="616,-2017 616,-2017 776,-2017 776,-2017 616,-2017"/>
-<polygon fill="none" stroke="#666666" points="616,-1760 616,-2060 776,-2060 776,-1760 616,-1760"/>
+<polygon fill="white" stroke="transparent" points="775,-2060 615,-2060 615,-1760 775,-1760 775,-2060"/>
+<text text-anchor="start" x="646.5" y="-2048" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\timings</text>
+<text text-anchor="start" x="654.5" y="-2037" font-family="Helvetica,sans-Serif" font-size="10.00">\TimingsHandler</text>
+<text text-anchor="start" x="693" y="-2022" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="619" y="-2007" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="632" y="-2007" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
+<text text-anchor="start" x="619" y="-1992" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="632" y="-1992" font-family="Helvetica,sans-Serif" font-size="10.00">getGroup()</text>
+<text text-anchor="start" x="619" y="-1977" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="632" y="-1977" font-family="Helvetica,sans-Serif" font-size="10.00">getName()</text>
+<text text-anchor="start" x="619" y="-1962" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="632" y="-1962" font-family="Helvetica,sans-Serif" font-size="10.00">reset()</text>
+<text text-anchor="start" x="619" y="-1947" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="632" y="-1947" font-family="Helvetica,sans-Serif" font-size="10.00">startTiming()</text>
+<text text-anchor="start" x="619" y="-1932" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="632" y="-1932" font-family="Helvetica,sans-Serif" font-size="10.00">stopTiming()</text>
+<text text-anchor="start" x="619" y="-1917" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="632" y="-1917" font-family="Helvetica,sans-Serif" font-size="10.00">time()</text>
+<text text-anchor="start" x="619" y="-1902" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="632" y="-1902" font-family="Helvetica,sans-Serif" font-size="10.00">getCollectCallbacks()</text>
+<text text-anchor="start" x="619" y="-1887" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="632" y="-1887" font-family="Helvetica,sans-Serif" font-size="10.00">getReloadCallbacks()</text>
+<text text-anchor="start" x="619" y="-1872" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="632" y="-1872" font-family="Helvetica,sans-Serif" font-size="10.00">getStartTime()</text>
+<text text-anchor="start" x="619" y="-1857" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="632" y="-1857" font-family="Helvetica,sans-Serif" font-size="10.00">getToggleCallbacks()</text>
+<text text-anchor="start" x="619" y="-1842" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="632" y="-1842" font-family="Helvetica,sans-Serif" font-size="10.00">isEnabled()</text>
+<text text-anchor="start" x="619" y="-1827" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="632" y="-1827" font-family="Helvetica,sans-Serif" font-size="10.00">printCurrentThreadRecords()</text>
+<text text-anchor="start" x="619" y="-1812" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="632" y="-1812" font-family="Helvetica,sans-Serif" font-size="10.00">reload()</text>
+<text text-anchor="start" x="619" y="-1797" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="632" y="-1797" font-family="Helvetica,sans-Serif" font-size="10.00">requestPrintTimings()</text>
+<text text-anchor="start" x="619" y="-1782" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="632" y="-1782" font-family="Helvetica,sans-Serif" font-size="10.00">setEnabled()</text>
+<text text-anchor="start" x="619" y="-1767" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="632" y="-1767" font-family="Helvetica,sans-Serif" font-size="10.00">tick()</text>
+<polygon fill="#666666" stroke="#666666" points="615,-2032 615,-2032 775,-2032 775,-2032 615,-2032"/>
+<polygon fill="#666666" stroke="#666666" points="615,-2017 615,-2017 775,-2017 775,-2017 615,-2017"/>
+<polygon fill="none" stroke="#666666" points="615,-1760 615,-2060 775,-2060 775,-1760 615,-1760"/>
 </a>
 </g>
 </g>
@@ -540,37 +540,37 @@ var sectionId = 'dynsection-1';
 <g id="edge10_Node000010_Node000011" class="edge">
 <title>Node11&#45;&gt;Node10</title>
 <g id="a_edge10_Node000010_Node000011"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M696,-1759.94C696,-1713 696,-1661.4 696,-1615.35"/>
-<polygon fill="none" stroke="#63b8ff" points="696,-1615.14 692,-1609.14 696,-1603.14 700,-1609.14 696,-1615.14"/>
+<path fill="none" stroke="#63b8ff" d="M695,-1759.94C695,-1713 695,-1661.4 695,-1615.35"/>
+<polygon fill="none" stroke="#63b8ff" points="695,-1615.14 691,-1609.14 695,-1603.14 699,-1609.14 695,-1615.14"/>
 </a>
 </g>
-<text text-anchor="middle" x="773.5" y="-1734" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +$chunkPopulationCompletion</text>
-<text text-anchor="middle" x="773.5" y="-1723" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">+$chunkPopulationOrder</text>
-<text text-anchor="middle" x="773.5" y="-1712" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">+$doBlockLightUpdates</text>
-<text text-anchor="middle" x="773.5" y="-1701" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">+$doBlockSkyLightUpdates</text>
-<text text-anchor="middle" x="773.5" y="-1690" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">+$doChunkGC</text>
-<text text-anchor="middle" x="773.5" y="-1679" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">+$doChunkUnload</text>
-<text text-anchor="middle" x="773.5" y="-1668" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">+$doTick</text>
-<text text-anchor="middle" x="773.5" y="-1657" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">+$entityTick</text>
-<text text-anchor="middle" x="773.5" y="-1646" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">+$neighbourBlockUpdates</text>
-<text text-anchor="middle" x="773.5" y="-1635" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">+$randomChunkUpdates</text>
-<text text-anchor="middle" x="773.5" y="-1624" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">...</text>
+<text text-anchor="middle" x="772.5" y="-1734" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +$chunkPopulationCompletion</text>
+<text text-anchor="middle" x="772.5" y="-1723" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">+$chunkPopulationOrder</text>
+<text text-anchor="middle" x="772.5" y="-1712" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">+$doBlockLightUpdates</text>
+<text text-anchor="middle" x="772.5" y="-1701" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">+$doBlockSkyLightUpdates</text>
+<text text-anchor="middle" x="772.5" y="-1690" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">+$doChunkGC</text>
+<text text-anchor="middle" x="772.5" y="-1679" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">+$doChunkUnload</text>
+<text text-anchor="middle" x="772.5" y="-1668" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">+$doTick</text>
+<text text-anchor="middle" x="772.5" y="-1657" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">+$entityTick</text>
+<text text-anchor="middle" x="772.5" y="-1646" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">+$neighbourBlockUpdates</text>
+<text text-anchor="middle" x="772.5" y="-1635" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">+$randomChunkUpdates</text>
+<text text-anchor="middle" x="772.5" y="-1624" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">...</text>
 </g>
 <!-- Node12 -->
 <g id="Node000012" class="node">
 <title>Node12</title>
-<g id="a_Node000012"><a xlink:href="../../d4/de8/interfacepocketmine_1_1block_1_1utils_1_1_lightable.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="479.5,-236 358.5,-236 358.5,-161 479.5,-161 479.5,-236"/>
-<text text-anchor="start" x="364" y="-223.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
-<text text-anchor="start" x="395" y="-212.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Lightable</text>
-<text text-anchor="start" x="417.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="379" y="-182.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="408" y="-182.5" font-family="Helvetica,sans-Serif" font-size="10.00">isLit()</text>
-<text text-anchor="start" x="379" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="408" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">setLit()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="359,-207.5 359,-207.5 480,-207.5 480,-207.5 359,-207.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="359,-192.5 359,-192.5 480,-192.5 480,-192.5 359,-192.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="358.5,-161 358.5,-236 479.5,-236 479.5,-161 358.5,-161"/>
+<g id="a_Node000012"><a xlink:href="../../d6/dbd/interfacepocketmine_1_1block_1_1utils_1_1_container.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="497.5,-236 376.5,-236 376.5,-161 497.5,-161 497.5,-236"/>
+<text text-anchor="start" x="382" y="-223.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
+<text text-anchor="start" x="412" y="-212.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Container</text>
+<text text-anchor="start" x="435.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="387.5" y="-182.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="407" y="-182.5" font-family="Helvetica,sans-Serif" font-size="10.00">canOpenWith()</text>
+<text text-anchor="start" x="387.5" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="407" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">getInventory()</text>
+<polygon fill="#666666" stroke="#666666" points="377,-207.5 377,-207.5 498,-207.5 498,-207.5 377,-207.5"/>
+<polygon fill="#666666" stroke="#666666" points="377,-192.5 377,-192.5 498,-192.5 498,-192.5 377,-192.5"/>
+<polygon fill="none" stroke="#666666" points="376.5,-161 376.5,-236 497.5,-236 497.5,-161 376.5,-161"/>
 </a>
 </g>
 </g>
@@ -578,35 +578,89 @@ var sectionId = 'dynsection-1';
 <g id="edge11_Node000001_Node000012" class="edge">
 <title>Node12&#45;&gt;Node1</title>
 <g id="a_edge11_Node000001_Node000012"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M419,-150.57C419,-142 419,-132.94 419,-124.03"/>
-<polygon fill="none" stroke="#63b8ff" points="415.5,-150.75 419,-160.75 422.5,-150.75 415.5,-150.75"/>
+<path fill="none" stroke="#63b8ff" d="M471.55,-152.82C478.68,-143.59 486.31,-133.72 493.81,-124.03"/>
+<polygon fill="none" stroke="#63b8ff" points="468.77,-150.7 465.42,-160.75 474.3,-154.98 468.77,-150.7"/>
 </a>
 </g>
 </g>
 <!-- Node13 -->
 <g id="Node000013" class="node">
 <title>Node13</title>
-<g id="a_Node000013"><a xlink:href="../../d7/daf/interfacepocketmine_1_1block_1_1utils_1_1_horizontal_facing.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="618.5,-236 497.5,-236 497.5,-161 618.5,-161 618.5,-236"/>
-<text text-anchor="start" x="503" y="-223.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
-<text text-anchor="start" x="516" y="-212.5" font-family="Helvetica,sans-Serif" font-size="10.00">\HorizontalFacing</text>
-<text text-anchor="start" x="556.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="513" y="-182.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="537" y="-182.5" font-family="Helvetica,sans-Serif" font-size="10.00">getFacing()</text>
-<text text-anchor="start" x="513" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="537" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">setFacing()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="498,-207.5 498,-207.5 619,-207.5 619,-207.5 498,-207.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="498,-192.5 498,-192.5 619,-192.5 619,-192.5 498,-192.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="497.5,-161 497.5,-236 618.5,-236 618.5,-161 497.5,-161"/>
+<g id="a_Node000013"><a xlink:href="../../d2/dc0/interfacepocketmine_1_1block_1_1utils_1_1_menu_accessor.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="505.5,-470 374.5,-470 374.5,-395 505.5,-395 505.5,-470"/>
+<text text-anchor="start" x="385" y="-457.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
+<text text-anchor="start" x="403.5" y="-446.5" font-family="Helvetica,sans-Serif" font-size="10.00">\MenuAccessor</text>
+<text text-anchor="start" x="438.5" y="-431.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="379" y="-416.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="392" y="-416.5" font-family="Helvetica,sans-Serif" font-size="10.00">isOpeningObstructed()</text>
+<text text-anchor="start" x="379" y="-401.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="392" y="-401.5" font-family="Helvetica,sans-Serif" font-size="10.00">openToUnchecked()</text>
+<polygon fill="#666666" stroke="#666666" points="375,-441.5 375,-441.5 506,-441.5 506,-441.5 375,-441.5"/>
+<polygon fill="#666666" stroke="#666666" points="375,-426.5 375,-426.5 506,-426.5 506,-426.5 375,-426.5"/>
+<polygon fill="none" stroke="#666666" points="374.5,-395 374.5,-470 505.5,-470 505.5,-395 374.5,-395"/>
 </a>
 </g>
 </g>
-<!-- Node13&#45;&gt;Node1 -->
-<g id="edge12_Node000001_Node000013" class="edge">
-<title>Node13&#45;&gt;Node1</title>
-<g id="a_edge12_Node000001_Node000013"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M512.69,-153.66C502.91,-144.19 492.39,-134.02 482.07,-124.03"/>
-<polygon fill="none" stroke="#63b8ff" points="510.4,-156.31 520.02,-160.75 515.27,-151.28 510.4,-156.31"/>
+<!-- Node13&#45;&gt;Node12 -->
+<g id="edge12_Node000012_Node000013" class="edge">
+<title>Node13&#45;&gt;Node12</title>
+<g id="a_edge12_Node000012_Node000013"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M439.4,-384.89C438.83,-341.08 437.99,-276.41 437.47,-236.18"/>
+<polygon fill="none" stroke="#63b8ff" points="435.9,-385.04 439.53,-394.99 442.9,-384.95 435.9,-385.04"/>
+</a>
+</g>
+</g>
+<!-- Node14 -->
+<g id="Node000014" class="node">
+<title>Node14</title>
+<g id="a_Node000014"><a xlink:href="../../d4/de8/interfacepocketmine_1_1block_1_1utils_1_1_lightable.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="636.5,-236 515.5,-236 515.5,-161 636.5,-161 636.5,-236"/>
+<text text-anchor="start" x="521" y="-223.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
+<text text-anchor="start" x="552" y="-212.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Lightable</text>
+<text text-anchor="start" x="574.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="536" y="-182.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="565" y="-182.5" font-family="Helvetica,sans-Serif" font-size="10.00">isLit()</text>
+<text text-anchor="start" x="536" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="565" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">setLit()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="516,-207.5 516,-207.5 637,-207.5 637,-207.5 516,-207.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="516,-192.5 516,-192.5 637,-192.5 637,-192.5 516,-192.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="515.5,-161 515.5,-236 636.5,-236 636.5,-161 515.5,-161"/>
+</a>
+</g>
+</g>
+<!-- Node14&#45;&gt;Node1 -->
+<g id="edge13_Node000001_Node000014" class="edge">
+<title>Node14&#45;&gt;Node1</title>
+<g id="a_edge13_Node000001_Node000014"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M563.86,-150.86C561.61,-142.2 559.23,-133.04 556.88,-124.03"/>
+<polygon fill="none" stroke="#63b8ff" points="560.53,-151.95 566.44,-160.75 567.3,-150.19 560.53,-151.95"/>
+</a>
+</g>
+</g>
+<!-- Node15 -->
+<g id="Node000015" class="node">
+<title>Node15</title>
+<g id="a_Node000015"><a xlink:href="../../d7/daf/interfacepocketmine_1_1block_1_1utils_1_1_horizontal_facing.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="775.5,-236 654.5,-236 654.5,-161 775.5,-161 775.5,-236"/>
+<text text-anchor="start" x="660" y="-223.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
+<text text-anchor="start" x="673" y="-212.5" font-family="Helvetica,sans-Serif" font-size="10.00">\HorizontalFacing</text>
+<text text-anchor="start" x="713.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="670" y="-182.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="694" y="-182.5" font-family="Helvetica,sans-Serif" font-size="10.00">getFacing()</text>
+<text text-anchor="start" x="670" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="694" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">setFacing()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="655,-207.5 655,-207.5 776,-207.5 776,-207.5 655,-207.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="655,-192.5 655,-192.5 776,-192.5 776,-192.5 655,-192.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="654.5,-161 654.5,-236 775.5,-236 775.5,-161 654.5,-161"/>
+</a>
+</g>
+</g>
+<!-- Node15&#45;&gt;Node1 -->
+<g id="edge14_Node000001_Node000015" class="edge">
+<title>Node15&#45;&gt;Node1</title>
+<g id="a_edge14_Node000001_Node000015"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M659.51,-154.6C644.92,-143.33 628.98,-131.01 613.64,-119.15"/>
+<polygon fill="none" stroke="#63b8ff" points="657.4,-157.4 667.45,-160.75 661.68,-151.86 657.4,-157.4"/>
 </a>
 </g>
 </g>

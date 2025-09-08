@@ -45,7 +45,7 @@
 <text text-anchor="start" x="4.5" y="-97" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
 <text text-anchor="start" x="17.5" y="-97" font-family="Helvetica,sans-Serif" font-size="10.00">getBuilderInventoryAndSlot()</text>
 <text text-anchor="start" x="4.5" y="-82" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="17.5" y="-82" font-family="Helvetica,sans-Serif" font-size="10.00">prettyInventoryAndSlot()</text>
+<text text-anchor="start" x="17.5" y="-82" font-family="Helvetica,sans-Serif" font-size="10.00">prettyWindowAndSlot()</text>
 <text text-anchor="start" x="4.5" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
 <text text-anchor="start" x="17.5" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00">processItemStackRequestAction()</text>
 <text text-anchor="start" x="4.5" y="-52" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>

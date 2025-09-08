@@ -515,10 +515,10 @@ var sectionId = 'dynsection-1';
 <!-- Node10 -->
 <g id="Node000010" class="node">
 <title>Node10</title>
-<g id="a_Node000010"><a xlink:href="../../d9/de1/interfacepocketmine_1_1block_1_1tile_1_1_container.html" target="_top" xlink:title=" ">
+<g id="a_Node000010"><a xlink:href="../../de/d93/interfacepocketmine_1_1block_1_1tile_1_1_container_tile.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="transparent" points="574,-297.5 458,-297.5 458,-207.5 574,-207.5 574,-297.5"/>
 <text text-anchor="start" x="463" y="-285.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\tile</text>
-<text text-anchor="start" x="490.5" y="-274.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Container</text>
+<text text-anchor="start" x="481.5" y="-274.5" font-family="Helvetica,sans-Serif" font-size="10.00">\ContainerTile</text>
 <text text-anchor="start" x="462.5" y="-259.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="476" y="-259.5" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_ITEMS</text>
 <text text-anchor="start" x="462.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>

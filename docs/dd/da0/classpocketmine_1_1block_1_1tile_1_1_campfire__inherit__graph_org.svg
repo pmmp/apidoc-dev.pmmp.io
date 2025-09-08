@@ -139,10 +139,10 @@
 <!-- Node4 -->
 <g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_Node000004"><a xlink:href="../../d9/de1/interfacepocketmine_1_1block_1_1tile_1_1_container.html" target="_top" xlink:title=" ">
+<g id="a_Node000004"><a xlink:href="../../de/d93/interfacepocketmine_1_1block_1_1tile_1_1_container_tile.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="transparent" points="318,-311.5 202,-311.5 202,-221.5 318,-221.5 318,-311.5"/>
 <text text-anchor="start" x="207" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\tile</text>
-<text text-anchor="start" x="234.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">\Container</text>
+<text text-anchor="start" x="225.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">\ContainerTile</text>
 <text text-anchor="start" x="206.5" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="220" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_ITEMS</text>
 <text text-anchor="start" x="206.5" y="-258.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>

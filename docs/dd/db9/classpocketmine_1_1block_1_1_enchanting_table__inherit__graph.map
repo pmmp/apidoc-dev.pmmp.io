@@ -1,7 +1,9 @@
 <map id="pocketmine\block\EnchantingTable" name="pocketmine\block\EnchantingTable">
-<area shape="rect" id="Node000001" title=" " alt="" coords="15,652,221,772"/>
-<area shape="rect" id="Node000002" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="13,539,223,604"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,618,121,651,115,651,115,618"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="123,687,329,807"/>
+<area shape="rect" id="Node000002" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="13,556,223,621"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,631,187,685,183,688,145,634"/>
 <area shape="rect" id="Node000003" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="5,5,231,491"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,504,121,539,115,539,115,504"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,504,121,556,115,556,115,504"/>
+<area shape="rect" id="Node000004" href="$d2/dc0/interfacepocketmine_1_1block_1_1utils_1_1_menu_accessor.html" title=" " alt="" coords="247,539,421,639"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="294,651,269,688,265,685,290,648"/>
 </map>

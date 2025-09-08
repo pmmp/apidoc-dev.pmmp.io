@@ -12,14 +12,14 @@
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="transparent" points="408.5,-49 281.5,-49 281.5,0 408.5,0 408.5,-49"/>
-<text text-anchor="start" x="287" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Loom</text>
-<text text-anchor="start" x="343.5" y="-21.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="298" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="323" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">onInteract()</text>
-<polygon fill="#666666" stroke="#666666" points="282,-31.5 282,-31.5 409,-31.5 409,-31.5 282,-31.5"/>
-<polygon fill="#666666" stroke="#666666" points="282,-16.5 282,-16.5 409,-16.5 409,-16.5 282,-16.5"/>
-<polygon fill="none" stroke="#666666" points="281.5,0 281.5,-49 408.5,-49 408.5,0 281.5,0"/>
+<polygon fill="#999999" stroke="transparent" points="482.5,-49 355.5,-49 355.5,0 482.5,0 482.5,-49"/>
+<text text-anchor="start" x="361" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Loom</text>
+<text text-anchor="start" x="417.5" y="-21.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="372.5" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="398" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">newMenu()</text>
+<polygon fill="#666666" stroke="#666666" points="356,-31.5 356,-31.5 483,-31.5 483,-31.5 356,-31.5"/>
+<polygon fill="#666666" stroke="#666666" points="356,-16.5 356,-16.5 483,-16.5 483,-16.5 356,-16.5"/>
+<polygon fill="none" stroke="#666666" points="355.5,0 355.5,-49 482.5,-49 482.5,0 355.5,0"/>
 </a>
 </g>
 </g>
@@ -42,8 +42,8 @@
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node2&#45;&gt;Node1</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M296.13,-90.44C306.26,-76.98 317.82,-61.61 327.16,-49.2"/>
-<polygon fill="none" stroke="#63b8ff" points="293.26,-88.43 290.04,-98.52 298.85,-92.64 293.26,-88.43"/>
+<path fill="none" stroke="#63b8ff" d="M316.53,-93.11C337.87,-79.04 363.08,-62.4 383.16,-49.15"/>
+<polygon fill="none" stroke="#63b8ff" points="314.38,-90.34 307.96,-98.77 318.23,-96.18 314.38,-90.34"/>
 </a>
 </g>
 </g>
@@ -338,7 +338,7 @@
 <polygon fill="none" stroke="#63b8ff" points="473.12,-729.47 467.43,-725.04 469.33,-718.09 475.02,-722.52 473.12,-729.47"/>
 </a>
 </g>
-<text text-anchor="middle" x="500.5" y="-739" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +$world</text>
+<text text-anchor="middle" x="501.5" y="-739" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +$world</text>
 </g>
 <!-- Node9 -->
 <g id="Node000009" class="node">
@@ -427,7 +427,7 @@
 <polygon fill="none" stroke="#63b8ff" points="642.79,-1241.46 637.1,-1237.03 639,-1230.07 644.69,-1234.51 642.79,-1241.46"/>
 </a>
 </g>
-<text text-anchor="middle" x="673.5" y="-1251" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +$timings</text>
+<text text-anchor="middle" x="674.5" y="-1251" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +$timings</text>
 </g>
 <!-- Node11 -->
 <g id="Node000011" class="node">
@@ -519,8 +519,35 @@
 <g id="edge11_Node000001_Node000012" class="edge">
 <title>Node12&#45;&gt;Node1</title>
 <g id="a_edge11_Node000001_Node000012"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M384.75,-77.61C377.22,-67.73 369.52,-57.64 362.94,-49.01"/>
-<polygon fill="none" stroke="#63b8ff" points="382.18,-80 391.02,-85.83 387.74,-75.75 382.18,-80"/>
+<path fill="none" stroke="#63b8ff" d="M419,-75.53C419,-66.32 419,-57.04 419,-49.01"/>
+<polygon fill="none" stroke="#63b8ff" points="415.5,-75.83 419,-85.83 422.5,-75.83 415.5,-75.83"/>
+</a>
+</g>
+</g>
+<!-- Node13 -->
+<g id="Node000013" class="node">
+<title>Node13</title>
+<g id="a_Node000013"><a xlink:href="../../d2/dc0/interfacepocketmine_1_1block_1_1utils_1_1_menu_accessor.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="628.5,-161 497.5,-161 497.5,-86 628.5,-86 628.5,-161"/>
+<text text-anchor="start" x="508" y="-148.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
+<text text-anchor="start" x="526.5" y="-137.5" font-family="Helvetica,sans-Serif" font-size="10.00">\MenuAccessor</text>
+<text text-anchor="start" x="561.5" y="-122.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="502" y="-107.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="515" y="-107.5" font-family="Helvetica,sans-Serif" font-size="10.00">isOpeningObstructed()</text>
+<text text-anchor="start" x="502" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="515" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">openToUnchecked()</text>
+<polygon fill="#666666" stroke="#666666" points="498,-132.5 498,-132.5 629,-132.5 629,-132.5 498,-132.5"/>
+<polygon fill="#666666" stroke="#666666" points="498,-117.5 498,-117.5 629,-117.5 629,-117.5 498,-117.5"/>
+<polygon fill="none" stroke="#666666" points="497.5,-86 497.5,-161 628.5,-161 628.5,-86 497.5,-86"/>
+</a>
+</g>
+</g>
+<!-- Node13&#45;&gt;Node1 -->
+<g id="edge12_Node000001_Node000013" class="edge">
+<title>Node13&#45;&gt;Node1</title>
+<g id="a_edge12_Node000001_Node000013"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M499.87,-79.98C484.1,-69.35 467.75,-58.34 453.91,-49.01"/>
+<polygon fill="none" stroke="#63b8ff" points="498.31,-83.14 508.56,-85.83 502.22,-77.34 498.31,-83.14"/>
 </a>
 </g>
 </g>

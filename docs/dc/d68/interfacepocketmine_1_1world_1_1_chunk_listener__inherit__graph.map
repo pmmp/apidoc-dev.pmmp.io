@@ -1,7 +1,7 @@
 <map id="pocketmine\world\ChunkListener" name="pocketmine\world\ChunkListener">
-<area shape="rect" id="Node000001" title=" " alt="" coords="92,5,319,151"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="91,5,317,151"/>
 <area shape="rect" id="Node000002" href="$d0/deb/classpocketmine_1_1network_1_1mcpe_1_1cache_1_1_chunk_cache.html" title=" " alt="" coords="5,509,187,729"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,165,121,509,116,508,185,164"/>
-<area shape="rect" id="Node000003" href="$d0/d6f/classpocketmine_1_1player_1_1_player.html" title=" " alt="" coords="211,199,418,1039"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,163,232,198,227,199,220,164"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,165,121,509,115,508,184,164"/>
+<area shape="rect" id="Node000003" href="$d0/d6f/classpocketmine_1_1player_1_1_player.html" title=" " alt="" coords="211,199,413,1039"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,163,230,198,225,199,218,164"/>
 </map>

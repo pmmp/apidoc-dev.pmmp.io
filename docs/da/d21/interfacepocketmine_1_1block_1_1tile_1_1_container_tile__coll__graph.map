@@ -1,0 +1,5 @@
+<map id="pocketmine\block\tile\ContainerTile" name="pocketmine\block\tile\ContainerTile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="6,133,161,253"/>
+<area shape="rect" id="Node000002" href="$d2/d91/interfacepocketmine_1_1inventory_1_1_inventory_holder.html" title=" " alt="" coords="5,5,161,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,99,86,133,81,133,81,99"/>
+</map>

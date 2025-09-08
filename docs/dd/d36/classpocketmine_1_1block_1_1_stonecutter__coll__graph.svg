@@ -59,18 +59,18 @@ var sectionId = 'dynsection-1';
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="transparent" points="428,-79 272,-79 272,0 428,0 428,-79"/>
-<text text-anchor="start" x="277" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Stonecutter</text>
-<text text-anchor="start" x="348" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="276.5" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="290" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">getSupportType()</text>
-<text text-anchor="start" x="276.5" y="-21.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="290" y="-21.5" font-family="Helvetica,sans-Serif" font-size="10.00">onInteract()</text>
-<text text-anchor="start" x="276.5" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="290" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">recalculateCollisionBoxes()</text>
-<polygon fill="#666666" stroke="#666666" points="272,-61.5 272,-61.5 428,-61.5 428,-61.5 272,-61.5"/>
-<polygon fill="#666666" stroke="#666666" points="272,-46.5 272,-46.5 428,-46.5 428,-46.5 272,-46.5"/>
-<polygon fill="none" stroke="#666666" points="272,0 272,-79 428,-79 428,0 272,0"/>
+<polygon fill="#999999" stroke="transparent" points="507,-79 351,-79 351,0 507,0 507,-79"/>
+<text text-anchor="start" x="356" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Stonecutter</text>
+<text text-anchor="start" x="427" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="355.5" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="369" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">getSupportType()</text>
+<text text-anchor="start" x="355.5" y="-21.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="369" y="-21.5" font-family="Helvetica,sans-Serif" font-size="10.00">newMenu()</text>
+<text text-anchor="start" x="355.5" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="369" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">recalculateCollisionBoxes()</text>
+<polygon fill="#666666" stroke="#666666" points="351,-61.5 351,-61.5 507,-61.5 507,-61.5 351,-61.5"/>
+<polygon fill="#666666" stroke="#666666" points="351,-46.5 351,-46.5 507,-46.5 507,-46.5 351,-46.5"/>
+<polygon fill="none" stroke="#666666" points="351,0 351,-79 507,-79 507,0 351,0"/>
 </a>
 </g>
 </g>
@@ -93,8 +93,8 @@ var sectionId = 'dynsection-1';
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node2&#45;&gt;Node1</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M294.46,-120.25C303.39,-107.43 313.73,-92.59 323.05,-79.2"/>
-<polygon fill="none" stroke="#63b8ff" points="291.38,-118.54 288.54,-128.75 297.13,-122.54 291.38,-118.54"/>
+<path fill="none" stroke="#63b8ff" d="M313.63,-122.8C332.36,-109.44 354.72,-93.49 374.75,-79.2"/>
+<polygon fill="none" stroke="#63b8ff" points="311.4,-120.09 305.3,-128.75 315.47,-125.79 311.4,-120.09"/>
 </a>
 </g>
 </g>
@@ -389,7 +389,7 @@ var sectionId = 'dynsection-1';
 <polygon fill="none" stroke="#63b8ff" points="473.12,-759.47 467.43,-755.04 469.33,-748.09 475.02,-752.52 473.12,-759.47"/>
 </a>
 </g>
-<text text-anchor="middle" x="500.5" y="-769" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +$world</text>
+<text text-anchor="middle" x="501.5" y="-769" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +$world</text>
 </g>
 <!-- Node9 -->
 <g id="Node000009" class="node">
@@ -478,7 +478,7 @@ var sectionId = 'dynsection-1';
 <polygon fill="none" stroke="#63b8ff" points="642.79,-1271.46 637.1,-1267.03 639,-1260.07 644.69,-1264.51 642.79,-1271.46"/>
 </a>
 </g>
-<text text-anchor="middle" x="673.5" y="-1281" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +$timings</text>
+<text text-anchor="middle" x="674.5" y="-1281" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +$timings</text>
 </g>
 <!-- Node11 -->
 <g id="Node000011" class="node">
@@ -570,8 +570,35 @@ var sectionId = 'dynsection-1';
 <g id="edge11_Node000001_Node000012" class="edge">
 <title>Node12&#45;&gt;Node1</title>
 <g id="a_edge11_Node000001_Node000012"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M397.18,-107.39C390.59,-98.04 383.7,-88.27 377.28,-79.18"/>
-<polygon fill="none" stroke="#63b8ff" points="394.51,-109.67 403.13,-115.83 400.23,-105.64 394.51,-109.67"/>
+<path fill="none" stroke="#63b8ff" d="M429,-105.67C429,-96.85 429,-87.72 429,-79.18"/>
+<polygon fill="none" stroke="#63b8ff" points="425.5,-105.83 429,-115.83 432.5,-105.83 425.5,-105.83"/>
+</a>
+</g>
+</g>
+<!-- Node13 -->
+<g id="Node000013" class="node">
+<title>Node13</title>
+<g id="a_Node000013"><a xlink:href="../../d2/dc0/interfacepocketmine_1_1block_1_1utils_1_1_menu_accessor.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="638.5,-191 507.5,-191 507.5,-116 638.5,-116 638.5,-191"/>
+<text text-anchor="start" x="518" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\utils</text>
+<text text-anchor="start" x="536.5" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">\MenuAccessor</text>
+<text text-anchor="start" x="571.5" y="-152.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="512" y="-137.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="525" y="-137.5" font-family="Helvetica,sans-Serif" font-size="10.00">isOpeningObstructed()</text>
+<text text-anchor="start" x="512" y="-122.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="525" y="-122.5" font-family="Helvetica,sans-Serif" font-size="10.00">openToUnchecked()</text>
+<polygon fill="#666666" stroke="#666666" points="508,-162.5 508,-162.5 639,-162.5 639,-162.5 508,-162.5"/>
+<polygon fill="#666666" stroke="#666666" points="508,-147.5 508,-147.5 639,-147.5 639,-147.5 508,-147.5"/>
+<polygon fill="none" stroke="#666666" points="507.5,-116 507.5,-191 638.5,-191 638.5,-116 507.5,-116"/>
+</a>
+</g>
+</g>
+<!-- Node13&#45;&gt;Node1 -->
+<g id="edge12_Node000001_Node000013" class="edge">
+<title>Node13&#45;&gt;Node1</title>
+<g id="a_edge12_Node000001_Node000013"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M517.94,-109.67C505.04,-99.64 491.38,-89.02 478.73,-79.18"/>
+<polygon fill="none" stroke="#63b8ff" points="515.81,-112.45 525.85,-115.83 520.1,-106.92 515.81,-112.45"/>
 </a>
 </g>
 </g>

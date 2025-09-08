@@ -130,26 +130,30 @@ var sectionId = 'dynsection-0';
 <g id="Node000003" class="node">
 <title>Node3</title>
 <g id="a_Node000003"><a xlink:href="../../da/d36/classpocketmine_1_1block_1_1_barrel.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="335.5,-314 190.5,-314 190.5,-190 335.5,-190 335.5,-314"/>
-<text text-anchor="start" x="204" y="-302" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Barrel</text>
-<text text-anchor="start" x="195" y="-287" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="208" y="-287" font-family="Helvetica,sans-Serif" font-size="10.00">$open</text>
+<polygon fill="white" stroke="transparent" points="335.5,-329 190.5,-329 190.5,-175 335.5,-175 335.5,-329"/>
+<text text-anchor="start" x="204" y="-317" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\Barrel</text>
+<text text-anchor="start" x="195" y="-302" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="208" y="-302" font-family="Helvetica,sans-Serif" font-size="10.00">$open</text>
+<text text-anchor="start" x="195" y="-287" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="208" y="-287" font-family="Helvetica,sans-Serif" font-size="10.00">getFuelTime()</text>
 <text text-anchor="start" x="195" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="208" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00">getFuelTime()</text>
+<text text-anchor="start" x="208" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00">isOpen()</text>
 <text text-anchor="start" x="195" y="-257" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="208" y="-257" font-family="Helvetica,sans-Serif" font-size="10.00">isOpen()</text>
+<text text-anchor="start" x="208" y="-257" font-family="Helvetica,sans-Serif" font-size="10.00">place()</text>
 <text text-anchor="start" x="195" y="-242" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="208" y="-242" font-family="Helvetica,sans-Serif" font-size="10.00">onInteract()</text>
-<text text-anchor="start" x="195" y="-227" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="208" y="-227" font-family="Helvetica,sans-Serif" font-size="10.00">place()</text>
-<text text-anchor="start" x="195" y="-212" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="208" y="-212" font-family="Helvetica,sans-Serif" font-size="10.00">setOpen()</text>
+<text text-anchor="start" x="208" y="-242" font-family="Helvetica,sans-Serif" font-size="10.00">setOpen()</text>
+<text text-anchor="start" x="195" y="-227" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="208" y="-227" font-family="Helvetica,sans-Serif" font-size="10.00">describeBlockOnlyState()</text>
+<text text-anchor="start" x="195" y="-212" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="208" y="-212" font-family="Helvetica,sans-Serif" font-size="10.00">getCloseSound()</text>
 <text text-anchor="start" x="195" y="-197" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="208" y="-197" font-family="Helvetica,sans-Serif" font-size="10.00">describeBlockOnlyState()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="191,-297 191,-297 336,-297 336,-297 191,-297"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="191,-282 191,-282 206,-282 206,-282 191,-282"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="206,-282 206,-282 336,-282 336,-282 206,-282"/>
-<polygon fill="none" stroke="#bfbfbf" points="190.5,-190 190.5,-314 335.5,-314 335.5,-190 190.5,-190"/>
+<text text-anchor="start" x="208" y="-197" font-family="Helvetica,sans-Serif" font-size="10.00">getOpenSound()</text>
+<text text-anchor="start" x="195" y="-182" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="208" y="-182" font-family="Helvetica,sans-Serif" font-size="10.00">playAnimationVisual()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="191,-312 191,-312 336,-312 336,-312 191,-312"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="191,-297 191,-297 206,-297 206,-297 191,-297"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="206,-297 206,-297 336,-297 336,-297 206,-297"/>
+<polygon fill="none" stroke="#bfbfbf" points="190.5,-175 190.5,-329 335.5,-329 335.5,-175 190.5,-175"/>
 </a>
 </g>
 </g>
@@ -157,7 +161,7 @@ var sectionId = 'dynsection-0';
 <g id="edge2_Node000001_Node000003" class="edge">
 <title>Node1&#45;&gt;Node3</title>
 <g id="a_edge2_Node000001_Node000003"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M523.16,-455.05C469.31,-447.04 395.9,-429.11 344,-389 319.1,-369.76 300.27,-340.52 287.06,-314.08"/>
+<path fill="none" stroke="#63b8ff" d="M523.16,-455.05C469.31,-447.04 395.9,-429.11 344,-389 323.78,-373.37 307.56,-351.15 295.1,-329.19"/>
 <polygon fill="none" stroke="#63b8ff" points="522.93,-458.55 533.32,-456.48 523.9,-451.62 522.93,-458.55"/>
 </a>
 </g>
@@ -317,30 +321,38 @@ var sectionId = 'dynsection-0';
 <g id="Node000010" class="node">
 <title>Node10</title>
 <g id="a_Node000010"><a xlink:href="../../d3/da7/classpocketmine_1_1block_1_1_shulker_box.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="1217,-336.5 1053,-336.5 1053,-167.5 1217,-167.5 1217,-336.5"/>
-<text text-anchor="start" x="1062.5" y="-324" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\ShulkerBox</text>
-<text text-anchor="start" x="1133" y="-309" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="transparent" points="1217,-366.5 1053,-366.5 1053,-137.5 1217,-137.5 1217,-366.5"/>
+<text text-anchor="start" x="1062.5" y="-354" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\block\ShulkerBox</text>
+<text text-anchor="start" x="1133" y="-339" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="1057" y="-324" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="1070" y="-324" font-family="Helvetica,sans-Serif" font-size="10.00">getDropsForCompatibleTool()</text>
+<text text-anchor="start" x="1057" y="-309" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="1070" y="-309" font-family="Helvetica,sans-Serif" font-size="10.00">getMaxStackSize()</text>
 <text text-anchor="start" x="1057" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1070" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">getDropsForCompatibleTool()</text>
+<text text-anchor="start" x="1070" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">getPickedItem()</text>
 <text text-anchor="start" x="1057" y="-279" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1070" y="-279" font-family="Helvetica,sans-Serif" font-size="10.00">getMaxStackSize()</text>
+<text text-anchor="start" x="1070" y="-279" font-family="Helvetica,sans-Serif" font-size="10.00">getSupportType()</text>
 <text text-anchor="start" x="1057" y="-264" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1070" y="-264" font-family="Helvetica,sans-Serif" font-size="10.00">getPickedItem()</text>
+<text text-anchor="start" x="1070" y="-264" font-family="Helvetica,sans-Serif" font-size="10.00">isOpeningObstructed()</text>
 <text text-anchor="start" x="1057" y="-249" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1070" y="-249" font-family="Helvetica,sans-Serif" font-size="10.00">getSupportType()</text>
+<text text-anchor="start" x="1070" y="-249" font-family="Helvetica,sans-Serif" font-size="10.00">place()</text>
 <text text-anchor="start" x="1057" y="-234" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1070" y="-234" font-family="Helvetica,sans-Serif" font-size="10.00">onInteract()</text>
+<text text-anchor="start" x="1070" y="-234" font-family="Helvetica,sans-Serif" font-size="10.00">readStateFromWorld()</text>
 <text text-anchor="start" x="1057" y="-219" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1070" y="-219" font-family="Helvetica,sans-Serif" font-size="10.00">place()</text>
-<text text-anchor="start" x="1057" y="-204" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1070" y="-204" font-family="Helvetica,sans-Serif" font-size="10.00">readStateFromWorld()</text>
-<text text-anchor="start" x="1057" y="-189" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1070" y="-189" font-family="Helvetica,sans-Serif" font-size="10.00">writeStateToWorld()</text>
+<text text-anchor="start" x="1070" y="-219" font-family="Helvetica,sans-Serif" font-size="10.00">writeStateToWorld()</text>
+<text text-anchor="start" x="1057" y="-204" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="1070" y="-204" font-family="Helvetica,sans-Serif" font-size="10.00">describeBlockOnlyState()</text>
+<text text-anchor="start" x="1057" y="-189" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="1070" y="-189" font-family="Helvetica,sans-Serif" font-size="10.00">getCloseSound()</text>
 <text text-anchor="start" x="1057" y="-174" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="1070" y="-174" font-family="Helvetica,sans-Serif" font-size="10.00">describeBlockOnlyState()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="1053,-319 1053,-319 1217,-319 1217,-319 1053,-319"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="1053,-304 1053,-304 1217,-304 1217,-304 1053,-304"/>
-<polygon fill="none" stroke="#bfbfbf" points="1053,-167.5 1053,-336.5 1217,-336.5 1217,-167.5 1053,-167.5"/>
+<text text-anchor="start" x="1070" y="-174" font-family="Helvetica,sans-Serif" font-size="10.00">getOpenSound()</text>
+<text text-anchor="start" x="1057" y="-159" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="1070" y="-159" font-family="Helvetica,sans-Serif" font-size="10.00">newMenu()</text>
+<text text-anchor="start" x="1057" y="-144" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="1070" y="-144" font-family="Helvetica,sans-Serif" font-size="10.00">playAnimationVisual()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="1053,-349 1053,-349 1217,-349 1217,-349 1053,-349"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="1053,-334 1053,-334 1217,-334 1217,-334 1053,-334"/>
+<polygon fill="none" stroke="#bfbfbf" points="1053,-137.5 1053,-366.5 1217,-366.5 1217,-137.5 1053,-137.5"/>
 </a>
 </g>
 </g>
@@ -348,7 +360,7 @@ var sectionId = 'dynsection-0';
 <g id="edge9_Node000001_Node000010" class="edge">
 <title>Node1&#45;&gt;Node10</title>
 <g id="a_edge9_Node000001_Node000010"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M664.9,-456.95C775.42,-448.73 982.48,-428.47 1044,-389 1064.32,-375.96 1081.18,-356.59 1094.64,-336.52"/>
+<path fill="none" stroke="#63b8ff" d="M664.9,-456.95C775.42,-448.73 982.48,-428.47 1044,-389 1053.68,-382.79 1062.58,-375.14 1070.7,-366.66"/>
 <polygon fill="none" stroke="#63b8ff" points="664.56,-453.46 654.84,-457.68 665.07,-460.45 664.56,-453.46"/>
 </a>
 </g>
@@ -423,8 +435,8 @@ var sectionId = 'dynsection-0';
 <g id="edge10_Node000010_Node000011" class="edge">
 <title>Node10&#45;&gt;Node11</title>
 <g id="a_edge10_Node000010_Node000011"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M1135,-157.11C1135,-122.84 1135,-86.94 1135,-64.18"/>
-<polygon fill="none" stroke="#63b8ff" points="1131.5,-157.2 1135,-167.2 1138.5,-157.2 1131.5,-157.2"/>
+<path fill="none" stroke="#63b8ff" d="M1135,-127.39C1135,-103.25 1135,-80.44 1135,-64.25"/>
+<polygon fill="none" stroke="#63b8ff" points="1131.5,-127.43 1135,-137.43 1138.5,-127.43 1131.5,-127.43"/>
 </a>
 </g>
 </g>

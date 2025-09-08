@@ -1,0 +1,17 @@
+<map id="pocketmine\block\utils\AnimatedContainerLike" name="pocketmine\block\utils\AnimatedContainerLike">
+<area shape="rect" id="Node000001" title=" " alt="" coords="358,153,529,253"/>
+<area shape="rect" id="Node000003" href="$da/d36/classpocketmine_1_1block_1_1_barrel.html" title=" " alt="" coords="5,401,199,607"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="346,232,277,261,243,280,213,303,173,350,143,403,138,400,169,347,209,299,240,276,274,256,344,227"/>
+<area shape="rect" id="Node000004" href="$d8/d5c/classpocketmine_1_1block_1_1_chest.html" title=" " alt="" coords="223,301,429,707"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="421,267,408,302,403,300,417,265"/>
+<area shape="rect" id="Node000006" href="$d8/d15/classpocketmine_1_1block_1_1_ender_chest.html" title=" " alt="" coords="453,351,671,657"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="470,265,504,350,499,352,465,267"/>
+<area shape="rect" id="Node000007" href="$d3/da7/classpocketmine_1_1block_1_1_shulker_box.html" title=" " alt="" coords="695,351,914,657"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="543,226,616,255,652,275,685,299,709,323,731,349,727,353,705,327,682,303,649,280,614,260,541,231"/>
+<area shape="rect" id="Node000002" href="$d2/dc0/interfacepocketmine_1_1block_1_1utils_1_1_menu_accessor.html" title=" " alt="" coords="356,5,531,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="446,119,446,153,441,153,441,119"/>
+<area shape="rect" id="Node000005" href="$d0/dd3/classpocketmine_1_1block_1_1_trapped_chest.html" title=" " alt="" coords="234,755,418,835"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="329,721,329,754,323,754,323,721"/>
+<area shape="rect" id="Node000008" href="$dd/d62/classpocketmine_1_1block_1_1_dyed_shulker_box.html" title=" " alt="" coords="685,762,925,827"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="807,670,807,762,802,762,802,670"/>
+</map>
