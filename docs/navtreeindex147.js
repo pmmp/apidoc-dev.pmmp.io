@@ -1,8 +1,5 @@
 var NAVTREEINDEX147 =
 {
-"d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a93bd0790bfc8daa6017e9945addb34ef":[2,0,0,2,19,31],
-"d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a93bd0790bfc8daa6017e9945addb34ef":[3,0,1,7,24,31],
-"d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a946caa299ca329c2793e649d81a704f5":[2,0,0,2,19,0],
 "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a946caa299ca329c2793e649d81a704f5":[3,0,1,7,24,0],
 "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a98908641c26a276c076192ac4bf047e0":[2,0,0,2,19,13],
 "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a98908641c26a276c076192ac4bf047e0":[3,0,1,7,24,13],
@@ -61,6 +58,7 @@ var NAVTREEINDEX147 =
 "d9/d6e/_help_command_8php_source.html":[4,0,0,1,0,13],
 "d9/d6e/_multi_any_support_trait_8php_source.html":[4,0,0,0,2,49],
 "d9/d6f/_change_mob_property_packet_8php_source.html":[4,0,1,0,1,0,32],
+"d9/d6f/_minecraft_service_environments_8php_source.html":[4,0,1,0,1,0,1,6,2,0,4],
 "d9/d6f/classpocketmine_1_1item_1_1_item_type_ids.html":[2,0,0,5,64],
 "d9/d6f/classpocketmine_1_1item_1_1_item_type_ids.html":[3,0,1,12,65],
 "d9/d6f/classpocketmine_1_1item_1_1_item_type_ids.html#a5313a6bc3958d1fb0253f12556a5bd3f":[2,0,0,5,64,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX147 =
 "d9/d97/classpocketmine_1_1item_1_1_clock.html#a1df151eb419168f838e6d927c50f9210":[3,0,1,12,22,4],
 "d9/d97/classpocketmine_1_1item_1_1_clock.html#a23c827b82179f8a57b786a6fa38d08e8":[2,0,0,5,21,19],
 "d9/d97/classpocketmine_1_1item_1_1_clock.html#a23c827b82179f8a57b786a6fa38d08e8":[3,0,1,12,22,19],
-"d9/d97/classpocketmine_1_1item_1_1_clock.html#a27ef1db0d41125973529fb720b06a00d":[2,0,0,5,21,32]
+"d9/d97/classpocketmine_1_1item_1_1_clock.html#a27ef1db0d41125973529fb720b06a00d":[2,0,0,5,21,32],
+"d9/d97/classpocketmine_1_1item_1_1_clock.html#a27ef1db0d41125973529fb720b06a00d":[3,0,1,12,22,32],
+"d9/d97/classpocketmine_1_1item_1_1_clock.html#a2b35e6f346e5955b086fcc07ead985a7":[2,0,0,5,21,24]
 };

@@ -1,5 +1,16 @@
 var NAVTREEINDEX20 =
 {
+"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,71,45],
+"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a43e3458847422ebd5dec6c914b443c93":[3,0,1,0,73,45],
+"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a49395de82d025ca78745a17528049f18":[2,0,0,0,71,53],
+"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a49395de82d025ca78745a17528049f18":[3,0,1,0,73,53],
+"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[2,0,0,0,71,36],
+"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[3,0,1,0,73,36],
+"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[2,0,0,0,71,47],
+"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[3,0,1,0,73,47],
+"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a54c73770918ea9dfdef02db7f78f31da":[2,0,0,0,71,8],
+"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a54c73770918ea9dfdef02db7f78f31da":[3,0,1,0,73,8],
+"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a5589a4f36e3f44cf11120116b93b0802":[2,0,0,0,71,65],
 "d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a5589a4f36e3f44cf11120116b93b0802":[3,0,1,0,73,65],
 "d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a57b1586e3b6d81440be1aa89471f2a2a":[2,0,0,0,71,54],
 "d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a57b1586e3b6d81440be1aa89471f2a2a":[3,0,1,0,73,54],
@@ -238,16 +249,5 @@ var NAVTREEINDEX20 =
 "d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#af45a3d45c4ab6528c6641915722b9de8":[3,0,1,0,80,6],
 "d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#afa0e08fa7c894cf623c630db6a4a3a91":[2,0,0,0,78,61],
 "d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#afa0e08fa7c894cf623c630db6a4a3a91":[3,0,1,0,80,61],
-"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,0,0,78,29],
-"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#afcc19c437c8bef4487f5ecb956ae9a1a":[3,0,1,0,80,29],
-"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#afe4928a6da38d63eccea78bd1a2fdcd3":[2,0,0,0,78,21],
-"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#afe4928a6da38d63eccea78bd1a2fdcd3":[3,0,1,0,80,21],
-"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#afe506084e4bb8741a7ac64f6d90c00a5":[2,0,0,0,78,16],
-"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,80,16],
-"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,78,27],
-"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,80,27],
-"d1/d6e/_cauldron_empty_water_sound_8php_source.html":[4,0,0,25,5,34],
-"d1/d70/_set_local_player_as_initialized_packet_8php_source.html":[4,0,1,0,1,0,175],
-"d1/d71/_player_location_type_8php_source.html":[4,0,1,0,1,0,1,69],
-"d1/d71/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_resource_pack_chunk_request_packet.html":[3,0,1,16,0,6,148]
+"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,0,0,78,29]
 };

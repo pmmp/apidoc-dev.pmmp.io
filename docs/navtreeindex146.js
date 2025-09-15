@@ -1,10 +1,5 @@
 var NAVTREEINDEX146 =
 {
-"d9/d64/classpocketmine_1_1item_1_1_bucket.html#ad2d004e5063f6ca465ed956b024217b1":[3,0,1,12,19,26],
-"d9/d64/classpocketmine_1_1item_1_1_bucket.html#ae0735ccc1dee85d0c095aaa4109f40fb":[2,0,0,5,18,12],
-"d9/d64/classpocketmine_1_1item_1_1_bucket.html#ae0735ccc1dee85d0c095aaa4109f40fb":[3,0,1,12,19,12],
-"d9/d64/classpocketmine_1_1item_1_1_bucket.html#ae2543fd294d689ca6850d5bc78710522":[2,0,0,5,18,35],
-"d9/d64/classpocketmine_1_1item_1_1_bucket.html#ae2543fd294d689ca6850d5bc78710522":[3,0,1,12,19,35],
 "d9/d64/classpocketmine_1_1item_1_1_bucket.html#aec8070c04112770e0d01a3c56b252e81":[2,0,0,5,18,45],
 "d9/d64/classpocketmine_1_1item_1_1_bucket.html#aec8070c04112770e0d01a3c56b252e81":[3,0,1,12,19,45],
 "d9/d64/classpocketmine_1_1item_1_1_bucket.html#af737301b899b7a7c9e9b0bb9a234a119":[2,0,0,5,18,7],
@@ -14,6 +9,8 @@ var NAVTREEINDEX146 =
 "d9/d65/_chunk_data_8php_source.html":[4,0,0,25,1,0,5],
 "d9/d65/_stonecutter_8php_source.html":[4,0,0,0,221],
 "d9/d67/_player_block_action_8php_source.html":[4,0,1,0,1,0,1,65],
+"d9/d67/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1api_1_1_minecraft_service_auth_environments.html":[3,0,1,16,0,6,1,5,2,0,3],
+"d9/d67/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1api_1_1_minecraft_service_auth_environments.html#a314de799a2ac9bc3bd49efdfd7f06b38":[3,0,1,16,0,6,1,5,2,0,3,0],
 "d9/d68/classpocketmine_1_1block_1_1_cocoa_block.html":[2,0,0,0,63],
 "d9/d68/classpocketmine_1_1block_1_1_cocoa_block.html":[3,0,1,0,65],
 "d9/d68/classpocketmine_1_1block_1_1_cocoa_block.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,63,58],
@@ -249,5 +246,8 @@ var NAVTREEINDEX146 =
 "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a8db17c4dcd6375fe3b610841c2b189bf":[2,0,0,2,19,70],
 "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a8db17c4dcd6375fe3b610841c2b189bf":[3,0,1,7,24,70],
 "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a8e8d7ab0bf7a9de85e23b1202e9bb496":[2,0,0,2,19,65],
-"d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a8e8d7ab0bf7a9de85e23b1202e9bb496":[3,0,1,7,24,65]
+"d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a8e8d7ab0bf7a9de85e23b1202e9bb496":[3,0,1,7,24,65],
+"d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a93bd0790bfc8daa6017e9945addb34ef":[2,0,0,2,19,31],
+"d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a93bd0790bfc8daa6017e9945addb34ef":[3,0,1,7,24,31],
+"d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a946caa299ca329c2793e649d81a704f5":[2,0,0,2,19,0]
 };

@@ -71,13 +71,14 @@ var searchData=
   ['attributemodifier_68',['AttributeModifier',['../d4/dba/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_attribute_modifier.html',1,'pocketmine::network::mcpe::protocol::types::entity']]],
   ['attributemodifieroperation_69',['AttributeModifierOperation',['../d3/da7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_attribute_modifier_operation.html',1,'pocketmine::network::mcpe::protocol::types::entity']]],
   ['attributemodifiertargetoperand_70',['AttributeModifierTargetOperand',['../d8/d39/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_attribute_modifier_target_operand.html',1,'pocketmine::network::mcpe::protocol::types::entity']]],
-  ['authenticationdata_71',['AuthenticationData',['../d4/d5e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_authentication_data.html',1,'pocketmine::network::mcpe::protocol::types::login']]],
-  ['authenticationinfo_72',['AuthenticationInfo',['../dd/de3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_authentication_info.html',1,'pocketmine::network::mcpe::protocol::types::login']]],
-  ['automationclientconnectpacket_73',['AutomationClientConnectPacket',['../db/d17/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_automation_client_connect_packet.html',1,'pocketmine::network::mcpe::protocol']]],
-  ['availableactoridentifierspacket_74',['AvailableActorIdentifiersPacket',['../d9/dbd/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_available_actor_identifiers_packet.html',1,'pocketmine::network::mcpe::protocol']]],
-  ['availablecommandspacket_75',['AvailableCommandsPacket',['../d7/deb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_available_commands_packet.html',1,'pocketmine::network::mcpe::protocol']]],
-  ['availableenchantmentregistry_76',['AvailableEnchantmentRegistry',['../db/d9d/classpocketmine_1_1item_1_1enchantment_1_1_available_enchantment_registry.html',1,'pocketmine::item::enchantment']]],
-  ['awardachievementpacket_77',['AwardAchievementPacket',['../df/d80/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_award_achievement_packet.html',1,'pocketmine::network::mcpe::protocol']]],
-  ['axe_78',['Axe',['../d5/d0a/classpocketmine_1_1item_1_1_axe.html',1,'pocketmine::item']]],
-  ['axisalignedbb_79',['AxisAlignedBB',['../dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html',1,'pocketmine::math']]]
+  ['authenticationinfo_71',['AuthenticationInfo',['../dd/de3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_authentication_info.html',1,'pocketmine::network::mcpe::protocol::types::login']]],
+  ['authservicekey_72',['AuthServiceKey',['../d0/d5e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1api_1_1_auth_service_key.html',1,'pocketmine::network::mcpe::protocol::types::login::openid::api']]],
+  ['authserviceopenidconfiguration_73',['AuthServiceOpenIdConfiguration',['../d2/d24/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1api_1_1_auth_service_open_id_configuration.html',1,'pocketmine::network::mcpe::protocol::types::login::openid::api']]],
+  ['automationclientconnectpacket_74',['AutomationClientConnectPacket',['../db/d17/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_automation_client_connect_packet.html',1,'pocketmine::network::mcpe::protocol']]],
+  ['availableactoridentifierspacket_75',['AvailableActorIdentifiersPacket',['../d9/dbd/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_available_actor_identifiers_packet.html',1,'pocketmine::network::mcpe::protocol']]],
+  ['availablecommandspacket_76',['AvailableCommandsPacket',['../d7/deb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_available_commands_packet.html',1,'pocketmine::network::mcpe::protocol']]],
+  ['availableenchantmentregistry_77',['AvailableEnchantmentRegistry',['../db/d9d/classpocketmine_1_1item_1_1enchantment_1_1_available_enchantment_registry.html',1,'pocketmine::item::enchantment']]],
+  ['awardachievementpacket_78',['AwardAchievementPacket',['../df/d80/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_award_achievement_packet.html',1,'pocketmine::network::mcpe::protocol']]],
+  ['axe_79',['Axe',['../d5/d0a/classpocketmine_1_1item_1_1_axe.html',1,'pocketmine::item']]],
+  ['axisalignedbb_80',['AxisAlignedBB',['../dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html',1,'pocketmine::math']]]
 ];

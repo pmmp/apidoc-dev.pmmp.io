@@ -1,11 +1,5 @@
 var NAVTREEINDEX126 =
 {
-"d8/d57/classpocketmine_1_1block_1_1_liquid.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,146,11],
-"d8/d57/classpocketmine_1_1block_1_1_liquid.html#a93b5dbec35b87511e0ff44f64abfe11e":[2,0,0,0,144,45],
-"d8/d57/classpocketmine_1_1block_1_1_liquid.html#a93b5dbec35b87511e0ff44f64abfe11e":[3,0,1,0,146,45],
-"d8/d57/classpocketmine_1_1block_1_1_liquid.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,144,71],
-"d8/d57/classpocketmine_1_1block_1_1_liquid.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,146,71],
-"d8/d57/classpocketmine_1_1block_1_1_liquid.html#a98b16b2501fae53cbd7fcd7c86b53913":[2,0,0,0,144,59],
 "d8/d57/classpocketmine_1_1block_1_1_liquid.html#a98b16b2501fae53cbd7fcd7c86b53913":[3,0,1,0,146,59],
 "d8/d57/classpocketmine_1_1block_1_1_liquid.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,144,41],
 "d8/d57/classpocketmine_1_1block_1_1_liquid.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,146,41],
@@ -249,5 +243,11 @@ var NAVTREEINDEX126 =
 "d8/d5c/classpocketmine_1_1block_1_1_chest.html#a30a070aa7befb02f9fff5cbf2693c01e":[2,0,0,0,55,9],
 "d8/d5c/classpocketmine_1_1block_1_1_chest.html#a30a070aa7befb02f9fff5cbf2693c01e":[3,0,1,0,57,9],
 "d8/d5c/classpocketmine_1_1block_1_1_chest.html#a331782605e4f5e2600d571ca29fa78ea":[2,0,0,0,55,60],
-"d8/d5c/classpocketmine_1_1block_1_1_chest.html#a331782605e4f5e2600d571ca29fa78ea":[3,0,1,0,57,60]
+"d8/d5c/classpocketmine_1_1block_1_1_chest.html#a331782605e4f5e2600d571ca29fa78ea":[3,0,1,0,57,60],
+"d8/d5c/classpocketmine_1_1block_1_1_chest.html#a36afea9f0214193963f75577e8d48c26":[2,0,0,0,55,62],
+"d8/d5c/classpocketmine_1_1block_1_1_chest.html#a36afea9f0214193963f75577e8d48c26":[3,0,1,0,57,62],
+"d8/d5c/classpocketmine_1_1block_1_1_chest.html#a384f0596fa1e84784fa78fe505e29e38":[2,0,0,0,55,68],
+"d8/d5c/classpocketmine_1_1block_1_1_chest.html#a384f0596fa1e84784fa78fe505e29e38":[3,0,1,0,57,68],
+"d8/d5c/classpocketmine_1_1block_1_1_chest.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,0,0,55,10],
+"d8/d5c/classpocketmine_1_1block_1_1_chest.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,57,10]
 };

@@ -1,10 +1,5 @@
 var NAVTREEINDEX137 =
 {
-"d9/d00/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_bool_from_string_property.html#a0d8ff50820bdf657058f83fa5b7b7542":[3,0,1,6,0,0,0,0,0,0],
-"d9/d00/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_bool_from_string_property.html#a1fafddd2bab5ad443cd1293544abdc93":[3,0,1,6,0,0,0,0,0,1],
-"d9/d00/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_bool_from_string_property.html#a2f6d8402654ecf67f1ab9be3ef0935eb":[3,0,1,6,0,0,0,0,0,3],
-"d9/d00/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_bool_from_string_property.html#a35eec9b26baaf143b1975500a0b70f8f":[3,0,1,6,0,0,0,0,0,4],
-"d9/d00/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_bool_from_string_property.html#a3e3bae9107b511e11acaf36c5201759b":[3,0,1,6,0,0,0,0,0,2],
 "d9/d00/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_bool_from_string_property.html#a9fea96030ffdd6ec2fec427ca4ccd77d":[3,0,1,6,0,0,0,0,0,5],
 "d9/d01/_container_u_i_ids_8php_source.html":[4,0,1,0,1,0,1,5,3],
 "d9/d03/_falling_block_8php_source.html":[4,0,0,6,2,2],
@@ -249,5 +244,10 @@ var NAVTREEINDEX137 =
 "d9/d0a/classpocketmine_1_1item_1_1_cookie.html#aa8e6d5b0a8cc541423f4785fa3f4acdc":[3,0,1,12,34,8],
 "d9/d0a/classpocketmine_1_1item_1_1_cookie.html#aabd7c38d2f74e537da5bcc6149570fd8":[2,0,0,5,33,18],
 "d9/d0a/classpocketmine_1_1item_1_1_cookie.html#aabd7c38d2f74e537da5bcc6149570fd8":[3,0,1,12,34,18],
-"d9/d0a/classpocketmine_1_1item_1_1_cookie.html#aad9f6fbf32449170a157b787d4227ee6":[2,0,0,5,33,30]
+"d9/d0a/classpocketmine_1_1item_1_1_cookie.html#aad9f6fbf32449170a157b787d4227ee6":[2,0,0,5,33,30],
+"d9/d0a/classpocketmine_1_1item_1_1_cookie.html#aad9f6fbf32449170a157b787d4227ee6":[3,0,1,12,34,30],
+"d9/d0a/classpocketmine_1_1item_1_1_cookie.html#ab7a3f98c82cfd72eb999afbb6e9baf45":[2,0,0,5,33,10],
+"d9/d0a/classpocketmine_1_1item_1_1_cookie.html#ab7a3f98c82cfd72eb999afbb6e9baf45":[3,0,1,12,34,10],
+"d9/d0a/classpocketmine_1_1item_1_1_cookie.html#aba073e91196cf2978057ec4d3842aa76":[2,0,0,5,33,42],
+"d9/d0a/classpocketmine_1_1item_1_1_cookie.html#aba073e91196cf2978057ec4d3842aa76":[3,0,1,12,34,42]
 };

@@ -205,7 +205,7 @@ var NAVTREEINDEX2 =
 "d0/d36/classpocketmine_1_1utils_1_1_internet_request_result.html#acb2d7ba83b70b5c5d3b4fead8c746f0b":[3,0,1,28,11,1],
 "d0/d36/classpocketmine_1_1utils_1_1_internet_request_result.html#acf27f0e2327b6125b9122b7e11ca9bc0":[2,0,0,12,11,0],
 "d0/d36/classpocketmine_1_1utils_1_1_internet_request_result.html#acf27f0e2327b6125b9122b7e11ca9bc0":[3,0,1,28,11,0],
-"d0/d37/_jwt_body_rfc7519_8php_source.html":[4,0,1,0,1,0,1,6,8],
+"d0/d37/_jwt_body_rfc7519_8php_source.html":[4,0,1,0,1,0,1,6,5],
 "d0/d37/classpocketmine_1_1entity_1_1effect_1_1_effect.html":[3,0,1,7,1,1],
 "d0/d37/classpocketmine_1_1entity_1_1effect_1_1_effect.html#a125c11ecf3e80cdb71ecc6e07f162da4":[3,0,1,7,1,1,8],
 "d0/d37/classpocketmine_1_1entity_1_1effect_1_1_effect.html#a47e78434ab3294753bc42572711b3d49":[3,0,1,7,1,1,7],

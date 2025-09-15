@@ -1,5 +1,11 @@
 var NAVTREEINDEX12 =
 {
+"d0/dde/classpocketmine_1_1block_1_1_bed.html#a6201b0d5460ae6f3b5cee03197c9a94a":[2,0,0,0,17,39],
+"d0/dde/classpocketmine_1_1block_1_1_bed.html#a6201b0d5460ae6f3b5cee03197c9a94a":[3,0,1,0,19,39],
+"d0/dde/classpocketmine_1_1block_1_1_bed.html#a637805a771162f7f9bbc26eb1c9eda72":[2,0,0,0,17,63],
+"d0/dde/classpocketmine_1_1block_1_1_bed.html#a637805a771162f7f9bbc26eb1c9eda72":[3,0,1,0,19,63],
+"d0/dde/classpocketmine_1_1block_1_1_bed.html#a68b929a7e4cf4647c1edb6f0a4a50253":[2,0,0,0,17,61],
+"d0/dde/classpocketmine_1_1block_1_1_bed.html#a68b929a7e4cf4647c1edb6f0a4a50253":[3,0,1,0,19,61],
 "d0/dde/classpocketmine_1_1block_1_1_bed.html#a6d3cefce63d654d994f2e1b5dcc11c54":[2,0,0,0,17,20],
 "d0/dde/classpocketmine_1_1block_1_1_bed.html#a6d3cefce63d654d994f2e1b5dcc11c54":[3,0,1,0,19,20],
 "d0/dde/classpocketmine_1_1block_1_1_bed.html#a75b16ca6e22355cf632466a969e79211":[2,0,0,0,17,41],
@@ -243,11 +249,5 @@ var NAVTREEINDEX12 =
 "d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#a771a30c30a36b0992f54c57dc63af10d":[3,0,1,0,198,40],
 "d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#a7d9836de8cad67e5b5338a8b272b4fba":[2,0,0,0,196,30],
 "d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#a7d9836de8cad67e5b5338a8b272b4fba":[3,0,1,0,198,30],
-"d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#a8307fc850da5c3f36e9dfc7ce639fe55":[2,0,0,0,196,45],
-"d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#a8307fc850da5c3f36e9dfc7ce639fe55":[3,0,1,0,198,45],
-"d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[2,0,0,0,196,28],
-"d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,198,28],
-"d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#a8635dccd33641330c42129a61377b2fd":[2,0,0,0,196,35],
-"d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#a8635dccd33641330c42129a61377b2fd":[3,0,1,0,198,35],
-"d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,0,0,196,56]
+"d0/dff/classpocketmine_1_1block_1_1_sea_pickle.html#a8307fc850da5c3f36e9dfc7ce639fe55":[2,0,0,0,196,45]
 };

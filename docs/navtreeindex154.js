@@ -1,5 +1,11 @@
 var NAVTREEINDEX154 =
 {
+"da/d18/classpocketmine_1_1block_1_1_fire.html#a747a8fb648f59fe5ee8dd8ca132e05cb":[3,0,1,0,103,37],
+"da/d18/classpocketmine_1_1block_1_1_fire.html#a757b95c06e4042e1bea731c7f53b9cbc":[2,0,0,0,101,64],
+"da/d18/classpocketmine_1_1block_1_1_fire.html#a757b95c06e4042e1bea731c7f53b9cbc":[3,0,1,0,103,64],
+"da/d18/classpocketmine_1_1block_1_1_fire.html#a75b16ca6e22355cf632466a969e79211":[2,0,0,0,101,41],
+"da/d18/classpocketmine_1_1block_1_1_fire.html#a75b16ca6e22355cf632466a969e79211":[3,0,1,0,103,41],
+"da/d18/classpocketmine_1_1block_1_1_fire.html#a771a30c30a36b0992f54c57dc63af10d":[2,0,0,0,101,40],
 "da/d18/classpocketmine_1_1block_1_1_fire.html#a771a30c30a36b0992f54c57dc63af10d":[3,0,1,0,103,40],
 "da/d18/classpocketmine_1_1block_1_1_fire.html#a790526d836015efeb6129606099d01d7":[2,0,0,0,101,60],
 "da/d18/classpocketmine_1_1block_1_1_fire.html#a790526d836015efeb6129606099d01d7":[3,0,1,0,103,60],
@@ -243,11 +249,5 @@ var NAVTREEINDEX154 =
 "da/d24/classpocketmine_1_1block_1_1_bone_block.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,31,32],
 "da/d24/classpocketmine_1_1block_1_1_bone_block.html#ae829b9f476afef6b23d6f4f7fd558e0f":[3,0,1,0,33,32],
 "da/d24/classpocketmine_1_1block_1_1_bone_block.html#aecc8e1e3906135b4b812bb4553d833ef":[2,0,0,0,31,37],
-"da/d24/classpocketmine_1_1block_1_1_bone_block.html#aecc8e1e3906135b4b812bb4553d833ef":[3,0,1,0,33,37],
-"da/d24/classpocketmine_1_1block_1_1_bone_block.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,31,54],
-"da/d24/classpocketmine_1_1block_1_1_bone_block.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,33,54],
-"da/d24/classpocketmine_1_1block_1_1_bone_block.html#af45a3d45c4ab6528c6641915722b9de8":[2,0,0,0,31,6],
-"da/d24/classpocketmine_1_1block_1_1_bone_block.html#af45a3d45c4ab6528c6641915722b9de8":[3,0,1,0,33,6],
-"da/d24/classpocketmine_1_1block_1_1_bone_block.html#af97d045122137ac415425b45e7b22a36":[2,0,0,0,31,49],
-"da/d24/classpocketmine_1_1block_1_1_bone_block.html#af97d045122137ac415425b45e7b22a36":[3,0,1,0,33,49]
+"da/d24/classpocketmine_1_1block_1_1_bone_block.html#aecc8e1e3906135b4b812bb4553d833ef":[3,0,1,0,33,37]
 };

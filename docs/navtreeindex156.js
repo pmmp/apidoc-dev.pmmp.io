@@ -1,5 +1,11 @@
 var NAVTREEINDEX156 =
 {
+"da/d3f/classpocketmine_1_1event_1_1entity_1_1_entity_regain_health_event.html#a90efcab0d539a5cb5b17968dfa164017":[3,0,1,9,1,21,4],
+"da/d3f/classpocketmine_1_1event_1_1entity_1_1_entity_regain_health_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,0,3,1,21,3],
+"da/d3f/classpocketmine_1_1event_1_1entity_1_1_entity_regain_health_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,1,21,3],
+"da/d3f/classpocketmine_1_1event_1_1entity_1_1_entity_regain_health_event.html#aa105cba08f6aa75722b2716a4887a477":[2,0,0,3,1,21,1],
+"da/d3f/classpocketmine_1_1event_1_1entity_1_1_entity_regain_health_event.html#aa105cba08f6aa75722b2716a4887a477":[3,0,1,9,1,21,1],
+"da/d3f/classpocketmine_1_1event_1_1entity_1_1_entity_regain_health_event.html#ae03bf252f91ddeea7f9d5b867c6824b0":[2,0,0,3,1,21,2],
 "da/d3f/classpocketmine_1_1event_1_1entity_1_1_entity_regain_health_event.html#ae03bf252f91ddeea7f9d5b867c6824b0":[3,0,1,9,1,21,2],
 "da/d3f/classpocketmine_1_1network_1_1query_1_1_query_info.html":[2,0,0,8,0,2],
 "da/d3f/classpocketmine_1_1network_1_1query_1_1_query_info.html":[3,0,1,16,1,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX156 =
 "da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,124,44],
 "da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a43e3458847422ebd5dec6c914b443c93":[3,0,1,0,126,44],
 "da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a444028c60ad6c7afacda1a6cc3065e59":[2,0,0,0,124,13],
-"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a444028c60ad6c7afacda1a6cc3065e59":[3,0,1,0,126,13],
-"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a49395de82d025ca78745a17528049f18":[2,0,0,0,124,52],
-"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a49395de82d025ca78745a17528049f18":[3,0,1,0,126,52],
-"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[2,0,0,0,124,36],
-"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[3,0,1,0,126,36],
-"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[2,0,0,0,124,46],
-"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[3,0,1,0,126,46]
+"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a444028c60ad6c7afacda1a6cc3065e59":[3,0,1,0,126,13]
 };

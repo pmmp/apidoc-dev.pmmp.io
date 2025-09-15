@@ -1,5 +1,10 @@
 var NAVTREEINDEX151 =
 {
+"d9/dda/classpocketmine_1_1item_1_1_rabbit_stew.html#a2b35e6f346e5955b086fcc07ead985a7":[3,0,1,12,86,25],
+"d9/dda/classpocketmine_1_1item_1_1_rabbit_stew.html#a2bcaa528592d9ae259e2e6d0b89f375d":[2,0,0,5,85,22],
+"d9/dda/classpocketmine_1_1item_1_1_rabbit_stew.html#a2bcaa528592d9ae259e2e6d0b89f375d":[3,0,1,12,86,22],
+"d9/dda/classpocketmine_1_1item_1_1_rabbit_stew.html#a2ce778f940de9e172cd268f378893b8f":[2,0,0,5,85,14],
+"d9/dda/classpocketmine_1_1item_1_1_rabbit_stew.html#a2ce778f940de9e172cd268f378893b8f":[3,0,1,12,86,14],
 "d9/dda/classpocketmine_1_1item_1_1_rabbit_stew.html#a2e7d9e107f4f24de4aabc19764dc7dc2":[2,0,0,5,85,17],
 "d9/dda/classpocketmine_1_1item_1_1_rabbit_stew.html#a2e7d9e107f4f24de4aabc19764dc7dc2":[3,0,1,12,86,17],
 "d9/dda/classpocketmine_1_1item_1_1_rabbit_stew.html#a2ee3936259ed3fd96fa07dcbcc4797c1":[2,0,0,5,85,24],
@@ -90,6 +95,7 @@ var NAVTREEINDEX151 =
 "d9/dda/classpocketmine_1_1item_1_1_rabbit_stew.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,86,40],
 "d9/ddb/_copper_wax_apply_sound_8php_source.html":[4,0,0,25,5,44],
 "d9/ddb/_value_from_string_property_8php_source.html":[4,0,0,5,0,0,0,0,12],
+"d9/ddc/_auth_service_open_id_configuration_8php_source.html":[4,0,1,0,1,0,1,6,2,0,1],
 "d9/ddc/_loom_8php_source.html":[4,0,0,0,148],
 "d9/dde/_update_client_input_locks_packet_8php_source.html":[4,0,1,0,1,0,212],
 "d9/de0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackresponse_1_1_item_stack_response_slot_info.html":[3,0,1,16,0,6,1,4,1,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX151 =
 "d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a49a05b01faaaf071449c97060fe44926":[3,0,1,12,59,0],
 "d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a4a9aa55600bb30c4d55ad63337874a07":[2,0,0,5,58,6],
 "d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a4a9aa55600bb30c4d55ad63337874a07":[3,0,1,12,59,6],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a4abcb8c5c058c75ca9834eb56558647c":[2,0,0,5,58,34],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a4abcb8c5c058c75ca9834eb56558647c":[3,0,1,12,59,34],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a51b97f07ff97887a144198bb3dba6fc4":[2,0,0,5,58,20],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a51b97f07ff97887a144198bb3dba6fc4":[3,0,1,12,59,20],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a536378f334334c0e8b06e5ccaeb4de39":[2,0,0,5,58,29],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a536378f334334c0e8b06e5ccaeb4de39":[3,0,1,12,59,29],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a568624515bba5ff57e21ec8c828ade56":[2,0,0,5,58,5]
+"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a4abcb8c5c058c75ca9834eb56558647c":[2,0,0,5,58,34]
 };

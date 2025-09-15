@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.33.2 git-1133d49c924b4358c79d44eeb97dcbf56cb4d1eb</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.33.2 git-919492bdcad8510eb6606439eb77e1c604f1d1ea</span>
    </div>
   </td>
  </tr>
@@ -195,8 +195,8 @@ $(function(){initNavTree('d3/dc6/_item_serializer_8php_source.html','../../'); i
 <div class="line"><a id="l00117" name="l00117"></a><span class="lineno">  117</span>            $data = $serializer($item);</div>
 <div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span>        }</div>
 <div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span> </div>
-<div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>        <span class="keywordflow">if</span>($item-&gt;<a class="code hl_function" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html#ad2d004e5063f6ca465ed956b024217b1">hasNamedTag</a>()){</div>
-<div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>            $resultTag = $item-&gt;<a class="code hl_function" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html#a2b35e6f346e5955b086fcc07ead985a7">getNamedTag</a>();</div>
+<div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>        $resultTag = $item-&gt;<a class="code hl_function" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html#a2b35e6f346e5955b086fcc07ead985a7">getNamedTag</a>();</div>
+<div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>        <span class="keywordflow">if</span>($resultTag-&gt;count() &gt; 0){</div>
 <div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>            $extraTag = $data-&gt;getTag();</div>
 <div class="line"><a id="l00123" name="l00123"></a><span class="lineno">  123</span>            <span class="keywordflow">if</span>($extraTag !== <span class="keyword">null</span>){</div>
 <div class="line"><a id="l00124" name="l00124"></a><span class="lineno">  124</span>                $resultTag = $resultTag-&gt;merge($extraTag);</div>
@@ -269,7 +269,6 @@ $(function(){initNavTree('d3/dc6/_item_serializer_8php_source.html','../../'); i
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html_a2b35e6f346e5955b086fcc07ead985a7"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html#a2b35e6f346e5955b086fcc07ead985a7">pocketmine\item\Item\getNamedTag</a></div><div class="ttdeci">getNamedTag()</div><div class="ttdef"><b>Definition</b> <a href="../../db/d98/_item_8php_source.html#l00257">Item.php:257</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html_a2ee3936259ed3fd96fa07dcbcc4797c1"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html#a2ee3936259ed3fd96fa07dcbcc4797c1">pocketmine\item\Item\getName</a></div><div class="ttdeci">getName()</div><div class="ttdef"><b>Definition</b> <a href="../../db/d98/_item_8php_source.html#l00455">Item.php:455</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html_ab7a3f98c82cfd72eb999afbb6e9baf45"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html#ab7a3f98c82cfd72eb999afbb6e9baf45">pocketmine\item\Item\getBlock</a></div><div class="ttdeci">getBlock(?Facing $clickedFace=null)</div><div class="ttdef"><b>Definition</b> <a href="../../db/d98/_item_8php_source.html#l00510">Item.php:510</a></div></div>
-<div class="ttc" id="aclasspocketmine_1_1item_1_1_item_html_ad2d004e5063f6ca465ed956b024217b1"><div class="ttname"><a href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html#ad2d004e5063f6ca465ed956b024217b1">pocketmine\item\Item\hasNamedTag</a></div><div class="ttdeci">hasNamedTag()</div><div class="ttdef"><b>Definition</b> <a href="../../db/d98/_item_8php_source.html#l00249">Item.php:249</a></div></div>
 <div class="ttc" id="aclasspocketmine_1_1item_1_1_vanilla_items_html"><div class="ttname"><a href="../../d9/dff/classpocketmine_1_1item_1_1_vanilla_items.html">pocketmine\item\VanillaItems</a></div><div class="ttdef"><b>Definition</b> <a href="../../df/da6/_vanilla_items_8php_source.html#l00358">VanillaItems.php:358</a></div></div>
 <div class="ttc" id="ainterfacepocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_serializer_html"><div class="ttname"><a href="../../db/dc6/interfacepocketmine_1_1data_1_1bedrock_1_1block_1_1_block_state_serializer.html">pocketmine\data\bedrock\block\BlockStateSerializer</a></div><div class="ttdef"><b>Definition</b> <a href="../../df/d82/_block_state_serializer_8php_source.html#l00031">BlockStateSerializer.php:31</a></div></div>
 </div><!-- fragment --></div><!-- contents -->

@@ -1,5 +1,11 @@
 var NAVTREEINDEX155 =
 {
+"da/d24/classpocketmine_1_1block_1_1_bone_block.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,31,54],
+"da/d24/classpocketmine_1_1block_1_1_bone_block.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,33,54],
+"da/d24/classpocketmine_1_1block_1_1_bone_block.html#af45a3d45c4ab6528c6641915722b9de8":[2,0,0,0,31,6],
+"da/d24/classpocketmine_1_1block_1_1_bone_block.html#af45a3d45c4ab6528c6641915722b9de8":[3,0,1,0,33,6],
+"da/d24/classpocketmine_1_1block_1_1_bone_block.html#af97d045122137ac415425b45e7b22a36":[2,0,0,0,31,49],
+"da/d24/classpocketmine_1_1block_1_1_bone_block.html#af97d045122137ac415425b45e7b22a36":[3,0,1,0,33,49],
 "da/d24/classpocketmine_1_1block_1_1_bone_block.html#afa0e08fa7c894cf623c630db6a4a3a91":[2,0,0,0,31,61],
 "da/d24/classpocketmine_1_1block_1_1_bone_block.html#afa0e08fa7c894cf623c630db6a4a3a91":[3,0,1,0,33,61],
 "da/d24/classpocketmine_1_1block_1_1_bone_block.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,0,0,31,29],
@@ -243,11 +249,5 @@ var NAVTREEINDEX155 =
 "da/d3f/classpocketmine_1_1event_1_1entity_1_1_entity_regain_health_event.html#a2333d7f055234d7fefc00066158bd888":[3,0,1,9,1,21,5],
 "da/d3f/classpocketmine_1_1event_1_1entity_1_1_entity_regain_health_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,1,21,0],
 "da/d3f/classpocketmine_1_1event_1_1entity_1_1_entity_regain_health_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,1,21,0],
-"da/d3f/classpocketmine_1_1event_1_1entity_1_1_entity_regain_health_event.html#a90efcab0d539a5cb5b17968dfa164017":[2,0,0,3,1,21,4],
-"da/d3f/classpocketmine_1_1event_1_1entity_1_1_entity_regain_health_event.html#a90efcab0d539a5cb5b17968dfa164017":[3,0,1,9,1,21,4],
-"da/d3f/classpocketmine_1_1event_1_1entity_1_1_entity_regain_health_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,0,3,1,21,3],
-"da/d3f/classpocketmine_1_1event_1_1entity_1_1_entity_regain_health_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,1,21,3],
-"da/d3f/classpocketmine_1_1event_1_1entity_1_1_entity_regain_health_event.html#aa105cba08f6aa75722b2716a4887a477":[2,0,0,3,1,21,1],
-"da/d3f/classpocketmine_1_1event_1_1entity_1_1_entity_regain_health_event.html#aa105cba08f6aa75722b2716a4887a477":[3,0,1,9,1,21,1],
-"da/d3f/classpocketmine_1_1event_1_1entity_1_1_entity_regain_health_event.html#ae03bf252f91ddeea7f9d5b867c6824b0":[2,0,0,3,1,21,2]
+"da/d3f/classpocketmine_1_1event_1_1entity_1_1_entity_regain_health_event.html#a90efcab0d539a5cb5b17968dfa164017":[2,0,0,3,1,21,4]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX14 =
 {
+"d1/d0d/classpocketmine_1_1block_1_1_dragon_egg.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,89,64],
+"d1/d0d/classpocketmine_1_1block_1_1_dragon_egg.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,87,50],
+"d1/d0d/classpocketmine_1_1block_1_1_dragon_egg.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,89,50],
+"d1/d0d/classpocketmine_1_1block_1_1_dragon_egg.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,87,3],
+"d1/d0d/classpocketmine_1_1block_1_1_dragon_egg.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,89,3],
+"d1/d0d/classpocketmine_1_1block_1_1_dragon_egg.html#a239bb000851bbe223abed0b01b00f7ab":[2,0,0,0,87,32],
 "d1/d0d/classpocketmine_1_1block_1_1_dragon_egg.html#a239bb000851bbe223abed0b01b00f7ab":[3,0,1,0,89,32],
 "d1/d0d/classpocketmine_1_1block_1_1_dragon_egg.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,87,22],
 "d1/d0d/classpocketmine_1_1block_1_1_dragon_egg.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[3,0,1,0,89,22],
@@ -243,11 +249,5 @@ var NAVTREEINDEX14 =
 "d1/d18/classpocketmine_1_1item_1_1_compass.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[2,0,0,5,25,3],
 "d1/d18/classpocketmine_1_1item_1_1_compass.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[3,0,1,12,26,3],
 "d1/d18/classpocketmine_1_1item_1_1_compass.html#a9dd9484fe3ab1afcbd2627860e01973a":[2,0,0,5,25,43],
-"d1/d18/classpocketmine_1_1item_1_1_compass.html#a9dd9484fe3ab1afcbd2627860e01973a":[3,0,1,12,26,43],
-"d1/d18/classpocketmine_1_1item_1_1_compass.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[2,0,0,5,25,8],
-"d1/d18/classpocketmine_1_1item_1_1_compass.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[3,0,1,12,26,8],
-"d1/d18/classpocketmine_1_1item_1_1_compass.html#aa27432059ecfd201a3cec74253b21fa9":[2,0,0,5,25,46],
-"d1/d18/classpocketmine_1_1item_1_1_compass.html#aa27432059ecfd201a3cec74253b21fa9":[3,0,1,12,26,46],
-"d1/d18/classpocketmine_1_1item_1_1_compass.html#aa2834fb1656bc61244f5a24091aaa600":[2,0,0,5,25,34],
-"d1/d18/classpocketmine_1_1item_1_1_compass.html#aa2834fb1656bc61244f5a24091aaa600":[3,0,1,12,26,34]
+"d1/d18/classpocketmine_1_1item_1_1_compass.html#a9dd9484fe3ab1afcbd2627860e01973a":[3,0,1,12,26,43]
 };

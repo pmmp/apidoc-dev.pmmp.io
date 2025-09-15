@@ -1,5 +1,17 @@
 var NAVTREEINDEX29 =
 {
+"d1/dfd/classpocketmine_1_1block_1_1_wall_coral_fan.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,241,27],
+"d1/dfd/classpocketmine_1_1block_1_1_wall_coral_fan.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,243,27],
+"d1/dfd/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_preset.html":[3,0,1,16,0,6,1,1,10],
+"d1/dfe/_ceiling_center_hanging_sign_8php_source.html":[4,0,0,0,52],
+"d1/dfe/_gravel_8php_source.html":[4,0,0,0,124],
+"d1/dfe/_player_display_name_change_event_8php_source.html":[4,0,0,7,3,12],
+"d1/dff/_fizz_sound_8php_source.html":[4,0,0,25,5,62],
+"d1/dff/_get_type_id_from_const_trait_8php_source.html":[4,0,1,0,1,0,1,42],
+"d2/d00/classpocketmine_1_1block_1_1_torch.html":[2,0,0,0,228],
+"d2/d00/classpocketmine_1_1block_1_1_torch.html":[3,0,1,0,230],
+"d2/d00/classpocketmine_1_1block_1_1_torch.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,228,58],
+"d2/d00/classpocketmine_1_1block_1_1_torch.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,230,58],
 "d2/d00/classpocketmine_1_1block_1_1_torch.html#a097af4a935135a8524d812f497373075":[2,0,0,0,228,63],
 "d2/d00/classpocketmine_1_1block_1_1_torch.html#a097af4a935135a8524d812f497373075":[3,0,1,0,230,63],
 "d2/d00/classpocketmine_1_1block_1_1_torch.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,228,18],
@@ -237,17 +249,5 @@ var NAVTREEINDEX29 =
 "d2/d09/classpocketmine_1_1item_1_1_totem.html#ad2d004e5063f6ca465ed956b024217b1":[2,0,0,5,114,26],
 "d2/d09/classpocketmine_1_1item_1_1_totem.html#ad2d004e5063f6ca465ed956b024217b1":[3,0,1,12,115,26],
 "d2/d09/classpocketmine_1_1item_1_1_totem.html#ae0735ccc1dee85d0c095aaa4109f40fb":[2,0,0,5,114,12],
-"d2/d09/classpocketmine_1_1item_1_1_totem.html#ae0735ccc1dee85d0c095aaa4109f40fb":[3,0,1,12,115,12],
-"d2/d09/classpocketmine_1_1item_1_1_totem.html#ae2543fd294d689ca6850d5bc78710522":[2,0,0,5,114,35],
-"d2/d09/classpocketmine_1_1item_1_1_totem.html#ae2543fd294d689ca6850d5bc78710522":[3,0,1,12,115,35],
-"d2/d09/classpocketmine_1_1item_1_1_totem.html#aec8070c04112770e0d01a3c56b252e81":[2,0,0,5,114,45],
-"d2/d09/classpocketmine_1_1item_1_1_totem.html#aec8070c04112770e0d01a3c56b252e81":[3,0,1,12,115,45],
-"d2/d09/classpocketmine_1_1item_1_1_totem.html#af44b2311f27b78c5cd442c189793e7e6":[2,0,0,5,114,36],
-"d2/d09/classpocketmine_1_1item_1_1_totem.html#af44b2311f27b78c5cd442c189793e7e6":[3,0,1,12,115,36],
-"d2/d09/classpocketmine_1_1item_1_1_totem.html#af737301b899b7a7c9e9b0bb9a234a119":[2,0,0,5,114,7],
-"d2/d09/classpocketmine_1_1item_1_1_totem.html#af737301b899b7a7c9e9b0bb9a234a119":[3,0,1,12,115,7],
-"d2/d09/classpocketmine_1_1item_1_1_totem.html#af85accbedba28b67bb66d5f12d329585":[2,0,0,5,114,37],
-"d2/d09/classpocketmine_1_1item_1_1_totem.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,115,37],
-"d2/d09/classpocketmine_1_1world_1_1biome_1_1model_1_1_biome_definition_entry_data.html":[3,0,1,30,0,0,0],
-"d2/d09/classpocketmine_1_1world_1_1biome_1_1model_1_1_biome_definition_entry_data.html#a00c69052d6c62ceab25d69f10112a631":[3,0,1,30,0,0,0,4]
+"d2/d09/classpocketmine_1_1item_1_1_totem.html#ae0735ccc1dee85d0c095aaa4109f40fb":[3,0,1,12,115,12]
 };

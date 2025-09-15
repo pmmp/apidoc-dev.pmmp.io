@@ -1,5 +1,11 @@
 var NAVTREEINDEX158 =
 {
+"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#adc070fadd4e3b1f0e5ecb14b2e2e987e":[3,0,1,0,42,35],
+"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#adc7b2fcbcc10f046b1cbcafdd0858863":[2,0,0,0,40,1],
+"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#adc7b2fcbcc10f046b1cbcafdd0858863":[3,0,1,0,42,1],
+"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#add4d4fd4fecc779dee9c9f94b8a556e5":[2,0,0,0,40,5],
+"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#add4d4fd4fecc779dee9c9f94b8a556e5":[3,0,1,0,42,5],
+"da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#ade77e0b1fce7bdebceed4092b9c5c022":[2,0,0,0,40,34],
 "da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#ade77e0b1fce7bdebceed4092b9c5c022":[3,0,1,0,42,34],
 "da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,40,33],
 "da/d60/classpocketmine_1_1block_1_1_cake_with_candle.html#ae829b9f476afef6b23d6f4f7fd558e0f":[3,0,1,0,42,33],
@@ -243,11 +249,5 @@ var NAVTREEINDEX158 =
 "da/d87/_concrete_8php_source.html":[4,0,0,0,66],
 "da/d87/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_boss_event_packet.html":[3,0,1,16,0,6,24],
 "da/d87/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_boss_event_packet.html#a3017868e7161f760deeed8ef0d4f041a":[3,0,1,16,0,6,24,12],
-"da/d87/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_boss_event_packet.html#a30436d882e568a5afa5096ecd2bf52b5":[3,0,1,16,0,6,24,8],
-"da/d87/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_boss_event_packet.html#a32e0344d3f96da89ec399b0407461e8c":[3,0,1,16,0,6,24,13],
-"da/d87/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_boss_event_packet.html#a4fd6d66cb032e7a534839a45ada8f166":[3,0,1,16,0,6,24,10],
-"da/d87/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_boss_event_packet.html#a6bd7f4609c60045453c85f5ef7288262":[3,0,1,16,0,6,24,6],
-"da/d87/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_boss_event_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,24,3],
-"da/d87/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_boss_event_packet.html#a915e8dcc7b734e14ecae04df68ee1c49":[3,0,1,16,0,6,24,4],
-"da/d87/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_boss_event_packet.html#a962ec42de6f9d0848ea9662e465c0dd1":[3,0,1,16,0,6,24,5]
+"da/d87/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_boss_event_packet.html#a30436d882e568a5afa5096ecd2bf52b5":[3,0,1,16,0,6,24,8]
 };

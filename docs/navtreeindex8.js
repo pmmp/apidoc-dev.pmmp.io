@@ -1,5 +1,13 @@
 var NAVTREEINDEX8 =
 {
+"d0/da7/classpocketmine_1_1entity_1_1_zombie.html#a180ddec765d91d56a76789284587ac89":[2,0,0,2,21,58],
+"d0/da7/classpocketmine_1_1entity_1_1_zombie.html#a180ddec765d91d56a76789284587ac89":[3,0,1,7,26,58],
+"d0/da7/classpocketmine_1_1entity_1_1_zombie.html#a1bc4a8d3a405c0923c2ed2a8dbcff9a7":[2,0,0,2,21,36],
+"d0/da7/classpocketmine_1_1entity_1_1_zombie.html#a1bc4a8d3a405c0923c2ed2a8dbcff9a7":[3,0,1,7,26,36],
+"d0/da7/classpocketmine_1_1entity_1_1_zombie.html#a1c05137f3b4e08df3be0b372726021b1":[2,0,0,2,21,63],
+"d0/da7/classpocketmine_1_1entity_1_1_zombie.html#a1c05137f3b4e08df3be0b372726021b1":[3,0,1,7,26,63],
+"d0/da7/classpocketmine_1_1entity_1_1_zombie.html#a1cb36d5dd35dc4ee35b2f6e59d93e17b":[2,0,0,2,21,40],
+"d0/da7/classpocketmine_1_1entity_1_1_zombie.html#a1cb36d5dd35dc4ee35b2f6e59d93e17b":[3,0,1,7,26,40],
 "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#a22a098fc4892820db7d15a73edea64ca":[2,0,0,2,21,16],
 "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#a22a098fc4892820db7d15a73edea64ca":[3,0,1,7,26,16],
 "d0/da7/classpocketmine_1_1entity_1_1_zombie.html#a23093e6281aba70471af5c5e34051667":[2,0,0,2,21,10],
@@ -241,13 +249,5 @@ var NAVTREEINDEX8 =
 "d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html#af85accbedba28b67bb66d5f12d329585":[2,0,0,5,42,37],
 "d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,43,37],
 "d0/db0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_move_actor_delta_packet.html":[3,0,1,16,0,6,102],
-"d0/db0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_move_actor_delta_packet.html#a11566f14ad0db4f2dfe8f61b61875d23":[3,0,1,16,0,6,102,4],
-"d0/db0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_move_actor_delta_packet.html#a12698fa476067ad1e0902a9eaf5226a0":[3,0,1,16,0,6,102,5],
-"d0/db0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_move_actor_delta_packet.html#a7f34ca0fc75361b63314614a92d08b49":[3,0,1,16,0,6,102,3],
-"d0/db0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_move_actor_delta_packet.html#a84f360a53552e0002f684d9b32bcca91":[3,0,1,16,0,6,102,6],
-"d0/db0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_move_actor_delta_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,102,0],
-"d0/db0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_move_actor_delta_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,102,2],
-"d0/db0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_move_actor_delta_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,102,1],
-"d0/db0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_block_pos_metadata_property.html":[3,0,1,16,0,6,1,3,4],
-"d0/db1/_raw_rabbit_8php_source.html":[4,0,0,10,98]
+"d0/db0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_move_actor_delta_packet.html#a11566f14ad0db4f2dfe8f61b61875d23":[3,0,1,16,0,6,102,4]
 };

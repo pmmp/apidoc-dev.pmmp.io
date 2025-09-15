@@ -1245,17 +1245,34 @@ var annotated_dup =
                 [ "WindowTypes", "d4/df2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_window_types.html", null ]
               ] ],
               [ "login", null, [
-                [ "AuthenticationData", "d4/d5e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_authentication_data.html", "d4/d5e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_authentication_data" ],
+                [ "clientdata", null, [
+                  [ "ClientData", "da/d91/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1clientdata_1_1_client_data.html", "da/d91/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1clientdata_1_1_client_data" ],
+                  [ "ClientDataAnimationFrame", "d9/dc5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1clientdata_1_1_client_data_animation_frame.html", "d9/dc5/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1clientdata_1_1_client_data_animation_frame" ],
+                  [ "ClientDataPersonaPieceTintColor", "df/d17/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1clientdata_1_1_client_data_persona_piece_tint_color.html", "df/d17/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1clientdata_1_1_client_data_persona_piece_tint_color" ],
+                  [ "ClientDataPersonaSkinPiece", "d4/d10/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1clientdata_1_1_client_data_persona_skin_piece.html", "d4/d10/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1clientdata_1_1_client_data_persona_skin_piece" ],
+                  [ "ClientDataToSkinDataHelper", "d5/d1d/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1clientdata_1_1_client_data_to_skin_data_helper.html", "d5/d1d/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1clientdata_1_1_client_data_to_skin_data_helper" ]
+                ] ],
+                [ "legacy", null, [
+                  [ "LegacyAuthChain", "d8/d8c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1legacy_1_1_legacy_auth_chain.html", null ],
+                  [ "LegacyAuthIdentityData", "d7/dc0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1legacy_1_1_legacy_auth_identity_data.html", "d7/dc0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1legacy_1_1_legacy_auth_identity_data" ],
+                  [ "LegacyAuthJwtBody", "db/d48/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1legacy_1_1_legacy_auth_jwt_body.html", null ]
+                ] ],
+                [ "openid", null, [
+                  [ "api", null, [
+                    [ "AuthServiceKey", "d0/d5e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1api_1_1_auth_service_key.html", "d0/d5e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1api_1_1_auth_service_key" ],
+                    [ "AuthServiceOpenIdConfiguration", "d2/d24/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1api_1_1_auth_service_open_id_configuration.html", "d2/d24/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1api_1_1_auth_service_open_id_configuration" ],
+                    [ "MinecraftServiceAuthEnvironment", "dd/d00/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1api_1_1_minecraft_service_auth_environment.html", "dd/d00/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1api_1_1_minecraft_service_auth_environment" ],
+                    [ "MinecraftServiceAuthEnvironments", "d9/d67/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1api_1_1_minecraft_service_auth_environments.html", "d9/d67/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1api_1_1_minecraft_service_auth_environments" ],
+                    [ "MinecraftServiceEnvironments", "d5/d99/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1api_1_1_minecraft_service_environments.html", "d5/d99/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1api_1_1_minecraft_service_environments" ],
+                    [ "MinecraftServicesDiscovery", "d1/d19/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1api_1_1_minecraft_services_discovery.html", "d1/d19/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1api_1_1_minecraft_services_discovery" ],
+                    [ "MinecraftServicesResult", "d1/de0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1api_1_1_minecraft_services_result.html", "d1/de0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1api_1_1_minecraft_services_result" ]
+                  ] ],
+                  [ "XboxAuthJwtBody", "d4/ddd/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1_xbox_auth_jwt_body.html", "d4/ddd/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1_xbox_auth_jwt_body" ],
+                  [ "XboxAuthJwtHeader", "d1/d58/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1_xbox_auth_jwt_header.html", "d1/d58/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1_xbox_auth_jwt_header" ]
+                ] ],
                 [ "AuthenticationInfo", "dd/de3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_authentication_info.html", "dd/de3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_authentication_info" ],
-                [ "ClientData", "d2/df0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_client_data.html", "d2/df0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_client_data" ],
-                [ "ClientDataAnimationFrame", "dc/de9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_client_data_animation_frame.html", "dc/de9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_client_data_animation_frame" ],
-                [ "ClientDataPersonaPieceTintColor", "dc/d67/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_client_data_persona_piece_tint_color.html", "dc/d67/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_client_data_persona_piece_tint_color" ],
-                [ "ClientDataPersonaSkinPiece", "de/deb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_client_data_persona_skin_piece.html", "de/deb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_client_data_persona_skin_piece" ],
-                [ "ClientDataToSkinDataHelper", "d0/dcb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_client_data_to_skin_data_helper.html", "d0/dcb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_client_data_to_skin_data_helper" ],
                 [ "JwtBodyRfc7519", "d8/df3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_jwt_body_rfc7519.html", null ],
-                [ "JwtChain", "df/df8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_jwt_chain.html", null ],
-                [ "JwtChainLinkBody", "df/d48/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_jwt_chain_link_body.html", null ],
-                [ "JwtHeader", "db/d5f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_jwt_header.html", "db/d5f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_jwt_header" ]
+                [ "SelfSignedJwtHeader", "dc/dae/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_self_signed_jwt_header.html", "dc/dae/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1_self_signed_jwt_header" ]
               ] ],
               [ "recipe", null, [
                 [ "ComplexAliasItemDescriptor", "db/d4e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1recipe_1_1_complex_alias_item_descriptor.html", null ],

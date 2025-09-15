@@ -1,5 +1,17 @@
 var NAVTREEINDEX30 =
 {
+"d2/d09/classpocketmine_1_1item_1_1_totem.html#ae2543fd294d689ca6850d5bc78710522":[2,0,0,5,114,35],
+"d2/d09/classpocketmine_1_1item_1_1_totem.html#ae2543fd294d689ca6850d5bc78710522":[3,0,1,12,115,35],
+"d2/d09/classpocketmine_1_1item_1_1_totem.html#aec8070c04112770e0d01a3c56b252e81":[2,0,0,5,114,45],
+"d2/d09/classpocketmine_1_1item_1_1_totem.html#aec8070c04112770e0d01a3c56b252e81":[3,0,1,12,115,45],
+"d2/d09/classpocketmine_1_1item_1_1_totem.html#af44b2311f27b78c5cd442c189793e7e6":[2,0,0,5,114,36],
+"d2/d09/classpocketmine_1_1item_1_1_totem.html#af44b2311f27b78c5cd442c189793e7e6":[3,0,1,12,115,36],
+"d2/d09/classpocketmine_1_1item_1_1_totem.html#af737301b899b7a7c9e9b0bb9a234a119":[2,0,0,5,114,7],
+"d2/d09/classpocketmine_1_1item_1_1_totem.html#af737301b899b7a7c9e9b0bb9a234a119":[3,0,1,12,115,7],
+"d2/d09/classpocketmine_1_1item_1_1_totem.html#af85accbedba28b67bb66d5f12d329585":[2,0,0,5,114,37],
+"d2/d09/classpocketmine_1_1item_1_1_totem.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,115,37],
+"d2/d09/classpocketmine_1_1world_1_1biome_1_1model_1_1_biome_definition_entry_data.html":[3,0,1,30,0,0,0],
+"d2/d09/classpocketmine_1_1world_1_1biome_1_1model_1_1_biome_definition_entry_data.html#a00c69052d6c62ceab25d69f10112a631":[3,0,1,30,0,0,0,4],
 "d2/d09/classpocketmine_1_1world_1_1biome_1_1model_1_1_biome_definition_entry_data.html#a140b6dd828828bb28ca73e952bd25967":[3,0,1,30,0,0,0,3],
 "d2/d09/classpocketmine_1_1world_1_1biome_1_1model_1_1_biome_definition_entry_data.html#a5d32ea23ab6c82fb09c21c30ac52c6bf":[3,0,1,30,0,0,0,5],
 "d2/d09/classpocketmine_1_1world_1_1biome_1_1model_1_1_biome_definition_entry_data.html#a695adb4b9419870e3e19c99817483789":[3,0,1,30,0,0,0,8],
@@ -237,17 +249,5 @@ var NAVTREEINDEX30 =
 "d2/d0e/classpocketmine_1_1block_1_1_beacon.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[2,0,0,0,16,31],
 "d2/d0e/classpocketmine_1_1block_1_1_beacon.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,18,31],
 "d2/d0e/classpocketmine_1_1block_1_1_beacon.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,16,19],
-"d2/d0e/classpocketmine_1_1block_1_1_beacon.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,18,19],
-"d2/d0e/classpocketmine_1_1block_1_1_beacon.html#ab6b90601adfc9732893dcffe256514a9":[2,0,0,0,16,64],
-"d2/d0e/classpocketmine_1_1block_1_1_beacon.html#ab6b90601adfc9732893dcffe256514a9":[3,0,1,0,18,64],
-"d2/d0e/classpocketmine_1_1block_1_1_beacon.html#ab731ef1ac99496287ef09c72ded1dfe4":[2,0,0,0,16,55],
-"d2/d0e/classpocketmine_1_1block_1_1_beacon.html#ab731ef1ac99496287ef09c72ded1dfe4":[3,0,1,0,18,55],
-"d2/d0e/classpocketmine_1_1block_1_1_beacon.html#ab92353cf0aa5c05ad26535f98a2b1dca":[2,0,0,0,16,26],
-"d2/d0e/classpocketmine_1_1block_1_1_beacon.html#ab92353cf0aa5c05ad26535f98a2b1dca":[3,0,1,0,18,26],
-"d2/d0e/classpocketmine_1_1block_1_1_beacon.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[2,0,0,0,16,12],
-"d2/d0e/classpocketmine_1_1block_1_1_beacon.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[3,0,1,0,18,12],
-"d2/d0e/classpocketmine_1_1block_1_1_beacon.html#ac34d7d0bd5e5173f331e56f6b97ca796":[2,0,0,0,16,49],
-"d2/d0e/classpocketmine_1_1block_1_1_beacon.html#ac34d7d0bd5e5173f331e56f6b97ca796":[3,0,1,0,18,49],
-"d2/d0e/classpocketmine_1_1block_1_1_beacon.html#ac85f12ad4e4d729db9f27ecb8e97998b":[2,0,0,0,16,51],
-"d2/d0e/classpocketmine_1_1block_1_1_beacon.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,18,51]
+"d2/d0e/classpocketmine_1_1block_1_1_beacon.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,18,19]
 };

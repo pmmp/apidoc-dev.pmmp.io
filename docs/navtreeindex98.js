@@ -1,16 +1,5 @@
 var NAVTREEINDEX98 =
 {
-"d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[2,0,0,0,213,28],
-"d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,215,28],
-"d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a8635dccd33641330c42129a61377b2fd":[2,0,0,0,213,35],
-"d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a8635dccd33641330c42129a61377b2fd":[3,0,1,0,215,35],
-"d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,0,0,213,56],
-"d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,215,56],
-"d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a88017a7eecc3ba93f317e54e19751feb":[2,0,0,0,213,50],
-"d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a88017a7eecc3ba93f317e54e19751feb":[3,0,1,0,215,50],
-"d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a8a733c2fe564a205938a9146c8b0e0f1":[2,0,0,0,213,63],
-"d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a8a733c2fe564a205938a9146c8b0e0f1":[3,0,1,0,215,63],
-"d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,213,11],
 "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,215,11],
 "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,213,66],
 "d6/db3/classpocketmine_1_1block_1_1_stained_hardened_clay.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,215,66],
@@ -249,5 +238,16 @@ var NAVTREEINDEX98 =
 "d6/dbb/classpocketmine_1_1block_1_1_end_rod.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,96,27],
 "d6/dbb/classpocketmine_1_1block_1_1_end_rod.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,98,27],
 "d6/dbb/classpocketmine_1_1crafting_1_1_shaped_recipe.html":[3,0,1,4,13],
-"d6/dbb/classpocketmine_1_1crafting_1_1_shaped_recipe.html#a32d52b8996baa8d9b9a1a7abcac45167":[3,0,1,4,13,5]
+"d6/dbb/classpocketmine_1_1crafting_1_1_shaped_recipe.html#a32d52b8996baa8d9b9a1a7abcac45167":[3,0,1,4,13,5],
+"d6/dbb/classpocketmine_1_1crafting_1_1_shaped_recipe.html#a41b02db90b8f4ea15d13417482fc3ce8":[3,0,1,4,13,2],
+"d6/dbb/classpocketmine_1_1crafting_1_1_shaped_recipe.html#a570e31c571441481e4c5d14ef1f16c79":[3,0,1,4,13,1],
+"d6/dbb/classpocketmine_1_1crafting_1_1_shaped_recipe.html#a6dfc7825ce4ccd38156386574c7b9f96":[3,0,1,4,13,3],
+"d6/dbb/classpocketmine_1_1crafting_1_1_shaped_recipe.html#a7c13120851dfe47960189af36e72f043":[3,0,1,4,13,6],
+"d6/dbb/classpocketmine_1_1crafting_1_1_shaped_recipe.html#ae7a8c20435f6e3331987cc0f2eede1f3":[3,0,1,4,13,0],
+"d6/dbb/classpocketmine_1_1crafting_1_1_shaped_recipe.html#ae99dc1c09df9c137e50373119f96a4c3":[3,0,1,4,13,4],
+"d6/dbc/classpocketmine_1_1block_1_1_block_type_tags.html":[2,0,0,0,29],
+"d6/dbc/classpocketmine_1_1block_1_1_block_type_tags.html":[3,0,1,0,31],
+"d6/dbc/classpocketmine_1_1block_1_1tile_1_1_cauldron.html":[2,0,0,0,0,8],
+"d6/dbc/classpocketmine_1_1block_1_1tile_1_1_cauldron.html":[3,0,1,0,1,8],
+"d6/dbc/classpocketmine_1_1block_1_1tile_1_1_cauldron.html#a15ad5fdcf2a7888ffebf175bf7a2321e":[2,0,0,0,0,8,4]
 };

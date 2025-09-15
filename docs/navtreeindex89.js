@@ -1,16 +1,5 @@
 var NAVTREEINDEX89 =
 {
-"d6/d3a/classpocketmine_1_1block_1_1_hopper.html#ab6b90601adfc9732893dcffe256514a9":[3,0,1,0,130,70],
-"d6/d3a/classpocketmine_1_1block_1_1_hopper.html#ab731ef1ac99496287ef09c72ded1dfe4":[2,0,0,0,128,58],
-"d6/d3a/classpocketmine_1_1block_1_1_hopper.html#ab731ef1ac99496287ef09c72ded1dfe4":[3,0,1,0,130,58],
-"d6/d3a/classpocketmine_1_1block_1_1_hopper.html#ab92353cf0aa5c05ad26535f98a2b1dca":[2,0,0,0,128,27],
-"d6/d3a/classpocketmine_1_1block_1_1_hopper.html#ab92353cf0aa5c05ad26535f98a2b1dca":[3,0,1,0,130,27],
-"d6/d3a/classpocketmine_1_1block_1_1_hopper.html#ab9ca4be9cb9995dcbe8af21715797ccd":[2,0,0,0,128,67],
-"d6/d3a/classpocketmine_1_1block_1_1_hopper.html#ab9ca4be9cb9995dcbe8af21715797ccd":[3,0,1,0,130,67],
-"d6/d3a/classpocketmine_1_1block_1_1_hopper.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[2,0,0,0,128,13],
-"d6/d3a/classpocketmine_1_1block_1_1_hopper.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[3,0,1,0,130,13],
-"d6/d3a/classpocketmine_1_1block_1_1_hopper.html#ac34d7d0bd5e5173f331e56f6b97ca796":[2,0,0,0,128,52],
-"d6/d3a/classpocketmine_1_1block_1_1_hopper.html#ac34d7d0bd5e5173f331e56f6b97ca796":[3,0,1,0,130,52],
 "d6/d3a/classpocketmine_1_1block_1_1_hopper.html#ac85f12ad4e4d729db9f27ecb8e97998b":[2,0,0,0,128,54],
 "d6/d3a/classpocketmine_1_1block_1_1_hopper.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,130,54],
 "d6/d3a/classpocketmine_1_1block_1_1_hopper.html#acb449b40461f4800cf6e6288cb9a069d":[2,0,0,0,128,0],
@@ -249,5 +238,16 @@ var NAVTREEINDEX89 =
 "d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,186,5],
 "d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,188,5],
 "d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html#aa4773f0153324728a2f41820fa52442d":[2,0,0,0,186,18],
-"d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,188,18]
+"d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,188,18],
+"d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html#aac6828efb885bc8fe0f8876728ddde5d":[2,0,0,0,186,35],
+"d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html#aac6828efb885bc8fe0f8876728ddde5d":[3,0,1,0,188,35],
+"d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html#aacdabd2c5e994cb07fe04c915f77f003":[2,0,0,0,186,0],
+"d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html#aacdabd2c5e994cb07fe04c915f77f003":[3,0,1,0,188,0],
+"d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html#aad121ffc31a225748d5bcc0e0752a9f0":[2,0,0,0,186,24],
+"d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html#aad121ffc31a225748d5bcc0e0752a9f0":[3,0,1,0,188,24],
+"d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[2,0,0,0,186,32],
+"d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,188,32],
+"d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,186,20],
+"d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,188,20],
+"d6/d4f/classpocketmine_1_1block_1_1_redstone_torch.html#ab6b90601adfc9732893dcffe256514a9":[2,0,0,0,186,67]
 };

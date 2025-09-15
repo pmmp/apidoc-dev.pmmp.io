@@ -1,11 +1,5 @@
 var NAVTREEINDEX120 =
 {
-"d8/d15/classpocketmine_1_1block_1_1_ender_chest.html#a61ea73e8835539e499c13186f5b22522":[3,0,1,0,96,67],
-"d8/d15/classpocketmine_1_1block_1_1_ender_chest.html#a6201b0d5460ae6f3b5cee03197c9a94a":[2,0,0,0,94,39],
-"d8/d15/classpocketmine_1_1block_1_1_ender_chest.html#a6201b0d5460ae6f3b5cee03197c9a94a":[3,0,1,0,96,39],
-"d8/d15/classpocketmine_1_1block_1_1_ender_chest.html#a70fda41341e44f121c905a2503432953":[2,0,0,0,94,30],
-"d8/d15/classpocketmine_1_1block_1_1_ender_chest.html#a70fda41341e44f121c905a2503432953":[3,0,1,0,96,30],
-"d8/d15/classpocketmine_1_1block_1_1_ender_chest.html#a75b16ca6e22355cf632466a969e79211":[2,0,0,0,94,41],
 "d8/d15/classpocketmine_1_1block_1_1_ender_chest.html#a75b16ca6e22355cf632466a969e79211":[3,0,1,0,96,41],
 "d8/d15/classpocketmine_1_1block_1_1_ender_chest.html#a771a30c30a36b0992f54c57dc63af10d":[2,0,0,0,94,40],
 "d8/d15/classpocketmine_1_1block_1_1_ender_chest.html#a771a30c30a36b0992f54c57dc63af10d":[3,0,1,0,96,40],
@@ -249,5 +243,11 @@ var NAVTREEINDEX120 =
 "d8/d1f/classpocketmine_1_1utils_1_1_binary.html#aabc5d35f1797b6ac6bccfa5549f4fe43":[2,0,0,12,1,31],
 "d8/d1f/classpocketmine_1_1utils_1_1_binary.html#aabc5d35f1797b6ac6bccfa5549f4fe43":[3,0,1,28,1,31],
 "d8/d1f/classpocketmine_1_1utils_1_1_binary.html#aaeff2df3ffaeee681ad6127768a96547":[2,0,0,12,1,24],
-"d8/d1f/classpocketmine_1_1utils_1_1_binary.html#aaeff2df3ffaeee681ad6127768a96547":[3,0,1,28,1,24]
+"d8/d1f/classpocketmine_1_1utils_1_1_binary.html#aaeff2df3ffaeee681ad6127768a96547":[3,0,1,28,1,24],
+"d8/d1f/classpocketmine_1_1utils_1_1_binary.html#ab275a6ce7c769d596a72cae0f709fe77":[2,0,0,12,1,8],
+"d8/d1f/classpocketmine_1_1utils_1_1_binary.html#ab275a6ce7c769d596a72cae0f709fe77":[3,0,1,28,1,8],
+"d8/d1f/classpocketmine_1_1utils_1_1_binary.html#abcb40fc7d2d4e82cfaff9851a9c9490b":[2,0,0,12,1,25],
+"d8/d1f/classpocketmine_1_1utils_1_1_binary.html#abcb40fc7d2d4e82cfaff9851a9c9490b":[3,0,1,28,1,25],
+"d8/d1f/classpocketmine_1_1utils_1_1_binary.html#ac1c089e2707ad3b2daaf44d1fad7d4fe":[2,0,0,12,1,0],
+"d8/d1f/classpocketmine_1_1utils_1_1_binary.html#ac1c089e2707ad3b2daaf44d1fad7d4fe":[3,0,1,28,1,0]
 };
