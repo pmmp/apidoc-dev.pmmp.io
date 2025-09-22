@@ -1057,7 +1057,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="568" y="-2132" font-family="Helvetica,sans-Serif" font-size="10.00">broadcastTitle()</text>
 <text text-anchor="start" x="555" y="-2117" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="568" y="-2117" font-family="Helvetica,sans-Serif" font-size="10.00">crashDump()</text>
-<text text-anchor="start" x="568" y="-2102" font-family="Helvetica,sans-Serif" font-size="10.00">and 81 more...</text>
+<text text-anchor="start" x="568" y="-2102" font-family="Helvetica,sans-Serif" font-size="10.00">and 82 more...</text>
 <text text-anchor="start" x="555" y="-2087" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="568" y="-2087" font-family="Helvetica,sans-Serif" font-size="10.00">getInstance()</text>
 <polygon fill="#666666" stroke="#666666" points="551,-2423 551,-2423 774,-2423 774,-2423 551,-2423"/>

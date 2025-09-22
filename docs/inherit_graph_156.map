@@ -1,3 +1,17 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$dc/d55/classpocketmine_1_1inventory_1_1json_1_1_creative_group_data.html" title=" " alt="" coords="5,5,188,45"/>
+<area shape="rect" id="Node000000" href="$db/d39/interfacepocketmine_1_1inventory_1_1_inventory.html" title=" " alt="" coords="11,37,175,77"/>
+<area shape="rect" id="Node000001" href="$d5/dc4/classpocketmine_1_1inventory_1_1_base_inventory.html" title=" " alt="" coords="228,69,392,109"/>
+<area shape="poly" id="edge979_Node000000_Node000001" title=" " alt="" coords="189,69,228,75,227,80,188,74"/>
+<area shape="rect" id="Node000002" href="$dd/dcb/classpocketmine_1_1inventory_1_1_combined_inventory_proxy.html" title=" " alt="" coords="454,5,645,45"/>
+<area shape="poly" id="edge980_Node000001_Node000002" title=" " alt="" coords="398,63,473,43,475,48,399,68"/>
+<area shape="rect" id="Node000003" href="$d6/dc1/classpocketmine_1_1inventory_1_1_simple_inventory.html" title=" " alt="" coords="467,69,631,109"/>
+<area shape="poly" id="edge981_Node000001_Node000003" title=" " alt="" coords="406,87,467,87,467,92,406,92"/>
+<area shape="rect" id="Node000006" href="$d9/de2/classpocketmine_1_1inventory_1_1transaction_1_1_slot_change_action_builder.html" title=" " alt="" coords="440,134,659,189"/>
+<area shape="poly" id="edge984_Node000001_Node000006" title=" " alt="" coords="391,111,459,131,457,137,390,116"/>
+<area shape="rect" id="Node000004" href="$de/d7a/classpocketmine_1_1crafting_1_1_crafting_grid.html" title=" " alt="" coords="713,37,864,77"/>
+<area shape="poly" id="edge982_Node000003_Node000004" title=" " alt="" coords="644,74,713,65,714,70,645,79"/>
+<area shape="rect" id="Node000005" href="$d0/d70/classpocketmine_1_1inventory_1_1_armor_inventory.html" title=" " alt="" coords="707,101,871,141"/>
+<area shape="poly" id="edge983_Node000003_Node000005" title=" " alt="" coords="645,99,707,108,706,113,644,105"/>
+<area shape="rect" id="Node000007" href="$dd/d33/interfacepocketmine_1_1inventory_1_1_slot_validated_inventory.html" title=" " alt="" coords="5,101,180,141"/>
+<area shape="poly" id="edge985_Node000007_Node000001" title=" " alt="" coords="193,104,227,99,228,104,194,109"/>
 </map>

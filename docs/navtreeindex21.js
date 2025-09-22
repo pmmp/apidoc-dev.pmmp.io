@@ -1,5 +1,17 @@
 var NAVTREEINDEX21 =
 {
+"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#ade77e0b1fce7bdebceed4092b9c5c022":[3,0,1,0,80,33],
+"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,78,32],
+"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#ae829b9f476afef6b23d6f4f7fd558e0f":[3,0,1,0,80,32],
+"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,78,54],
+"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,80,54],
+"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#af2b7e0a0a6404fdbfc9c48901d127a20":[2,0,0,0,78,64],
+"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#af2b7e0a0a6404fdbfc9c48901d127a20":[3,0,1,0,80,64],
+"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#af45a3d45c4ab6528c6641915722b9de8":[2,0,0,0,78,6],
+"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#af45a3d45c4ab6528c6641915722b9de8":[3,0,1,0,80,6],
+"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#afa0e08fa7c894cf623c630db6a4a3a91":[2,0,0,0,78,61],
+"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#afa0e08fa7c894cf623c630db6a4a3a91":[3,0,1,0,80,61],
+"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,0,0,78,29],
 "d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#afcc19c437c8bef4487f5ecb956ae9a1a":[3,0,1,0,80,29],
 "d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#afe4928a6da38d63eccea78bd1a2fdcd3":[2,0,0,0,78,21],
 "d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#afe4928a6da38d63eccea78bd1a2fdcd3":[3,0,1,0,80,21],
@@ -237,17 +249,5 @@ var NAVTREEINDEX21 =
 "d1/d7b/classpocketmine_1_1block_1_1_lava.html#a78ac33c265dd946426ac1676465fc730":[3,0,1,0,139,63],
 "d1/d7b/classpocketmine_1_1block_1_1_lava.html#a81ede7251f06d54341a67f01e10c77d0":[2,0,0,0,137,40],
 "d1/d7b/classpocketmine_1_1block_1_1_lava.html#a81ede7251f06d54341a67f01e10c77d0":[3,0,1,0,139,40],
-"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a82da394fb1a54a7fc2e1a972cd49b6fa":[2,0,0,0,137,34],
-"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a82da394fb1a54a7fc2e1a972cd49b6fa":[3,0,1,0,139,34],
-"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a8307fc850da5c3f36e9dfc7ce639fe55":[2,0,0,0,137,48],
-"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a8307fc850da5c3f36e9dfc7ce639fe55":[3,0,1,0,139,48],
-"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[2,0,0,0,137,30],
-"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,139,30],
-"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a8635dccd33641330c42129a61377b2fd":[2,0,0,0,137,38],
-"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a8635dccd33641330c42129a61377b2fd":[3,0,1,0,139,38],
-"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a88017a7eecc3ba93f317e54e19751feb":[2,0,0,0,137,53],
-"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a88017a7eecc3ba93f317e54e19751feb":[3,0,1,0,139,53],
-"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a8c35a082da3055d637f0ff28decbc171":[2,0,0,0,137,9],
-"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a8c35a082da3055d637f0ff28decbc171":[3,0,1,0,139,9],
-"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a8fc33efcbfd890ec20b517d7bf84e019":[2,0,0,0,137,55]
+"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a82da394fb1a54a7fc2e1a972cd49b6fa":[2,0,0,0,137,34]
 };

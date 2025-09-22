@@ -126,6 +126,8 @@ var NAVTREEINDEX2 =
 "d0/d23/classraklib_1_1utils_1_1_exception_trace_cleaner.html":[3,0,2,4,0],
 "d0/d23/classraklib_1_1utils_1_1_exception_trace_cleaner.html#a3054bfc6fea93328e9e03b7e3dc3aeb5":[3,0,2,4,0,0],
 "d0/d25/_player_respawn_anchor_use_event_8php_source.html":[4,0,0,7,3,38],
+"d0/d25/classpocketmine_1_1world_1_1sound_1_1_trident_throw_sound.html":[3,0,1,30,5,107],
+"d0/d25/classpocketmine_1_1world_1_1sound_1_1_trident_throw_sound.html#a3eef21e67caffa8d95b59466550d613c":[3,0,1,30,5,107,0],
 "d0/d26/classpocketmine_1_1event_1_1player_1_1_player_entity_interact_event.html":[2,0,0,3,3,17],
 "d0/d26/classpocketmine_1_1event_1_1player_1_1_player_entity_interact_event.html":[3,0,1,9,3,17],
 "d0/d26/classpocketmine_1_1event_1_1player_1_1_player_entity_interact_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,3,17,0],
@@ -244,10 +246,8 @@ var NAVTREEINDEX2 =
 "d0/d39/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_float_game_rule.html":[3,0,1,16,0,6,1,35],
 "d0/d3a/_chunk_load_event_8php_source.html":[4,0,0,7,6,1],
 "d0/d3a/_redstone_torch_8php_source.html":[4,0,0,0,188],
-"d0/d3b/_vanilla_armor_materials_8php_source.html":[4,0,0,10,125],
+"d0/d3b/_vanilla_armor_materials_8php_source.html":[4,0,0,10,130],
 "d0/d3b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_container_ids.html":[3,0,1,16,0,6,1,4,2],
 "d0/d3c/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_pre_spawn_packet_handler.html":[3,0,1,16,0,5,9],
-"d0/d3d/_candle_trait_8php_source.html":[4,0,0,0,2,14],
-"d0/d3d/classpocketmine_1_1world_1_1sound_1_1_enderman_teleport_sound.html":[3,0,1,30,5,54],
-"d0/d3d/classpocketmine_1_1world_1_1sound_1_1_enderman_teleport_sound.html#a51111cb685a04b10692f1d65099b4d7c":[3,0,1,30,5,54,0]
+"d0/d3d/_candle_trait_8php_source.html":[4,0,0,0,2,14]
 };

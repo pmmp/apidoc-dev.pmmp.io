@@ -1,0 +1,9 @@
+<map id="pocketmine\entity\object\FireworkRocket" name="pocketmine\entity\object\FireworkRocket">
+<area shape="rect" id="Node000001" title=" " alt="" coords="231,1059,423,1419"/>
+<area shape="rect" id="Node000002" href="$d2/d3c/classpocketmine_1_1entity_1_1_entity.html" title=" " alt="" coords="5,5,203,1011"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,983,219,1010,237,1057,232,1059,213,1012,204,985"/>
+<area shape="rect" id="Node000003" href="$d3/d5f/interfacepocketmine_1_1entity_1_1_explosive.html" title=" " alt="" coords="227,475,426,541"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="329,555,329,1058,324,1058,324,555"/>
+<area shape="rect" id="Node000004" href="$d2/dc0/interfacepocketmine_1_1entity_1_1_never_saved_with_chunk_entity.html" title=" " alt="" coords="450,468,665,548"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="551,562,511,762,479,887,440,1012,421,1059,416,1057,435,1010,474,886,506,761,546,561"/>
+</map>

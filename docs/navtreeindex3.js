@@ -1,7 +1,9 @@
 var NAVTREEINDEX3 =
 {
+"d0/d3d/classpocketmine_1_1world_1_1sound_1_1_enderman_teleport_sound.html":[3,0,1,30,5,54],
+"d0/d3d/classpocketmine_1_1world_1_1sound_1_1_enderman_teleport_sound.html#a51111cb685a04b10692f1d65099b4d7c":[3,0,1,30,5,54,0],
 "d0/d3f/_ice_8php_source.html":[4,0,0,0,131],
-"d0/d41/_string_item_8php_source.html":[4,0,0,10,113],
+"d0/d41/_string_item_8php_source.html":[4,0,0,10,117],
 "d0/d41/classpocketmine_1_1event_1_1entity_1_1_entity_trample_farmland_event.html":[2,0,0,3,1,25],
 "d0/d41/classpocketmine_1_1event_1_1entity_1_1_entity_trample_farmland_event.html":[3,0,1,9,1,25],
 "d0/d41/classpocketmine_1_1event_1_1entity_1_1_entity_trample_farmland_event.html#a2333d7f055234d7fefc00066158bd888":[2,0,0,3,1,25,4],
@@ -167,15 +169,15 @@ var NAVTREEINDEX3 =
 "d0/d45/classpocketmine_1_1network_1_1upnp_1_1_u_pn_p_network_interface.html#a8cf240baa851dd327bfdb51402b02777":[3,0,1,16,2,2,2],
 "d0/d45/classpocketmine_1_1network_1_1upnp_1_1_u_pn_p_network_interface.html#ab2456e8c7d73e971cd4a1f90a8518cec":[2,0,0,8,1,2,0],
 "d0/d45/classpocketmine_1_1network_1_1upnp_1_1_u_pn_p_network_interface.html#ab2456e8c7d73e971cd4a1f90a8518cec":[3,0,1,16,2,2,0],
-"d0/d46/classpocketmine_1_1world_1_1sound_1_1_ghast_sound.html":[3,0,1,30,5,66],
-"d0/d46/classpocketmine_1_1world_1_1sound_1_1_ghast_sound.html#a1f951e3dd1732a60ee9dbb3a5ac12c11":[3,0,1,30,5,66,0],
+"d0/d46/classpocketmine_1_1world_1_1sound_1_1_ghast_sound.html":[3,0,1,30,5,70],
+"d0/d46/classpocketmine_1_1world_1_1sound_1_1_ghast_sound.html#a1f951e3dd1732a60ee9dbb3a5ac12c11":[3,0,1,30,5,70,0],
 "d0/d47/classpocketmine_1_1plugin_1_1_plugin_description_parse_exception.html":[2,0,0,10,8],
 "d0/d47/classpocketmine_1_1plugin_1_1_plugin_description_parse_exception.html":[3,0,1,19,8],
 "d0/d49/_crash_dump_renderer_8php_source.html":[4,0,0,4,4],
 "d0/d4a/classpocketmine_1_1world_1_1sound_1_1_entity_short_fall_sound.html":[3,0,1,30,5,59],
 "d0/d4a/classpocketmine_1_1world_1_1sound_1_1_entity_short_fall_sound.html#ac0e2c600b07e27ca43bb2ca50068e9d4":[3,0,1,30,5,59,0],
 "d0/d4b/_item_enchantment_tags_8php_source.html":[4,0,0,10,0,9],
-"d0/d51/_glass_bottle_8php_source.html":[4,0,0,10,51],
+"d0/d51/_glass_bottle_8php_source.html":[4,0,0,10,55],
 "d0/d52/_legacy_auth_jwt_body_8php_source.html":[4,0,1,0,1,0,1,6,1,2],
 "d0/d52/_poison_effect_8php_source.html":[4,0,0,6,1,11],
 "d0/d52/_simple_command_map_8php_source.html":[4,0,0,1,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX3 =
 "d0/d6e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_server_settings_response_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,161,0],
 "d0/d6e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_server_settings_response_packet.html#aa064d23077830ab265f931c3385a3e0d":[3,0,1,16,0,6,161,3],
 "d0/d6e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_server_settings_response_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,161,1],
-"d0/d6e/classpocketmine_1_1thread_1_1_thread.html":[3,0,1,25,2],
-"d0/d6f/classpocketmine_1_1player_1_1_player.html":[3,0,1,18,6],
-"d0/d6f/classpocketmine_1_1player_1_1_player.html#a00e01c4d202f1ed69d570d16382ba733":[3,0,1,18,6,81]
+"d0/d6e/classpocketmine_1_1thread_1_1_thread.html":[3,0,1,25,2]
 };

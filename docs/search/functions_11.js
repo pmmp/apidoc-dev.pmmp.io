@@ -93,5 +93,6 @@ var searchData=
   ['rewind_90',['rewind',['../d6/dc6/classpocketmine_1_1utils_1_1_binary_stream.html#a9a544acb5b5614cdedfe2f91d250361c',1,'pocketmine::utils::BinaryStream']]],
   ['rotateaveragehistory_91',['rotateAverageHistory',['../dd/d87/classpocketmine_1_1network_1_1_bidirectional_bandwidth_stats_tracker.html#a99f0cf3041df24396dba3e5c5fc67b79',1,'pocketmine::network::BidirectionalBandwidthStatsTracker']]],
   ['rotatehistory_92',['rotateHistory',['../da/de2/classpocketmine_1_1network_1_1_bandwidth_stats_tracker.html#a5cd981ff8f1d9adb9d1a2e5c6c7b8cf7',1,'pocketmine::network::BandwidthStatsTracker']]],
-  ['round_93',['round',['../d2/d90/classpocketmine_1_1math_1_1_vector3.html#a33139a6ee53fd623982069aabc85c651',1,'pocketmine::math::Vector3']]]
+  ['round_93',['round',['../d2/d90/classpocketmine_1_1math_1_1_vector3.html#a33139a6ee53fd623982069aabc85c651',1,'pocketmine::math::Vector3']]],
+  ['rsapublickeymodexptoder_94',['rsaPublicKeyModExpToDer',['../de/d36/classpocketmine_1_1network_1_1mcpe_1_1_jwt_utils.html#a3497fc744602a3da6ec3d1755aef615f',1,'pocketmine::network::mcpe::JwtUtils']]]
 ];
