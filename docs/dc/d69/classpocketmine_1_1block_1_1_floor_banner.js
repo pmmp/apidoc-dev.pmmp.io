@@ -34,7 +34,6 @@ var classpocketmine_1_1block_1_1_floor_banner =
     [ "getMaxStackSize", "dc/d69/classpocketmine_1_1block_1_1_floor_banner.html#a40e69d7dfc1bda12e69de1b737737829", null ],
     [ "getModelPositionOffset", "dc/d69/classpocketmine_1_1block_1_1_floor_banner.html#ae829b9f476afef6b23d6f4f7fd558e0f", null ],
     [ "getName", "dc/d69/classpocketmine_1_1block_1_1_floor_banner.html#ade77e0b1fce7bdebceed4092b9c5c022", null ],
-    [ "getOminousVersion", "dc/d69/classpocketmine_1_1block_1_1_floor_banner.html#a0870f8bf5becda1a68bc91841fe6878f", null ],
     [ "getPatterns", "dc/d69/classpocketmine_1_1block_1_1_floor_banner.html#a45f473ca6ec3ccc58aef49d6f8ec2bb6", null ],
     [ "getPickedItem", "dc/d69/classpocketmine_1_1block_1_1_floor_banner.html#acdebf29c6e6115d6947e11203acc3aa0", null ],
     [ "getRotation", "dc/d69/classpocketmine_1_1block_1_1_floor_banner.html#a10aae4a1c309e36a024add2c5924ae7f", null ],

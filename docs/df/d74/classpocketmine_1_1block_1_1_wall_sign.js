@@ -24,7 +24,6 @@ var classpocketmine_1_1block_1_1_wall_sign =
     [ "getDropsForIncompatibleTool", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#afe4928a6da38d63eccea78bd1a2fdcd3", null ],
     [ "getEditorEntityRuntimeId", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#ab0814959ce6f9aec51ba564a42662419", null ],
     [ "getEnchantmentTags", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a26bbbd2a3058bb57bd16a6f73b32d9d0", null ],
-    [ "getFacingDegrees", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a8e16d935cdaf7209edffeb06304efdae", null ],
     [ "getFlameEncouragement", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#aad121ffc31a225748d5bcc0e0752a9f0", null ],
     [ "getFlammability", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#acb7cc5bba94398c6a329b3b2af8fa859", null ],
     [ "getFrictionFactor", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a2cbe9ba6733a72db2c2630aaab7cefe9", null ],
@@ -41,7 +40,6 @@ var classpocketmine_1_1block_1_1_wall_sign =
     [ "getSide", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a8635dccd33641330c42129a61377b2fd", null ],
     [ "getSilkTouchDrops", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a4b01df2347f9cc897c5eb2858d6c5e7e", null ],
     [ "getSupportType", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a0479cce8e77676d62293453aa597b58b", null ],
-    [ "getText", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a0f649b79e6c05fc9f8d744ff69bb0b23", null ],
     [ "getTypeId", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a994b80e9138156e5b90a803def57c7db", null ],
     [ "getTypeTags", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a6201b0d5460ae6f3b5cee03197c9a94a", null ],
     [ "getXpDropAmount", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a771a30c30a36b0992f54c57dc63af10d", null ],
@@ -72,10 +70,8 @@ var classpocketmine_1_1block_1_1_wall_sign =
     [ "setEditorEntityRuntimeId", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a04441f33e5cdb137e50da4b88d1ec570", null ],
     [ "setFaceText", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a95f3d0edf7a4a66c974fad04a97d8c85", null ],
     [ "setFacing", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#ad0fa95cb4e7c3308f4d8f0c29d876dc1", null ],
-    [ "setText", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#ac38134f941cceb363658c3fdfeccb9a4", null ],
     [ "setWaxed", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#ae3909d4c69fe40a1e25762858f1aa56c", null ],
     [ "ticksRandomly", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#ab6b90601adfc9732893dcffe256514a9", null ],
     [ "updateFaceText", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a6222607824a054dde13d69ce8e1fa979", null ],
-    [ "updateText", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a3dcfd3416ae91908d4c00c41eabd93df", null ],
     [ "writeStateToWorld", "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a8af08c2d1638db497dd1c5cabed8510d", null ]
 ];

@@ -78,12 +78,12 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="356" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="369" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">getSupportType()</text>
 <text text-anchor="start" x="356" y="-111.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="369" y="-111.5" font-family="Helvetica,sans-Serif" font-size="10.00">getText()</text>
+<text text-anchor="start" x="369" y="-111.5" font-family="Helvetica,sans-Serif" font-size="10.00">isSolid()</text>
 <text text-anchor="start" x="356" y="-96.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="369" y="-96.5" font-family="Helvetica,sans-Serif" font-size="10.00">isSolid()</text>
+<text text-anchor="start" x="369" y="-96.5" font-family="Helvetica,sans-Serif" font-size="10.00">isWaxed()</text>
 <text text-anchor="start" x="356" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="369" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">isWaxed()</text>
-<text text-anchor="start" x="369" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 12 more...</text>
+<text text-anchor="start" x="369" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">onInteract()</text>
+<text text-anchor="start" x="369" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 9 more...</text>
 <text text-anchor="start" x="356" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
 <text text-anchor="start" x="369" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">getFacingDegrees()</text>
 <text text-anchor="start" x="356" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
@@ -635,7 +635,7 @@ var sectionId = 'dynsection-1';
 </a>
 </g>
 <text text-anchor="middle" x="550.5" y="-291" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$backText</text>
-<text text-anchor="middle" x="550.5" y="-280" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">#$text</text>
+<text text-anchor="middle" x="550.5" y="-280" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">#$frontText</text>
 </g>
 </g>
 </svg>

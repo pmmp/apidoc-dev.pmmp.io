@@ -959,7 +959,7 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="3343" y="-298" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
 <text text-anchor="start" x="3356" y="-298" font-family="Helvetica,sans-Serif" font-size="10.00">$editorEntityRuntimeId</text>
 <text text-anchor="start" x="3343" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="3356" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00">$text</text>
+<text text-anchor="start" x="3356" y="-283" font-family="Helvetica,sans-Serif" font-size="10.00">$frontText</text>
 <text text-anchor="start" x="3343" y="-268" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="3356" y="-268" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
 <text text-anchor="start" x="3343" y="-253" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
@@ -967,7 +967,7 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="3343" y="-238" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="3356" y="-238" font-family="Helvetica,sans-Serif" font-size="10.00">getEditorEntityRuntimeId()</text>
 <text text-anchor="start" x="3343" y="-223" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3356" y="-223" font-family="Helvetica,sans-Serif" font-size="10.00">getText()</text>
+<text text-anchor="start" x="3356" y="-223" font-family="Helvetica,sans-Serif" font-size="10.00">getFrontText()</text>
 <text text-anchor="start" x="3343" y="-208" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="3356" y="-208" font-family="Helvetica,sans-Serif" font-size="10.00">isWaxed()</text>
 <text text-anchor="start" x="3343" y="-193" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
@@ -977,7 +977,7 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="3343" y="-163" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="3356" y="-163" font-family="Helvetica,sans-Serif" font-size="10.00">setEditorEntityRuntimeId()</text>
 <text text-anchor="start" x="3343" y="-148" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3356" y="-148" font-family="Helvetica,sans-Serif" font-size="10.00">setText()</text>
+<text text-anchor="start" x="3356" y="-148" font-family="Helvetica,sans-Serif" font-size="10.00">setFrontText()</text>
 <text text-anchor="start" x="3343" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="3356" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00">setWaxed()</text>
 <text text-anchor="start" x="3343" y="-118" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>

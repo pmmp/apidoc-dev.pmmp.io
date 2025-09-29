@@ -589,6 +589,7 @@ var annotated_dup =
         [ "effect", null, [
           [ "AbsorptionEffect", "d3/d72/classpocketmine_1_1entity_1_1effect_1_1_absorption_effect.html", "d3/d72/classpocketmine_1_1entity_1_1effect_1_1_absorption_effect" ],
           [ "Effect", "d0/d37/classpocketmine_1_1entity_1_1effect_1_1_effect.html", "d0/d37/classpocketmine_1_1entity_1_1effect_1_1_effect" ],
+          [ "EffectCollection", "d7/d9f/classpocketmine_1_1entity_1_1effect_1_1_effect_collection.html", "d7/d9f/classpocketmine_1_1entity_1_1effect_1_1_effect_collection" ],
           [ "EffectInstance", "dc/d2e/classpocketmine_1_1entity_1_1effect_1_1_effect_instance.html", "dc/d2e/classpocketmine_1_1entity_1_1effect_1_1_effect_instance" ],
           [ "EffectManager", "da/d02/classpocketmine_1_1entity_1_1effect_1_1_effect_manager.html", "da/d02/classpocketmine_1_1entity_1_1effect_1_1_effect_manager" ],
           [ "HealthBoostEffect", "de/d8c/classpocketmine_1_1entity_1_1effect_1_1_health_boost_effect.html", "de/d8c/classpocketmine_1_1entity_1_1effect_1_1_health_boost_effect" ],
@@ -608,6 +609,7 @@ var annotated_dup =
           [ "WitherEffect", "dc/dae/classpocketmine_1_1entity_1_1effect_1_1_wither_effect.html", "dc/dae/classpocketmine_1_1entity_1_1effect_1_1_wither_effect" ]
         ] ],
         [ "object", null, [
+          [ "AreaEffectCloud", "d0/d6c/classpocketmine_1_1entity_1_1object_1_1_area_effect_cloud.html", "d0/d6c/classpocketmine_1_1entity_1_1object_1_1_area_effect_cloud" ],
           [ "EndCrystal", "dc/d98/classpocketmine_1_1entity_1_1object_1_1_end_crystal.html", "dc/d98/classpocketmine_1_1entity_1_1object_1_1_end_crystal" ],
           [ "ExperienceOrb", "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html", "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb" ],
           [ "FallingBlock", "df/d14/classpocketmine_1_1entity_1_1object_1_1_falling_block.html", "df/d14/classpocketmine_1_1entity_1_1object_1_1_falling_block" ],
@@ -690,6 +692,7 @@ var annotated_dup =
           [ "StructureGrowEvent", "dd/d17/classpocketmine_1_1event_1_1block_1_1_structure_grow_event.html", "dd/d17/classpocketmine_1_1event_1_1block_1_1_structure_grow_event" ]
         ] ],
         [ "entity", "d9/d86/namespacepocketmine_1_1event_1_1entity.html", [
+          [ "AreaEffectCloudApplyEvent", "d8/d7c/classpocketmine_1_1event_1_1entity_1_1_area_effect_cloud_apply_event.html", "d8/d7c/classpocketmine_1_1event_1_1entity_1_1_area_effect_cloud_apply_event" ],
           [ "EntityBlockChangeEvent", "d5/d98/classpocketmine_1_1event_1_1entity_1_1_entity_block_change_event.html", "d5/d98/classpocketmine_1_1event_1_1entity_1_1_entity_block_change_event" ],
           [ "EntityCombustByBlockEvent", "df/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_block_event.html", "df/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_block_event" ],
           [ "EntityCombustByEntityEvent", "da/d59/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_entity_event.html", "da/d59/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_entity_event" ],
@@ -1122,10 +1125,10 @@ var annotated_dup =
           [ "protocol", null, [
             [ "serializer", null, [
               [ "BitSet", "db/db6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_bit_set.html", "db/db6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_bit_set" ],
+              [ "CommonTypes", "d9/d99/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_common_types.html", "d9/d99/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_common_types" ],
               [ "ItemTypeDictionary", "da/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_item_type_dictionary.html", "da/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_item_type_dictionary" ],
               [ "NetworkNbtSerializer", "d4/dc8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_network_nbt_serializer.html", "d4/dc8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_network_nbt_serializer" ],
-              [ "PacketBatch", "d9/df4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_batch.html", "d9/df4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_batch" ],
-              [ "PacketSerializer", "d9/d4e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_serializer.html", "d9/d4e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_serializer" ]
+              [ "PacketBatch", "d9/df4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_batch.html", "d9/df4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_batch" ]
             ] ],
             [ "types", null, [
               [ "biome", null, [
@@ -2103,8 +2106,8 @@ var annotated_dup =
           [ "SweetBerriesPickSound", "d3/dd4/classpocketmine_1_1world_1_1sound_1_1_sweet_berries_pick_sound.html", "d3/dd4/classpocketmine_1_1world_1_1sound_1_1_sweet_berries_pick_sound" ],
           [ "ThrowSound", "d9/d18/classpocketmine_1_1world_1_1sound_1_1_throw_sound.html", "d9/d18/classpocketmine_1_1world_1_1sound_1_1_throw_sound" ],
           [ "TotemUseSound", "de/dbd/classpocketmine_1_1world_1_1sound_1_1_totem_use_sound.html", "de/dbd/classpocketmine_1_1world_1_1sound_1_1_totem_use_sound" ],
+          [ "TridentHitBlockSound", "d1/d19/classpocketmine_1_1world_1_1sound_1_1_trident_hit_block_sound.html", "d1/d19/classpocketmine_1_1world_1_1sound_1_1_trident_hit_block_sound" ],
           [ "TridentHitEntitySound", "d7/d84/classpocketmine_1_1world_1_1sound_1_1_trident_hit_entity_sound.html", "d7/d84/classpocketmine_1_1world_1_1sound_1_1_trident_hit_entity_sound" ],
-          [ "TridentHitGroundSound", "d3/d8e/classpocketmine_1_1world_1_1sound_1_1_trident_hit_ground_sound.html", "d3/d8e/classpocketmine_1_1world_1_1sound_1_1_trident_hit_ground_sound" ],
           [ "TridentThrowSound", "d0/d25/classpocketmine_1_1world_1_1sound_1_1_trident_throw_sound.html", "d0/d25/classpocketmine_1_1world_1_1sound_1_1_trident_throw_sound" ],
           [ "WaterSplashSound", "df/d82/classpocketmine_1_1world_1_1sound_1_1_water_splash_sound.html", "df/d82/classpocketmine_1_1world_1_1sound_1_1_water_splash_sound" ],
           [ "XpCollectSound", "d9/d40/classpocketmine_1_1world_1_1sound_1_1_xp_collect_sound.html", "d9/d40/classpocketmine_1_1world_1_1sound_1_1_xp_collect_sound" ],

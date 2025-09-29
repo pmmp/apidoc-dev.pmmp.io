@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.33.3 git-ee8c1356f6def2959b98b71541ac98af13542c62</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.34.2 git-d1b48cbb9d0c7bb5cf4b49023b8f5918a6da9914</span>
    </div>
   </td>
  </tr>
@@ -120,8 +120,8 @@ $(function(){initNavTree('de/dda/classpocketmine_1_1world_1_1format_1_1_sub_chun
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a04987f1ac0605b983c3e55657cf3162d" id="r_a04987f1ac0605b983c3e55657cf3162d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a04987f1ac0605b983c3e55657cf3162d">__construct</a> (private int $emptyBlockId, private array $blockLayers, private PalettedBlockArray $biomes, private ?LightArray $skyLight=null, private ?LightArray $blockLight=null)</td></tr>
-<tr class="separator:a04987f1ac0605b983c3e55657cf3162d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4d80778f2aed23e716f52a382f9c09f1" id="r_a4d80778f2aed23e716f52a382f9c09f1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a4d80778f2aed23e716f52a382f9c09f1">__construct</a> (private int $emptyBlockId, private ?PalettedBlockArray $blockLayer0, private ?PalettedBlockArray $blockLayer1, private PalettedBlockArray $biomes, private ?LightArray $skyLight=null, private ?LightArray $blockLight=null)</td></tr>
+<tr class="separator:a4d80778f2aed23e716f52a382f9c09f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abb5d005593b4f7752fdc0fc8ef04bccd" id="r_abb5d005593b4f7752fdc0fc8ef04bccd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#abb5d005593b4f7752fdc0fc8ef04bccd">__clone</a> ()</td></tr>
 <tr class="separator:abb5d005593b4f7752fdc0fc8ef04bccd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a89e07cc9735a931df3564e20b3cc42ca" id="r_a89e07cc9735a931df3564e20b3cc42ca"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a89e07cc9735a931df3564e20b3cc42ca">__debugInfo</a> ()</td></tr>
@@ -130,6 +130,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ac631dd981cea868439edde050855b5b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a48f410cfa2e84f97c005bef257cef24a" id="r_a48f410cfa2e84f97c005bef257cef24a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a48f410cfa2e84f97c005bef257cef24a">getBiomeArray</a> ()</td></tr>
 <tr class="separator:a48f410cfa2e84f97c005bef257cef24a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a174ca64094c8365c2059ee8bdfb9a1f3" id="r_a174ca64094c8365c2059ee8bdfb9a1f3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a174ca64094c8365c2059ee8bdfb9a1f3">getBlockLayer0</a> ()</td></tr>
+<tr class="separator:a174ca64094c8365c2059ee8bdfb9a1f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9144ac9706c4009eb928edac6f4e683e" id="r_a9144ac9706c4009eb928edac6f4e683e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a9144ac9706c4009eb928edac6f4e683e">getBlockLayer1</a> ()</td></tr>
+<tr class="separator:a9144ac9706c4009eb928edac6f4e683e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa2a7ca2018ec37b41131ef5af61fc0d6" id="r_aa2a7ca2018ec37b41131ef5af61fc0d6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aa2a7ca2018ec37b41131ef5af61fc0d6">getBlockLayers</a> ()</td></tr>
 <tr class="separator:aa2a7ca2018ec37b41131ef5af61fc0d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aec29b66c8a70c1c72cd74d8abfd7a565" id="r_aec29b66c8a70c1c72cd74d8abfd7a565"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aec29b66c8a70c1c72cd74d8abfd7a565">getBlockLightArray</a> ()</td></tr>
@@ -164,10 +168,10 @@ Public Attributes</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00029">29</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00026">26</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a04987f1ac0605b983c3e55657cf3162d" name="a04987f1ac0605b983c3e55657cf3162d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a04987f1ac0605b983c3e55657cf3162d">&#9670;&#160;</a></span>__construct()</h2>
+<a id="a4d80778f2aed23e716f52a382f9c09f1" name="a4d80778f2aed23e716f52a382f9c09f1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4d80778f2aed23e716f52a382f9c09f1">&#9670;&#160;</a></span>__construct()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -180,7 +184,12 @@ Public Attributes</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">private array</td>          <td class="paramname"><span class="paramname"><em>$blockLayers</em></span>, </td>
+          <td class="paramtype">private ?PalettedBlockArray</td>          <td class="paramname"><span class="paramname"><em>$blockLayer0</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">private ?PalettedBlockArray</td>          <td class="paramname"><span class="paramname"><em>$blockLayer1</em></span>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -199,15 +208,9 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>SubChunk constructor.</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramtype">PalettedBlockArray[]</td><td class="paramname">$blockLayers</td><td>@phpstan-param list&lt;PalettedBlockArray&gt; $blockLayers </td></tr>
-  </table>
-  </dd>
-</dl>
+<p>SubChunk constructor. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00040">40</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00034">34</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
 
 </div>
 </div>
@@ -227,7 +230,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00152">152</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00164">164</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
 
 </div>
 </div>
@@ -247,7 +250,7 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 <dl class="section return"><dt>Returns</dt><dd>mixed[] </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00128">128</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00135">135</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
 
 </div>
 </div>
@@ -266,7 +269,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00132">132</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00147">147</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
 
 </div>
 </div>
@@ -285,7 +288,45 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00107">107</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00114">114</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
+
+</div>
+</div>
+<a id="a174ca64094c8365c2059ee8bdfb9a1f3" name="a174ca64094c8365c2059ee8bdfb9a1f3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a174ca64094c8365c2059ee8bdfb9a1f3">&#9670;&#160;</a></span>getBlockLayer0()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">pocketmine\world\format\SubChunk::getBlockLayer0 </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00078">78</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
+
+</div>
+</div>
+<a id="a9144ac9706c4009eb928edac6f4e683e" name="a9144ac9706c4009eb928edac6f4e683e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9144ac9706c4009eb928edac6f4e683e">&#9670;&#160;</a></span>getBlockLayer1()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">pocketmine\world\format\SubChunk::getBlockLayer1 </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00082">82</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
 
 </div>
 </div>
@@ -303,7 +344,7 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<dl class="section return"><dt>Returns</dt><dd>PalettedBlockArray[] @phpstan-return list&lt;PalettedBlockArray&gt; </dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>PalettedBlockArray[] @phpstan-return array{}|array{PalettedBlockArray}|array{PalettedBlockArray, PalettedBlockArray} </dd></dl>
 
 <p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00090">90</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
 
@@ -324,7 +365,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00117">117</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00124">124</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
 
 </div>
 </div>
@@ -343,7 +384,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00109">109</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00116">116</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
 
 </div>
 </div>
@@ -371,7 +412,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00072">72</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00067">67</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
 
 </div>
 </div>
@@ -391,7 +432,7 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p>Returns the block used as the default. This is assumed to refer to air. If all the blocks in a subchunk layer are equal to this block, the layer is assumed to be empty. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00070">70</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00065">65</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
 
 </div>
 </div>
@@ -414,7 +455,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00094">94</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00101">101</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
 
 </div>
 </div>
@@ -434,7 +475,7 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p>Returns whether this subchunk contains any non-air blocks. This function will do a slow check, usually by garbage collecting first. This is typically useful for disk saving. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00053">53</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00048">48</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
 
 </div>
 </div>
@@ -454,7 +495,7 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p>Returns a non-authoritative bool to indicate whether the chunk contains any blocks. This may report non-empty erroneously if the chunk has been modified and not garbage-collected. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00062">62</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00057">57</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
 
 </div>
 </div>
@@ -473,7 +514,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00121">121</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00128">128</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
 
 </div>
 </div>
@@ -492,7 +533,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00113">113</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00120">120</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
 
 </div>
 </div>
@@ -525,7 +566,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00079">79</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00071">71</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
 
 </div>
 </div>
@@ -542,7 +583,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00030">30</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00027">27</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
 
 </div>
 </div>
@@ -558,7 +599,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00031">31</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00028">28</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
 
 </div>
 </div>
@@ -574,7 +615,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00032">32</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html#l00029">29</a> of file <a class="el" href="../../de/d9c/_sub_chunk_8php_source.html">SubChunk.php</a>.</p>
 
 </div>
 </div>

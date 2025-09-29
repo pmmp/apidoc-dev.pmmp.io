@@ -1,6 +1,6 @@
 var classpocketmine_1_1world_1_1_world =
 [
-    [ "__construct", "d4/d2b/classpocketmine_1_1world_1_1_world.html#a8b003390da4281b56c309c3c123b4c15", null ],
+    [ "__construct", "d4/d2b/classpocketmine_1_1world_1_1_world.html#ab694eb301bcb8c23d1e9f0f8cdabc605", null ],
     [ "__debugInfo", "d4/d2b/classpocketmine_1_1world_1_1_world.html#a81b5a7343134c44faa0391821052fefa", null ],
     [ "addEntity", "d4/d2b/classpocketmine_1_1world_1_1_world.html#a2dc3564ff0d7dcea937c06f6458f85c7", null ],
     [ "addOnUnloadCallback", "d4/d2b/classpocketmine_1_1world_1_1_world.html#af80f01543be2670005ee70df2b2e510b", null ],
@@ -72,7 +72,7 @@ var classpocketmine_1_1world_1_1_world =
     [ "isSpawnChunk", "d4/d2b/classpocketmine_1_1world_1_1_world.html#a98a5bba627898d19f9f59e51c3b910a1", null ],
     [ "loadChunk", "d4/d2b/classpocketmine_1_1world_1_1_world.html#ab2e56030289d1f0d7d62458ec066c39c", null ],
     [ "lockChunk", "d4/d2b/classpocketmine_1_1world_1_1_world.html#ae8fe6ea100fce0c373ee7231adfa1d42", null ],
-    [ "notifyNeighbourBlockUpdate", "d4/d2b/classpocketmine_1_1world_1_1_world.html#a0760f9b660cabe2649ea685ed579df49", null ],
+    [ "notifyNeighbourBlockUpdate", "d4/d2b/classpocketmine_1_1world_1_1_world.html#ab29946ce25e8c5948e7e2ddcf0ea3ef4", null ],
     [ "orderChunkPopulation", "d4/d2b/classpocketmine_1_1world_1_1_world.html#ae70fe036fcd3cace8d11a28c2a5ad5e2", null ],
     [ "registerChunkListener", "d4/d2b/classpocketmine_1_1world_1_1_world.html#a28654f28814833471e5f68f4d4b7d2d5", null ],
     [ "registerTickingChunk", "d4/d2b/classpocketmine_1_1world_1_1_world.html#a8e21ef5424a410948ffed2bd2f464142", null ],

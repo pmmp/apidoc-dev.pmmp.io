@@ -19,7 +19,7 @@ var classpocketmine_1_1inventory_1_1transaction_1_1_slot_change_action_builder =
     [ "getSlotValidators", "d9/de2/classpocketmine_1_1inventory_1_1transaction_1_1_slot_change_action_builder.html#a83250db989d4fc9aa1fd598dce6255e6", null ],
     [ "getViewers", "d9/de2/classpocketmine_1_1inventory_1_1transaction_1_1_slot_change_action_builder.html#a4b8ad75751fd8b1a046a62669a56ac89", null ],
     [ "internalSetContents", "d9/de2/classpocketmine_1_1inventory_1_1transaction_1_1_slot_change_action_builder.html#a0ad7f88b5cd3388b1b65823abe771a82", null ],
-    [ "isSlotEmpty", "d9/de2/classpocketmine_1_1inventory_1_1transaction_1_1_slot_change_action_builder.html#a7032110ecf181d3fbbc863c5f45270b0", null ],
+    [ "isSlotEmpty", "d9/de2/classpocketmine_1_1inventory_1_1transaction_1_1_slot_change_action_builder.html#af171d6b3b1b68f246928c46957d07e10", null ],
     [ "onContentChange", "d9/de2/classpocketmine_1_1inventory_1_1transaction_1_1_slot_change_action_builder.html#a816548c8e0db980edebec9903c9812a6", null ],
     [ "onOpen", "d9/de2/classpocketmine_1_1inventory_1_1transaction_1_1_slot_change_action_builder.html#a54b84e014cd7ec28b792d6444f35b70d", null ],
     [ "remove", "d9/de2/classpocketmine_1_1inventory_1_1transaction_1_1_slot_change_action_builder.html#a5c676080faee6eaecdc04a70fcedf142", null ],

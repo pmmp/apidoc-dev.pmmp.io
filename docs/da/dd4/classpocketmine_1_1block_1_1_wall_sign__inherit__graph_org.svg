@@ -40,7 +40,7 @@
 <text text-anchor="start" x="89.5" y="-376.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
 <text text-anchor="start" x="102.5" y="-376.5" font-family="Helvetica,sans-Serif" font-size="10.00">$editorEntityRuntimeId</text>
 <text text-anchor="start" x="89.5" y="-361.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="102.5" y="-361.5" font-family="Helvetica,sans-Serif" font-size="10.00">$text</text>
+<text text-anchor="start" x="102.5" y="-361.5" font-family="Helvetica,sans-Serif" font-size="10.00">$frontText</text>
 <text text-anchor="start" x="89.5" y="-346.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="102.5" y="-346.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
 <text text-anchor="start" x="89.5" y="-331.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
@@ -56,12 +56,12 @@
 <text text-anchor="start" x="89.5" y="-256.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="102.5" y="-256.5" font-family="Helvetica,sans-Serif" font-size="10.00">getSupportType()</text>
 <text text-anchor="start" x="89.5" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="102.5" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00">getText()</text>
+<text text-anchor="start" x="102.5" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00">isSolid()</text>
 <text text-anchor="start" x="89.5" y="-226.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="102.5" y="-226.5" font-family="Helvetica,sans-Serif" font-size="10.00">isSolid()</text>
+<text text-anchor="start" x="102.5" y="-226.5" font-family="Helvetica,sans-Serif" font-size="10.00">isWaxed()</text>
 <text text-anchor="start" x="89.5" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="102.5" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">isWaxed()</text>
-<text text-anchor="start" x="102.5" y="-196.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 12 more...</text>
+<text text-anchor="start" x="102.5" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">onInteract()</text>
+<text text-anchor="start" x="102.5" y="-196.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 9 more...</text>
 <text text-anchor="start" x="89.5" y="-181.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
 <text text-anchor="start" x="102.5" y="-181.5" font-family="Helvetica,sans-Serif" font-size="10.00">getFacingDegrees()</text>
 <text text-anchor="start" x="89.5" y="-166.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>

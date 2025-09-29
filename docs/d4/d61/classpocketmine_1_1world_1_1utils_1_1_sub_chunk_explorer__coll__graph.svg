@@ -220,16 +220,16 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="165" y="-384" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="178" y="-384" font-family="Helvetica,sans-Serif" font-size="10.00">getBiomeArray()</text>
 <text text-anchor="start" x="165" y="-369" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="178" y="-369" font-family="Helvetica,sans-Serif" font-size="10.00">getBlockLayers()</text>
+<text text-anchor="start" x="178" y="-369" font-family="Helvetica,sans-Serif" font-size="10.00">getBlockLayer0()</text>
 <text text-anchor="start" x="165" y="-354" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="178" y="-354" font-family="Helvetica,sans-Serif" font-size="10.00">getBlockLightArray()</text>
+<text text-anchor="start" x="178" y="-354" font-family="Helvetica,sans-Serif" font-size="10.00">getBlockLayer1()</text>
 <text text-anchor="start" x="165" y="-339" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="178" y="-339" font-family="Helvetica,sans-Serif" font-size="10.00">getBlockSkyLightArray()</text>
+<text text-anchor="start" x="178" y="-339" font-family="Helvetica,sans-Serif" font-size="10.00">getBlockLayers()</text>
 <text text-anchor="start" x="165" y="-324" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="178" y="-324" font-family="Helvetica,sans-Serif" font-size="10.00">getBlockStateId()</text>
+<text text-anchor="start" x="178" y="-324" font-family="Helvetica,sans-Serif" font-size="10.00">getBlockLightArray()</text>
 <text text-anchor="start" x="165" y="-309" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="178" y="-309" font-family="Helvetica,sans-Serif" font-size="10.00">getEmptyBlockId()</text>
-<text text-anchor="start" x="178" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">and 6 more...</text>
+<text text-anchor="start" x="178" y="-309" font-family="Helvetica,sans-Serif" font-size="10.00">getBlockSkyLightArray()</text>
+<text text-anchor="start" x="178" y="-294" font-family="Helvetica,sans-Serif" font-size="10.00">and 8 more...</text>
 <polygon fill="#bfbfbf" stroke="#bfbfbf" points="161,-499 161,-499 300,-499 300,-499 161,-499"/>
 <polygon fill="#bfbfbf" stroke="#bfbfbf" points="161,-454 161,-454 176,-454 176,-454 161,-454"/>
 <polygon fill="#bfbfbf" stroke="#bfbfbf" points="176,-454 176,-454 300,-454 300,-454 176,-454"/>

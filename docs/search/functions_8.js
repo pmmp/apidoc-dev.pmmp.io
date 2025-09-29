@@ -9,7 +9,7 @@ var searchData=
   ['handleraknetconnectionpacket_6',['handleRakNetConnectionPacket',['../dd/dca/classraklib_1_1generic_1_1_session.html#a00ae8b59f6935e1cca48c8499e2a9805',1,'raklib\generic\Session\handleRakNetConnectionPacket()'],['../d6/d79/classraklib_1_1server_1_1_server_session.html#a547aa4fee8ef48f28fbb1e6191f745fd',1,'raklib\server\ServerSession\handleRakNetConnectionPacket()']]],
   ['handleraw_7',['handleRaw',['../dd/dc3/classraklib_1_1server_1_1_unconnected_message_handler.html#aabf10ce12c1ef4947d7845e0ae01c55f',1,'raklib::server::UnconnectedMessageHandler']]],
   ['handleresponse_8',['handleResponse',['../d5/d7b/interfacepocketmine_1_1form_1_1_form.html#a00e0c0ae357b83c56e8d89a9095e8b97',1,'pocketmine::form::Form']]],
-  ['has_9',['has',['../da/d02/classpocketmine_1_1entity_1_1effect_1_1_effect_manager.html#a7d62d566cf99e829a7c6871f10cedb6e',1,'pocketmine::entity::effect::EffectManager']]],
+  ['has_9',['has',['../d7/d9f/classpocketmine_1_1entity_1_1effect_1_1_effect_collection.html#a0f2d95aa47edaef53ac3035a16c5429d',1,'pocketmine::entity::effect::EffectCollection']]],
   ['hasblockcollision_10',['hasBlockCollision',['../d0/d6f/classpocketmine_1_1player_1_1_player.html#a851c9a91d0743f4c146a560082be2af4',1,'pocketmine::player::Player']]],
   ['hasbubbles_11',['hasBubbles',['../d0/d37/classpocketmine_1_1entity_1_1effect_1_1_effect.html#a47e78434ab3294753bc42572711b3d49',1,'pocketmine::entity::effect::Effect']]],
   ['hasdata_12',['hasData',['../d5/db7/classpocketmine_1_1player_1_1_dat_file_player_data_provider.html#a4eb4d1c9fe54bcae255f1c07fb1b6a62',1,'pocketmine\player\DatFilePlayerDataProvider\hasData()'],['../d4/d27/interfacepocketmine_1_1player_1_1_player_data_provider.html#a1ab6ed531ebb8c04a9ef8f18d0ff79d4',1,'pocketmine\player\PlayerDataProvider\hasData()']]],
@@ -23,12 +23,11 @@ var searchData=
   ['hasnamedtag_20',['hasNamedTag',['../d5/d8a/classpocketmine_1_1item_1_1_item.html#ad2d004e5063f6ca465ed956b024217b1',1,'pocketmine::item::Item']]],
   ['hasnoclientpredictions_21',['hasNoClientPredictions',['../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a265cb93031a89ccc4a4236b3702c690b',1,'pocketmine::entity::Entity']]],
   ['hasofflineplayerdata_22',['hasOfflinePlayerData',['../d5/df7/classpocketmine_1_1_server.html#a892f9b2261f97b2bf464101286621d04',1,'pocketmine::Server']]],
-  ['hasoutputsignal_23',['hasOutputSignal',['../de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#ac744c0260aeb03aa2293120851cdec2d',1,'pocketmine\block\PressurePlate\hasOutputSignal()'],['../dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#a8b215348aee96d5b176a13172a6f1f10',1,'pocketmine\block\SimplePressurePlate\hasOutputSignal()'],['../d6/dc1/classpocketmine_1_1block_1_1_weighted_pressure_plate.html#a2855373ccb22f3c9d35d5d9eb120b409',1,'pocketmine\block\WeightedPressurePlate\hasOutputSignal()']]],
-  ['haspermission_24',['hasPermission',['../de/da0/interfacepocketmine_1_1permission_1_1_permissible.html#a8b7b223af5887da270b6e15bde3ecc3c',1,'pocketmine\permission\Permissible\hasPermission()'],['../d9/d10/classpocketmine_1_1permission_1_1_permissible_internal.html#a888f339e4b5b4564fc9ee006cec4c878',1,'pocketmine\permission\PermissibleInternal\hasPermission()']]],
-  ['hasreceivedchunk_25',['hasReceivedChunk',['../d0/d6f/classpocketmine_1_1player_1_1_player.html#a73d74eb983f45cb1a89ea965524ec07b',1,'pocketmine::player::Player']]],
-  ['hassametypeid_26',['hasSameTypeId',['../d7/d27/classpocketmine_1_1block_1_1_block.html#acfa7766036568571b645ae89ceb1029e',1,'pocketmine::block::Block']]],
-  ['hasslot_27',['hasSlot',['../d4/d9c/classpocketmine_1_1block_1_1_chiseled_bookshelf.html#aefc26c32bb5ca83c451906172fa085f9',1,'pocketmine::block::ChiseledBookshelf']]],
-  ['hastypetag_28',['hasTypeTag',['../d7/d27/classpocketmine_1_1block_1_1_block.html#a43e3458847422ebd5dec6c914b443c93',1,'pocketmine::block::Block']]],
-  ['hasupdate_29',['hasUpdate',['../dd/d12/classpocketmine_1_1updater_1_1_update_checker.html#a847ca7f0de5cd227bf7afbb6a18c1e5b',1,'pocketmine::updater::UpdateChecker']]],
-  ['hexdump_30',['hexdump',['../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a6554668929420cbb0739b8ac43ebef4e',1,'pocketmine::utils::Utils']]]
+  ['haspermission_23',['hasPermission',['../de/da0/interfacepocketmine_1_1permission_1_1_permissible.html#a8b7b223af5887da270b6e15bde3ecc3c',1,'pocketmine\permission\Permissible\hasPermission()'],['../d9/d10/classpocketmine_1_1permission_1_1_permissible_internal.html#a888f339e4b5b4564fc9ee006cec4c878',1,'pocketmine\permission\PermissibleInternal\hasPermission()']]],
+  ['hasreceivedchunk_24',['hasReceivedChunk',['../d0/d6f/classpocketmine_1_1player_1_1_player.html#a73d74eb983f45cb1a89ea965524ec07b',1,'pocketmine::player::Player']]],
+  ['hassametypeid_25',['hasSameTypeId',['../d7/d27/classpocketmine_1_1block_1_1_block.html#acfa7766036568571b645ae89ceb1029e',1,'pocketmine::block::Block']]],
+  ['hasslot_26',['hasSlot',['../d4/d9c/classpocketmine_1_1block_1_1_chiseled_bookshelf.html#aefc26c32bb5ca83c451906172fa085f9',1,'pocketmine::block::ChiseledBookshelf']]],
+  ['hastypetag_27',['hasTypeTag',['../d7/d27/classpocketmine_1_1block_1_1_block.html#a43e3458847422ebd5dec6c914b443c93',1,'pocketmine::block::Block']]],
+  ['hasupdate_28',['hasUpdate',['../dd/d12/classpocketmine_1_1updater_1_1_update_checker.html#a847ca7f0de5cd227bf7afbb6a18c1e5b',1,'pocketmine::updater::UpdateChecker']]],
+  ['hexdump_29',['hexdump',['../dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a6554668929420cbb0739b8ac43ebef4e',1,'pocketmine::utils::Utils']]]
 ];

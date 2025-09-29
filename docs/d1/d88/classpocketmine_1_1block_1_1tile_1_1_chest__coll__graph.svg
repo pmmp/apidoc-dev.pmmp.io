@@ -691,7 +691,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="870" y="-680.5" font-family="Helvetica,sans-Serif" font-size="10.00">firstEmpty()</text>
 <text text-anchor="start" x="857" y="-665.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="870" y="-665.5" font-family="Helvetica,sans-Serif" font-size="10.00">getAddableItemQuantity()</text>
-<text text-anchor="start" x="870" y="-650.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 11 more...</text>
+<text text-anchor="start" x="870" y="-650.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 10 more...</text>
 <text text-anchor="start" x="857" y="-635.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
 <text text-anchor="start" x="870" y="-635.5" font-family="Helvetica,sans-Serif" font-size="10.00">internalSetContents()</text>
 <text text-anchor="start" x="857" y="-620.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>

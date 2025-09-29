@@ -1,66 +1,68 @@
 <map id="pocketmine\entity\Squid" name="pocketmine\entity\Squid">
-<area shape="rect" id="Node000001" title=" " alt="" coords="285,5195,457,5400"/>
-<area shape="rect" id="Node000002" href="$df/d3c/classpocketmine_1_1entity_1_1_water_animal.html" title=" " alt="" coords="1323,4803,1543,4928"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1336,4938,1258,4990,1166,5045,1065,5100,962,5148,827,5196,689,5235,561,5264,457,5285,456,5279,560,5259,688,5230,825,5191,960,5143,1063,5095,1163,5041,1255,4985,1333,4934"/>
-<area shape="rect" id="Node000003" href="$df/d0c/classpocketmine_1_1entity_1_1_living.html" title=" " alt="" coords="1311,3776,1556,4536"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1436,4550,1436,4802,1431,4802,1431,4550"/>
-<area shape="rect" id="Node000004" href="$d2/d3c/classpocketmine_1_1entity_1_1_entity.html" title=" " alt="" coords="883,2704,1080,3669"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1088,3411,1313,3891,1308,3893,1084,3413"/>
-<area shape="rect" id="Node000006" href="$de/d84/classpocketmine_1_1event_1_1entity_1_1_entity_event.html" title=" " alt="" coords="760,4116,933,4196"/>
-<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="907,3670,904,3694,855,4100,850,4099,899,3693,902,3669"/>
-<area shape="rect" id="Node000005" href="$d5/de3/classpocketmine_1_1event_1_1entity_1_1_entity_damage_event.html" title=" " alt="" coords="743,4585,950,5145"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="933,4585,943,4536,970,4321,987,4102,995,3887,997,3686,1002,3686,1000,3888,992,4102,976,4322,948,4536,939,4586"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="849,4210,849,4585,844,4585,844,4210"/>
-<area shape="rect" id="Node000007" href="$d1/d2f/classpocketmine_1_1event_1_1_event.html" title=" " alt="" coords="686,3134,858,3239"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="780,3253,846,4115,841,4116,774,3254"/>
-<area shape="rect" id="Node000008" href="$db/d62/interfacepocketmine_1_1event_1_1_cancellable.html" title=" " alt="" coords="525,4123,736,4189"/>
-<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="647,4201,764,4584,759,4586,642,4203"/>
-<area shape="rect" id="Node000009" href="$dc/d56/classpocketmine_1_1entity_1_1_location.html" title=" " alt="" coords="1113,2284,1303,2489"/>
-<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="1182,2490,1087,2823,1082,2822,1177,2489"/>
-<area shape="rect" id="Node000010" href="$d5/dd2/classpocketmine_1_1world_1_1_position.html" title=" " alt="" coords="1112,1787,1299,1992"/>
-<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1209,2006,1210,2284,1205,2284,1203,2006"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="262,5325,434,5531"/>
+<area shape="rect" id="Node000002" href="$df/d3c/classpocketmine_1_1entity_1_1_water_animal.html" title=" " alt="" coords="1237,4933,1457,5059"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1267,5070,1201,5121,1123,5177,1037,5232,948,5278,881,5306,811,5331,671,5371,541,5399,434,5418,434,5412,540,5394,670,5366,810,5326,879,5301,946,5274,1035,5227,1120,5173,1198,5117,1263,5065"/>
+<area shape="rect" id="Node000003" href="$df/d0c/classpocketmine_1_1entity_1_1_living.html" title=" " alt="" coords="1224,3907,1469,4667"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1349,4681,1349,4933,1344,4933,1344,4681"/>
+<area shape="rect" id="Node000004" href="$d2/d3c/classpocketmine_1_1entity_1_1_entity.html" title=" " alt="" coords="868,2835,1065,3800"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1073,3582,1226,3972,1221,3974,1068,3584"/>
+<area shape="rect" id="Node000006" href="$de/d84/classpocketmine_1_1event_1_1entity_1_1_entity_event.html" title=" " alt="" coords="745,4247,919,4327"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="893,3800,889,3824,840,4231,835,4230,884,3824,887,3800"/>
+<area shape="rect" id="Node000005" href="$d5/de3/classpocketmine_1_1event_1_1entity_1_1_entity_damage_event.html" title=" " alt="" coords="729,4716,935,5276"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="919,4715,928,4666,956,4452,972,4233,980,4018,982,3817,987,3817,986,4018,978,4233,961,4452,933,4667,924,4716"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="835,4340,835,4716,829,4716,829,4340"/>
+<area shape="rect" id="Node000007" href="$d1/d2f/classpocketmine_1_1event_1_1_event.html" title=" " alt="" coords="671,3265,843,3370"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="765,3384,832,4246,826,4247,760,3384"/>
+<area shape="rect" id="Node000008" href="$db/d62/interfacepocketmine_1_1event_1_1_cancellable.html" title=" " alt="" coords="511,4254,721,4319"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="632,4332,749,4715,744,4717,627,4333"/>
+<area shape="rect" id="Node000009" href="$dc/d56/classpocketmine_1_1entity_1_1_location.html" title=" " alt="" coords="1113,2304,1303,2509"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="1184,2510,1072,2929,1067,2928,1178,2509"/>
+<area shape="rect" id="Node000010" href="$d5/dd2/classpocketmine_1_1world_1_1_position.html" title=" " alt="" coords="1112,1797,1299,2002"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1209,2016,1210,2304,1205,2304,1203,2016"/>
 <area shape="rect" id="Node000011" href="$d2/d90/classpocketmine_1_1math_1_1_vector3.html" title=" " alt="" coords="875,1149,1056,1495"/>
-<area shape="poly" id="edge34_Node000001_Node000011" title=" " alt="" coords="875,1336,769,1352,638,1380,495,1420,423,1445,351,1475,283,1508,219,1547,160,1590,109,1638,67,1692,35,1751,15,1817,8,1888,8,4867,15,4926,34,4983,63,5036,100,5085,141,5130,186,5170,273,5235,269,5239,182,5174,138,5133,96,5088,59,5039,29,4985,10,4927,3,4867,3,1888,10,1816,30,1749,63,1689,106,1635,157,1586,216,1542,280,1504,349,1470,421,1440,494,1415,637,1374,768,1347,874,1331"/>
-<area shape="poly" id="edge16_Node000004_Node000011" title=" " alt="" coords="992,1495,1018,1720,1043,2002,1051,2156,1056,2314,1056,2472,1051,2627,1046,2688,1041,2687,1045,2627,1051,2472,1051,2314,1046,2156,1037,2002,1013,1720,987,1495"/>
-<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="1013,1507,1038,1571,1070,1630,1082,1642,1095,1654,1136,1719,1168,1785,1164,1788,1131,1722,1091,1658,1079,1646,1066,1634,1033,1573,1008,1509"/>
+<area shape="poly" id="edge35_Node000001_Node000011" title=" " alt="" coords="875,1337,769,1354,638,1382,495,1424,423,1450,351,1480,283,1515,219,1554,160,1598,109,1646,67,1701,35,1761,15,1826,8,1898,8,4997,14,5055,32,5109,58,5161,91,5209,129,5253,170,5294,250,5360,247,5364,166,5298,125,5257,87,5212,53,5163,27,5111,9,5056,3,4997,3,1898,10,1825,30,1758,63,1698,106,1643,157,1593,216,1549,280,1510,349,1475,421,1445,494,1419,637,1377,768,1349,874,1331"/>
+<area shape="poly" id="edge16_Node000004_Node000011" title=" " alt="" coords="992,1495,1019,1723,1043,2010,1052,2167,1057,2328,1057,2489,1051,2647,1037,2818,1031,2818,1045,2647,1051,2489,1051,2328,1046,2167,1038,2011,1013,1724,987,1495"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="1013,1507,1038,1571,1070,1630,1082,1642,1095,1654,1138,1724,1171,1795,1166,1797,1133,1726,1091,1658,1079,1646,1066,1634,1033,1573,1008,1509"/>
 <area shape="rect" id="Node000012" href="$d4/d2b/classpocketmine_1_1world_1_1_world.html" title=" " alt="" coords="1080,1012,1301,1632"/>
-<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="1201,1632,1205,1770,1200,1770,1196,1632"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="1201,1632,1205,1780,1200,1780,1196,1632"/>
 <area shape="rect" id="Node000013" href="$d0/d03/interfacepocketmine_1_1world_1_1_chunk_manager.html" title=" " alt="" coords="1072,689,1304,875"/>
 <area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="1191,889,1192,1012,1186,1012,1186,889"/>
 <area shape="rect" id="Node000014" href="$d7/d08/classpocketmine_1_1world_1_1_world_timings.html" title=" " alt="" coords="825,615,1047,949"/>
 <area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="1038,949,1070,1011,1075,1021,1071,1024,1066,1013,1033,951"/>
 <area shape="rect" id="Node000015" href="$d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html" title=" " alt="" coords="1032,5,1245,405"/>
-<area shape="poly" id="edge21_Node000004_Node000015" title=" " alt="" coords="1248,380,1270,428,1308,523,1330,600,1341,679,1344,781,1344,2388,1343,2510,1336,2562,1317,2628,1271,2742,1214,2853,1152,2955,1092,3044,1087,3042,1148,2952,1209,2850,1266,2740,1312,2626,1331,2561,1338,2509,1339,2388,1339,781,1336,679,1325,601,1303,525,1266,430,1243,382"/>
+<area shape="poly" id="edge21_Node000004_Node000015" title=" " alt="" coords="1248,380,1270,428,1308,523,1330,600,1341,679,1344,781,1344,2408,1341,2529,1333,2581,1317,2647,1296,2718,1271,2788,1210,2925,1142,3051,1077,3160,1072,3157,1138,3049,1205,2923,1266,2786,1291,2716,1312,2646,1328,2580,1335,2528,1339,2408,1339,781,1336,679,1325,601,1303,525,1266,430,1243,382"/>
 <area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="1071,406,1003,600,997,598,1066,405"/>
-<area shape="rect" id="Node000016" href="$dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html" title=" " alt="" coords="43,2194,269,2579"/>
-<area shape="poly" id="edge17_Node000004_Node000016" title=" " alt="" coords="243,2578,283,2625,312,2648,337,2661,402,2677,490,2681,639,2681,787,2685,840,2691,871,2702,872,2703,869,2707,868,2706,839,2696,786,2691,639,2687,490,2687,401,2683,335,2666,309,2652,279,2629,239,2581"/>
-<area shape="rect" id="Node000017" href="$df/db7/classpocketmine_1_1entity_1_1_entity_size_info.html" title=" " alt="" coords="294,2307,469,2467"/>
-<area shape="poly" id="edge18_Node000004_Node000017" title=" " alt="" coords="398,2466,410,2508,428,2550,452,2590,483,2625,510,2644,534,2657,558,2664,582,2668,634,2670,699,2677,788,2682,837,2688,856,2693,871,2702,873,2704,869,2708,868,2706,854,2698,836,2693,787,2688,698,2683,634,2675,581,2673,557,2670,532,2662,507,2649,480,2629,448,2594,423,2553,405,2509,393,2468"/>
-<area shape="rect" id="Node000018" href="$d0/d76/classpocketmine_1_1entity_1_1_attribute_map.html" title=" " alt="" coords="493,2324,715,2449"/>
-<area shape="poly" id="edge19_Node000004_Node000018" title=" " alt="" coords="628,2449,668,2537,696,2583,729,2625,748,2644,765,2656,809,2678,827,2684,842,2686,857,2690,871,2702,874,2706,870,2709,867,2706,854,2695,841,2691,825,2689,807,2682,762,2660,744,2648,725,2628,692,2586,664,2539,623,2451"/>
-<area shape="rect" id="Node000019" href="$d5/df7/classpocketmine_1_1_server.html" title=" " alt="" coords="739,2147,1037,2627"/>
-<area shape="poly" id="edge20_Node000004_Node000019" title=" " alt="" coords="919,2626,926,2688,920,2688,913,2627"/>
-<area shape="rect" id="Node000020" href="$da/d02/classpocketmine_1_1entity_1_1effect_1_1_effect_manager.html" title=" " alt="" coords="1379,1719,1571,2059"/>
-<area shape="poly" id="edge22_Node000003_Node000020" title=" " alt="" coords="1474,2060,1461,2704,1443,3760,1437,3759,1456,2704,1469,2060"/>
-<area shape="rect" id="Node000021" href="$dd/d00/classpocketmine_1_1color_1_1_color.html" title=" " alt="" coords="1379,1179,1543,1465"/>
-<area shape="poly" id="edge23_Node000020_Node000021" title=" " alt="" coords="1463,1465,1465,1685,1466,1702,1461,1703,1460,1685,1457,1465"/>
-<area shape="rect" id="Node000022" href="$dd/de5/classpocketmine_1_1utils_1_1_object_set.html" title=" " alt="" coords="1576,1239,1765,1405"/>
-<area shape="poly" id="edge24_Node000020_Node000022" title=" " alt="" coords="1652,1406,1615,1538,1567,1686,1560,1705,1555,1703,1561,1684,1610,1537,1647,1404"/>
-<area shape="rect" id="Node000026" href="$d5/dc4/classpocketmine_1_1inventory_1_1_base_inventory.html" title=" " alt="" coords="1729,1709,1927,2069"/>
-<area shape="poly" id="edge31_Node000026_Node000022" title=" " alt="" coords="1696,1404,1776,1693,1771,1694,1691,1406"/>
-<area shape="rect" id="Node000023" title=" " alt="" coords="1606,749,1735,815"/>
-<area shape="poly" id="edge25_Node000022_Node000023" title=" " alt="" coords="1673,828,1673,1239,1668,1239,1668,828"/>
-<area shape="rect" id="Node000024" href="$d0/d70/classpocketmine_1_1inventory_1_1_armor_inventory.html" title=" " alt="" coords="1471,3037,1627,3337"/>
-<area shape="poly" id="edge26_Node000003_Node000024" title=" " alt="" coords="1534,3337,1483,3760,1478,3759,1529,3337"/>
-<area shape="rect" id="Node000025" href="$d6/dc1/classpocketmine_1_1inventory_1_1_simple_inventory.html" title=" " alt="" coords="1669,2227,1857,2547"/>
-<area shape="poly" id="edge27_Node000024_Node000025" title=" " alt="" coords="1691,2561,1641,2705,1601,2876,1572,3037,1567,3036,1595,2875,1636,2703,1686,2559"/>
-<area shape="poly" id="edge28_Node000025_Node000026" title=" " alt="" coords="1805,2083,1786,2227,1781,2226,1800,2083"/>
-<area shape="rect" id="Node000027" href="$db/d39/interfacepocketmine_1_1inventory_1_1_inventory.html" title=" " alt="" coords="1989,1182,2187,1462"/>
-<area shape="poly" id="edge29_Node000026_Node000027" title=" " alt="" coords="2042,1476,2013,1555,1980,1633,1930,1729,1925,1727,1975,1631,2008,1553,2037,1474"/>
-<area shape="rect" id="Node000028" href="$dd/d33/interfacepocketmine_1_1inventory_1_1_slot_validated_inventory.html" title=" " alt="" coords="1798,1282,1965,1362"/>
-<area shape="poly" id="edge30_Node000026_Node000028" title=" " alt="" coords="1883,1376,1878,1516,1865,1686,1862,1709,1857,1709,1860,1685,1873,1516,1878,1376"/>
-<area shape="rect" id="Node000029" href="$d1/d8b/classpocketmine_1_1entity_1_1_attribute.html" title=" " alt="" coords="1651,2904,1845,3469"/>
-<area shape="poly" id="edge32_Node000003_Node000029" title=" " alt="" coords="1737,3470,1720,3545,1696,3619,1664,3690,1621,3754,1608,3764,1594,3767,1582,3770,1570,3778,1568,3779,1564,3776,1566,3774,1580,3765,1593,3762,1605,3759,1617,3750,1659,3687,1692,3617,1715,3543,1731,3469"/>
-<area shape="rect" id="Node000030" href="$d8/deb/interfacepocketmine_1_1entity_1_1_ageable.html" title=" " alt="" coords="1580,4123,1769,4189"/>
-<area shape="poly" id="edge33_Node000002_Node000030" title=" " alt="" coords="1666,4203,1627,4352,1571,4537,1516,4681,1464,4804,1459,4801,1511,4679,1565,4535,1622,4351,1661,4202"/>
+<area shape="rect" id="Node000016" href="$dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html" title=" " alt="" coords="43,2214,269,2599"/>
+<area shape="poly" id="edge17_Node000004_Node000016" title=" " alt="" coords="218,2598,248,2658,286,2716,331,2767,385,2808,416,2815,471,2818,621,2817,771,2818,825,2822,856,2832,858,2834,854,2838,853,2837,824,2828,770,2823,621,2823,471,2824,415,2821,383,2813,328,2771,281,2719,244,2661,213,2601"/>
+<area shape="rect" id="Node000017" href="$df/db7/classpocketmine_1_1entity_1_1_entity_size_info.html" title=" " alt="" coords="294,2327,469,2487"/>
+<area shape="poly" id="edge18_Node000004_Node000017" title=" " alt="" coords="408,2486,440,2565,460,2606,484,2645,520,2701,552,2742,590,2776,646,2808,665,2814,691,2816,753,2816,813,2818,838,2823,856,2832,858,2834,854,2838,853,2837,836,2828,813,2823,753,2821,691,2821,665,2819,644,2813,587,2780,548,2746,516,2704,479,2648,456,2609,435,2568,403,2488"/>
+<area shape="rect" id="Node000018" href="$d0/d76/classpocketmine_1_1entity_1_1_attribute_map.html" title=" " alt="" coords="493,2344,715,2469"/>
+<area shape="poly" id="edge19_Node000004_Node000018" title=" " alt="" coords="622,2469,646,2545,683,2636,706,2682,734,2728,765,2770,800,2809,814,2817,828,2819,842,2822,857,2833,860,2837,856,2840,853,2837,840,2827,827,2825,812,2822,797,2813,761,2774,729,2731,702,2685,678,2638,641,2547,617,2470"/>
+<area shape="rect" id="Node000019" href="$d5/df7/classpocketmine_1_1_server.html" title=" " alt="" coords="739,2167,1037,2647"/>
+<area shape="poly" id="edge20_Node000004_Node000019" title=" " alt="" coords="911,2647,926,2818,921,2819,906,2647"/>
+<area shape="rect" id="Node000020" href="$da/d02/classpocketmine_1_1entity_1_1effect_1_1_effect_manager.html" title=" " alt="" coords="1529,2671,1703,2811"/>
+<area shape="poly" id="edge22_Node000003_Node000020" title=" " alt="" coords="1531,2803,1508,2836,1491,2879,1479,2931,1471,2990,1466,3055,1463,3198,1468,3351,1483,3651,1484,3780,1476,3883,1475,3891,1469,3890,1471,3882,1479,3780,1478,3652,1463,3351,1458,3198,1460,3054,1465,2989,1474,2930,1486,2878,1503,2833,1527,2800"/>
+<area shape="rect" id="Node000021" href="$d7/d9f/classpocketmine_1_1entity_1_1effect_1_1_effect_collection.html" title=" " alt="" coords="1787,1709,1989,2089"/>
+<area shape="poly" id="edge23_Node000020_Node000021" title=" " alt="" coords="1825,2103,1641,2671,1636,2670,1820,2102"/>
+<area shape="rect" id="Node000022" href="$dd/de5/classpocketmine_1_1utils_1_1_object_set.html" title=" " alt="" coords="1793,1239,1983,1405"/>
+<area shape="poly" id="edge24_Node000021_Node000022" title=" " alt="" coords="1891,1405,1891,1693,1885,1693,1885,1405"/>
+<area shape="rect" id="Node000027" href="$d5/dc4/classpocketmine_1_1inventory_1_1_base_inventory.html" title=" " alt="" coords="1519,1719,1718,2079"/>
+<area shape="poly" id="edge32_Node000027_Node000022" title=" " alt="" coords="1868,1406,1832,1515,1784,1633,1729,1735,1724,1733,1779,1631,1827,1514,1862,1404"/>
+<area shape="rect" id="Node000023" title=" " alt="" coords="1823,749,1953,815"/>
+<area shape="poly" id="edge25_Node000022_Node000023" title=" " alt="" coords="1891,828,1891,1239,1885,1239,1885,828"/>
+<area shape="rect" id="Node000024" href="$dd/d00/classpocketmine_1_1color_1_1_color.html" title=" " alt="" coords="2007,1179,2171,1465"/>
+<area shape="poly" id="edge26_Node000021_Node000024" title=" " alt="" coords="2092,1465,2078,1575,2066,1632,2048,1686,2027,1730,2000,1772,1996,1769,2022,1728,2043,1684,2061,1631,2073,1574,2086,1465"/>
+<area shape="rect" id="Node000025" href="$d0/d70/classpocketmine_1_1inventory_1_1_armor_inventory.html" title=" " alt="" coords="1278,3167,1434,3467"/>
+<area shape="poly" id="edge27_Node000003_Node000025" title=" " alt="" coords="1356,3467,1351,3824,1350,3890,1345,3890,1345,3824,1350,3467"/>
+<area shape="rect" id="Node000026" href="$d6/dc1/classpocketmine_1_1inventory_1_1_simple_inventory.html" title=" " alt="" coords="1427,2247,1615,2567"/>
+<area shape="poly" id="edge28_Node000025_Node000026" title=" " alt="" coords="1493,2581,1386,3167,1381,3167,1487,2580"/>
+<area shape="poly" id="edge29_Node000026_Node000027" title=" " alt="" coords="1584,2094,1555,2247,1549,2246,1579,2093"/>
+<area shape="rect" id="Node000028" href="$db/d39/interfacepocketmine_1_1inventory_1_1_inventory.html" title=" " alt="" coords="1570,1182,1769,1462"/>
+<area shape="poly" id="edge30_Node000027_Node000028" title=" " alt="" coords="1659,1476,1637,1719,1632,1719,1653,1475"/>
+<area shape="rect" id="Node000029" href="$dd/d33/interfacepocketmine_1_1inventory_1_1_slot_validated_inventory.html" title=" " alt="" coords="1379,1282,1546,1362"/>
+<area shape="poly" id="edge31_Node000027_Node000029" title=" " alt="" coords="1479,1375,1573,1719,1568,1720,1474,1376"/>
+<area shape="rect" id="Node000030" href="$d1/d8b/classpocketmine_1_1entity_1_1_attribute.html" title=" " alt="" coords="1634,3035,1827,3600"/>
+<area shape="poly" id="edge33_Node000003_Node000030" title=" " alt="" coords="1698,3601,1665,3705,1643,3755,1617,3802,1483,3908,1481,3912,1477,3909,1479,3905,1613,3798,1638,3752,1660,3703,1693,3600"/>
+<area shape="rect" id="Node000031" href="$d8/deb/interfacepocketmine_1_1entity_1_1_ageable.html" title=" " alt="" coords="1493,4254,1683,4319"/>
+<area shape="poly" id="edge34_Node000002_Node000031" title=" " alt="" coords="1580,4334,1540,4483,1484,4668,1429,4812,1377,4934,1372,4932,1424,4810,1479,4666,1535,4481,1575,4332"/>
 </map>

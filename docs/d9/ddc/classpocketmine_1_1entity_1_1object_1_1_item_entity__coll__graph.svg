@@ -986,69 +986,71 @@ var sectionId = 'dynsection-1';
 <g id="Node000018" class="node">
 <title>Node18</title>
 <g id="a_Node000018"><a xlink:href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="1125,-1558 974,-1558 974,-1104 1125,-1104 1125,-1558"/>
-<text text-anchor="start" x="995.5" y="-1546" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Item</text>
-<text text-anchor="start" x="978.5" y="-1531" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="991.5" y="-1531" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_BLOCK_ENTITY_TAG</text>
-<text text-anchor="start" x="978.5" y="-1516" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="991.5" y="-1516" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_DISPLAY</text>
-<text text-anchor="start" x="978.5" y="-1501" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="991.5" y="-1501" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_DISPLAY_LORE</text>
-<text text-anchor="start" x="978.5" y="-1486" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="991.5" y="-1486" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_DISPLAY_NAME</text>
-<text text-anchor="start" x="978.5" y="-1471" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="991.5" y="-1471" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_ENCH</text>
-<text text-anchor="start" x="978.5" y="-1456" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="991.5" y="-1456" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_KEEP_ON_DEATH</text>
-<text text-anchor="start" x="978.5" y="-1441" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="991.5" y="-1441" font-family="Helvetica,sans-Serif" font-size="10.00">$canDestroy</text>
-<text text-anchor="start" x="978.5" y="-1426" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="991.5" y="-1426" font-family="Helvetica,sans-Serif" font-size="10.00">$canPlaceOn</text>
-<text text-anchor="start" x="978.5" y="-1411" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="991.5" y="-1411" font-family="Helvetica,sans-Serif" font-size="10.00">$count</text>
-<text text-anchor="start" x="978.5" y="-1396" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="991.5" y="-1396" font-family="Helvetica,sans-Serif" font-size="10.00">$customName</text>
-<text text-anchor="start" x="978.5" y="-1381" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="991.5" y="-1381" font-family="Helvetica,sans-Serif" font-size="10.00">$keepOnDeath</text>
-<text text-anchor="start" x="978.5" y="-1366" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="991.5" y="-1366" font-family="Helvetica,sans-Serif" font-size="10.00">$lore</text>
-<text text-anchor="start" x="978.5" y="-1351" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="991.5" y="-1351" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
-<text text-anchor="start" x="978.5" y="-1336" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="991.5" y="-1336" font-family="Helvetica,sans-Serif" font-size="10.00">__clone()</text>
-<text text-anchor="start" x="978.5" y="-1321" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="991.5" y="-1321" font-family="Helvetica,sans-Serif" font-size="10.00">__toString()</text>
-<text text-anchor="start" x="978.5" y="-1306" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="991.5" y="-1306" font-family="Helvetica,sans-Serif" font-size="10.00">canBePlaced()</text>
-<text text-anchor="start" x="978.5" y="-1291" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="991.5" y="-1291" font-family="Helvetica,sans-Serif" font-size="10.00">canStackWith()</text>
-<text text-anchor="start" x="978.5" y="-1276" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="991.5" y="-1276" font-family="Helvetica,sans-Serif" font-size="10.00">clearCustomBlockData()</text>
-<text text-anchor="start" x="978.5" y="-1261" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="991.5" y="-1261" font-family="Helvetica,sans-Serif" font-size="10.00">clearCustomName()</text>
-<text text-anchor="start" x="978.5" y="-1246" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="991.5" y="-1246" font-family="Helvetica,sans-Serif" font-size="10.00">clearNamedTag()</text>
-<text text-anchor="start" x="978.5" y="-1231" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="991.5" y="-1231" font-family="Helvetica,sans-Serif" font-size="10.00">equals()</text>
-<text text-anchor="start" x="978.5" y="-1216" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="991.5" y="-1216" font-family="Helvetica,sans-Serif" font-size="10.00">equalsExact()</text>
-<text text-anchor="start" x="991.5" y="-1201" font-family="Helvetica,sans-Serif" font-size="10.00">and 49 more...</text>
-<text text-anchor="start" x="978.5" y="-1186" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="991.5" y="-1186" font-family="Helvetica,sans-Serif" font-size="10.00">legacyJsonDeserialize()</text>
-<text text-anchor="start" x="978.5" y="-1171" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="991.5" y="-1171" font-family="Helvetica,sans-Serif" font-size="10.00">nbtDeserialize()</text>
-<text text-anchor="start" x="978.5" y="-1156" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="991.5" y="-1156" font-family="Helvetica,sans-Serif" font-size="10.00">describeState()</text>
-<text text-anchor="start" x="978.5" y="-1141" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="991.5" y="-1141" font-family="Helvetica,sans-Serif" font-size="10.00">deserializeCompoundTag()</text>
-<text text-anchor="start" x="978.5" y="-1126" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="991.5" y="-1126" font-family="Helvetica,sans-Serif" font-size="10.00">serializeCompoundTag()</text>
-<text text-anchor="start" x="978.5" y="-1111" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="991.5" y="-1111" font-family="Helvetica,sans-Serif" font-size="10.00">tryPlacementTransaction()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="974.5,-1541 974.5,-1541 1125.5,-1541 1125.5,-1541 974.5,-1541"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="974.5,-1361 974.5,-1361 989.5,-1361 989.5,-1361 974.5,-1361"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="989.5,-1361 989.5,-1361 1125.5,-1361 1125.5,-1361 989.5,-1361"/>
-<polygon fill="none" stroke="#bfbfbf" points="974,-1104 974,-1558 1125,-1558 1125,-1104 974,-1104"/>
+<polygon fill="white" stroke="transparent" points="1125,-1565.5 974,-1565.5 974,-1096.5 1125,-1096.5 1125,-1565.5"/>
+<text text-anchor="start" x="995.5" y="-1553" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\item\Item</text>
+<text text-anchor="start" x="978.5" y="-1538" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="991.5" y="-1538" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_BLOCK_ENTITY_TAG</text>
+<text text-anchor="start" x="978.5" y="-1523" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="991.5" y="-1523" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_DISPLAY</text>
+<text text-anchor="start" x="978.5" y="-1508" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="991.5" y="-1508" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_DISPLAY_LORE</text>
+<text text-anchor="start" x="978.5" y="-1493" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="991.5" y="-1493" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_DISPLAY_NAME</text>
+<text text-anchor="start" x="978.5" y="-1478" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="991.5" y="-1478" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_ENCH</text>
+<text text-anchor="start" x="978.5" y="-1463" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="991.5" y="-1463" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_KEEP_ON_DEATH</text>
+<text text-anchor="start" x="978.5" y="-1448" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="991.5" y="-1448" font-family="Helvetica,sans-Serif" font-size="10.00">$canDestroy</text>
+<text text-anchor="start" x="978.5" y="-1433" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="991.5" y="-1433" font-family="Helvetica,sans-Serif" font-size="10.00">$canPlaceOn</text>
+<text text-anchor="start" x="978.5" y="-1418" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="991.5" y="-1418" font-family="Helvetica,sans-Serif" font-size="10.00">$count</text>
+<text text-anchor="start" x="978.5" y="-1403" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="991.5" y="-1403" font-family="Helvetica,sans-Serif" font-size="10.00">$customName</text>
+<text text-anchor="start" x="978.5" y="-1388" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="991.5" y="-1388" font-family="Helvetica,sans-Serif" font-size="10.00">$keepOnDeath</text>
+<text text-anchor="start" x="978.5" y="-1373" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="991.5" y="-1373" font-family="Helvetica,sans-Serif" font-size="10.00">$lore</text>
+<text text-anchor="start" x="978.5" y="-1358" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="991.5" y="-1358" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
+<text text-anchor="start" x="978.5" y="-1343" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="991.5" y="-1343" font-family="Helvetica,sans-Serif" font-size="10.00">__clone()</text>
+<text text-anchor="start" x="978.5" y="-1328" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="991.5" y="-1328" font-family="Helvetica,sans-Serif" font-size="10.00">__toString()</text>
+<text text-anchor="start" x="978.5" y="-1313" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="991.5" y="-1313" font-family="Helvetica,sans-Serif" font-size="10.00">canBePlaced()</text>
+<text text-anchor="start" x="978.5" y="-1298" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="991.5" y="-1298" font-family="Helvetica,sans-Serif" font-size="10.00">canStackWith()</text>
+<text text-anchor="start" x="978.5" y="-1283" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="991.5" y="-1283" font-family="Helvetica,sans-Serif" font-size="10.00">clearCustomBlockData()</text>
+<text text-anchor="start" x="978.5" y="-1268" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="991.5" y="-1268" font-family="Helvetica,sans-Serif" font-size="10.00">clearCustomName()</text>
+<text text-anchor="start" x="978.5" y="-1253" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="991.5" y="-1253" font-family="Helvetica,sans-Serif" font-size="10.00">clearNamedTag()</text>
+<text text-anchor="start" x="978.5" y="-1238" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="991.5" y="-1238" font-family="Helvetica,sans-Serif" font-size="10.00">equals()</text>
+<text text-anchor="start" x="978.5" y="-1223" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="991.5" y="-1223" font-family="Helvetica,sans-Serif" font-size="10.00">equalsExact()</text>
+<text text-anchor="start" x="991.5" y="-1208" font-family="Helvetica,sans-Serif" font-size="10.00">and 49 more...</text>
+<text text-anchor="start" x="978.5" y="-1193" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="991.5" y="-1193" font-family="Helvetica,sans-Serif" font-size="10.00">legacyJsonDeserialize()</text>
+<text text-anchor="start" x="978.5" y="-1178" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="991.5" y="-1178" font-family="Helvetica,sans-Serif" font-size="10.00">nbtDeserialize()</text>
+<text text-anchor="start" x="978.5" y="-1163" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="991.5" y="-1163" font-family="Helvetica,sans-Serif" font-size="10.00">safeNbtDeserialize()</text>
+<text text-anchor="start" x="978.5" y="-1148" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="991.5" y="-1148" font-family="Helvetica,sans-Serif" font-size="10.00">describeState()</text>
+<text text-anchor="start" x="978.5" y="-1133" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="991.5" y="-1133" font-family="Helvetica,sans-Serif" font-size="10.00">deserializeCompoundTag()</text>
+<text text-anchor="start" x="978.5" y="-1118" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="991.5" y="-1118" font-family="Helvetica,sans-Serif" font-size="10.00">serializeCompoundTag()</text>
+<text text-anchor="start" x="978.5" y="-1103" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="991.5" y="-1103" font-family="Helvetica,sans-Serif" font-size="10.00">tryPlacementTransaction()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="974.5,-1548 974.5,-1548 1125.5,-1548 1125.5,-1548 974.5,-1548"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="974.5,-1368 974.5,-1368 989.5,-1368 989.5,-1368 974.5,-1368"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="989.5,-1368 989.5,-1368 1125.5,-1368 1125.5,-1368 989.5,-1368"/>
+<polygon fill="none" stroke="#bfbfbf" points="974,-1096.5 974,-1565.5 1125,-1565.5 1125,-1096.5 974,-1096.5"/>
 </a>
 </g>
 </g>
@@ -1080,7 +1082,7 @@ var sectionId = 'dynsection-1';
 <g id="edge21_Node000018_Node000019" class="edge">
 <title>Node19&#45;&gt;Node18</title>
 <g id="a_edge21_Node000018_Node000019"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M1049.5,-1896.16C1049.5,-1831.49 1049.5,-1685.43 1049.5,-1558.13"/>
+<path fill="none" stroke="#63b8ff" d="M1049.5,-1895.97C1049.5,-1832.47 1049.5,-1691.01 1049.5,-1565.65"/>
 <polygon fill="none" stroke="#63b8ff" points="1046,-1896.19 1049.5,-1906.19 1053,-1896.19 1046,-1896.19"/>
 </a>
 </g>
@@ -1134,8 +1136,8 @@ var sectionId = 'dynsection-1';
 <g id="edge22_Node000018_Node000020" class="edge">
 <title>Node20&#45;&gt;Node18</title>
 <g id="a_edge22_Node000018_Node000020"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M1140.3,-1788.28C1127.32,-1723.04 1111.55,-1643.83 1096.83,-1569.85"/>
-<polygon fill="none" stroke="#63b8ff" points="1096.82,-1569.79 1091.72,-1564.68 1094.48,-1558.02 1099.57,-1563.12 1096.82,-1569.79"/>
+<path fill="none" stroke="#63b8ff" d="M1140.3,-1788.28C1127.77,-1725.3 1112.64,-1649.31 1098.36,-1577.56"/>
+<polygon fill="none" stroke="#63b8ff" points="1098.33,-1577.38 1093.24,-1572.28 1095.99,-1565.61 1101.08,-1570.72 1098.33,-1577.38"/>
 </a>
 </g>
 <text text-anchor="middle" x="1172" y="-1719.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$blockEntityTag</text>

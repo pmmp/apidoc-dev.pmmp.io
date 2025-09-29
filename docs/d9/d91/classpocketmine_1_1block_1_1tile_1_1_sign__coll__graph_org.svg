@@ -43,7 +43,7 @@
 <text text-anchor="start" x="350" y="-142" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="363" y="-142" font-family="Helvetica,sans-Serif" font-size="10.00">getEditorEntityRuntimeId()</text>
 <text text-anchor="start" x="350" y="-127" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="363" y="-127" font-family="Helvetica,sans-Serif" font-size="10.00">getText()</text>
+<text text-anchor="start" x="363" y="-127" font-family="Helvetica,sans-Serif" font-size="10.00">getFrontText()</text>
 <text text-anchor="start" x="350" y="-112" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="363" y="-112" font-family="Helvetica,sans-Serif" font-size="10.00">isWaxed()</text>
 <text text-anchor="start" x="350" y="-97" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
@@ -53,7 +53,7 @@
 <text text-anchor="start" x="350" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="363" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00">setEditorEntityRuntimeId()</text>
 <text text-anchor="start" x="350" y="-52" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="363" y="-52" font-family="Helvetica,sans-Serif" font-size="10.00">setText()</text>
+<text text-anchor="start" x="363" y="-52" font-family="Helvetica,sans-Serif" font-size="10.00">setFrontText()</text>
 <text text-anchor="start" x="350" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="363" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">setWaxed()</text>
 <text text-anchor="start" x="350" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
@@ -533,7 +533,7 @@
 </a>
 </g>
 <text text-anchor="middle" x="523.5" y="-396" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$backText</text>
-<text text-anchor="middle" x="523.5" y="-385" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">#$text</text>
+<text text-anchor="middle" x="523.5" y="-385" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">#$frontText</text>
 </g>
 </g>
 </svg>

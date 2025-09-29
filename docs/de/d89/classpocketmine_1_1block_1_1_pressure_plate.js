@@ -46,7 +46,6 @@ var classpocketmine_1_1block_1_1_pressure_plate =
     [ "getXpDropAmount", "de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#a771a30c30a36b0992f54c57dc63af10d", null ],
     [ "getXpDropForTool", "de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#a75b16ca6e22355cf632466a969e79211", null ],
     [ "hasEntityCollision", "de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#a20aab7fd162f52330c4e2a255103cc5a", null ],
-    [ "hasOutputSignal", "de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#ac744c0260aeb03aa2293120851cdec2d", null ],
     [ "hasSameTypeId", "de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#acfa7766036568571b645ae89ceb1029e", null ],
     [ "hasTypeTag", "de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#a43e3458847422ebd5dec6c914b443c93", null ],
     [ "isAffectedBySilkTouch", "de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#a8307fc850da5c3f36e9dfc7ce639fe55", null ],

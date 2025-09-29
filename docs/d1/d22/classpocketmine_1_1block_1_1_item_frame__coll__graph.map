@@ -1,9 +1,9 @@
 <map id="pocketmine\block\ItemFrame" name="pocketmine\block\ItemFrame">
-<area shape="rect" id="Node000001" title=" " alt="" coords="467,3548,685,3893"/>
-<area shape="rect" id="Node000002" href="$d3/d1e/classpocketmine_1_1block_1_1_flowable.html" title=" " alt="" coords="265,3110,471,3255"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="402,3267,485,3484,510,3547,505,3549,480,3486,397,3269"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="467,3568,685,3913"/>
+<area shape="rect" id="Node000002" href="$d3/d1e/classpocketmine_1_1block_1_1_flowable.html" title=" " alt="" coords="265,3120,471,3265"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="401,3278,485,3504,509,3567,504,3569,480,3506,396,3279"/>
 <area shape="rect" id="Node000003" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="263,2595,473,2660"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,2674,371,3110,365,3110,365,2674"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,2673,371,3120,365,3120,365,2673"/>
 <area shape="rect" id="Node000004" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="255,1963,481,2388"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="371,2402,371,2594,365,2594,365,2402"/>
 <area shape="rect" id="Node000005" href="$dd/d18/classpocketmine_1_1block_1_1_block_identifier.html" title=" " alt="" coords="5,1745,232,1850"/>
@@ -22,14 +22,14 @@
 <area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="881,951,865,997,860,996,875,949"/>
 <area shape="rect" id="Node000012" href="$d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html" title=" " alt="" coords="827,5,1040,405"/>
 <area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="936,405,936,598,931,598,931,405"/>
-<area shape="rect" id="Node000013" href="$d2/df5/interfacepocketmine_1_1block_1_1utils_1_1_any_facing.html" title=" " alt="" coords="495,3133,657,3233"/>
-<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="579,3246,579,3548,573,3548,573,3246"/>
-<area shape="rect" id="Node000014" href="$d5/d8a/classpocketmine_1_1item_1_1_item.html" title=" " alt="" coords="681,2880,882,3485"/>
-<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="683,3453,670,3486,652,3533,647,3531,666,3484,678,3451"/>
+<area shape="rect" id="Node000013" href="$d2/df5/interfacepocketmine_1_1block_1_1utils_1_1_any_facing.html" title=" " alt="" coords="495,3143,657,3243"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="579,3256,579,3568,573,3568,573,3256"/>
+<area shape="rect" id="Node000014" href="$d5/d8a/classpocketmine_1_1item_1_1_item.html" title=" " alt="" coords="681,2880,882,3505"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="683,3473,670,3506,652,3553,647,3551,666,3504,678,3471"/>
 <area shape="rect" id="Node000015" title=" " alt="" coords="672,2595,789,2660"/>
-<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="737,2674,756,2880,751,2880,732,2674"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="737,2673,756,2880,751,2880,732,2674"/>
 <area shape="rect" id="Node000016" href="$de/d67/classpocketmine_1_1nbt_1_1tag_1_1_compound_tag.html" title=" " alt="" coords="813,2437,965,2817"/>
-<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="855,2818,846,2865,841,2864,850,2817"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="856,2818,847,2864,842,2863,850,2817"/>
 <area shape="rect" id="Node000017" href="$dc/d26/classpocketmine_1_1nbt_1_1tag_1_1_tag.html" title=" " alt="" coords="658,2043,825,2308"/>
 <area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="792,2321,830,2436,825,2438,786,2322"/>
 <area shape="rect" id="Node000018" title=" " alt="" coords="849,2143,929,2208"/>

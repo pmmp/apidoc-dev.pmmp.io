@@ -12,7 +12,7 @@ var searchData=
   ['packetratelimiter_9',['PacketRateLimiter',['../db/d44/classpocketmine_1_1network_1_1mcpe_1_1_packet_rate_limiter.html',1,'pocketmine::network::mcpe']]],
   ['packetreliability_10',['PacketReliability',['../d3/db9/classraklib_1_1protocol_1_1_packet_reliability.html',1,'raklib::protocol']]],
   ['packetsender_11',['PacketSender',['../d4/d6a/interfacepocketmine_1_1network_1_1mcpe_1_1_packet_sender.html',1,'pocketmine::network::mcpe']]],
-  ['packetserializer_12',['PacketSerializer',['../d9/d4e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_serializer.html',1,'pocketmine\network\mcpe\protocol\serializer\PacketSerializer'],['../d3/d8a/classraklib_1_1protocol_1_1_packet_serializer.html',1,'raklib\protocol\PacketSerializer']]],
+  ['packetserializer_12',['PacketSerializer',['../d3/d8a/classraklib_1_1protocol_1_1_packet_serializer.html',1,'raklib::protocol']]],
   ['packetshapedata_13',['PacketShapeData',['../df/d54/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_packet_shape_data.html',1,'pocketmine::network::mcpe::protocol::types']]],
   ['packetviolationwarningpacket_14',['PacketViolationWarningPacket',['../da/dcb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_packet_violation_warning_packet.html',1,'pocketmine::network::mcpe::protocol']]],
   ['painting_15',['Painting',['../de/dc4/classpocketmine_1_1entity_1_1object_1_1_painting.html',1,'pocketmine::entity::object']]],

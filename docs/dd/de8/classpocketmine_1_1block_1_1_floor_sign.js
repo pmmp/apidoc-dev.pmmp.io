@@ -24,7 +24,6 @@ var classpocketmine_1_1block_1_1_floor_sign =
     [ "getDropsForIncompatibleTool", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#afe4928a6da38d63eccea78bd1a2fdcd3", null ],
     [ "getEditorEntityRuntimeId", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#ab0814959ce6f9aec51ba564a42662419", null ],
     [ "getEnchantmentTags", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#a26bbbd2a3058bb57bd16a6f73b32d9d0", null ],
-    [ "getFacingDegrees", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#ab21dc55a7a51b36e1cb7c1213fef9421", null ],
     [ "getFlameEncouragement", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#aad121ffc31a225748d5bcc0e0752a9f0", null ],
     [ "getFlammability", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#acb7cc5bba94398c6a329b3b2af8fa859", null ],
     [ "getFrictionFactor", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#a2cbe9ba6733a72db2c2630aaab7cefe9", null ],
@@ -42,7 +41,6 @@ var classpocketmine_1_1block_1_1_floor_sign =
     [ "getSide", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#a8635dccd33641330c42129a61377b2fd", null ],
     [ "getSilkTouchDrops", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#a4b01df2347f9cc897c5eb2858d6c5e7e", null ],
     [ "getSupportType", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#a0479cce8e77676d62293453aa597b58b", null ],
-    [ "getText", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#a0f649b79e6c05fc9f8d744ff69bb0b23", null ],
     [ "getTypeId", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#a994b80e9138156e5b90a803def57c7db", null ],
     [ "getTypeTags", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#a6201b0d5460ae6f3b5cee03197c9a94a", null ],
     [ "getXpDropAmount", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#a771a30c30a36b0992f54c57dc63af10d", null ],
@@ -73,10 +71,8 @@ var classpocketmine_1_1block_1_1_floor_sign =
     [ "setEditorEntityRuntimeId", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#a04441f33e5cdb137e50da4b88d1ec570", null ],
     [ "setFaceText", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#a95f3d0edf7a4a66c974fad04a97d8c85", null ],
     [ "setRotation", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#a3a8c1d220086e56368d29a645f60bf1e", null ],
-    [ "setText", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#ac38134f941cceb363658c3fdfeccb9a4", null ],
     [ "setWaxed", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#ae3909d4c69fe40a1e25762858f1aa56c", null ],
     [ "ticksRandomly", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#ab6b90601adfc9732893dcffe256514a9", null ],
     [ "updateFaceText", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#a6222607824a054dde13d69ce8e1fa979", null ],
-    [ "updateText", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#a3dcfd3416ae91908d4c00c41eabd93df", null ],
     [ "writeStateToWorld", "dd/de8/classpocketmine_1_1block_1_1_floor_sign.html#a8af08c2d1638db497dd1c5cabed8510d", null ]
 ];

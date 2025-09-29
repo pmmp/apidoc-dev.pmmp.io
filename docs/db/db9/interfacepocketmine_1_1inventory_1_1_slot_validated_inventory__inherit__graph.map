@@ -2,14 +2,14 @@
 <area shape="rect" id="Node000001" title=" " alt="" coords="228,5,395,85"/>
 <area shape="rect" id="Node000002" href="$d5/dc4/classpocketmine_1_1inventory_1_1_base_inventory.html" title=" " alt="" coords="212,133,411,533"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="314,99,314,133,309,133,309,99"/>
-<area shape="rect" id="Node000003" href="$dd/dcb/classpocketmine_1_1inventory_1_1_combined_inventory_proxy.html" title=" " alt="" coords="5,589,193,909"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="208,542,183,590,179,587,203,539"/>
-<area shape="rect" id="Node000004" href="$d6/dc1/classpocketmine_1_1inventory_1_1_simple_inventory.html" title=" " alt="" coords="217,589,405,909"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="314,548,314,588,309,588,309,548"/>
-<area shape="rect" id="Node000007" href="$d9/de2/classpocketmine_1_1inventory_1_1transaction_1_1_slot_change_action_builder.html" title=" " alt="" coords="430,581,641,916"/>
-<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="420,529,447,580,443,582,415,531"/>
-<area shape="rect" id="Node000005" href="$de/d7a/classpocketmine_1_1crafting_1_1_crafting_grid.html" title=" " alt="" coords="150,1014,297,1214"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="272,923,250,1014,245,1013,267,921"/>
-<area shape="rect" id="Node000006" href="$d0/d70/classpocketmine_1_1inventory_1_1_armor_inventory.html" title=" " alt="" coords="321,964,477,1264"/>
-<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="356,922,366,963,361,964,351,923"/>
+<area shape="rect" id="Node000003" href="$dd/dcb/classpocketmine_1_1inventory_1_1_combined_inventory_proxy.html" title=" " alt="" coords="5,599,193,919"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="208,547,182,599,177,597,203,544"/>
+<area shape="rect" id="Node000004" href="$d6/dc1/classpocketmine_1_1inventory_1_1_simple_inventory.html" title=" " alt="" coords="217,599,405,919"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="314,547,314,598,309,598,309,547"/>
+<area shape="rect" id="Node000007" href="$d9/de2/classpocketmine_1_1inventory_1_1transaction_1_1_slot_change_action_builder.html" title=" " alt="" coords="430,581,641,936"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="420,533,444,580,439,582,415,536"/>
+<area shape="rect" id="Node000005" href="$de/d7a/classpocketmine_1_1crafting_1_1_crafting_grid.html" title=" " alt="" coords="150,1034,297,1234"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="273,933,249,1035,244,1033,268,932"/>
+<area shape="rect" id="Node000006" href="$d0/d70/classpocketmine_1_1inventory_1_1_armor_inventory.html" title=" " alt="" coords="321,984,477,1284"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="355,932,367,983,362,984,349,933"/>
 </map>

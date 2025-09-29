@@ -20,7 +20,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html#a8b003390da4281b56c309c3c123b4c15" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html#ab694eb301bcb8c23d1e9f0f8cdabc605" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="373.5,-835 239.5,-835 239.5,-805 373.5,-805 373.5,-835"/>
 <text text-anchor="start" x="247.5" y="-823" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\World</text>
 <text text-anchor="middle" x="306.5" y="-812" font-family="Helvetica,sans-Serif" font-size="10.00">\__construct</text>

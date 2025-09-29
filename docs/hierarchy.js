@@ -96,7 +96,6 @@ var hierarchy =
     [ "pocketmine\\network\\BidirectionalBandwidthStatsTracker", "dd/d87/classpocketmine_1_1network_1_1_bidirectional_bandwidth_stats_tracker.html", null ],
     [ "pocketmine\\utils\\Binary", "d8/d1f/classpocketmine_1_1utils_1_1_binary.html", null ],
     [ "pocketmine\\utils\\BinaryStream", "d6/dc6/classpocketmine_1_1utils_1_1_binary_stream.html", [
-      [ "pocketmine\\network\\mcpe\\protocol\\serializer\\PacketSerializer", "d9/d4e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_serializer.html", null ],
       [ "raklib\\protocol\\PacketSerializer", "d3/d8a/classraklib_1_1protocol_1_1_packet_serializer.html", null ]
     ] ],
     [ "pocketmine\\world\\biome\\Biome", "d8/d20/classpocketmine_1_1world_1_1biome_1_1_biome.html", [
@@ -513,6 +512,7 @@ var hierarchy =
       [ "pocketmine\\event\\block\\LeavesDecayEvent", "d1/d8d/classpocketmine_1_1event_1_1block_1_1_leaves_decay_event.html", null ],
       [ "pocketmine\\event\\block\\SignChangeEvent", "dd/d93/classpocketmine_1_1event_1_1block_1_1_sign_change_event.html", null ],
       [ "pocketmine\\event\\block\\StructureGrowEvent", "dd/d17/classpocketmine_1_1event_1_1block_1_1_structure_grow_event.html", null ],
+      [ "pocketmine\\event\\entity\\AreaEffectCloudApplyEvent", "d8/d7c/classpocketmine_1_1event_1_1entity_1_1_area_effect_cloud_apply_event.html", null ],
       [ "pocketmine\\event\\entity\\EntityBlockChangeEvent", "d5/d98/classpocketmine_1_1event_1_1entity_1_1_entity_block_change_event.html", null ],
       [ "pocketmine\\event\\entity\\EntityCombustEvent", "dd/de3/classpocketmine_1_1event_1_1entity_1_1_entity_combust_event.html", [
         [ "pocketmine\\event\\entity\\EntityCombustByBlockEvent", "df/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_block_event.html", null ],
@@ -707,6 +707,7 @@ var hierarchy =
     [ "pocketmine\\network\\mcpe\\protocol\\types\\command\\CommandPermissions", "d1/dfa/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_permissions.html", null ],
     [ "pocketmine\\command\\utils\\CommandStringHelper", "d7/ddc/classpocketmine_1_1command_1_1utils_1_1_command_string_helper.html", null ],
     [ "pocketmine\\data\\bedrock\\block\\convert\\property\\CommonProperties", "d2/d7b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1convert_1_1property_1_1_common_properties.html", null ],
+    [ "pocketmine\\network\\mcpe\\protocol\\serializer\\CommonTypes", "d9/d99/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_common_types.html", null ],
     [ "pocketmine\\network\\mcpe\\ComplexWindowMapEntry", "db/d59/classpocketmine_1_1network_1_1mcpe_1_1_complex_window_map_entry.html", null ],
     [ "pocketmine\\data\\bedrock\\CompoundTypeIds", "d1/d35/classpocketmine_1_1data_1_1bedrock_1_1_compound_type_ids.html", null ],
     [ "pocketmine\\network\\mcpe\\compression\\CompressBatchPromise", "d4/d17/classpocketmine_1_1network_1_1mcpe_1_1compression_1_1_compress_batch_promise.html", null ],
@@ -844,10 +845,12 @@ var hierarchy =
       [ "pocketmine\\entity\\effect\\SpeedEffect", "d3/d60/classpocketmine_1_1entity_1_1effect_1_1_speed_effect.html", null ],
       [ "pocketmine\\entity\\effect\\WitherEffect", "dc/dae/classpocketmine_1_1entity_1_1effect_1_1_wither_effect.html", null ]
     ] ],
+    [ "pocketmine\\entity\\effect\\EffectCollection", "d7/d9f/classpocketmine_1_1entity_1_1effect_1_1_effect_collection.html", [
+      [ "pocketmine\\entity\\effect\\EffectManager", "da/d02/classpocketmine_1_1entity_1_1effect_1_1_effect_manager.html", null ]
+    ] ],
     [ "pocketmine\\data\\bedrock\\EffectIdMap", "dc/d70/classpocketmine_1_1data_1_1bedrock_1_1_effect_id_map.html", null ],
     [ "pocketmine\\data\\bedrock\\EffectIds", "d3/d75/classpocketmine_1_1data_1_1bedrock_1_1_effect_ids.html", null ],
     [ "pocketmine\\entity\\effect\\EffectInstance", "dc/d2e/classpocketmine_1_1entity_1_1effect_1_1_effect_instance.html", null ],
-    [ "pocketmine\\entity\\effect\\EffectManager", "da/d02/classpocketmine_1_1entity_1_1effect_1_1_effect_manager.html", null ],
     [ "raklib\\protocol\\EncapsulatedPacket", "d2/df9/classraklib_1_1protocol_1_1_encapsulated_packet.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\Enchant", "dd/d33/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_enchant.html", null ],
     [ "pocketmine\\item\\enchantment\\EnchantingHelper", "df/de2/classpocketmine_1_1item_1_1enchantment_1_1_enchanting_helper.html", null ],
@@ -875,6 +878,7 @@ var hierarchy =
         [ "pocketmine\\entity\\WaterAnimal", "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html", null ],
         [ "pocketmine\\entity\\Zombie", "d0/da7/classpocketmine_1_1entity_1_1_zombie.html", null ]
       ] ],
+      [ "pocketmine\\entity\\object\\AreaEffectCloud", "d0/d6c/classpocketmine_1_1entity_1_1object_1_1_area_effect_cloud.html", null ],
       [ "pocketmine\\entity\\object\\EndCrystal", "dc/d98/classpocketmine_1_1entity_1_1object_1_1_end_crystal.html", null ],
       [ "pocketmine\\entity\\object\\ExperienceOrb", "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html", null ],
       [ "pocketmine\\entity\\object\\FallingBlock", "df/d14/classpocketmine_1_1entity_1_1object_1_1_falling_block.html", null ],
@@ -936,6 +940,7 @@ var hierarchy =
       [ "pocketmine\\event\\block\\BlockPlaceEvent", "de/d85/classpocketmine_1_1event_1_1block_1_1_block_place_event.html", null ],
       [ "pocketmine\\event\\block\\ChestPairEvent", "de/dd7/classpocketmine_1_1event_1_1block_1_1_chest_pair_event.html", null ],
       [ "pocketmine\\event\\entity\\EntityEvent", "de/d84/classpocketmine_1_1event_1_1entity_1_1_entity_event.html", [
+        [ "pocketmine\\event\\entity\\AreaEffectCloudApplyEvent", "d8/d7c/classpocketmine_1_1event_1_1entity_1_1_area_effect_cloud_apply_event.html", null ],
         [ "pocketmine\\event\\entity\\EntityBlockChangeEvent", "d5/d98/classpocketmine_1_1event_1_1entity_1_1_entity_block_change_event.html", null ],
         [ "pocketmine\\event\\entity\\EntityCombustEvent", "dd/de3/classpocketmine_1_1event_1_1entity_1_1_entity_combust_event.html", null ],
         [ "pocketmine\\event\\entity\\EntityDamageEvent", "d5/de3/classpocketmine_1_1event_1_1entity_1_1_entity_damage_event.html", null ],
@@ -2497,8 +2502,8 @@ var hierarchy =
       [ "pocketmine\\world\\sound\\SweetBerriesPickSound", "d3/dd4/classpocketmine_1_1world_1_1sound_1_1_sweet_berries_pick_sound.html", null ],
       [ "pocketmine\\world\\sound\\ThrowSound", "d9/d18/classpocketmine_1_1world_1_1sound_1_1_throw_sound.html", null ],
       [ "pocketmine\\world\\sound\\TotemUseSound", "de/dbd/classpocketmine_1_1world_1_1sound_1_1_totem_use_sound.html", null ],
+      [ "pocketmine\\world\\sound\\TridentHitBlockSound", "d1/d19/classpocketmine_1_1world_1_1sound_1_1_trident_hit_block_sound.html", null ],
       [ "pocketmine\\world\\sound\\TridentHitEntitySound", "d7/d84/classpocketmine_1_1world_1_1sound_1_1_trident_hit_entity_sound.html", null ],
-      [ "pocketmine\\world\\sound\\TridentHitGroundSound", "d3/d8e/classpocketmine_1_1world_1_1sound_1_1_trident_hit_ground_sound.html", null ],
       [ "pocketmine\\world\\sound\\TridentThrowSound", "d0/d25/classpocketmine_1_1world_1_1sound_1_1_trident_throw_sound.html", null ],
       [ "pocketmine\\world\\sound\\WaterSplashSound", "df/d82/classpocketmine_1_1world_1_1sound_1_1_water_splash_sound.html", null ],
       [ "pocketmine\\world\\sound\\XpCollectSound", "d9/d40/classpocketmine_1_1world_1_1sound_1_1_xp_collect_sound.html", null ],
