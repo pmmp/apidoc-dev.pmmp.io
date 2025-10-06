@@ -1,5 +1,7 @@
 var NAVTREEINDEX20 =
 {
+"d1/d5f/classpocketmine_1_1block_1_1_trapdoor.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,231,19],
+"d1/d5f/classpocketmine_1_1block_1_1_trapdoor.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,233,19],
 "d1/d5f/classpocketmine_1_1block_1_1_trapdoor.html#ab6b90601adfc9732893dcffe256514a9":[2,0,0,0,231,67],
 "d1/d5f/classpocketmine_1_1block_1_1_trapdoor.html#ab6b90601adfc9732893dcffe256514a9":[3,0,1,0,233,67],
 "d1/d5f/classpocketmine_1_1block_1_1_trapdoor.html#ab92353cf0aa5c05ad26535f98a2b1dca":[2,0,0,0,231,26],
@@ -48,7 +50,7 @@ var NAVTREEINDEX20 =
 "d1/d5f/classpocketmine_1_1block_1_1_trapdoor.html#afe989abc9b28313d477252ae4d005249":[3,0,1,0,233,55],
 "d1/d5f/classpocketmine_1_1block_1_1_trapdoor.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,231,27],
 "d1/d5f/classpocketmine_1_1block_1_1_trapdoor.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,233,27],
-"d1/d5f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_block_position.html":[3,0,1,16,0,6,1,14],
+"d1/d5f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_block_position.html":[3,0,1,16,0,6,1,15],
 "d1/d60/_entity_motion_event_8php_source.html":[4,0,0,7,1,20],
 "d1/d62/_entity_death_event_8php_source.html":[4,0,0,7,1,9],
 "d1/d62/_error_to_exception_handler_8php_source.html":[4,0,1,0,5,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX20 =
 "d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,0,0,78,10],
 "d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,80,10],
 "d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,78,44],
-"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#a43e3458847422ebd5dec6c914b443c93":[3,0,1,0,80,44],
-"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#a49395de82d025ca78745a17528049f18":[2,0,0,0,78,52],
-"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#a49395de82d025ca78745a17528049f18":[3,0,1,0,80,52]
+"d1/d6d/classpocketmine_1_1block_1_1_daylight_sensor.html#a43e3458847422ebd5dec6c914b443c93":[3,0,1,0,80,44]
 };

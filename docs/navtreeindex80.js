@@ -1,5 +1,17 @@
 var NAVTREEINDEX80 =
 {
+"d5/d82/classpocketmine_1_1event_1_1inventory_1_1_furnace_burn_event.html#a9177561c0e0837d4219e43180ca77f40":[3,0,1,9,2,1,1],
+"d5/d82/classpocketmine_1_1event_1_1inventory_1_1_furnace_burn_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,0,3,2,1,2],
+"d5/d82/classpocketmine_1_1event_1_1inventory_1_1_furnace_burn_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,2,1,2],
+"d5/d82/classpocketmine_1_1event_1_1inventory_1_1_furnace_burn_event.html#aac458803191cb0db3404bb12134710c1":[2,0,0,3,2,1,5],
+"d5/d82/classpocketmine_1_1event_1_1inventory_1_1_furnace_burn_event.html#aac458803191cb0db3404bb12134710c1":[3,0,1,9,2,1,5],
+"d5/d82/classpocketmine_1_1event_1_1inventory_1_1_furnace_burn_event.html#ae7ac3b2a0c81771c9146ac8a469b8389":[2,0,0,3,2,1,6],
+"d5/d82/classpocketmine_1_1event_1_1inventory_1_1_furnace_burn_event.html#ae7ac3b2a0c81771c9146ac8a469b8389":[3,0,1,9,2,1,6],
+"d5/d83/_cartography_table_8php_source.html":[4,0,0,0,48],
+"d5/d83/_player_emote_event_8php_source.html":[4,0,0,7,3,16],
+"d5/d84/classpocketmine_1_1block_1_1_netherrack.html":[2,0,0,0,158],
+"d5/d84/classpocketmine_1_1block_1_1_netherrack.html":[3,0,1,0,160],
+"d5/d84/classpocketmine_1_1block_1_1_netherrack.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,158,58],
 "d5/d84/classpocketmine_1_1block_1_1_netherrack.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,160,58],
 "d5/d84/classpocketmine_1_1block_1_1_netherrack.html#a09f4667329f89292dd319d56c4243b59":[2,0,0,0,158,30],
 "d5/d84/classpocketmine_1_1block_1_1_netherrack.html#a09f4667329f89292dd319d56c4243b59":[3,0,1,0,160,30],
@@ -237,17 +249,5 @@ var NAVTREEINDEX80 =
 "d5/d8a/classpocketmine_1_1item_1_1_item.html#af44b2311f27b78c5cd442c189793e7e6":[3,0,1,12,63,37],
 "d5/d8a/classpocketmine_1_1item_1_1_item.html#af737301b899b7a7c9e9b0bb9a234a119":[2,0,0,5,62,8],
 "d5/d8a/classpocketmine_1_1item_1_1_item.html#af737301b899b7a7c9e9b0bb9a234a119":[3,0,1,12,63,8],
-"d5/d8a/classpocketmine_1_1item_1_1_item.html#af85accbedba28b67bb66d5f12d329585":[2,0,0,5,62,38],
-"d5/d8a/classpocketmine_1_1item_1_1_item.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,63,38],
-"d5/d8b/_melee_weapon_enchantment_8php_source.html":[4,0,0,10,0,11],
-"d5/d8b/classpocketmine_1_1block_1_1tile_1_1_campfire.html":[2,0,0,0,0,7],
-"d5/d8b/classpocketmine_1_1block_1_1tile_1_1_campfire.html":[3,0,1,0,1,7],
-"d5/d8b/classpocketmine_1_1block_1_1tile_1_1_campfire.html#a074a7679fcad81895be3e9ccf55a2d9d":[2,0,0,0,0,7,0],
-"d5/d8b/classpocketmine_1_1block_1_1tile_1_1_campfire.html#a074a7679fcad81895be3e9ccf55a2d9d":[3,0,1,0,1,7,0],
-"d5/d8b/classpocketmine_1_1block_1_1tile_1_1_campfire.html#a15ad5fdcf2a7888ffebf175bf7a2321e":[2,0,0,0,0,7,6],
-"d5/d8b/classpocketmine_1_1block_1_1tile_1_1_campfire.html#a15ad5fdcf2a7888ffebf175bf7a2321e":[3,0,1,0,1,7,6],
-"d5/d8b/classpocketmine_1_1block_1_1tile_1_1_campfire.html#a2943d8ab74c269678f74e0cbec331da6":[2,0,0,0,0,7,7],
-"d5/d8b/classpocketmine_1_1block_1_1tile_1_1_campfire.html#a2943d8ab74c269678f74e0cbec331da6":[3,0,1,0,1,7,7],
-"d5/d8b/classpocketmine_1_1block_1_1tile_1_1_campfire.html#a2c4548cfebce3287d5dba7131579789e":[2,0,0,0,0,7,4],
-"d5/d8b/classpocketmine_1_1block_1_1tile_1_1_campfire.html#a2c4548cfebce3287d5dba7131579789e":[3,0,1,0,1,7,4]
+"d5/d8a/classpocketmine_1_1item_1_1_item.html#af85accbedba28b67bb66d5f12d329585":[2,0,0,5,62,38]
 };

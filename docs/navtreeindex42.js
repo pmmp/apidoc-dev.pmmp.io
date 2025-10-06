@@ -1,5 +1,15 @@
 var NAVTREEINDEX42 =
 {
+"d2/de0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_editor_network_packet.html#a5177a73ae31e4d745b97f3cceed083df":[3,0,1,16,0,6,65,5],
+"d2/de0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_editor_network_packet.html#a55025ba182163f59eb3175f7a7611b5d":[3,0,1,16,0,6,65,3],
+"d2/de0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_editor_network_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,65,0],
+"d2/de0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_editor_network_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,65,1],
+"d2/de0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_editor_network_packet.html#ac96358bb5d1d9ff91fd0d12d8883f4a3":[3,0,1,16,0,6,65,4],
+"d2/de0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_editor_network_packet.html#accab2f29bdd574fba011be261cb9e225":[3,0,1,16,0,6,65,6],
+"d2/de1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_structure_template_data_request_packet.html":[3,0,1,16,0,6,193],
+"d2/de1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_structure_template_data_request_packet.html#a0478b9d5b703072c51d981149b240069":[3,0,1,16,0,6,193,7],
+"d2/de1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_structure_template_data_request_packet.html#a275d2aa6093abb17d7afcdaf5f554eb8":[3,0,1,16,0,6,193,6],
+"d2/de1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_structure_template_data_request_packet.html#a55025ba182163f59eb3175f7a7611b5d":[3,0,1,16,0,6,193,3],
 "d2/de1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_structure_template_data_request_packet.html#a9ccc2b920872327ae1ca69a204413f3b":[3,0,1,16,0,6,193,5],
 "d2/de1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_structure_template_data_request_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,193,0],
 "d2/de1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_structure_template_data_request_packet.html#ab3944caceb8aaa31d3c4edc4a7cab5d2":[3,0,1,16,0,6,193,2],
@@ -198,7 +208,7 @@ var NAVTREEINDEX42 =
 "d2/deb/classpocketmine_1_1entity_1_1effect_1_1_string_to_effect_parser.html#acbed028c72517571d021a8c2bdacb1e8":[3,0,1,7,1,17,0],
 "d2/deb/classpocketmine_1_1entity_1_1effect_1_1_string_to_effect_parser.html#acfe081dcbbebd6b5c377e4d0fb923676":[3,0,1,7,1,17,3],
 "d2/deb/classpocketmine_1_1entity_1_1effect_1_1_string_to_effect_parser.html#afab043597a2b35ff13864a8b41fa9337":[3,0,1,7,1,17,2],
-"d2/ded/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_generator_type.html":[3,0,1,16,0,6,1,39],
+"d2/ded/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_generator_type.html":[3,0,1,16,0,6,1,42],
 "d2/dee/_attachable_logger_8php_source.html":[4,0,1,0,6,0,0],
 "d2/def/_on_screen_texture_animation_packet_8php_source.html":[4,0,1,0,1,0,111],
 "d2/df0/_loaded_chunk_data_8php_source.html":[4,0,0,25,1,0,11],
@@ -239,15 +249,5 @@ var NAVTREEINDEX42 =
 "d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#a336d6f91be72079853413f5b4036a57d":[3,0,1,12,44,2],
 "d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#a3bc65b2324649d8735dadf9bf8cf0705":[2,0,0,5,43,45],
 "d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#a3bc65b2324649d8735dadf9bf8cf0705":[3,0,1,12,44,45],
-"d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#a49a05b01faaaf071449c97060fe44926":[2,0,0,5,43,0],
-"d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#a49a05b01faaaf071449c97060fe44926":[3,0,1,12,44,0],
-"d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#a4a9aa55600bb30c4d55ad63337874a07":[2,0,0,5,43,6],
-"d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#a4a9aa55600bb30c4d55ad63337874a07":[3,0,1,12,44,6],
-"d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#a51b97f07ff97887a144198bb3dba6fc4":[2,0,0,5,43,20],
-"d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#a51b97f07ff97887a144198bb3dba6fc4":[3,0,1,12,44,20],
-"d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#a536378f334334c0e8b06e5ccaeb4de39":[2,0,0,5,43,29],
-"d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#a536378f334334c0e8b06e5ccaeb4de39":[3,0,1,12,44,29],
-"d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#a568624515bba5ff57e21ec8c828ade56":[2,0,0,5,43,5],
-"d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#a568624515bba5ff57e21ec8c828ade56":[3,0,1,12,44,5],
-"d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#a5b53d78436bbdb5d53102fda463be4e6":[2,0,0,5,43,49]
+"d2/df4/classpocketmine_1_1item_1_1_fertilizer.html#a49a05b01faaaf071449c97060fe44926":[2,0,0,5,43,0]
 };

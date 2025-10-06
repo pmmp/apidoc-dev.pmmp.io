@@ -1,5 +1,6 @@
 var NAVTREEINDEX16 =
 {
+"d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#a75b16ca6e22355cf632466a969e79211":[3,0,1,0,43,43],
 "d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#a771a30c30a36b0992f54c57dc63af10d":[2,0,0,0,41,42],
 "d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#a771a30c30a36b0992f54c57dc63af10d":[3,0,1,0,43,42],
 "d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#a797bd86eedd73a87a1eef7ea34e584ea":[2,0,0,0,41,54],
@@ -94,7 +95,7 @@ var NAVTREEINDEX16 =
 "d1/d2e/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary_entry.html#a082a35789a7fac58f9b2e6772f8ebcde":[3,0,1,16,0,3,1,1],
 "d1/d2e/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary_entry.html#a34e3b467380b9eac0031c960a970b6b0":[3,0,1,16,0,3,1,0],
 "d1/d2e/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary_entry.html#aea7121b497f3ad451c28b94466b9765c":[3,0,1,16,0,3,1,2],
-"d1/d2e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_multiplayer_game_visibility.html":[3,0,1,16,0,6,1,52],
+"d1/d2e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_multiplayer_game_visibility.html":[3,0,1,16,0,6,1,55],
 "d1/d2f/classpocketmine_1_1event_1_1_event.html":[2,0,0,3,7],
 "d1/d2f/classpocketmine_1_1event_1_1_event.html":[3,0,1,9,8],
 "d1/d2f/classpocketmine_1_1event_1_1_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,7,0],
@@ -237,7 +238,7 @@ var NAVTREEINDEX16 =
 "d1/d30/classpocketmine_1_1block_1_1_podzol.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,173,27],
 "d1/d30/classpocketmine_1_1utils_1_1_assumption_failed_error.html":[2,0,0,12,0],
 "d1/d30/classpocketmine_1_1utils_1_1_assumption_failed_error.html":[3,0,1,28,0],
-"d1/d31/_serverbound_loading_screen_packet_8php_source.html":[4,0,1,0,1,0,157],
+"d1/d31/_serverbound_loading_screen_packet_8php_source.html":[4,0,1,0,1,0,156],
 "d1/d31/classpocketmine_1_1block_1_1_gravel.html":[2,0,0,0,122],
 "d1/d31/classpocketmine_1_1block_1_1_gravel.html":[3,0,1,0,124],
 "d1/d31/classpocketmine_1_1block_1_1_gravel.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,122,62],
@@ -248,6 +249,5 @@ var NAVTREEINDEX16 =
 "d1/d31/classpocketmine_1_1block_1_1_gravel.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,124,18],
 "d1/d31/classpocketmine_1_1block_1_1_gravel.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,122,64],
 "d1/d31/classpocketmine_1_1block_1_1_gravel.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,124,64],
-"d1/d31/classpocketmine_1_1block_1_1_gravel.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,122,50],
-"d1/d31/classpocketmine_1_1block_1_1_gravel.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,124,50]
+"d1/d31/classpocketmine_1_1block_1_1_gravel.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,122,50]
 };

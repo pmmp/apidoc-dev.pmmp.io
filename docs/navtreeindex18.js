@@ -1,5 +1,7 @@
 var NAVTREEINDEX18 =
 {
+"d1/d4b/classpocketmine_1_1item_1_1_written_book.html#a23c827b82179f8a57b786a6fa38d08e8":[2,0,0,5,126,22],
+"d1/d4b/classpocketmine_1_1item_1_1_written_book.html#a23c827b82179f8a57b786a6fa38d08e8":[3,0,1,12,127,22],
 "d1/d4b/classpocketmine_1_1item_1_1_written_book.html#a27ef1db0d41125973529fb720b06a00d":[2,0,0,5,126,40],
 "d1/d4b/classpocketmine_1_1item_1_1_written_book.html#a27ef1db0d41125973529fb720b06a00d":[3,0,1,12,127,40],
 "d1/d4b/classpocketmine_1_1item_1_1_written_book.html#a2b35e6f346e5955b086fcc07ead985a7":[2,0,0,5,126,28],
@@ -113,7 +115,7 @@ var NAVTREEINDEX18 =
 "d1/d4c/_camera_aim_assist_category_block_priority_8php_source.html":[4,0,1,0,1,0,1,1,2],
 "d1/d4e/classpocketmine_1_1scheduler_1_1_async_worker.html":[2,0,0,11,3],
 "d1/d4e/classpocketmine_1_1scheduler_1_1_async_worker.html":[3,0,1,22,3],
-"d1/d50/_enchant_option_8php_source.html":[4,0,1,0,1,0,1,34],
+"d1/d50/_enchant_option_8php_source.html":[4,0,1,0,1,0,1,37],
 "d1/d50/_written_book_8php_source.html":[4,0,0,10,136],
 "d1/d50/classpocketmine_1_1item_1_1_cooked_mutton.html":[2,0,0,5,29],
 "d1/d50/classpocketmine_1_1item_1_1_cooked_mutton.html":[3,0,1,12,30],
@@ -247,7 +249,5 @@ var NAVTREEINDEX18 =
 "d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a1d5d1ec6f23253706c1ba95a1adf3291":[2,0,0,0,156,48],
 "d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a1d5d1ec6f23253706c1ba95a1adf3291":[3,0,1,0,158,48],
 "d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,156,3],
-"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,158,3],
-"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,156,22],
-"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[3,0,1,0,158,22]
+"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,158,3]
 };

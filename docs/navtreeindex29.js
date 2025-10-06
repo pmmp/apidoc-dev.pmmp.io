@@ -1,5 +1,8 @@
 var NAVTREEINDEX29 =
 {
+"d1/dfd/classpocketmine_1_1block_1_1_wall_coral_fan.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[2,0,0,0,241,46],
+"d1/dfd/classpocketmine_1_1block_1_1_wall_coral_fan.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[3,0,1,0,243,46],
+"d1/dfd/classpocketmine_1_1block_1_1_wall_coral_fan.html#a57b1586e3b6d81440be1aa89471f2a2a":[2,0,0,0,241,53],
 "d1/dfd/classpocketmine_1_1block_1_1_wall_coral_fan.html#a57b1586e3b6d81440be1aa89471f2a2a":[3,0,1,0,243,53],
 "d1/dfd/classpocketmine_1_1block_1_1_wall_coral_fan.html#a588080e805e50e4f97e1a3d256b8c11e":[2,0,0,0,241,14],
 "d1/dfd/classpocketmine_1_1block_1_1_wall_coral_fan.html#a588080e805e50e4f97e1a3d256b8c11e":[3,0,1,0,243,14],
@@ -100,7 +103,7 @@ var NAVTREEINDEX29 =
 "d1/dfe/_gravel_8php_source.html":[4,0,0,0,124],
 "d1/dfe/_player_display_name_change_event_8php_source.html":[4,0,0,7,3,12],
 "d1/dff/_fizz_sound_8php_source.html":[4,0,0,25,5,66],
-"d1/dff/_get_type_id_from_const_trait_8php_source.html":[4,0,1,0,1,0,1,42],
+"d1/dff/_get_type_id_from_const_trait_8php_source.html":[4,0,1,0,1,0,1,46],
 "d2/d00/classpocketmine_1_1block_1_1_torch.html":[2,0,0,0,228],
 "d2/d00/classpocketmine_1_1block_1_1_torch.html":[3,0,1,0,230],
 "d2/d00/classpocketmine_1_1block_1_1_torch.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,228,58],
@@ -238,16 +241,13 @@ var NAVTREEINDEX29 =
 "d2/d00/classpocketmine_1_1block_1_1_torch.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,228,27],
 "d2/d00/classpocketmine_1_1block_1_1_torch.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,230,27],
 "d2/d01/_player_game_mode_change_event_8php_source.html":[4,0,0,7,3,22],
-"d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html":[3,0,1,16,0,6,123],
-"d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html#a55025ba182163f59eb3175f7a7611b5d":[3,0,1,16,0,6,123,3],
-"d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html#a8644b9a05b6c12be03a7179d933036c2":[3,0,1,16,0,6,123,8],
-"d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,123,0],
-"d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,123,1],
-"d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html#ac96358bb5d1d9ff91fd0d12d8883f4a3":[3,0,1,16,0,6,123,4],
-"d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html#ade18ffdd1efe0ef580736fe95ea37daa":[3,0,1,16,0,6,123,6],
-"d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html#ae1e9e3739cc463aa0cb55732f1535973":[3,0,1,16,0,6,123,2],
-"d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html#aee5e45b3b38b641abcf62c7db4ec0eb9":[3,0,1,16,0,6,123,5],
-"d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html#afce1b06815509c65e4d34a4bd77be472":[3,0,1,16,0,6,123,7],
-"d2/d02/_server_settings_response_packet_8php_source.html":[4,0,1,0,1,0,162],
-"d2/d03/_chest_8php_source.html":[4,0,0,0,57]
+"d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html":[3,0,1,16,0,6,122],
+"d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html#a55025ba182163f59eb3175f7a7611b5d":[3,0,1,16,0,6,122,3],
+"d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html#a8644b9a05b6c12be03a7179d933036c2":[3,0,1,16,0,6,122,8],
+"d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,122,0],
+"d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,122,1],
+"d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html#ac96358bb5d1d9ff91fd0d12d8883f4a3":[3,0,1,16,0,6,122,4],
+"d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html#ade18ffdd1efe0ef580736fe95ea37daa":[3,0,1,16,0,6,122,6],
+"d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html#ae1e9e3739cc463aa0cb55732f1535973":[3,0,1,16,0,6,122,2],
+"d2/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_enchant_options_packet.html#aee5e45b3b38b641abcf62c7db4ec0eb9":[3,0,1,16,0,6,122,5]
 };

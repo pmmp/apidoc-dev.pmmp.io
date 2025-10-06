@@ -1,5 +1,15 @@
 var NAVTREEINDEX53 =
 {
+"d3/dab/classpocketmine_1_1item_1_1_trident.html#a2b35e6f346e5955b086fcc07ead985a7":[3,0,1,12,119,26],
+"d3/dab/classpocketmine_1_1item_1_1_trident.html#a2bcaa528592d9ae259e2e6d0b89f375d":[2,0,0,5,118,22],
+"d3/dab/classpocketmine_1_1item_1_1_trident.html#a2bcaa528592d9ae259e2e6d0b89f375d":[3,0,1,12,119,22],
+"d3/dab/classpocketmine_1_1item_1_1_trident.html#a2ce778f940de9e172cd268f378893b8f":[2,0,0,5,118,14],
+"d3/dab/classpocketmine_1_1item_1_1_trident.html#a2ce778f940de9e172cd268f378893b8f":[3,0,1,12,119,14],
+"d3/dab/classpocketmine_1_1item_1_1_trident.html#a2e7d9e107f4f24de4aabc19764dc7dc2":[2,0,0,5,118,17],
+"d3/dab/classpocketmine_1_1item_1_1_trident.html#a2e7d9e107f4f24de4aabc19764dc7dc2":[3,0,1,12,119,17],
+"d3/dab/classpocketmine_1_1item_1_1_trident.html#a2ee3936259ed3fd96fa07dcbcc4797c1":[2,0,0,5,118,25],
+"d3/dab/classpocketmine_1_1item_1_1_trident.html#a2ee3936259ed3fd96fa07dcbcc4797c1":[3,0,1,12,119,25],
+"d3/dab/classpocketmine_1_1item_1_1_trident.html#a319a186a07d166461600dd4a639eb86f":[2,0,0,5,118,11],
 "d3/dab/classpocketmine_1_1item_1_1_trident.html#a319a186a07d166461600dd4a639eb86f":[3,0,1,12,119,11],
 "d3/dab/classpocketmine_1_1item_1_1_trident.html#a336d6f91be72079853413f5b4036a57d":[2,0,0,5,118,3],
 "d3/dab/classpocketmine_1_1item_1_1_trident.html#a336d6f91be72079853413f5b4036a57d":[3,0,1,12,119,3],
@@ -102,7 +112,7 @@ var NAVTREEINDEX53 =
 "d3/db1/classpocketmine_1_1resourcepacks_1_1json_1_1_manifest_metadata.html":[3,0,1,21,0,3],
 "d3/db2/_experience_utils_8php_source.html":[4,0,0,6,4,0],
 "d3/db4/_crafting_manager_from_data_helper_8php_source.html":[4,0,0,3,4],
-"d3/db4/_play_mode_8php_source.html":[4,0,1,0,1,0,1,72],
+"d3/db4/_play_mode_8php_source.html":[4,0,1,0,1,0,1,79],
 "d3/db4/_settings_command_packet_8php_source.html":[4,0,1,0,1,0,182],
 "d3/db8/_froglight_8php_source.html":[4,0,0,0,111],
 "d3/db8/_furnace_recipe_manager_8php_source.html":[4,0,0,3,8],
@@ -239,15 +249,5 @@ var NAVTREEINDEX53 =
 "d3/dbc/classpocketmine_1_1block_1_1_chain.html#afa0e08fa7c894cf623c630db6a4a3a91":[3,0,1,0,54,61],
 "d3/dbc/classpocketmine_1_1block_1_1_chain.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,0,0,52,29],
 "d3/dbc/classpocketmine_1_1block_1_1_chain.html#afcc19c437c8bef4487f5ecb956ae9a1a":[3,0,1,0,54,29],
-"d3/dbc/classpocketmine_1_1block_1_1_chain.html#afe4928a6da38d63eccea78bd1a2fdcd3":[2,0,0,0,52,21],
-"d3/dbc/classpocketmine_1_1block_1_1_chain.html#afe4928a6da38d63eccea78bd1a2fdcd3":[3,0,1,0,54,21],
-"d3/dbc/classpocketmine_1_1block_1_1_chain.html#afe506084e4bb8741a7ac64f6d90c00a5":[2,0,0,0,52,16],
-"d3/dbc/classpocketmine_1_1block_1_1_chain.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,54,16],
-"d3/dbc/classpocketmine_1_1block_1_1_chain.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,52,27],
-"d3/dbc/classpocketmine_1_1block_1_1_chain.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,54,27],
-"d3/dbd/_regeneration_effect_8php_source.html":[4,0,0,6,1,13],
-"d3/dbd/_sync_actor_property_packet_8php_source.html":[4,0,1,0,1,0,199],
-"d3/dc1/_enchant_command_8php_source.html":[4,0,0,1,0,9],
-"d3/dc1/_release_item_transaction_data_8php_source.html":[4,0,1,0,1,0,1,5,19],
-"d3/dc1/classraklib_1_1server_1_1ipc_1_1_rak_lib_to_user_thread_message_receiver.html":[3,0,2,3,0,3]
+"d3/dbc/classpocketmine_1_1block_1_1_chain.html#afe4928a6da38d63eccea78bd1a2fdcd3":[2,0,0,0,52,21]
 };

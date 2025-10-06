@@ -1,5 +1,15 @@
 var NAVTREEINDEX46 =
 {
+"d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#ade77e0b1fce7bdebceed4092b9c5c022":[3,0,1,0,14,33],
+"d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,12,32],
+"d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#ae829b9f476afef6b23d6f4f7fd558e0f":[3,0,1,0,14,32],
+"d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,12,54],
+"d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,14,54],
+"d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#af85e45eff3ed9638a49da08745b5244e":[2,0,0,0,12,48],
+"d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#af85e45eff3ed9638a49da08745b5244e":[3,0,1,0,14,48],
+"d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#afa0e08fa7c894cf623c630db6a4a3a91":[2,0,0,0,12,61],
+"d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#afa0e08fa7c894cf623c630db6a4a3a91":[3,0,1,0,14,61],
+"d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,0,0,12,29],
 "d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#afcc19c437c8bef4487f5ecb956ae9a1a":[3,0,1,0,14,29],
 "d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#afe4928a6da38d63eccea78bd1a2fdcd3":[2,0,0,0,12,21],
 "d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#afe4928a6da38d63eccea78bd1a2fdcd3":[3,0,1,0,14,21],
@@ -239,15 +249,5 @@ var NAVTREEINDEX46 =
 "d3/d39/classpocketmine_1_1block_1_1_sand.html#afe4928a6da38d63eccea78bd1a2fdcd3":[3,0,1,0,194,21],
 "d3/d39/classpocketmine_1_1block_1_1_sand.html#afe506084e4bb8741a7ac64f6d90c00a5":[2,0,0,0,192,16],
 "d3/d39/classpocketmine_1_1block_1_1_sand.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,194,16],
-"d3/d39/classpocketmine_1_1block_1_1_sand.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,192,28],
-"d3/d39/classpocketmine_1_1block_1_1_sand.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,194,28],
-"d3/d39/classpocketmine_1_1world_1_1biome_1_1_desert_biome.html":[3,0,1,30,0,3],
-"d3/d39/classpocketmine_1_1world_1_1biome_1_1_desert_biome.html#a1c38e48a1e0afd5ca3362760e5deea21":[3,0,1,30,0,3,2],
-"d3/d39/classpocketmine_1_1world_1_1biome_1_1_desert_biome.html#a3bd95c376c2ca535cb932b700bde38dc":[3,0,1,30,0,3,0],
-"d3/d39/classpocketmine_1_1world_1_1biome_1_1_desert_biome.html#aee779e604579f71977cc5624dc8dfd0f":[3,0,1,30,0,3,1],
-"d3/d39/classpocketmine_1_1world_1_1light_1_1_block_light_update.html":[3,0,1,30,3,0],
-"d3/d39/classpocketmine_1_1world_1_1light_1_1_block_light_update.html#a11b5ff4ca7b922d880e59ac37ed5007f":[3,0,1,30,3,0,0],
-"d3/d39/classpocketmine_1_1world_1_1light_1_1_block_light_update.html#a5ef1b15d8e6909d43b18d29dedca11db":[3,0,1,30,3,0,1],
-"d3/d3e/classpocketmine_1_1inventory_1_1_creative_inventory.html":[2,0,0,4,5],
-"d3/d3e/classpocketmine_1_1inventory_1_1_creative_inventory.html":[3,0,1,11,7]
+"d3/d39/classpocketmine_1_1block_1_1_sand.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,192,28]
 };

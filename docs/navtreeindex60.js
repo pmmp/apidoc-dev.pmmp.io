@@ -1,5 +1,15 @@
 var NAVTREEINDEX60 =
 {
+"d4/d2f/classpocketmine_1_1block_1_1_sponge.html#a444028c60ad6c7afacda1a6cc3065e59":[3,0,1,0,211,13],
+"d4/d2f/classpocketmine_1_1block_1_1_sponge.html#a49395de82d025ca78745a17528049f18":[2,0,0,0,209,52],
+"d4/d2f/classpocketmine_1_1block_1_1_sponge.html#a49395de82d025ca78745a17528049f18":[3,0,1,0,211,52],
+"d4/d2f/classpocketmine_1_1block_1_1_sponge.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[2,0,0,0,209,36],
+"d4/d2f/classpocketmine_1_1block_1_1_sponge.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[3,0,1,0,211,36],
+"d4/d2f/classpocketmine_1_1block_1_1_sponge.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[2,0,0,0,209,46],
+"d4/d2f/classpocketmine_1_1block_1_1_sponge.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[3,0,1,0,211,46],
+"d4/d2f/classpocketmine_1_1block_1_1_sponge.html#a57b1586e3b6d81440be1aa89471f2a2a":[2,0,0,0,209,53],
+"d4/d2f/classpocketmine_1_1block_1_1_sponge.html#a57b1586e3b6d81440be1aa89471f2a2a":[3,0,1,0,211,53],
+"d4/d2f/classpocketmine_1_1block_1_1_sponge.html#a588080e805e50e4f97e1a3d256b8c11e":[2,0,0,0,209,14],
 "d4/d2f/classpocketmine_1_1block_1_1_sponge.html#a588080e805e50e4f97e1a3d256b8c11e":[3,0,1,0,211,14],
 "d4/d2f/classpocketmine_1_1block_1_1_sponge.html#a6201b0d5460ae6f3b5cee03197c9a94a":[2,0,0,0,209,39],
 "d4/d2f/classpocketmine_1_1block_1_1_sponge.html#a6201b0d5460ae6f3b5cee03197c9a94a":[3,0,1,0,211,39],
@@ -235,19 +245,9 @@ var NAVTREEINDEX60 =
 "d4/d31/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_output_message.html":[3,0,1,16,0,6,1,2,6],
 "d4/d32/tile_2_hopper_8php_source.html":[4,0,0,0,1,21],
 "d4/d33/_potion_type_id_map_8php_source.html":[4,0,0,5,0,24],
-"d4/d34/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_player_block_action_with_block_info.html":[3,0,1,16,0,6,1,60],
+"d4/d34/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_player_block_action_with_block_info.html":[3,0,1,16,0,6,1,65],
 "d4/d35/_fence_gate_8php_source.html":[4,0,0,0,101],
 "d4/d35/classpocketmine_1_1block_1_1_smithing_table.html":[2,0,0,0,203],
 "d4/d35/classpocketmine_1_1block_1_1_smithing_table.html":[3,0,1,0,205],
-"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,203,59],
-"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,205,59],
-"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#a09f4667329f89292dd319d56c4243b59":[2,0,0,0,203,30],
-"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#a09f4667329f89292dd319d56c4243b59":[3,0,1,0,205,30],
-"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,203,18],
-"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,205,18],
-"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,203,61],
-"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,205,61],
-"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,203,48],
-"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,205,48],
-"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,203,3]
+"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,203,59]
 };
