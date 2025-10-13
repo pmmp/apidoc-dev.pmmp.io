@@ -1,5 +1,9 @@
 var NAVTREEINDEX40 =
 {
+"d2/da2/classpocketmine_1_1block_1_1_button.html#af85e45eff3ed9638a49da08745b5244e":[3,0,1,0,39,48],
+"d2/da2/classpocketmine_1_1block_1_1_button.html#afb6cd812d16726c1e4301bc0444d1d9f":[2,0,0,0,37,13],
+"d2/da2/classpocketmine_1_1block_1_1_button.html#afb6cd812d16726c1e4301bc0444d1d9f":[3,0,1,0,39,13],
+"d2/da2/classpocketmine_1_1block_1_1_button.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,0,0,37,29],
 "d2/da2/classpocketmine_1_1block_1_1_button.html#afcc19c437c8bef4487f5ecb956ae9a1a":[3,0,1,0,39,29],
 "d2/da2/classpocketmine_1_1block_1_1_button.html#afdee05667b21388413e3753efc64bfb6":[2,0,0,0,37,60],
 "d2/da2/classpocketmine_1_1block_1_1_button.html#afdee05667b21388413e3753efc64bfb6":[3,0,1,0,39,60],
@@ -245,9 +249,5 @@ var NAVTREEINDEX40 =
 "d2/db2/classpocketmine_1_1block_1_1_glowing_obsidian.html#adc7b2fcbcc10f046b1cbcafdd0858863":[3,0,1,0,118,1],
 "d2/db2/classpocketmine_1_1block_1_1_glowing_obsidian.html#add4d4fd4fecc779dee9c9f94b8a556e5":[2,0,0,0,116,5],
 "d2/db2/classpocketmine_1_1block_1_1_glowing_obsidian.html#add4d4fd4fecc779dee9c9f94b8a556e5":[3,0,1,0,118,5],
-"d2/db2/classpocketmine_1_1block_1_1_glowing_obsidian.html#ade77e0b1fce7bdebceed4092b9c5c022":[2,0,0,0,116,33],
-"d2/db2/classpocketmine_1_1block_1_1_glowing_obsidian.html#ade77e0b1fce7bdebceed4092b9c5c022":[3,0,1,0,118,33],
-"d2/db2/classpocketmine_1_1block_1_1_glowing_obsidian.html#ae6f3cdb7eeee27448b561fa3f8323916":[2,0,0,0,116,48],
-"d2/db2/classpocketmine_1_1block_1_1_glowing_obsidian.html#ae6f3cdb7eeee27448b561fa3f8323916":[3,0,1,0,118,48],
-"d2/db2/classpocketmine_1_1block_1_1_glowing_obsidian.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,116,32]
+"d2/db2/classpocketmine_1_1block_1_1_glowing_obsidian.html#ade77e0b1fce7bdebceed4092b9c5c022":[2,0,0,0,116,33]
 };

@@ -1,7 +1,7 @@
 <map id="pocketmine\command\PluginCommand" name="pocketmine\command\PluginCommand">
-<area shape="rect" id="Node000001" title=" " alt="" coords="153,373,312,533"/>
-<area shape="rect" id="Node000002" href="$d6/df1/classpocketmine_1_1command_1_1_command.html" title=" " alt="" coords="5,5,233,325"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,337,204,372,199,374,185,339"/>
-<area shape="rect" id="Node000003" href="$d0/dcc/interfacepocketmine_1_1plugin_1_1_plugin_owned.html" title=" " alt="" coords="258,125,437,205"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="329,219,267,374,262,372,324,217"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="153,353,312,513"/>
+<area shape="rect" id="Node000002" href="$d6/df1/classpocketmine_1_1command_1_1_command.html" title=" " alt="" coords="5,5,233,305"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,317,203,352,198,354,183,319"/>
+<area shape="rect" id="Node000003" href="$d0/dcc/interfacepocketmine_1_1plugin_1_1_plugin_owned.html" title=" " alt="" coords="258,115,437,195"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="328,209,268,354,263,352,323,207"/>
 </map>

@@ -1,5 +1,6 @@
 var classpocketmine_1_1console_1_1_console_command_sender =
 [
+    [ "getCommandAliasMap", "da/dad/classpocketmine_1_1console_1_1_console_command_sender.html#ab842f53b42a023c67d88208176f84be3", null ],
     [ "getEffectivePermissions", "da/dad/classpocketmine_1_1console_1_1_console_command_sender.html#a296dc806b8ece2cb4d5470aa866b8022", null ],
     [ "getPermissionRecalculationCallbacks", "da/dad/classpocketmine_1_1console_1_1_console_command_sender.html#a56ca3af23c90116ceb2673db28c8a6f8", null ],
     [ "getScreenLineHeight", "da/dad/classpocketmine_1_1console_1_1_console_command_sender.html#a7a2566bd6a00175f6f7bb73b98f6e925", null ],

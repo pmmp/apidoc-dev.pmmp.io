@@ -1,15 +1,15 @@
 <map id="pocketmine\permission\Permissible" name="pocketmine\permission\Permissible">
-<area shape="rect" id="Node000001" title=" " alt="" coords="403,5,612,260"/>
-<area shape="rect" id="Node000002" href="$d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html" title=" " alt="" coords="226,365,399,545"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="426,273,369,367,364,364,421,270"/>
-<area shape="rect" id="Node000006" href="$da/dbf/classpocketmine_1_1permission_1_1_permissible_base.html" title=" " alt="" coords="424,405,591,505"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="510,274,510,405,505,405,505,274"/>
-<area shape="rect" id="Node000007" href="$d9/d10/classpocketmine_1_1permission_1_1_permissible_internal.html" title=" " alt="" coords="615,308,824,603"/>
-<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="600,270,625,306,620,309,596,273"/>
-<area shape="rect" id="Node000003" href="$da/dad/classpocketmine_1_1console_1_1_console_command_sender.html" title=" " alt="" coords="5,971,188,1171"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="249,558,224,604,202,652,173,734,148,818,115,971,110,970,143,817,167,732,197,650,219,602,244,556"/>
-<area shape="rect" id="Node000004" href="$d0/d6f/classpocketmine_1_1player_1_1_player.html" title=" " alt="" coords="212,651,413,1491"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="315,559,315,650,310,650,310,559"/>
-<area shape="rect" id="Node000005" href="$d7/de3/classpocketmine_1_1utils_1_1_broadcast_logger_forwarder.html" title=" " alt="" coords="437,971,628,1171"/>
-<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="381,556,406,602,428,650,458,732,483,817,518,970,513,971,478,818,453,734,424,652,402,604,376,559"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="414,5,623,260"/>
+<area shape="rect" id="Node000002" href="$d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html" title=" " alt="" coords="224,355,411,555"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="434,273,382,357,377,354,430,270"/>
+<area shape="rect" id="Node000006" href="$da/dbf/classpocketmine_1_1permission_1_1_permissible_base.html" title=" " alt="" coords="435,405,602,505"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="521,274,521,405,516,405,516,274"/>
+<area shape="rect" id="Node000007" href="$d9/d10/classpocketmine_1_1permission_1_1_permissible_internal.html" title=" " alt="" coords="626,308,835,603"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="612,270,636,306,632,309,607,273"/>
+<area shape="rect" id="Node000003" href="$da/dad/classpocketmine_1_1console_1_1_console_command_sender.html" title=" " alt="" coords="5,961,192,1181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="248,568,206,652,178,731,154,812,120,961,115,960,149,811,173,729,202,650,243,566"/>
+<area shape="rect" id="Node000004" href="$d0/d6f/classpocketmine_1_1player_1_1_player.html" title=" " alt="" coords="217,651,418,1491"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="320,569,320,650,315,650,315,569"/>
+<area shape="rect" id="Node000005" href="$d7/de3/classpocketmine_1_1utils_1_1_broadcast_logger_forwarder.html" title=" " alt="" coords="442,961,633,1181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="391,566,433,650,462,729,486,811,521,960,516,961,481,812,457,731,428,652,387,568"/>
 </map>

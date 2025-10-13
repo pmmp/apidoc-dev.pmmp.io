@@ -2,8 +2,16 @@ var annotated_dup =
 [
     [ "DaveRandom", null, [
       [ "CallbackValidator", null, [
+        [ "Type", null, [
+          [ "BaseType", "de/dd0/interface_dave_random_1_1_callback_validator_1_1_type_1_1_base_type.html", null ],
+          [ "IntersectionType", "dc/d72/class_dave_random_1_1_callback_validator_1_1_type_1_1_intersection_type.html", "dc/d72/class_dave_random_1_1_callback_validator_1_1_type_1_1_intersection_type" ],
+          [ "NamedType", "d4/d4f/class_dave_random_1_1_callback_validator_1_1_type_1_1_named_type.html", null ],
+          [ "UnionType", "d6/d3d/class_dave_random_1_1_callback_validator_1_1_type_1_1_union_type.html", "d6/d3d/class_dave_random_1_1_callback_validator_1_1_type_1_1_union_type" ]
+        ] ],
         [ "MatchTester", "d3/d4a/class_dave_random_1_1_callback_validator_1_1_match_tester.html", null ],
-        [ "Prototype", "d7/d9f/class_dave_random_1_1_callback_validator_1_1_prototype.html", null ]
+        [ "ParameterInfo", "d7/d23/class_dave_random_1_1_callback_validator_1_1_parameter_info.html", "d7/d23/class_dave_random_1_1_callback_validator_1_1_parameter_info" ],
+        [ "Prototype", "d7/d9f/class_dave_random_1_1_callback_validator_1_1_prototype.html", "d7/d9f/class_dave_random_1_1_callback_validator_1_1_prototype" ],
+        [ "ReturnInfo", "d0/dbc/class_dave_random_1_1_callback_validator_1_1_return_info.html", "d0/dbc/class_dave_random_1_1_callback_validator_1_1_return_info" ]
       ] ]
     ] ],
     [ "pocketmine", "d2/d69/namespacepocketmine.html", [
@@ -356,6 +364,7 @@ var annotated_dup =
           [ "BanIpCommand", "d1/d73/classpocketmine_1_1command_1_1defaults_1_1_ban_ip_command.html", "d1/d73/classpocketmine_1_1command_1_1defaults_1_1_ban_ip_command" ],
           [ "BanListCommand", "d7/d21/classpocketmine_1_1command_1_1defaults_1_1_ban_list_command.html", "d7/d21/classpocketmine_1_1command_1_1defaults_1_1_ban_list_command" ],
           [ "ClearCommand", "da/d9c/classpocketmine_1_1command_1_1defaults_1_1_clear_command.html", "da/d9c/classpocketmine_1_1command_1_1defaults_1_1_clear_command" ],
+          [ "CommandAliasCommand", "d4/dcb/classpocketmine_1_1command_1_1defaults_1_1_command_alias_command.html", "d4/dcb/classpocketmine_1_1command_1_1defaults_1_1_command_alias_command" ],
           [ "DefaultGamemodeCommand", "d5/d93/classpocketmine_1_1command_1_1defaults_1_1_default_gamemode_command.html", "d5/d93/classpocketmine_1_1command_1_1defaults_1_1_default_gamemode_command" ],
           [ "DeopCommand", "dc/dd8/classpocketmine_1_1command_1_1defaults_1_1_deop_command.html", "dc/dd8/classpocketmine_1_1command_1_1defaults_1_1_deop_command" ],
           [ "DifficultyCommand", "d0/d74/classpocketmine_1_1command_1_1defaults_1_1_difficulty_command.html", "d0/d74/classpocketmine_1_1command_1_1defaults_1_1_difficulty_command" ],
@@ -402,6 +411,7 @@ var annotated_dup =
         ] ],
         [ "ClosureCommand", "d7/d03/classpocketmine_1_1command_1_1_closure_command.html", "d7/d03/classpocketmine_1_1command_1_1_closure_command" ],
         [ "Command", "d6/df1/classpocketmine_1_1command_1_1_command.html", "d6/df1/classpocketmine_1_1command_1_1_command" ],
+        [ "CommandAliasMap", "df/d41/classpocketmine_1_1command_1_1_command_alias_map.html", "df/d41/classpocketmine_1_1command_1_1_command_alias_map" ],
         [ "CommandExecutor", "d4/d5f/interfacepocketmine_1_1command_1_1_command_executor.html", "d4/d5f/interfacepocketmine_1_1command_1_1_command_executor" ],
         [ "CommandMap", "de/d06/interfacepocketmine_1_1command_1_1_command_map.html", "de/d06/interfacepocketmine_1_1command_1_1_command_map" ],
         [ "CommandSender", "d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html", "d6/d9d/interfacepocketmine_1_1command_1_1_command_sender" ],
@@ -2000,6 +2010,7 @@ var annotated_dup =
           [ "RedstoneParticle", "d8/d7b/classpocketmine_1_1world_1_1particle_1_1_redstone_particle.html", "d8/d7b/classpocketmine_1_1world_1_1particle_1_1_redstone_particle" ],
           [ "SmokeParticle", "dc/df4/classpocketmine_1_1world_1_1particle_1_1_smoke_particle.html", "dc/df4/classpocketmine_1_1world_1_1particle_1_1_smoke_particle" ],
           [ "SnowballPoofParticle", "d6/d9f/classpocketmine_1_1world_1_1particle_1_1_snowball_poof_particle.html", "d6/d9f/classpocketmine_1_1world_1_1particle_1_1_snowball_poof_particle" ],
+          [ "SonicExplosionParticle", "d6/deb/classpocketmine_1_1world_1_1particle_1_1_sonic_explosion_particle.html", "d6/deb/classpocketmine_1_1world_1_1particle_1_1_sonic_explosion_particle" ],
           [ "SplashParticle", "d7/dcc/classpocketmine_1_1world_1_1particle_1_1_splash_particle.html", "d7/dcc/classpocketmine_1_1world_1_1particle_1_1_splash_particle" ],
           [ "SporeParticle", "d5/d5d/classpocketmine_1_1world_1_1particle_1_1_spore_particle.html", "d5/d5d/classpocketmine_1_1world_1_1particle_1_1_spore_particle" ],
           [ "TerrainParticle", "dc/d7b/classpocketmine_1_1world_1_1particle_1_1_terrain_particle.html", "dc/d7b/classpocketmine_1_1world_1_1particle_1_1_terrain_particle" ],

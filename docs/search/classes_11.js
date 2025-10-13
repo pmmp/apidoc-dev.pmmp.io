@@ -85,13 +85,14 @@ var searchData=
   ['respawnanchorsetspawnsound_82',['RespawnAnchorSetSpawnSound',['../dc/d5f/classpocketmine_1_1world_1_1sound_1_1_respawn_anchor_set_spawn_sound.html',1,'pocketmine::world::sound']]],
   ['respawnanimation_83',['RespawnAnimation',['../d3/d4f/classpocketmine_1_1entity_1_1animation_1_1_respawn_animation.html',1,'pocketmine::entity::animation']]],
   ['respawnpacket_84',['RespawnPacket',['../da/d3e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_respawn_packet.html',1,'pocketmine::network::mcpe::protocol']]],
-  ['reversepriorityqueue_85',['ReversePriorityQueue',['../df/dad/classpocketmine_1_1utils_1_1_reverse_priority_queue.html',1,'pocketmine::utils']]],
-  ['riverbiome_86',['RiverBiome',['../d5/d52/classpocketmine_1_1world_1_1biome_1_1_river_biome.html',1,'pocketmine::world::biome']]],
-  ['rottenflesh_87',['RottenFlesh',['../dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html',1,'pocketmine::item']]],
-  ['runtimeblockstateregistry_88',['RuntimeBlockStateRegistry',['../de/d2c/classpocketmine_1_1block_1_1_runtime_block_state_registry.html',1,'pocketmine::block']]],
-  ['runtimedatadescriber_89',['RuntimeDataDescriber',['../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html',1,'pocketmine::data::runtime']]],
-  ['runtimedatareader_90',['RuntimeDataReader',['../de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html',1,'pocketmine::data::runtime']]],
-  ['runtimedatasizecalculator_91',['RuntimeDataSizeCalculator',['../db/dff/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_size_calculator.html',1,'pocketmine::data::runtime']]],
-  ['runtimedatawriter_92',['RuntimeDataWriter',['../dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer.html',1,'pocketmine::data::runtime']]],
-  ['runtimeenummetadata_93',['RuntimeEnumMetadata',['../dc/db7/classpocketmine_1_1data_1_1runtime_1_1_runtime_enum_metadata.html',1,'pocketmine::data::runtime']]]
+  ['returninfo_85',['ReturnInfo',['../d0/dbc/class_dave_random_1_1_callback_validator_1_1_return_info.html',1,'DaveRandom::CallbackValidator']]],
+  ['reversepriorityqueue_86',['ReversePriorityQueue',['../df/dad/classpocketmine_1_1utils_1_1_reverse_priority_queue.html',1,'pocketmine::utils']]],
+  ['riverbiome_87',['RiverBiome',['../d5/d52/classpocketmine_1_1world_1_1biome_1_1_river_biome.html',1,'pocketmine::world::biome']]],
+  ['rottenflesh_88',['RottenFlesh',['../dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html',1,'pocketmine::item']]],
+  ['runtimeblockstateregistry_89',['RuntimeBlockStateRegistry',['../de/d2c/classpocketmine_1_1block_1_1_runtime_block_state_registry.html',1,'pocketmine::block']]],
+  ['runtimedatadescriber_90',['RuntimeDataDescriber',['../d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html',1,'pocketmine::data::runtime']]],
+  ['runtimedatareader_91',['RuntimeDataReader',['../de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html',1,'pocketmine::data::runtime']]],
+  ['runtimedatasizecalculator_92',['RuntimeDataSizeCalculator',['../db/dff/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_size_calculator.html',1,'pocketmine::data::runtime']]],
+  ['runtimedatawriter_93',['RuntimeDataWriter',['../dd/d76/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_writer.html',1,'pocketmine::data::runtime']]],
+  ['runtimeenummetadata_94',['RuntimeEnumMetadata',['../dc/db7/classpocketmine_1_1data_1_1runtime_1_1_runtime_enum_metadata.html',1,'pocketmine::data::runtime']]]
 ];

@@ -42,6 +42,7 @@ var classpocketmine_1_1player_1_1_player =
     [ "getArmorPoints", "d0/d6f/classpocketmine_1_1player_1_1_player.html#a8cbade5804cac7d6e0c1a6d9d7629e0d", null ],
     [ "getBlocksAroundWithEntityInsideActions", "d0/d6f/classpocketmine_1_1player_1_1_player.html#a4087e033dc45159d7379699024657047", null ],
     [ "getBlocksIntersected", "d0/d6f/classpocketmine_1_1player_1_1_player.html#a1380adc70073eca8b76083e7357c44ea", null ],
+    [ "getCommandAliasMap", "d0/d6f/classpocketmine_1_1player_1_1_player.html#ac60788e364d187ebb4dade417cdcdac2", null ],
     [ "getCreativeInventory", "d0/d6f/classpocketmine_1_1player_1_1_player.html#adfa639d9977214980e773e0d1e8c72ba", null ],
     [ "getCurrentWindow", "d0/d6f/classpocketmine_1_1player_1_1_player.html#af7654ad618f4e269dd9233eb77ded29b", null ],
     [ "getDirtyNetworkData", "d0/d6f/classpocketmine_1_1player_1_1_player.html#ac028a6475bf09f61ce9dfb952d4a5d65", null ],

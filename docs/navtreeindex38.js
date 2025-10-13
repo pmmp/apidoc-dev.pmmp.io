@@ -1,5 +1,9 @@
 var NAVTREEINDEX38 =
 {
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#a8a733c2fe564a205938a9146c8b0e0f1":[2,0,0,0,61,63],
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#a8a733c2fe564a205938a9146c8b0e0f1":[3,0,1,0,63,63],
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,61,11],
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,63,11],
 "d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,61,65],
 "d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,63,65],
 "d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,61,38],
@@ -102,7 +106,7 @@ var NAVTREEINDEX38 =
 "d2/d7e/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_deserializer.html#ab6747b942e6c9b83067ea3fc8c1fb982":[3,0,1,6,0,1,2,3],
 "d2/d7f/_vector2_8php_source.html":[4,0,1,0,7,0,5],
 "d2/d80/_block_position_8php_source.html":[4,0,1,0,1,0,1,17],
-"d2/d81/_garbage_collector_command_8php_source.html":[4,0,0,1,0,11],
+"d2/d81/_garbage_collector_command_8php_source.html":[4,0,0,1,0,12],
 "d2/d81/classraklib_1_1server_1_1_simple_protocol_acceptor.html":[3,0,2,3,8],
 "d2/d83/_timings_collection_task_8php_source.html":[4,0,0,18,13],
 "d2/d83/classpocketmine_1_1block_1_1_base_rail.html":[2,0,0,0,14],
@@ -245,9 +249,5 @@ var NAVTREEINDEX38 =
 "d2/d83/classpocketmine_1_1block_1_1_base_rail.html#afe4928a6da38d63eccea78bd1a2fdcd3":[3,0,1,0,16,22],
 "d2/d83/classpocketmine_1_1block_1_1_base_rail.html#afe506084e4bb8741a7ac64f6d90c00a5":[2,0,0,0,14,16],
 "d2/d83/classpocketmine_1_1block_1_1_base_rail.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,16,16],
-"d2/d83/classpocketmine_1_1block_1_1_base_rail.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,14,28],
-"d2/d83/classpocketmine_1_1block_1_1_base_rail.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,16,28],
-"d2/d85/_grass_8php_source.html":[4,0,0,0,122],
-"d2/d86/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1biome_1_1chunkgen_1_1_biome_climate_data.html":[3,0,1,16,0,6,1,0,0,1],
-"d2/d87/classpocketmine_1_1block_1_1tile_1_1_banner.html":[2,0,0,0,0,0]
+"d2/d83/classpocketmine_1_1block_1_1_base_rail.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,14,28]
 };

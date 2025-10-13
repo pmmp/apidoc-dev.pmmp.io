@@ -30,7 +30,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="../../d7/d03/classpocketmine_1_1command_1_1_closure_command.html#a7231e0c007de206ecc0df502f6bd283a" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="../../d7/d03/classpocketmine_1_1command_1_1_closure_command.html#a56eadc30acb20f881861d0c3b73d95d0" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="165,-30 0,-30 0,0 165,0 165,-30"/>
 <text text-anchor="start" x="8" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\command</text>
 <text text-anchor="middle" x="82.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">\ClosureCommand\__construct</text>

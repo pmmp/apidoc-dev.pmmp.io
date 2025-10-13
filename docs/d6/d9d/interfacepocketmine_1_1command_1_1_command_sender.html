@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.35.1 git-e32e836dad793a3a3c8ddd8927c00e112b1e576a</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.35.1 git-f412a390b8f63d0311cc1d1c81046404153b8440</span>
    </div>
   </td>
  </tr>
@@ -121,13 +121,15 @@ $(function(){initNavTree('d6/d9d/interfacepocketmine_1_1command_1_1_command_send
 <div id="dynsection-1-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-1-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../d3/d4b/interfacepocketmine_1_1command_1_1_command_sender__coll__graph.svg" width="220" height="494"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d3/d4b/interfacepocketmine_1_1command_1_1_command_sender__coll__graph.svg" width="220" height="514"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a0183ead82aac69abb18907b7aa8bd1ca" id="r_a0183ead82aac69abb18907b7aa8bd1ca"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/da0/interfacepocketmine_1_1permission_1_1_permissible.html#a0183ead82aac69abb18907b7aa8bd1ca">addAttachment</a> (<a class="el" href="../../d4/d92/interfacepocketmine_1_1plugin_1_1_plugin.html">Plugin</a> $plugin, ?string $name=null, ?bool $value=null)</td></tr>
 <tr class="separator:a0183ead82aac69abb18907b7aa8bd1ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a66247f527546f117e7b8d478b31783e8" id="r_a66247f527546f117e7b8d478b31783e8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a66247f527546f117e7b8d478b31783e8">getCommandAliasMap</a> ()</td></tr>
+<tr class="separator:a66247f527546f117e7b8d478b31783e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a296dc806b8ece2cb4d5470aa866b8022" id="r_a296dc806b8ece2cb4d5470aa866b8022"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/da0/interfacepocketmine_1_1permission_1_1_permissible.html#a296dc806b8ece2cb4d5470aa866b8022">getEffectivePermissions</a> ()</td></tr>
 <tr class="separator:a296dc806b8ece2cb4d5470aa866b8022"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2d1da81c91231a159b23d7262c64787c" id="r_a2d1da81c91231a159b23d7262c64787c"><td class="memItemLeft" align="right" valign="top"><a id="a2d1da81c91231a159b23d7262c64787c" name="a2d1da81c91231a159b23d7262c64787c"></a>
@@ -197,6 +199,35 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implemented in <a class="el" href="../../d9/d10/classpocketmine_1_1permission_1_1_permissible_internal.html#a4d14a9672856591d377545c87f75af95">pocketmine\permission\PermissibleInternal</a>.</p>
+
+</div>
+</div>
+<a id="a66247f527546f117e7b8d478b31783e8" name="a66247f527546f117e7b8d478b31783e8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a66247f527546f117e7b8d478b31783e8">&#9670;&#160;</a></span>getCommandAliasMap()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">pocketmine\command\CommandSender::getCommandAliasMap </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Returns the user's local alias map. This may contain special user-specific aliases that differ from the global command map's aliases. </p>
+
+<p>Implemented in <a class="el" href="../../da/dad/classpocketmine_1_1console_1_1_console_command_sender.html#ab842f53b42a023c67d88208176f84be3">pocketmine\console\ConsoleCommandSender</a>, <a class="el" href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html#ac60788e364d187ebb4dade417cdcdac2">pocketmine\player\Player</a>, and <a class="el" href="../../d7/de3/classpocketmine_1_1utils_1_1_broadcast_logger_forwarder.html#a295c19a99f99e466ecab2bfb9c376b4d">pocketmine\utils\BroadcastLoggerForwarder</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../d7/d3a/_command_alias_command_8php_source.html#l00056">pocketmine\command\defaults\CommandAliasCommand\execute()</a>, and <a class="el" href="../../d9/d6e/_help_command_8php_source.html#l00063">pocketmine\command\defaults\HelpCommand\execute()</a>.</p>
+<div id="dynsection-2" onclick="return dynsection.toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-2-trigger" src="../../closed.png" alt="+"/> Here is the caller graph for this function:</div>
+<div id="dynsection-2-summary" class="dynsummary" style="display:block;">
+</div>
+<div id="dynsection-2-content" class="dyncontent" style="display:none;">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d6/d9d/interfacepocketmine_1_1command_1_1_command_sender_a66247f527546f117e7b8d478b31783e8_icgraph.svg" width="599" height="144"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
 
 </div>
 </div>
@@ -293,12 +324,12 @@ Public Member Functions</h2></td></tr>
 
 <p>Implemented in <a class="el" href="../../da/dad/classpocketmine_1_1console_1_1_console_command_sender.html#a7a2566bd6a00175f6f7bb73b98f6e925">pocketmine\console\ConsoleCommandSender</a>, <a class="el" href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html#ad87819bd2f0b025a0b34aaf9181c51c3">pocketmine\player\Player</a>, and <a class="el" href="../../d7/de3/classpocketmine_1_1utils_1_1_broadcast_logger_forwarder.html#a28f4ab0919af60ec0aa3f21496b9a59d">pocketmine\utils\BroadcastLoggerForwarder</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../d9/d6e/_help_command_8php_source.html#l00058">pocketmine\command\defaults\HelpCommand\execute()</a>.</p>
-<div id="dynsection-2" onclick="return dynsection.toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-2-trigger" src="../../closed.png" alt="+"/> Here is the caller graph for this function:</div>
-<div id="dynsection-2-summary" class="dynsummary" style="display:block;">
+<p class="reference">Referenced by <a class="el" href="../../d9/d6e/_help_command_8php_source.html#l00063">pocketmine\command\defaults\HelpCommand\execute()</a>.</p>
+<div id="dynsection-3" onclick="return dynsection.toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-3-trigger" src="../../closed.png" alt="+"/> Here is the caller graph for this function:</div>
+<div id="dynsection-3-summary" class="dynsummary" style="display:block;">
 </div>
-<div id="dynsection-2-content" class="dyncontent" style="display:none;">
+<div id="dynsection-3-content" class="dyncontent" style="display:none;">
 <div class="center"><iframe scrolling="no" frameborder="0" src="../../d6/d9d/interfacepocketmine_1_1command_1_1_command_sender_a1428021c250a27063d67667d81008b55_icgraph.svg" width="474" height="66"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 

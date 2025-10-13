@@ -1,7 +1,7 @@
 <map id="pocketmine\command\defaults\SetWorldSpawnCommand" name="pocketmine\command\defaults\SetWorldSpawnCommand">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,601,248,701"/>
-<area shape="rect" id="Node000002" href="$d5/dfa/classpocketmine_1_1command_1_1defaults_1_1_vanilla_command.html" title=" " alt="" coords="18,373,235,553"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,567,129,601,124,601,124,567"/>
-<area shape="rect" id="Node000003" href="$d6/df1/classpocketmine_1_1command_1_1_command.html" title=" " alt="" coords="13,5,241,325"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,339,129,373,124,373,124,339"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,581,248,681"/>
+<area shape="rect" id="Node000002" href="$d5/dfa/classpocketmine_1_1command_1_1defaults_1_1_vanilla_command.html" title=" " alt="" coords="18,353,235,533"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,547,129,581,124,581,124,547"/>
+<area shape="rect" id="Node000003" href="$d6/df1/classpocketmine_1_1command_1_1_command.html" title=" " alt="" coords="13,5,241,305"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,319,129,353,124,353,124,319"/>
 </map>

@@ -1,5 +1,11 @@
 var NAVTREEINDEX53 =
 {
+"d3/dab/classpocketmine_1_1item_1_1_trident.html#a1df151eb419168f838e6d927c50f9210":[3,0,1,12,119,5],
+"d3/dab/classpocketmine_1_1item_1_1_trident.html#a23c827b82179f8a57b786a6fa38d08e8":[2,0,0,5,118,20],
+"d3/dab/classpocketmine_1_1item_1_1_trident.html#a23c827b82179f8a57b786a6fa38d08e8":[3,0,1,12,119,20],
+"d3/dab/classpocketmine_1_1item_1_1_trident.html#a27ef1db0d41125973529fb720b06a00d":[2,0,0,5,118,36],
+"d3/dab/classpocketmine_1_1item_1_1_trident.html#a27ef1db0d41125973529fb720b06a00d":[3,0,1,12,119,36],
+"d3/dab/classpocketmine_1_1item_1_1_trident.html#a2b35e6f346e5955b086fcc07ead985a7":[2,0,0,5,118,26],
 "d3/dab/classpocketmine_1_1item_1_1_trident.html#a2b35e6f346e5955b086fcc07ead985a7":[3,0,1,12,119,26],
 "d3/dab/classpocketmine_1_1item_1_1_trident.html#a2bcaa528592d9ae259e2e6d0b89f375d":[2,0,0,5,118,22],
 "d3/dab/classpocketmine_1_1item_1_1_trident.html#a2bcaa528592d9ae259e2e6d0b89f375d":[3,0,1,12,119,22],
@@ -243,11 +249,5 @@ var NAVTREEINDEX53 =
 "d3/dbc/classpocketmine_1_1block_1_1_chain.html#ae829b9f476afef6b23d6f4f7fd558e0f":[3,0,1,0,54,32],
 "d3/dbc/classpocketmine_1_1block_1_1_chain.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,52,54],
 "d3/dbc/classpocketmine_1_1block_1_1_chain.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,54,54],
-"d3/dbc/classpocketmine_1_1block_1_1_chain.html#af45a3d45c4ab6528c6641915722b9de8":[2,0,0,0,52,6],
-"d3/dbc/classpocketmine_1_1block_1_1_chain.html#af45a3d45c4ab6528c6641915722b9de8":[3,0,1,0,54,6],
-"d3/dbc/classpocketmine_1_1block_1_1_chain.html#afa0e08fa7c894cf623c630db6a4a3a91":[2,0,0,0,52,61],
-"d3/dbc/classpocketmine_1_1block_1_1_chain.html#afa0e08fa7c894cf623c630db6a4a3a91":[3,0,1,0,54,61],
-"d3/dbc/classpocketmine_1_1block_1_1_chain.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,0,0,52,29],
-"d3/dbc/classpocketmine_1_1block_1_1_chain.html#afcc19c437c8bef4487f5ecb956ae9a1a":[3,0,1,0,54,29],
-"d3/dbc/classpocketmine_1_1block_1_1_chain.html#afe4928a6da38d63eccea78bd1a2fdcd3":[2,0,0,0,52,21]
+"d3/dbc/classpocketmine_1_1block_1_1_chain.html#af45a3d45c4ab6528c6641915722b9de8":[2,0,0,0,52,6]
 };

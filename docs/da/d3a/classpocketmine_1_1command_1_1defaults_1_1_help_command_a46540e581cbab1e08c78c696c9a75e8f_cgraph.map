@@ -1,5 +1,9 @@
 <map id="pocketmine\command\defaults\HelpCommand\execute" name="pocketmine\command\defaults\HelpCommand\execute">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,185,60"/>
-<area shape="rect" id="Node000002" href="$d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html#a1428021c250a27063d67667d81008b55" title=" " alt="" coords="233,5,468,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,30,220,30,220,35,185,35"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,70,185,125"/>
+<area shape="rect" id="Node000002" href="$d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html#a66247f527546f117e7b8d478b31783e8" title=" " alt="" coords="233,5,524,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,68,233,55,269,46,270,51,234,60,186,73"/>
+<area shape="rect" id="Node000003" href="$d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html#a1428021c250a27063d67667d81008b55" title=" " alt="" coords="261,70,496,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,95,247,95,247,100,185,100"/>
+<area shape="rect" id="Node000004" href="$d9/dce/classpocketmine_1_1command_1_1_simple_command_map.html#acaec7be1c17b592bccfc3dead6884ac6" title=" " alt="" coords="239,149,518,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="186,121,234,133,275,144,274,149,233,139,185,126"/>
 </map>

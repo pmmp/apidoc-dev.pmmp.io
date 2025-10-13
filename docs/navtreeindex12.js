@@ -1,5 +1,8 @@
 var NAVTREEINDEX12 =
 {
+"d0/dd5/classpocketmine_1_1block_1_1_big_dripleaf_head.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,21,54],
+"d0/dd5/classpocketmine_1_1block_1_1_big_dripleaf_head.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,23,54],
+"d0/dd5/classpocketmine_1_1block_1_1_big_dripleaf_head.html#af45a3d45c4ab6528c6641915722b9de8":[2,0,0,0,21,6],
 "d0/dd5/classpocketmine_1_1block_1_1_big_dripleaf_head.html#af45a3d45c4ab6528c6641915722b9de8":[3,0,1,0,23,6],
 "d0/dd5/classpocketmine_1_1block_1_1_big_dripleaf_head.html#af71a147b76ed652a8e8665d4b5068522":[2,0,0,0,21,56],
 "d0/dd5/classpocketmine_1_1block_1_1_big_dripleaf_head.html#af71a147b76ed652a8e8665d4b5068522":[3,0,1,0,23,56],
@@ -246,8 +249,5 @@ var NAVTREEINDEX12 =
 "d0/dfb/classpocketmine_1_1event_1_1entity_1_1_projectile_hit_entity_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,1,31,0],
 "d0/dfb/classpocketmine_1_1event_1_1entity_1_1_projectile_hit_entity_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,1,31,0],
 "d0/dfb/classpocketmine_1_1event_1_1entity_1_1_projectile_hit_entity_event.html#a954c4b61c6444766ac5dd3e083c4eb98":[2,0,0,3,1,31,2],
-"d0/dfb/classpocketmine_1_1event_1_1entity_1_1_projectile_hit_entity_event.html#a954c4b61c6444766ac5dd3e083c4eb98":[3,0,1,9,1,31,2],
-"d0/dfb/classpocketmine_1_1event_1_1entity_1_1_projectile_hit_entity_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,0,3,1,31,4],
-"d0/dfb/classpocketmine_1_1event_1_1entity_1_1_projectile_hit_entity_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,1,31,4],
-"d0/dfb/classpocketmine_1_1event_1_1entity_1_1_projectile_hit_entity_event.html#ab97cc2fd3a3b6659cbef9db246ef891e":[2,0,0,3,1,31,1]
+"d0/dfb/classpocketmine_1_1event_1_1entity_1_1_projectile_hit_entity_event.html#a954c4b61c6444766ac5dd3e083c4eb98":[3,0,1,9,1,31,2]
 };

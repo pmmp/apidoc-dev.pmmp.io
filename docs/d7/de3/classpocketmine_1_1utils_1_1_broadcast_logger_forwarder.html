@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.35.1 git-e32e836dad793a3a3c8ddd8927c00e112b1e576a</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.35.1 git-f412a390b8f63d0311cc1d1c81046404153b8440</span>
    </div>
   </td>
  </tr>
@@ -130,6 +130,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a0732c2dad20a28a09030343687488aea"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0183ead82aac69abb18907b7aa8bd1ca" id="r_a0183ead82aac69abb18907b7aa8bd1ca"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/da0/interfacepocketmine_1_1permission_1_1_permissible.html#a0183ead82aac69abb18907b7aa8bd1ca">addAttachment</a> (Plugin $plugin, ?string $name=null, ?bool $value=null)</td></tr>
 <tr class="separator:a0183ead82aac69abb18907b7aa8bd1ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a295c19a99f99e466ecab2bfb9c376b4d" id="r_a295c19a99f99e466ecab2bfb9c376b4d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a295c19a99f99e466ecab2bfb9c376b4d">getCommandAliasMap</a> ()</td></tr>
+<tr class="separator:a295c19a99f99e466ecab2bfb9c376b4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a296dc806b8ece2cb4d5470aa866b8022" id="r_a296dc806b8ece2cb4d5470aa866b8022"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/da0/interfacepocketmine_1_1permission_1_1_permissible.html#a296dc806b8ece2cb4d5470aa866b8022">getEffectivePermissions</a> ()</td></tr>
 <tr class="separator:a296dc806b8ece2cb4d5470aa866b8022"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8010b2408ed8b989a92f51a2adc0b756" id="r_a8010b2408ed8b989a92f51a2adc0b756"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a8010b2408ed8b989a92f51a2adc0b756">getLanguage</a> ()</td></tr>
@@ -164,7 +166,7 @@ Public Member Functions</h2></td></tr>
 <div class="textblock"><p>Forwards any messages it receives via sendMessage() to the given logger. Used for forwarding chat messages and command audit log messages to the server log file.</p>
 <p>Unfortunately, broadcast subscribers are currently required to implement CommandSender, so this class has to include a lot of useless methods. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html#l00041">41</a> of file <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html">BroadcastLoggerForwarder.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html#l00042">42</a> of file <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html">BroadcastLoggerForwarder.php</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a0732c2dad20a28a09030343687488aea" name="a0732c2dad20a28a09030343687488aea"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a0732c2dad20a28a09030343687488aea">&#9670;&#160;</a></span>__construct()</h2>
@@ -190,7 +192,7 @@ Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html#l00044">44</a> of file <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html">BroadcastLoggerForwarder.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html#l00047">47</a> of file <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html">BroadcastLoggerForwarder.php</a>.</p>
 
 </div>
 </div>
@@ -228,6 +230,28 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implemented in <a class="el" href="../../d9/d10/classpocketmine_1_1permission_1_1_permissible_internal.html#a4d14a9672856591d377545c87f75af95">pocketmine\permission\PermissibleInternal</a>.</p>
+
+</div>
+</div>
+<a id="a295c19a99f99e466ecab2bfb9c376b4d" name="a295c19a99f99e466ecab2bfb9c376b4d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a295c19a99f99e466ecab2bfb9c376b4d">&#9670;&#160;</a></span>getCommandAliasMap()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">pocketmine\utils\BroadcastLoggerForwarder::getCommandAliasMap </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Returns the user's local alias map. This may contain special user-specific aliases that differ from the global command map's aliases. </p>
+
+<p>Implements <a class="el" href="../../d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html#a66247f527546f117e7b8d478b31783e8">pocketmine\command\CommandSender</a>.</p>
+
+<p class="definition">Definition at line <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html#l00085">85</a> of file <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html">BroadcastLoggerForwarder.php</a>.</p>
 
 </div>
 </div>
@@ -276,7 +300,7 @@ Public Member Functions</h2></td></tr>
 
 <p>Implements <a class="el" href="../../d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html">pocketmine\command\CommandSender</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html#l00053">53</a> of file <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html">BroadcastLoggerForwarder.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html#l00057">57</a> of file <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html">BroadcastLoggerForwarder.php</a>.</p>
 
 </div>
 </div>
@@ -297,7 +321,7 @@ Public Member Functions</h2></td></tr>
 
 <p>Implements <a class="el" href="../../d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html">pocketmine\command\CommandSender</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html#l00069">69</a> of file <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html">BroadcastLoggerForwarder.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html#l00073">73</a> of file <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html">BroadcastLoggerForwarder.php</a>.</p>
 
 </div>
 </div>
@@ -347,7 +371,7 @@ Public Member Functions</h2></td></tr>
 
 <p>Implements <a class="el" href="../../d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html#a1428021c250a27063d67667d81008b55">pocketmine\command\CommandSender</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html#l00073">73</a> of file <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html">BroadcastLoggerForwarder.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html#l00077">77</a> of file <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html">BroadcastLoggerForwarder.php</a>.</p>
 
 </div>
 </div>
@@ -368,7 +392,7 @@ Public Member Functions</h2></td></tr>
 
 <p>Implements <a class="el" href="../../d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html">pocketmine\command\CommandSender</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html#l00065">65</a> of file <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html">BroadcastLoggerForwarder.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html#l00069">69</a> of file <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html">BroadcastLoggerForwarder.php</a>.</p>
 
 </div>
 </div>
@@ -473,7 +497,7 @@ Public Member Functions</h2></td></tr>
 
 <p>Implements <a class="el" href="../../d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html">pocketmine\command\CommandSender</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html#l00057">57</a> of file <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html">BroadcastLoggerForwarder.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html#l00061">61</a> of file <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html">BroadcastLoggerForwarder.php</a>.</p>
 
 </div>
 </div>
@@ -527,7 +551,7 @@ Public Member Functions</h2></td></tr>
 
 <p>Implements <a class="el" href="../../d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html#adad74406049bccde79c289067e881028">pocketmine\command\CommandSender</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html#l00077">77</a> of file <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html">BroadcastLoggerForwarder.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html#l00081">81</a> of file <a class="el" href="../../d0/d39/_broadcast_logger_forwarder_8php_source.html">BroadcastLoggerForwarder.php</a>.</p>
 
 </div>
 </div>

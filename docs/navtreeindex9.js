@@ -1,5 +1,6 @@
 var NAVTREEINDEX9 =
 {
+"d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html#a3bc65b2324649d8735dadf9bf8cf0705":[3,0,1,12,43,45],
 "d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html#a49a05b01faaaf071449c97060fe44926":[2,0,0,5,42,0],
 "d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html#a49a05b01faaaf071449c97060fe44926":[3,0,1,12,43,0],
 "d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html#a4a9aa55600bb30c4d55ad63337874a07":[2,0,0,5,42,6],
@@ -195,6 +196,8 @@ var NAVTREEINDEX9 =
 "d0/db9/classpocketmine_1_1utils_1_1_config_load_exception.html":[3,0,1,28,6],
 "d0/dbb/_tag_item_descriptor_8php_source.html":[4,0,1,0,1,0,1,7,21],
 "d0/dbc/_stair_shape_8php_source.html":[4,0,0,0,2,64],
+"d0/dbc/class_dave_random_1_1_callback_validator_1_1_return_info.html":[3,0,0,0,4],
+"d0/dbc/class_dave_random_1_1_callback_validator_1_1_return_info.html#a06f44dbc13de02355f2e770b55489e16":[3,0,0,0,4,0],
 "d0/dbd/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1recipe_1_1_potion_container_change_recipe.html":[3,0,1,16,0,6,1,6,11],
 "d0/dbe/_git_8php_source.html":[4,0,0,23,7],
 "d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html":[2,0,0,0,161],
@@ -246,8 +249,5 @@ var NAVTREEINDEX9 =
 "d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#a58042149c42d02c8fd0759d1382a9e80":[2,0,0,0,161,59],
 "d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#a58042149c42d02c8fd0759d1382a9e80":[3,0,1,0,163,59],
 "d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#a588080e805e50e4f97e1a3d256b8c11e":[2,0,0,0,161,14],
-"d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#a588080e805e50e4f97e1a3d256b8c11e":[3,0,1,0,163,14],
-"d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#a597f6690d902650339f1b7529dc4e0fb":[2,0,0,0,161,8],
-"d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#a597f6690d902650339f1b7529dc4e0fb":[3,0,1,0,163,8],
-"d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#a6201b0d5460ae6f3b5cee03197c9a94a":[2,0,0,0,161,39]
+"d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#a588080e805e50e4f97e1a3d256b8c11e":[3,0,1,0,163,14]
 };

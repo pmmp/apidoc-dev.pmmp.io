@@ -1,5 +1,10 @@
 var NAVTREEINDEX48 =
 {
+"d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#a0479cce8e77676d62293453aa597b58b":[2,0,0,0,51,39],
+"d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#a0479cce8e77676d62293453aa597b58b":[3,0,1,0,53,39],
+"d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,51,61],
+"d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,53,61],
+"d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#a09f4667329f89292dd319d56c4243b59":[2,0,0,0,51,32],
 "d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#a09f4667329f89292dd319d56c4243b59":[3,0,1,0,53,32],
 "d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,51,18],
 "d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,53,18],
@@ -244,10 +249,5 @@ var NAVTREEINDEX48 =
 "d3/d6c/classpocketmine_1_1item_1_1_book.html#aa2834fb1656bc61244f5a24091aaa600":[3,0,1,12,15,34],
 "d3/d6c/classpocketmine_1_1item_1_1_book.html#aa807b0fa5751723fed80570a4de1231b":[2,0,0,5,14,43],
 "d3/d6c/classpocketmine_1_1item_1_1_book.html#aa807b0fa5751723fed80570a4de1231b":[3,0,1,12,15,43],
-"d3/d6c/classpocketmine_1_1item_1_1_book.html#aabd7c38d2f74e537da5bcc6149570fd8":[2,0,0,5,14,17],
-"d3/d6c/classpocketmine_1_1item_1_1_book.html#aabd7c38d2f74e537da5bcc6149570fd8":[3,0,1,12,15,17],
-"d3/d6c/classpocketmine_1_1item_1_1_book.html#aad9f6fbf32449170a157b787d4227ee6":[2,0,0,5,14,28],
-"d3/d6c/classpocketmine_1_1item_1_1_book.html#aad9f6fbf32449170a157b787d4227ee6":[3,0,1,12,15,28],
-"d3/d6c/classpocketmine_1_1item_1_1_book.html#ab7a3f98c82cfd72eb999afbb6e9baf45":[2,0,0,5,14,9],
-"d3/d6c/classpocketmine_1_1item_1_1_book.html#ab7a3f98c82cfd72eb999afbb6e9baf45":[3,0,1,12,15,9]
+"d3/d6c/classpocketmine_1_1item_1_1_book.html#aabd7c38d2f74e537da5bcc6149570fd8":[2,0,0,5,14,17]
 };

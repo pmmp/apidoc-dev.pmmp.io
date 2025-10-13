@@ -1,5 +1,11 @@
 var NAVTREEINDEX60 =
 {
+"d4/d2f/classpocketmine_1_1block_1_1_sponge.html#a3a46169e7d256b3a1f3af8c54ddba832":[3,0,1,0,211,62],
+"d4/d2f/classpocketmine_1_1block_1_1_sponge.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,0,0,209,10],
+"d4/d2f/classpocketmine_1_1block_1_1_sponge.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,211,10],
+"d4/d2f/classpocketmine_1_1block_1_1_sponge.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,209,44],
+"d4/d2f/classpocketmine_1_1block_1_1_sponge.html#a43e3458847422ebd5dec6c914b443c93":[3,0,1,0,211,44],
+"d4/d2f/classpocketmine_1_1block_1_1_sponge.html#a444028c60ad6c7afacda1a6cc3065e59":[2,0,0,0,209,13],
 "d4/d2f/classpocketmine_1_1block_1_1_sponge.html#a444028c60ad6c7afacda1a6cc3065e59":[3,0,1,0,211,13],
 "d4/d2f/classpocketmine_1_1block_1_1_sponge.html#a49395de82d025ca78745a17528049f18":[2,0,0,0,209,52],
 "d4/d2f/classpocketmine_1_1block_1_1_sponge.html#a49395de82d025ca78745a17528049f18":[3,0,1,0,211,52],
@@ -243,11 +249,5 @@ var NAVTREEINDEX60 =
 "d4/d31/classpocketmine_1_1block_1_1_lever.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,141,27],
 "d4/d31/classpocketmine_1_1block_1_1_lever.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,143,27],
 "d4/d31/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_output_message.html":[3,0,1,16,0,6,1,2,6],
-"d4/d32/tile_2_hopper_8php_source.html":[4,0,0,0,1,21],
-"d4/d33/_potion_type_id_map_8php_source.html":[4,0,0,5,0,24],
-"d4/d34/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_player_block_action_with_block_info.html":[3,0,1,16,0,6,1,65],
-"d4/d35/_fence_gate_8php_source.html":[4,0,0,0,101],
-"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html":[2,0,0,0,203],
-"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html":[3,0,1,0,205],
-"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,203,59]
+"d4/d32/tile_2_hopper_8php_source.html":[4,0,0,0,1,21]
 };

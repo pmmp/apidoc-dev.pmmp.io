@@ -47,7 +47,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 4991;
+var viewWidth = 5001;
 var viewHeight = 4215;
 var sectionId = 'dynsection-1';
 </script>
@@ -159,90 +159,90 @@ var sectionId = 'dynsection-1';
 <g id="Node000004" class="node">
 <title>Node4</title>
 <g id="a_Node000004"><a xlink:href="../../d0/d6f/classpocketmine_1_1player_1_1_player.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="3660,-864 3509,-864 3509,-234 3660,-234 3660,-864"/>
-<text text-anchor="start" x="3522.5" y="-852" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\player\Player</text>
-<text text-anchor="start" x="3513.5" y="-837" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3526.5" y="-837" font-family="Helvetica,sans-Serif" font-size="10.00">$spawned</text>
-<text text-anchor="start" x="3513.5" y="-822" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3526.5" y="-822" font-family="Helvetica,sans-Serif" font-size="10.00">DEFAULT_FLIGHT_SPEED</text>
-<text text-anchor="start" x="3526.5" y="-811" font-family="Helvetica,sans-Serif" font-size="10.00">_MULTIPLIER</text>
-<text text-anchor="start" x="3513.5" y="-796" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3526.5" y="-796" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_FIRST_PLAYED</text>
-<text text-anchor="start" x="3513.5" y="-781" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3526.5" y="-781" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_LAST_KNOWN_XUID</text>
-<text text-anchor="start" x="3513.5" y="-766" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3526.5" y="-766" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_LAST_PLAYED</text>
-<text text-anchor="start" x="3513.5" y="-751" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3526.5" y="-751" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_LEVEL</text>
-<text text-anchor="start" x="3513.5" y="-736" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="3526.5" y="-736" font-family="Helvetica,sans-Serif" font-size="10.00">$allowFlight</text>
-<text text-anchor="start" x="3513.5" y="-721" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="3526.5" y="-721" font-family="Helvetica,sans-Serif" font-size="10.00">$authenticated</text>
-<text text-anchor="start" x="3513.5" y="-706" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="3526.5" y="-706" font-family="Helvetica,sans-Serif" font-size="10.00">$autoJump</text>
-<text text-anchor="start" x="3513.5" y="-691" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="3526.5" y="-691" font-family="Helvetica,sans-Serif" font-size="10.00">$blockCollision</text>
-<text text-anchor="start" x="3513.5" y="-676" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="3526.5" y="-676" font-family="Helvetica,sans-Serif" font-size="10.00">$chunksPerTick</text>
-<text text-anchor="start" x="3513.5" y="-661" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="3526.5" y="-661" font-family="Helvetica,sans-Serif" font-size="10.00">$displayName</text>
-<text text-anchor="start" x="3513.5" y="-646" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="3526.5" y="-646" font-family="Helvetica,sans-Serif" font-size="10.00">$firstPlayed</text>
-<text text-anchor="start" x="3513.5" y="-631" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="3526.5" y="-631" font-family="Helvetica,sans-Serif" font-size="10.00">$flightSpeedMultiplier</text>
-<text text-anchor="start" x="3513.5" y="-616" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="3526.5" y="-616" font-family="Helvetica,sans-Serif" font-size="10.00">$flying</text>
-<text text-anchor="start" x="3513.5" y="-601" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="3526.5" y="-601" font-family="Helvetica,sans-Serif" font-size="10.00">$formIdCounter</text>
-<text text-anchor="start" x="3526.5" y="-586" font-family="Helvetica,sans-Serif" font-size="10.00">and 22 more...</text>
-<text text-anchor="start" x="3513.5" y="-571" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3526.5" y="-571" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
-<text text-anchor="start" x="3513.5" y="-556" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3526.5" y="-556" font-family="Helvetica,sans-Serif" font-size="10.00">__destruct()</text>
-<text text-anchor="start" x="3513.5" y="-541" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3526.5" y="-541" font-family="Helvetica,sans-Serif" font-size="10.00">__debugInfo()</text>
-<text text-anchor="start" x="3513.5" y="-526" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3526.5" y="-526" font-family="Helvetica,sans-Serif" font-size="10.00">attack()</text>
-<text text-anchor="start" x="3513.5" y="-511" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3526.5" y="-511" font-family="Helvetica,sans-Serif" font-size="10.00">attackBlock()</text>
-<text text-anchor="start" x="3513.5" y="-496" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3526.5" y="-496" font-family="Helvetica,sans-Serif" font-size="10.00">attackEntity()</text>
-<text text-anchor="start" x="3513.5" y="-481" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3526.5" y="-481" font-family="Helvetica,sans-Serif" font-size="10.00">breakBlock()</text>
-<text text-anchor="start" x="3513.5" y="-466" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3526.5" y="-466" font-family="Helvetica,sans-Serif" font-size="10.00">broadcastAnimation()</text>
-<text text-anchor="start" x="3513.5" y="-451" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3526.5" y="-451" font-family="Helvetica,sans-Serif" font-size="10.00">broadcastSound()</text>
-<text text-anchor="start" x="3513.5" y="-436" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3526.5" y="-436" font-family="Helvetica,sans-Serif" font-size="10.00">canBeCollidedWith()</text>
-<text text-anchor="start" x="3526.5" y="-421" font-family="Helvetica,sans-Serif" font-size="10.00">and 133 more...</text>
-<text text-anchor="start" x="3513.5" y="-406" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3526.5" y="-406" font-family="Helvetica,sans-Serif" font-size="10.00">isValidUserName()</text>
-<text text-anchor="start" x="3513.5" y="-391" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="3526.5" y="-391" font-family="Helvetica,sans-Serif" font-size="10.00">actuallyRespawn()</text>
-<text text-anchor="start" x="3513.5" y="-376" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="3526.5" y="-376" font-family="Helvetica,sans-Serif" font-size="10.00">addDefaultWindows()</text>
-<text text-anchor="start" x="3513.5" y="-361" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="3526.5" y="-361" font-family="Helvetica,sans-Serif" font-size="10.00">addPermanentWindows()</text>
-<text text-anchor="start" x="3513.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="3526.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00">applyPostDamageEffects()</text>
-<text text-anchor="start" x="3513.5" y="-331" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="3526.5" y="-331" font-family="Helvetica,sans-Serif" font-size="10.00">calculateFallDamage()</text>
-<text text-anchor="start" x="3513.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="3526.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">checkGroundState()</text>
-<text text-anchor="start" x="3513.5" y="-301" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="3526.5" y="-301" font-family="Helvetica,sans-Serif" font-size="10.00">checkItemCooldowns()</text>
-<text text-anchor="start" x="3513.5" y="-286" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="3526.5" y="-286" font-family="Helvetica,sans-Serif" font-size="10.00">checkNearEntities()</text>
-<text text-anchor="start" x="3513.5" y="-271" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="3526.5" y="-271" font-family="Helvetica,sans-Serif" font-size="10.00">destroyCycles()</text>
-<text text-anchor="start" x="3513.5" y="-256" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="3526.5" y="-256" font-family="Helvetica,sans-Serif" font-size="10.00">initEntity()</text>
-<text text-anchor="start" x="3526.5" y="-241" font-family="Helvetica,sans-Serif" font-size="10.00">and 18 more...</text>
-<polygon fill="#666666" stroke="#666666" points="3509.5,-847 3509.5,-847 3660.5,-847 3660.5,-847 3509.5,-847"/>
-<polygon fill="#666666" stroke="#666666" points="3509.5,-581 3509.5,-581 3524.5,-581 3524.5,-581 3509.5,-581"/>
-<polygon fill="#666666" stroke="#666666" points="3524.5,-581 3524.5,-581 3660.5,-581 3660.5,-581 3524.5,-581"/>
-<polygon fill="none" stroke="#666666" points="3509,-234 3509,-864 3660,-864 3660,-234 3509,-234"/>
+<polygon fill="white" stroke="transparent" points="3670,-864 3519,-864 3519,-234 3670,-234 3670,-864"/>
+<text text-anchor="start" x="3532.5" y="-852" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\player\Player</text>
+<text text-anchor="start" x="3523.5" y="-837" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3536.5" y="-837" font-family="Helvetica,sans-Serif" font-size="10.00">$spawned</text>
+<text text-anchor="start" x="3523.5" y="-822" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3536.5" y="-822" font-family="Helvetica,sans-Serif" font-size="10.00">DEFAULT_FLIGHT_SPEED</text>
+<text text-anchor="start" x="3536.5" y="-811" font-family="Helvetica,sans-Serif" font-size="10.00">_MULTIPLIER</text>
+<text text-anchor="start" x="3523.5" y="-796" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3536.5" y="-796" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_FIRST_PLAYED</text>
+<text text-anchor="start" x="3523.5" y="-781" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3536.5" y="-781" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_LAST_KNOWN_XUID</text>
+<text text-anchor="start" x="3523.5" y="-766" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3536.5" y="-766" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_LAST_PLAYED</text>
+<text text-anchor="start" x="3523.5" y="-751" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3536.5" y="-751" font-family="Helvetica,sans-Serif" font-size="10.00">TAG_LEVEL</text>
+<text text-anchor="start" x="3523.5" y="-736" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="3536.5" y="-736" font-family="Helvetica,sans-Serif" font-size="10.00">$allowFlight</text>
+<text text-anchor="start" x="3523.5" y="-721" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="3536.5" y="-721" font-family="Helvetica,sans-Serif" font-size="10.00">$authenticated</text>
+<text text-anchor="start" x="3523.5" y="-706" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="3536.5" y="-706" font-family="Helvetica,sans-Serif" font-size="10.00">$autoJump</text>
+<text text-anchor="start" x="3523.5" y="-691" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="3536.5" y="-691" font-family="Helvetica,sans-Serif" font-size="10.00">$blockCollision</text>
+<text text-anchor="start" x="3523.5" y="-676" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="3536.5" y="-676" font-family="Helvetica,sans-Serif" font-size="10.00">$chunksPerTick</text>
+<text text-anchor="start" x="3523.5" y="-661" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="3536.5" y="-661" font-family="Helvetica,sans-Serif" font-size="10.00">$displayName</text>
+<text text-anchor="start" x="3523.5" y="-646" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="3536.5" y="-646" font-family="Helvetica,sans-Serif" font-size="10.00">$firstPlayed</text>
+<text text-anchor="start" x="3523.5" y="-631" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="3536.5" y="-631" font-family="Helvetica,sans-Serif" font-size="10.00">$flightSpeedMultiplier</text>
+<text text-anchor="start" x="3523.5" y="-616" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="3536.5" y="-616" font-family="Helvetica,sans-Serif" font-size="10.00">$flying</text>
+<text text-anchor="start" x="3523.5" y="-601" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="3536.5" y="-601" font-family="Helvetica,sans-Serif" font-size="10.00">$formIdCounter</text>
+<text text-anchor="start" x="3536.5" y="-586" font-family="Helvetica,sans-Serif" font-size="10.00">and 22 more...</text>
+<text text-anchor="start" x="3523.5" y="-571" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3536.5" y="-571" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
+<text text-anchor="start" x="3523.5" y="-556" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3536.5" y="-556" font-family="Helvetica,sans-Serif" font-size="10.00">__destruct()</text>
+<text text-anchor="start" x="3523.5" y="-541" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3536.5" y="-541" font-family="Helvetica,sans-Serif" font-size="10.00">__debugInfo()</text>
+<text text-anchor="start" x="3523.5" y="-526" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3536.5" y="-526" font-family="Helvetica,sans-Serif" font-size="10.00">attack()</text>
+<text text-anchor="start" x="3523.5" y="-511" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3536.5" y="-511" font-family="Helvetica,sans-Serif" font-size="10.00">attackBlock()</text>
+<text text-anchor="start" x="3523.5" y="-496" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3536.5" y="-496" font-family="Helvetica,sans-Serif" font-size="10.00">attackEntity()</text>
+<text text-anchor="start" x="3523.5" y="-481" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3536.5" y="-481" font-family="Helvetica,sans-Serif" font-size="10.00">breakBlock()</text>
+<text text-anchor="start" x="3523.5" y="-466" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3536.5" y="-466" font-family="Helvetica,sans-Serif" font-size="10.00">broadcastAnimation()</text>
+<text text-anchor="start" x="3523.5" y="-451" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3536.5" y="-451" font-family="Helvetica,sans-Serif" font-size="10.00">broadcastSound()</text>
+<text text-anchor="start" x="3523.5" y="-436" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3536.5" y="-436" font-family="Helvetica,sans-Serif" font-size="10.00">canBeCollidedWith()</text>
+<text text-anchor="start" x="3536.5" y="-421" font-family="Helvetica,sans-Serif" font-size="10.00">and 134 more...</text>
+<text text-anchor="start" x="3523.5" y="-406" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3536.5" y="-406" font-family="Helvetica,sans-Serif" font-size="10.00">isValidUserName()</text>
+<text text-anchor="start" x="3523.5" y="-391" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="3536.5" y="-391" font-family="Helvetica,sans-Serif" font-size="10.00">actuallyRespawn()</text>
+<text text-anchor="start" x="3523.5" y="-376" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="3536.5" y="-376" font-family="Helvetica,sans-Serif" font-size="10.00">addDefaultWindows()</text>
+<text text-anchor="start" x="3523.5" y="-361" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="3536.5" y="-361" font-family="Helvetica,sans-Serif" font-size="10.00">addPermanentWindows()</text>
+<text text-anchor="start" x="3523.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="3536.5" y="-346" font-family="Helvetica,sans-Serif" font-size="10.00">applyPostDamageEffects()</text>
+<text text-anchor="start" x="3523.5" y="-331" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="3536.5" y="-331" font-family="Helvetica,sans-Serif" font-size="10.00">calculateFallDamage()</text>
+<text text-anchor="start" x="3523.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="3536.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">checkGroundState()</text>
+<text text-anchor="start" x="3523.5" y="-301" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="3536.5" y="-301" font-family="Helvetica,sans-Serif" font-size="10.00">checkItemCooldowns()</text>
+<text text-anchor="start" x="3523.5" y="-286" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="3536.5" y="-286" font-family="Helvetica,sans-Serif" font-size="10.00">checkNearEntities()</text>
+<text text-anchor="start" x="3523.5" y="-271" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="3536.5" y="-271" font-family="Helvetica,sans-Serif" font-size="10.00">destroyCycles()</text>
+<text text-anchor="start" x="3523.5" y="-256" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="3536.5" y="-256" font-family="Helvetica,sans-Serif" font-size="10.00">initEntity()</text>
+<text text-anchor="start" x="3536.5" y="-241" font-family="Helvetica,sans-Serif" font-size="10.00">and 18 more...</text>
+<polygon fill="#666666" stroke="#666666" points="3519.5,-847 3519.5,-847 3670.5,-847 3670.5,-847 3519.5,-847"/>
+<polygon fill="#666666" stroke="#666666" points="3519.5,-581 3519.5,-581 3534.5,-581 3534.5,-581 3519.5,-581"/>
+<polygon fill="#666666" stroke="#666666" points="3534.5,-581 3534.5,-581 3670.5,-581 3670.5,-581 3534.5,-581"/>
+<polygon fill="none" stroke="#666666" points="3519,-234 3519,-864 3670,-864 3670,-234 3519,-234"/>
 </a>
 </g>
 </g>
@@ -250,11 +250,11 @@ var sectionId = 'dynsection-1';
 <g id="edge3_Node000002_Node000004" class="edge">
 <title>Node4&#45;&gt;Node2</title>
 <g id="a_edge3_Node000002_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M3508.62,-539.54C3048.17,-488.19 632.84,-218.82 165.75,-166.73"/>
-<polygon fill="none" stroke="#63b8ff" points="165.71,-166.72 159.31,-170.03 153.79,-165.39 160.19,-162.08 165.71,-166.72"/>
+<path fill="none" stroke="#63b8ff" d="M3518.81,-539.58C3057.96,-488.33 633.38,-218.7 165.64,-166.69"/>
+<polygon fill="none" stroke="#63b8ff" points="165.58,-166.68 159.18,-170 153.66,-165.36 160.06,-162.04 165.58,-166.68"/>
 </a>
 </g>
-<text text-anchor="middle" x="620" y="-208" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$player</text>
+<text text-anchor="middle" x="622" y="-208" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$player</text>
 </g>
 <!-- Node5 -->
 <g id="Node000005" class="node">
@@ -316,8 +316,8 @@ var sectionId = 'dynsection-1';
 <g id="edge4_Node000004_Node000005" class="edge">
 <title>Node5&#45;&gt;Node4</title>
 <g id="a_edge4_Node000004_Node000005"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M2330.35,-1041.85C2418.92,-999.42 2559.98,-933.4 2684.5,-882 2986.03,-757.52 3353.03,-629.17 3508.78,-575.74"/>
-<polygon fill="none" stroke="#63b8ff" points="2328.65,-1038.78 2321.15,-1046.27 2331.68,-1045.1 2328.65,-1038.78"/>
+<path fill="none" stroke="#63b8ff" d="M2330.31,-1041.76C2418.86,-999.25 2559.89,-933.18 2684.5,-882 2989.79,-756.61 3361.8,-628.36 3518.82,-575.32"/>
+<polygon fill="none" stroke="#63b8ff" points="2328.61,-1038.69 2321.11,-1046.18 2331.64,-1045 2328.61,-1038.69"/>
 </a>
 </g>
 </g>
@@ -771,8 +771,8 @@ var sectionId = 'dynsection-1';
 <g id="edge56_Node000004_Node000013" class="edge">
 <title>Node13&#45;&gt;Node4</title>
 <g id="a_edge56_Node000004_Node000013"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M659.63,-3982.7C881.88,-3955.4 1571.5,-3855.15 1571.5,-3662.5 1571.5,-3662.5 1571.5,-3662.5 1571.5,-1084.5 1571.5,-679.96 3109.37,-574.26 3496.75,-554.05"/>
-<polygon fill="none" stroke="#63b8ff" points="3496.97,-554.04 3502.76,-549.73 3508.96,-553.42 3503.17,-557.72 3496.97,-554.04"/>
+<path fill="none" stroke="#63b8ff" d="M659.63,-3982.7C881.88,-3955.4 1571.5,-3855.15 1571.5,-3662.5 1571.5,-3662.5 1571.5,-3662.5 1571.5,-1084.5 1571.5,-677.97 3117.87,-573.73 3506.64,-553.94"/>
+<polygon fill="none" stroke="#63b8ff" points="3506.9,-553.93 3512.7,-549.63 3518.89,-553.33 3513.1,-557.62 3506.9,-553.93"/>
 </a>
 </g>
 <text text-anchor="middle" x="1601" y="-2422.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$sleeping</text>
@@ -1477,11 +1477,11 @@ var sectionId = 'dynsection-1';
 <g id="edge49_Node000004_Node000030" class="edge">
 <title>Node30&#45;&gt;Node4</title>
 <g id="a_edge49_Node000004_Node000030"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M2863.15,-3985.73C3120.28,-3967.28 3953.5,-3889.96 3953.5,-3662.5 3953.5,-3662.5 3953.5,-3662.5 3953.5,-1084.5 3953.5,-1006.93 3967.51,-981.2 3934.5,-911 3875.01,-784.48 3752.97,-674.97 3669.92,-610.71"/>
-<polygon fill="none" stroke="#63b8ff" points="3669.77,-610.59 3662.58,-610.11 3660.25,-603.29 3667.44,-603.77 3669.77,-610.59"/>
+<path fill="none" stroke="#63b8ff" d="M2863.34,-3985.89C3122.15,-3967.93 3963.5,-3891.9 3963.5,-3662.5 3963.5,-3662.5 3963.5,-3662.5 3963.5,-1084.5 3963.5,-1006.93 3977.51,-981.2 3944.5,-911 3885.01,-784.48 3762.97,-674.97 3679.92,-610.71"/>
+<polygon fill="none" stroke="#63b8ff" points="3679.77,-610.59 3672.58,-610.11 3670.25,-603.29 3677.44,-603.77 3679.77,-610.59"/>
 </a>
 </g>
-<text text-anchor="middle" x="4000.5" y="-2422.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$cursorInventory</text>
+<text text-anchor="middle" x="4010.5" y="-2422.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$cursorInventory</text>
 </g>
 <!-- Node30&#45;&gt;Node5 -->
 <g id="edge36_Node000005_Node000030" class="edge">
@@ -1822,25 +1822,27 @@ var sectionId = 'dynsection-1';
 <g id="Node000040" class="node">
 <title>Node40</title>
 <g id="a_Node000040"><a xlink:href="../../d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="2856.5,-1153 2726.5,-1153 2726.5,-1018 2856.5,-1018 2856.5,-1153"/>
-<text text-anchor="start" x="2737" y="-1140.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\command</text>
-<text text-anchor="start" x="2747.5" y="-1129.5" font-family="Helvetica,sans-Serif" font-size="10.00">\CommandSender</text>
-<text text-anchor="start" x="2789.5" y="-1114.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="2730.5" y="-1099.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="2743.5" y="-1099.5" font-family="Helvetica,sans-Serif" font-size="10.00">getLanguage()</text>
-<text text-anchor="start" x="2730.5" y="-1084.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="2743.5" y="-1084.5" font-family="Helvetica,sans-Serif" font-size="10.00">getName()</text>
-<text text-anchor="start" x="2730.5" y="-1069.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="2743.5" y="-1069.5" font-family="Helvetica,sans-Serif" font-size="10.00">getScreenLineHeight()</text>
-<text text-anchor="start" x="2730.5" y="-1054.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="2743.5" y="-1054.5" font-family="Helvetica,sans-Serif" font-size="10.00">getServer()</text>
-<text text-anchor="start" x="2730.5" y="-1039.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="2743.5" y="-1039.5" font-family="Helvetica,sans-Serif" font-size="10.00">sendMessage()</text>
-<text text-anchor="start" x="2730.5" y="-1024.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="2743.5" y="-1024.5" font-family="Helvetica,sans-Serif" font-size="10.00">setScreenLineHeight()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="2726.5,-1124.5 2726.5,-1124.5 2856.5,-1124.5 2856.5,-1124.5 2726.5,-1124.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="2726.5,-1109.5 2726.5,-1109.5 2856.5,-1109.5 2856.5,-1109.5 2726.5,-1109.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="2726.5,-1018 2726.5,-1153 2856.5,-1153 2856.5,-1018 2726.5,-1018"/>
+<polygon fill="white" stroke="transparent" points="2866.5,-1160.5 2726.5,-1160.5 2726.5,-1010.5 2866.5,-1010.5 2866.5,-1160.5"/>
+<text text-anchor="start" x="2742" y="-1148.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\command</text>
+<text text-anchor="start" x="2752.5" y="-1137.5" font-family="Helvetica,sans-Serif" font-size="10.00">\CommandSender</text>
+<text text-anchor="start" x="2794.5" y="-1122.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="2730.5" y="-1107.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="2743.5" y="-1107.5" font-family="Helvetica,sans-Serif" font-size="10.00">getCommandAliasMap()</text>
+<text text-anchor="start" x="2730.5" y="-1092.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="2743.5" y="-1092.5" font-family="Helvetica,sans-Serif" font-size="10.00">getLanguage()</text>
+<text text-anchor="start" x="2730.5" y="-1077.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="2743.5" y="-1077.5" font-family="Helvetica,sans-Serif" font-size="10.00">getName()</text>
+<text text-anchor="start" x="2730.5" y="-1062.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="2743.5" y="-1062.5" font-family="Helvetica,sans-Serif" font-size="10.00">getScreenLineHeight()</text>
+<text text-anchor="start" x="2730.5" y="-1047.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="2743.5" y="-1047.5" font-family="Helvetica,sans-Serif" font-size="10.00">getServer()</text>
+<text text-anchor="start" x="2730.5" y="-1032.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="2743.5" y="-1032.5" font-family="Helvetica,sans-Serif" font-size="10.00">sendMessage()</text>
+<text text-anchor="start" x="2730.5" y="-1017.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="2743.5" y="-1017.5" font-family="Helvetica,sans-Serif" font-size="10.00">setScreenLineHeight()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="2726.5,-1132.5 2726.5,-1132.5 2866.5,-1132.5 2866.5,-1132.5 2726.5,-1132.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="2726.5,-1117.5 2726.5,-1117.5 2866.5,-1117.5 2866.5,-1117.5 2726.5,-1117.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="2726.5,-1010.5 2726.5,-1160.5 2866.5,-1160.5 2866.5,-1010.5 2726.5,-1010.5"/>
 </a>
 </g>
 </g>
@@ -1848,8 +1850,8 @@ var sectionId = 'dynsection-1';
 <g id="edge41_Node000004_Node000040" class="edge">
 <title>Node40&#45;&gt;Node4</title>
 <g id="a_edge41_Node000004_Node000040"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M2811.16,-1008.09C2822.68,-975.14 2840.09,-938.04 2865.5,-911 3050.1,-714.55 3365.02,-609.13 3508.84,-569.14"/>
-<polygon fill="none" stroke="#63b8ff" points="2807.79,-1007.12 2807.92,-1017.71 2814.43,-1009.35 2807.79,-1007.12"/>
+<path fill="none" stroke="#63b8ff" d="M2821.33,-1000.86C2833.74,-969.8 2851.37,-936.07 2875.5,-911 3062.34,-716.92 3375.77,-610.37 3518.99,-569.62"/>
+<polygon fill="none" stroke="#63b8ff" points="2817.98,-999.81 2817.65,-1010.4 2824.52,-1002.33 2817.98,-999.81"/>
 </a>
 </g>
 </g>
@@ -1890,8 +1892,8 @@ var sectionId = 'dynsection-1';
 <g id="edge42_Node000040_Node000041" class="edge">
 <title>Node41&#45;&gt;Node40</title>
 <g id="a_edge42_Node000040_Node000041"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M2873.97,-1486.57C2853.34,-1386.47 2822.81,-1238.39 2805.26,-1153.27"/>
-<polygon fill="none" stroke="#63b8ff" points="2870.55,-1487.32 2876,-1496.4 2877.41,-1485.9 2870.55,-1487.32"/>
+<path fill="none" stroke="#63b8ff" d="M2875,-1486.54C2855.91,-1389.25 2827.92,-1246.64 2811.03,-1160.57"/>
+<polygon fill="none" stroke="#63b8ff" points="2871.58,-1487.26 2876.94,-1496.4 2878.45,-1485.92 2871.58,-1487.26"/>
 </a>
 </g>
 </g>
@@ -1899,22 +1901,22 @@ var sectionId = 'dynsection-1';
 <g id="Node000042" class="node">
 <title>Node42</title>
 <g id="a_Node000042"><a xlink:href="../../de/dac/interfacepocketmine_1_1world_1_1_chunk_listener.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="3044.5,-1140 2874.5,-1140 2874.5,-1031 3044.5,-1031 3044.5,-1140"/>
-<text text-anchor="start" x="2879.5" y="-1127.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\ChunkListener</text>
-<text text-anchor="start" x="2957.5" y="-1112.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="2890.5" y="-1097.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="2915.5" y="-1097.5" font-family="Helvetica,sans-Serif" font-size="10.00">onBlockChanged()</text>
-<text text-anchor="start" x="2890.5" y="-1082.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="2915.5" y="-1082.5" font-family="Helvetica,sans-Serif" font-size="10.00">onChunkChanged()</text>
-<text text-anchor="start" x="2890.5" y="-1067.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="2915.5" y="-1067.5" font-family="Helvetica,sans-Serif" font-size="10.00">onChunkLoaded()</text>
-<text text-anchor="start" x="2890.5" y="-1052.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="2915.5" y="-1052.5" font-family="Helvetica,sans-Serif" font-size="10.00">onChunkPopulated()</text>
-<text text-anchor="start" x="2890.5" y="-1037.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="2915.5" y="-1037.5" font-family="Helvetica,sans-Serif" font-size="10.00">onChunkUnloaded()</text>
-<polygon fill="#666666" stroke="#666666" points="2874.5,-1122.5 2874.5,-1122.5 3044.5,-1122.5 3044.5,-1122.5 2874.5,-1122.5"/>
-<polygon fill="#666666" stroke="#666666" points="2874.5,-1107.5 2874.5,-1107.5 3044.5,-1107.5 3044.5,-1107.5 2874.5,-1107.5"/>
-<polygon fill="none" stroke="#666666" points="2874.5,-1031 2874.5,-1140 3044.5,-1140 3044.5,-1031 2874.5,-1031"/>
+<polygon fill="white" stroke="transparent" points="3054.5,-1140 2884.5,-1140 2884.5,-1031 3054.5,-1031 3054.5,-1140"/>
+<text text-anchor="start" x="2889.5" y="-1127.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\ChunkListener</text>
+<text text-anchor="start" x="2967.5" y="-1112.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="2900.5" y="-1097.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="2925.5" y="-1097.5" font-family="Helvetica,sans-Serif" font-size="10.00">onBlockChanged()</text>
+<text text-anchor="start" x="2900.5" y="-1082.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="2925.5" y="-1082.5" font-family="Helvetica,sans-Serif" font-size="10.00">onChunkChanged()</text>
+<text text-anchor="start" x="2900.5" y="-1067.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="2925.5" y="-1067.5" font-family="Helvetica,sans-Serif" font-size="10.00">onChunkLoaded()</text>
+<text text-anchor="start" x="2900.5" y="-1052.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="2925.5" y="-1052.5" font-family="Helvetica,sans-Serif" font-size="10.00">onChunkPopulated()</text>
+<text text-anchor="start" x="2900.5" y="-1037.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="2925.5" y="-1037.5" font-family="Helvetica,sans-Serif" font-size="10.00">onChunkUnloaded()</text>
+<polygon fill="#666666" stroke="#666666" points="2884.5,-1122.5 2884.5,-1122.5 3054.5,-1122.5 3054.5,-1122.5 2884.5,-1122.5"/>
+<polygon fill="#666666" stroke="#666666" points="2884.5,-1107.5 2884.5,-1107.5 3054.5,-1107.5 3054.5,-1107.5 2884.5,-1107.5"/>
+<polygon fill="none" stroke="#666666" points="2884.5,-1031 2884.5,-1140 3054.5,-1140 3054.5,-1031 2884.5,-1031"/>
 </a>
 </g>
 </g>
@@ -1922,8 +1924,8 @@ var sectionId = 'dynsection-1';
 <g id="edge43_Node000004_Node000042" class="edge">
 <title>Node42&#45;&gt;Node4</title>
 <g id="a_edge43_Node000004_Node000042"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M2984.77,-1021.43C3000.91,-986.32 3024.29,-943.31 3053.5,-911 3188.63,-761.54 3397.65,-643.17 3508.86,-586.5"/>
-<polygon fill="none" stroke="#63b8ff" points="2981.54,-1020.09 2980.62,-1030.64 2987.92,-1022.96 2981.54,-1020.09"/>
+<path fill="none" stroke="#63b8ff" d="M2994.77,-1021.43C3010.91,-986.32 3034.29,-943.31 3063.5,-911 3198.63,-761.54 3407.65,-643.17 3518.86,-586.5"/>
+<polygon fill="none" stroke="#63b8ff" points="2991.54,-1020.09 2990.62,-1030.64 2997.92,-1022.96 2991.54,-1020.09"/>
 </a>
 </g>
 </g>
@@ -1931,20 +1933,20 @@ var sectionId = 'dynsection-1';
 <g id="Node000043" class="node">
 <title>Node43</title>
 <g id="a_Node000043"><a xlink:href="../../d2/df5/interfacepocketmine_1_1player_1_1_i_player.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="3200.5,-1132.5 3062.5,-1132.5 3062.5,-1038.5 3200.5,-1038.5 3200.5,-1132.5"/>
-<text text-anchor="start" x="3067.5" y="-1120.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\player\IPlayer</text>
-<text text-anchor="start" x="3129.5" y="-1105.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="3073" y="-1090.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3092.5" y="-1090.5" font-family="Helvetica,sans-Serif" font-size="10.00">getFirstPlayed()</text>
-<text text-anchor="start" x="3073" y="-1075.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3092.5" y="-1075.5" font-family="Helvetica,sans-Serif" font-size="10.00">getLastPlayed()</text>
-<text text-anchor="start" x="3073" y="-1060.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3092.5" y="-1060.5" font-family="Helvetica,sans-Serif" font-size="10.00">getName()</text>
-<text text-anchor="start" x="3073" y="-1045.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3092.5" y="-1045.5" font-family="Helvetica,sans-Serif" font-size="10.00">hasPlayedBefore()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="3062.5,-1115.5 3062.5,-1115.5 3200.5,-1115.5 3200.5,-1115.5 3062.5,-1115.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="3062.5,-1100.5 3062.5,-1100.5 3200.5,-1100.5 3200.5,-1100.5 3062.5,-1100.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="3062.5,-1038.5 3062.5,-1132.5 3200.5,-1132.5 3200.5,-1038.5 3062.5,-1038.5"/>
+<polygon fill="white" stroke="transparent" points="3210.5,-1132.5 3072.5,-1132.5 3072.5,-1038.5 3210.5,-1038.5 3210.5,-1132.5"/>
+<text text-anchor="start" x="3077.5" y="-1120.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\player\IPlayer</text>
+<text text-anchor="start" x="3139.5" y="-1105.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="3083" y="-1090.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3102.5" y="-1090.5" font-family="Helvetica,sans-Serif" font-size="10.00">getFirstPlayed()</text>
+<text text-anchor="start" x="3083" y="-1075.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3102.5" y="-1075.5" font-family="Helvetica,sans-Serif" font-size="10.00">getLastPlayed()</text>
+<text text-anchor="start" x="3083" y="-1060.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3102.5" y="-1060.5" font-family="Helvetica,sans-Serif" font-size="10.00">getName()</text>
+<text text-anchor="start" x="3083" y="-1045.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3102.5" y="-1045.5" font-family="Helvetica,sans-Serif" font-size="10.00">hasPlayedBefore()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="3072.5,-1115.5 3072.5,-1115.5 3210.5,-1115.5 3210.5,-1115.5 3072.5,-1115.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="3072.5,-1100.5 3072.5,-1100.5 3210.5,-1100.5 3210.5,-1100.5 3072.5,-1100.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="3072.5,-1038.5 3072.5,-1132.5 3210.5,-1132.5 3210.5,-1038.5 3072.5,-1038.5"/>
 </a>
 </g>
 </g>
@@ -1952,8 +1954,8 @@ var sectionId = 'dynsection-1';
 <g id="edge44_Node000004_Node000043" class="edge">
 <title>Node43&#45;&gt;Node4</title>
 <g id="a_edge44_Node000004_Node000043"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M3150.81,-1028.45C3164.49,-993 3184.92,-947.2 3210.5,-911 3296.43,-789.4 3426.96,-674.58 3508.9,-608.32"/>
-<polygon fill="none" stroke="#63b8ff" points="3147.41,-1027.57 3147.14,-1038.16 3153.95,-1030.05 3147.41,-1027.57"/>
+<path fill="none" stroke="#63b8ff" d="M3160.81,-1028.45C3174.49,-993 3194.92,-947.2 3220.5,-911 3306.43,-789.4 3436.96,-674.58 3518.9,-608.32"/>
+<polygon fill="none" stroke="#63b8ff" points="3157.41,-1027.57 3157.14,-1038.16 3163.95,-1030.05 3157.41,-1027.57"/>
 </a>
 </g>
 </g>
@@ -1961,14 +1963,14 @@ var sectionId = 'dynsection-1';
 <g id="Node000044" class="node">
 <title>Node44</title>
 <g id="a_Node000044"><a xlink:href="../../d2/dc0/interfacepocketmine_1_1entity_1_1_never_saved_with_chunk_entity.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="3380,-1115.5 3219,-1115.5 3219,-1055.5 3380,-1055.5 3380,-1115.5"/>
-<text text-anchor="start" x="3224.5" y="-1103.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\entity\NeverSaved</text>
-<text text-anchor="start" x="3259" y="-1092.5" font-family="Helvetica,sans-Serif" font-size="10.00">WithChunkEntity</text>
-<text text-anchor="start" x="3298" y="-1077.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="3298" y="-1062.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polygon fill="#666666" stroke="#666666" points="3219.5,-1087.5 3219.5,-1087.5 3380.5,-1087.5 3380.5,-1087.5 3219.5,-1087.5"/>
-<polygon fill="#666666" stroke="#666666" points="3219.5,-1072.5 3219.5,-1072.5 3380.5,-1072.5 3380.5,-1072.5 3219.5,-1072.5"/>
-<polygon fill="none" stroke="#666666" points="3219,-1055.5 3219,-1115.5 3380,-1115.5 3380,-1055.5 3219,-1055.5"/>
+<polygon fill="white" stroke="transparent" points="3390,-1115.5 3229,-1115.5 3229,-1055.5 3390,-1055.5 3390,-1115.5"/>
+<text text-anchor="start" x="3234.5" y="-1103.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\entity\NeverSaved</text>
+<text text-anchor="start" x="3269" y="-1092.5" font-family="Helvetica,sans-Serif" font-size="10.00">WithChunkEntity</text>
+<text text-anchor="start" x="3308" y="-1077.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="3308" y="-1062.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="#666666" stroke="#666666" points="3229.5,-1087.5 3229.5,-1087.5 3390.5,-1087.5 3390.5,-1087.5 3229.5,-1087.5"/>
+<polygon fill="#666666" stroke="#666666" points="3229.5,-1072.5 3229.5,-1072.5 3390.5,-1072.5 3390.5,-1072.5 3229.5,-1072.5"/>
+<polygon fill="none" stroke="#666666" points="3229,-1055.5 3229,-1115.5 3390,-1115.5 3390,-1055.5 3229,-1055.5"/>
 </a>
 </g>
 </g>
@@ -1976,8 +1978,8 @@ var sectionId = 'dynsection-1';
 <g id="edge45_Node000004_Node000044" class="edge">
 <title>Node44&#45;&gt;Node4</title>
 <g id="a_edge45_Node000004_Node000044"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M3319.09,-1046.28C3337.2,-1011.06 3364.94,-957.39 3389.5,-911 3428.49,-837.34 3472.58,-755.61 3508.95,-688.56"/>
-<polygon fill="none" stroke="#63b8ff" points="3315.94,-1044.76 3314.48,-1055.26 3322.16,-1047.96 3315.94,-1044.76"/>
+<path fill="none" stroke="#63b8ff" d="M3329.09,-1046.28C3347.2,-1011.06 3374.94,-957.39 3399.5,-911 3438.49,-837.34 3482.58,-755.61 3518.95,-688.56"/>
+<polygon fill="none" stroke="#63b8ff" points="3325.94,-1044.76 3324.48,-1055.26 3332.16,-1047.96 3325.94,-1044.76"/>
 </a>
 </g>
 </g>
@@ -1985,38 +1987,38 @@ var sectionId = 'dynsection-1';
 <g id="Node000045" class="node">
 <title>Node45</title>
 <g id="a_Node000045"><a xlink:href="../../de/d3a/classpocketmine_1_1network_1_1mcpe_1_1_network_session.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="3583,-1205.5 3398,-1205.5 3398,-965.5 3583,-965.5 3583,-1205.5"/>
-<text text-anchor="start" x="3435" y="-1193.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
-<text text-anchor="start" x="3435" y="-1182.5" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\NetworkSession</text>
-<text text-anchor="start" x="3489" y="-1167.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="3402.5" y="-1152.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3415.5" y="-1152.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
-<text text-anchor="start" x="3402.5" y="-1137.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3415.5" y="-1137.5" font-family="Helvetica,sans-Serif" font-size="10.00">addToSendBuffer()</text>
-<text text-anchor="start" x="3402.5" y="-1122.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3415.5" y="-1122.5" font-family="Helvetica,sans-Serif" font-size="10.00">disconnect()</text>
-<text text-anchor="start" x="3402.5" y="-1107.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3415.5" y="-1107.5" font-family="Helvetica,sans-Serif" font-size="10.00">disconnectIncompatibleProtocol()</text>
-<text text-anchor="start" x="3402.5" y="-1092.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3415.5" y="-1092.5" font-family="Helvetica,sans-Serif" font-size="10.00">disconnectWithError()</text>
-<text text-anchor="start" x="3402.5" y="-1077.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3415.5" y="-1077.5" font-family="Helvetica,sans-Serif" font-size="10.00">getBroadcaster()</text>
-<text text-anchor="start" x="3402.5" y="-1062.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3415.5" y="-1062.5" font-family="Helvetica,sans-Serif" font-size="10.00">getCompressor()</text>
-<text text-anchor="start" x="3402.5" y="-1047.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3415.5" y="-1047.5" font-family="Helvetica,sans-Serif" font-size="10.00">getDisplayName()</text>
-<text text-anchor="start" x="3402.5" y="-1032.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3415.5" y="-1032.5" font-family="Helvetica,sans-Serif" font-size="10.00">getEntityEventBroadcaster()</text>
-<text text-anchor="start" x="3402.5" y="-1017.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3415.5" y="-1017.5" font-family="Helvetica,sans-Serif" font-size="10.00">getHandler()</text>
-<text text-anchor="start" x="3415.5" y="-1002.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 57 more...</text>
-<text text-anchor="start" x="3402.5" y="-987.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3415.5" y="-987.5" font-family="Helvetica,sans-Serif" font-size="10.00">encodePacketTimed()</text>
-<text text-anchor="start" x="3402.5" y="-972.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="3415.5" y="-972.5" font-family="Helvetica,sans-Serif" font-size="10.00">createPlayer()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="3398.5,-1177.5 3398.5,-1177.5 3583.5,-1177.5 3583.5,-1177.5 3398.5,-1177.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="3398.5,-1162.5 3398.5,-1162.5 3583.5,-1162.5 3583.5,-1162.5 3398.5,-1162.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="3398,-965.5 3398,-1205.5 3583,-1205.5 3583,-965.5 3398,-965.5"/>
+<polygon fill="white" stroke="transparent" points="3593,-1205.5 3408,-1205.5 3408,-965.5 3593,-965.5 3593,-1205.5"/>
+<text text-anchor="start" x="3445" y="-1193.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\network</text>
+<text text-anchor="start" x="3445" y="-1182.5" font-family="Helvetica,sans-Serif" font-size="10.00">\mcpe\NetworkSession</text>
+<text text-anchor="start" x="3499" y="-1167.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="3412.5" y="-1152.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3425.5" y="-1152.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
+<text text-anchor="start" x="3412.5" y="-1137.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3425.5" y="-1137.5" font-family="Helvetica,sans-Serif" font-size="10.00">addToSendBuffer()</text>
+<text text-anchor="start" x="3412.5" y="-1122.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3425.5" y="-1122.5" font-family="Helvetica,sans-Serif" font-size="10.00">disconnect()</text>
+<text text-anchor="start" x="3412.5" y="-1107.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3425.5" y="-1107.5" font-family="Helvetica,sans-Serif" font-size="10.00">disconnectIncompatibleProtocol()</text>
+<text text-anchor="start" x="3412.5" y="-1092.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3425.5" y="-1092.5" font-family="Helvetica,sans-Serif" font-size="10.00">disconnectWithError()</text>
+<text text-anchor="start" x="3412.5" y="-1077.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3425.5" y="-1077.5" font-family="Helvetica,sans-Serif" font-size="10.00">getBroadcaster()</text>
+<text text-anchor="start" x="3412.5" y="-1062.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3425.5" y="-1062.5" font-family="Helvetica,sans-Serif" font-size="10.00">getCompressor()</text>
+<text text-anchor="start" x="3412.5" y="-1047.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3425.5" y="-1047.5" font-family="Helvetica,sans-Serif" font-size="10.00">getDisplayName()</text>
+<text text-anchor="start" x="3412.5" y="-1032.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3425.5" y="-1032.5" font-family="Helvetica,sans-Serif" font-size="10.00">getEntityEventBroadcaster()</text>
+<text text-anchor="start" x="3412.5" y="-1017.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3425.5" y="-1017.5" font-family="Helvetica,sans-Serif" font-size="10.00">getHandler()</text>
+<text text-anchor="start" x="3425.5" y="-1002.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 57 more...</text>
+<text text-anchor="start" x="3412.5" y="-987.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3425.5" y="-987.5" font-family="Helvetica,sans-Serif" font-size="10.00">encodePacketTimed()</text>
+<text text-anchor="start" x="3412.5" y="-972.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="3425.5" y="-972.5" font-family="Helvetica,sans-Serif" font-size="10.00">createPlayer()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="3408.5,-1177.5 3408.5,-1177.5 3593.5,-1177.5 3593.5,-1177.5 3408.5,-1177.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="3408.5,-1162.5 3408.5,-1162.5 3593.5,-1162.5 3593.5,-1162.5 3408.5,-1162.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="3408,-965.5 3408,-1205.5 3593,-1205.5 3593,-965.5 3408,-965.5"/>
 </a>
 </g>
 </g>
@@ -2024,34 +2026,34 @@ var sectionId = 'dynsection-1';
 <g id="edge46_Node000004_Node000045" class="edge">
 <title>Node45&#45;&gt;Node4</title>
 <g id="a_edge46_Node000004_Node000045"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M3511.48,-965.21C3516.28,-937.93 3521.6,-907.64 3527.13,-876.21"/>
-<polygon fill="none" stroke="#63b8ff" points="3527.18,-875.93 3524.28,-869.33 3529.26,-864.12 3532.16,-870.72 3527.18,-875.93"/>
+<path fill="none" stroke="#63b8ff" d="M3521.48,-965.21C3526.28,-937.93 3531.6,-907.64 3537.13,-876.21"/>
+<polygon fill="none" stroke="#63b8ff" points="3537.18,-875.93 3534.28,-869.33 3539.26,-864.12 3542.16,-870.72 3537.18,-875.93"/>
 </a>
 </g>
-<text text-anchor="middle" x="3572" y="-885" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$networkSession</text>
+<text text-anchor="middle" x="3582" y="-885" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$networkSession</text>
 </g>
 <!-- Node46 -->
 <g id="Node000046" class="node">
 <title>Node46</title>
 <g id="a_Node000046"><a xlink:href="../../d2/d93/classpocketmine_1_1player_1_1_player_info.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="3755.5,-1147.5 3601.5,-1147.5 3601.5,-1023.5 3755.5,-1023.5 3755.5,-1147.5"/>
-<text text-anchor="start" x="3606.5" y="-1135.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\player\PlayerInfo</text>
-<text text-anchor="start" x="3676.5" y="-1120.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="3620" y="-1105.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3647.5" y="-1105.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
-<text text-anchor="start" x="3620" y="-1090.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3647.5" y="-1090.5" font-family="Helvetica,sans-Serif" font-size="10.00">getExtraData()</text>
-<text text-anchor="start" x="3620" y="-1075.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3647.5" y="-1075.5" font-family="Helvetica,sans-Serif" font-size="10.00">getLocale()</text>
-<text text-anchor="start" x="3620" y="-1060.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3647.5" y="-1060.5" font-family="Helvetica,sans-Serif" font-size="10.00">getSkin()</text>
-<text text-anchor="start" x="3620" y="-1045.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3647.5" y="-1045.5" font-family="Helvetica,sans-Serif" font-size="10.00">getUsername()</text>
-<text text-anchor="start" x="3620" y="-1030.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3647.5" y="-1030.5" font-family="Helvetica,sans-Serif" font-size="10.00">getUuid()</text>
-<polygon fill="#666666" stroke="#666666" points="3601.5,-1130.5 3601.5,-1130.5 3755.5,-1130.5 3755.5,-1130.5 3601.5,-1130.5"/>
-<polygon fill="#666666" stroke="#666666" points="3601.5,-1115.5 3601.5,-1115.5 3755.5,-1115.5 3755.5,-1115.5 3601.5,-1115.5"/>
-<polygon fill="none" stroke="#666666" points="3601.5,-1023.5 3601.5,-1147.5 3755.5,-1147.5 3755.5,-1023.5 3601.5,-1023.5"/>
+<polygon fill="white" stroke="transparent" points="3765.5,-1147.5 3611.5,-1147.5 3611.5,-1023.5 3765.5,-1023.5 3765.5,-1147.5"/>
+<text text-anchor="start" x="3616.5" y="-1135.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\player\PlayerInfo</text>
+<text text-anchor="start" x="3686.5" y="-1120.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="3630" y="-1105.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3657.5" y="-1105.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
+<text text-anchor="start" x="3630" y="-1090.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3657.5" y="-1090.5" font-family="Helvetica,sans-Serif" font-size="10.00">getExtraData()</text>
+<text text-anchor="start" x="3630" y="-1075.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3657.5" y="-1075.5" font-family="Helvetica,sans-Serif" font-size="10.00">getLocale()</text>
+<text text-anchor="start" x="3630" y="-1060.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3657.5" y="-1060.5" font-family="Helvetica,sans-Serif" font-size="10.00">getSkin()</text>
+<text text-anchor="start" x="3630" y="-1045.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3657.5" y="-1045.5" font-family="Helvetica,sans-Serif" font-size="10.00">getUsername()</text>
+<text text-anchor="start" x="3630" y="-1030.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3657.5" y="-1030.5" font-family="Helvetica,sans-Serif" font-size="10.00">getUuid()</text>
+<polygon fill="#666666" stroke="#666666" points="3611.5,-1130.5 3611.5,-1130.5 3765.5,-1130.5 3765.5,-1130.5 3611.5,-1130.5"/>
+<polygon fill="#666666" stroke="#666666" points="3611.5,-1115.5 3611.5,-1115.5 3765.5,-1115.5 3765.5,-1115.5 3611.5,-1115.5"/>
+<polygon fill="none" stroke="#666666" points="3611.5,-1023.5 3611.5,-1147.5 3765.5,-1147.5 3765.5,-1023.5 3611.5,-1023.5"/>
 </a>
 </g>
 </g>
@@ -2059,33 +2061,33 @@ var sectionId = 'dynsection-1';
 <g id="edge47_Node000004_Node000046" class="edge">
 <title>Node46&#45;&gt;Node4</title>
 <g id="a_edge47_Node000004_Node000046"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M3667.76,-1023.45C3661.03,-985.15 3651.76,-932.47 3641.85,-876.11"/>
-<polygon fill="none" stroke="#63b8ff" points="3641.81,-875.85 3636.83,-870.64 3639.73,-864.04 3644.71,-869.25 3641.81,-875.85"/>
+<path fill="none" stroke="#63b8ff" d="M3677.76,-1023.45C3671.03,-985.15 3661.76,-932.47 3651.85,-876.11"/>
+<polygon fill="none" stroke="#63b8ff" points="3651.81,-875.85 3646.83,-870.64 3649.73,-864.04 3654.71,-869.25 3651.81,-875.85"/>
 </a>
 </g>
-<text text-anchor="middle" x="3677" y="-885" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$playerInfo</text>
+<text text-anchor="middle" x="3687" y="-885" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$playerInfo</text>
 </g>
 <!-- Node47 -->
 <g id="Node000047" class="node">
 <title>Node47</title>
 <g id="a_Node000047"><a xlink:href="../../d4/d5e/classpocketmine_1_1player_1_1_inventory_window.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="3925,-1145.5 3774,-1145.5 3774,-1025.5 3925,-1025.5 3925,-1145.5"/>
-<text text-anchor="start" x="3779.5" y="-1133.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\player\Inventory</text>
-<text text-anchor="start" x="3830" y="-1122.5" font-family="Helvetica,sans-Serif" font-size="10.00">Window</text>
-<text text-anchor="start" x="3848" y="-1107.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="3793.5" y="-1092.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3821.5" y="-1092.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
-<text text-anchor="start" x="3793.5" y="-1077.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3821.5" y="-1077.5" font-family="Helvetica,sans-Serif" font-size="10.00">getInventory()</text>
-<text text-anchor="start" x="3793.5" y="-1062.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3821.5" y="-1062.5" font-family="Helvetica,sans-Serif" font-size="10.00">getViewer()</text>
-<text text-anchor="start" x="3793.5" y="-1047.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3821.5" y="-1047.5" font-family="Helvetica,sans-Serif" font-size="10.00">onClose()</text>
-<text text-anchor="start" x="3793.5" y="-1032.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3821.5" y="-1032.5" font-family="Helvetica,sans-Serif" font-size="10.00">onOpen()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="3774.5,-1117.5 3774.5,-1117.5 3925.5,-1117.5 3925.5,-1117.5 3774.5,-1117.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="3774.5,-1102.5 3774.5,-1102.5 3925.5,-1102.5 3925.5,-1102.5 3774.5,-1102.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="3774,-1025.5 3774,-1145.5 3925,-1145.5 3925,-1025.5 3774,-1025.5"/>
+<polygon fill="white" stroke="transparent" points="3935,-1145.5 3784,-1145.5 3784,-1025.5 3935,-1025.5 3935,-1145.5"/>
+<text text-anchor="start" x="3789.5" y="-1133.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\player\Inventory</text>
+<text text-anchor="start" x="3840" y="-1122.5" font-family="Helvetica,sans-Serif" font-size="10.00">Window</text>
+<text text-anchor="start" x="3858" y="-1107.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="3803.5" y="-1092.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3831.5" y="-1092.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
+<text text-anchor="start" x="3803.5" y="-1077.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3831.5" y="-1077.5" font-family="Helvetica,sans-Serif" font-size="10.00">getInventory()</text>
+<text text-anchor="start" x="3803.5" y="-1062.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3831.5" y="-1062.5" font-family="Helvetica,sans-Serif" font-size="10.00">getViewer()</text>
+<text text-anchor="start" x="3803.5" y="-1047.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3831.5" y="-1047.5" font-family="Helvetica,sans-Serif" font-size="10.00">onClose()</text>
+<text text-anchor="start" x="3803.5" y="-1032.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="3831.5" y="-1032.5" font-family="Helvetica,sans-Serif" font-size="10.00">onOpen()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="3784.5,-1117.5 3784.5,-1117.5 3935.5,-1117.5 3935.5,-1117.5 3784.5,-1117.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="3784.5,-1102.5 3784.5,-1102.5 3935.5,-1102.5 3935.5,-1102.5 3784.5,-1102.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="3784,-1025.5 3784,-1145.5 3935,-1145.5 3935,-1025.5 3784,-1025.5"/>
 </a>
 </g>
 </g>
@@ -2093,18 +2095,18 @@ var sectionId = 'dynsection-1';
 <g id="edge48_Node000004_Node000047" class="edge">
 <title>Node47&#45;&gt;Node4</title>
 <g id="a_edge48_Node000004_Node000047"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M3820.69,-1025.43C3804.28,-991.85 3783.3,-949.04 3764.5,-911 3732.3,-845.85 3696.63,-774.2 3665.59,-712.03"/>
-<polygon fill="none" stroke="#63b8ff" points="3665.41,-711.67 3659.15,-708.09 3660.05,-700.94 3666.31,-704.52 3665.41,-711.67"/>
+<path fill="none" stroke="#63b8ff" d="M3830.69,-1025.43C3814.28,-991.85 3793.3,-949.04 3774.5,-911 3742.3,-845.85 3706.63,-774.2 3675.59,-712.03"/>
+<polygon fill="none" stroke="#63b8ff" points="3675.41,-711.67 3669.15,-708.09 3670.05,-700.94 3676.31,-704.52 3675.41,-711.67"/>
 </a>
 </g>
-<text text-anchor="middle" x="3800" y="-885" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$currentWindow</text>
+<text text-anchor="middle" x="3810" y="-885" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$currentWindow</text>
 </g>
 <!-- Node48&#45;&gt;Node4 -->
 <g id="edge50_Node000004_Node000048" class="edge">
 <title>Node48&#45;&gt;Node4</title>
 <g id="a_edge50_Node000004_Node000048"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M2708.48,-1894.83C2709.28,-1888.81 2709.98,-1882.81 2710.5,-1877 2711.7,-1863.64 2710.02,-922.14 2717.5,-911 2896.87,-644.12 3314.43,-574.19 3496.73,-556.15"/>
-<polygon fill="none" stroke="#63b8ff" points="3496.97,-556.12 3502.56,-551.57 3508.92,-554.98 3503.32,-559.53 3496.97,-556.12"/>
+<path fill="none" stroke="#63b8ff" d="M2708.48,-1894.83C2709.28,-1888.81 2709.98,-1882.81 2710.5,-1877 2711.7,-1863.64 2709.99,-922.12 2717.5,-911 2899.5,-641.39 3322.9,-572.91 3506.72,-555.7"/>
+<polygon fill="none" stroke="#63b8ff" points="3506.78,-555.69 3512.4,-551.17 3518.74,-554.61 3513.12,-559.14 3506.78,-555.69"/>
 </a>
 </g>
 <text text-anchor="middle" x="2749" y="-1281" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$craftingGrid</text>
@@ -2113,33 +2115,33 @@ var sectionId = 'dynsection-1';
 <g id="Node000049" class="node">
 <title>Node49</title>
 <g id="a_Node000049"><a xlink:href="../../d3/d3e/classpocketmine_1_1inventory_1_1_creative_inventory.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="4155,-1183 3982,-1183 3982,-988 4155,-988 4155,-1183"/>
-<text text-anchor="start" x="4015.5" y="-1170.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\inventory</text>
-<text text-anchor="start" x="4023.5" y="-1159.5" font-family="Helvetica,sans-Serif" font-size="10.00">\CreativeInventory</text>
-<text text-anchor="start" x="4067" y="-1144.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="3986.5" y="-1129.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3999.5" y="-1129.5" font-family="Helvetica,sans-Serif" font-size="10.00">add()</text>
-<text text-anchor="start" x="3986.5" y="-1114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3999.5" y="-1114.5" font-family="Helvetica,sans-Serif" font-size="10.00">clear()</text>
-<text text-anchor="start" x="3986.5" y="-1099.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3999.5" y="-1099.5" font-family="Helvetica,sans-Serif" font-size="10.00">contains()</text>
-<text text-anchor="start" x="3986.5" y="-1084.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3999.5" y="-1084.5" font-family="Helvetica,sans-Serif" font-size="10.00">getAll()</text>
-<text text-anchor="start" x="3986.5" y="-1069.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3999.5" y="-1069.5" font-family="Helvetica,sans-Serif" font-size="10.00">getAllEntries()</text>
-<text text-anchor="start" x="3986.5" y="-1054.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3999.5" y="-1054.5" font-family="Helvetica,sans-Serif" font-size="10.00">getContentChangedCallbacks()</text>
-<text text-anchor="start" x="3986.5" y="-1039.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3999.5" y="-1039.5" font-family="Helvetica,sans-Serif" font-size="10.00">getEntry()</text>
-<text text-anchor="start" x="3986.5" y="-1024.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3999.5" y="-1024.5" font-family="Helvetica,sans-Serif" font-size="10.00">getItem()</text>
-<text text-anchor="start" x="3986.5" y="-1009.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3999.5" y="-1009.5" font-family="Helvetica,sans-Serif" font-size="10.00">getItemIndex()</text>
-<text text-anchor="start" x="3986.5" y="-994.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="3999.5" y="-994.5" font-family="Helvetica,sans-Serif" font-size="10.00">remove()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="3982.5,-1154.5 3982.5,-1154.5 4155.5,-1154.5 4155.5,-1154.5 3982.5,-1154.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="3982.5,-1139.5 3982.5,-1139.5 4155.5,-1139.5 4155.5,-1139.5 3982.5,-1139.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="3982,-988 3982,-1183 4155,-1183 4155,-988 3982,-988"/>
+<polygon fill="white" stroke="transparent" points="4165,-1183 3992,-1183 3992,-988 4165,-988 4165,-1183"/>
+<text text-anchor="start" x="4025.5" y="-1170.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\inventory</text>
+<text text-anchor="start" x="4033.5" y="-1159.5" font-family="Helvetica,sans-Serif" font-size="10.00">\CreativeInventory</text>
+<text text-anchor="start" x="4077" y="-1144.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="3996.5" y="-1129.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4009.5" y="-1129.5" font-family="Helvetica,sans-Serif" font-size="10.00">add()</text>
+<text text-anchor="start" x="3996.5" y="-1114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4009.5" y="-1114.5" font-family="Helvetica,sans-Serif" font-size="10.00">clear()</text>
+<text text-anchor="start" x="3996.5" y="-1099.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4009.5" y="-1099.5" font-family="Helvetica,sans-Serif" font-size="10.00">contains()</text>
+<text text-anchor="start" x="3996.5" y="-1084.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4009.5" y="-1084.5" font-family="Helvetica,sans-Serif" font-size="10.00">getAll()</text>
+<text text-anchor="start" x="3996.5" y="-1069.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4009.5" y="-1069.5" font-family="Helvetica,sans-Serif" font-size="10.00">getAllEntries()</text>
+<text text-anchor="start" x="3996.5" y="-1054.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4009.5" y="-1054.5" font-family="Helvetica,sans-Serif" font-size="10.00">getContentChangedCallbacks()</text>
+<text text-anchor="start" x="3996.5" y="-1039.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4009.5" y="-1039.5" font-family="Helvetica,sans-Serif" font-size="10.00">getEntry()</text>
+<text text-anchor="start" x="3996.5" y="-1024.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4009.5" y="-1024.5" font-family="Helvetica,sans-Serif" font-size="10.00">getItem()</text>
+<text text-anchor="start" x="3996.5" y="-1009.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4009.5" y="-1009.5" font-family="Helvetica,sans-Serif" font-size="10.00">getItemIndex()</text>
+<text text-anchor="start" x="3996.5" y="-994.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4009.5" y="-994.5" font-family="Helvetica,sans-Serif" font-size="10.00">remove()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="3992.5,-1154.5 3992.5,-1154.5 4165.5,-1154.5 4165.5,-1154.5 3992.5,-1154.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="3992.5,-1139.5 3992.5,-1139.5 4165.5,-1139.5 4165.5,-1139.5 3992.5,-1139.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="3992,-988 3992,-1183 4165,-1183 4165,-988 3992,-988"/>
 </a>
 </g>
 </g>
@@ -2147,24 +2149,24 @@ var sectionId = 'dynsection-1';
 <g id="edge52_Node000004_Node000049" class="edge">
 <title>Node49&#45;&gt;Node4</title>
 <g id="a_edge52_Node000004_Node000049"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M4029.85,-987.97C4013.39,-952.81 3992.24,-913.9 3967.5,-882 3881.39,-770.96 3753.69,-669.28 3669.79,-608.48"/>
-<polygon fill="none" stroke="#63b8ff" points="3669.77,-608.46 3662.57,-608.2 3660.04,-601.45 3667.24,-601.71 3669.77,-608.46"/>
+<path fill="none" stroke="#63b8ff" d="M4039.85,-987.97C4023.39,-952.81 4002.24,-913.9 3977.5,-882 3891.39,-770.96 3763.69,-669.28 3679.79,-608.48"/>
+<polygon fill="none" stroke="#63b8ff" points="3679.77,-608.46 3672.57,-608.2 3670.04,-601.45 3677.24,-601.71 3679.77,-608.46"/>
 </a>
 </g>
-<text text-anchor="middle" x="4026.5" y="-885" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$creativeInventory</text>
+<text text-anchor="middle" x="4036.5" y="-885" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$creativeInventory</text>
 </g>
 <!-- Node50 -->
 <g id="Node000050" class="node">
 <title>Node50</title>
 <g id="a_Node000050"><a xlink:href="../../d4/db4/classpocketmine_1_1player_1_1_chunk_selector.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="4348,-1110 4173,-1110 4173,-1061 4348,-1061 4348,-1110"/>
-<text text-anchor="start" x="4178.5" y="-1097.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\player\ChunkSelector</text>
-<text text-anchor="start" x="4259" y="-1082.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="4197.5" y="-1067.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4230.5" y="-1067.5" font-family="Helvetica,sans-Serif" font-size="10.00">selectChunks()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="4173.5,-1092.5 4173.5,-1092.5 4348.5,-1092.5 4348.5,-1092.5 4173.5,-1092.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="4173.5,-1077.5 4173.5,-1077.5 4348.5,-1077.5 4348.5,-1077.5 4173.5,-1077.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="4173,-1061 4173,-1110 4348,-1110 4348,-1061 4173,-1061"/>
+<polygon fill="white" stroke="transparent" points="4358,-1110 4183,-1110 4183,-1061 4358,-1061 4358,-1110"/>
+<text text-anchor="start" x="4188.5" y="-1097.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\player\ChunkSelector</text>
+<text text-anchor="start" x="4269" y="-1082.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="4207.5" y="-1067.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4240.5" y="-1067.5" font-family="Helvetica,sans-Serif" font-size="10.00">selectChunks()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="4183.5,-1092.5 4183.5,-1092.5 4358.5,-1092.5 4358.5,-1092.5 4183.5,-1092.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="4183.5,-1077.5 4183.5,-1077.5 4358.5,-1077.5 4358.5,-1077.5 4183.5,-1077.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="4183,-1061 4183,-1110 4358,-1110 4358,-1061 4183,-1061"/>
 </a>
 </g>
 </g>
@@ -2172,23 +2174,23 @@ var sectionId = 'dynsection-1';
 <g id="edge53_Node000004_Node000050" class="edge">
 <title>Node50&#45;&gt;Node4</title>
 <g id="a_edge53_Node000004_Node000050"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M4251.89,-1060.78C4237.97,-1024.95 4207.65,-956.43 4164.5,-911 4018.55,-757.36 3793.8,-642.33 3671.34,-586.86"/>
-<polygon fill="none" stroke="#63b8ff" points="3671.12,-586.76 3664.01,-587.95 3660.18,-581.84 3667.29,-580.65 3671.12,-586.76"/>
+<path fill="none" stroke="#63b8ff" d="M4261.89,-1060.78C4247.97,-1024.95 4217.65,-956.43 4174.5,-911 4028.55,-757.36 3803.8,-642.33 3681.34,-586.86"/>
+<polygon fill="none" stroke="#63b8ff" points="3681.12,-586.76 3674.01,-587.95 3670.18,-581.84 3677.29,-580.65 3681.12,-586.76"/>
 </a>
 </g>
-<text text-anchor="middle" x="4182" y="-885" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$chunkSelector</text>
+<text text-anchor="middle" x="4192" y="-885" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$chunkSelector</text>
 </g>
 <!-- Node51 -->
 <g id="Node000051" class="node">
 <title>Node51</title>
 <g id="a_Node000051"><a xlink:href="../../da/d4e/classpocketmine_1_1world_1_1_chunk_loader.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="4530.5,-1110 4366.5,-1110 4366.5,-1061 4530.5,-1061 4530.5,-1110"/>
-<text text-anchor="start" x="4371.5" y="-1097.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\ChunkLoader</text>
-<text text-anchor="start" x="4446.5" y="-1082.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="4446.5" y="-1067.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polygon fill="#666666" stroke="#666666" points="4366.5,-1092.5 4366.5,-1092.5 4530.5,-1092.5 4530.5,-1092.5 4366.5,-1092.5"/>
-<polygon fill="#666666" stroke="#666666" points="4366.5,-1077.5 4366.5,-1077.5 4530.5,-1077.5 4530.5,-1077.5 4366.5,-1077.5"/>
-<polygon fill="none" stroke="#666666" points="4366.5,-1061 4366.5,-1110 4530.5,-1110 4530.5,-1061 4366.5,-1061"/>
+<polygon fill="white" stroke="transparent" points="4540.5,-1110 4376.5,-1110 4376.5,-1061 4540.5,-1061 4540.5,-1110"/>
+<text text-anchor="start" x="4381.5" y="-1097.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\ChunkLoader</text>
+<text text-anchor="start" x="4456.5" y="-1082.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="4456.5" y="-1067.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="#666666" stroke="#666666" points="4376.5,-1092.5 4376.5,-1092.5 4540.5,-1092.5 4540.5,-1092.5 4376.5,-1092.5"/>
+<polygon fill="#666666" stroke="#666666" points="4376.5,-1077.5 4376.5,-1077.5 4540.5,-1077.5 4540.5,-1077.5 4376.5,-1077.5"/>
+<polygon fill="none" stroke="#666666" points="4376.5,-1061 4376.5,-1110 4540.5,-1110 4540.5,-1061 4376.5,-1061"/>
 </a>
 </g>
 </g>
@@ -2196,23 +2198,23 @@ var sectionId = 'dynsection-1';
 <g id="edge54_Node000004_Node000051" class="edge">
 <title>Node51&#45;&gt;Node4</title>
 <g id="a_edge54_Node000004_Node000051"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M4441.5,-1060.71C4429.67,-1024.17 4402.52,-953.99 4357.5,-911 4154.18,-716.85 3827.42,-612.15 3672.04,-570.98"/>
-<polygon fill="none" stroke="#63b8ff" points="3671.86,-570.94 3665.04,-573.29 3660.25,-567.9 3667.07,-565.55 3671.86,-570.94"/>
+<path fill="none" stroke="#63b8ff" d="M4451.5,-1060.71C4439.67,-1024.17 4412.52,-953.99 4367.5,-911 4164.18,-716.85 3837.42,-612.15 3682.04,-570.98"/>
+<polygon fill="none" stroke="#63b8ff" points="3681.86,-570.94 3675.04,-573.29 3670.25,-567.9 3677.07,-565.55 3681.86,-570.94"/>
 </a>
 </g>
-<text text-anchor="middle" x="4371.5" y="-885" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$chunkLoader</text>
+<text text-anchor="middle" x="4381.5" y="-885" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$chunkLoader</text>
 </g>
 <!-- Node52 -->
 <g id="Node000052" class="node">
 <title>Node52</title>
 <g id="a_Node000052"><a xlink:href="../../dd/d51/classpocketmine_1_1world_1_1_chunk_ticker.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="4710,-1110 4549,-1110 4549,-1061 4710,-1061 4710,-1110"/>
-<text text-anchor="start" x="4554.5" y="-1097.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\ChunkTicker</text>
-<text text-anchor="start" x="4628" y="-1082.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="4628" y="-1067.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polygon fill="#666666" stroke="#666666" points="4549.5,-1092.5 4549.5,-1092.5 4710.5,-1092.5 4710.5,-1092.5 4549.5,-1092.5"/>
-<polygon fill="#666666" stroke="#666666" points="4549.5,-1077.5 4549.5,-1077.5 4710.5,-1077.5 4710.5,-1077.5 4549.5,-1077.5"/>
-<polygon fill="none" stroke="#666666" points="4549,-1061 4549,-1110 4710,-1110 4710,-1061 4549,-1061"/>
+<polygon fill="white" stroke="transparent" points="4720,-1110 4559,-1110 4559,-1061 4720,-1061 4720,-1110"/>
+<text text-anchor="start" x="4564.5" y="-1097.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\world\ChunkTicker</text>
+<text text-anchor="start" x="4638" y="-1082.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="4638" y="-1067.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="#666666" stroke="#666666" points="4559.5,-1092.5 4559.5,-1092.5 4720.5,-1092.5 4720.5,-1092.5 4559.5,-1092.5"/>
+<polygon fill="#666666" stroke="#666666" points="4559.5,-1077.5 4559.5,-1077.5 4720.5,-1077.5 4720.5,-1077.5 4559.5,-1077.5"/>
+<polygon fill="none" stroke="#666666" points="4559,-1061 4559,-1110 4720,-1110 4720,-1061 4559,-1061"/>
 </a>
 </g>
 </g>
@@ -2220,42 +2222,42 @@ var sectionId = 'dynsection-1';
 <g id="edge55_Node000004_Node000052" class="edge">
 <title>Node52&#45;&gt;Node4</title>
 <g id="a_edge55_Node000004_Node000052"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M4623.22,-1060.89C4612.24,-1023.97 4586.16,-952.49 4539.5,-911 4278.79,-679.17 3854.44,-590.43 3672.19,-561.79"/>
-<polygon fill="none" stroke="#63b8ff" points="3672.14,-561.78 3665.6,-564.82 3660.28,-559.95 3666.82,-556.91 3672.14,-561.78"/>
+<path fill="none" stroke="#63b8ff" d="M4633.22,-1060.89C4622.24,-1023.97 4596.16,-952.49 4549.5,-911 4288.79,-679.17 3864.44,-590.43 3682.19,-561.79"/>
+<polygon fill="none" stroke="#63b8ff" points="3682.14,-561.78 3675.6,-564.82 3670.28,-559.95 3676.82,-556.91 3682.14,-561.78"/>
 </a>
 </g>
-<text text-anchor="middle" x="4545.5" y="-885" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$chunkTicker</text>
+<text text-anchor="middle" x="4555.5" y="-885" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$chunkTicker</text>
 </g>
 <!-- Node53 -->
 <g id="Node000053" class="node">
 <title>Node53</title>
 <g id="a_Node000053"><a xlink:href="../../d4/d00/interface_logger.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="4820.5,-1177.5 4728.5,-1177.5 4728.5,-993.5 4820.5,-993.5 4820.5,-1177.5"/>
-<text text-anchor="start" x="4757.5" y="-1165.5" font-family="Helvetica,sans-Serif" font-size="10.00">Logger</text>
-<text text-anchor="start" x="4772.5" y="-1150.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="4732.5" y="-1135.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4745.5" y="-1135.5" font-family="Helvetica,sans-Serif" font-size="10.00">alert()</text>
-<text text-anchor="start" x="4732.5" y="-1120.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4745.5" y="-1120.5" font-family="Helvetica,sans-Serif" font-size="10.00">critical()</text>
-<text text-anchor="start" x="4732.5" y="-1105.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4745.5" y="-1105.5" font-family="Helvetica,sans-Serif" font-size="10.00">debug()</text>
-<text text-anchor="start" x="4732.5" y="-1090.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4745.5" y="-1090.5" font-family="Helvetica,sans-Serif" font-size="10.00">emergency()</text>
-<text text-anchor="start" x="4732.5" y="-1075.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4745.5" y="-1075.5" font-family="Helvetica,sans-Serif" font-size="10.00">error()</text>
-<text text-anchor="start" x="4732.5" y="-1060.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4745.5" y="-1060.5" font-family="Helvetica,sans-Serif" font-size="10.00">info()</text>
-<text text-anchor="start" x="4732.5" y="-1045.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4745.5" y="-1045.5" font-family="Helvetica,sans-Serif" font-size="10.00">log()</text>
-<text text-anchor="start" x="4732.5" y="-1030.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4745.5" y="-1030.5" font-family="Helvetica,sans-Serif" font-size="10.00">logException()</text>
-<text text-anchor="start" x="4732.5" y="-1015.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4745.5" y="-1015.5" font-family="Helvetica,sans-Serif" font-size="10.00">notice()</text>
-<text text-anchor="start" x="4732.5" y="-1000.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4745.5" y="-1000.5" font-family="Helvetica,sans-Serif" font-size="10.00">warning()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="4728.5,-1160.5 4728.5,-1160.5 4820.5,-1160.5 4820.5,-1160.5 4728.5,-1160.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="4728.5,-1145.5 4728.5,-1145.5 4820.5,-1145.5 4820.5,-1145.5 4728.5,-1145.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="4728.5,-993.5 4728.5,-1177.5 4820.5,-1177.5 4820.5,-993.5 4728.5,-993.5"/>
+<polygon fill="white" stroke="transparent" points="4830.5,-1177.5 4738.5,-1177.5 4738.5,-993.5 4830.5,-993.5 4830.5,-1177.5"/>
+<text text-anchor="start" x="4767.5" y="-1165.5" font-family="Helvetica,sans-Serif" font-size="10.00">Logger</text>
+<text text-anchor="start" x="4782.5" y="-1150.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="4742.5" y="-1135.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4755.5" y="-1135.5" font-family="Helvetica,sans-Serif" font-size="10.00">alert()</text>
+<text text-anchor="start" x="4742.5" y="-1120.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4755.5" y="-1120.5" font-family="Helvetica,sans-Serif" font-size="10.00">critical()</text>
+<text text-anchor="start" x="4742.5" y="-1105.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4755.5" y="-1105.5" font-family="Helvetica,sans-Serif" font-size="10.00">debug()</text>
+<text text-anchor="start" x="4742.5" y="-1090.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4755.5" y="-1090.5" font-family="Helvetica,sans-Serif" font-size="10.00">emergency()</text>
+<text text-anchor="start" x="4742.5" y="-1075.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4755.5" y="-1075.5" font-family="Helvetica,sans-Serif" font-size="10.00">error()</text>
+<text text-anchor="start" x="4742.5" y="-1060.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4755.5" y="-1060.5" font-family="Helvetica,sans-Serif" font-size="10.00">info()</text>
+<text text-anchor="start" x="4742.5" y="-1045.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4755.5" y="-1045.5" font-family="Helvetica,sans-Serif" font-size="10.00">log()</text>
+<text text-anchor="start" x="4742.5" y="-1030.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4755.5" y="-1030.5" font-family="Helvetica,sans-Serif" font-size="10.00">logException()</text>
+<text text-anchor="start" x="4742.5" y="-1015.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4755.5" y="-1015.5" font-family="Helvetica,sans-Serif" font-size="10.00">notice()</text>
+<text text-anchor="start" x="4742.5" y="-1000.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4755.5" y="-1000.5" font-family="Helvetica,sans-Serif" font-size="10.00">warning()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="4738.5,-1160.5 4738.5,-1160.5 4830.5,-1160.5 4830.5,-1160.5 4738.5,-1160.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="4738.5,-1145.5 4738.5,-1145.5 4830.5,-1145.5 4830.5,-1145.5 4738.5,-1145.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="4738.5,-993.5 4738.5,-1177.5 4830.5,-1177.5 4830.5,-993.5 4738.5,-993.5"/>
 </a>
 </g>
 </g>
@@ -2263,42 +2265,42 @@ var sectionId = 'dynsection-1';
 <g id="edge57_Node000004_Node000053" class="edge">
 <title>Node53&#45;&gt;Node4</title>
 <g id="a_edge57_Node000004_Node000053"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M4762.64,-993.29C4754.71,-963.78 4741.5,-933.02 4719.5,-911 4422.89,-614.11 3883.2,-561.07 3672.29,-551.83"/>
-<polygon fill="none" stroke="#63b8ff" points="3672.07,-551.83 3665.91,-555.58 3660.08,-551.33 3666.24,-547.58 3672.07,-551.83"/>
+<path fill="none" stroke="#63b8ff" d="M4772.64,-993.29C4764.71,-963.78 4751.5,-933.02 4729.5,-911 4432.89,-614.11 3893.2,-561.07 3682.29,-551.83"/>
+<polygon fill="none" stroke="#63b8ff" points="3682.07,-551.83 3675.91,-555.58 3670.08,-551.33 3676.24,-547.58 3682.07,-551.83"/>
 </a>
 </g>
-<text text-anchor="middle" x="4721" y="-885" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$logger</text>
+<text text-anchor="middle" x="4731" y="-885" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$logger</text>
 </g>
 <!-- Node54 -->
 <g id="Node000054" class="node">
 <title>Node54</title>
 <g id="a_Node000054"><a xlink:href="../../db/dcb/classpocketmine_1_1player_1_1_survival_block_break_handler.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="4982.5,-1173.5 4838.5,-1173.5 4838.5,-997.5 4982.5,-997.5 4982.5,-1173.5"/>
-<text text-anchor="start" x="4843.5" y="-1161.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\player\Survival</text>
-<text text-anchor="start" x="4863.5" y="-1150.5" font-family="Helvetica,sans-Serif" font-size="10.00">BlockBreakHandler</text>
-<text text-anchor="start" x="4844.5" y="-1135.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4859.5" y="-1135.5" font-family="Helvetica,sans-Serif" font-size="10.00">DEFAULT_FX_INTERVAL</text>
-<text text-anchor="start" x="4859.5" y="-1124.5" font-family="Helvetica,sans-Serif" font-size="10.00">_TICKS</text>
-<text text-anchor="start" x="4844.5" y="-1109.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4859.5" y="-1109.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
-<text text-anchor="start" x="4844.5" y="-1094.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4859.5" y="-1094.5" font-family="Helvetica,sans-Serif" font-size="10.00">__destruct()</text>
-<text text-anchor="start" x="4844.5" y="-1079.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4859.5" y="-1079.5" font-family="Helvetica,sans-Serif" font-size="10.00">getBlockPos()</text>
-<text text-anchor="start" x="4844.5" y="-1064.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4859.5" y="-1064.5" font-family="Helvetica,sans-Serif" font-size="10.00">getBreakProgress()</text>
-<text text-anchor="start" x="4844.5" y="-1049.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4859.5" y="-1049.5" font-family="Helvetica,sans-Serif" font-size="10.00">getBreakSpeed()</text>
-<text text-anchor="start" x="4844.5" y="-1034.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4859.5" y="-1034.5" font-family="Helvetica,sans-Serif" font-size="10.00">getTargetedFace()</text>
-<text text-anchor="start" x="4844.5" y="-1019.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4859.5" y="-1019.5" font-family="Helvetica,sans-Serif" font-size="10.00">setTargetedFace()</text>
-<text text-anchor="start" x="4844.5" y="-1004.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="4859.5" y="-1004.5" font-family="Helvetica,sans-Serif" font-size="10.00">update()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="4838.5,-1145.5 4838.5,-1145.5 4982.5,-1145.5 4982.5,-1145.5 4838.5,-1145.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="4838.5,-1119.5 4838.5,-1119.5 4857.5,-1119.5 4857.5,-1119.5 4838.5,-1119.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="4857.5,-1119.5 4857.5,-1119.5 4982.5,-1119.5 4982.5,-1119.5 4857.5,-1119.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="4838.5,-997.5 4838.5,-1173.5 4982.5,-1173.5 4982.5,-997.5 4838.5,-997.5"/>
+<polygon fill="white" stroke="transparent" points="4992.5,-1173.5 4848.5,-1173.5 4848.5,-997.5 4992.5,-997.5 4992.5,-1173.5"/>
+<text text-anchor="start" x="4853.5" y="-1161.5" font-family="Helvetica,sans-Serif" font-size="10.00">pocketmine\player\Survival</text>
+<text text-anchor="start" x="4873.5" y="-1150.5" font-family="Helvetica,sans-Serif" font-size="10.00">BlockBreakHandler</text>
+<text text-anchor="start" x="4854.5" y="-1135.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4869.5" y="-1135.5" font-family="Helvetica,sans-Serif" font-size="10.00">DEFAULT_FX_INTERVAL</text>
+<text text-anchor="start" x="4869.5" y="-1124.5" font-family="Helvetica,sans-Serif" font-size="10.00">_TICKS</text>
+<text text-anchor="start" x="4854.5" y="-1109.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4869.5" y="-1109.5" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
+<text text-anchor="start" x="4854.5" y="-1094.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4869.5" y="-1094.5" font-family="Helvetica,sans-Serif" font-size="10.00">__destruct()</text>
+<text text-anchor="start" x="4854.5" y="-1079.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4869.5" y="-1079.5" font-family="Helvetica,sans-Serif" font-size="10.00">getBlockPos()</text>
+<text text-anchor="start" x="4854.5" y="-1064.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4869.5" y="-1064.5" font-family="Helvetica,sans-Serif" font-size="10.00">getBreakProgress()</text>
+<text text-anchor="start" x="4854.5" y="-1049.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4869.5" y="-1049.5" font-family="Helvetica,sans-Serif" font-size="10.00">getBreakSpeed()</text>
+<text text-anchor="start" x="4854.5" y="-1034.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4869.5" y="-1034.5" font-family="Helvetica,sans-Serif" font-size="10.00">getTargetedFace()</text>
+<text text-anchor="start" x="4854.5" y="-1019.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4869.5" y="-1019.5" font-family="Helvetica,sans-Serif" font-size="10.00">setTargetedFace()</text>
+<text text-anchor="start" x="4854.5" y="-1004.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="4869.5" y="-1004.5" font-family="Helvetica,sans-Serif" font-size="10.00">update()</text>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="4848.5,-1145.5 4848.5,-1145.5 4992.5,-1145.5 4992.5,-1145.5 4848.5,-1145.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="4848.5,-1119.5 4848.5,-1119.5 4867.5,-1119.5 4867.5,-1119.5 4848.5,-1119.5"/>
+<polygon fill="#bfbfbf" stroke="#bfbfbf" points="4867.5,-1119.5 4867.5,-1119.5 4992.5,-1119.5 4992.5,-1119.5 4867.5,-1119.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="4848.5,-997.5 4848.5,-1173.5 4992.5,-1173.5 4992.5,-997.5 4848.5,-997.5"/>
 </a>
 </g>
 </g>
@@ -2306,11 +2308,11 @@ var sectionId = 'dynsection-1';
 <g id="edge58_Node000004_Node000054" class="edge">
 <title>Node54&#45;&gt;Node4</title>
 <g id="a_edge58_Node000004_Node000054"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M4885.36,-997.42C4872.81,-966.71 4854.76,-934.11 4829.5,-911 4801.59,-885.47 4785.49,-893.63 4749.5,-882 4350.62,-753.04 3866.61,-623.63 3671.86,-572.65"/>
-<polygon fill="none" stroke="#63b8ff" points="3671.62,-572.59 3664.81,-574.94 3660.01,-569.55 3666.83,-567.2 3671.62,-572.59"/>
+<path fill="none" stroke="#63b8ff" d="M4895.36,-997.42C4882.81,-966.71 4864.76,-934.11 4839.5,-911 4811.59,-885.47 4795.49,-893.63 4759.5,-882 4360.62,-753.04 3876.61,-623.63 3681.86,-572.65"/>
+<polygon fill="none" stroke="#63b8ff" points="3681.62,-572.59 3674.81,-574.94 3670.01,-569.55 3676.83,-567.2 3681.62,-572.59"/>
 </a>
 </g>
-<text text-anchor="middle" x="4853" y="-885" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$blockBreakHandler</text>
+<text text-anchor="middle" x="4863" y="-885" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #$blockBreakHandler</text>
 </g>
 </g>
 </svg>

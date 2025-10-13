@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.35.1 git-e32e836dad793a3a3c8ddd8927c00e112b1e576a</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.35.1 git-f412a390b8f63d0311cc1d1c81046404153b8440</span>
    </div>
   </td>
  </tr>
@@ -131,6 +131,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a7dc1dd9ac9bbe9597dde007ec30f6796"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0183ead82aac69abb18907b7aa8bd1ca" id="r_a0183ead82aac69abb18907b7aa8bd1ca"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/da0/interfacepocketmine_1_1permission_1_1_permissible.html#a0183ead82aac69abb18907b7aa8bd1ca">addAttachment</a> (Plugin $plugin, ?string $name=null, ?bool $value=null)</td></tr>
 <tr class="separator:a0183ead82aac69abb18907b7aa8bd1ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab842f53b42a023c67d88208176f84be3" id="r_ab842f53b42a023c67d88208176f84be3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ab842f53b42a023c67d88208176f84be3">getCommandAliasMap</a> ()</td></tr>
+<tr class="separator:ab842f53b42a023c67d88208176f84be3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a296dc806b8ece2cb4d5470aa866b8022" id="r_a296dc806b8ece2cb4d5470aa866b8022"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/da0/interfacepocketmine_1_1permission_1_1_permissible.html#a296dc806b8ece2cb4d5470aa866b8022">getEffectivePermissions</a> ()</td></tr>
 <tr class="separator:a296dc806b8ece2cb4d5470aa866b8022"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5443ee248b78e1e3e36a93ac6c40e870" id="r_a5443ee248b78e1e3e36a93ac6c40e870"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a5443ee248b78e1e3e36a93ac6c40e870">getLanguage</a> ()</td></tr>
@@ -168,7 +170,7 @@ Protected Attributes</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html#l00039">39</a> of file <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html">ConsoleCommandSender.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html#l00040">40</a> of file <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html">ConsoleCommandSender.php</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a7dc1dd9ac9bbe9597dde007ec30f6796" name="a7dc1dd9ac9bbe9597dde007ec30f6796"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a7dc1dd9ac9bbe9597dde007ec30f6796">&#9670;&#160;</a></span>__construct()</h2>
@@ -189,7 +191,7 @@ Protected Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html#l00045">45</a> of file <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html">ConsoleCommandSender.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html#l00048">48</a> of file <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html">ConsoleCommandSender.php</a>.</p>
 
 </div>
 </div>
@@ -227,6 +229,28 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implemented in <a class="el" href="../../d9/d10/classpocketmine_1_1permission_1_1_permissible_internal.html#a4d14a9672856591d377545c87f75af95">pocketmine\permission\PermissibleInternal</a>.</p>
+
+</div>
+</div>
+<a id="ab842f53b42a023c67d88208176f84be3" name="ab842f53b42a023c67d88208176f84be3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab842f53b42a023c67d88208176f84be3">&#9670;&#160;</a></span>getCommandAliasMap()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">pocketmine\console\ConsoleCommandSender::getCommandAliasMap </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Returns the user's local alias map. This may contain special user-specific aliases that differ from the global command map's aliases. </p>
+
+<p>Implements <a class="el" href="../../d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html#a66247f527546f117e7b8d478b31783e8">pocketmine\command\CommandSender</a>.</p>
+
+<p class="definition">Definition at line <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html#l00089">89</a> of file <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html">ConsoleCommandSender.php</a>.</p>
 
 </div>
 </div>
@@ -275,7 +299,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Implements <a class="el" href="../../d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html">pocketmine\command\CommandSender</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html#l00056">56</a> of file <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html">ConsoleCommandSender.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html#l00060">60</a> of file <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html">ConsoleCommandSender.php</a>.</p>
 
 </div>
 </div>
@@ -296,7 +320,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Implements <a class="el" href="../../d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html">pocketmine\command\CommandSender</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html#l00070">70</a> of file <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html">ConsoleCommandSender.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html#l00074">74</a> of file <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html">ConsoleCommandSender.php</a>.</p>
 
 </div>
 </div>
@@ -346,7 +370,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Implements <a class="el" href="../../d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html#a1428021c250a27063d67667d81008b55">pocketmine\command\CommandSender</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html#l00074">74</a> of file <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html">ConsoleCommandSender.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html#l00078">78</a> of file <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html">ConsoleCommandSender.php</a>.</p>
 
 </div>
 </div>
@@ -367,7 +391,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Implements <a class="el" href="../../d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html">pocketmine\command\CommandSender</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html#l00052">52</a> of file <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html">ConsoleCommandSender.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html#l00056">56</a> of file <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html">ConsoleCommandSender.php</a>.</p>
 
 </div>
 </div>
@@ -472,7 +496,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Implements <a class="el" href="../../d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html">pocketmine\command\CommandSender</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html#l00060">60</a> of file <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html">ConsoleCommandSender.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html#l00064">64</a> of file <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html">ConsoleCommandSender.php</a>.</p>
 
 </div>
 </div>
@@ -526,7 +550,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Implements <a class="el" href="../../d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html#adad74406049bccde79c289067e881028">pocketmine\command\CommandSender</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html#l00078">78</a> of file <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html">ConsoleCommandSender.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html#l00082">82</a> of file <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html">ConsoleCommandSender.php</a>.</p>
 
 </div>
 </div>
@@ -580,7 +604,7 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p>@phpstan-var positive-int|null </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html#l00043">43</a> of file <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html">ConsoleCommandSender.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html#l00044">44</a> of file <a class="el" href="../../d0/d80/_console_command_sender_8php_source.html">ConsoleCommandSender.php</a>.</p>
 
 </div>
 </div>

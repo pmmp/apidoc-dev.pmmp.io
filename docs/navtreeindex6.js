@@ -1,5 +1,6 @@
 var NAVTREEINDEX6 =
 {
+"d0/d73/classpocketmine_1_1block_1_1_wall.html#a57b1586e3b6d81440be1aa89471f2a2a":[2,0,0,0,239,54],
 "d0/d73/classpocketmine_1_1block_1_1_wall.html#a57b1586e3b6d81440be1aa89471f2a2a":[3,0,1,0,241,54],
 "d0/d73/classpocketmine_1_1block_1_1_wall.html#a588080e805e50e4f97e1a3d256b8c11e":[2,0,0,0,239,14],
 "d0/d73/classpocketmine_1_1block_1_1_wall.html#a588080e805e50e4f97e1a3d256b8c11e":[3,0,1,0,241,14],
@@ -94,13 +95,13 @@ var NAVTREEINDEX6 =
 "d0/d74/_add_painting_packet_8php_source.html":[4,0,1,0,1,0,7],
 "d0/d74/_inventory_manager_entry_8php_source.html":[4,0,0,12,0,12],
 "d0/d74/_short_tag_8php_source.html":[4,0,1,0,8,0,0,12],
-"d0/d74/classpocketmine_1_1command_1_1defaults_1_1_difficulty_command.html":[3,0,1,2,0,6],
-"d0/d74/classpocketmine_1_1command_1_1defaults_1_1_difficulty_command.html#a425117ae5e7bab32cc824f19f82b613b":[3,0,1,2,0,6,2],
-"d0/d74/classpocketmine_1_1command_1_1defaults_1_1_difficulty_command.html#a57c09d1063bc811e24bdc3d750e882d5":[3,0,1,2,0,6,4],
-"d0/d74/classpocketmine_1_1command_1_1defaults_1_1_difficulty_command.html#a8c40c93db847fcf02c3e7b19a729dd10":[3,0,1,2,0,6,5],
-"d0/d74/classpocketmine_1_1command_1_1defaults_1_1_difficulty_command.html#ac9790f6d386568af660860ceb824ee9a":[3,0,1,2,0,6,3],
-"d0/d74/classpocketmine_1_1command_1_1defaults_1_1_difficulty_command.html#acbccfc9431699f8cefb66e359419e1df":[3,0,1,2,0,6,1],
-"d0/d74/classpocketmine_1_1command_1_1defaults_1_1_difficulty_command.html#adbf0fdcd3084738f031b7cd892b43556":[3,0,1,2,0,6,0],
+"d0/d74/classpocketmine_1_1command_1_1defaults_1_1_difficulty_command.html":[3,0,1,2,0,7],
+"d0/d74/classpocketmine_1_1command_1_1defaults_1_1_difficulty_command.html#a0950e4c2830f8adc9526da754c56130d":[3,0,1,2,0,7,5],
+"d0/d74/classpocketmine_1_1command_1_1defaults_1_1_difficulty_command.html#a425117ae5e7bab32cc824f19f82b613b":[3,0,1,2,0,7,3],
+"d0/d74/classpocketmine_1_1command_1_1defaults_1_1_difficulty_command.html#a5dffbdb5cf0ec26cfdd98a9ce531d2f6":[3,0,1,2,0,7,1],
+"d0/d74/classpocketmine_1_1command_1_1defaults_1_1_difficulty_command.html#a88a41e241a4891428166cdf2c0af8309":[3,0,1,2,0,7,2],
+"d0/d74/classpocketmine_1_1command_1_1defaults_1_1_difficulty_command.html#a8c40c93db847fcf02c3e7b19a729dd10":[3,0,1,2,0,7,4],
+"d0/d74/classpocketmine_1_1command_1_1defaults_1_1_difficulty_command.html#adbf0fdcd3084738f031b7cd892b43556":[3,0,1,2,0,7,0],
 "d0/d76/classpocketmine_1_1entity_1_1_attribute_map.html":[2,0,0,2,3],
 "d0/d76/classpocketmine_1_1entity_1_1_attribute_map.html":[3,0,1,7,8],
 "d0/d76/classpocketmine_1_1entity_1_1_attribute_map.html#a462b54b5cef43f9b9fba4f1ff36de9cf":[2,0,0,2,3,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX6 =
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a0ab34dc9ab012be05091480b74c069c9":[2,0,0,0,254,67],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a0ab34dc9ab012be05091480b74c069c9":[3,0,1,0,256,67],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,254,21],
-"d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,256,21],
-"d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,254,50]
+"d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,256,21]
 };

@@ -1,0 +1,9 @@
+<map id="pocketmine\command\Command\testPermission" name="pocketmine\command\Command\testPermission">
+<area shape="rect" id="Node000001" title=" " alt="" coords="303,91,497,131"/>
+<area shape="rect" id="Node000002" href="$d4/dcb/classpocketmine_1_1command_1_1defaults_1_1_command_alias_command.html#af984638aa024255df3ebbadb26d16f53" title=" " alt="" coords="5,5,255,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="317,90,224,63,225,58,318,85"/>
+<area shape="rect" id="Node000003" href="$dc/d55/classpocketmine_1_1command_1_1defaults_1_1_time_command.html#a35862c790c55f26dcf8041e2614d0120" title=" " alt="" coords="39,84,221,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="289,114,222,114,222,109,289,109"/>
+<area shape="rect" id="Node000004" href="$d5/d43/classpocketmine_1_1command_1_1defaults_1_1_whitelist_command.html#ab654d2ef3736086f68c939a2e57e7f41" title=" " alt="" coords="26,163,234,217"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="318,138,225,165,224,160,317,133"/>
+</map>

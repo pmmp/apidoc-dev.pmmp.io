@@ -1,7 +1,7 @@
 <map id="pocketmine\command\defaults\TransferServerCommand" name="pocketmine\command\defaults\TransferServerCommand">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,601,241,701"/>
-<area shape="rect" id="Node000002" href="$d5/dfa/classpocketmine_1_1command_1_1defaults_1_1_vanilla_command.html" title=" " alt="" coords="15,373,232,553"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,567,126,601,121,601,121,567"/>
-<area shape="rect" id="Node000003" href="$d6/df1/classpocketmine_1_1command_1_1_command.html" title=" " alt="" coords="9,5,237,325"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="126,339,126,373,121,373,121,339"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,581,241,681"/>
+<area shape="rect" id="Node000002" href="$d5/dfa/classpocketmine_1_1command_1_1defaults_1_1_vanilla_command.html" title=" " alt="" coords="15,353,232,533"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,547,126,581,121,581,121,547"/>
+<area shape="rect" id="Node000003" href="$d6/df1/classpocketmine_1_1command_1_1_command.html" title=" " alt="" coords="9,5,237,305"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="126,319,126,353,121,353,121,319"/>
 </map>

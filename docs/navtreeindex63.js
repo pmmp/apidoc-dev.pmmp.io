@@ -1,5 +1,12 @@
 var NAVTREEINDEX63 =
 {
+"d4/d66/classpocketmine_1_1block_1_1_furnace.html":[3,0,1,0,113],
+"d4/d66/classpocketmine_1_1block_1_1_furnace.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,111,61],
+"d4/d66/classpocketmine_1_1block_1_1_furnace.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,113,61],
+"d4/d66/classpocketmine_1_1block_1_1_furnace.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,111,19],
+"d4/d66/classpocketmine_1_1block_1_1_furnace.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,113,19],
+"d4/d66/classpocketmine_1_1block_1_1_furnace.html#a121e827fefa099fbc9a4e045d9a30f57":[2,0,0,0,111,11],
+"d4/d66/classpocketmine_1_1block_1_1_furnace.html#a121e827fefa099fbc9a4e045d9a30f57":[3,0,1,0,113,11],
 "d4/d66/classpocketmine_1_1block_1_1_furnace.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,111,50],
 "d4/d66/classpocketmine_1_1block_1_1_furnace.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,113,50],
 "d4/d66/classpocketmine_1_1block_1_1_furnace.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,111,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX63 =
 "d4/d82/classpocketmine_1_1item_1_1_carrot.html#a653a8fbd8da17b08be95a985d857c4fc":[2,0,0,5,19,44],
 "d4/d82/classpocketmine_1_1item_1_1_carrot.html#a653a8fbd8da17b08be95a985d857c4fc":[3,0,1,12,20,44],
 "d4/d82/classpocketmine_1_1item_1_1_carrot.html#a67b44433c553602d7c851b1ca23e6e5e":[2,0,0,5,19,43],
-"d4/d82/classpocketmine_1_1item_1_1_carrot.html#a67b44433c553602d7c851b1ca23e6e5e":[3,0,1,12,20,43],
-"d4/d82/classpocketmine_1_1item_1_1_carrot.html#a71289362f9d561347b5c8c2717eb0512":[2,0,0,5,19,41],
-"d4/d82/classpocketmine_1_1item_1_1_carrot.html#a71289362f9d561347b5c8c2717eb0512":[3,0,1,12,20,41],
-"d4/d82/classpocketmine_1_1item_1_1_carrot.html#a7b5c1e7e496c3077658212aaacec4b56":[2,0,0,5,19,16],
-"d4/d82/classpocketmine_1_1item_1_1_carrot.html#a7b5c1e7e496c3077658212aaacec4b56":[3,0,1,12,20,16],
-"d4/d82/classpocketmine_1_1item_1_1_carrot.html#a7d45886d40860e24fb4c18d02a3d1a32":[2,0,0,5,19,15],
-"d4/d82/classpocketmine_1_1item_1_1_carrot.html#a7d45886d40860e24fb4c18d02a3d1a32":[3,0,1,12,20,15],
-"d4/d82/classpocketmine_1_1item_1_1_carrot.html#a8e97e9296238bf8794a2d2f8e94e8a93":[2,0,0,5,19,52]
+"d4/d82/classpocketmine_1_1item_1_1_carrot.html#a67b44433c553602d7c851b1ca23e6e5e":[3,0,1,12,20,43]
 };

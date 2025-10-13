@@ -93,6 +93,11 @@ var hierarchy =
     [ "pocketmine\\permission\\BanList", "db/d2a/classpocketmine_1_1permission_1_1_ban_list.html", null ],
     [ "pocketmine\\block\\utils\\BannerPatternLayer", "da/dd4/classpocketmine_1_1block_1_1utils_1_1_banner_pattern_layer.html", null ],
     [ "pocketmine\\data\\bedrock\\BannerPatternTypeIdMap", "db/d15/classpocketmine_1_1data_1_1bedrock_1_1_banner_pattern_type_id_map.html", null ],
+    [ "DaveRandom\\CallbackValidator\\Type\\BaseType", "de/dd0/interface_dave_random_1_1_callback_validator_1_1_type_1_1_base_type.html", [
+      [ "DaveRandom\\CallbackValidator\\Type\\IntersectionType", "dc/d72/class_dave_random_1_1_callback_validator_1_1_type_1_1_intersection_type.html", null ],
+      [ "DaveRandom\\CallbackValidator\\Type\\NamedType", "d4/d4f/class_dave_random_1_1_callback_validator_1_1_type_1_1_named_type.html", null ],
+      [ "DaveRandom\\CallbackValidator\\Type\\UnionType", "d6/d3d/class_dave_random_1_1_callback_validator_1_1_type_1_1_union_type.html", null ]
+    ] ],
     [ "pocketmine\\data\\bedrock\\BedrockDataFiles", "d3/dfa/classpocketmine_1_1data_1_1bedrock_1_1_bedrock_data_files.html", null ],
     [ "pocketmine\\network\\BidirectionalBandwidthStatsTracker", "dd/d87/classpocketmine_1_1network_1_1_bidirectional_bandwidth_stats_tracker.html", null ],
     [ "pocketmine\\utils\\Binary", "d8/d1f/classpocketmine_1_1utils_1_1_binary.html", null ],
@@ -647,6 +652,7 @@ var hierarchy =
       [ "pocketmine\\command\\ClosureCommand", "d7/d03/classpocketmine_1_1command_1_1_closure_command.html", null ],
       [ "pocketmine\\command\\FormattedCommandAlias", "d7/d80/classpocketmine_1_1command_1_1_formatted_command_alias.html", null ],
       [ "pocketmine\\command\\PluginCommand", "d7/d63/classpocketmine_1_1command_1_1_plugin_command.html", null ],
+      [ "pocketmine\\command\\defaults\\CommandAliasCommand", "d4/dcb/classpocketmine_1_1command_1_1defaults_1_1_command_alias_command.html", null ],
       [ "pocketmine\\command\\defaults\\VanillaCommand", "d5/dfa/classpocketmine_1_1command_1_1defaults_1_1_vanilla_command.html", [
         [ "pocketmine\\command\\defaults\\BanCommand", "da/d23/classpocketmine_1_1command_1_1defaults_1_1_ban_command.html", null ],
         [ "pocketmine\\command\\defaults\\BanIpCommand", "d1/d73/classpocketmine_1_1command_1_1defaults_1_1_ban_ip_command.html", null ],
@@ -691,6 +697,7 @@ var hierarchy =
         [ "pocketmine\\command\\defaults\\XpCommand", "d1/d77/classpocketmine_1_1command_1_1defaults_1_1_xp_command.html", null ]
       ] ]
     ] ],
+    [ "pocketmine\\command\\CommandAliasMap", "df/d41/classpocketmine_1_1command_1_1_command_alias_map.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\command\\CommandData", "dd/d18/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_data.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\command\\CommandEnum", "df/dc3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_enum.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\command\\CommandEnumConstraint", "d1/d8f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_enum_constraint.html", null ],
@@ -2093,6 +2100,7 @@ var hierarchy =
       [ "pocketmine\\network\\mcpe\\protocol\\types\\StringPackSetting", "d1/dc2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_string_pack_setting.html", null ]
     ] ],
     [ "pocketmine\\entity\\object\\PaintingMotive", "de/d26/classpocketmine_1_1entity_1_1object_1_1_painting_motive.html", null ],
+    [ "DaveRandom\\CallbackValidator\\ParameterInfo", "d7/d23/class_dave_random_1_1_callback_validator_1_1_parameter_info.html", null ],
     [ "pocketmine\\world\\particle\\Particle", "d1/dac/interfacepocketmine_1_1world_1_1particle_1_1_particle.html", [
       [ "pocketmine\\world\\particle\\AngryVillagerParticle", "d9/dc1/classpocketmine_1_1world_1_1particle_1_1_angry_villager_particle.html", null ],
       [ "pocketmine\\world\\particle\\BlockBreakParticle", "db/df5/classpocketmine_1_1world_1_1particle_1_1_block_break_particle.html", null ],
@@ -2125,6 +2133,7 @@ var hierarchy =
       [ "pocketmine\\world\\particle\\RedstoneParticle", "d8/d7b/classpocketmine_1_1world_1_1particle_1_1_redstone_particle.html", null ],
       [ "pocketmine\\world\\particle\\SmokeParticle", "dc/df4/classpocketmine_1_1world_1_1particle_1_1_smoke_particle.html", null ],
       [ "pocketmine\\world\\particle\\SnowballPoofParticle", "d6/d9f/classpocketmine_1_1world_1_1particle_1_1_snowball_poof_particle.html", null ],
+      [ "pocketmine\\world\\particle\\SonicExplosionParticle", "d6/deb/classpocketmine_1_1world_1_1particle_1_1_sonic_explosion_particle.html", null ],
       [ "pocketmine\\world\\particle\\SplashParticle", "d7/dcc/classpocketmine_1_1world_1_1particle_1_1_splash_particle.html", null ],
       [ "pocketmine\\world\\particle\\SporeParticle", "d5/d5d/classpocketmine_1_1world_1_1particle_1_1_spore_particle.html", null ],
       [ "pocketmine\\world\\particle\\TerrainParticle", "dc/d7b/classpocketmine_1_1world_1_1particle_1_1_terrain_particle.html", null ],
@@ -2282,6 +2291,7 @@ var hierarchy =
     [ "pocketmine\\resourcepacks\\ResourcePackManager", "d3/d62/classpocketmine_1_1resourcepacks_1_1_resource_pack_manager.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\resourcepacks\\ResourcePackStackEntry", "d1/de1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1resourcepacks_1_1_resource_pack_stack_entry.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\types\\resourcepacks\\ResourcePackType", "d6/dfb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1resourcepacks_1_1_resource_pack_type.html", null ],
+    [ "DaveRandom\\CallbackValidator\\ReturnInfo", "d0/dbc/class_dave_random_1_1_callback_validator_1_1_return_info.html", null ],
     [ "pocketmine\\block\\RuntimeBlockStateRegistry", "de/d2c/classpocketmine_1_1block_1_1_runtime_block_state_registry.html", null ],
     [ "pocketmine\\data\\runtime\\RuntimeDataDescriber", "d8/d5e/interfacepocketmine_1_1data_1_1runtime_1_1_runtime_data_describer.html", [
       [ "pocketmine\\data\\runtime\\RuntimeDataReader", "de/d4d/classpocketmine_1_1data_1_1runtime_1_1_runtime_data_reader.html", null ],

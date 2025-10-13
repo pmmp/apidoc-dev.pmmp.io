@@ -4,6 +4,7 @@ var dir_2b1a946209a10c32ed7ce5dec2f54bea =
     [ "utils", "dir_0e34ead22975e0ff0241104243f4149d.html", "dir_0e34ead22975e0ff0241104243f4149d" ],
     [ "ClosureCommand.php", "d7/ddf/_closure_command_8php_source.html", null ],
     [ "Command.php", "d1/d1d/_command_8php_source.html", null ],
+    [ "CommandAliasMap.php", "dd/ddc/_command_alias_map_8php_source.html", null ],
     [ "CommandExecutor.php", "d1/d72/_command_executor_8php_source.html", null ],
     [ "CommandMap.php", "d3/da5/_command_map_8php_source.html", null ],
     [ "CommandSender.php", "d1/d3e/_command_sender_8php_source.html", null ],

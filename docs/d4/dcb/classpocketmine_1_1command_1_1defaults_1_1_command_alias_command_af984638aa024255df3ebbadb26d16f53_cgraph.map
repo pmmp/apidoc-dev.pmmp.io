@@ -1,0 +1,9 @@
+<map id="pocketmine\command\defaults\CommandAliasCommand\execute" name="pocketmine\command\defaults\CommandAliasCommand\execute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,62,255,117"/>
+<area shape="rect" id="Node000002" href="$d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html#a66247f527546f117e7b8d478b31783e8" title=" " alt="" coords="303,5,593,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,62,334,46,335,51,256,67"/>
+<area shape="rect" id="Node000003" href="$d6/df1/classpocketmine_1_1command_1_1_command.html#a5dffbdb5cf0ec26cfdd98a9ce531d2f6" title=" " alt="" coords="365,69,531,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,87,351,87,351,92,255,92"/>
+<area shape="rect" id="Node000004" href="$d6/df1/classpocketmine_1_1command_1_1_command.html#a0950e4c2830f8adc9526da754c56130d" title=" " alt="" coords="351,133,545,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="256,112,338,129,337,134,255,117"/>
+</map>

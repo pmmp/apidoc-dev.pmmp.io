@@ -1,5 +1,6 @@
 var interfacepocketmine_1_1command_1_1_command_sender =
 [
+    [ "getCommandAliasMap", "d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html#a66247f527546f117e7b8d478b31783e8", null ],
     [ "getEffectivePermissions", "d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html#a296dc806b8ece2cb4d5470aa866b8022", null ],
     [ "getPermissionRecalculationCallbacks", "d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html#a56ca3af23c90116ceb2673db28c8a6f8", null ],
     [ "getScreenLineHeight", "d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html#a1428021c250a27063d67667d81008b55", null ],

@@ -1,9 +1,9 @@
 var classpocketmine_1_1command_1_1defaults_1_1_version_command =
 [
     [ "execute", "d1/d1c/classpocketmine_1_1command_1_1defaults_1_1_version_command.html#aa8bd74818631a2558cae3646a00ea7ba", null ],
-    [ "getAliases", "d1/d1c/classpocketmine_1_1command_1_1defaults_1_1_version_command.html#acbccfc9431699f8cefb66e359419e1df", null ],
+    [ "getId", "d1/d1c/classpocketmine_1_1command_1_1defaults_1_1_version_command.html#a5dffbdb5cf0ec26cfdd98a9ce531d2f6", null ],
+    [ "getName", "d1/d1c/classpocketmine_1_1command_1_1defaults_1_1_version_command.html#a88a41e241a4891428166cdf2c0af8309", null ],
     [ "getPermissions", "d1/d1c/classpocketmine_1_1command_1_1defaults_1_1_version_command.html#a425117ae5e7bab32cc824f19f82b613b", null ],
-    [ "register", "d1/d1c/classpocketmine_1_1command_1_1defaults_1_1_version_command.html#ac9790f6d386568af660860ceb824ee9a", null ],
-    [ "setAliases", "d1/d1c/classpocketmine_1_1command_1_1defaults_1_1_version_command.html#a57c09d1063bc811e24bdc3d750e882d5", null ],
-    [ "setPermissions", "d1/d1c/classpocketmine_1_1command_1_1defaults_1_1_version_command.html#a8c40c93db847fcf02c3e7b19a729dd10", null ]
+    [ "setPermissions", "d1/d1c/classpocketmine_1_1command_1_1defaults_1_1_version_command.html#a8c40c93db847fcf02c3e7b19a729dd10", null ],
+    [ "testPermission", "d1/d1c/classpocketmine_1_1command_1_1defaults_1_1_version_command.html#a0950e4c2830f8adc9526da754c56130d", null ]
 ];

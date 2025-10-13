@@ -1,5 +1,6 @@
 var classpocketmine_1_1utils_1_1_broadcast_logger_forwarder =
 [
+    [ "getCommandAliasMap", "d7/de3/classpocketmine_1_1utils_1_1_broadcast_logger_forwarder.html#a295c19a99f99e466ecab2bfb9c376b4d", null ],
     [ "getEffectivePermissions", "d7/de3/classpocketmine_1_1utils_1_1_broadcast_logger_forwarder.html#a296dc806b8ece2cb4d5470aa866b8022", null ],
     [ "getPermissionRecalculationCallbacks", "d7/de3/classpocketmine_1_1utils_1_1_broadcast_logger_forwarder.html#a56ca3af23c90116ceb2673db28c8a6f8", null ],
     [ "getScreenLineHeight", "d7/de3/classpocketmine_1_1utils_1_1_broadcast_logger_forwarder.html#a28f4ab0919af60ec0aa3f21496b9a59d", null ],

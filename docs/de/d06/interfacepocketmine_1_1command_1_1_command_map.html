@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.35.1 git-e32e836dad793a3a3c8ddd8927c00e112b1e576a</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.35.1 git-f412a390b8f63d0311cc1d1c81046404153b8440</span>
    </div>
   </td>
  </tr>
@@ -114,7 +114,7 @@ $(function(){initNavTree('de/d06/interfacepocketmine_1_1command_1_1_command_map.
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../d8/d20/interfacepocketmine_1_1command_1_1_command_map__inherit__graph.svg" width="188" height="459"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d8/d20/interfacepocketmine_1_1command_1_1_command_map__inherit__graph.svg" width="191" height="479"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <div id="dynsection-1" onclick="return dynsection.toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-1-trigger" src="../../closed.png" alt="+"/> Collaboration diagram for pocketmine\command\CommandMap:</div>
@@ -132,45 +132,95 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a90f8dca7abd879c98ab54258ef8db65d" id="r_a90f8dca7abd879c98ab54258ef8db65d"><td class="memItemLeft" align="right" valign="top"><a id="a90f8dca7abd879c98ab54258ef8db65d" name="a90f8dca7abd879c98ab54258ef8db65d"></a>
 &#160;</td><td class="memItemRight" valign="bottom"><b>dispatch</b> (<a class="el" href="../../d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html">CommandSender</a> $sender, string $cmdLine)</td></tr>
 <tr class="separator:a90f8dca7abd879c98ab54258ef8db65d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8abd6da4af86eddc6aa67fe0594ec45f" id="r_a8abd6da4af86eddc6aa67fe0594ec45f"><td class="memItemLeft" align="right" valign="top"><a id="a8abd6da4af86eddc6aa67fe0594ec45f" name="a8abd6da4af86eddc6aa67fe0594ec45f"></a>
-&#160;</td><td class="memItemRight" valign="bottom"><b>getCommand</b> (string $name)</td></tr>
-<tr class="separator:a8abd6da4af86eddc6aa67fe0594ec45f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a375d4559c2f4b38d627c76fe179edf36" id="r_a375d4559c2f4b38d627c76fe179edf36"><td class="memItemLeft" align="right" valign="top"><a id="a375d4559c2f4b38d627c76fe179edf36" name="a375d4559c2f4b38d627c76fe179edf36"></a>
-&#160;</td><td class="memItemRight" valign="bottom"><b>register</b> (string $fallbackPrefix, <a class="el" href="../../d6/df1/classpocketmine_1_1command_1_1_command.html">Command</a> $command, ?string $label=null)</td></tr>
-<tr class="separator:a375d4559c2f4b38d627c76fe179edf36"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa6449f3f212c782d12e304b41ed54e67" id="r_aa6449f3f212c782d12e304b41ed54e67"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aa6449f3f212c782d12e304b41ed54e67">registerAll</a> (string $fallbackPrefix, array $commands)</td></tr>
-<tr class="separator:aa6449f3f212c782d12e304b41ed54e67"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a29575e078435f978c5392148570364fa" id="r_a29575e078435f978c5392148570364fa"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a29575e078435f978c5392148570364fa">getAliasMap</a> ()</td></tr>
+<tr class="separator:a29575e078435f978c5392148570364fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a59a0c2a110c0367d2f3ee8615f8af968" id="r_a59a0c2a110c0367d2f3ee8615f8af968"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a59a0c2a110c0367d2f3ee8615f8af968">getCommand</a> (string $name, ?<a class="el" href="../../df/d41/classpocketmine_1_1command_1_1_command_alias_map.html">CommandAliasMap</a> $senderAliasMap=null)</td></tr>
+<tr class="separator:a59a0c2a110c0367d2f3ee8615f8af968"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a36129c43262810fd2c1f2cf31b9eb470" id="r_a36129c43262810fd2c1f2cf31b9eb470"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a36129c43262810fd2c1f2cf31b9eb470">register</a> (<a class="el" href="../../d6/df1/classpocketmine_1_1command_1_1_command.html">Command</a> $command, array $otherAliases=[])</td></tr>
+<tr class="separator:a36129c43262810fd2c1f2cf31b9eb470"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
 <p class="definition">Definition at line <a class="el" href="../../d3/da5/_command_map_8php_source.html#l00026">26</a> of file <a class="el" href="../../d3/da5/_command_map_8php_source.html">CommandMap.php</a>.</p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="aa6449f3f212c782d12e304b41ed54e67" name="aa6449f3f212c782d12e304b41ed54e67"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa6449f3f212c782d12e304b41ed54e67">&#9670;&#160;</a></span>registerAll()</h2>
+<a id="a29575e078435f978c5392148570364fa" name="a29575e078435f978c5392148570364fa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a29575e078435f978c5392148570364fa">&#9670;&#160;</a></span>getAliasMap()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">pocketmine\command\CommandMap::registerAll </td>
+          <td class="memname">pocketmine\command\CommandMap::getAliasMap </td>
           <td>(</td>
-          <td class="paramtype">string</td>          <td class="paramname"><span class="paramname"><em>$fallbackPrefix</em></span>, </td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Returns the global alias map for this command map. Aliases in this map will be used as a fallback when user-specific aliases don't give any results. </p>
+
+<p>Implemented in <a class="el" href="../../d9/dce/classpocketmine_1_1command_1_1_simple_command_map.html#ac94767d730dff259b86facc25bcbfae2">pocketmine\command\SimpleCommandMap</a>.</p>
+
+</div>
+</div>
+<a id="a59a0c2a110c0367d2f3ee8615f8af968" name="a59a0c2a110c0367d2f3ee8615f8af968"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a59a0c2a110c0367d2f3ee8615f8af968">&#9670;&#160;</a></span>getCommand()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">pocketmine\command\CommandMap::getCommand </td>
+          <td>(</td>
+          <td class="paramtype">string</td>          <td class="paramname"><span class="paramname"><em>$name</em></span>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">array</td>          <td class="paramname"><span class="paramname"><em>$commands</em></span>&#160;)</td>
+          <td class="paramtype">?<a class="el" href="../../df/d41/classpocketmine_1_1command_1_1_command_alias_map.html">CommandAliasMap</a></td>          <td class="paramname"><span class="paramname"><em>$senderAliasMap</em></span><span class="paramdefsep"> = </span><span class="paramdefval">null</span>&#160;)</td>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Returns the command(s) bound to the given name or alias. This will return an array if the alias is conflicted (multiple commands bound to it).</p>
+<dl class="section return"><dt>Returns</dt><dd>Command|Command[]|null @phpstan-return Command|array&lt;int, Command&gt;|null </dd></dl>
+
+<p>Implemented in <a class="el" href="../../d9/dce/classpocketmine_1_1command_1_1_simple_command_map.html#a8ba68704179dffcb21914a0815097703">pocketmine\command\SimpleCommandMap</a>.</p>
+
+</div>
+</div>
+<a id="a36129c43262810fd2c1f2cf31b9eb470" name="a36129c43262810fd2c1f2cf31b9eb470"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a36129c43262810fd2c1f2cf31b9eb470">&#9670;&#160;</a></span>register()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">pocketmine\command\CommandMap::register </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/df1/classpocketmine_1_1command_1_1_command.html">Command</a></td>          <td class="paramname"><span class="paramname"><em>$command</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">array</td>          <td class="paramname"><span class="paramname"><em>$otherAliases</em></span><span class="paramdefsep"> = </span><span class="paramdefval">[]</span>&#160;)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Registering a command with (command(namespace="myplugin", name="mycommand"), otherAliases=["myc"]) will bind:</p><ul>
+<li>/myplugin:mycommand (always works, error thrown if not unique)</li>
+<li>/mycommand (only works if not conflicted, not required to be unique)</li>
+<li>/myc (only works if not conflicted, not required to be unique)</li>
+</ul>
+<p>If two commands claim the same alias, it will become conflicted, and neither command will be usable with that alias unless the alias is explicitly rebound in the alias map. The user will be shown an error when trying to use it, listing all namespaced names (not aliases) of the commands bound to it. The user can then use one of the namespaced names to run the command they want.</p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramtype">Command[]</td><td class="paramname">$commands</td><td></td></tr>
+    <tr><td class="paramtype">string[]</td><td class="paramname">$otherAliases</td><td></td></tr>
   </table>
   </dd>
 </dl>
+<p>@phpstan-param list&lt;string&gt; $otherAliases </p>
 
-<p>Implemented in <a class="el" href="../../d9/dce/classpocketmine_1_1command_1_1_simple_command_map.html#a826259e3accdc4610c6b5b5ba6ca8956">pocketmine\command\SimpleCommandMap</a>.</p>
+<p>Implemented in <a class="el" href="../../d9/dce/classpocketmine_1_1command_1_1_simple_command_map.html#abcf3772f913803afa9e625dfb8d7d5b1">pocketmine\command\SimpleCommandMap</a>.</p>
 
 </div>
 </div>

@@ -1,0 +1,9 @@
+<map id="DaveRandom\CallbackValidator\Type\BaseType" name="DaveRandom\CallbackValidator\Type\BaseType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="249,5,469,85"/>
+<area shape="rect" id="Node000002" href="$dc/d72/class_dave_random_1_1_callback_validator_1_1_type_1_1_intersection_type.html" title=" " alt="" coords="5,133,225,233"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="278,95,204,136,202,131,276,90"/>
+<area shape="rect" id="Node000003" href="$d4/d4f/class_dave_random_1_1_callback_validator_1_1_type_1_1_named_type.html" title=" " alt="" coords="249,133,469,233"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="362,99,362,133,357,133,357,99"/>
+<area shape="rect" id="Node000004" href="$d6/d3d/class_dave_random_1_1_callback_validator_1_1_type_1_1_union_type.html" title=" " alt="" coords="493,133,713,233"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="443,90,517,131,514,136,440,95"/>
+</map>

@@ -1,5 +1,11 @@
 var NAVTREEINDEX61 =
 {
+"d4/d33/_potion_type_id_map_8php_source.html":[4,0,0,5,0,24],
+"d4/d34/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_player_block_action_with_block_info.html":[3,0,1,16,0,6,1,65],
+"d4/d35/_fence_gate_8php_source.html":[4,0,0,0,101],
+"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html":[2,0,0,0,203],
+"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html":[3,0,1,0,205],
+"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,203,59],
 "d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,205,59],
 "d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#a09f4667329f89292dd319d56c4243b59":[2,0,0,0,203,30],
 "d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#a09f4667329f89292dd319d56c4243b59":[3,0,1,0,205,30],
@@ -243,11 +249,5 @@ var NAVTREEINDEX61 =
 "d4/d42/classpocketmine_1_1block_1_1_potato.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,172,4],
 "d4/d42/classpocketmine_1_1block_1_1_potato.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,174,4],
 "d4/d42/classpocketmine_1_1block_1_1_potato.html#aa4773f0153324728a2f41820fa52442d":[2,0,0,0,172,17],
-"d4/d42/classpocketmine_1_1block_1_1_potato.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,174,17],
-"d4/d42/classpocketmine_1_1block_1_1_potato.html#aac6828efb885bc8fe0f8876728ddde5d":[2,0,0,0,172,34],
-"d4/d42/classpocketmine_1_1block_1_1_potato.html#aac6828efb885bc8fe0f8876728ddde5d":[3,0,1,0,174,34],
-"d4/d42/classpocketmine_1_1block_1_1_potato.html#aad121ffc31a225748d5bcc0e0752a9f0":[2,0,0,0,172,23],
-"d4/d42/classpocketmine_1_1block_1_1_potato.html#aad121ffc31a225748d5bcc0e0752a9f0":[3,0,1,0,174,23],
-"d4/d42/classpocketmine_1_1block_1_1_potato.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[2,0,0,0,172,31],
-"d4/d42/classpocketmine_1_1block_1_1_potato.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,174,31]
+"d4/d42/classpocketmine_1_1block_1_1_potato.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,174,17]
 };

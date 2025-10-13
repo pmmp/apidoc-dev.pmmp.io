@@ -4,6 +4,7 @@ var dir_3bb61118b712c682ac18a1a005592738 =
     [ "BanIpCommand.php", "de/df1/_ban_ip_command_8php_source.html", null ],
     [ "BanListCommand.php", "da/d43/_ban_list_command_8php_source.html", null ],
     [ "ClearCommand.php", "dc/d6e/_clear_command_8php_source.html", null ],
+    [ "CommandAliasCommand.php", "d7/d3a/_command_alias_command_8php_source.html", null ],
     [ "DefaultGamemodeCommand.php", "dc/d7c/_default_gamemode_command_8php_source.html", null ],
     [ "DeopCommand.php", "dd/df2/_deop_command_8php_source.html", null ],
     [ "DifficultyCommand.php", "dc/d4b/_difficulty_command_8php_source.html", null ],

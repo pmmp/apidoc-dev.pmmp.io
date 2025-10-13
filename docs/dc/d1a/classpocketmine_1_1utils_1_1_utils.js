@@ -20,5 +20,5 @@ var classpocketmine_1_1utils_1_1_utils =
     [ "stringifyKeys", "dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a61fa28abdb615125801308a857e76db7", null ],
     [ "testValidInstance", "dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a82b8d8de5245778093dd85feea8aee60", null ],
     [ "validateArrayValueType", "dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a36c8869416d8f0672e18858f34ec533d", null ],
-    [ "validateCallableSignature", "dc/d1a/classpocketmine_1_1utils_1_1_utils.html#ab55366010bb9c9ec9ee57889e1ff5567", null ]
+    [ "validateCallableSignature", "dc/d1a/classpocketmine_1_1utils_1_1_utils.html#a15e3ccf6e00a075e830103e12a0da233", null ]
 ];
