@@ -278,7 +278,9 @@ var hierarchy =
           [ "pocketmine\\block\\DyedCandle", "dc/d10/classpocketmine_1_1block_1_1_dyed_candle.html", null ]
         ] ],
         [ "pocketmine\\block\\Cauldron", "dc/d05/classpocketmine_1_1block_1_1_cauldron.html", null ],
-        [ "pocketmine\\block\\Chain", "d3/dbc/classpocketmine_1_1block_1_1_chain.html", null ],
+        [ "pocketmine\\block\\Chain", "d3/dbc/classpocketmine_1_1block_1_1_chain.html", [
+          [ "pocketmine\\block\\CopperChain", "df/d88/classpocketmine_1_1block_1_1_copper_chain.html", null ]
+        ] ],
         [ "pocketmine\\block\\ChemicalHeat", "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html", null ],
         [ "pocketmine\\block\\Chest", "d8/d5c/classpocketmine_1_1block_1_1_chest.html", [
           [ "pocketmine\\block\\TrappedChest", "d0/dd3/classpocketmine_1_1block_1_1_trapped_chest.html", null ]
@@ -318,6 +320,7 @@ var hierarchy =
             ] ]
           ] ],
           [ "pocketmine\\block\\Button", "d2/da2/classpocketmine_1_1block_1_1_button.html", null ],
+          [ "pocketmine\\block\\CactusFlower", "dd/dc8/classpocketmine_1_1block_1_1_cactus_flower.html", null ],
           [ "pocketmine\\block\\Carpet", "d8/d55/classpocketmine_1_1block_1_1_carpet.html", null ],
           [ "pocketmine\\block\\CaveVines", "dc/d11/classpocketmine_1_1block_1_1_cave_vines.html", null ],
           [ "pocketmine\\block\\ChorusFlower", "d8/d5a/classpocketmine_1_1block_1_1_chorus_flower.html", null ],
@@ -380,7 +383,9 @@ var hierarchy =
           [ "pocketmine\\block\\FrostedIce", "d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html", null ]
         ] ],
         [ "pocketmine\\block\\Ladder", "dd/dd0/classpocketmine_1_1block_1_1_ladder.html", null ],
-        [ "pocketmine\\block\\Lantern", "de/d29/classpocketmine_1_1block_1_1_lantern.html", null ],
+        [ "pocketmine\\block\\Lantern", "de/d29/classpocketmine_1_1block_1_1_lantern.html", [
+          [ "pocketmine\\block\\CopperLantern", "d1/d9d/classpocketmine_1_1block_1_1_copper_lantern.html", null ]
+        ] ],
         [ "pocketmine\\block\\Leaves", "d8/deb/classpocketmine_1_1block_1_1_leaves.html", null ],
         [ "pocketmine\\block\\Lectern", "de/d09/classpocketmine_1_1block_1_1_lectern.html", null ],
         [ "pocketmine\\block\\LightningRod", "d9/d2e/classpocketmine_1_1block_1_1_lightning_rod.html", null ],
@@ -413,6 +418,7 @@ var hierarchy =
         ] ],
         [ "pocketmine\\block\\Stonecutter", "df/d79/classpocketmine_1_1block_1_1_stonecutter.html", null ],
         [ "pocketmine\\block\\Thin", "d2/d75/classpocketmine_1_1block_1_1_thin.html", [
+          [ "pocketmine\\block\\CopperBars", "d9/d09/classpocketmine_1_1block_1_1_copper_bars.html", null ],
           [ "pocketmine\\block\\GlassPane", "d5/df3/classpocketmine_1_1block_1_1_glass_pane.html", [
             [ "pocketmine\\block\\StainedGlassPane", "d3/df2/classpocketmine_1_1block_1_1_stained_glass_pane.html", null ]
           ] ],
@@ -787,12 +793,16 @@ var hierarchy =
     [ "pocketmine\\network\\mcpe\\protocol\\types\\inventory\\ContainerUIIds", "db/d4b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_container_u_i_ids.html", null ],
     [ "pocketmine\\block\\utils\\CopperMaterial", "d3/d54/interfacepocketmine_1_1block_1_1utils_1_1_copper_material.html", [
       [ "pocketmine\\block\\Copper", "d7/d18/classpocketmine_1_1block_1_1_copper.html", null ],
+      [ "pocketmine\\block\\CopperBars", "d9/d09/classpocketmine_1_1block_1_1_copper_bars.html", null ],
       [ "pocketmine\\block\\CopperBulb", "d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html", null ],
+      [ "pocketmine\\block\\CopperChain", "df/d88/classpocketmine_1_1block_1_1_copper_chain.html", null ],
       [ "pocketmine\\block\\CopperDoor", "df/d58/classpocketmine_1_1block_1_1_copper_door.html", null ],
       [ "pocketmine\\block\\CopperGrate", "d0/d03/classpocketmine_1_1block_1_1_copper_grate.html", null ],
+      [ "pocketmine\\block\\CopperLantern", "d1/d9d/classpocketmine_1_1block_1_1_copper_lantern.html", null ],
       [ "pocketmine\\block\\CopperSlab", "d1/d66/classpocketmine_1_1block_1_1_copper_slab.html", null ],
       [ "pocketmine\\block\\CopperStairs", "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html", null ],
-      [ "pocketmine\\block\\CopperTrapdoor", "da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html", null ]
+      [ "pocketmine\\block\\CopperTrapdoor", "da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html", null ],
+      [ "pocketmine\\block\\LightningRod", "d9/d2e/classpocketmine_1_1block_1_1_lightning_rod.html", null ]
     ] ],
     [ "pocketmine\\block\\utils\\CoralMaterial", "d9/de2/interfacepocketmine_1_1block_1_1utils_1_1_coral_material.html", [
       [ "pocketmine\\block\\BaseCoral", "d6/db0/classpocketmine_1_1block_1_1_base_coral.html", null ],
@@ -2321,6 +2331,7 @@ var hierarchy =
         [ "pocketmine\\nbt\\NoSuchTagException", "da/df5/classpocketmine_1_1nbt_1_1_no_such_tag_exception.html", null ],
         [ "pocketmine\\nbt\\UnexpectedTagTypeException", "de/d5d/classpocketmine_1_1nbt_1_1_unexpected_tag_type_exception.html", null ]
       ] ],
+      [ "pocketmine\\network\\FilterNoisyPacketException", "d1/d97/classpocketmine_1_1network_1_1_filter_noisy_packet_exception.html", null ],
       [ "pocketmine\\network\\NetworkInterfaceStartException", "db/d75/classpocketmine_1_1network_1_1_network_interface_start_exception.html", null ],
       [ "pocketmine\\network\\PacketHandlingException", "d1/d78/classpocketmine_1_1network_1_1_packet_handling_exception.html", null ],
       [ "pocketmine\\network\\mcpe\\JwtException", "d6/d69/classpocketmine_1_1network_1_1mcpe_1_1_jwt_exception.html", null ],

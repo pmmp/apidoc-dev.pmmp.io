@@ -1,5 +1,6 @@
 var classpocketmine_1_1block_1_1_tall_grass =
 [
+    [ "__construct", "d7/d79/classpocketmine_1_1block_1_1_tall_grass.html#a5579789e1a75021957b46a7d6a6508b0", null ],
     [ "__toString", "d7/d79/classpocketmine_1_1block_1_1_tall_grass.html#acb449b40461f4800cf6e6288cb9a069d", null ],
     [ "addVelocityToEntity", "d7/d79/classpocketmine_1_1block_1_1_tall_grass.html#adc7b2fcbcc10f046b1cbcafdd0858863", null ],
     [ "asItem", "d7/d79/classpocketmine_1_1block_1_1_tall_grass.html#a286fc64348f13417dcb6106c2695911b", null ],

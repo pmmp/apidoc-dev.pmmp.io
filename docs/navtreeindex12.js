@@ -1,5 +1,6 @@
 var NAVTREEINDEX12 =
 {
+"d0/dd5/classpocketmine_1_1block_1_1_big_dripleaf_head.html#ae829b9f476afef6b23d6f4f7fd558e0f":[3,0,1,0,23,32],
 "d0/dd5/classpocketmine_1_1block_1_1_big_dripleaf_head.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,21,54],
 "d0/dd5/classpocketmine_1_1block_1_1_big_dripleaf_head.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,23,54],
 "d0/dd5/classpocketmine_1_1block_1_1_big_dripleaf_head.html#af45a3d45c4ab6528c6641915722b9de8":[2,0,0,0,21,6],
@@ -18,11 +19,11 @@ var NAVTREEINDEX12 =
 "d0/dd5/classpocketmine_1_1block_1_1_big_dripleaf_head.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,23,27],
 "d0/dd6/_light_population_task_8php_source.html":[4,0,0,25,3,1],
 "d0/dd6/_projectile_hit_block_event_8php_source.html":[4,0,0,7,1,30],
-"d0/dd8/_stem_8php_source.html":[4,0,0,0,219],
+"d0/dd8/_stem_8php_source.html":[4,0,0,0,223],
 "d0/dd8/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_spawn_response_packet_handler.html":[3,0,1,16,0,5,12],
 "d0/dd8/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_spawn_response_packet_handler.html#a1d2f45d14ddd97e7da7f66a8afe763c9":[3,0,1,16,0,5,12,0],
 "d0/ddc/_chest_close_sound_8php_source.html":[4,0,0,25,5,39],
-"d0/dde/_crops_8php_source.html":[4,0,0,0,79],
+"d0/dde/_crops_8php_source.html":[4,0,0,0,83],
 "d0/dde/_unconnected_ping_8php_source.html":[4,0,1,0,9,0,2,24],
 "d0/dde/classpocketmine_1_1block_1_1_bed.html":[2,0,0,0,17],
 "d0/dde/classpocketmine_1_1block_1_1_bed.html":[3,0,1,0,19],
@@ -248,6 +249,5 @@ var NAVTREEINDEX12 =
 "d0/dfb/classpocketmine_1_1event_1_1entity_1_1_projectile_hit_entity_event.html#a2333d7f055234d7fefc00066158bd888":[3,0,1,9,1,31,5],
 "d0/dfb/classpocketmine_1_1event_1_1entity_1_1_projectile_hit_entity_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,1,31,0],
 "d0/dfb/classpocketmine_1_1event_1_1entity_1_1_projectile_hit_entity_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,1,31,0],
-"d0/dfb/classpocketmine_1_1event_1_1entity_1_1_projectile_hit_entity_event.html#a954c4b61c6444766ac5dd3e083c4eb98":[2,0,0,3,1,31,2],
-"d0/dfb/classpocketmine_1_1event_1_1entity_1_1_projectile_hit_entity_event.html#a954c4b61c6444766ac5dd3e083c4eb98":[3,0,1,9,1,31,2]
+"d0/dfb/classpocketmine_1_1event_1_1entity_1_1_projectile_hit_entity_event.html#a954c4b61c6444766ac5dd3e083c4eb98":[2,0,0,3,1,31,2]
 };

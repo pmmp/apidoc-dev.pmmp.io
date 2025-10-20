@@ -76,5 +76,5 @@ var searchData=
   ['opentounchecked_73',['openToUnchecked',['../d2/dc0/interfacepocketmine_1_1block_1_1utils_1_1_menu_accessor.html#ad9ad489fb9e05ecfc874e18e5939ea30',1,'pocketmine::block::utils::MenuAccessor']]],
   ['orderchunkpopulation_74',['orderChunkPopulation',['../d4/d2b/classpocketmine_1_1world_1_1_world.html#ae70fe036fcd3cace8d11a28c2a5ad5e2',1,'pocketmine::world::World']]],
   ['orderchunks_75',['orderChunks',['../d0/d6f/classpocketmine_1_1player_1_1_player.html#ad8f93cc2338631b7bd229bfc68d477f2',1,'pocketmine::player::Player']]],
-  ['override_76',['override',['../d7/d64/classpocketmine_1_1utils_1_1_string_to_t_parser.html#a99d90774499c135f481aeffd7b66a6ef',1,'pocketmine::utils::StringToTParser']]]
+  ['override_76',['override',['../de/d75/classpocketmine_1_1item_1_1_string_to_item_parser.html#aaa5a10c2763b7363b12110631a921e90',1,'pocketmine\item\StringToItemParser\override()'],['../d7/d64/classpocketmine_1_1utils_1_1_string_to_t_parser.html#a99d90774499c135f481aeffd7b66a6ef',1,'pocketmine\\utils\StringToTParser\override()']]]
 ];

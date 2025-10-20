@@ -1,7 +1,7 @@
 <map id="pocketmine\block\Cactus" name="pocketmine\block\Cactus">
-<area shape="rect" id="Node000001" title=" " alt="" coords="369,2607,575,2772"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="369,2607,575,2792"/>
 <area shape="rect" id="Node000002" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="263,2465,473,2530"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="394,2541,429,2605,425,2608,390,2544"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="393,2541,427,2605,422,2608,389,2544"/>
 <area shape="rect" id="Node000003" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="255,1963,481,2388"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,2402,371,2464,365,2464,365,2402"/>
 <area shape="rect" id="Node000004" href="$dd/d18/classpocketmine_1_1block_1_1_block_identifier.html" title=" " alt="" coords="5,1745,232,1850"/>
@@ -21,5 +21,5 @@
 <area shape="rect" id="Node000011" href="$d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html" title=" " alt="" coords="827,5,1040,405"/>
 <area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="936,405,936,598,931,598,931,405"/>
 <area shape="rect" id="Node000012" href="$dc/d33/interfacepocketmine_1_1block_1_1utils_1_1_ageable.html" title=" " alt="" coords="497,2437,658,2557"/>
-<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="540,2571,520,2608,515,2605,536,2568"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="542,2570,523,2608,518,2605,538,2568"/>
 </map>
