@@ -1,5 +1,16 @@
 var NAVTREEINDEX48 =
 {
+"d3/d4d/classpocketmine_1_1world_1_1format_1_1io_1_1_fast_chunk_serializer.html#a957ebcc9f161151638bbe0cbfaae70d1":[3,0,1,30,1,0,7,1],
+"d3/d4e/_sea_lantern_8php_source.html":[4,0,0,0,205],
+"d3/d4f/_jungle_tree_8php_source.html":[4,0,0,25,2,5,2],
+"d3/d4f/classpocketmine_1_1entity_1_1animation_1_1_respawn_animation.html":[3,0,1,7,0,9],
+"d3/d4f/classpocketmine_1_1entity_1_1animation_1_1_respawn_animation.html#a72c7ea27d60bf18f65789e4546d8e0ea":[3,0,1,7,0,9,0],
+"d3/d51/_crafting_create_specific_result_stack_request_action_8php_source.html":[4,0,1,0,1,0,1,5,0,2],
+"d3/d52/_powered_by_redstone_trait_8php_source.html":[4,0,0,0,2,54],
+"d3/d52/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_short_metadata_property.html":[3,0,1,16,0,6,1,3,19],
+"d3/d53/_clientbound_control_scheme_set_packet_8php_source.html":[4,0,1,0,1,0,35],
+"d3/d54/interfacepocketmine_1_1block_1_1utils_1_1_copper_material.html":[3,0,1,0,2,8],
+"d3/d54/interfacepocketmine_1_1block_1_1utils_1_1_copper_material.html#a5589a4f36e3f44cf11120116b93b0802":[3,0,1,0,2,8,0],
 "d3/d54/interfacepocketmine_1_1block_1_1utils_1_1_copper_material.html#ace264e4db5ba15d3f7f2072f79d77023":[3,0,1,0,2,8,1],
 "d3/d55/_async_pool_worker_entry_8php_source.html":[4,0,0,18,1],
 "d3/d55/_entity_event_8php_source.html":[4,0,0,7,1,14],
@@ -238,16 +249,5 @@ var NAVTREEINDEX48 =
 "d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#aa81f13d062917aee792bb69aaad1b80c":[2,0,0,0,52,64],
 "d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#aa81f13d062917aee792bb69aaad1b80c":[3,0,1,0,54,64],
 "d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#aac6828efb885bc8fe0f8876728ddde5d":[2,0,0,0,52,36],
-"d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#aac6828efb885bc8fe0f8876728ddde5d":[3,0,1,0,54,36],
-"d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#aad121ffc31a225748d5bcc0e0752a9f0":[2,0,0,0,52,24],
-"d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#aad121ffc31a225748d5bcc0e0752a9f0":[3,0,1,0,54,24],
-"d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#aae64954d526111e8b6a0b3a1c3b44eb8":[2,0,0,0,52,33],
-"d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#aae64954d526111e8b6a0b3a1c3b44eb8":[3,0,1,0,54,33],
-"d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#ab0814959ce6f9aec51ba564a42662419":[2,0,0,0,52,22],
-"d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#ab0814959ce6f9aec51ba564a42662419":[3,0,1,0,54,22],
-"d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,52,19],
-"d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,54,19],
-"d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#ab6b90601adfc9732893dcffe256514a9":[2,0,0,0,52,71],
-"d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#ab6b90601adfc9732893dcffe256514a9":[3,0,1,0,54,71],
-"d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#ab9a822d0d07c4e13015f42578f1ad6a2":[2,0,0,0,52,2]
+"d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#aac6828efb885bc8fe0f8876728ddde5d":[3,0,1,0,54,36]
 };

@@ -56,7 +56,7 @@ var classpocketmine_1_1block_1_1_tall_grass =
     [ "onEntityInside", "d7/d79/classpocketmine_1_1block_1_1_tall_grass.html#a49395de82d025ca78745a17528049f18", null ],
     [ "onEntityLand", "d7/d79/classpocketmine_1_1block_1_1_tall_grass.html#a57b1586e3b6d81440be1aa89471f2a2a", null ],
     [ "onIncinerate", "d7/d79/classpocketmine_1_1block_1_1_tall_grass.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b", null ],
-    [ "onInteract", "d7/d79/classpocketmine_1_1block_1_1_tall_grass.html#ab731ef1ac99496287ef09c72ded1dfe4", null ],
+    [ "onInteract", "d7/d79/classpocketmine_1_1block_1_1_tall_grass.html#abab92713e8a91076b68b238d256ccda9", null ],
     [ "onNearbyBlockChange", "d7/d79/classpocketmine_1_1block_1_1_tall_grass.html#a863a7a7c27f111cc622ebb10711807c2", null ],
     [ "onPostPlace", "d7/d79/classpocketmine_1_1block_1_1_tall_grass.html#acf338037e498bd5c8dbe6d4bceb2a7ca", null ],
     [ "onProjectileHit", "d7/d79/classpocketmine_1_1block_1_1_tall_grass.html#a0931c682312473fc2540464b7a4747c0", null ],

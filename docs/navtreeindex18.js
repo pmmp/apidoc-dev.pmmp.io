@@ -1,5 +1,6 @@
 var NAVTREEINDEX18 =
 {
+"d1/d4b/classpocketmine_1_1item_1_1_written_book.html#a1179a3b7a49461ede413b50c82b5684a":[2,0,0,5,126,35],
 "d1/d4b/classpocketmine_1_1item_1_1_written_book.html#a1179a3b7a49461ede413b50c82b5684a":[3,0,1,12,127,35],
 "d1/d4b/classpocketmine_1_1item_1_1_written_book.html#a1df151eb419168f838e6d927c50f9210":[2,0,0,5,126,6],
 "d1/d4b/classpocketmine_1_1item_1_1_written_book.html#a1df151eb419168f838e6d927c50f9210":[3,0,1,12,127,6],
@@ -233,7 +234,7 @@ var NAVTREEINDEX18 =
 "d1/d50/classpocketmine_1_1item_1_1_cooked_mutton.html#af85accbedba28b67bb66d5f12d329585":[2,0,0,5,29,40],
 "d1/d50/classpocketmine_1_1item_1_1_cooked_mutton.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,30,40],
 "d1/d50/classpocketmine_1_1world_1_1format_1_1io_1_1exception_1_1_unsupported_world_format_exception.html":[3,0,1,30,1,0,1,2],
-"d1/d52/_stained_hardened_glass_8php_source.html":[4,0,0,0,220],
+"d1/d52/_stained_hardened_glass_8php_source.html":[4,0,0,0,224],
 "d1/d52/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_block_item_id_map.html":[3,0,1,6,0,1,1],
 "d1/d52/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_block_item_id_map.html#a7ec946cc5ed04526db0bb9885bdcf80a":[3,0,1,6,0,1,1,0],
 "d1/d53/_promise_shared_data_8php_source.html":[4,0,0,16,2],
@@ -241,13 +242,12 @@ var NAVTREEINDEX18 =
 "d1/d53/classpocketmine_1_1plugin_1_1_plugin_load_triage.html":[3,0,1,19,13],
 "d1/d54/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1recipe_1_1_string_id_meta_item_descriptor.html":[3,0,1,16,0,6,1,6,20],
 "d1/d55/_player_death_event_8php_source.html":[4,0,0,7,3,10],
-"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html":[2,0,0,0,160],
-"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html":[3,0,1,0,162],
-"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,160,58],
-"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,162,58],
-"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,160,18],
-"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,162,18],
-"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,160,60],
-"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,162,60],
-"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,160,47]
+"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html":[2,0,0,0,162],
+"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html":[3,0,1,0,164],
+"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,162,58],
+"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,164,58],
+"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,162,18],
+"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,164,18],
+"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,162,60],
+"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,164,60]
 };

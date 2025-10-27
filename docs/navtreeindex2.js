@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"d0/d1c/classpocketmine_1_1block_1_1_hardened_glass.html#a29de0ee0759d77d0295937cbd76c8db5":[2,0,0,0,129,8],
 "d0/d1c/classpocketmine_1_1block_1_1_hardened_glass.html#a29de0ee0759d77d0295937cbd76c8db5":[3,0,1,0,131,8],
 "d0/d1c/classpocketmine_1_1block_1_1_hardened_glass.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[2,0,0,0,129,25],
 "d0/d1c/classpocketmine_1_1block_1_1_hardened_glass.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[3,0,1,0,131,25],
@@ -129,8 +130,8 @@ var NAVTREEINDEX2 =
 "d0/d23/classraklib_1_1utils_1_1_exception_trace_cleaner.html":[3,0,2,4,0],
 "d0/d23/classraklib_1_1utils_1_1_exception_trace_cleaner.html#a3054bfc6fea93328e9e03b7e3dc3aeb5":[3,0,2,4,0,0],
 "d0/d25/_player_respawn_anchor_use_event_8php_source.html":[4,0,0,7,3,38],
-"d0/d25/classpocketmine_1_1world_1_1sound_1_1_trident_throw_sound.html":[3,0,1,30,5,107],
-"d0/d25/classpocketmine_1_1world_1_1sound_1_1_trident_throw_sound.html#a3eef21e67caffa8d95b59466550d613c":[3,0,1,30,5,107,0],
+"d0/d25/classpocketmine_1_1world_1_1sound_1_1_trident_throw_sound.html":[3,0,1,30,5,108],
+"d0/d25/classpocketmine_1_1world_1_1sound_1_1_trident_throw_sound.html#a3eef21e67caffa8d95b59466550d613c":[3,0,1,30,5,108,0],
 "d0/d26/classpocketmine_1_1event_1_1player_1_1_player_entity_interact_event.html":[2,0,0,3,3,17],
 "d0/d26/classpocketmine_1_1event_1_1player_1_1_player_entity_interact_event.html":[3,0,1,9,3,17],
 "d0/d26/classpocketmine_1_1event_1_1player_1_1_player_entity_interact_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,3,17,0],
@@ -142,7 +143,7 @@ var NAVTREEINDEX2 =
 "d0/d26/classpocketmine_1_1event_1_1player_1_1_player_entity_interact_event.html#af0feadb54b8ec4c415618438c9b4610b":[2,0,0,3,3,17,1],
 "d0/d26/classpocketmine_1_1event_1_1player_1_1_player_entity_interact_event.html#af0feadb54b8ec4c415618438c9b4610b":[3,0,1,9,3,17,1],
 "d0/d26/interfacepocketmine_1_1entity_1_1projectile_1_1_projectile_source.html":[3,0,1,7,3,6],
-"d0/d27/_lightning_rod_8php_source.html":[4,0,0,0,149],
+"d0/d27/_lightning_rod_8php_source.html":[4,0,0,0,150],
 "d0/d2b/classpocketmine_1_1scheduler_1_1_cancel_task_exception.html":[2,0,0,11,6],
 "d0/d2b/classpocketmine_1_1scheduler_1_1_cancel_task_exception.html":[3,0,1,22,6],
 "d0/d2c/_disconnect_packet_8php_source.html":[4,0,1,0,1,0,64],
@@ -248,6 +249,5 @@ var NAVTREEINDEX2 =
 "d0/d39/_broadcast_logger_forwarder_8php_source.html":[4,0,0,23,1],
 "d0/d39/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_float_game_rule.html":[3,0,1,16,0,6,1,37],
 "d0/d3a/_chunk_load_event_8php_source.html":[4,0,0,7,6,1],
-"d0/d3a/_redstone_torch_8php_source.html":[4,0,0,0,192],
-"d0/d3b/_vanilla_armor_materials_8php_source.html":[4,0,0,10,130]
+"d0/d3a/_redstone_torch_8php_source.html":[4,0,0,0,196]
 };

@@ -229,6 +229,7 @@ var annotated_dup =
         [ "HayBale", "dd/dc1/classpocketmine_1_1block_1_1_hay_bale.html", "dd/dc1/classpocketmine_1_1block_1_1_hay_bale" ],
         [ "Hopper", "d6/d3a/classpocketmine_1_1block_1_1_hopper.html", "d6/d3a/classpocketmine_1_1block_1_1_hopper" ],
         [ "Ice", "d1/def/classpocketmine_1_1block_1_1_ice.html", "d1/def/classpocketmine_1_1block_1_1_ice" ],
+        [ "InfestedPillar", "db/d14/classpocketmine_1_1block_1_1_infested_pillar.html", "db/d14/classpocketmine_1_1block_1_1_infested_pillar" ],
         [ "InfestedStone", "d6/d94/classpocketmine_1_1block_1_1_infested_stone.html", "d6/d94/classpocketmine_1_1block_1_1_infested_stone" ],
         [ "IronOre", "d7/df0/classpocketmine_1_1block_1_1_iron_ore.html", "d7/df0/classpocketmine_1_1block_1_1_iron_ore" ],
         [ "ItemFrame", "d9/dc4/classpocketmine_1_1block_1_1_item_frame.html", "d9/dc4/classpocketmine_1_1block_1_1_item_frame" ],
@@ -254,15 +255,18 @@ var annotated_dup =
         [ "MonsterSpawner", "de/db3/classpocketmine_1_1block_1_1_monster_spawner.html", "de/db3/classpocketmine_1_1block_1_1_monster_spawner" ],
         [ "MushroomStem", "dc/d63/classpocketmine_1_1block_1_1_mushroom_stem.html", "dc/d63/classpocketmine_1_1block_1_1_mushroom_stem" ],
         [ "Mycelium", "d1/d9b/classpocketmine_1_1block_1_1_mycelium.html", "d1/d9b/classpocketmine_1_1block_1_1_mycelium" ],
+        [ "NetherFungus", "da/dfb/classpocketmine_1_1block_1_1_nether_fungus.html", "da/dfb/classpocketmine_1_1block_1_1_nether_fungus" ],
         [ "NetherGoldOre", "de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html", "de/d43/classpocketmine_1_1block_1_1_nether_gold_ore" ],
         [ "NetherPortal", "d1/d55/classpocketmine_1_1block_1_1_nether_portal.html", "d1/d55/classpocketmine_1_1block_1_1_nether_portal" ],
         [ "NetherQuartzOre", "d6/dd1/classpocketmine_1_1block_1_1_nether_quartz_ore.html", "d6/dd1/classpocketmine_1_1block_1_1_nether_quartz_ore" ],
         [ "Netherrack", "d5/d84/classpocketmine_1_1block_1_1_netherrack.html", "d5/d84/classpocketmine_1_1block_1_1_netherrack" ],
         [ "NetherReactor", "d7/de5/classpocketmine_1_1block_1_1_nether_reactor.html", "d7/de5/classpocketmine_1_1block_1_1_nether_reactor" ],
         [ "NetherRoots", "dd/d53/classpocketmine_1_1block_1_1_nether_roots.html", "dd/d53/classpocketmine_1_1block_1_1_nether_roots" ],
+        [ "NetherSprouts", "df/dcc/classpocketmine_1_1block_1_1_nether_sprouts.html", "df/dcc/classpocketmine_1_1block_1_1_nether_sprouts" ],
         [ "NetherVines", "d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html", "d0/dbe/classpocketmine_1_1block_1_1_nether_vines" ],
         [ "NetherWartPlant", "d8/d43/classpocketmine_1_1block_1_1_nether_wart_plant.html", "d8/d43/classpocketmine_1_1block_1_1_nether_wart_plant" ],
         [ "Note", "d3/df5/classpocketmine_1_1block_1_1_note.html", "d3/df5/classpocketmine_1_1block_1_1_note" ],
+        [ "Nylium", "d9/d9d/classpocketmine_1_1block_1_1_nylium.html", "d9/d9d/classpocketmine_1_1block_1_1_nylium" ],
         [ "OminousFloorBanner", "d9/dc2/classpocketmine_1_1block_1_1_ominous_floor_banner.html", "d9/dc2/classpocketmine_1_1block_1_1_ominous_floor_banner" ],
         [ "OminousWallBanner", "dc/d6d/classpocketmine_1_1block_1_1_ominous_wall_banner.html", "dc/d6d/classpocketmine_1_1block_1_1_ominous_wall_banner" ],
         [ "Opaque", "db/dc5/classpocketmine_1_1block_1_1_opaque.html", "db/dc5/classpocketmine_1_1block_1_1_opaque" ],
@@ -1035,6 +1039,7 @@ var annotated_dup =
       [ "lang", null, [
         [ "KnownTranslationFactory", "d0/dc6/classpocketmine_1_1lang_1_1_known_translation_factory.html", null ],
         [ "KnownTranslationKeys", "d7/d8e/classpocketmine_1_1lang_1_1_known_translation_keys.html", null ],
+        [ "KnownTranslationParameterInfo", "d3/de8/classpocketmine_1_1lang_1_1_known_translation_parameter_info.html", null ],
         [ "Language", "d8/d53/classpocketmine_1_1lang_1_1_language.html", "d8/d53/classpocketmine_1_1lang_1_1_language" ],
         [ "LanguageNotFoundException", "db/d76/classpocketmine_1_1lang_1_1_language_not_found_exception.html", null ],
         [ "Translatable", "da/d80/classpocketmine_1_1lang_1_1_translatable.html", "da/d80/classpocketmine_1_1lang_1_1_translatable" ]
@@ -1138,8 +1143,11 @@ var annotated_dup =
           ] ],
           [ "protocol", null, [
             [ "serializer", null, [
+              [ "AvailableCommandsPacketAssembler", "db/dd7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_available_commands_packet_assembler.html", "db/dd7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_available_commands_packet_assembler" ],
+              [ "AvailableCommandsPacketDisassembler", "d9/d5e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_available_commands_packet_disassembler.html", null ],
               [ "BitSet", "db/db6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_bit_set.html", "db/db6/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_bit_set" ],
               [ "CommonTypes", "d9/d99/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_common_types.html", "d9/d99/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_common_types" ],
+              [ "DisassembledAvailableCommandsData", "d7/d61/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_disassembled_available_commands_data.html", "d7/d61/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_disassembled_available_commands_data" ],
               [ "ItemTypeDictionary", "da/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_item_type_dictionary.html", "da/d01/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_item_type_dictionary" ],
               [ "NetworkNbtSerializer", "d4/dc8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_network_nbt_serializer.html", "d4/dc8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_network_nbt_serializer" ],
               [ "PacketBatch", "d9/df4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_batch.html", "d9/df4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1serializer_1_1_packet_batch" ]
@@ -1189,17 +1197,27 @@ var annotated_dup =
                 [ "CameraTargetInstruction", "d1/d7c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_target_instruction.html", null ]
               ] ],
               [ "command", null, [
+                [ "raw", null, [
+                  [ "ChainedSubCommandRawData", "db/dd3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1raw_1_1_chained_sub_command_raw_data.html", "db/dd3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1raw_1_1_chained_sub_command_raw_data" ],
+                  [ "ChainedSubCommandValueRawData", "db/dd3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1raw_1_1_chained_sub_command_value_raw_data.html", null ],
+                  [ "CommandEnumConstraintRawData", "df/d05/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1raw_1_1_command_enum_constraint_raw_data.html", "df/d05/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1raw_1_1_command_enum_constraint_raw_data" ],
+                  [ "CommandEnumRawData", "d1/d87/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1raw_1_1_command_enum_raw_data.html", "d1/d87/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1raw_1_1_command_enum_raw_data" ],
+                  [ "CommandOverloadRawData", "d4/d90/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1raw_1_1_command_overload_raw_data.html", "d4/d90/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1raw_1_1_command_overload_raw_data" ],
+                  [ "CommandParameterRawData", "d9/d97/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1raw_1_1_command_parameter_raw_data.html", null ],
+                  [ "CommandRawData", "d1/d87/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1raw_1_1_command_raw_data.html", "d1/d87/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1raw_1_1_command_raw_data" ]
+                ] ],
                 [ "ChainedSubCommandData", "d9/d55/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_chained_sub_command_data.html", "d9/d55/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_chained_sub_command_data" ],
                 [ "ChainedSubCommandValue", "dc/db9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_chained_sub_command_value.html", "dc/db9/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_chained_sub_command_value" ],
                 [ "CommandData", "dd/d18/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_data.html", "dd/d18/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_data" ],
-                [ "CommandEnum", "df/dc3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_enum.html", "df/dc3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_enum" ],
-                [ "CommandEnumConstraint", "d1/d8f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_enum_constraint.html", "d1/d8f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_enum_constraint" ],
+                [ "CommandHardEnum", "d2/d90/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_hard_enum.html", "d2/d90/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_hard_enum" ],
                 [ "CommandOriginData", "d9/dec/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_origin_data.html", null ],
                 [ "CommandOutputMessage", "d4/d31/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_output_message.html", null ],
                 [ "CommandOverload", "d8/dc1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_overload.html", "d8/dc1/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_overload" ],
-                [ "CommandParameter", "d1/d80/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_parameter.html", null ],
+                [ "CommandParameter", "d1/d80/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_parameter.html", "d1/d80/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_parameter" ],
                 [ "CommandParameterTypes", "db/d73/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_parameter_types.html", null ],
-                [ "CommandPermissions", "d1/dfa/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_permissions.html", null ]
+                [ "CommandPermissions", "d1/dfa/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_permissions.html", null ],
+                [ "CommandSoftEnum", "d7/d5b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_soft_enum.html", "d7/d5b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_command_soft_enum" ],
+                [ "ConstrainedEnumValue", "d8/d05/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_constrained_enum_value.html", "d8/d05/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1_constrained_enum_value" ]
               ] ],
               [ "entity", null, [
                 [ "Attribute", "da/de0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_attribute.html", "da/de0/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_attribute" ],
@@ -1950,6 +1968,7 @@ var annotated_dup =
             [ "AcaciaTree", "dd/d40/classpocketmine_1_1world_1_1generator_1_1object_1_1_acacia_tree.html", "dd/d40/classpocketmine_1_1world_1_1generator_1_1object_1_1_acacia_tree" ],
             [ "BirchTree", "d6/d75/classpocketmine_1_1world_1_1generator_1_1object_1_1_birch_tree.html", "d6/d75/classpocketmine_1_1world_1_1generator_1_1object_1_1_birch_tree" ],
             [ "JungleTree", "dc/ded/classpocketmine_1_1world_1_1generator_1_1object_1_1_jungle_tree.html", "dc/ded/classpocketmine_1_1world_1_1generator_1_1object_1_1_jungle_tree" ],
+            [ "NetherTree", "d8/d21/classpocketmine_1_1world_1_1generator_1_1object_1_1_nether_tree.html", "d8/d21/classpocketmine_1_1world_1_1generator_1_1object_1_1_nether_tree" ],
             [ "OakTree", "d5/d61/classpocketmine_1_1world_1_1generator_1_1object_1_1_oak_tree.html", "d5/d61/classpocketmine_1_1world_1_1generator_1_1object_1_1_oak_tree" ],
             [ "Ore", "d3/d44/classpocketmine_1_1world_1_1generator_1_1object_1_1_ore.html", null ],
             [ "OreType", "d0/da7/classpocketmine_1_1world_1_1generator_1_1object_1_1_ore_type.html", null ],
@@ -2028,6 +2047,7 @@ var annotated_dup =
           [ "AnvilFallSound", "d0/d5b/classpocketmine_1_1world_1_1sound_1_1_anvil_fall_sound.html", "d0/d5b/classpocketmine_1_1world_1_1sound_1_1_anvil_fall_sound" ],
           [ "AnvilUseSound", "db/d93/classpocketmine_1_1world_1_1sound_1_1_anvil_use_sound.html", "db/d93/classpocketmine_1_1world_1_1sound_1_1_anvil_use_sound" ],
           [ "ArmorEquipChainSound", "de/d6e/classpocketmine_1_1world_1_1sound_1_1_armor_equip_chain_sound.html", "de/d6e/classpocketmine_1_1world_1_1sound_1_1_armor_equip_chain_sound" ],
+          [ "ArmorEquipCopperSound", "da/df6/classpocketmine_1_1world_1_1sound_1_1_armor_equip_copper_sound.html", "da/df6/classpocketmine_1_1world_1_1sound_1_1_armor_equip_copper_sound" ],
           [ "ArmorEquipDiamondSound", "d3/d7c/classpocketmine_1_1world_1_1sound_1_1_armor_equip_diamond_sound.html", "d3/d7c/classpocketmine_1_1world_1_1sound_1_1_armor_equip_diamond_sound" ],
           [ "ArmorEquipGenericSound", "d9/da1/classpocketmine_1_1world_1_1sound_1_1_armor_equip_generic_sound.html", "d9/da1/classpocketmine_1_1world_1_1sound_1_1_armor_equip_generic_sound" ],
           [ "ArmorEquipGoldSound", "d3/d89/classpocketmine_1_1world_1_1sound_1_1_armor_equip_gold_sound.html", "d3/d89/classpocketmine_1_1world_1_1sound_1_1_armor_equip_gold_sound" ],

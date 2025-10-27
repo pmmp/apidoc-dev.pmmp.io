@@ -1,5 +1,16 @@
 var NAVTREEINDEX53 =
 {
+"d3/da7/classpocketmine_1_1item_1_1enchantment_1_1_melee_weapon_enchantment.html#a8636f691162b75b7838801087472356f":[3,0,1,12,0,11,3],
+"d3/da7/classpocketmine_1_1item_1_1enchantment_1_1_melee_weapon_enchantment.html#ab04e27305477dd7a6331430130c5161e":[3,0,1,12,0,11,5],
+"d3/da7/classpocketmine_1_1item_1_1enchantment_1_1_melee_weapon_enchantment.html#ab08a15c63dec826887320c797def5f8c":[3,0,1,12,0,11,4],
+"d3/da7/classpocketmine_1_1item_1_1enchantment_1_1_melee_weapon_enchantment.html#ada5f527df9d208b2069a530de88de9a4":[3,0,1,12,0,11,1],
+"d3/da7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_attribute_modifier_operation.html":[3,0,1,16,0,6,1,3,2],
+"d3/da7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_attribute_modifier_operation.html#aaeeea9bd81b659ce53f1c8753d39c2e8":[3,0,1,16,0,6,1,3,2,3],
+"d3/da7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_attribute_modifier_operation.html#ab66b3115caefaed95f7e3838a4e14c7e":[3,0,1,16,0,6,1,3,2,0],
+"d3/da7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_attribute_modifier_operation.html#ae4c2df2b71a85f2cad7b645e760b047f":[3,0,1,16,0,6,1,3,2,2],
+"d3/da7/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_attribute_modifier_operation.html#af8c7cbf6dbcdc2908c74c03a455e2b0c":[3,0,1,16,0,6,1,3,2,1],
+"d3/da8/_double_chest_inventory_window_8php_source.html":[4,0,0,0,0,0,5],
+"d3/da8/classpocketmine_1_1command_1_1defaults_1_1_seed_command.html":[3,0,1,2,0,28],
 "d3/da8/classpocketmine_1_1command_1_1defaults_1_1_seed_command.html#a0950e4c2830f8adc9526da754c56130d":[3,0,1,2,0,28,5],
 "d3/da8/classpocketmine_1_1command_1_1defaults_1_1_seed_command.html#a425117ae5e7bab32cc824f19f82b613b":[3,0,1,2,0,28,3],
 "d3/da8/classpocketmine_1_1command_1_1defaults_1_1_seed_command.html#a5dffbdb5cf0ec26cfdd98a9ce531d2f6":[3,0,1,2,0,28,1],
@@ -238,16 +249,5 @@ var NAVTREEINDEX53 =
 "d3/dab/classpocketmine_1_1item_1_1_trident.html#ad2d004e5063f6ca465ed956b024217b1":[3,0,1,12,119,28],
 "d3/dab/classpocketmine_1_1item_1_1_trident.html#adfaf9728336726192e1499e47cf7ae1d":[2,0,0,5,118,46],
 "d3/dab/classpocketmine_1_1item_1_1_trident.html#adfaf9728336726192e1499e47cf7ae1d":[3,0,1,12,119,46],
-"d3/dab/classpocketmine_1_1item_1_1_trident.html#ae0735ccc1dee85d0c095aaa4109f40fb":[2,0,0,5,118,13],
-"d3/dab/classpocketmine_1_1item_1_1_trident.html#ae0735ccc1dee85d0c095aaa4109f40fb":[3,0,1,12,119,13],
-"d3/dab/classpocketmine_1_1item_1_1_trident.html#aec8070c04112770e0d01a3c56b252e81":[2,0,0,5,118,51],
-"d3/dab/classpocketmine_1_1item_1_1_trident.html#aec8070c04112770e0d01a3c56b252e81":[3,0,1,12,119,51],
-"d3/dab/classpocketmine_1_1item_1_1_trident.html#af44b2311f27b78c5cd442c189793e7e6":[2,0,0,5,118,41],
-"d3/dab/classpocketmine_1_1item_1_1_trident.html#af44b2311f27b78c5cd442c189793e7e6":[3,0,1,12,119,41],
-"d3/dab/classpocketmine_1_1item_1_1_trident.html#af737301b899b7a7c9e9b0bb9a234a119":[2,0,0,5,118,8],
-"d3/dab/classpocketmine_1_1item_1_1_trident.html#af737301b899b7a7c9e9b0bb9a234a119":[3,0,1,12,119,8],
-"d3/dab/classpocketmine_1_1item_1_1_trident.html#af85accbedba28b67bb66d5f12d329585":[2,0,0,5,118,42],
-"d3/dab/classpocketmine_1_1item_1_1_trident.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,119,42],
-"d3/dab/classpocketmine_1_1item_1_1_trident.html#afeeecf923ffec0b2cf16e9a571fc0d38":[2,0,0,5,118,38],
-"d3/dab/classpocketmine_1_1item_1_1_trident.html#afeeecf923ffec0b2cf16e9a571fc0d38":[3,0,1,12,119,38]
+"d3/dab/classpocketmine_1_1item_1_1_trident.html#ae0735ccc1dee85d0c095aaa4109f40fb":[2,0,0,5,118,13]
 };
