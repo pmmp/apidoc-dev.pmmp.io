@@ -231,7 +231,7 @@
 <text text-anchor="start" x="176" y="-382" font-family="Helvetica,sans-Serif" font-size="10.00">$chunkTicker</text>
 <text text-anchor="start" x="163" y="-367" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
 <text text-anchor="start" x="176" y="-367" font-family="Helvetica,sans-Serif" font-size="10.00">$craftingGrid</text>
-<text text-anchor="start" x="176" y="-352" font-family="Helvetica,sans-Serif" font-size="10.00">and 34 more...</text>
+<text text-anchor="start" x="176" y="-352" font-family="Helvetica,sans-Serif" font-size="10.00">and 35 more...</text>
 <text text-anchor="start" x="163" y="-337" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="176" y="-337" font-family="Helvetica,sans-Serif" font-size="10.00">__construct()</text>
 <text text-anchor="start" x="163" y="-322" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
@@ -252,7 +252,7 @@
 <text text-anchor="start" x="176" y="-217" font-family="Helvetica,sans-Serif" font-size="10.00">broadcastSound()</text>
 <text text-anchor="start" x="163" y="-202" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="176" y="-202" font-family="Helvetica,sans-Serif" font-size="10.00">canBeCollidedWith()</text>
-<text text-anchor="start" x="176" y="-187" font-family="Helvetica,sans-Serif" font-size="10.00">and 134 more...</text>
+<text text-anchor="start" x="176" y="-187" font-family="Helvetica,sans-Serif" font-size="10.00">and 136 more...</text>
 <text text-anchor="start" x="163" y="-172" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="176" y="-172" font-family="Helvetica,sans-Serif" font-size="10.00">isValidUserName()</text>
 <text text-anchor="start" x="163" y="-157" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>

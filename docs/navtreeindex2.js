@@ -146,7 +146,7 @@ var NAVTREEINDEX2 =
 "d0/d27/_lightning_rod_8php_source.html":[4,0,0,0,150],
 "d0/d2b/classpocketmine_1_1scheduler_1_1_cancel_task_exception.html":[2,0,0,11,6],
 "d0/d2b/classpocketmine_1_1scheduler_1_1_cancel_task_exception.html":[3,0,1,22,6],
-"d0/d2c/_disconnect_packet_8php_source.html":[4,0,1,0,1,0,64],
+"d0/d2c/_disconnect_packet_8php_source.html":[4,0,1,0,1,0,66],
 "d0/d2f/classpocketmine_1_1command_1_1defaults_1_1_spawnpoint_command.html":[3,0,1,2,0,30],
 "d0/d2f/classpocketmine_1_1command_1_1defaults_1_1_spawnpoint_command.html#a0950e4c2830f8adc9526da754c56130d":[3,0,1,2,0,30,5],
 "d0/d2f/classpocketmine_1_1command_1_1defaults_1_1_spawnpoint_command.html#a425117ae5e7bab32cc824f19f82b613b":[3,0,1,2,0,30,3],

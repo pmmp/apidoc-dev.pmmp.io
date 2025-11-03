@@ -230,6 +230,7 @@ var namespacepocketmine_1_1block =
     [ "Stonecutter", "df/d79/classpocketmine_1_1block_1_1_stonecutter.html", "df/d79/classpocketmine_1_1block_1_1_stonecutter" ],
     [ "StonePressurePlate", "d5/d8e/classpocketmine_1_1block_1_1_stone_pressure_plate.html", "d5/d8e/classpocketmine_1_1block_1_1_stone_pressure_plate" ],
     [ "StraightOnlyRail", "d7/d52/classpocketmine_1_1block_1_1_straight_only_rail.html", "d7/d52/classpocketmine_1_1block_1_1_straight_only_rail" ],
+    [ "StructureVoid", "d0/dbf/classpocketmine_1_1block_1_1_structure_void.html", "d0/dbf/classpocketmine_1_1block_1_1_structure_void" ],
     [ "Sugarcane", "da/da9/classpocketmine_1_1block_1_1_sugarcane.html", "da/da9/classpocketmine_1_1block_1_1_sugarcane" ],
     [ "SweetBerryBush", "d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html", "d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush" ],
     [ "TallGrass", "d7/d79/classpocketmine_1_1block_1_1_tall_grass.html", "d7/d79/classpocketmine_1_1block_1_1_tall_grass" ],

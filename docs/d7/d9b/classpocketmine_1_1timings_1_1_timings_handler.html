@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.36.1 git-eaa7c4834c8fe2f379d24e7f0ee6cc63cfb18ccc</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.37.1 git-da6732df2656426fbd1b7898ed06c8286969d2f1</span>
    </div>
   </td>
  </tr>
@@ -115,7 +115,7 @@ $(function(){initNavTree('d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../db/d3a/classpocketmine_1_1timings_1_1_timings_handler__coll__graph.svg" width="224" height="411"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../db/d3a/classpocketmine_1_1timings_1_1_timings_handler__coll__graph.svg" width="224" height="431"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
@@ -137,6 +137,8 @@ Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a9fc8ccfc8ab7c691d517fbd14b897201" id="r_a9fc8ccfc8ab7c691d517fbd14b897201"><td class="memItemLeft" align="right" valign="top">static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a9fc8ccfc8ab7c691d517fbd14b897201">createReportFile</a> (string $directory, ?string $fileName=null)</td></tr>
+<tr class="separator:a9fc8ccfc8ab7c691d517fbd14b897201"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6b7686e43b14108732d085c3050b8cb7" id="r_a6b7686e43b14108732d085c3050b8cb7"><td class="memItemLeft" align="right" valign="top">static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a6b7686e43b14108732d085c3050b8cb7">getCollectCallbacks</a> ()</td></tr>
 <tr class="separator:a6b7686e43b14108732d085c3050b8cb7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac561bb853b6b4e29002393e4943995cf" id="r_ac561bb853b6b4e29002393e4943995cf"><td class="memItemLeft" align="right" valign="top">static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ac561bb853b6b4e29002393e4943995cf">getReloadCallbacks</a> ()</td></tr>
@@ -161,7 +163,7 @@ Static Public Member Functions</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>@phpstan-type CollectPromise Promise&lt;list&lt;string&gt;&gt; </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00041">41</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00051">51</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="ae7d065475567936c495ec8041959a010" name="ae7d065475567936c495ec8041959a010"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ae7d065475567936c495ec8041959a010">&#9670;&#160;</a></span>__construct()</h2>
@@ -187,11 +189,51 @@ Static Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00230">230</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00240">240</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
+<a id="a9fc8ccfc8ab7c691d517fbd14b897201" name="a9fc8ccfc8ab7c691d517fbd14b897201"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9fc8ccfc8ab7c691d517fbd14b897201">&#9670;&#160;</a></span>createReportFile()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static pocketmine\timings\TimingsHandler::createReportFile </td>
+          <td>(</td>
+          <td class="paramtype">string</td>          <td class="paramname"><span class="paramname"><em>$directory</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">?string</td>          <td class="paramname"><span class="paramname"><em>$fileName</em></span><span class="paramdefsep"> = </span><span class="paramdefval">null</span>&#160;)</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p>Creates a timings report file locally in the provided file path. Collects timings data and returns a promise that resolves with the created file.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">string</td><td class="paramname">$directory</td><td>directory path to the timings folder. </td></tr>
+    <tr><td class="paramtype">string&#160;|&#160;null</td><td class="paramname">$fileName</td><td>Optional custom file name, If null, uses default timings file naming</td></tr>
+  </table>
+  </dd>
+</dl>
+<p>@phpstan-return Promise&lt;string&gt; </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00342">342</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
+
+</div>
+</div>
 <a id="a6b7686e43b14108732d085c3050b8cb7" name="a6b7686e43b14108732d085c3050b8cb7"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a6b7686e43b14108732d085c3050b8cb7">&#9670;&#160;</a></span>getCollectCallbacks()</h2>
 
@@ -216,7 +258,7 @@ Static Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <p>@phpstan-return ObjectSet&lt;\Closure() : list&lt;CollectPromise&gt;&gt; </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00078">78</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00088">88</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
 
 </div>
 </div>
@@ -235,7 +277,7 @@ Static Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00238">238</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00248">248</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
 
 </div>
 </div>
@@ -254,7 +296,7 @@ Static Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00236">236</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00246">246</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
 
 </div>
 </div>
@@ -282,7 +324,7 @@ Static Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <p>@phpstan-return ObjectSet&lt;\Closure() : void&gt; </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00073">73</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00083">83</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
 
 </div>
 </div>
@@ -309,7 +351,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00195">195</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00205">205</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
 
 </div>
 </div>
@@ -337,7 +379,7 @@ Static Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <p>@phpstan-return ObjectSet&lt;\Closure(bool $enable) : void&gt; </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00068">68</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00078">78</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
 
 </div>
 </div>
@@ -364,7 +406,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00178">178</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00188">188</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
 
 </div>
 </div>
@@ -392,7 +434,7 @@ Static Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <dl class="section return"><dt>Returns</dt><dd>string[] @phpstan-return list&lt;string&gt; </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00084">84</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00094">94</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
 
 </div>
 </div>
@@ -419,7 +461,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00206">206</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00216">216</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
 
 </div>
 </div>
@@ -450,7 +492,7 @@ Static Public Member Functions</h2></td></tr>
 <p>This is an asynchronous operation, and the result is returned as a promise. The caller must add a callback to the returned promise to get the complete timings report.</p>
 <p>@phpstan-return Promise&lt;list&lt;string&gt;&gt; </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00153">153</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00163">163</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
 
 </div>
 </div>
@@ -469,7 +511,7 @@ Static Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00317">317</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00327">327</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
 
 </div>
 </div>
@@ -496,7 +538,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00182">182</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00192">192</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
 
 </div>
 </div>
@@ -515,7 +557,7 @@ Static Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00240">240</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00250">250</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
 
 </div>
 </div>
@@ -534,7 +576,7 @@ Static Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00269">269</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00279">279</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
 
 </div>
 </div>
@@ -561,7 +603,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00215">215</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00225">225</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
 
 </div>
 </div>
@@ -582,7 +624,7 @@ Static Public Member Functions</h2></td></tr>
 <dl class="section return"><dt>Returns</dt><dd>mixed the result of the given closure</dd></dl>
 <p>@phpstan-template TClosureReturn @phpstan-param \Closure() : TClosureReturn $closure @phpstan-return TClosureReturn </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00305">305</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d3/df7/_timings_handler_8php_source.html#l00315">315</a> of file <a class="el" href="../../d3/df7/_timings_handler_8php_source.html">TimingsHandler.php</a>.</p>
 
 </div>
 </div>
