@@ -1,5 +1,7 @@
 var NAVTREEINDEX10 =
 {
+"d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#a527430c8ac99b9e6681f379fecef055a":[3,0,1,0,170,20],
+"d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#a57b1586e3b6d81440be1aa89471f2a2a":[2,0,0,0,168,53],
 "d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#a57b1586e3b6d81440be1aa89471f2a2a":[3,0,1,0,170,53],
 "d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#a58042149c42d02c8fd0759d1382a9e80":[2,0,0,0,168,59],
 "d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#a58042149c42d02c8fd0759d1382a9e80":[3,0,1,0,170,59],
@@ -247,7 +249,5 @@ var NAVTREEINDEX10 =
 "d0/dc1/classpocketmine_1_1block_1_1tile_1_1_lectern.html#ac00f467ced69b610bd246a9262eac24b":[3,0,1,0,1,23,0],
 "d0/dc3/namespacepocketmine_1_1block.html":[2,0,0,0],
 "d0/dc4/tile_2_beacon_8php_source.html":[4,0,0,0,1,2],
-"d0/dc5/_movement_effect_type_8php_source.html":[4,0,1,0,1,0,1,61],
-"d0/dc6/classpocketmine_1_1lang_1_1_known_translation_factory.html":[3,0,1,13,0],
-"d0/dc7/_craft_recipe_optional_stack_request_action_8php_source.html":[4,0,1,0,1,0,1,5,0,4]
+"d0/dc5/_movement_effect_type_8php_source.html":[4,0,1,0,1,0,1,61]
 };

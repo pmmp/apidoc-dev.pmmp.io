@@ -1,5 +1,6 @@
 var NAVTREEINDEX3 =
 {
+"d0/d3a/_redstone_torch_8php_source.html":[4,0,0,0,196],
 "d0/d3b/_vanilla_armor_materials_8php_source.html":[4,0,0,10,130],
 "d0/d3b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_container_ids.html":[3,0,1,16,0,6,1,4,2],
 "d0/d3c/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_pre_spawn_packet_handler.html":[3,0,1,16,0,5,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX3 =
 "d0/d6c/classpocketmine_1_1entity_1_1object_1_1_area_effect_cloud.html#a1380adc70073eca8b76083e7357c44ea":[3,0,1,7,2,0,17],
 "d0/d6c/classpocketmine_1_1entity_1_1object_1_1_area_effect_cloud.html#a180ddec765d91d56a76789284587ac89":[3,0,1,7,2,0,46],
 "d0/d6c/classpocketmine_1_1entity_1_1object_1_1_area_effect_cloud.html#a1bc4a8d3a405c0923c2ed2a8dbcff9a7":[3,0,1,7,2,0,25],
-"d0/d6c/classpocketmine_1_1entity_1_1object_1_1_area_effect_cloud.html#a1c05137f3b4e08df3be0b372726021b1":[3,0,1,7,2,0,49],
-"d0/d6c/classpocketmine_1_1entity_1_1object_1_1_area_effect_cloud.html#a1cb36d5dd35dc4ee35b2f6e59d93e17b":[3,0,1,7,2,0,33]
+"d0/d6c/classpocketmine_1_1entity_1_1object_1_1_area_effect_cloud.html#a1c05137f3b4e08df3be0b372726021b1":[3,0,1,7,2,0,49]
 };

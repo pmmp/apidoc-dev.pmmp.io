@@ -1,5 +1,6 @@
 var NAVTREEINDEX6 =
 {
+"d0/d73/classpocketmine_1_1block_1_1_wall.html#a49395de82d025ca78745a17528049f18":[2,0,0,0,248,53],
 "d0/d73/classpocketmine_1_1block_1_1_wall.html#a49395de82d025ca78745a17528049f18":[3,0,1,0,250,53],
 "d0/d73/classpocketmine_1_1block_1_1_wall.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[2,0,0,0,248,37],
 "d0/d73/classpocketmine_1_1block_1_1_wall.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[3,0,1,0,250,37],
@@ -248,6 +249,5 @@ var NAVTREEINDEX6 =
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a031e124aa0133633c22295d679898cd3":[2,0,0,0,263,29],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a031e124aa0133633c22295d679898cd3":[3,0,1,0,265,29],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,263,61],
-"d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,265,61],
-"d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a09f4667329f89292dd319d56c4243b59":[2,0,0,0,263,33]
+"d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,265,61]
 };

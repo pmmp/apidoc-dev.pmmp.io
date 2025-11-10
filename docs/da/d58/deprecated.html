@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.37.1 git-da6732df2656426fbd1b7898ed06c8286969d2f1</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.37.2 git-aa47b7cd412ddb171ec53c035c2bbe84199be285</span>
    </div>
   </td>
  </tr>
@@ -137,34 +137,40 @@ $(function(){initNavTree('da/d58/deprecated.html','../../'); initResizable(true)
 <dd><a class="anchor" id="_deprecated000014"></a>  </dd>
 <dt>Class <a class="el" href="../../d7/d0d/classpocketmine_1_1block_1_1tile_1_1_sign.html">pocketmine\block\tile\Sign</a>  </dt>
 <dd><a class="anchor" id="_deprecated000015"></a>  </dd>
+<dt>Class <a class="el" href="../../d7/d03/classpocketmine_1_1command_1_1_closure_command.html">pocketmine\command\ClosureCommand</a>  </dt>
+<dd><a class="anchor" id="_deprecated000016"></a> @phpstan-type Execute \Closure(<a class="el" href="../../d6/d9d/interfacepocketmine_1_1command_1_1_command_sender.html">CommandSender</a> $sender, <a class="el" href="../../d6/df1/classpocketmine_1_1command_1_1_command.html">Command</a> $command, string $commandLabel, list&lt;string&gt; $args) : mixed  </dd>
+<dt>Interface <a class="el" href="../../d4/d5f/interfacepocketmine_1_1command_1_1_command_executor.html">pocketmine\command\CommandExecutor</a>  </dt>
+<dd><a class="anchor" id="_deprecated000017"></a> </dd>
 <dt>Member <a class="el" href="../../de/d35/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrade_schema.html#a190d15d1b0666a77c14b76f9ed6d0c68">pocketmine\data\bedrock\block\upgrade\BlockStateUpgradeSchema::getVersionId</a>  ()</dt>
-<dd><a class="anchor" id="_deprecated000016"></a>This is defined by Mojang, and therefore cannot be relied on. Use getSchemaId() instead for internal version management.  </dd>
+<dd><a class="anchor" id="_deprecated000018"></a>This is defined by Mojang, and therefore cannot be relied on. Use getSchemaId() instead for internal version management.  </dd>
+<dt>Member <a class="el" href="../../d0/d37/classpocketmine_1_1entity_1_1effect_1_1_effect.html#ad8531e42059f72e6315e1157c87c1e7a">pocketmine\entity\effect\Effect::canTick</a>  (<a class="el" href="../../dc/d2e/classpocketmine_1_1entity_1_1effect_1_1_effect_instance.html">EffectInstance</a> $instance)</dt>
+<dd><a class="anchor" id="_deprecated000019"></a>Implement <code><a class="el" href="../../d0/d37/classpocketmine_1_1entity_1_1effect_1_1_effect.html#a500e843fda90a07667da352dda21aa05">getApplyInterval()</a></code> instead  </dd>
 <dt>Member <a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a22a098fc4892820db7d15a73edea64ca">pocketmine\entity\Entity::despawnFrom</a>  (Player $player, bool $send=true)</dt>
-<dd><a class="anchor" id="_deprecated000017"></a>WARNING: This function DOES NOT permanently hide the entity from the player. As soon as the entity or player moves, the player will once again be able to see the entity.  </dd>
+<dd><a class="anchor" id="_deprecated000020"></a>WARNING: This function DOES NOT permanently hide the entity from the player. As soon as the entity or player moves, the player will once again be able to see the entity.  </dd>
 <dt>Member <a class="el" href="../../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a89a01723e97021d54e83c24d1b74670f">pocketmine\entity\Entity::despawnFromAll</a>  ()</dt>
-<dd><a class="anchor" id="_deprecated000018"></a>WARNING: This function DOES NOT permanently hide the entity from viewers. As soon as the entity or player moves, viewers will once again be able to see the entity.  </dd>
+<dd><a class="anchor" id="_deprecated000021"></a>WARNING: This function DOES NOT permanently hide the entity from viewers. As soon as the entity or player moves, viewers will once again be able to see the entity.  </dd>
 <dt>Member <a class="el" href="../../dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#a8bf437d2920bb38864a0074e34d312fc">pocketmine\entity\projectile\Projectile::despawnsOnEntityHit</a>  ()</dt>
-<dd><a class="anchor" id="_deprecated000019"></a>This will be dropped in favor of deciding whether to despawn within <code><a class="el" href="../../dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#abefd6990ef1fb83a1b4e0352a44f2455">onHitEntity()</a></code> method.  </dd>
+<dd><a class="anchor" id="_deprecated000022"></a>This will be dropped in favor of deciding whether to despawn within <code><a class="el" href="../../dc/d01/classpocketmine_1_1entity_1_1projectile_1_1_projectile.html#abefd6990ef1fb83a1b4e0352a44f2455">onHitEntity()</a></code> method.  </dd>
 <dt>Member <a class="el" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html#a4a9aa55600bb30c4d55ad63337874a07">pocketmine\item\Item::equals</a>  (<a class="el" href="../../d5/d8a/classpocketmine_1_1item_1_1_item.html">Item</a> $item, bool $checkDamage=true, bool $checkCompound=true)</dt>
-<dd><a class="anchor" id="_deprecated000020"></a>  </dd>
+<dd><a class="anchor" id="_deprecated000023"></a>  </dd>
 <dt>Class <a class="el" href="../../d8/d89/classpocketmine_1_1item_1_1_legacy_string_to_item_parser.html">pocketmine\item\LegacyStringToItemParser</a>  </dt>
-<dd><a class="anchor" id="_deprecated000021"></a>  </dd>
+<dd><a class="anchor" id="_deprecated000024"></a>  </dd>
 <dt>Member <a class="el" href="../../d5/df4/classpocketmine_1_1nbt_1_1tag_1_1_list_tag.html#af4536430dc517a3e4f7283d1c760bc4a">pocketmine\nbt\tag\ListTag::setTagType</a>  (int $type)</dt>
-<dd><p class="startdd"><a class="anchor" id="_deprecated000029"></a> Sets the type of tag that can be added to this list. If TAG_End is used, the type will be auto-detected from the first tag added to the list.</p>
-<p class="enddd"><a class="anchor" id="_deprecated000030"></a>As of 1.1, an empty list's type will always be inferred from the first <a class="el" href="../../dc/d26/classpocketmine_1_1nbt_1_1tag_1_1_tag.html">Tag</a> to be inserted. Therefore, this function is now useless.  </p>
+<dd><p class="startdd"><a class="anchor" id="_deprecated000032"></a> Sets the type of tag that can be added to this list. If TAG_End is used, the type will be auto-detected from the first tag added to the list.</p>
+<p class="enddd"><a class="anchor" id="_deprecated000033"></a>As of 1.1, an empty list's type will always be inferred from the first <a class="el" href="../../dc/d26/classpocketmine_1_1nbt_1_1tag_1_1_tag.html">Tag</a> to be inserted. Therefore, this function is now useless.  </p>
 </dd>
 <dt>Member <a class="el" href="../../da/d0a/classpocketmine_1_1permission_1_1_permission_manager.html#a43a8f05643252277a182926926952242">pocketmine\permission\PermissionManager::getPermissionSubscriptions</a>  (string $permission)</dt>
-<dd><a class="anchor" id="_deprecated000025"></a>Superseded by server chat broadcast channels  </dd>
+<dd><a class="anchor" id="_deprecated000028"></a>Superseded by server chat broadcast channels  </dd>
 <dt>Member <a class="el" href="../../da/d0a/classpocketmine_1_1permission_1_1_permission_manager.html#a235beaa3896baf0b5e653c07abe75e8c">pocketmine\permission\PermissionManager::subscribeToPermission</a>  (string $permission, <a class="el" href="../../d9/d10/classpocketmine_1_1permission_1_1_permissible_internal.html">PermissibleInternal</a> $permissible)</dt>
-<dd><a class="anchor" id="_deprecated000022"></a>Superseded by server chat broadcast channels  </dd>
+<dd><a class="anchor" id="_deprecated000025"></a>Superseded by server chat broadcast channels  </dd>
 <dt>Member <a class="el" href="../../da/d0a/classpocketmine_1_1permission_1_1_permission_manager.html#ac7cead8748af81e1588cb258ca47c445">pocketmine\permission\PermissionManager::unsubscribeFromAllPermissions</a>  (<a class="el" href="../../d9/d10/classpocketmine_1_1permission_1_1_permissible_internal.html">PermissibleInternal</a> $permissible)</dt>
-<dd><a class="anchor" id="_deprecated000024"></a>Superseded by server chat broadcast channels  </dd>
+<dd><a class="anchor" id="_deprecated000027"></a>Superseded by server chat broadcast channels  </dd>
 <dt>Member <a class="el" href="../../da/d0a/classpocketmine_1_1permission_1_1_permission_manager.html#a3790b40d97f369bee88117c438682240">pocketmine\permission\PermissionManager::unsubscribeFromPermission</a>  (string $permission, <a class="el" href="../../d9/d10/classpocketmine_1_1permission_1_1_permissible_internal.html">PermissibleInternal</a> $permissible)</dt>
-<dd><a class="anchor" id="_deprecated000023"></a>Superseded by server chat broadcast channels  </dd>
+<dd><a class="anchor" id="_deprecated000026"></a>Superseded by server chat broadcast channels  </dd>
 <dt>Member <a class="el" href="../../d5/df7/classpocketmine_1_1_server.html#a6a32d7ce2b7100d6117cd6e3cfb3b1d6">pocketmine\Server::getPlayerByPrefix</a>  (string $name)</dt>
-<dd><a class="anchor" id="_deprecated000026"></a>This method's results are unpredictable. The string "Steve" will return the player named "SteveJobs", until another player named "SteveJ" joins the server, at which point it will return that player instead. Prefer filtering the results of <code><a class="el" href="../../d5/df7/classpocketmine_1_1_server.html#ab173ee59d49782e9a9fd13a1cdc39cbf">Server::getOnlinePlayers()</a></code> yourself. </dd>
+<dd><a class="anchor" id="_deprecated000029"></a>This method's results are unpredictable. The string "Steve" will return the player named "SteveJobs", until another player named "SteveJ" joins the server, at which point it will return that player instead. Prefer filtering the results of <code><a class="el" href="../../d5/df7/classpocketmine_1_1_server.html#ab173ee59d49782e9a9fd13a1cdc39cbf">Server::getOnlinePlayers()</a></code> yourself. </dd>
 <dt>Member <a class="el" href="../../d4/d2b/classpocketmine_1_1world_1_1_world.html#a72b2673cda248e41ef6b73b8d50bd192">pocketmine\world\World::getChunkPlayers</a>  (int $chunkX, int $chunkZ)</dt>
-<dd><a class="anchor" id="_deprecated000027"></a>WARNING: This function has a misleading name. Contrary to what the name might imply, this function DOES NOT return players who are IN a chunk, rather, it returns players who can SEE the chunk.</dd>
+<dd><a class="anchor" id="_deprecated000030"></a>WARNING: This function has a misleading name. Contrary to what the name might imply, this function DOES NOT return players who are IN a chunk, rather, it returns players who can SEE the chunk.</dd>
 </dl>
 </div></div><!-- contents -->
 </div><!-- PageDoc -->

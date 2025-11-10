@@ -1,5 +1,14 @@
 var NAVTREEINDEX142 =
 {
+"d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#add4d4fd4fecc779dee9c9f94b8a556e5":[3,0,1,0,70,5],
+"d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#ade77e0b1fce7bdebceed4092b9c5c022":[2,0,0,0,68,33],
+"d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#ade77e0b1fce7bdebceed4092b9c5c022":[3,0,1,0,70,33],
+"d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,68,32],
+"d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#ae829b9f476afef6b23d6f4f7fd558e0f":[3,0,1,0,70,32],
+"d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#aeb29d78d84483905346d3c777f860ed5":[2,0,0,0,68,63],
+"d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#aeb29d78d84483905346d3c777f860ed5":[3,0,1,0,70,63],
+"d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,68,54],
+"d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,70,54],
 "d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#af45a3d45c4ab6528c6641915722b9de8":[2,0,0,0,68,6],
 "d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#af45a3d45c4ab6528c6641915722b9de8":[3,0,1,0,70,6],
 "d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#afa0e08fa7c894cf623c630db6a4a3a91":[2,0,0,0,68,61],
@@ -240,14 +249,5 @@ var NAVTREEINDEX142 =
 "d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html#adfaf9728336726192e1499e47cf7ae1d":[2,0,0,5,60,45],
 "d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html#adfaf9728336726192e1499e47cf7ae1d":[3,0,1,12,61,45],
 "d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html#ae0735ccc1dee85d0c095aaa4109f40fb":[2,0,0,5,60,13],
-"d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html#ae0735ccc1dee85d0c095aaa4109f40fb":[3,0,1,12,61,13],
-"d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html#ae2543fd294d689ca6850d5bc78710522":[2,0,0,5,60,38],
-"d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html#ae2543fd294d689ca6850d5bc78710522":[3,0,1,12,61,38],
-"d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html#aec8070c04112770e0d01a3c56b252e81":[2,0,0,5,60,50],
-"d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html#aec8070c04112770e0d01a3c56b252e81":[3,0,1,12,61,50],
-"d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html#af44b2311f27b78c5cd442c189793e7e6":[2,0,0,5,60,39],
-"d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html#af44b2311f27b78c5cd442c189793e7e6":[3,0,1,12,61,39],
-"d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html#af737301b899b7a7c9e9b0bb9a234a119":[2,0,0,5,60,7],
-"d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html#af737301b899b7a7c9e9b0bb9a234a119":[3,0,1,12,61,7],
-"d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html#af85accbedba28b67bb66d5f12d329585":[2,0,0,5,60,40]
+"d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html#ae0735ccc1dee85d0c095aaa4109f40fb":[3,0,1,12,61,13]
 };

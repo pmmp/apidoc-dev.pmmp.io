@@ -1,5 +1,8 @@
 var NAVTREEINDEX31 =
 {
+"d2/d00/classpocketmine_1_1block_1_1_torch.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,237,24],
+"d2/d00/classpocketmine_1_1block_1_1_torch.html#acb7cc5bba94398c6a329b3b2af8fa859":[3,0,1,0,239,24],
+"d2/d00/classpocketmine_1_1block_1_1_torch.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[2,0,0,0,237,57],
 "d2/d00/classpocketmine_1_1block_1_1_torch.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[3,0,1,0,239,57],
 "d2/d00/classpocketmine_1_1block_1_1_torch.html#acfa7766036568571b645ae89ceb1029e":[2,0,0,0,237,43],
 "d2/d00/classpocketmine_1_1block_1_1_torch.html#acfa7766036568571b645ae89ceb1029e":[3,0,1,0,239,43],
@@ -246,8 +249,5 @@ var NAVTREEINDEX31 =
 "d2/d0c/classpocketmine_1_1block_1_1_cartography_table.html#aad121ffc31a225748d5bcc0e0752a9f0":[2,0,0,0,47,23],
 "d2/d0c/classpocketmine_1_1block_1_1_cartography_table.html#aad121ffc31a225748d5bcc0e0752a9f0":[3,0,1,0,49,23],
 "d2/d0c/classpocketmine_1_1block_1_1_cartography_table.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[2,0,0,0,47,31],
-"d2/d0c/classpocketmine_1_1block_1_1_cartography_table.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,49,31],
-"d2/d0c/classpocketmine_1_1block_1_1_cartography_table.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,47,19],
-"d2/d0c/classpocketmine_1_1block_1_1_cartography_table.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,49,19],
-"d2/d0c/classpocketmine_1_1block_1_1_cartography_table.html#ab6b90601adfc9732893dcffe256514a9":[2,0,0,0,47,66]
+"d2/d0c/classpocketmine_1_1block_1_1_cartography_table.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,49,31]
 };

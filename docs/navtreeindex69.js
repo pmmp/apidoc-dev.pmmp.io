@@ -1,5 +1,13 @@
 var NAVTREEINDEX69 =
 {
+"d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#ab6b90601adfc9732893dcffe256514a9":[3,0,1,0,86,70],
+"d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#ab731ef1ac99496287ef09c72ded1dfe4":[2,0,0,0,84,57],
+"d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#ab731ef1ac99496287ef09c72ded1dfe4":[3,0,1,0,86,57],
+"d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#ab92353cf0aa5c05ad26535f98a2b1dca":[2,0,0,0,84,27],
+"d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#ab92353cf0aa5c05ad26535f98a2b1dca":[3,0,1,0,86,27],
+"d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[2,0,0,0,84,12],
+"d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[3,0,1,0,86,12],
+"d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#ac34d7d0bd5e5173f331e56f6b97ca796":[2,0,0,0,84,51],
 "d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#ac34d7d0bd5e5173f331e56f6b97ca796":[3,0,1,0,86,51],
 "d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#ac7c6b2cf8fdce0bf501dc62d06b04aff":[2,0,0,0,84,6],
 "d4/dba/classpocketmine_1_1block_1_1_detector_rail.html#ac7c6b2cf8fdce0bf501dc62d06b04aff":[3,0,1,0,86,6],
@@ -241,13 +249,5 @@ var NAVTREEINDEX69 =
 "d4/dc8/classpocketmine_1_1item_1_1_raw_mutton.html#a56bc59582baf2faf3412ca7044831e3b":[2,0,0,5,92,37],
 "d4/dc8/classpocketmine_1_1item_1_1_raw_mutton.html#a56bc59582baf2faf3412ca7044831e3b":[3,0,1,12,93,37],
 "d4/dc8/classpocketmine_1_1item_1_1_raw_mutton.html#a5b53d78436bbdb5d53102fda463be4e6":[2,0,0,5,92,53],
-"d4/dc8/classpocketmine_1_1item_1_1_raw_mutton.html#a5b53d78436bbdb5d53102fda463be4e6":[3,0,1,12,93,53],
-"d4/dc8/classpocketmine_1_1item_1_1_raw_mutton.html#a653a8fbd8da17b08be95a985d857c4fc":[2,0,0,5,92,44],
-"d4/dc8/classpocketmine_1_1item_1_1_raw_mutton.html#a653a8fbd8da17b08be95a985d857c4fc":[3,0,1,12,93,44],
-"d4/dc8/classpocketmine_1_1item_1_1_raw_mutton.html#a67b44433c553602d7c851b1ca23e6e5e":[2,0,0,5,92,43],
-"d4/dc8/classpocketmine_1_1item_1_1_raw_mutton.html#a67b44433c553602d7c851b1ca23e6e5e":[3,0,1,12,93,43],
-"d4/dc8/classpocketmine_1_1item_1_1_raw_mutton.html#a71289362f9d561347b5c8c2717eb0512":[2,0,0,5,92,41],
-"d4/dc8/classpocketmine_1_1item_1_1_raw_mutton.html#a71289362f9d561347b5c8c2717eb0512":[3,0,1,12,93,41],
-"d4/dc8/classpocketmine_1_1item_1_1_raw_mutton.html#a7b5c1e7e496c3077658212aaacec4b56":[2,0,0,5,92,16],
-"d4/dc8/classpocketmine_1_1item_1_1_raw_mutton.html#a7b5c1e7e496c3077658212aaacec4b56":[3,0,1,12,93,16]
+"d4/dc8/classpocketmine_1_1item_1_1_raw_mutton.html#a5b53d78436bbdb5d53102fda463be4e6":[3,0,1,12,93,53]
 };

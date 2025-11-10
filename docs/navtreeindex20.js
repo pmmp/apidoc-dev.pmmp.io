@@ -1,5 +1,8 @@
 var NAVTREEINDEX20 =
 {
+"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#adf110f86af26f722a96d8b5d31f2e7d3":[2,0,0,0,162,63],
+"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#adf110f86af26f722a96d8b5d31f2e7d3":[3,0,1,0,164,63],
+"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,162,32],
 "d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#ae829b9f476afef6b23d6f4f7fd558e0f":[3,0,1,0,164,32],
 "d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,162,54],
 "d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,164,54],
@@ -246,8 +249,5 @@ var NAVTREEINDEX20 =
 "d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[3,0,1,0,77,36],
 "d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[2,0,0,0,75,47],
 "d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[3,0,1,0,77,47],
-"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a54c73770918ea9dfdef02db7f78f31da":[2,0,0,0,75,8],
-"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a54c73770918ea9dfdef02db7f78f31da":[3,0,1,0,77,8],
-"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a5589a4f36e3f44cf11120116b93b0802":[2,0,0,0,75,65],
-"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a5589a4f36e3f44cf11120116b93b0802":[3,0,1,0,77,65]
+"d1/d66/classpocketmine_1_1block_1_1_copper_slab.html#a54c73770918ea9dfdef02db7f78f31da":[2,0,0,0,75,8]
 };

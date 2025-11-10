@@ -1,5 +1,8 @@
 var NAVTREEINDEX23 =
 {
+"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,144,71],
+"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a98b16b2501fae53cbd7fcd7c86b53913":[2,0,0,0,142,59],
+"d1/d7b/classpocketmine_1_1block_1_1_lava.html#a98b16b2501fae53cbd7fcd7c86b53913":[3,0,1,0,144,59],
 "d1/d7b/classpocketmine_1_1block_1_1_lava.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,142,41],
 "d1/d7b/classpocketmine_1_1block_1_1_lava.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,144,41],
 "d1/d7b/classpocketmine_1_1block_1_1_lava.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,142,7],
@@ -104,7 +107,7 @@ var NAVTREEINDEX23 =
 "d1/d84/classpocketmine_1_1_server_config_group.html":[2,0,0,20],
 "d1/d84/classpocketmine_1_1_server_config_group.html":[3,0,1,36],
 "d1/d87/_bedrock_8php_source.html":[4,0,0,0,20],
-"d1/d87/_totem_use_animation_8php_source.html":[4,0,0,6,0,11],
+"d1/d87/_totem_use_animation_8php_source.html":[4,0,0,6,0,12],
 "d1/d87/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1raw_1_1_command_enum_raw_data.html":[3,0,1,16,0,6,1,2,0,3],
 "d1/d87/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1raw_1_1_command_enum_raw_data.html#a380d2be09d8c01f539d077bdc54cf4d2":[3,0,1,16,0,6,1,2,0,3,1],
 "d1/d87/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1raw_1_1_command_enum_raw_data.html#a765762e723f5fbeb6d7a8763cce0953a":[3,0,1,16,0,6,1,2,0,3,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX23 =
 "d1/d8d/classpocketmine_1_1block_1_1_floor_coral_fan.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,110,51],
 "d1/d8d/classpocketmine_1_1block_1_1_floor_coral_fan.html#acb449b40461f4800cf6e6288cb9a069d":[2,0,0,0,108,0],
 "d1/d8d/classpocketmine_1_1block_1_1_floor_coral_fan.html#acb449b40461f4800cf6e6288cb9a069d":[3,0,1,0,110,0],
-"d1/d8d/classpocketmine_1_1block_1_1_floor_coral_fan.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,108,24],
-"d1/d8d/classpocketmine_1_1block_1_1_floor_coral_fan.html#acb7cc5bba94398c6a329b3b2af8fa859":[3,0,1,0,110,24],
-"d1/d8d/classpocketmine_1_1block_1_1_floor_coral_fan.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[2,0,0,0,108,57],
-"d1/d8d/classpocketmine_1_1block_1_1_floor_coral_fan.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[3,0,1,0,110,57]
+"d1/d8d/classpocketmine_1_1block_1_1_floor_coral_fan.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,108,24]
 };

@@ -49,6 +49,7 @@ var hierarchy =
       [ "pocketmine\\entity\\animation\\FireworkParticlesAnimation", "d5/dab/classpocketmine_1_1entity_1_1animation_1_1_firework_particles_animation.html", null ],
       [ "pocketmine\\entity\\animation\\HurtAnimation", "d5/de7/classpocketmine_1_1entity_1_1animation_1_1_hurt_animation.html", null ],
       [ "pocketmine\\entity\\animation\\ItemEntityStackSizeChangeAnimation", "da/dc8/classpocketmine_1_1entity_1_1animation_1_1_item_entity_stack_size_change_animation.html", null ],
+      [ "pocketmine\\entity\\animation\\MagicHitAnimation", "df/df7/classpocketmine_1_1entity_1_1animation_1_1_magic_hit_animation.html", null ],
       [ "pocketmine\\entity\\animation\\RespawnAnimation", "d3/d4f/classpocketmine_1_1entity_1_1animation_1_1_respawn_animation.html", null ],
       [ "pocketmine\\entity\\animation\\SquidInkCloudAnimation", "d7/d98/classpocketmine_1_1entity_1_1animation_1_1_squid_ink_cloud_animation.html", null ],
       [ "pocketmine\\entity\\animation\\TotemUseAnimation", "db/dca/classpocketmine_1_1entity_1_1animation_1_1_totem_use_animation.html", null ]

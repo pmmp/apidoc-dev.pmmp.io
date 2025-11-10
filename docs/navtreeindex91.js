@@ -1,5 +1,14 @@
 var NAVTREEINDEX91 =
 {
+"d6/d2c/classpocketmine_1_1utils_1_1_config.html#ac958834e396b6231dbce5be62875bedd":[3,0,1,28,5,1],
+"d6/d2c/classpocketmine_1_1utils_1_1_config.html#ad4598d4632eaa44ee5ff6f2b159dd224":[2,0,0,12,5,17],
+"d6/d2c/classpocketmine_1_1utils_1_1_config.html#ad4598d4632eaa44ee5ff6f2b159dd224":[3,0,1,28,5,17],
+"d6/d2c/classpocketmine_1_1utils_1_1_config.html#af2c527cba3dce1158d1c655d50955ec9":[2,0,0,12,5,4],
+"d6/d2c/classpocketmine_1_1utils_1_1_config.html#af2c527cba3dce1158d1c655d50955ec9":[3,0,1,28,5,4],
+"d6/d2c/classpocketmine_1_1utils_1_1_config.html#af3739d60a1e414988b533e898236dce5":[2,0,0,12,5,5],
+"d6/d2c/classpocketmine_1_1utils_1_1_config.html#af3739d60a1e414988b533e898236dce5":[3,0,1,28,5,5],
+"d6/d2c/classpocketmine_1_1utils_1_1_config.html#afe7b58828eb43ae3d5701194a2385d41":[2,0,0,12,5,11],
+"d6/d2c/classpocketmine_1_1utils_1_1_config.html#afe7b58828eb43ae3d5701194a2385d41":[3,0,1,28,5,11],
 "d6/d2d/_generator_manager_8php_source.html":[4,0,0,25,2,11],
 "d6/d2d/_player_entity_pick_event_8php_source.html":[4,0,0,7,3,19],
 "d6/d2e/_steak_8php_source.html":[4,0,0,10,115],
@@ -240,14 +249,5 @@ var NAVTREEINDEX91 =
 "d6/d41/classpocketmine_1_1item_1_1_boat.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[3,0,1,12,14,8],
 "d6/d41/classpocketmine_1_1item_1_1_boat.html#aa27432059ecfd201a3cec74253b21fa9":[2,0,0,5,13,47],
 "d6/d41/classpocketmine_1_1item_1_1_boat.html#aa27432059ecfd201a3cec74253b21fa9":[3,0,1,12,14,47],
-"d6/d41/classpocketmine_1_1item_1_1_boat.html#aa2834fb1656bc61244f5a24091aaa600":[2,0,0,5,13,34],
-"d6/d41/classpocketmine_1_1item_1_1_boat.html#aa2834fb1656bc61244f5a24091aaa600":[3,0,1,12,14,34],
-"d6/d41/classpocketmine_1_1item_1_1_boat.html#aa807b0fa5751723fed80570a4de1231b":[2,0,0,5,13,43],
-"d6/d41/classpocketmine_1_1item_1_1_boat.html#aa807b0fa5751723fed80570a4de1231b":[3,0,1,12,14,43],
-"d6/d41/classpocketmine_1_1item_1_1_boat.html#aabd7c38d2f74e537da5bcc6149570fd8":[2,0,0,5,13,17],
-"d6/d41/classpocketmine_1_1item_1_1_boat.html#aabd7c38d2f74e537da5bcc6149570fd8":[3,0,1,12,14,17],
-"d6/d41/classpocketmine_1_1item_1_1_boat.html#aad9f6fbf32449170a157b787d4227ee6":[2,0,0,5,13,28],
-"d6/d41/classpocketmine_1_1item_1_1_boat.html#aad9f6fbf32449170a157b787d4227ee6":[3,0,1,12,14,28],
-"d6/d41/classpocketmine_1_1item_1_1_boat.html#ab2684657498a5d3ece43023f77d2b77d":[2,0,0,5,13,22],
-"d6/d41/classpocketmine_1_1item_1_1_boat.html#ab2684657498a5d3ece43023f77d2b77d":[3,0,1,12,14,22]
+"d6/d41/classpocketmine_1_1item_1_1_boat.html#aa2834fb1656bc61244f5a24091aaa600":[2,0,0,5,13,34]
 };

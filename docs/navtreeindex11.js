@@ -1,5 +1,7 @@
 var NAVTREEINDEX11 =
 {
+"d0/dc6/classpocketmine_1_1lang_1_1_known_translation_factory.html":[3,0,1,13,0],
+"d0/dc7/_craft_recipe_optional_stack_request_action_8php_source.html":[4,0,1,0,1,0,1,5,0,4],
 "d0/dc7/classpocketmine_1_1item_1_1_snowball.html":[2,0,0,5,102],
 "d0/dc7/classpocketmine_1_1item_1_1_snowball.html":[3,0,1,12,103],
 "d0/dc7/classpocketmine_1_1item_1_1_snowball.html#a0a422a89abd427286bc2f312100f968c":[2,0,0,5,102,30],
@@ -247,7 +249,5 @@ var NAVTREEINDEX11 =
 "d0/dd3/classpocketmine_1_1block_1_1_trapped_chest.html#add4d4fd4fecc779dee9c9f94b8a556e5":[2,0,0,0,241,5],
 "d0/dd3/classpocketmine_1_1block_1_1_trapped_chest.html#add4d4fd4fecc779dee9c9f94b8a556e5":[3,0,1,0,243,5],
 "d0/dd3/classpocketmine_1_1block_1_1_trapped_chest.html#ade77e0b1fce7bdebceed4092b9c5c022":[2,0,0,0,241,35],
-"d0/dd3/classpocketmine_1_1block_1_1_trapped_chest.html#ade77e0b1fce7bdebceed4092b9c5c022":[3,0,1,0,243,35],
-"d0/dd3/classpocketmine_1_1block_1_1_trapped_chest.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,241,34],
-"d0/dd3/classpocketmine_1_1block_1_1_trapped_chest.html#ae829b9f476afef6b23d6f4f7fd558e0f":[3,0,1,0,243,34]
+"d0/dd3/classpocketmine_1_1block_1_1_trapped_chest.html#ade77e0b1fce7bdebceed4092b9c5c022":[3,0,1,0,243,35]
 };

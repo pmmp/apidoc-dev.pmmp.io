@@ -601,6 +601,7 @@ var annotated_dup =
           [ "FireworkParticlesAnimation", "d5/dab/classpocketmine_1_1entity_1_1animation_1_1_firework_particles_animation.html", "d5/dab/classpocketmine_1_1entity_1_1animation_1_1_firework_particles_animation" ],
           [ "HurtAnimation", "d5/de7/classpocketmine_1_1entity_1_1animation_1_1_hurt_animation.html", "d5/de7/classpocketmine_1_1entity_1_1animation_1_1_hurt_animation" ],
           [ "ItemEntityStackSizeChangeAnimation", "da/dc8/classpocketmine_1_1entity_1_1animation_1_1_item_entity_stack_size_change_animation.html", "da/dc8/classpocketmine_1_1entity_1_1animation_1_1_item_entity_stack_size_change_animation" ],
+          [ "MagicHitAnimation", "df/df7/classpocketmine_1_1entity_1_1animation_1_1_magic_hit_animation.html", "df/df7/classpocketmine_1_1entity_1_1animation_1_1_magic_hit_animation" ],
           [ "RespawnAnimation", "d3/d4f/classpocketmine_1_1entity_1_1animation_1_1_respawn_animation.html", "d3/d4f/classpocketmine_1_1entity_1_1animation_1_1_respawn_animation" ],
           [ "SquidInkCloudAnimation", "d7/d98/classpocketmine_1_1entity_1_1animation_1_1_squid_ink_cloud_animation.html", "d7/d98/classpocketmine_1_1entity_1_1animation_1_1_squid_ink_cloud_animation" ],
           [ "TotemUseAnimation", "db/dca/classpocketmine_1_1entity_1_1animation_1_1_totem_use_animation.html", "db/dca/classpocketmine_1_1entity_1_1animation_1_1_totem_use_animation" ]

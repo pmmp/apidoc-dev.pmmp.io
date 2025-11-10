@@ -1,5 +1,14 @@
 var NAVTREEINDEX92 =
 {
+"d6/d41/classpocketmine_1_1item_1_1_boat.html#aa2834fb1656bc61244f5a24091aaa600":[3,0,1,12,14,34],
+"d6/d41/classpocketmine_1_1item_1_1_boat.html#aa807b0fa5751723fed80570a4de1231b":[2,0,0,5,13,43],
+"d6/d41/classpocketmine_1_1item_1_1_boat.html#aa807b0fa5751723fed80570a4de1231b":[3,0,1,12,14,43],
+"d6/d41/classpocketmine_1_1item_1_1_boat.html#aabd7c38d2f74e537da5bcc6149570fd8":[2,0,0,5,13,17],
+"d6/d41/classpocketmine_1_1item_1_1_boat.html#aabd7c38d2f74e537da5bcc6149570fd8":[3,0,1,12,14,17],
+"d6/d41/classpocketmine_1_1item_1_1_boat.html#aad9f6fbf32449170a157b787d4227ee6":[2,0,0,5,13,28],
+"d6/d41/classpocketmine_1_1item_1_1_boat.html#aad9f6fbf32449170a157b787d4227ee6":[3,0,1,12,14,28],
+"d6/d41/classpocketmine_1_1item_1_1_boat.html#ab2684657498a5d3ece43023f77d2b77d":[2,0,0,5,13,22],
+"d6/d41/classpocketmine_1_1item_1_1_boat.html#ab2684657498a5d3ece43023f77d2b77d":[3,0,1,12,14,22],
 "d6/d41/classpocketmine_1_1item_1_1_boat.html#ab7a3f98c82cfd72eb999afbb6e9baf45":[2,0,0,5,13,9],
 "d6/d41/classpocketmine_1_1item_1_1_boat.html#ab7a3f98c82cfd72eb999afbb6e9baf45":[3,0,1,12,14,9],
 "d6/d41/classpocketmine_1_1item_1_1_boat.html#aba073e91196cf2978057ec4d3842aa76":[2,0,0,5,13,39],
@@ -240,14 +249,5 @@ var NAVTREEINDEX92 =
 "d6/d5a/classpocketmine_1_1item_1_1_coal.html#a319a186a07d166461600dd4a639eb86f":[2,0,0,5,23,10],
 "d6/d5a/classpocketmine_1_1item_1_1_coal.html#a319a186a07d166461600dd4a639eb86f":[3,0,1,12,24,10],
 "d6/d5a/classpocketmine_1_1item_1_1_coal.html#a336d6f91be72079853413f5b4036a57d":[2,0,0,5,23,2],
-"d6/d5a/classpocketmine_1_1item_1_1_coal.html#a336d6f91be72079853413f5b4036a57d":[3,0,1,12,24,2],
-"d6/d5a/classpocketmine_1_1item_1_1_coal.html#a3bc65b2324649d8735dadf9bf8cf0705":[2,0,0,5,23,45],
-"d6/d5a/classpocketmine_1_1item_1_1_coal.html#a3bc65b2324649d8735dadf9bf8cf0705":[3,0,1,12,24,45],
-"d6/d5a/classpocketmine_1_1item_1_1_coal.html#a49a05b01faaaf071449c97060fe44926":[2,0,0,5,23,0],
-"d6/d5a/classpocketmine_1_1item_1_1_coal.html#a49a05b01faaaf071449c97060fe44926":[3,0,1,12,24,0],
-"d6/d5a/classpocketmine_1_1item_1_1_coal.html#a4a9aa55600bb30c4d55ad63337874a07":[2,0,0,5,23,6],
-"d6/d5a/classpocketmine_1_1item_1_1_coal.html#a4a9aa55600bb30c4d55ad63337874a07":[3,0,1,12,24,6],
-"d6/d5a/classpocketmine_1_1item_1_1_coal.html#a536378f334334c0e8b06e5ccaeb4de39":[2,0,0,5,23,29],
-"d6/d5a/classpocketmine_1_1item_1_1_coal.html#a536378f334334c0e8b06e5ccaeb4de39":[3,0,1,12,24,29],
-"d6/d5a/classpocketmine_1_1item_1_1_coal.html#a568624515bba5ff57e21ec8c828ade56":[2,0,0,5,23,5]
+"d6/d5a/classpocketmine_1_1item_1_1_coal.html#a336d6f91be72079853413f5b4036a57d":[3,0,1,12,24,2]
 };

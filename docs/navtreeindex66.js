@@ -1,5 +1,13 @@
 var NAVTREEINDEX66 =
 {
+"d4/d92/interfacepocketmine_1_1plugin_1_1_plugin.html#a22317d4431e03ad13af61c4ad5775cdc":[3,0,1,19,4,1],
+"d4/d92/interfacepocketmine_1_1plugin_1_1_plugin.html#acc5c106be2132cd3db65a31387066827":[2,0,0,10,4,0],
+"d4/d92/interfacepocketmine_1_1plugin_1_1_plugin.html#acc5c106be2132cd3db65a31387066827":[3,0,1,19,4,0],
+"d4/d93/_slot_validator_8php_source.html":[4,0,0,9,1,0,0,1],
+"d4/d94/_brewing_stand_inventory_window_8php_source.html":[4,0,0,0,0,0,2],
+"d4/d94/classpocketmine_1_1event_1_1_registered_listener.html":[2,0,0,3,13],
+"d4/d94/classpocketmine_1_1event_1_1_registered_listener.html":[3,0,1,9,14],
+"d4/d95/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_set_instruction_ease.html":[3,0,1,16,0,6,1,1,14],
 "d4/d95/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_set_instruction_ease.html#a5866b8a43aa657fd1966d66a78bce3a1":[3,0,1,16,0,6,1,1,14,0],
 "d4/d95/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1camera_1_1_camera_set_instruction_ease.html#abc30a3fede99f2b6e48893f17f12236b":[3,0,1,16,0,6,1,1,14,1],
 "d4/d96/classpocketmine_1_1item_1_1_dye.html":[2,0,0,5,37],
@@ -241,13 +249,5 @@ var NAVTREEINDEX66 =
 "d4/d9c/classpocketmine_1_1block_1_1_chiseled_bookshelf.html#adc7b2fcbcc10f046b1cbcafdd0858863":[3,0,1,0,59,1],
 "d4/d9c/classpocketmine_1_1block_1_1_chiseled_bookshelf.html#add4d4fd4fecc779dee9c9f94b8a556e5":[2,0,0,0,57,5],
 "d4/d9c/classpocketmine_1_1block_1_1_chiseled_bookshelf.html#add4d4fd4fecc779dee9c9f94b8a556e5":[3,0,1,0,59,5],
-"d4/d9c/classpocketmine_1_1block_1_1_chiseled_bookshelf.html#ade77e0b1fce7bdebceed4092b9c5c022":[2,0,0,0,57,34],
-"d4/d9c/classpocketmine_1_1block_1_1_chiseled_bookshelf.html#ade77e0b1fce7bdebceed4092b9c5c022":[3,0,1,0,59,34],
-"d4/d9c/classpocketmine_1_1block_1_1_chiseled_bookshelf.html#ae6f3cdb7eeee27448b561fa3f8323916":[2,0,0,0,57,51],
-"d4/d9c/classpocketmine_1_1block_1_1_chiseled_bookshelf.html#ae6f3cdb7eeee27448b561fa3f8323916":[3,0,1,0,59,51],
-"d4/d9c/classpocketmine_1_1block_1_1_chiseled_bookshelf.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,57,33],
-"d4/d9c/classpocketmine_1_1block_1_1_chiseled_bookshelf.html#ae829b9f476afef6b23d6f4f7fd558e0f":[3,0,1,0,59,33],
-"d4/d9c/classpocketmine_1_1block_1_1_chiseled_bookshelf.html#aecc8e1e3906135b4b812bb4553d833ef":[2,0,0,0,57,39],
-"d4/d9c/classpocketmine_1_1block_1_1_chiseled_bookshelf.html#aecc8e1e3906135b4b812bb4553d833ef":[3,0,1,0,59,39],
-"d4/d9c/classpocketmine_1_1block_1_1_chiseled_bookshelf.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,57,57]
+"d4/d9c/classpocketmine_1_1block_1_1_chiseled_bookshelf.html#ade77e0b1fce7bdebceed4092b9c5c022":[2,0,0,0,57,34]
 };

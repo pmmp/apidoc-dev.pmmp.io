@@ -1,5 +1,15 @@
 var NAVTREEINDEX161 =
 {
+"da/d3a/classpocketmine_1_1command_1_1defaults_1_1_help_command.html#a88a41e241a4891428166cdf2c0af8309":[3,0,1,2,0,14,2],
+"da/d3a/classpocketmine_1_1command_1_1defaults_1_1_help_command.html#a8c40c93db847fcf02c3e7b19a729dd10":[3,0,1,2,0,14,4],
+"da/d3b/_candle_8php_source.html":[4,0,0,0,46],
+"da/d3b/_network_permissions_8php_source.html":[4,0,1,0,1,0,1,63],
+"da/d3b/_player_data_provider_8php_source.html":[4,0,0,14,9],
+"da/d3b/classpocketmine_1_1inventory_1_1_callback_inventory_listener.html":[2,0,0,4,2],
+"da/d3b/classpocketmine_1_1inventory_1_1_callback_inventory_listener.html":[3,0,1,11,4],
+"da/d3b/classpocketmine_1_1inventory_1_1_callback_inventory_listener.html#aa5587e964372258f4de7310d750fe24e":[2,0,0,4,2,2],
+"da/d3b/classpocketmine_1_1inventory_1_1_callback_inventory_listener.html#aa5587e964372258f4de7310d750fe24e":[3,0,1,11,4,2],
+"da/d3b/classpocketmine_1_1inventory_1_1_callback_inventory_listener.html#aaf25dc815b73b8a72b024084f66682ed":[2,0,0,4,2,0],
 "da/d3b/classpocketmine_1_1inventory_1_1_callback_inventory_listener.html#aaf25dc815b73b8a72b024084f66682ed":[3,0,1,11,4,0],
 "da/d3b/classpocketmine_1_1inventory_1_1_callback_inventory_listener.html#ae043340b670e891025a4bc73b2f690bf":[2,0,0,4,2,1],
 "da/d3b/classpocketmine_1_1inventory_1_1_callback_inventory_listener.html#ae043340b670e891025a4bc73b2f690bf":[3,0,1,11,4,1],
@@ -239,15 +249,5 @@ var NAVTREEINDEX161 =
 "da/d55/classpocketmine_1_1block_1_1_hardened_clay.html":[2,0,0,0,128],
 "da/d55/classpocketmine_1_1block_1_1_hardened_clay.html":[3,0,1,0,130],
 "da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,128,58],
-"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,130,58],
-"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a09f4667329f89292dd319d56c4243b59":[2,0,0,0,128,30],
-"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a09f4667329f89292dd319d56c4243b59":[3,0,1,0,130,30],
-"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,128,18],
-"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,130,18],
-"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,128,60],
-"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,130,60],
-"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,128,47],
-"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,130,47],
-"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,128,3],
-"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,130,3]
+"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,130,58]
 };

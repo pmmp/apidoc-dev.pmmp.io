@@ -1,5 +1,23 @@
 var NAVTREEINDEX251 =
 {
+"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a6db5fee11fc3b30c6ec45c62de8ee8dc":[3,0,1,22,2,4],
+"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#aa5a040d7bd6023185e91387c526f8527":[2,0,0,11,2,1],
+"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#aa5a040d7bd6023185e91387c526f8527":[3,0,1,22,2,1],
+"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#ad5e0edb131fe81a8b68e64c70ba06d2b":[2,0,0,11,2,6],
+"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#ad5e0edb131fe81a8b68e64c70ba06d2b":[3,0,1,22,2,6],
+"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#adad32212908878d6e70423161dbae0bf":[2,0,0,11,2,5],
+"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#adad32212908878d6e70423161dbae0bf":[3,0,1,22,2,5],
+"df/dfa/classpocketmine_1_1world_1_1utils_1_1_sub_chunk_explorer_status.html":[3,0,1,30,6,1],
+"df/dfa/classpocketmine_1_1world_1_1utils_1_1_sub_chunk_explorer_status.html#a88a6968f37829f922caff971d3450910":[3,0,1,30,6,1,1],
+"df/dfa/classpocketmine_1_1world_1_1utils_1_1_sub_chunk_explorer_status.html#a9f691c6b6dcd7d25779a1d73892eda9d":[3,0,1,30,6,1,0],
+"df/dfa/classpocketmine_1_1world_1_1utils_1_1_sub_chunk_explorer_status.html#ab84ecd36be98d804f8e8fa3119175646":[3,0,1,30,6,1,2],
+"df/dfd/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1biome_1_1chunkgen_1_1_biome_mountain_params_data.html":[3,0,1,16,0,6,1,0,0,10],
+"df/dfd/interfacepocketmine_1_1entity_1_1_food_source.html":[2,0,0,2,11],
+"df/dfd/interfacepocketmine_1_1entity_1_1_food_source.html":[3,0,1,7,16],
+"df/dfd/interfacepocketmine_1_1entity_1_1_food_source.html#a6749b3c6b45f7d1b192b60ccc8c9a832":[2,0,0,2,11,2],
+"df/dfd/interfacepocketmine_1_1entity_1_1_food_source.html#a6749b3c6b45f7d1b192b60ccc8c9a832":[3,0,1,7,16,2],
+"df/dfd/interfacepocketmine_1_1entity_1_1_food_source.html#accd40cba3eefb1d5886f203da75aa5b8":[2,0,0,2,11,0],
+"df/dfd/interfacepocketmine_1_1entity_1_1_food_source.html#accd40cba3eefb1d5886f203da75aa5b8":[3,0,1,7,16,0],
 "df/dfd/interfacepocketmine_1_1entity_1_1_food_source.html#ad53358136d2834427c096078f598fa31":[2,0,0,2,11,1],
 "df/dfd/interfacepocketmine_1_1entity_1_1_food_source.html#ad53358136d2834427c096078f598fa31":[3,0,1,7,16,1],
 "df/dfe/_projectile_8php_source.html":[4,0,0,6,3,5],
@@ -231,8 +249,5 @@ var NAVTREEINDEX251 =
 "namespacemembers.html":[2,1,0],
 "namespacemembers_enum.html":[2,1,3],
 "namespacemembers_eval.html":[2,1,4],
-"namespacemembers_func.html":[2,1,1],
-"namespacemembers_vars.html":[2,1,2],
-"namespaces.html":[2,0],
-"pages.html":[]
+"namespacemembers_func.html":[2,1,1]
 };

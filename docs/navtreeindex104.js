@@ -1,5 +1,14 @@
 var NAVTREEINDEX104 =
 {
+"d6/dd1/classpocketmine_1_1block_1_1_candle.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,46,38],
+"d6/dd1/classpocketmine_1_1block_1_1_candle.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,44,7],
+"d6/dd1/classpocketmine_1_1block_1_1_candle.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,46,7],
+"d6/dd1/classpocketmine_1_1block_1_1_candle.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,44,4],
+"d6/dd1/classpocketmine_1_1block_1_1_candle.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,46,4],
+"d6/dd1/classpocketmine_1_1block_1_1_candle.html#aa4773f0153324728a2f41820fa52442d":[2,0,0,0,44,17],
+"d6/dd1/classpocketmine_1_1block_1_1_candle.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,46,17],
+"d6/dd1/classpocketmine_1_1block_1_1_candle.html#aac6828efb885bc8fe0f8876728ddde5d":[2,0,0,0,44,34],
+"d6/dd1/classpocketmine_1_1block_1_1_candle.html#aac6828efb885bc8fe0f8876728ddde5d":[3,0,1,0,46,34],
 "d6/dd1/classpocketmine_1_1block_1_1_candle.html#aad121ffc31a225748d5bcc0e0752a9f0":[2,0,0,0,44,23],
 "d6/dd1/classpocketmine_1_1block_1_1_candle.html#aad121ffc31a225748d5bcc0e0752a9f0":[3,0,1,0,46,23],
 "d6/dd1/classpocketmine_1_1block_1_1_candle.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[2,0,0,0,44,31],
@@ -240,14 +249,5 @@ var NAVTREEINDEX104 =
 "d6/deb/classpocketmine_1_1world_1_1particle_1_1_sonic_explosion_particle.html":[3,0,1,30,4,32],
 "d6/deb/classpocketmine_1_1world_1_1particle_1_1_sonic_explosion_particle.html#a2a31ce0cd45f86ab324d69dacf4cc2d1":[3,0,1,30,4,32,0],
 "d6/dec/_compound_tag_metadata_property_8php_source.html":[4,0,1,0,1,0,1,3,6],
-"d6/dee/_sub_chunk_packet_entry_common_8php_source.html":[4,0,1,0,1,0,1,90],
-"d6/dee/_vector_math_8php_source.html":[4,0,1,0,7,0,7],
-"d6/def/_clay_8php_source.html":[4,0,0,0,62],
-"d6/df1/classpocketmine_1_1command_1_1_command.html":[2,0,0,1,1],
-"d6/df1/classpocketmine_1_1command_1_1_command.html":[3,0,1,2,3],
-"d6/df1/classpocketmine_1_1command_1_1_command.html#a0950e4c2830f8adc9526da754c56130d":[2,0,0,1,1,5],
-"d6/df1/classpocketmine_1_1command_1_1_command.html#a0950e4c2830f8adc9526da754c56130d":[3,0,1,2,3,5],
-"d6/df1/classpocketmine_1_1command_1_1_command.html#a407f67137064d072ccef1ccd17ad6910":[2,0,0,1,1,0],
-"d6/df1/classpocketmine_1_1command_1_1_command.html#a407f67137064d072ccef1ccd17ad6910":[3,0,1,2,3,0],
-"d6/df1/classpocketmine_1_1command_1_1_command.html#a425117ae5e7bab32cc824f19f82b613b":[2,0,0,1,1,3]
+"d6/dee/_sub_chunk_packet_entry_common_8php_source.html":[4,0,1,0,1,0,1,90]
 };

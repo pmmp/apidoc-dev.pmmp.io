@@ -1,5 +1,13 @@
 var NAVTREEINDEX52 =
 {
+"d3/d8a/classraklib_1_1protocol_1_1_packet_serializer.html#ad3a3175fe24f3aea110f1732af4aa62f":[3,0,2,2,22,27],
+"d3/d8a/classraklib_1_1protocol_1_1_packet_serializer.html#adf2328b9f07c2406e4949e96447a8349":[3,0,2,2,22,16],
+"d3/d8a/classraklib_1_1protocol_1_1_packet_serializer.html#af545f4fe6d3d03b2ca93c58eea43d8e2":[3,0,2,2,22,26],
+"d3/d8a/classraklib_1_1protocol_1_1_packet_serializer.html#afc6ed67469ec930ba28a541f05cf622f":[3,0,2,2,22,10],
+"d3/d8b/_spyglass_8php_source.html":[4,0,0,10,114],
+"d3/d8c/classpocketmine_1_1nbt_1_1_big_endian_nbt_serializer.html":[2,0,0,7,1],
+"d3/d8c/classpocketmine_1_1nbt_1_1_big_endian_nbt_serializer.html":[3,0,1,15,2],
+"d3/d8c/classpocketmine_1_1nbt_1_1_big_endian_nbt_serializer.html#a1c2a97df88a52df75b944f65112966be":[2,0,0,7,1,18],
 "d3/d8c/classpocketmine_1_1nbt_1_1_big_endian_nbt_serializer.html#a1c2a97df88a52df75b944f65112966be":[3,0,1,15,2,18],
 "d3/d8c/classpocketmine_1_1nbt_1_1_big_endian_nbt_serializer.html#a298e44866a7dc311ba782af3bdc7821c":[2,0,0,7,1,3],
 "d3/d8c/classpocketmine_1_1nbt_1_1_big_endian_nbt_serializer.html#a298e44866a7dc311ba782af3bdc7821c":[3,0,1,15,2,3],
@@ -241,13 +249,5 @@ var NAVTREEINDEX52 =
 "d3/da5/_command_map_8php_source.html":[4,0,0,1,6],
 "d3/da7/_legacy_biome_id_to_string_id_map_8php_source.html":[4,0,0,5,0,17],
 "d3/da7/classpocketmine_1_1block_1_1_shulker_box.html":[2,0,0,0,205],
-"d3/da7/classpocketmine_1_1block_1_1_shulker_box.html":[3,0,1,0,207],
-"d3/da7/classpocketmine_1_1block_1_1_shulker_box.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,205,61],
-"d3/da7/classpocketmine_1_1block_1_1_shulker_box.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,207,61],
-"d3/da7/classpocketmine_1_1block_1_1_shulker_box.html#a09f4667329f89292dd319d56c4243b59":[2,0,0,0,205,32],
-"d3/da7/classpocketmine_1_1block_1_1_shulker_box.html#a09f4667329f89292dd319d56c4243b59":[3,0,1,0,207,32],
-"d3/da7/classpocketmine_1_1block_1_1_shulker_box.html#a0e311d05152d4d36a6a4d8bf3c1200d0":[2,0,0,0,205,64],
-"d3/da7/classpocketmine_1_1block_1_1_shulker_box.html#a0e311d05152d4d36a6a4d8bf3c1200d0":[3,0,1,0,207,64],
-"d3/da7/classpocketmine_1_1block_1_1_shulker_box.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,205,19],
-"d3/da7/classpocketmine_1_1block_1_1_shulker_box.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,207,19]
+"d3/da7/classpocketmine_1_1block_1_1_shulker_box.html":[3,0,1,0,207]
 };

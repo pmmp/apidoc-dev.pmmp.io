@@ -145,9 +145,9 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="212.5" y="-356.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 <text text-anchor="start" x="166" y="-341.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="186" y="-341.5" font-family="Helvetica,sans-Serif" font-size="10.00">onCommand()</text>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="155,-366.5 155,-366.5 274,-366.5 274,-366.5 155,-366.5"/>
-<polygon fill="#bfbfbf" stroke="#bfbfbf" points="155,-351.5 155,-351.5 274,-351.5 274,-351.5 155,-351.5"/>
-<polygon fill="none" stroke="#bfbfbf" points="154.5,-334.5 154.5,-394.5 273.5,-394.5 273.5,-334.5 154.5,-334.5"/>
+<polygon fill="#666666" stroke="#666666" points="155,-366.5 155,-366.5 274,-366.5 274,-366.5 155,-366.5"/>
+<polygon fill="#666666" stroke="#666666" points="155,-351.5 155,-351.5 274,-351.5 274,-351.5 155,-351.5"/>
+<polygon fill="none" stroke="#666666" points="154.5,-334.5 154.5,-394.5 273.5,-394.5 273.5,-334.5 154.5,-334.5"/>
 </a>
 </g>
 </g>
