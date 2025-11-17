@@ -1,5 +1,9 @@
 var NAVTREEINDEX45 =
 {
+"d3/d00/classpocketmine_1_1item_1_1_potion.html#ac7e878537e8ea68cc0d4d565f9f25062":[2,0,0,5,83,45],
+"d3/d00/classpocketmine_1_1item_1_1_potion.html#ac7e878537e8ea68cc0d4d565f9f25062":[3,0,1,12,84,45],
+"d3/d00/classpocketmine_1_1item_1_1_potion.html#acfb780e8929f778f639d281b3be57569":[2,0,0,5,83,23],
+"d3/d00/classpocketmine_1_1item_1_1_potion.html#acfb780e8929f778f639d281b3be57569":[3,0,1,12,84,23],
 "d3/d00/classpocketmine_1_1item_1_1_potion.html#ad2d004e5063f6ca465ed956b024217b1":[2,0,0,5,83,28],
 "d3/d00/classpocketmine_1_1item_1_1_potion.html#ad2d004e5063f6ca465ed956b024217b1":[3,0,1,12,84,28],
 "d3/d00/classpocketmine_1_1item_1_1_potion.html#adfaf9728336726192e1499e47cf7ae1d":[2,0,0,5,83,44],
@@ -245,9 +249,5 @@ var NAVTREEINDEX45 =
 "d3/d19/_player_inventory_window_8php_source.html":[4,0,0,14,12],
 "d3/d19/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrader.html":[3,0,1,6,0,0,1,3],
 "d3/d19/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1_block_state_upgrader.html#aeeda5f1783b8d8324a818236a45b755e":[3,0,1,6,0,0,1,3,0],
-"d3/d1a/_dirt_8php_source.html":[4,0,0,0,88],
-"d3/d1a/classpocketmine_1_1event_1_1server_1_1_network_interface_event.html":[3,0,1,9,5,5],
-"d3/d1a/classpocketmine_1_1event_1_1server_1_1_network_interface_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,5,5,0],
-"d3/d1a/classpocketmine_1_1event_1_1server_1_1_network_interface_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,5,5,1],
-"d3/d1c/_item_use_result_8php_source.html":[4,0,0,10,73]
+"d3/d1a/_dirt_8php_source.html":[4,0,0,0,88]
 };

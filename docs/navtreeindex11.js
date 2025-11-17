@@ -1,5 +1,9 @@
 var NAVTREEINDEX11 =
 {
+"d0/dc1/classpocketmine_1_1block_1_1tile_1_1_lectern.html#ac00f467ced69b610bd246a9262eac24b":[3,0,1,0,1,23,0],
+"d0/dc3/namespacepocketmine_1_1block.html":[2,0,0,0],
+"d0/dc4/tile_2_beacon_8php_source.html":[4,0,0,0,1,2],
+"d0/dc5/_movement_effect_type_8php_source.html":[4,0,1,0,1,0,1,61],
 "d0/dc6/classpocketmine_1_1lang_1_1_known_translation_factory.html":[3,0,1,13,0],
 "d0/dc7/_craft_recipe_optional_stack_request_action_8php_source.html":[4,0,1,0,1,0,1,5,0,4],
 "d0/dc7/classpocketmine_1_1item_1_1_snowball.html":[2,0,0,5,102],
@@ -245,9 +249,5 @@ var NAVTREEINDEX11 =
 "d0/dd3/classpocketmine_1_1block_1_1_trapped_chest.html#ad9ad489fb9e05ecfc874e18e5939ea30":[2,0,0,0,241,66],
 "d0/dd3/classpocketmine_1_1block_1_1_trapped_chest.html#ad9ad489fb9e05ecfc874e18e5939ea30":[3,0,1,0,243,66],
 "d0/dd3/classpocketmine_1_1block_1_1_trapped_chest.html#adc7b2fcbcc10f046b1cbcafdd0858863":[2,0,0,0,241,1],
-"d0/dd3/classpocketmine_1_1block_1_1_trapped_chest.html#adc7b2fcbcc10f046b1cbcafdd0858863":[3,0,1,0,243,1],
-"d0/dd3/classpocketmine_1_1block_1_1_trapped_chest.html#add4d4fd4fecc779dee9c9f94b8a556e5":[2,0,0,0,241,5],
-"d0/dd3/classpocketmine_1_1block_1_1_trapped_chest.html#add4d4fd4fecc779dee9c9f94b8a556e5":[3,0,1,0,243,5],
-"d0/dd3/classpocketmine_1_1block_1_1_trapped_chest.html#ade77e0b1fce7bdebceed4092b9c5c022":[2,0,0,0,241,35],
-"d0/dd3/classpocketmine_1_1block_1_1_trapped_chest.html#ade77e0b1fce7bdebceed4092b9c5c022":[3,0,1,0,243,35]
+"d0/dd3/classpocketmine_1_1block_1_1_trapped_chest.html#adc7b2fcbcc10f046b1cbcafdd0858863":[3,0,1,0,243,1]
 };

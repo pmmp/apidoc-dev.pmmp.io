@@ -1,5 +1,9 @@
 var NAVTREEINDEX39 =
 {
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,62,60],
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,64,60],
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,62,47],
+"d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,64,47],
 "d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,62,3],
 "d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,64,3],
 "d2/d7a/classpocketmine_1_1block_1_1_coal_ore.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,62,22],
@@ -245,9 +249,5 @@ var NAVTREEINDEX39 =
 "d2/d83/classpocketmine_1_1block_1_1_base_rail.html#aad121ffc31a225748d5bcc0e0752a9f0":[3,0,1,0,16,24],
 "d2/d83/classpocketmine_1_1block_1_1_base_rail.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[2,0,0,0,14,32],
 "d2/d83/classpocketmine_1_1block_1_1_base_rail.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,16,32],
-"d2/d83/classpocketmine_1_1block_1_1_base_rail.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,14,20],
-"d2/d83/classpocketmine_1_1block_1_1_base_rail.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,16,20],
-"d2/d83/classpocketmine_1_1block_1_1_base_rail.html#ab6b90601adfc9732893dcffe256514a9":[2,0,0,0,14,68],
-"d2/d83/classpocketmine_1_1block_1_1_base_rail.html#ab6b90601adfc9732893dcffe256514a9":[3,0,1,0,16,68],
-"d2/d83/classpocketmine_1_1block_1_1_base_rail.html#ab731ef1ac99496287ef09c72ded1dfe4":[2,0,0,0,14,57]
+"d2/d83/classpocketmine_1_1block_1_1_base_rail.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,14,20]
 };

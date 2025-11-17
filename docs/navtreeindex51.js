@@ -1,5 +1,9 @@
 var NAVTREEINDEX51 =
 {
+"d3/d79/classpocketmine_1_1item_1_1_name_tag.html#a2b35e6f346e5955b086fcc07ead985a7":[3,0,1,12,78,24],
+"d3/d79/classpocketmine_1_1item_1_1_name_tag.html#a2bcaa528592d9ae259e2e6d0b89f375d":[2,0,0,5,77,21],
+"d3/d79/classpocketmine_1_1item_1_1_name_tag.html#a2bcaa528592d9ae259e2e6d0b89f375d":[3,0,1,12,78,21],
+"d3/d79/classpocketmine_1_1item_1_1_name_tag.html#a2ce778f940de9e172cd268f378893b8f":[2,0,0,5,77,13],
 "d3/d79/classpocketmine_1_1item_1_1_name_tag.html#a2ce778f940de9e172cd268f378893b8f":[3,0,1,12,78,13],
 "d3/d79/classpocketmine_1_1item_1_1_name_tag.html#a2e7d9e107f4f24de4aabc19764dc7dc2":[2,0,0,5,77,16],
 "d3/d79/classpocketmine_1_1item_1_1_name_tag.html#a2e7d9e107f4f24de4aabc19764dc7dc2":[3,0,1,12,78,16],
@@ -245,9 +249,5 @@ var NAVTREEINDEX51 =
 "d3/d8a/classraklib_1_1protocol_1_1_packet_serializer.html#ab51e507a9f4baec0713ff4007ce192b8":[3,0,2,2,22,23],
 "d3/d8a/classraklib_1_1protocol_1_1_packet_serializer.html#ac04c29d3fc214181a6291dce68b065bf":[3,0,2,2,22,21],
 "d3/d8a/classraklib_1_1protocol_1_1_packet_serializer.html#ac5ff381ba808345e8ae8dcf0ec4e3da0":[3,0,2,2,22,25],
-"d3/d8a/classraklib_1_1protocol_1_1_packet_serializer.html#ac9f7478eba1ba25e78ad57fa10f32545":[3,0,2,2,22,18],
-"d3/d8a/classraklib_1_1protocol_1_1_packet_serializer.html#acab32dd1f8d07324b5f143f21d89a06e":[3,0,2,2,22,24],
-"d3/d8a/classraklib_1_1protocol_1_1_packet_serializer.html#acd4526d6f165dc44a875a77b64ecd26e":[3,0,2,2,22,2],
-"d3/d8a/classraklib_1_1protocol_1_1_packet_serializer.html#ad068b3be574049db538e015f546ec142":[3,0,2,2,22,11],
-"d3/d8a/classraklib_1_1protocol_1_1_packet_serializer.html#ad25d95e4f44757203a4f0de163cf64e4":[3,0,2,2,22,15]
+"d3/d8a/classraklib_1_1protocol_1_1_packet_serializer.html#ac9f7478eba1ba25e78ad57fa10f32545":[3,0,2,2,22,18]
 };

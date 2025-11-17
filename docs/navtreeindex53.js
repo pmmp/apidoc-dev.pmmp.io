@@ -1,5 +1,9 @@
 var NAVTREEINDEX53 =
 {
+"d3/da5/_command_map_8php_source.html":[4,0,0,1,6],
+"d3/da7/_legacy_biome_id_to_string_id_map_8php_source.html":[4,0,0,5,0,17],
+"d3/da7/classpocketmine_1_1block_1_1_shulker_box.html":[2,0,0,0,205],
+"d3/da7/classpocketmine_1_1block_1_1_shulker_box.html":[3,0,1,0,207],
 "d3/da7/classpocketmine_1_1block_1_1_shulker_box.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,205,61],
 "d3/da7/classpocketmine_1_1block_1_1_shulker_box.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,207,61],
 "d3/da7/classpocketmine_1_1block_1_1_shulker_box.html#a09f4667329f89292dd319d56c4243b59":[2,0,0,0,205,32],
@@ -245,9 +249,5 @@ var NAVTREEINDEX53 =
 "d3/da8/classpocketmine_1_1item_1_1_pumpkin_pie.html#aa2834fb1656bc61244f5a24091aaa600":[3,0,1,12,87,36],
 "d3/da8/classpocketmine_1_1item_1_1_pumpkin_pie.html#aa807b0fa5751723fed80570a4de1231b":[2,0,0,5,86,47],
 "d3/da8/classpocketmine_1_1item_1_1_pumpkin_pie.html#aa807b0fa5751723fed80570a4de1231b":[3,0,1,12,87,47],
-"d3/da8/classpocketmine_1_1item_1_1_pumpkin_pie.html#aa8e6d5b0a8cc541423f4785fa3f4acdc":[2,0,0,5,86,8],
-"d3/da8/classpocketmine_1_1item_1_1_pumpkin_pie.html#aa8e6d5b0a8cc541423f4785fa3f4acdc":[3,0,1,12,87,8],
-"d3/da8/classpocketmine_1_1item_1_1_pumpkin_pie.html#aabd7c38d2f74e537da5bcc6149570fd8":[2,0,0,5,86,18],
-"d3/da8/classpocketmine_1_1item_1_1_pumpkin_pie.html#aabd7c38d2f74e537da5bcc6149570fd8":[3,0,1,12,87,18],
-"d3/da8/classpocketmine_1_1item_1_1_pumpkin_pie.html#aad9f6fbf32449170a157b787d4227ee6":[2,0,0,5,86,30]
+"d3/da8/classpocketmine_1_1item_1_1_pumpkin_pie.html#aa8e6d5b0a8cc541423f4785fa3f4acdc":[2,0,0,5,86,8]
 };

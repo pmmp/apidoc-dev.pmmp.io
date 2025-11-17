@@ -1,5 +1,15 @@
 var NAVTREEINDEX154 =
 {
+"d9/db1/classpocketmine_1_1item_1_1_medicine.html#a67b44433c553602d7c851b1ca23e6e5e":[2,0,0,5,71,43],
+"d9/db1/classpocketmine_1_1item_1_1_medicine.html#a67b44433c553602d7c851b1ca23e6e5e":[3,0,1,12,72,43],
+"d9/db1/classpocketmine_1_1item_1_1_medicine.html#a71289362f9d561347b5c8c2717eb0512":[2,0,0,5,71,41],
+"d9/db1/classpocketmine_1_1item_1_1_medicine.html#a71289362f9d561347b5c8c2717eb0512":[3,0,1,12,72,41],
+"d9/db1/classpocketmine_1_1item_1_1_medicine.html#a7b5c1e7e496c3077658212aaacec4b56":[2,0,0,5,71,16],
+"d9/db1/classpocketmine_1_1item_1_1_medicine.html#a7b5c1e7e496c3077658212aaacec4b56":[3,0,1,12,72,16],
+"d9/db1/classpocketmine_1_1item_1_1_medicine.html#a7d45886d40860e24fb4c18d02a3d1a32":[2,0,0,5,71,15],
+"d9/db1/classpocketmine_1_1item_1_1_medicine.html#a7d45886d40860e24fb4c18d02a3d1a32":[3,0,1,12,72,15],
+"d9/db1/classpocketmine_1_1item_1_1_medicine.html#a872107217a39aa2df8ad6e66570d9e30":[2,0,0,5,71,52],
+"d9/db1/classpocketmine_1_1item_1_1_medicine.html#a872107217a39aa2df8ad6e66570d9e30":[3,0,1,12,72,52],
 "d9/db1/classpocketmine_1_1item_1_1_medicine.html#a8e97e9296238bf8794a2d2f8e94e8a93":[2,0,0,5,71,51],
 "d9/db1/classpocketmine_1_1item_1_1_medicine.html#a8e97e9296238bf8794a2d2f8e94e8a93":[3,0,1,12,72,51],
 "d9/db1/classpocketmine_1_1item_1_1_medicine.html#a9492c83a6cb651026b45dea9a6cb93c1":[2,0,0,5,71,8],
@@ -239,15 +249,5 @@ var NAVTREEINDEX154 =
 "d9/dc2/classpocketmine_1_1block_1_1_ominous_floor_banner.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,0,0,172,29],
 "d9/dc2/classpocketmine_1_1block_1_1_ominous_floor_banner.html#afcc19c437c8bef4487f5ecb956ae9a1a":[3,0,1,0,174,29],
 "d9/dc2/classpocketmine_1_1block_1_1_ominous_floor_banner.html#afe4928a6da38d63eccea78bd1a2fdcd3":[2,0,0,0,172,21],
-"d9/dc2/classpocketmine_1_1block_1_1_ominous_floor_banner.html#afe4928a6da38d63eccea78bd1a2fdcd3":[3,0,1,0,174,21],
-"d9/dc2/classpocketmine_1_1block_1_1_ominous_floor_banner.html#afe506084e4bb8741a7ac64f6d90c00a5":[2,0,0,0,172,16],
-"d9/dc2/classpocketmine_1_1block_1_1_ominous_floor_banner.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,174,16],
-"d9/dc2/classpocketmine_1_1block_1_1_ominous_floor_banner.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,172,27],
-"d9/dc2/classpocketmine_1_1block_1_1_ominous_floor_banner.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,174,27],
-"d9/dc2/classpocketmine_1_1world_1_1sound_1_1_dripleaf_tilt_up_sound.html":[3,0,1,30,5,51],
-"d9/dc2/classpocketmine_1_1world_1_1sound_1_1_dripleaf_tilt_up_sound.html#a42d0c2bcccf1ccd2495987cdc575e4a1":[3,0,1,30,5,51,0],
-"d9/dc3/_json_nbt_parser_8php_source.html":[4,0,1,0,8,0,4],
-"d9/dc4/classpocketmine_1_1block_1_1_item_frame.html":[2,0,0,0,137],
-"d9/dc4/classpocketmine_1_1block_1_1_item_frame.html":[3,0,1,0,139],
-"d9/dc4/classpocketmine_1_1block_1_1_item_frame.html#a031025a3da67e1892f3f349f138f72b2":[2,0,0,0,137,50]
+"d9/dc2/classpocketmine_1_1block_1_1_ominous_floor_banner.html#afe4928a6da38d63eccea78bd1a2fdcd3":[3,0,1,0,174,21]
 };

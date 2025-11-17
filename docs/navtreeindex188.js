@@ -1,5 +1,16 @@
 var NAVTREEINDEX188 =
 {
+"dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,216,16],
+"dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,214,28],
+"dc/d3e/classpocketmine_1_1block_1_1_soul_campfire.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,216,28],
+"dc/d3e/classpocketmine_1_1world_1_1_simple_chunk_manager.html":[2,0,0,14,9],
+"dc/d3e/classpocketmine_1_1world_1_1_simple_chunk_manager.html":[3,0,1,30,15],
+"dc/d3e/classpocketmine_1_1world_1_1_simple_chunk_manager.html#a122c1b476ef63f63d1a8b99890cc719a":[2,0,0,14,9,3],
+"dc/d3e/classpocketmine_1_1world_1_1_simple_chunk_manager.html#a122c1b476ef63f63d1a8b99890cc719a":[3,0,1,30,15,3],
+"dc/d3e/classpocketmine_1_1world_1_1_simple_chunk_manager.html#a19f893d5ec250295d3e6c5f686dbfcc9":[2,0,0,14,9,4],
+"dc/d3e/classpocketmine_1_1world_1_1_simple_chunk_manager.html#a19f893d5ec250295d3e6c5f686dbfcc9":[3,0,1,30,15,4],
+"dc/d3e/classpocketmine_1_1world_1_1_simple_chunk_manager.html#a322ee5ace8ddadc8e3cf69f80f08d668":[2,0,0,14,9,0],
+"dc/d3e/classpocketmine_1_1world_1_1_simple_chunk_manager.html#a322ee5ace8ddadc8e3cf69f80f08d668":[3,0,1,30,15,0],
 "dc/d3e/classpocketmine_1_1world_1_1_simple_chunk_manager.html#a908803953b3c0e645bcd9f81546e8f18":[2,0,0,14,9,2],
 "dc/d3e/classpocketmine_1_1world_1_1_simple_chunk_manager.html#a908803953b3c0e645bcd9f81546e8f18":[3,0,1,30,15,2],
 "dc/d3e/classpocketmine_1_1world_1_1_simple_chunk_manager.html#aac56411407f3dd8ca801104e97313ab6":[2,0,0,14,9,1],
@@ -238,16 +249,5 @@ var NAVTREEINDEX188 =
 "dc/d4c/classpocketmine_1_1block_1_1_coal.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,63,31],
 "dc/d4c/classpocketmine_1_1block_1_1_coal.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,61,19],
 "dc/d4c/classpocketmine_1_1block_1_1_coal.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,63,19],
-"dc/d4c/classpocketmine_1_1block_1_1_coal.html#ab6b90601adfc9732893dcffe256514a9":[2,0,0,0,61,64],
-"dc/d4c/classpocketmine_1_1block_1_1_coal.html#ab6b90601adfc9732893dcffe256514a9":[3,0,1,0,63,64],
-"dc/d4c/classpocketmine_1_1block_1_1_coal.html#ab731ef1ac99496287ef09c72ded1dfe4":[2,0,0,0,61,55],
-"dc/d4c/classpocketmine_1_1block_1_1_coal.html#ab731ef1ac99496287ef09c72ded1dfe4":[3,0,1,0,63,55],
-"dc/d4c/classpocketmine_1_1block_1_1_coal.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[2,0,0,0,61,12],
-"dc/d4c/classpocketmine_1_1block_1_1_coal.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[3,0,1,0,63,12],
-"dc/d4c/classpocketmine_1_1block_1_1_coal.html#ac85f12ad4e4d729db9f27ecb8e97998b":[2,0,0,0,61,51],
-"dc/d4c/classpocketmine_1_1block_1_1_coal.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,63,51],
-"dc/d4c/classpocketmine_1_1block_1_1_coal.html#acb449b40461f4800cf6e6288cb9a069d":[2,0,0,0,61,0],
-"dc/d4c/classpocketmine_1_1block_1_1_coal.html#acb449b40461f4800cf6e6288cb9a069d":[3,0,1,0,63,0],
-"dc/d4c/classpocketmine_1_1block_1_1_coal.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[2,0,0,0,61,57],
-"dc/d4c/classpocketmine_1_1block_1_1_coal.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[3,0,1,0,63,57]
+"dc/d4c/classpocketmine_1_1block_1_1_coal.html#ab6b90601adfc9732893dcffe256514a9":[2,0,0,0,61,64]
 };

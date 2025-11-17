@@ -1,5 +1,15 @@
 var NAVTREEINDEX72 =
 {
+"d4/ddd/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1_xbox_auth_jwt_body.html#ab1445d5d2884831edb43a5655fcd1771":[3,0,1,16,0,6,1,5,2,1,3],
+"d4/ddd/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1_xbox_auth_jwt_body.html#ae1bf58f1c446950221aa435e1722312a":[3,0,1,16,0,6,1,5,2,1,0],
+"d4/ddf/classpocketmine_1_1crafting_1_1_furnace_recipe_manager.html":[3,0,1,4,8],
+"d4/ddf/classpocketmine_1_1crafting_1_1_furnace_recipe_manager.html#a87020618edb06b0832fcfc6319f2cc3f":[3,0,1,4,8,0],
+"d4/ddf/classpocketmine_1_1crafting_1_1_furnace_recipe_manager.html#ae350d0fe4032d642e5b1f24690cda313":[3,0,1,4,8,1],
+"d4/ddf/classpocketmine_1_1entity_1_1_human.html":[2,0,0,2,12],
+"d4/ddf/classpocketmine_1_1entity_1_1_human.html":[3,0,1,7,17],
+"d4/ddf/classpocketmine_1_1entity_1_1_human.html#a02eb3401e4fe566c7a2528aeb7b0222a":[2,0,0,2,12,13],
+"d4/ddf/classpocketmine_1_1entity_1_1_human.html#a02eb3401e4fe566c7a2528aeb7b0222a":[3,0,1,7,17,13],
+"d4/ddf/classpocketmine_1_1entity_1_1_human.html#a099fce07daf8c0ce633456ea00b4272b":[2,0,0,2,12,74],
 "d4/ddf/classpocketmine_1_1entity_1_1_human.html#a099fce07daf8c0ce633456ea00b4272b":[3,0,1,7,17,74],
 "d4/ddf/classpocketmine_1_1entity_1_1_human.html#a0c8d978f17d3e10ffb65f28071ff773a":[2,0,0,2,12,3],
 "d4/ddf/classpocketmine_1_1entity_1_1_human.html#a0c8d978f17d3e10ffb65f28071ff773a":[3,0,1,7,17,3],
@@ -239,15 +249,5 @@ var NAVTREEINDEX72 =
 "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,76,7],
 "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,78,7],
 "d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,76,4],
-"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,78,4],
-"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#aa4773f0153324728a2f41820fa52442d":[2,0,0,0,76,17],
-"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,78,17],
-"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#aac6828efb885bc8fe0f8876728ddde5d":[2,0,0,0,76,34],
-"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#aac6828efb885bc8fe0f8876728ddde5d":[3,0,1,0,78,34],
-"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#aad121ffc31a225748d5bcc0e0752a9f0":[2,0,0,0,76,23],
-"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#aad121ffc31a225748d5bcc0e0752a9f0":[3,0,1,0,78,23],
-"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[2,0,0,0,76,31],
-"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,78,31],
-"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#ab41f45a652bbdd1ba20272aa09a56720":[2,0,0,0,76,61],
-"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#ab41f45a652bbdd1ba20272aa09a56720":[3,0,1,0,78,61]
+"d4/de1/classpocketmine_1_1block_1_1_copper_stairs.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,78,4]
 };

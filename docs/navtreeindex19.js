@@ -1,5 +1,9 @@
 var NAVTREEINDEX19 =
 {
+"d1/d4b/classpocketmine_1_1item_1_1_written_book.html#ae2543fd294d689ca6850d5bc78710522":[2,0,0,5,126,43],
+"d1/d4b/classpocketmine_1_1item_1_1_written_book.html#ae2543fd294d689ca6850d5bc78710522":[3,0,1,12,127,43],
+"d1/d4b/classpocketmine_1_1item_1_1_written_book.html#aec8070c04112770e0d01a3c56b252e81":[2,0,0,5,126,56],
+"d1/d4b/classpocketmine_1_1item_1_1_written_book.html#aec8070c04112770e0d01a3c56b252e81":[3,0,1,12,127,56],
 "d1/d4b/classpocketmine_1_1item_1_1_written_book.html#af44b2311f27b78c5cd442c189793e7e6":[2,0,0,5,126,44],
 "d1/d4b/classpocketmine_1_1item_1_1_written_book.html#af44b2311f27b78c5cd442c189793e7e6":[3,0,1,12,127,44],
 "d1/d4b/classpocketmine_1_1item_1_1_written_book.html#af737301b899b7a7c9e9b0bb9a234a119":[2,0,0,5,126,9],
@@ -245,9 +249,5 @@ var NAVTREEINDEX19 =
 "d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#ad925607ef09026804dbbf059583e3add":[2,0,0,0,162,42],
 "d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#ad925607ef09026804dbbf059583e3add":[3,0,1,0,164,42],
 "d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#adc7b2fcbcc10f046b1cbcafdd0858863":[2,0,0,0,162,1],
-"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#adc7b2fcbcc10f046b1cbcafdd0858863":[3,0,1,0,164,1],
-"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#add4d4fd4fecc779dee9c9f94b8a556e5":[2,0,0,0,162,5],
-"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#add4d4fd4fecc779dee9c9f94b8a556e5":[3,0,1,0,164,5],
-"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#ade77e0b1fce7bdebceed4092b9c5c022":[2,0,0,0,162,33],
-"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#ade77e0b1fce7bdebceed4092b9c5c022":[3,0,1,0,164,33]
+"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#adc7b2fcbcc10f046b1cbcafdd0858863":[3,0,1,0,164,1]
 };

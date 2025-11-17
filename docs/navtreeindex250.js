@@ -1,5 +1,16 @@
 var NAVTREEINDEX250 =
 {
+"df/ddd/classpocketmine_1_1scheduler_1_1_timings_collection_task.html#ada80bfed9565d1f7cafdbcc29e5294ca":[2,0,0,11,13,0],
+"df/ddd/classpocketmine_1_1scheduler_1_1_timings_collection_task.html#ada80bfed9565d1f7cafdbcc29e5294ca":[3,0,1,22,13,0],
+"df/ddd/classpocketmine_1_1scheduler_1_1_timings_collection_task.html#adad32212908878d6e70423161dbae0bf":[2,0,0,11,13,6],
+"df/ddd/classpocketmine_1_1scheduler_1_1_timings_collection_task.html#adad32212908878d6e70423161dbae0bf":[3,0,1,22,13,6],
+"df/de2/classpocketmine_1_1item_1_1enchantment_1_1_enchanting_helper.html":[3,0,1,12,0,1],
+"df/de2/classpocketmine_1_1item_1_1enchantment_1_1_enchanting_helper.html#a7010e29a67f76046aca9ecef9ce55ffd":[3,0,1,12,0,1,2],
+"df/de2/classpocketmine_1_1item_1_1enchantment_1_1_enchanting_helper.html#ab074b750f748d0c5985cae3016260bd1":[3,0,1,12,0,1,1],
+"df/de2/classpocketmine_1_1item_1_1enchantment_1_1_enchanting_helper.html#afb174dfaeac93c60672bfec473cd6822":[3,0,1,12,0,1,0],
+"df/de3/_sub_chunk_position_offset_8php_source.html":[4,0,1,0,1,0,1,98],
+"df/de4/classpocketmine_1_1resourcepacks_1_1json_1_1_manifest_dependency_entry.html":[3,0,1,21,0,1],
+"df/de4/classpocketmine_1_1resourcepacks_1_1json_1_1_manifest_dependency_entry.html#a203c8d2c0ab418b4457dc594759078e8":[3,0,1,21,0,1,0],
 "df/de5/_corrupted_world_exception_8php_source.html":[4,0,0,25,1,0,1,1],
 "df/de7/_timings_record_8php_source.html":[4,0,0,21,2],
 "df/de7/classpocketmine_1_1block_1_1tile_1_1_comparator.html":[2,0,0,0,0,11],
@@ -238,16 +249,5 @@ var NAVTREEINDEX250 =
 "df/df5/_honey_bottle_8php_source.html":[4,0,0,10,64],
 "df/df5/_nether_fungus_8php_source.html":[4,0,0,0,162],
 "df/df7/classpocketmine_1_1entity_1_1animation_1_1_magic_hit_animation.html":[3,0,1,7,0,9],
-"df/df7/classpocketmine_1_1entity_1_1animation_1_1_magic_hit_animation.html#a82bcae861e3f6714c4040344f8ec04fc":[3,0,1,7,0,9,0],
-"df/df8/vendor_2pocketmine_2bedrock-protocol_2src_2types_2recipe_2_potion_container_change_recipe_8php_source.html":[4,0,1,0,1,0,1,7,11],
-"df/df9/_nbt_exception_8php_source.html":[4,0,1,0,8,0,8],
-"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html":[2,0,0,11,2],
-"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html":[3,0,1,22,2],
-"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a0116d1721376b18f7410934b72a19ecc":[2,0,0,11,2,3],
-"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a0116d1721376b18f7410934b72a19ecc":[3,0,1,22,2,3],
-"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a1ba680fdef8ef3e5832322b56dc460f0":[2,0,0,11,2,0],
-"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a1ba680fdef8ef3e5832322b56dc460f0":[3,0,1,22,2,0],
-"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a3cf7454be9911ea585af23c81846c4f2":[2,0,0,11,2,2],
-"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a3cf7454be9911ea585af23c81846c4f2":[3,0,1,22,2,2],
-"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a6db5fee11fc3b30c6ec45c62de8ee8dc":[2,0,0,11,2,4]
+"df/df7/classpocketmine_1_1entity_1_1animation_1_1_magic_hit_animation.html#a82bcae861e3f6714c4040344f8ec04fc":[3,0,1,7,0,9,0]
 };

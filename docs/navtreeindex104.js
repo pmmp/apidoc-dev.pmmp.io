@@ -1,5 +1,15 @@
 var NAVTREEINDEX104 =
 {
+"d6/dd1/classpocketmine_1_1block_1_1_candle.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,46,56],
+"d6/dd1/classpocketmine_1_1block_1_1_candle.html#a88017a7eecc3ba93f317e54e19751feb":[2,0,0,0,44,50],
+"d6/dd1/classpocketmine_1_1block_1_1_candle.html#a88017a7eecc3ba93f317e54e19751feb":[3,0,1,0,46,50],
+"d6/dd1/classpocketmine_1_1block_1_1_candle.html#a8b5110cb07e6b1f5b747e3224e813251":[2,0,0,0,44,8],
+"d6/dd1/classpocketmine_1_1block_1_1_candle.html#a8b5110cb07e6b1f5b747e3224e813251":[3,0,1,0,46,8],
+"d6/dd1/classpocketmine_1_1block_1_1_candle.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,44,11],
+"d6/dd1/classpocketmine_1_1block_1_1_candle.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,46,11],
+"d6/dd1/classpocketmine_1_1block_1_1_candle.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,44,67],
+"d6/dd1/classpocketmine_1_1block_1_1_candle.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,46,67],
+"d6/dd1/classpocketmine_1_1block_1_1_candle.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,44,38],
 "d6/dd1/classpocketmine_1_1block_1_1_candle.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,46,38],
 "d6/dd1/classpocketmine_1_1block_1_1_candle.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,44,7],
 "d6/dd1/classpocketmine_1_1block_1_1_candle.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,46,7],
@@ -239,15 +249,5 @@ var NAVTREEINDEX104 =
 "d6/ddf/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_sub_chunk_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,197,1],
 "d6/ddf/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_sub_chunk_packet.html#ac215204bb0fd5ea7e316c1f56b8411df":[3,0,1,16,0,6,197,5],
 "d6/ddf/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_sub_chunk_packet.html#ac96358bb5d1d9ff91fd0d12d8883f4a3":[3,0,1,16,0,6,197,4],
-"d6/de0/_record_type_8php_source.html":[4,0,0,0,2,58],
-"d6/de0/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_builder.html":[3,0,1,11,1,5],
-"d6/de0/classpocketmine_1_1inventory_1_1transaction_1_1_transaction_builder.html#a4aa41d606df98de2fac7c0106059da29":[3,0,1,11,1,5,0],
-"d6/de1/interfaceraklib_1_1server_1_1ipc_1_1_inter_thread_channel_writer.html":[3,0,2,3,0,1],
-"d6/de3/_baked_potato_8php_source.html":[4,0,0,10,7],
-"d6/de6/_chunk_position_8php_source.html":[4,0,1,0,1,0,1,24],
-"d6/de8/_lava_drip_particle_8php_source.html":[4,0,0,25,4,22],
-"d6/deb/classpocketmine_1_1world_1_1particle_1_1_sonic_explosion_particle.html":[3,0,1,30,4,32],
-"d6/deb/classpocketmine_1_1world_1_1particle_1_1_sonic_explosion_particle.html#a2a31ce0cd45f86ab324d69dacf4cc2d1":[3,0,1,30,4,32,0],
-"d6/dec/_compound_tag_metadata_property_8php_source.html":[4,0,1,0,1,0,1,3,6],
-"d6/dee/_sub_chunk_packet_entry_common_8php_source.html":[4,0,1,0,1,0,1,90]
+"d6/de0/_record_type_8php_source.html":[4,0,0,0,2,58]
 };

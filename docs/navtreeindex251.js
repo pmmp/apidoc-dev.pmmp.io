@@ -1,5 +1,16 @@
 var NAVTREEINDEX251 =
 {
+"df/df8/vendor_2pocketmine_2bedrock-protocol_2src_2types_2recipe_2_potion_container_change_recipe_8php_source.html":[4,0,1,0,1,0,1,7,11],
+"df/df9/_nbt_exception_8php_source.html":[4,0,1,0,8,0,8],
+"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html":[2,0,0,11,2],
+"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html":[3,0,1,22,2],
+"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a0116d1721376b18f7410934b72a19ecc":[2,0,0,11,2,3],
+"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a0116d1721376b18f7410934b72a19ecc":[3,0,1,22,2,3],
+"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a1ba680fdef8ef3e5832322b56dc460f0":[2,0,0,11,2,0],
+"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a1ba680fdef8ef3e5832322b56dc460f0":[3,0,1,22,2,0],
+"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a3cf7454be9911ea585af23c81846c4f2":[2,0,0,11,2,2],
+"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a3cf7454be9911ea585af23c81846c4f2":[3,0,1,22,2,2],
+"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a6db5fee11fc3b30c6ec45c62de8ee8dc":[2,0,0,11,2,4],
 "df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a6db5fee11fc3b30c6ec45c62de8ee8dc":[3,0,1,22,2,4],
 "df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#aa5a040d7bd6023185e91387c526f8527":[2,0,0,11,2,1],
 "df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#aa5a040d7bd6023185e91387c526f8527":[3,0,1,22,2,1],
@@ -238,16 +249,5 @@ var NAVTREEINDEX251 =
 "functions_vars_p.html":[3,3,2,13],
 "functions_vars_r.html":[3,3,2,14],
 "functions_vars_s.html":[3,3,2,15],
-"functions_vars_t.html":[3,3,2,16],
-"functions_vars_u.html":[3,3,2,17],
-"functions_vars_v.html":[3,3,2,18],
-"functions_vars_w.html":[3,3,2,19],
-"functions_w.html":[3,3,0,23],
-"hierarchy.html":[3,2],
-"index.html":[],
-"index.html":[0],
-"namespacemembers.html":[2,1,0],
-"namespacemembers_enum.html":[2,1,3],
-"namespacemembers_eval.html":[2,1,4],
-"namespacemembers_func.html":[2,1,1]
+"functions_vars_t.html":[3,3,2,16]
 };

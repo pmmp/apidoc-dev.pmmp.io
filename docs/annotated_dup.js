@@ -844,7 +844,7 @@ var annotated_dup =
         [ "HandlerListManager", "d5/dfd/classpocketmine_1_1event_1_1_handler_list_manager.html", "d5/dfd/classpocketmine_1_1event_1_1_handler_list_manager" ],
         [ "Listener", "d2/d5e/interfacepocketmine_1_1event_1_1_listener.html", null ],
         [ "ListenerMethodTags", "d0/d10/classpocketmine_1_1event_1_1_listener_method_tags.html", null ],
-        [ "RegisteredListener", "d4/d94/classpocketmine_1_1event_1_1_registered_listener.html", null ],
+        [ "RegisteredListener", "d4/d94/classpocketmine_1_1event_1_1_registered_listener.html", "d4/d94/classpocketmine_1_1event_1_1_registered_listener" ],
         [ "RegisteredListenerCache", "de/d35/classpocketmine_1_1event_1_1_registered_listener_cache.html", null ]
       ] ],
       [ "form", null, [

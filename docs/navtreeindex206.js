@@ -1,5 +1,16 @@
 var NAVTREEINDEX206 =
 {
+"dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html#a9dd9484fe3ab1afcbd2627860e01973a":[2,0,0,5,32,48],
+"dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html#a9dd9484fe3ab1afcbd2627860e01973a":[3,0,1,12,33,48],
+"dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[2,0,0,5,32,9],
+"dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[3,0,1,12,33,9],
+"dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html#aa27432059ecfd201a3cec74253b21fa9":[2,0,0,5,32,51],
+"dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html#aa27432059ecfd201a3cec74253b21fa9":[3,0,1,12,33,51],
+"dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html#aa2834fb1656bc61244f5a24091aaa600":[2,0,0,5,32,36],
+"dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html#aa2834fb1656bc61244f5a24091aaa600":[3,0,1,12,33,36],
+"dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html#aa807b0fa5751723fed80570a4de1231b":[2,0,0,5,32,47],
+"dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html#aa807b0fa5751723fed80570a4de1231b":[3,0,1,12,33,47],
+"dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html#aa8e6d5b0a8cc541423f4785fa3f4acdc":[2,0,0,5,32,8],
 "dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html#aa8e6d5b0a8cc541423f4785fa3f4acdc":[3,0,1,12,33,8],
 "dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html#aabd7c38d2f74e537da5bcc6149570fd8":[2,0,0,5,32,18],
 "dd/d3a/classpocketmine_1_1item_1_1_cooked_salmon.html#aabd7c38d2f74e537da5bcc6149570fd8":[3,0,1,12,33,18],
@@ -238,16 +249,5 @@ var NAVTREEINDEX206 =
 "dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#a29de0ee0759d77d0295937cbd76c8db5":[3,0,1,0,57,8],
 "dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[2,0,0,0,55,25],
 "dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[3,0,1,0,57,25],
-"dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#a30a070aa7befb02f9fff5cbf2693c01e":[2,0,0,0,55,9],
-"dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#a30a070aa7befb02f9fff5cbf2693c01e":[3,0,1,0,57,9],
-"dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#a36afea9f0214193963f75577e8d48c26":[2,0,0,0,55,59],
-"dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#a36afea9f0214193963f75577e8d48c26":[3,0,1,0,57,59],
-"dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#a3a46169e7d256b3a1f3af8c54ddba832":[2,0,0,0,55,62],
-"dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#a3a46169e7d256b3a1f3af8c54ddba832":[3,0,1,0,57,62],
-"dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,0,0,55,10],
-"dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,57,10],
-"dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,55,44],
-"dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#a43e3458847422ebd5dec6c914b443c93":[3,0,1,0,57,44],
-"dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#a444028c60ad6c7afacda1a6cc3065e59":[2,0,0,0,55,13],
-"dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#a444028c60ad6c7afacda1a6cc3065e59":[3,0,1,0,57,13]
+"dd/d4a/classpocketmine_1_1block_1_1_chemistry_table.html#a30a070aa7befb02f9fff5cbf2693c01e":[2,0,0,0,55,9]
 };

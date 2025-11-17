@@ -1,5 +1,15 @@
 var NAVTREEINDEX156 =
 {
+"d9/dd7/classpocketmine_1_1world_1_1particle_1_1_flame_particle.html#aaffbdd55e144bdb9c2a039edae8b56c6":[3,0,1,30,4,13,0],
+"d9/dd8/_game_rule_8php_source.html":[4,0,1,0,1,0,1,43],
+"d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event.html":[2,0,0,3,3,29],
+"d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event.html":[3,0,1,9,3,29],
+"d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,3,29,0],
+"d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,3,29,0],
+"d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event.html#a536a2c0c987b635cdde6bfa18fb132ca":[2,0,0,3,3,29,4],
+"d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event.html#a536a2c0c987b635cdde6bfa18fb132ca":[3,0,1,9,3,29,4],
+"d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event.html#a90efcab0d539a5cb5b17968dfa164017":[2,0,0,3,3,29,3],
+"d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event.html#a90efcab0d539a5cb5b17968dfa164017":[3,0,1,9,3,29,3],
 "d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,0,3,3,29,2],
 "d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,3,29,2],
 "d9/dd8/classpocketmine_1_1event_1_1player_1_1_player_kick_event.html#aa9560e4064d301583eb919c965709cad":[2,0,0,3,3,29,1],
@@ -239,15 +249,5 @@ var NAVTREEINDEX156 =
 "d9/dfb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_network_permissions.html":[3,0,1,16,0,6,1,56],
 "d9/dfd/_base_rail_8php_source.html":[4,0,0,0,16],
 "d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html":[2,0,0,5,61],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html":[3,0,1,12,62],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a0a422a89abd427286bc2f312100f968c":[2,0,0,5,61,30],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a0a422a89abd427286bc2f312100f968c":[3,0,1,12,62,30],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a11483f8bbc44517bf2a25e40a3aa7558":[2,0,0,5,61,1],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a11483f8bbc44517bf2a25e40a3aa7558":[3,0,1,12,62,1],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a1179a3b7a49461ede413b50c82b5684a":[2,0,0,5,61,27],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a1179a3b7a49461ede413b50c82b5684a":[3,0,1,12,62,27],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a1df151eb419168f838e6d927c50f9210":[2,0,0,5,61,4],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a1df151eb419168f838e6d927c50f9210":[3,0,1,12,62,4],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a23c827b82179f8a57b786a6fa38d08e8":[2,0,0,5,61,19],
-"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html#a23c827b82179f8a57b786a6fa38d08e8":[3,0,1,12,62,19]
+"d9/dfd/classpocketmine_1_1item_1_1_ice_bomb.html":[3,0,1,12,62]
 };

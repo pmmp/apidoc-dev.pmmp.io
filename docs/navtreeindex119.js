@@ -1,5 +1,15 @@
 var NAVTREEINDEX119 =
 {
+"d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[2,0,0,5,56,9],
+"d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[3,0,1,12,57,9],
+"d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html#aa27432059ecfd201a3cec74253b21fa9":[2,0,0,5,56,51],
+"d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html#aa27432059ecfd201a3cec74253b21fa9":[3,0,1,12,57,51],
+"d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html#aa2834fb1656bc61244f5a24091aaa600":[2,0,0,5,56,36],
+"d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html#aa2834fb1656bc61244f5a24091aaa600":[3,0,1,12,57,36],
+"d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html#aa807b0fa5751723fed80570a4de1231b":[2,0,0,5,56,47],
+"d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html#aa807b0fa5751723fed80570a4de1231b":[3,0,1,12,57,47],
+"d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html#aabd7c38d2f74e537da5bcc6149570fd8":[2,0,0,5,56,18],
+"d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html#aabd7c38d2f74e537da5bcc6149570fd8":[3,0,1,12,57,18],
 "d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html#aad9f6fbf32449170a157b787d4227ee6":[2,0,0,5,56,30],
 "d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html#aad9f6fbf32449170a157b787d4227ee6":[3,0,1,12,57,30],
 "d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html#ab7a3f98c82cfd72eb999afbb6e9baf45":[2,0,0,5,56,10],
@@ -239,15 +249,5 @@ var NAVTREEINDEX119 =
 "d7/de9/classpocketmine_1_1data_1_1bedrock_1_1_mob_head_type_id_map.html":[3,0,1,6,0,21],
 "d7/deb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_available_commands_packet.html":[3,0,1,16,0,6,17],
 "d7/deb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_available_commands_packet.html#a0d2270a7199b29a588ce7569bf1c1c9d":[3,0,1,16,0,6,17,9],
-"d7/deb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_available_commands_packet.html#a3b6680ed4afc914b3f9dc24064b7240b":[3,0,1,16,0,6,17,7],
-"d7/deb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_available_commands_packet.html#a55025ba182163f59eb3175f7a7611b5d":[3,0,1,16,0,6,17,3],
-"d7/deb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_available_commands_packet.html#a59e40fc7a81d8bfd4f8044b7f953fc1e":[3,0,1,16,0,6,17,8],
-"d7/deb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_available_commands_packet.html#a74a730c2d2c10e56a901e5b411db4dda":[3,0,1,16,0,6,17,10],
-"d7/deb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_available_commands_packet.html#a8e84b920848939ec4fff531029ab4c20":[3,0,1,16,0,6,17,2],
-"d7/deb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_available_commands_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,17,0],
-"d7/deb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_available_commands_packet.html#aa51f4dbb0ccd03332cdf1c7143e48a50":[3,0,1,16,0,6,17,11],
-"d7/deb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_available_commands_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,17,1],
-"d7/deb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_available_commands_packet.html#abd743fec925e2f19a970cc2f40312f73":[3,0,1,16,0,6,17,5],
-"d7/deb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_available_commands_packet.html#ac5c691ac198f141790c8ad975da8e31d":[3,0,1,16,0,6,17,6],
-"d7/deb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_available_commands_packet.html#ac96358bb5d1d9ff91fd0d12d8883f4a3":[3,0,1,16,0,6,17,4]
+"d7/deb/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_available_commands_packet.html#a3b6680ed4afc914b3f9dc24064b7240b":[3,0,1,16,0,6,17,7]
 };

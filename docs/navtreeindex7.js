@@ -1,5 +1,9 @@
 var NAVTREEINDEX7 =
 {
+"d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a031e124aa0133633c22295d679898cd3":[2,0,0,0,263,29],
+"d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a031e124aa0133633c22295d679898cd3":[3,0,1,0,265,29],
+"d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,263,61],
+"d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,265,61],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a09f4667329f89292dd319d56c4243b59":[2,0,0,0,263,33],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a09f4667329f89292dd319d56c4243b59":[3,0,1,0,265,33],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html#a0ab34dc9ab012be05091480b74c069c9":[2,0,0,0,263,67],
@@ -245,9 +249,5 @@ var NAVTREEINDEX7 =
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#aac6828efb885bc8fe0f8876728ddde5d":[3,0,1,0,56,34],
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#aad121ffc31a225748d5bcc0e0752a9f0":[2,0,0,0,54,23],
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#aad121ffc31a225748d5bcc0e0752a9f0":[3,0,1,0,56,23],
-"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[2,0,0,0,54,31],
-"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,56,31],
-"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,54,19],
-"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,56,19],
-"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#ab6b90601adfc9732893dcffe256514a9":[2,0,0,0,54,64]
+"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[2,0,0,0,54,31]
 };
