@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.37.2 git-e507eb5e50da3ead3ae88ed2324df21e75820019</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.37.4 git-dbb0a3db4df7e1ea8e62dc67aa0a6030f2ac20e4</span>
    </div>
   </td>
  </tr>
@@ -247,7 +247,7 @@ $(function(){initNavTree('d2/d93/_bed_8php_source.html','../../'); initResizable
 <div class="line"><a id="l00125" name="l00125"></a><span class="lineno">  125</span>            $other = $this-&gt;getOtherHalf();</div>
 <div class="line"><a id="l00126" name="l00126"></a><span class="lineno">  126</span>            $playerPos = $player-&gt;getPosition();</div>
 <div class="line"><a id="l00127" name="l00127"></a><span class="lineno">  127</span>            <span class="keywordflow">if</span>($other === <span class="keyword">null</span>){</div>
-<div class="line"><a id="l00128" name="l00128"></a><span class="lineno">  128</span>                $player-&gt;sendMessage(TextFormat::GRAY . <span class="stringliteral">&quot;This bed is incomplete&quot;</span>);</div>
+<div class="line"><a id="l00128" name="l00128"></a><span class="lineno">  128</span>                $player-&gt;sendMessage(KnownTranslationFactory::pocketmine_block_bed_incomplete()-&gt;prefix(TextFormat::GRAY));</div>
 <div class="line"><a id="l00129" name="l00129"></a><span class="lineno">  129</span> </div>
 <div class="line"><a id="l00130" name="l00130"></a><span class="lineno">  130</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><a id="l00131" name="l00131"></a><span class="lineno">  131</span>            }elseif($playerPos-&gt;distanceSquared($this-&gt;position) &gt; 4 &amp;&amp; $playerPos-&gt;distanceSquared($other-&gt;position) &gt; 4){</div>
