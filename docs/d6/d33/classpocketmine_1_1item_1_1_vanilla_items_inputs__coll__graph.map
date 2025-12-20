@@ -1,0 +1,7 @@
+<map id="pocketmine\item\VanillaItemsInputs" name="pocketmine\item\VanillaItemsInputs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,421,229,561"/>
+<area shape="rect" id="Node000002" href="$d1/d3d/classpocketmine_1_1utils_1_1_cloning_registry_source.html" title=" " alt="" coords="30,293,205,373"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,387,120,421,115,421,115,387"/>
+<area shape="rect" id="Node000003" href="$d6/dd9/classpocketmine_1_1utils_1_1_registry_source.html" title=" " alt="" coords="5,5,229,245"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="120,259,120,293,115,293,115,259"/>
+</map>

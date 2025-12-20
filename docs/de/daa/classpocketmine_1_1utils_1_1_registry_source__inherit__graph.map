@@ -1,0 +1,15 @@
+<map id="pocketmine\utils\RegistrySource" name="pocketmine\utils\RegistrySource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="377,5,601,245"/>
+<area shape="rect" id="Node000002" href="$db/d34/classpocketmine_1_1entity_1_1effect_1_1_vanilla_effects_inputs.html" title=" " alt="" coords="5,303,229,423"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="367,207,212,305,209,301,364,203"/>
+<area shape="rect" id="Node000003" href="$d2/d96/classpocketmine_1_1item_1_1_vanilla_armor_materials_inputs.html" title=" " alt="" coords="253,293,477,433"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="423,259,404,294,399,291,418,256"/>
+<area shape="rect" id="Node000004" href="$d0/dbf/classpocketmine_1_1item_1_1enchantment_1_1_vanilla_enchantments_inputs.html" title=" " alt="" coords="501,293,725,433"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="561,256,579,291,574,294,556,259"/>
+<area shape="rect" id="Node000005" href="$d1/d3d/classpocketmine_1_1utils_1_1_cloning_registry_source.html" title=" " alt="" coords="750,323,925,403"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="614,207,739,291,782,321,779,325,736,296,611,212"/>
+<area shape="rect" id="Node000006" href="$d9/d11/classpocketmine_1_1block_1_1_vanilla_blocks_inputs.html" title=" " alt="" coords="601,491,825,611"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="806,416,755,493,751,490,802,413"/>
+<area shape="rect" id="Node000007" href="$d7/d60/classpocketmine_1_1item_1_1_vanilla_items_inputs.html" title=" " alt="" coords="849,481,1073,621"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="873,414,918,480,913,483,869,417"/>
+</map>

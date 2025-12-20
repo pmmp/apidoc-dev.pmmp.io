@@ -247,6 +247,7 @@ var namespacepocketmine_1_1block =
     [ "UnderwaterTorch", "da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html", "da/dd1/classpocketmine_1_1block_1_1_underwater_torch" ],
     [ "UnknownBlock", "d4/db2/classpocketmine_1_1block_1_1_unknown_block.html", "d4/db2/classpocketmine_1_1block_1_1_unknown_block" ],
     [ "VanillaBlocks", "df/dec/classpocketmine_1_1block_1_1_vanilla_blocks.html", "df/dec/classpocketmine_1_1block_1_1_vanilla_blocks" ],
+    [ "VanillaBlocksInputs", "d9/d11/classpocketmine_1_1block_1_1_vanilla_blocks_inputs.html", "d9/d11/classpocketmine_1_1block_1_1_vanilla_blocks_inputs" ],
     [ "Vine", "d1/de5/classpocketmine_1_1block_1_1_vine.html", "d1/de5/classpocketmine_1_1block_1_1_vine" ],
     [ "Wall", "d0/d73/classpocketmine_1_1block_1_1_wall.html", "d0/d73/classpocketmine_1_1block_1_1_wall" ],
     [ "WallBanner", "df/dee/classpocketmine_1_1block_1_1_wall_banner.html", "df/dee/classpocketmine_1_1block_1_1_wall_banner" ],
