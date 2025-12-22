@@ -94,7 +94,7 @@ var searchData=
   ['translatable_91',['Translatable',['../da/d80/classpocketmine_1_1lang_1_1_translatable.html',1,'pocketmine::lang']]],
   ['translate_92',['translate',['../d7/d96/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_item_stack_container_id_translator.html#a03a0e9510d5a8afca72e6b9c4190ca0c',1,'pocketmine::network::mcpe::handler::ItemStackContainerIdTranslator']]],
   ['translatedpopup_93',['translatedPopup',['../db/d40/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_text_packet.html#ae3ce83afd437edfbc2029348090cbd51',1,'pocketmine::network::mcpe::protocol::TextPacket']]],
-  ['translatestring_94',['translateString',['../d8/d53/classpocketmine_1_1lang_1_1_language.html#abe28491be8ef2da7cd3ab9fa97614392',1,'pocketmine::lang::Language']]],
+  ['translatestring_94',['translateString',['../d8/d53/classpocketmine_1_1lang_1_1_language.html#a1bd23507826f7492fb4c914564af1140',1,'pocketmine::lang::Language']]],
   ['translation_95',['translation',['../db/d40/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_text_packet.html#a5d76239428eb5b6ff60bd7d8f932d56f',1,'pocketmine::network::mcpe::protocol::TextPacket']]],
   ['transparent_96',['Transparent',['../d5/d1b/classpocketmine_1_1block_1_1_transparent.html',1,'pocketmine::block']]],
   ['trap_97',['trap',['../df/d6a/classpocketmine_1_1errorhandler_1_1_error_to_exception_handler.html#aa2e0c0b6435c0885f0799d5c1a95d53b',1,'pocketmine::errorhandler::ErrorToExceptionHandler']]],
