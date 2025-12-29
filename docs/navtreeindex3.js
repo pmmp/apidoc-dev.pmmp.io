@@ -1,9 +1,11 @@
 var NAVTREEINDEX3 =
 {
+"d0/d39/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_float_game_rule.html":[3,0,1,16,0,6,1,47],
+"d0/d3a/_chunk_load_event_8php_source.html":[4,0,1,7,6,1],
 "d0/d3a/_redstone_torch_8php_source.html":[4,0,1,0,196],
 "d0/d3b/_vanilla_armor_materials_8php_source.html":[4,0,0,3,1],
 "d0/d3b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1_container_ids.html":[3,0,1,16,0,6,1,4,2],
-"d0/d3c/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_pre_spawn_packet_handler.html":[3,0,1,16,0,5,9],
+"d0/d3c/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_pre_spawn_packet_handler.html":[3,0,1,16,0,5,10],
 "d0/d3d/_candle_trait_8php_source.html":[4,0,1,0,2,14],
 "d0/d3d/classpocketmine_1_1world_1_1sound_1_1_enderman_teleport_sound.html":[3,0,1,30,5,55],
 "d0/d3d/classpocketmine_1_1world_1_1sound_1_1_enderman_teleport_sound.html#a51111cb685a04b10692f1d65099b4d7c":[3,0,1,30,5,55,0],
@@ -241,13 +243,11 @@ var NAVTREEINDEX3 =
 "d0/d65/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_structure_settings.html":[3,0,1,16,0,6,1,87],
 "d0/d66/_player_item_use_event_8php_source.html":[4,0,1,7,3,27],
 "d0/d67/_block_state_deserialize_exception_8php_source.html":[4,0,1,5,0,0,4],
-"d0/d68/_timezone_8php_source.html":[4,0,1,23,29],
+"d0/d68/_timezone_8php_source.html":[4,0,1,23,28],
 "d0/d6c/classpocketmine_1_1entity_1_1object_1_1_area_effect_cloud.html":[3,0,1,7,2,0],
 "d0/d6c/classpocketmine_1_1entity_1_1object_1_1_area_effect_cloud.html#a02eb3401e4fe566c7a2528aeb7b0222a":[3,0,1,7,2,0,8],
 "d0/d6c/classpocketmine_1_1entity_1_1object_1_1_area_effect_cloud.html#a099fce07daf8c0ce633456ea00b4272b":[3,0,1,7,2,0,56],
 "d0/d6c/classpocketmine_1_1entity_1_1object_1_1_area_effect_cloud.html#a12c36fb08c3fec631c7f5e786b22346c":[3,0,1,7,2,0,27],
 "d0/d6c/classpocketmine_1_1entity_1_1object_1_1_area_effect_cloud.html#a1380adc70073eca8b76083e7357c44ea":[3,0,1,7,2,0,17],
-"d0/d6c/classpocketmine_1_1entity_1_1object_1_1_area_effect_cloud.html#a180ddec765d91d56a76789284587ac89":[3,0,1,7,2,0,46],
-"d0/d6c/classpocketmine_1_1entity_1_1object_1_1_area_effect_cloud.html#a1bc4a8d3a405c0923c2ed2a8dbcff9a7":[3,0,1,7,2,0,25],
-"d0/d6c/classpocketmine_1_1entity_1_1object_1_1_area_effect_cloud.html#a1c05137f3b4e08df3be0b372726021b1":[3,0,1,7,2,0,49]
+"d0/d6c/classpocketmine_1_1entity_1_1object_1_1_area_effect_cloud.html#a180ddec765d91d56a76789284587ac89":[3,0,1,7,2,0,46]
 };

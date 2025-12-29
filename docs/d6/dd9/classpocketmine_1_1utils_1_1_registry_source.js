@@ -1,5 +1,6 @@
 var classpocketmine_1_1utils_1_1_registry_source =
 [
+    [ "cloneResults", "d6/dd9/classpocketmine_1_1utils_1_1_registry_source.html#a611e9ed9c11b33ddcf4698a5193e450d", null ],
     [ "getTargetClassDocComment", "d6/dd9/classpocketmine_1_1utils_1_1_registry_source.html#a833ff51568d2727bc5a0a1906e6eb857", null ],
     [ "getTargetClassName", "d6/dd9/classpocketmine_1_1utils_1_1_registry_source.html#a27b012a2b666169292b8b7e06d3c79c8", null ],
     [ "preprocessMember", "d6/dd9/classpocketmine_1_1utils_1_1_registry_source.html#a1fcee24ce4d68ab899cdf45b6aae99b6", null ],

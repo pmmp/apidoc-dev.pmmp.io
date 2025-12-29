@@ -2126,6 +2126,7 @@ var hierarchy =
     [ "pocketmine\\network\\mcpe\\PacketBroadcaster", "d8/d1f/interfacepocketmine_1_1network_1_1mcpe_1_1_packet_broadcaster.html", [
       [ "pocketmine\\network\\mcpe\\StandardPacketBroadcaster", "d2/d87/classpocketmine_1_1network_1_1mcpe_1_1_standard_packet_broadcaster.html", null ]
     ] ],
+    [ "pocketmine\\network\\mcpe\\handler\\PacketHandlerInspector", "da/def/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_packet_handler_inspector.html", null ],
     [ "pocketmine\\network\\mcpe\\protocol\\PacketHandlerInterface", "d1/d7c/interfacepocketmine_1_1network_1_1mcpe_1_1protocol_1_1_packet_handler_interface.html", [
       [ "pocketmine\\network\\mcpe\\handler\\PacketHandler", "d5/d23/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_packet_handler.html", [
         [ "pocketmine\\network\\mcpe\\handler\\DeathPacketHandler", "d9/dca/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_death_packet_handler.html", null ],
@@ -2330,13 +2331,11 @@ var hierarchy =
     [ "pocketmine\\event\\RegisteredListener", "d4/d94/classpocketmine_1_1event_1_1_registered_listener.html", null ],
     [ "pocketmine\\event\\RegisteredListenerCache", "de/d35/classpocketmine_1_1event_1_1_registered_listener_cache.html", null ],
     [ "pocketmine\\utils\\RegistrySource", "d6/dd9/classpocketmine_1_1utils_1_1_registry_source.html", [
+      [ "pocketmine\\block\\VanillaBlocksInputs", "d9/d11/classpocketmine_1_1block_1_1_vanilla_blocks_inputs.html", null ],
       [ "pocketmine\\entity\\effect\\VanillaEffectsInputs", "db/d34/classpocketmine_1_1entity_1_1effect_1_1_vanilla_effects_inputs.html", null ],
       [ "pocketmine\\item\\VanillaArmorMaterialsInputs", "d2/d96/classpocketmine_1_1item_1_1_vanilla_armor_materials_inputs.html", null ],
-      [ "pocketmine\\item\\enchantment\\VanillaEnchantmentsInputs", "d0/dbf/classpocketmine_1_1item_1_1enchantment_1_1_vanilla_enchantments_inputs.html", null ],
-      [ "pocketmine\\utils\\CloningRegistrySource", "d1/d3d/classpocketmine_1_1utils_1_1_cloning_registry_source.html", [
-        [ "pocketmine\\block\\VanillaBlocksInputs", "d9/d11/classpocketmine_1_1block_1_1_vanilla_blocks_inputs.html", null ],
-        [ "pocketmine\\item\\VanillaItemsInputs", "d7/d60/classpocketmine_1_1item_1_1_vanilla_items_inputs.html", null ]
-      ] ]
+      [ "pocketmine\\item\\VanillaItemsInputs", "d7/d60/classpocketmine_1_1item_1_1_vanilla_items_inputs.html", null ],
+      [ "pocketmine\\item\\enchantment\\VanillaEnchantmentsInputs", "d0/dbf/classpocketmine_1_1item_1_1enchantment_1_1_vanilla_enchantments_inputs.html", null ]
     ] ],
     [ "pocketmine\\item\\Releasable", "d4/d35/interfacepocketmine_1_1item_1_1_releasable.html", [
       [ "pocketmine\\item\\Bow", "d5/dbc/classpocketmine_1_1item_1_1_bow.html", null ],
@@ -2455,6 +2454,7 @@ var hierarchy =
       [ "pocketmine\\block\\OminousFloorBanner", "d9/dc2/classpocketmine_1_1block_1_1_ominous_floor_banner.html", null ]
     ] ],
     [ "pocketmine\\block\\utils\\SignText", "d3/d1c/classpocketmine_1_1block_1_1utils_1_1_sign_text.html", null ],
+    [ "pocketmine\\network\\mcpe\\handler\\SilentDiscard", "d7/d9e/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_silent_discard.html", null ],
     [ "pocketmine\\entity\\Skin", "d8/d49/classpocketmine_1_1entity_1_1_skin.html", null ],
     [ "pocketmine\\network\\mcpe\\convert\\SkinAdapter", "d2/d77/interfacepocketmine_1_1network_1_1mcpe_1_1convert_1_1_skin_adapter.html", [
       [ "pocketmine\\network\\mcpe\\convert\\LegacySkinAdapter", "d3/de8/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_legacy_skin_adapter.html", null ]

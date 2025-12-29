@@ -1,14 +1,5 @@
 var NAVTREEINDEX25 =
 {
-"d1/d97/interfacepocketmine_1_1nbt_1_1_nbt_stream_reader.html#ae89696f46788fde8bc81e9d40b533409":[3,0,1,15,9,5],
-"d1/d97/interfacepocketmine_1_1nbt_1_1_nbt_stream_reader.html#af91fb572125f51ed97e6bad83e7f81b0":[2,0,0,7,8,6],
-"d1/d97/interfacepocketmine_1_1nbt_1_1_nbt_stream_reader.html#af91fb572125f51ed97e6bad83e7f81b0":[3,0,1,15,9,6],
-"d1/d98/_cancellable_trait_8php_source.html":[4,0,1,7,8],
-"d1/d99/_bucket_empty_lava_sound_8php_source.html":[4,0,1,25,5,23],
-"d1/d99/namespacepocketmine_1_1world_1_1generator_1_1populator.html":[2,0,0,14,0,1],
-"d1/d9a/_score_packet_entry_8php_source.html":[4,0,2,0,1,0,1,93],
-"d1/d9b/_player_login_event_8php_source.html":[4,0,1,7,3,31],
-"d1/d9b/classpocketmine_1_1block_1_1_mycelium.html":[2,0,0,0,159],
 "d1/d9b/classpocketmine_1_1block_1_1_mycelium.html":[3,0,1,0,161],
 "d1/d9b/classpocketmine_1_1block_1_1_mycelium.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,159,58],
 "d1/d9b/classpocketmine_1_1block_1_1_mycelium.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,161,58],
@@ -249,5 +240,14 @@ var NAVTREEINDEX25 =
 "d1/d9d/classpocketmine_1_1block_1_1_copper_lantern.html#ac34d7d0bd5e5173f331e56f6b97ca796":[2,0,0,0,73,49],
 "d1/d9d/classpocketmine_1_1block_1_1_copper_lantern.html#ac34d7d0bd5e5173f331e56f6b97ca796":[3,0,1,0,75,49],
 "d1/d9d/classpocketmine_1_1block_1_1_copper_lantern.html#ac85f12ad4e4d729db9f27ecb8e97998b":[2,0,0,0,73,51],
-"d1/d9d/classpocketmine_1_1block_1_1_copper_lantern.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,75,51]
+"d1/d9d/classpocketmine_1_1block_1_1_copper_lantern.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,75,51],
+"d1/d9d/classpocketmine_1_1block_1_1_copper_lantern.html#acb449b40461f4800cf6e6288cb9a069d":[2,0,0,0,73,0],
+"d1/d9d/classpocketmine_1_1block_1_1_copper_lantern.html#acb449b40461f4800cf6e6288cb9a069d":[3,0,1,0,75,0],
+"d1/d9d/classpocketmine_1_1block_1_1_copper_lantern.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,73,24],
+"d1/d9d/classpocketmine_1_1block_1_1_copper_lantern.html#acb7cc5bba94398c6a329b3b2af8fa859":[3,0,1,0,75,24],
+"d1/d9d/classpocketmine_1_1block_1_1_copper_lantern.html#ace264e4db5ba15d3f7f2072f79d77023":[2,0,0,0,73,66],
+"d1/d9d/classpocketmine_1_1block_1_1_copper_lantern.html#ace264e4db5ba15d3f7f2072f79d77023":[3,0,1,0,75,66],
+"d1/d9d/classpocketmine_1_1block_1_1_copper_lantern.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[2,0,0,0,73,57],
+"d1/d9d/classpocketmine_1_1block_1_1_copper_lantern.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[3,0,1,0,75,57],
+"d1/d9d/classpocketmine_1_1block_1_1_copper_lantern.html#acfa7766036568571b645ae89ceb1029e":[2,0,0,0,73,43]
 };

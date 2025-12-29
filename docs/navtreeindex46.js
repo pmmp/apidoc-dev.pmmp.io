@@ -1,5 +1,8 @@
 var NAVTREEINDEX46 =
 {
+"d3/d10/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1recipe_1_1_material_reducer_recipe.html":[3,0,1,16,0,6,1,6,7],
+"d3/d10/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1recipe_1_1_material_reducer_recipe.html#a9f369e074a769179da55732580ca4a5e":[3,0,1,16,0,6,1,6,7,0],
+"d3/d10/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1recipe_1_1_material_reducer_recipe.html#abba4c5ea60ae4a9baed2ce9ce7581ad8":[3,0,1,16,0,6,1,6,7,1],
 "d3/d11/classpocketmine_1_1world_1_1sound_1_1_item_frame_remove_item_sound.html":[3,0,1,30,5,79],
 "d3/d11/classpocketmine_1_1world_1_1sound_1_1_item_frame_remove_item_sound.html#a362d49ca92816a99117649e7563dad01":[3,0,1,30,5,79,0],
 "d3/d12/tile_2_monster_spawner_8php_source.html":[4,0,1,0,1,26],
@@ -246,8 +249,5 @@ var NAVTREEINDEX46 =
 "d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#a09f4667329f89292dd319d56c4243b59":[2,0,0,0,12,30],
 "d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#a09f4667329f89292dd319d56c4243b59":[3,0,1,0,14,30],
 "d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,12,18],
-"d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,14,18],
-"d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,12,60],
-"d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,14,60],
-"d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,12,47]
+"d3/d2c/classpocketmine_1_1block_1_1_base_fire.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,14,18]
 };

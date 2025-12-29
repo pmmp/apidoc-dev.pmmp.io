@@ -1011,7 +1011,7 @@ var annotated_dup =
         [ "RawSalmon", "df/da2/classpocketmine_1_1item_1_1_raw_salmon.html", "df/da2/classpocketmine_1_1item_1_1_raw_salmon" ],
         [ "Record", "d8/d29/classpocketmine_1_1item_1_1_record.html", "d8/d29/classpocketmine_1_1item_1_1_record" ],
         [ "Redstone", "dc/dff/classpocketmine_1_1item_1_1_redstone.html", "dc/dff/classpocketmine_1_1item_1_1_redstone" ],
-        [ "Releasable", "d4/d35/interfacepocketmine_1_1item_1_1_releasable.html", null ],
+        [ "Releasable", "d4/d35/interfacepocketmine_1_1item_1_1_releasable.html", "d4/d35/interfacepocketmine_1_1item_1_1_releasable" ],
         [ "RottenFlesh", "dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html", "dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh" ],
         [ "Shears", "dd/d7b/classpocketmine_1_1item_1_1_shears.html", "dd/d7b/classpocketmine_1_1item_1_1_shears" ],
         [ "Shovel", "d8/d37/classpocketmine_1_1item_1_1_shovel.html", "d8/d37/classpocketmine_1_1item_1_1_shovel" ],
@@ -1143,9 +1143,11 @@ var annotated_dup =
             [ "ItemStackResponseBuilder", "dd/d6f/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_item_stack_response_builder.html", null ],
             [ "LoginPacketHandler", "d7/d77/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_login_packet_handler.html", "d7/d77/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_login_packet_handler" ],
             [ "PacketHandler", "d5/d23/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_packet_handler.html", null ],
+            [ "PacketHandlerInspector", "da/def/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_packet_handler_inspector.html", "da/def/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_packet_handler_inspector" ],
             [ "PreSpawnPacketHandler", "d0/d3c/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_pre_spawn_packet_handler.html", null ],
             [ "ResourcePacksPacketHandler", "d4/d06/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_resource_packs_packet_handler.html", "d4/d06/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_resource_packs_packet_handler" ],
             [ "SessionStartPacketHandler", "dd/ddd/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_session_start_packet_handler.html", "dd/ddd/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_session_start_packet_handler" ],
+            [ "SilentDiscard", "d7/d9e/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_silent_discard.html", "d7/d9e/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_silent_discard" ],
             [ "SpawnResponsePacketHandler", "d0/dd8/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_spawn_response_packet_handler.html", "d0/dd8/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_spawn_response_packet_handler" ]
           ] ],
           [ "protocol", null, [
@@ -1866,7 +1868,6 @@ var annotated_dup =
         [ "BinaryDataException", "de/da7/classpocketmine_1_1utils_1_1_binary_data_exception.html", null ],
         [ "BinaryStream", "d6/dc6/classpocketmine_1_1utils_1_1_binary_stream.html", "d6/dc6/classpocketmine_1_1utils_1_1_binary_stream" ],
         [ "BroadcastLoggerForwarder", "d7/de3/classpocketmine_1_1utils_1_1_broadcast_logger_forwarder.html", "d7/de3/classpocketmine_1_1utils_1_1_broadcast_logger_forwarder" ],
-        [ "CloningRegistrySource", "d1/d3d/classpocketmine_1_1utils_1_1_cloning_registry_source.html", "d1/d3d/classpocketmine_1_1utils_1_1_cloning_registry_source" ],
         [ "Config", "d6/d2c/classpocketmine_1_1utils_1_1_config.html", "d6/d2c/classpocketmine_1_1utils_1_1_config" ],
         [ "ConfigLoadException", "d0/db9/classpocketmine_1_1utils_1_1_config_load_exception.html", null ],
         [ "Filesystem", "da/ddd/classpocketmine_1_1utils_1_1_filesystem.html", "da/ddd/classpocketmine_1_1utils_1_1_filesystem" ],

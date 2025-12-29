@@ -5,7 +5,6 @@ var namespacepocketmine_1_1utils =
     [ "BinaryDataException", "de/da7/classpocketmine_1_1utils_1_1_binary_data_exception.html", null ],
     [ "BinaryStream", "d6/dc6/classpocketmine_1_1utils_1_1_binary_stream.html", "d6/dc6/classpocketmine_1_1utils_1_1_binary_stream" ],
     [ "BroadcastLoggerForwarder", "d7/de3/classpocketmine_1_1utils_1_1_broadcast_logger_forwarder.html", "d7/de3/classpocketmine_1_1utils_1_1_broadcast_logger_forwarder" ],
-    [ "CloningRegistrySource", "d1/d3d/classpocketmine_1_1utils_1_1_cloning_registry_source.html", "d1/d3d/classpocketmine_1_1utils_1_1_cloning_registry_source" ],
     [ "Config", "d6/d2c/classpocketmine_1_1utils_1_1_config.html", "d6/d2c/classpocketmine_1_1utils_1_1_config" ],
     [ "ConfigLoadException", "d0/db9/classpocketmine_1_1utils_1_1_config_load_exception.html", null ],
     [ "Filesystem", "da/ddd/classpocketmine_1_1utils_1_1_filesystem.html", "da/ddd/classpocketmine_1_1utils_1_1_filesystem" ],

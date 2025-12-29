@@ -1,12 +1,5 @@
 var NAVTREEINDEX38 =
 {
-"d2/d70/classpocketmine_1_1block_1_1_crops.html#a6201b0d5460ae6f3b5cee03197c9a94a":[2,0,0,0,81,39],
-"d2/d70/classpocketmine_1_1block_1_1_crops.html#a6201b0d5460ae6f3b5cee03197c9a94a":[3,0,1,0,83,39],
-"d2/d70/classpocketmine_1_1block_1_1_crops.html#a6d3cefce63d654d994f2e1b5dcc11c54":[2,0,0,0,81,20],
-"d2/d70/classpocketmine_1_1block_1_1_crops.html#a6d3cefce63d654d994f2e1b5dcc11c54":[3,0,1,0,83,20],
-"d2/d70/classpocketmine_1_1block_1_1_crops.html#a747a8fb648f59fe5ee8dd8ca132e05cb":[2,0,0,0,81,37],
-"d2/d70/classpocketmine_1_1block_1_1_crops.html#a747a8fb648f59fe5ee8dd8ca132e05cb":[3,0,1,0,83,37],
-"d2/d70/classpocketmine_1_1block_1_1_crops.html#a757b95c06e4042e1bea731c7f53b9cbc":[2,0,0,0,81,64],
 "d2/d70/classpocketmine_1_1block_1_1_crops.html#a757b95c06e4042e1bea731c7f53b9cbc":[3,0,1,0,83,64],
 "d2/d70/classpocketmine_1_1block_1_1_crops.html#a75b16ca6e22355cf632466a969e79211":[2,0,0,0,81,41],
 "d2/d70/classpocketmine_1_1block_1_1_crops.html#a75b16ca6e22355cf632466a969e79211":[3,0,1,0,83,41],
@@ -249,5 +242,12 @@ var NAVTREEINDEX38 =
 "d2/d76/classpocketmine_1_1block_1_1tile_1_1_bed.html#a36187ad3f659c52667f86a07c0546c37":[2,0,0,0,0,3,5],
 "d2/d76/classpocketmine_1_1block_1_1tile_1_1_bed.html#a36187ad3f659c52667f86a07c0546c37":[3,0,1,0,1,3,5],
 "d2/d76/classpocketmine_1_1block_1_1tile_1_1_bed.html#a4f2c0b2742c1443c3f1cfb20b632aa50":[2,0,0,0,0,3,1],
-"d2/d76/classpocketmine_1_1block_1_1tile_1_1_bed.html#a4f2c0b2742c1443c3f1cfb20b632aa50":[3,0,1,0,1,3,1]
+"d2/d76/classpocketmine_1_1block_1_1tile_1_1_bed.html#a4f2c0b2742c1443c3f1cfb20b632aa50":[3,0,1,0,1,3,1],
+"d2/d76/classpocketmine_1_1block_1_1tile_1_1_bed.html#a9a0a80ed9de93d8793c30f0d2486d701":[2,0,0,0,0,3,3],
+"d2/d76/classpocketmine_1_1block_1_1tile_1_1_bed.html#a9a0a80ed9de93d8793c30f0d2486d701":[3,0,1,0,1,3,3],
+"d2/d76/classpocketmine_1_1block_1_1tile_1_1_bed.html#ac32aa6c532ec93131e40d0276a9af5b4":[2,0,0,0,0,3,0],
+"d2/d76/classpocketmine_1_1block_1_1tile_1_1_bed.html#ac32aa6c532ec93131e40d0276a9af5b4":[3,0,1,0,1,3,0],
+"d2/d76/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1resourcepacks_1_1_resource_pack_info_entry.html":[3,0,1,16,0,6,1,7,0],
+"d2/d77/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_enchant_option.html":[3,0,1,16,0,6,1,44],
+"d2/d77/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_enchant_option.html#a20e958fcb4fbfc92f18db7f6d70e7530":[3,0,1,16,0,6,1,44,2]
 };
