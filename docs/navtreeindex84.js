@@ -1,5 +1,8 @@
 var NAVTREEINDEX84 =
 {
+"d5/da3/classpocketmine_1_1item_1_1_spyglass.html#aba073e91196cf2978057ec4d3842aa76":[2,0,0,5,106,40],
+"d5/da3/classpocketmine_1_1item_1_1_spyglass.html#aba073e91196cf2978057ec4d3842aa76":[3,0,1,12,107,40],
+"d5/da3/classpocketmine_1_1item_1_1_spyglass.html#abe253aa6fbfe2fc36389edadb753ffc7":[2,0,0,5,106,19],
 "d5/da3/classpocketmine_1_1item_1_1_spyglass.html#abe253aa6fbfe2fc36389edadb753ffc7":[3,0,1,12,107,19],
 "d5/da3/classpocketmine_1_1item_1_1_spyglass.html#ac534c116a4d2291a8d67f15c4b485b74":[2,0,0,5,106,26],
 "d5/da3/classpocketmine_1_1item_1_1_spyglass.html#ac534c116a4d2291a8d67f15c4b485b74":[3,0,1,12,107,26],
@@ -151,7 +154,7 @@ var NAVTREEINDEX84 =
 "d5/db7/classpocketmine_1_1player_1_1_dat_file_player_data_provider.html#a4eb4d1c9fe54bcae255f1c07fb1b6a62":[3,0,1,18,2,0],
 "d5/db7/classpocketmine_1_1player_1_1_dat_file_player_data_provider.html#a867c54ff7ba7e8a877bea708abfc4830":[3,0,1,18,2,2],
 "d5/db7/classpocketmine_1_1player_1_1_dat_file_player_data_provider.html#a8b21a77d6c30867f588a5238ab5c73c3":[3,0,1,18,2,1],
-"d5/db8/_infested_stone_8php_source.html":[4,0,1,0,137],
+"d5/db8/_infested_stone_8php_source.html":[4,0,1,0,138],
 "d5/db8/classpocketmine_1_1event_1_1server_1_1_network_interface_unregister_event.html":[3,0,1,9,5,7],
 "d5/db8/classpocketmine_1_1event_1_1server_1_1_network_interface_unregister_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,5,7,0],
 "d5/db8/classpocketmine_1_1event_1_1server_1_1_network_interface_unregister_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[3,0,1,9,5,7,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX84 =
 "d5/db8/classpocketmine_1_1item_1_1_flint_steel.html#aba073e91196cf2978057ec4d3842aa76":[2,0,0,5,49,44],
 "d5/db8/classpocketmine_1_1item_1_1_flint_steel.html#aba073e91196cf2978057ec4d3842aa76":[3,0,1,12,50,44],
 "d5/db8/classpocketmine_1_1item_1_1_flint_steel.html#abe253aa6fbfe2fc36389edadb753ffc7":[2,0,0,5,49,19],
-"d5/db8/classpocketmine_1_1item_1_1_flint_steel.html#abe253aa6fbfe2fc36389edadb753ffc7":[3,0,1,12,50,19],
-"d5/db8/classpocketmine_1_1item_1_1_flint_steel.html#ac534c116a4d2291a8d67f15c4b485b74":[2,0,0,5,49,27],
-"d5/db8/classpocketmine_1_1item_1_1_flint_steel.html#ac534c116a4d2291a8d67f15c4b485b74":[3,0,1,12,50,27],
-"d5/db8/classpocketmine_1_1item_1_1_flint_steel.html#ac7e878537e8ea68cc0d4d565f9f25062":[2,0,0,5,49,47]
+"d5/db8/classpocketmine_1_1item_1_1_flint_steel.html#abe253aa6fbfe2fc36389edadb753ffc7":[3,0,1,12,50,19]
 };

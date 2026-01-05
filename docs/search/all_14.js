@@ -260,7 +260,7 @@ var searchData=
   ['setoutputsignalstrength_257',['setOutputSignalStrength',['../dd/d1e/interfacepocketmine_1_1block_1_1utils_1_1_analog_redstone_signal_emitter.html#ac5e4833900ce79658e388de47fd0e9ba',1,'pocketmine::block::utils::AnalogRedstoneSignalEmitter']]],
   ['setowningentity_258',['setOwningEntity',['../d2/d3c/classpocketmine_1_1entity_1_1_entity.html#a8db17c4dcd6375fe3b610841c2b189bf',1,'pocketmine::entity::Entity']]],
   ['setoxidation_259',['setOxidation',['../d3/d54/interfacepocketmine_1_1block_1_1utils_1_1_copper_material.html#a5589a4f36e3f44cf11120116b93b0802',1,'pocketmine::block::utils::CopperMaterial']]],
-  ['setpackencryptionkey_260',['setPackEncryptionKey',['../d3/d62/classpocketmine_1_1resourcepacks_1_1_resource_pack_manager.html#a7708fc76fbf4dba42646ed9d0dbdf43e',1,'pocketmine::resourcepacks::ResourcePackManager']]],
+  ['setpackencryptionkey_260',['setPackEncryptionKey',['../d3/d62/classpocketmine_1_1resourcepacks_1_1_resource_pack_manager.html#adc173832cc0e1e0549077028a787b55f',1,'pocketmine::resourcepacks::ResourcePackManager']]],
   ['setpackets_261',['setPackets',['../d5/dd4/classpocketmine_1_1event_1_1server_1_1_data_packet_send_event.html#ac49a17ec857b18128901d95818c15a08',1,'pocketmine::event::server::DataPacketSendEvent']]],
   ['setpages_262',['setPages',['../d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#a99bdaaa5b81efae537f45a6413db4103',1,'pocketmine::item::WritableBookBase']]],
   ['setpagetext_263',['setPageText',['../d7/d37/classpocketmine_1_1item_1_1_writable_book_base.html#ab4c7797f15342a2368f4a730dfa57f0d',1,'pocketmine::item::WritableBookBase']]],

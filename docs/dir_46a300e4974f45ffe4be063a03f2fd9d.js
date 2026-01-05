@@ -7,6 +7,7 @@ var dir_46a300e4974f45ffe4be063a03f2fd9d =
     [ "Air.php", "df/d12/_air_8php_source.html", null ],
     [ "AmethystCluster.php", "d5/ddd/_amethyst_cluster_8php_source.html", null ],
     [ "block/Anvil.php", "db/d8f/block_2_anvil_8php_source.html", null ],
+    [ "Azalea.php", "d1/daf/_azalea_8php_source.html", null ],
     [ "block/Bamboo.php", "df/dae/block_2_bamboo_8php_source.html", null ],
     [ "BambooSapling.php", "da/d1a/_bamboo_sapling_8php_source.html", null ],
     [ "Barrel.php", "db/d6f/_barrel_8php_source.html", null ],

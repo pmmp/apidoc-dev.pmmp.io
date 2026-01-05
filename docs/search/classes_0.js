@@ -89,5 +89,7 @@ var searchData=
   ['availableenchantmentregistry_86',['AvailableEnchantmentRegistry',['../db/d9d/classpocketmine_1_1item_1_1enchantment_1_1_available_enchantment_registry.html',1,'pocketmine::item::enchantment']]],
   ['awardachievementpacket_87',['AwardAchievementPacket',['../df/d80/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_award_achievement_packet.html',1,'pocketmine::network::mcpe::protocol']]],
   ['axe_88',['Axe',['../d5/d0a/classpocketmine_1_1item_1_1_axe.html',1,'pocketmine::item']]],
-  ['axisalignedbb_89',['AxisAlignedBB',['../dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html',1,'pocketmine::math']]]
+  ['axisalignedbb_89',['AxisAlignedBB',['../dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html',1,'pocketmine::math']]],
+  ['azalea_90',['Azalea',['../db/df1/classpocketmine_1_1block_1_1_azalea.html',1,'pocketmine::block']]],
+  ['azaleatree_91',['AzaleaTree',['../d5/d42/classpocketmine_1_1world_1_1generator_1_1object_1_1_azalea_tree.html',1,'pocketmine::world::generator::object']]]
 ];

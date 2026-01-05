@@ -1,5 +1,8 @@
 var NAVTREEINDEX133 =
 {
+"d8/d7b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_player_inventory_options_packet.html#ac96358bb5d1d9ff91fd0d12d8883f4a3":[3,0,1,16,0,6,179,4],
+"d8/d7b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_player_inventory_options_packet.html#ad83028a1e612dd7208bcdee94ebb11ba":[3,0,1,16,0,6,179,2],
+"d8/d7b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_player_inventory_options_packet.html#adf95f3533ec14ec7cb9b0245832d97b9":[3,0,1,16,0,6,179,7],
 "d8/d7b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_player_inventory_options_packet.html#aebbfcab569b523bc5ee4705c10d4f9cf":[3,0,1,16,0,6,179,5],
 "d8/d7b/classpocketmine_1_1world_1_1particle_1_1_redstone_particle.html":[3,0,1,30,4,29],
 "d8/d7b/classpocketmine_1_1world_1_1particle_1_1_redstone_particle.html#a2f56c7ce200cd57577167b93b599f2ca":[3,0,1,30,4,29,0],
@@ -149,7 +152,7 @@ var NAVTREEINDEX133 =
 "d8/d83/classpocketmine_1_1item_1_1_spider_eye.html#af85accbedba28b67bb66d5f12d329585":[2,0,0,5,104,41],
 "d8/d83/classpocketmine_1_1item_1_1_spider_eye.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,105,41],
 "d8/d84/_particle_command_8php_source.html":[4,0,1,1,0,22],
-"d8/d85/_brown_mushroom_block_8php_source.html":[4,0,1,0,37],
+"d8/d85/_brown_mushroom_block_8php_source.html":[4,0,1,0,38],
 "d8/d87/_axis_aligned_b_b_8php_source.html":[4,0,2,0,7,0,1],
 "d8/d87/_item_interaction_data_8php_source.html":[4,0,2,0,1,0,1,62],
 "d8/d87/_material_reducer_recipe_8php_source.html":[4,0,2,0,1,0,1,7,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX133 =
 "d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html#aa807b0fa5751723fed80570a4de1231b":[2,0,0,5,119,52],
 "d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html#aa807b0fa5751723fed80570a4de1231b":[3,0,1,12,120,52],
 "d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html#aad9f6fbf32449170a157b787d4227ee6":[2,0,0,5,119,36],
-"d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html#aad9f6fbf32449170a157b787d4227ee6":[3,0,1,12,120,36],
-"d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html#aaff81f6952ad8686aac4afbac1221c16":[2,0,0,5,119,10],
-"d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html#aaff81f6952ad8686aac4afbac1221c16":[3,0,1,12,120,10],
-"d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html#ab72e7d6d4cc27484d2788d3ab67d7093":[2,0,0,5,119,55]
+"d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html#aad9f6fbf32449170a157b787d4227ee6":[3,0,1,12,120,36]
 };

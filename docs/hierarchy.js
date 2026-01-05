@@ -313,6 +313,7 @@ var hierarchy =
         ] ],
         [ "pocketmine\\block\\Flowable", "d3/d1e/classpocketmine_1_1block_1_1_flowable.html", [
           [ "pocketmine\\block\\Air", "d7/d31/classpocketmine_1_1block_1_1_air.html", null ],
+          [ "pocketmine\\block\\Azalea", "db/df1/classpocketmine_1_1block_1_1_azalea.html", null ],
           [ "pocketmine\\block\\BambooSapling", "d6/dae/classpocketmine_1_1block_1_1_bamboo_sapling.html", null ],
           [ "pocketmine\\block\\BaseFire", "d3/d2c/classpocketmine_1_1block_1_1_base_fire.html", [
             [ "pocketmine\\block\\Fire", "da/d18/classpocketmine_1_1block_1_1_fire.html", null ],
@@ -2713,6 +2714,7 @@ var hierarchy =
     [ "pocketmine\\lang\\Translatable", "da/d80/classpocketmine_1_1lang_1_1_translatable.html", null ],
     [ "pocketmine\\world\\generator\\object\\Tree", "d2/da7/classpocketmine_1_1world_1_1generator_1_1object_1_1_tree.html", [
       [ "pocketmine\\world\\generator\\object\\AcaciaTree", "dd/d40/classpocketmine_1_1world_1_1generator_1_1object_1_1_acacia_tree.html", null ],
+      [ "pocketmine\\world\\generator\\object\\AzaleaTree", "d5/d42/classpocketmine_1_1world_1_1generator_1_1object_1_1_azalea_tree.html", null ],
       [ "pocketmine\\world\\generator\\object\\BirchTree", "d6/d75/classpocketmine_1_1world_1_1generator_1_1object_1_1_birch_tree.html", null ],
       [ "pocketmine\\world\\generator\\object\\JungleTree", "dc/ded/classpocketmine_1_1world_1_1generator_1_1object_1_1_jungle_tree.html", null ],
       [ "pocketmine\\world\\generator\\object\\NetherTree", "d8/d21/classpocketmine_1_1world_1_1generator_1_1object_1_1_nether_tree.html", null ],

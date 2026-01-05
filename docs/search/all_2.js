@@ -151,5 +151,7 @@ var searchData=
   ['axe_148',['Axe',['../d5/d0a/classpocketmine_1_1item_1_1_axe.html',1,'pocketmine::item']]],
   ['axis_149',['Axis',['../d8/db3/namespacepocketmine_1_1math.html#a8d098d8d1c59798ecdfb300ce728ae6e',1,'pocketmine::math']]],
   ['axis_150',['axis',['../d8/db3/namespacepocketmine_1_1math.html#aa886a69cf6f1686b3db497cee3400814a4c7671b48be7177ef504cda08d438bc7',1,'pocketmine::math']]],
-  ['axisalignedbb_151',['AxisAlignedBB',['../dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html',1,'pocketmine::math']]]
+  ['axisalignedbb_151',['AxisAlignedBB',['../dd/d16/classpocketmine_1_1math_1_1_axis_aligned_b_b.html',1,'pocketmine::math']]],
+  ['azalea_152',['Azalea',['../db/df1/classpocketmine_1_1block_1_1_azalea.html',1,'pocketmine::block']]],
+  ['azaleatree_153',['AzaleaTree',['../d5/d42/classpocketmine_1_1world_1_1generator_1_1object_1_1_azalea_tree.html',1,'pocketmine::world::generator::object']]]
 ];

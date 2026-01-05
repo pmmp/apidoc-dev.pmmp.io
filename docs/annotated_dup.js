@@ -100,6 +100,7 @@ var annotated_dup =
         [ "Air", "d7/d31/classpocketmine_1_1block_1_1_air.html", "d7/d31/classpocketmine_1_1block_1_1_air" ],
         [ "AmethystCluster", "d7/dd3/classpocketmine_1_1block_1_1_amethyst_cluster.html", "d7/dd3/classpocketmine_1_1block_1_1_amethyst_cluster" ],
         [ "Anvil", "df/d58/classpocketmine_1_1block_1_1_anvil.html", "df/d58/classpocketmine_1_1block_1_1_anvil" ],
+        [ "Azalea", "db/df1/classpocketmine_1_1block_1_1_azalea.html", "db/df1/classpocketmine_1_1block_1_1_azalea" ],
         [ "Bamboo", "d1/dae/classpocketmine_1_1block_1_1_bamboo.html", "d1/dae/classpocketmine_1_1block_1_1_bamboo" ],
         [ "BambooSapling", "d6/dae/classpocketmine_1_1block_1_1_bamboo_sapling.html", "d6/dae/classpocketmine_1_1block_1_1_bamboo_sapling" ],
         [ "Barrel", "da/d36/classpocketmine_1_1block_1_1_barrel.html", "da/d36/classpocketmine_1_1block_1_1_barrel" ],
@@ -1996,6 +1997,7 @@ var annotated_dup =
           ] ],
           [ "object", null, [
             [ "AcaciaTree", "dd/d40/classpocketmine_1_1world_1_1generator_1_1object_1_1_acacia_tree.html", "dd/d40/classpocketmine_1_1world_1_1generator_1_1object_1_1_acacia_tree" ],
+            [ "AzaleaTree", "d5/d42/classpocketmine_1_1world_1_1generator_1_1object_1_1_azalea_tree.html", "d5/d42/classpocketmine_1_1world_1_1generator_1_1object_1_1_azalea_tree" ],
             [ "BirchTree", "d6/d75/classpocketmine_1_1world_1_1generator_1_1object_1_1_birch_tree.html", "d6/d75/classpocketmine_1_1world_1_1generator_1_1object_1_1_birch_tree" ],
             [ "JungleTree", "dc/ded/classpocketmine_1_1world_1_1generator_1_1object_1_1_jungle_tree.html", "dc/ded/classpocketmine_1_1world_1_1generator_1_1object_1_1_jungle_tree" ],
             [ "NetherTree", "d8/d21/classpocketmine_1_1world_1_1generator_1_1object_1_1_nether_tree.html", "d8/d21/classpocketmine_1_1world_1_1generator_1_1object_1_1_nether_tree" ],

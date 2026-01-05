@@ -5,6 +5,7 @@ var namespacepocketmine_1_1block =
     [ "Air", "d7/d31/classpocketmine_1_1block_1_1_air.html", "d7/d31/classpocketmine_1_1block_1_1_air" ],
     [ "AmethystCluster", "d7/dd3/classpocketmine_1_1block_1_1_amethyst_cluster.html", "d7/dd3/classpocketmine_1_1block_1_1_amethyst_cluster" ],
     [ "Anvil", "df/d58/classpocketmine_1_1block_1_1_anvil.html", "df/d58/classpocketmine_1_1block_1_1_anvil" ],
+    [ "Azalea", "db/df1/classpocketmine_1_1block_1_1_azalea.html", "db/df1/classpocketmine_1_1block_1_1_azalea" ],
     [ "Bamboo", "d1/dae/classpocketmine_1_1block_1_1_bamboo.html", "d1/dae/classpocketmine_1_1block_1_1_bamboo" ],
     [ "BambooSapling", "d6/dae/classpocketmine_1_1block_1_1_bamboo_sapling.html", "d6/dae/classpocketmine_1_1block_1_1_bamboo_sapling" ],
     [ "Barrel", "da/d36/classpocketmine_1_1block_1_1_barrel.html", "da/d36/classpocketmine_1_1block_1_1_barrel" ],
