@@ -1,5 +1,8 @@
 var NAVTREEINDEX19 =
 {
+"d1/d4b/classpocketmine_1_1item_1_1_written_book.html#aba073e91196cf2978057ec4d3842aa76":[2,0,0,5,128,47],
+"d1/d4b/classpocketmine_1_1item_1_1_written_book.html#aba073e91196cf2978057ec4d3842aa76":[3,0,1,12,129,47],
+"d1/d4b/classpocketmine_1_1item_1_1_written_book.html#abe253aa6fbfe2fc36389edadb753ffc7":[2,0,0,5,128,21],
 "d1/d4b/classpocketmine_1_1item_1_1_written_book.html#abe253aa6fbfe2fc36389edadb753ffc7":[3,0,1,12,129,21],
 "d1/d4b/classpocketmine_1_1item_1_1_written_book.html#ac534c116a4d2291a8d67f15c4b485b74":[2,0,0,5,128,32],
 "d1/d4b/classpocketmine_1_1item_1_1_written_book.html#ac534c116a4d2291a8d67f15c4b485b74":[3,0,1,12,129,32],
@@ -23,7 +26,6 @@ var NAVTREEINDEX19 =
 "d1/d4b/classpocketmine_1_1item_1_1_written_book.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,129,45],
 "d1/d4b/classpocketmine_1_1item_1_1_written_book.html#afdec798add5eb1e740abffb45245ebc9":[2,0,0,5,128,62],
 "d1/d4b/classpocketmine_1_1item_1_1_written_book.html#afdec798add5eb1e740abffb45245ebc9":[3,0,1,12,129,62],
-"d1/d4c/_camera_aim_assist_category_block_priority_8php_source.html":[4,0,2,0,1,0,1,1,2],
 "d1/d4e/classpocketmine_1_1scheduler_1_1_async_worker.html":[2,0,0,11,3],
 "d1/d4e/classpocketmine_1_1scheduler_1_1_async_worker.html":[3,0,1,22,3],
 "d1/d50/_enchant_option_8php_source.html":[4,0,2,0,1,0,1,47],
@@ -247,7 +249,5 @@ var NAVTREEINDEX19 =
 "d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[3,0,1,0,165,12],
 "d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#ac34d7d0bd5e5173f331e56f6b97ca796":[2,0,0,0,163,49],
 "d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#ac34d7d0bd5e5173f331e56f6b97ca796":[3,0,1,0,165,49],
-"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#ac85f12ad4e4d729db9f27ecb8e97998b":[2,0,0,0,163,51],
-"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,165,51],
-"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#acb449b40461f4800cf6e6288cb9a069d":[2,0,0,0,163,0]
+"d1/d55/classpocketmine_1_1block_1_1_nether_portal.html#ac85f12ad4e4d729db9f27ecb8e97998b":[2,0,0,0,163,51]
 };

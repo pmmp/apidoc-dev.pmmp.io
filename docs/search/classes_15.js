@@ -26,5 +26,6 @@ var searchData=
   ['versionstring_23',['VersionString',['../df/d22/classpocketmine_1_1utils_1_1_version_string.html',1,'pocketmine::utils']]],
   ['villager_24',['Villager',['../d9/d6b/classpocketmine_1_1entity_1_1_villager.html',1,'pocketmine::entity']]],
   ['vine_25',['Vine',['../d1/de5/classpocketmine_1_1block_1_1_vine.html',1,'pocketmine::block']]],
-  ['voxelraytrace_26',['VoxelRayTrace',['../d4/d39/classpocketmine_1_1math_1_1_voxel_ray_trace.html',1,'pocketmine::math']]]
+  ['voxelraytrace_26',['VoxelRayTrace',['../d4/d39/classpocketmine_1_1math_1_1_voxel_ray_trace.html',1,'pocketmine::math']]],
+  ['voxelshapespacket_27',['VoxelShapesPacket',['../d2/d85/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_voxel_shapes_packet.html',1,'pocketmine::network::mcpe::protocol']]]
 ];

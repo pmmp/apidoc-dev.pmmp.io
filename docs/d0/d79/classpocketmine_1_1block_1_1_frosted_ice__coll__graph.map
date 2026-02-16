@@ -1,7 +1,7 @@
 <map id="pocketmine\block\FrostedIce" name="pocketmine\block\FrostedIce">
-<area shape="rect" id="Node000001" title=" " alt="" coords="375,2807,575,2912"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="375,2807,575,2932"/>
 <area shape="rect" id="Node000002" href="$d1/def/classpocketmine_1_1block_1_1_ice.html" title=" " alt="" coords="259,2572,477,2757"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="428,2768,448,2805,444,2808,423,2771"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="425,2768,444,2805,440,2808,420,2771"/>
 <area shape="rect" id="Node000003" href="$d5/d1b/classpocketmine_1_1block_1_1_transparent.html" title=" " alt="" coords="263,2457,473,2523"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,2537,371,2572,365,2572,365,2537"/>
 <area shape="rect" id="Node000004" href="$d7/d27/classpocketmine_1_1block_1_1_block.html" title=" " alt="" coords="255,1983,481,2408"/>
@@ -23,5 +23,5 @@
 <area shape="rect" id="Node000012" href="$d7/d9b/classpocketmine_1_1timings_1_1_timings_handler.html" title=" " alt="" coords="827,5,1040,425"/>
 <area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="936,425,936,618,931,618,931,425"/>
 <area shape="rect" id="Node000013" href="$dc/d33/interfacepocketmine_1_1block_1_1utils_1_1_ageable.html" title=" " alt="" coords="502,2605,663,2725"/>
-<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="545,2738,506,2808,501,2805,540,2736"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="547,2739,510,2808,505,2805,542,2736"/>
 </map>

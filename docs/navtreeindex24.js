@@ -1,5 +1,8 @@
 var NAVTREEINDEX24 =
 {
+"d1/d8d/classpocketmine_1_1block_1_1_floor_coral_fan.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,111,31],
+"d1/d8d/classpocketmine_1_1block_1_1_floor_coral_fan.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,109,19],
+"d1/d8d/classpocketmine_1_1block_1_1_floor_coral_fan.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,111,19],
 "d1/d8d/classpocketmine_1_1block_1_1_floor_coral_fan.html#ab4fb5fc92762dcc3220cd317e64425d8":[2,0,0,0,109,65],
 "d1/d8d/classpocketmine_1_1block_1_1_floor_coral_fan.html#ab4fb5fc92762dcc3220cd317e64425d8":[3,0,1,0,111,65],
 "d1/d8d/classpocketmine_1_1block_1_1_floor_coral_fan.html#ab6b90601adfc9732893dcffe256514a9":[2,0,0,0,109,67],
@@ -80,6 +83,7 @@ var NAVTREEINDEX24 =
 "d1/d8e/classpocketmine_1_1plugin_1_1_plugin_base.html#ad28b00a1cffac2c6481235fa05381d16":[3,0,1,19,5,0],
 "d1/d8e/classpocketmine_1_1plugin_1_1_plugin_base.html#ae33d8a71e513ca02ea36cefc72748e5a":[2,0,0,10,5,7],
 "d1/d8e/classpocketmine_1_1plugin_1_1_plugin_base.html#ae33d8a71e513ca02ea36cefc72748e5a":[3,0,1,19,5,7],
+"d1/d8f/_camera_aim_assist_category_priority_8php_source.html":[4,0,2,0,1,0,1,1,4],
 "d1/d90/_chunk_ticker_8php_source.html":[4,0,1,25,13],
 "d1/d91/_big_dripleaf_head_8php_source.html":[4,0,1,0,24],
 "d1/d91/_permission_attachment_8php_source.html":[4,0,1,13,9],
@@ -218,6 +222,7 @@ var NAVTREEINDEX24 =
 "d1/d96/classpocketmine_1_1block_1_1_clay.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,63,16],
 "d1/d96/classpocketmine_1_1block_1_1_clay.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[2,0,0,0,61,27],
 "d1/d96/classpocketmine_1_1block_1_1_clay.html#afeb38d89fa6f5f5912a1b0e6d131fa3b":[3,0,1,0,63,27],
+"d1/d97/_camera_aim_assist_actor_priority_data_8php_source.html":[4,0,2,0,1,0,1,1,1],
 "d1/d97/classpocketmine_1_1network_1_1_filter_noisy_packet_exception.html":[2,0,0,8,5],
 "d1/d97/classpocketmine_1_1network_1_1_filter_noisy_packet_exception.html":[3,0,1,16,6],
 "d1/d97/interfacepocketmine_1_1nbt_1_1_nbt_stream_reader.html":[2,0,0,7,8],
@@ -244,10 +249,5 @@ var NAVTREEINDEX24 =
 "d1/d97/interfacepocketmine_1_1nbt_1_1_nbt_stream_reader.html#ae89696f46788fde8bc81e9d40b533409":[3,0,1,15,9,5],
 "d1/d97/interfacepocketmine_1_1nbt_1_1_nbt_stream_reader.html#af91fb572125f51ed97e6bad83e7f81b0":[2,0,0,7,8,6],
 "d1/d97/interfacepocketmine_1_1nbt_1_1_nbt_stream_reader.html#af91fb572125f51ed97e6bad83e7f81b0":[3,0,1,15,9,6],
-"d1/d98/_cancellable_trait_8php_source.html":[4,0,1,7,8],
-"d1/d99/_bucket_empty_lava_sound_8php_source.html":[4,0,1,25,5,23],
-"d1/d99/namespacepocketmine_1_1world_1_1generator_1_1populator.html":[2,0,0,14,0,1],
-"d1/d9a/_score_packet_entry_8php_source.html":[4,0,2,0,1,0,1,93],
-"d1/d9b/_player_login_event_8php_source.html":[4,0,1,7,3,31],
-"d1/d9b/classpocketmine_1_1block_1_1_mycelium.html":[2,0,0,0,160]
+"d1/d98/_cancellable_trait_8php_source.html":[4,0,1,7,8]
 };
