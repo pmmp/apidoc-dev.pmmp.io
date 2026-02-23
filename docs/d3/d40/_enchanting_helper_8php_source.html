@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.40.1 git-25718e8ccd903d1408fb25666ef84028379bbea6</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.41.1 git-fcc6fb5566a921cb669160c90f56fb68f5b29123</span>
    </div>
   </td>
  </tr>
@@ -322,7 +322,7 @@ $(function(){initNavTree('d3/d40/_enchanting_helper_8php_source.html','../../');
 <div class="line"><a id="l00225" name="l00225"></a><span class="lineno">  225</span>    <span class="keyword">private</span> <span class="keyword">static</span> <span class="keyword">function</span> getRandomOptionName(Random $random) : string{</div>
 <div class="line"><a id="l00226" name="l00226"></a><span class="lineno">  226</span>        $name = <span class="stringliteral">&quot;&quot;</span>;</div>
 <div class="line"><a id="l00227" name="l00227"></a><span class="lineno">  227</span>        <span class="keywordflow">for</span>($i = $random-&gt;nextRange(5, 15); $i &gt; 0; $i--){</div>
-<div class="line"><a id="l00228" name="l00228"></a><span class="lineno">  228</span>            $name .= chr($random-&gt;nextRange(ord(<span class="stringliteral">&quot;a&quot;</span>), ord(<span class="stringliteral">&quot;z&quot;</span>)));</div>
+<div class="line"><a id="l00228" name="l00228"></a><span class="lineno">  228</span>            $name .= chr($random-&gt;nextRange(ord(<span class="stringliteral">&quot;a&quot;</span>), ord(<span class="stringliteral">&quot;z&quot;</span>)) &amp; 0xff);</div>
 <div class="line"><a id="l00229" name="l00229"></a><span class="lineno">  229</span>        }</div>
 <div class="line"><a id="l00230" name="l00230"></a><span class="lineno">  230</span> </div>
 <div class="line"><a id="l00231" name="l00231"></a><span class="lineno">  231</span>        <span class="keywordflow">return</span> $name;</div>
