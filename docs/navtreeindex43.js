@@ -1,5 +1,6 @@
 var NAVTREEINDEX43 =
 {
+"d2/dd2/classpocketmine_1_1item_1_1_beetroot.html#a319a186a07d166461600dd4a639eb86f":[2,0,0,5,9,12],
 "d2/dd2/classpocketmine_1_1item_1_1_beetroot.html#a319a186a07d166461600dd4a639eb86f":[3,0,1,12,10,12],
 "d2/dd2/classpocketmine_1_1item_1_1_beetroot.html#a336d6f91be72079853413f5b4036a57d":[2,0,0,5,9,3],
 "d2/dd2/classpocketmine_1_1item_1_1_beetroot.html#a336d6f91be72079853413f5b4036a57d":[3,0,1,12,10,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX43 =
 "d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#ab92353cf0aa5c05ad26535f98a2b1dca":[3,0,1,0,72,26],
 "d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[2,0,0,0,70,12],
 "d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[3,0,1,0,72,12],
-"d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#ac85f12ad4e4d729db9f27ecb8e97998b":[2,0,0,0,70,51],
-"d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,72,51]
+"d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#ac85f12ad4e4d729db9f27ecb8e97998b":[2,0,0,0,70,51]
 };

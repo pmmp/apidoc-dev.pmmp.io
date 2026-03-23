@@ -1,5 +1,6 @@
 var NAVTREEINDEX56 =
 {
+"d3/de8/classpocketmine_1_1block_1_1_wooden_fence.html#a2387978d832b53ce00c5ac4057281509":[3,0,1,0,266,26],
 "d3/de8/classpocketmine_1_1block_1_1_wooden_fence.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,264,22],
 "d3/de8/classpocketmine_1_1block_1_1_wooden_fence.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[3,0,1,0,266,22],
 "d3/de8/classpocketmine_1_1block_1_1_wooden_fence.html#a286fc64348f13417dcb6106c2695911b":[2,0,0,0,264,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX56 =
 "d3/df2/classpocketmine_1_1block_1_1_stained_glass_pane.html#ad925607ef09026804dbbf059583e3add":[2,0,0,0,221,42],
 "d3/df2/classpocketmine_1_1block_1_1_stained_glass_pane.html#ad925607ef09026804dbbf059583e3add":[3,0,1,0,223,42],
 "d3/df2/classpocketmine_1_1block_1_1_stained_glass_pane.html#adc7b2fcbcc10f046b1cbcafdd0858863":[2,0,0,0,221,1],
-"d3/df2/classpocketmine_1_1block_1_1_stained_glass_pane.html#adc7b2fcbcc10f046b1cbcafdd0858863":[3,0,1,0,223,1],
-"d3/df2/classpocketmine_1_1block_1_1_stained_glass_pane.html#add4d4fd4fecc779dee9c9f94b8a556e5":[2,0,0,0,221,5]
+"d3/df2/classpocketmine_1_1block_1_1_stained_glass_pane.html#adc7b2fcbcc10f046b1cbcafdd0858863":[3,0,1,0,223,1]
 };

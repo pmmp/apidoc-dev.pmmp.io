@@ -1,5 +1,6 @@
 var NAVTREEINDEX189 =
 {
+"dc/d2e/classpocketmine_1_1entity_1_1effect_1_1_effect_instance.html#a23fb998478539f3ec99b3d6aa4684102":[3,0,1,7,1,3,0],
 "dc/d2e/classpocketmine_1_1entity_1_1effect_1_1_effect_instance.html#a52295a4a60b6929b8baee5040b32508f":[3,0,1,7,1,3,10],
 "dc/d2e/classpocketmine_1_1entity_1_1effect_1_1_effect_instance.html#a6a6825da13f766d66608c6a45e94c5f6":[3,0,1,7,1,3,9],
 "dc/d2e/classpocketmine_1_1entity_1_1effect_1_1_effect_instance.html#a7ae43169440557ead44ffbc8a9612cc2":[3,0,1,7,1,3,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX189 =
 "dc/d4a/classpocketmine_1_1block_1_1_farmland.html#a588080e805e50e4f97e1a3d256b8c11e":[3,0,1,0,104,14],
 "dc/d4a/classpocketmine_1_1block_1_1_farmland.html#a594b88ce5ad40ac5e78893b8aad800e8":[2,0,0,0,102,63],
 "dc/d4a/classpocketmine_1_1block_1_1_farmland.html#a594b88ce5ad40ac5e78893b8aad800e8":[3,0,1,0,104,63],
-"dc/d4a/classpocketmine_1_1block_1_1_farmland.html#a61654dd47140f3b53afe9bedd57d2798":[2,0,0,0,102,59],
-"dc/d4a/classpocketmine_1_1block_1_1_farmland.html#a61654dd47140f3b53afe9bedd57d2798":[3,0,1,0,104,59]
+"dc/d4a/classpocketmine_1_1block_1_1_farmland.html#a61654dd47140f3b53afe9bedd57d2798":[2,0,0,0,102,59]
 };

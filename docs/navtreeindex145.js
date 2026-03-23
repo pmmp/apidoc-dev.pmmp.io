@@ -1,5 +1,6 @@
 var NAVTREEINDEX145 =
 {
+"d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,115,58],
 "d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,117,58],
 "d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a09f4667329f89292dd319d56c4243b59":[2,0,0,0,115,30],
 "d9/d1a/classpocketmine_1_1block_1_1_frosted_ice.html#a09f4667329f89292dd319d56c4243b59":[3,0,1,0,117,30],
@@ -248,6 +249,5 @@ var NAVTREEINDEX145 =
 "d9/d1e/classpocketmine_1_1block_1_1_dried_kelp.html#add4d4fd4fecc779dee9c9f94b8a556e5":[3,0,1,0,95,5],
 "d9/d1e/classpocketmine_1_1block_1_1_dried_kelp.html#ade77e0b1fce7bdebceed4092b9c5c022":[2,0,0,0,93,33],
 "d9/d1e/classpocketmine_1_1block_1_1_dried_kelp.html#ade77e0b1fce7bdebceed4092b9c5c022":[3,0,1,0,95,33],
-"d9/d1e/classpocketmine_1_1block_1_1_dried_kelp.html#ae6f3cdb7eeee27448b561fa3f8323916":[2,0,0,0,93,48],
-"d9/d1e/classpocketmine_1_1block_1_1_dried_kelp.html#ae6f3cdb7eeee27448b561fa3f8323916":[3,0,1,0,95,48]
+"d9/d1e/classpocketmine_1_1block_1_1_dried_kelp.html#ae6f3cdb7eeee27448b561fa3f8323916":[2,0,0,0,93,48]
 };

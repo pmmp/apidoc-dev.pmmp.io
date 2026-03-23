@@ -1,5 +1,6 @@
 var NAVTREEINDEX213 =
 {
+"dd/d7b/classpocketmine_1_1item_1_1_shears.html#a444bab7a652a1dc604048e392f5887cd":[3,0,1,12,101,6],
 "dd/d7b/classpocketmine_1_1item_1_1_shears.html#a49a05b01faaaf071449c97060fe44926":[2,0,0,5,100,1],
 "dd/d7b/classpocketmine_1_1item_1_1_shears.html#a49a05b01faaaf071449c97060fe44926":[3,0,1,12,101,1],
 "dd/d7b/classpocketmine_1_1item_1_1_shears.html#a4a9aa55600bb30c4d55ad63337874a07":[2,0,0,5,100,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX213 =
 "dd/da8/classpocketmine_1_1item_1_1_firework_star.html#ac7e878537e8ea68cc0d4d565f9f25062":[2,0,0,5,47,44],
 "dd/da8/classpocketmine_1_1item_1_1_firework_star.html#ac7e878537e8ea68cc0d4d565f9f25062":[3,0,1,12,48,44],
 "dd/da8/classpocketmine_1_1item_1_1_firework_star.html#ad2d004e5063f6ca465ed956b024217b1":[2,0,0,5,47,28],
-"dd/da8/classpocketmine_1_1item_1_1_firework_star.html#ad2d004e5063f6ca465ed956b024217b1":[3,0,1,12,48,28],
-"dd/da8/classpocketmine_1_1item_1_1_firework_star.html#ad981d95fce9c8a14832dc5fabbf4f3e4":[2,0,0,5,47,24]
+"dd/da8/classpocketmine_1_1item_1_1_firework_star.html#ad2d004e5063f6ca465ed956b024217b1":[3,0,1,12,48,28]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX252 =
 {
+"df/de4/classpocketmine_1_1resourcepacks_1_1json_1_1_manifest_dependency_entry.html":[3,0,1,21,0,1],
 "df/de4/classpocketmine_1_1resourcepacks_1_1json_1_1_manifest_dependency_entry.html#a203c8d2c0ab418b4457dc594759078e8":[3,0,1,21,0,1,0],
 "df/de5/_corrupted_world_exception_8php_source.html":[4,0,1,25,1,0,1,1],
 "df/de7/_timings_record_8php_source.html":[4,0,1,21,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX252 =
 "df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a1ba680fdef8ef3e5832322b56dc460f0":[3,0,1,22,2,0],
 "df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a3cf7454be9911ea585af23c81846c4f2":[2,0,0,11,2,2],
 "df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a3cf7454be9911ea585af23c81846c4f2":[3,0,1,22,2,2],
-"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a6db5fee11fc3b30c6ec45c62de8ee8dc":[2,0,0,11,2,4],
-"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a6db5fee11fc3b30c6ec45c62de8ee8dc":[3,0,1,22,2,4]
+"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a6db5fee11fc3b30c6ec45c62de8ee8dc":[2,0,0,11,2,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX243 =
 {
+"df/d75/classpocketmine_1_1item_1_1_beetroot_soup.html#aa807b0fa5751723fed80570a4de1231b":[2,0,0,5,11,48],
 "df/d75/classpocketmine_1_1item_1_1_beetroot_soup.html#aa807b0fa5751723fed80570a4de1231b":[3,0,1,12,12,48],
 "df/d75/classpocketmine_1_1item_1_1_beetroot_soup.html#aa8e6d5b0a8cc541423f4785fa3f4acdc":[2,0,0,5,11,9],
 "df/d75/classpocketmine_1_1item_1_1_beetroot_soup.html#aa8e6d5b0a8cc541423f4785fa3f4acdc":[3,0,1,12,12,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX243 =
 "df/d79/classpocketmine_1_1block_1_1_stonecutter.html#a57b1586e3b6d81440be1aa89471f2a2a":[2,0,0,0,228,54],
 "df/d79/classpocketmine_1_1block_1_1_stonecutter.html#a57b1586e3b6d81440be1aa89471f2a2a":[3,0,1,0,230,54],
 "df/d79/classpocketmine_1_1block_1_1_stonecutter.html#a588080e805e50e4f97e1a3d256b8c11e":[2,0,0,0,228,14],
-"df/d79/classpocketmine_1_1block_1_1_stonecutter.html#a588080e805e50e4f97e1a3d256b8c11e":[3,0,1,0,230,14],
-"df/d79/classpocketmine_1_1block_1_1_stonecutter.html#a6201b0d5460ae6f3b5cee03197c9a94a":[2,0,0,0,228,39]
+"df/d79/classpocketmine_1_1block_1_1_stonecutter.html#a588080e805e50e4f97e1a3d256b8c11e":[3,0,1,0,230,14]
 };

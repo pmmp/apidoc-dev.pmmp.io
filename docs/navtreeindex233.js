@@ -1,5 +1,6 @@
 var NAVTREEINDEX233 =
 {
+"df/d01/classpocketmine_1_1block_1_1_simple_pillar.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,207,22],
 "df/d01/classpocketmine_1_1block_1_1_simple_pillar.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[3,0,1,0,209,22],
 "df/d01/classpocketmine_1_1block_1_1_simple_pillar.html#a286fc64348f13417dcb6106c2695911b":[2,0,0,0,207,2],
 "df/d01/classpocketmine_1_1block_1_1_simple_pillar.html#a286fc64348f13417dcb6106c2695911b":[3,0,1,0,209,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX233 =
 "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#ab0814959ce6f9aec51ba564a42662419":[3,0,1,0,18,23],
 "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,16,20],
 "df/d0b/classpocketmine_1_1block_1_1_base_sign.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,18,20],
-"df/d0b/classpocketmine_1_1block_1_1_base_sign.html#ab6b90601adfc9732893dcffe256514a9":[2,0,0,0,16,71],
-"df/d0b/classpocketmine_1_1block_1_1_base_sign.html#ab6b90601adfc9732893dcffe256514a9":[3,0,1,0,18,71]
+"df/d0b/classpocketmine_1_1block_1_1_base_sign.html#ab6b90601adfc9732893dcffe256514a9":[2,0,0,0,16,71]
 };

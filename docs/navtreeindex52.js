@@ -1,5 +1,6 @@
 var NAVTREEINDEX52 =
 {
+"d3/d87/classpocketmine_1_1item_1_1_golden_carrot.html#a95cfab40de7390593990a239f8e4af73":[2,0,0,5,57,13],
 "d3/d87/classpocketmine_1_1item_1_1_golden_carrot.html#a95cfab40de7390593990a239f8e4af73":[3,0,1,12,58,13],
 "d3/d87/classpocketmine_1_1item_1_1_golden_carrot.html#a9866a7ab362cec28252d67f6382a4ad4":[2,0,0,5,57,34],
 "d3/d87/classpocketmine_1_1item_1_1_golden_carrot.html#a9866a7ab362cec28252d67f6382a4ad4":[3,0,1,12,58,34],
@@ -248,6 +249,5 @@ var NAVTREEINDEX52 =
 "d3/da4/classpocketmine_1_1block_1_1_wooden_trapdoor.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[2,0,0,0,268,28],
 "d3/da4/classpocketmine_1_1block_1_1_wooden_trapdoor.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,270,28],
 "d3/da4/classpocketmine_1_1block_1_1_wooden_trapdoor.html#a8635dccd33641330c42129a61377b2fd":[2,0,0,0,268,35],
-"d3/da4/classpocketmine_1_1block_1_1_wooden_trapdoor.html#a8635dccd33641330c42129a61377b2fd":[3,0,1,0,270,35],
-"d3/da4/classpocketmine_1_1block_1_1_wooden_trapdoor.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,0,0,268,56]
+"d3/da4/classpocketmine_1_1block_1_1_wooden_trapdoor.html#a8635dccd33641330c42129a61377b2fd":[3,0,1,0,270,35]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX202 =
 {
+"dc/de1/classpocketmine_1_1item_1_1_food.html#a2ce778f940de9e172cd268f378893b8f":[3,0,1,12,51,15],
 "dc/de1/classpocketmine_1_1item_1_1_food.html#a2e7d9e107f4f24de4aabc19764dc7dc2":[2,0,0,5,50,18],
 "dc/de1/classpocketmine_1_1item_1_1_food.html#a2e7d9e107f4f24de4aabc19764dc7dc2":[3,0,1,12,51,18],
 "dc/de1/classpocketmine_1_1item_1_1_food.html#a2ee3936259ed3fd96fa07dcbcc4797c1":[2,0,0,5,50,25],
@@ -248,6 +249,5 @@ var NAVTREEINDEX202 =
 "dc/ded/classpocketmine_1_1scheduler_1_1_bulk_curl_task_operation.html#a92a4b5af0f89a81bdc982e4b86e0c586":[2,0,0,11,5,2],
 "dc/ded/classpocketmine_1_1scheduler_1_1_bulk_curl_task_operation.html#a92a4b5af0f89a81bdc982e4b86e0c586":[3,0,1,22,5,2],
 "dc/ded/classpocketmine_1_1world_1_1generator_1_1object_1_1_jungle_tree.html":[3,0,1,30,2,5,3],
-"dc/ded/classpocketmine_1_1world_1_1generator_1_1object_1_1_jungle_tree.html#a20921b82c8225806567fe17562e01035":[3,0,1,30,2,5,3,0],
-"dc/dee/_command_exception_8php_source.html":[4,0,1,1,1,0]
+"dc/ded/classpocketmine_1_1world_1_1generator_1_1object_1_1_jungle_tree.html#a20921b82c8225806567fe17562e01035":[3,0,1,30,2,5,3,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX115 =
 {
+"d7/d7d/classpocketmine_1_1event_1_1player_1_1_player_death_event.html#a28689b880b43c04fb5e58347fe027401":[3,0,1,9,3,10,8],
 "d7/d7d/classpocketmine_1_1event_1_1player_1_1_player_death_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,3,10,1],
 "d7/d7d/classpocketmine_1_1event_1_1player_1_1_player_death_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,3,10,1],
 "d7/d7d/classpocketmine_1_1event_1_1player_1_1_player_death_event.html#a67127e5a347cbcb747d171869fbc8b20":[2,0,0,3,3,10,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX115 =
 "d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a028afd613a6f42370ede9aec4c9796d6":[2,0,0,0,44,50],
 "d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a028afd613a6f42370ede9aec4c9796d6":[3,0,1,0,46,50],
 "d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a0b3308141b70900bea3f7ed7ba8365cf":[2,0,0,0,44,57],
-"d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a0b3308141b70900bea3f7ed7ba8365cf":[3,0,1,0,46,57],
-"d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,44,18]
+"d7/d9a/classpocketmine_1_1block_1_1_campfire.html#a0b3308141b70900bea3f7ed7ba8365cf":[3,0,1,0,46,57]
 };

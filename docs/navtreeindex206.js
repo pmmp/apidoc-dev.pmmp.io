@@ -1,5 +1,6 @@
 var NAVTREEINDEX206 =
 {
+"dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html#a9dd9484fe3ab1afcbd2627860e01973a":[3,0,1,12,100,49],
 "dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[2,0,0,5,99,10],
 "dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[3,0,1,12,100,10],
 "dd/d1a/classpocketmine_1_1item_1_1_rotten_flesh.html#aa27432059ecfd201a3cec74253b21fa9":[2,0,0,5,99,52],
@@ -248,6 +249,5 @@ var NAVTREEINDEX206 =
 "dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#a52cb090010442053fc1f5619a2fb90bf":[3,0,1,0,115,34],
 "dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#a57b1586e3b6d81440be1aa89471f2a2a":[2,0,0,0,113,53],
 "dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#a57b1586e3b6d81440be1aa89471f2a2a":[3,0,1,0,115,53],
-"dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#a588080e805e50e4f97e1a3d256b8c11e":[2,0,0,0,113,14],
-"dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#a588080e805e50e4f97e1a3d256b8c11e":[3,0,1,0,115,14]
+"dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#a588080e805e50e4f97e1a3d256b8c11e":[2,0,0,0,113,14]
 };

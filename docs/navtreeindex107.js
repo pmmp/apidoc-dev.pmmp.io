@@ -1,5 +1,6 @@
 var NAVTREEINDEX107 =
 {
+"d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#a568624515bba5ff57e21ec8c828ade56":[3,0,1,12,106,5],
 "d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#a576afe3c52a4eb7eeba3fc8c9eb40183":[2,0,0,5,105,4],
 "d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#a576afe3c52a4eb7eeba3fc8c9eb40183":[3,0,1,12,106,4],
 "d7/d11/classpocketmine_1_1item_1_1_splash_potion.html#a5b53d78436bbdb5d53102fda463be4e6":[2,0,0,5,105,51],
@@ -248,6 +249,5 @@ var NAVTREEINDEX107 =
 "d7/d1a/_player_bed_leave_event_8php_source.html":[4,0,1,7,3,1],
 "d7/d1a/classpocketmine_1_1data_1_1bedrock_1_1_goat_horn_type_id_map.html":[3,0,1,6,0,13],
 "d7/d1b/classpocketmine_1_1event_1_1entity_1_1_entity_effect_add_event.html":[2,0,0,3,1,11],
-"d7/d1b/classpocketmine_1_1event_1_1entity_1_1_entity_effect_add_event.html":[3,0,1,9,1,11],
-"d7/d1b/classpocketmine_1_1event_1_1entity_1_1_entity_effect_add_event.html#a107d17cfdf2aa4c247af1b2f5f7eaed3":[2,0,0,3,1,11,4]
+"d7/d1b/classpocketmine_1_1event_1_1entity_1_1_entity_effect_add_event.html":[3,0,1,9,1,11]
 };

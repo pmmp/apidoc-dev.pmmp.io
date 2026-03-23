@@ -1,5 +1,6 @@
 var NAVTREEINDEX131 =
 {
+"d8/d5a/classpocketmine_1_1block_1_1_chorus_flower.html#a75b16ca6e22355cf632466a969e79211":[3,0,1,0,61,41],
 "d8/d5a/classpocketmine_1_1block_1_1_chorus_flower.html#a771a30c30a36b0992f54c57dc63af10d":[2,0,0,0,59,40],
 "d8/d5a/classpocketmine_1_1block_1_1_chorus_flower.html#a771a30c30a36b0992f54c57dc63af10d":[3,0,1,0,61,40],
 "d8/d5a/classpocketmine_1_1block_1_1_chorus_flower.html#a8307fc850da5c3f36e9dfc7ce639fe55":[2,0,0,0,59,45],
@@ -248,6 +249,5 @@ var NAVTREEINDEX131 =
 "d8/d65/classpocketmine_1_1utils_1_1_server_exception.html":[3,0,1,28,20],
 "d8/d67/_double_tall_grass_8php_source.html":[4,0,1,0,93],
 "d8/d68/_floating_text_particle_8php_source.html":[4,0,1,25,4,14],
-"d8/d6a/classpocketmine_1_1world_1_1sound_1_1_firework_explosion_sound.html":[3,0,1,30,5,64],
-"d8/d6a/classpocketmine_1_1world_1_1sound_1_1_firework_explosion_sound.html#a807d205d08e6a5136cf6d89b72b65073":[3,0,1,30,5,64,0]
+"d8/d6a/classpocketmine_1_1world_1_1sound_1_1_firework_explosion_sound.html":[3,0,1,30,5,64]
 };

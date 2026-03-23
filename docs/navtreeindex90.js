@@ -1,5 +1,6 @@
 var NAVTREEINDEX90 =
 {
+"d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,83,17],
 "d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#aac6828efb885bc8fe0f8876728ddde5d":[2,0,0,0,81,34],
 "d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#aac6828efb885bc8fe0f8876728ddde5d":[3,0,1,0,83,34],
 "d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#aad121ffc31a225748d5bcc0e0752a9f0":[2,0,0,0,81,23],
@@ -248,6 +249,5 @@ var NAVTREEINDEX90 =
 "d6/d29/classpocketmine_1_1item_1_1_pufferfish.html#a27ef1db0d41125973529fb720b06a00d":[2,0,0,5,85,35],
 "d6/d29/classpocketmine_1_1item_1_1_pufferfish.html#a27ef1db0d41125973529fb720b06a00d":[3,0,1,12,86,35],
 "d6/d29/classpocketmine_1_1item_1_1_pufferfish.html#a2b35e6f346e5955b086fcc07ead985a7":[2,0,0,5,85,26],
-"d6/d29/classpocketmine_1_1item_1_1_pufferfish.html#a2b35e6f346e5955b086fcc07ead985a7":[3,0,1,12,86,26],
-"d6/d29/classpocketmine_1_1item_1_1_pufferfish.html#a2bcaa528592d9ae259e2e6d0b89f375d":[2,0,0,5,85,23]
+"d6/d29/classpocketmine_1_1item_1_1_pufferfish.html#a2b35e6f346e5955b086fcc07ead985a7":[3,0,1,12,86,26]
 };

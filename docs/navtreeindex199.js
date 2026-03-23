@@ -1,5 +1,6 @@
 var NAVTREEINDEX199 =
 {
+"dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs.html#a286fc64348f13417dcb6106c2695911b":[2,0,0,0,267,2],
 "dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs.html#a286fc64348f13417dcb6106c2695911b":[3,0,1,0,269,2],
 "dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs.html#a29de0ee0759d77d0295937cbd76c8db5":[2,0,0,0,267,8],
 "dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs.html#a29de0ee0759d77d0295937cbd76c8db5":[3,0,1,0,269,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX199 =
 "dc/dc1/classpocketmine_1_1block_1_1_redstone_comparator.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[2,0,0,0,191,54],
 "dc/dc1/classpocketmine_1_1block_1_1_redstone_comparator.html#aecdd2a95b05e843b6ffb66ee2dd8fa4b":[3,0,1,0,193,54],
 "dc/dc1/classpocketmine_1_1block_1_1_redstone_comparator.html#af85e45eff3ed9638a49da08745b5244e":[2,0,0,0,191,48],
-"dc/dc1/classpocketmine_1_1block_1_1_redstone_comparator.html#af85e45eff3ed9638a49da08745b5244e":[3,0,1,0,193,48],
-"dc/dc1/classpocketmine_1_1block_1_1_redstone_comparator.html#afa0e08fa7c894cf623c630db6a4a3a91":[2,0,0,0,191,61]
+"dc/dc1/classpocketmine_1_1block_1_1_redstone_comparator.html#af85e45eff3ed9638a49da08745b5244e":[3,0,1,0,193,48]
 };

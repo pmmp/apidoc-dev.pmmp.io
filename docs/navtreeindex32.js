@@ -1,5 +1,6 @@
 var NAVTREEINDEX32 =
 {
+"d2/d0c/classpocketmine_1_1block_1_1_cartography_table.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[2,0,0,0,48,28],
 "d2/d0c/classpocketmine_1_1block_1_1_cartography_table.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,50,28],
 "d2/d0c/classpocketmine_1_1block_1_1_cartography_table.html#a8635dccd33641330c42129a61377b2fd":[2,0,0,0,48,35],
 "d2/d0c/classpocketmine_1_1block_1_1_cartography_table.html#a8635dccd33641330c42129a61377b2fd":[3,0,1,0,50,35],
@@ -248,6 +249,5 @@ var NAVTREEINDEX32 =
 "d2/d16/classpocketmine_1_1snooze_1_1_sleeper_notifier.html":[3,0,1,23,2],
 "d2/d16/classpocketmine_1_1snooze_1_1_sleeper_notifier.html#a8795ca6aa6db11299f7aac28eb86c0fd":[3,0,1,23,2,0],
 "d2/d18/_item_stack_wrapper_8php_source.html":[4,0,2,0,1,0,1,5,14],
-"d2/d19/_string_tag_8php_source.html":[4,0,2,0,8,0,0,13],
-"d2/d19/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_client_cache_miss_response_packet.html":[3,0,1,16,0,6,47]
+"d2/d19/_string_tag_8php_source.html":[4,0,2,0,8,0,0,13]
 };

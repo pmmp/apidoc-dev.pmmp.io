@@ -1,5 +1,6 @@
 var NAVTREEINDEX168 =
 {
+"da/dba/classpocketmine_1_1block_1_1_wooden_button.html#adc7b2fcbcc10f046b1cbcafdd0858863":[2,0,0,0,262,1],
 "da/dba/classpocketmine_1_1block_1_1_wooden_button.html#adc7b2fcbcc10f046b1cbcafdd0858863":[3,0,1,0,264,1],
 "da/dba/classpocketmine_1_1block_1_1_wooden_button.html#add4d4fd4fecc779dee9c9f94b8a556e5":[2,0,0,0,262,5],
 "da/dba/classpocketmine_1_1block_1_1_wooden_button.html#add4d4fd4fecc779dee9c9f94b8a556e5":[3,0,1,0,264,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX168 =
 "da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,245,4],
 "da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,247,4],
 "da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#aa4773f0153324728a2f41820fa52442d":[2,0,0,0,245,17],
-"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,247,17],
-"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#aac6828efb885bc8fe0f8876728ddde5d":[2,0,0,0,245,34]
+"da/dd1/classpocketmine_1_1block_1_1_underwater_torch.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,247,17]
 };

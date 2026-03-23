@@ -1,5 +1,6 @@
 var NAVTREEINDEX8 =
 {
+"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#aac6828efb885bc8fe0f8876728ddde5d":[2,0,0,0,55,34],
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#aac6828efb885bc8fe0f8876728ddde5d":[3,0,1,0,57,34],
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#aad121ffc31a225748d5bcc0e0752a9f0":[2,0,0,0,55,23],
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#aad121ffc31a225748d5bcc0e0752a9f0":[3,0,1,0,57,23],
@@ -248,6 +249,5 @@ var NAVTREEINDEX8 =
 "d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html#a27ef1db0d41125973529fb720b06a00d":[2,0,0,5,42,32],
 "d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html#a27ef1db0d41125973529fb720b06a00d":[3,0,1,12,43,32],
 "d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html#a2b35e6f346e5955b086fcc07ead985a7":[2,0,0,5,42,24],
-"d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html#a2b35e6f346e5955b086fcc07ead985a7":[3,0,1,12,43,24],
-"d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html#a2bcaa528592d9ae259e2e6d0b89f375d":[2,0,0,5,42,21]
+"d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html#a2b35e6f346e5955b086fcc07ead985a7":[3,0,1,12,43,24]
 };

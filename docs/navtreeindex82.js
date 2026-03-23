@@ -1,5 +1,6 @@
 var NAVTREEINDEX82 =
 {
+"d5/d84/classpocketmine_1_1block_1_1_netherrack.html#a444028c60ad6c7afacda1a6cc3065e59":[3,0,1,0,167,13],
 "d5/d84/classpocketmine_1_1block_1_1_netherrack.html#a49395de82d025ca78745a17528049f18":[2,0,0,0,165,52],
 "d5/d84/classpocketmine_1_1block_1_1_netherrack.html#a49395de82d025ca78745a17528049f18":[3,0,1,0,167,52],
 "d5/d84/classpocketmine_1_1block_1_1_netherrack.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[2,0,0,0,165,36],
@@ -248,6 +249,5 @@ var NAVTREEINDEX82 =
 "d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html#a47e78434ab3294753bc42572711b3d49":[3,0,1,7,1,7,7],
 "d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html#a4a92a706458552d67002dd5761106442":[3,0,1,7,1,7,3],
 "d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html#a6a3d10360dbcd001a11f3531e3a5234f":[3,0,1,7,1,7,6],
-"d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html#a6f10244e47d1979de4b4b92a84033ef6":[3,0,1,7,1,7,4],
-"d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html#a73cf76481b94b56fcbb5ea04b5c29293":[3,0,1,7,1,7,0]
+"d5/d8c/classpocketmine_1_1entity_1_1effect_1_1_instant_damage_effect.html#a6f10244e47d1979de4b4b92a84033ef6":[3,0,1,7,1,7,4]
 };

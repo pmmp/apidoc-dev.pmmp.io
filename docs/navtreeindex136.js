@@ -1,5 +1,6 @@
 var NAVTREEINDEX136 =
 {
+"d8/da8/classpocketmine_1_1world_1_1biome_1_1_mountains_biome.html":[3,0,1,30,0,8],
 "d8/da8/classpocketmine_1_1world_1_1biome_1_1_mountains_biome.html#a1c38e48a1e0afd5ca3362760e5deea21":[3,0,1,30,0,8,2],
 "d8/da8/classpocketmine_1_1world_1_1biome_1_1_mountains_biome.html#a3bd95c376c2ca535cb932b700bde38dc":[3,0,1,30,0,8,0],
 "d8/da8/classpocketmine_1_1world_1_1biome_1_1_mountains_biome.html#aee779e604579f71977cc5624dc8dfd0f":[3,0,1,30,0,8,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX136 =
 "d8/db2/classpocketmine_1_1block_1_1_pumpkin.html#aad121ffc31a225748d5bcc0e0752a9f0":[2,0,0,0,185,23],
 "d8/db2/classpocketmine_1_1block_1_1_pumpkin.html#aad121ffc31a225748d5bcc0e0752a9f0":[3,0,1,0,187,23],
 "d8/db2/classpocketmine_1_1block_1_1_pumpkin.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[2,0,0,0,185,31],
-"d8/db2/classpocketmine_1_1block_1_1_pumpkin.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,187,31],
-"d8/db2/classpocketmine_1_1block_1_1_pumpkin.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,185,19]
+"d8/db2/classpocketmine_1_1block_1_1_pumpkin.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,187,31]
 };

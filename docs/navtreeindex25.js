@@ -1,5 +1,6 @@
 var NAVTREEINDEX25 =
 {
+"d1/d98/_cancellable_trait_8php_source.html":[4,0,1,7,8],
 "d1/d99/_bucket_empty_lava_sound_8php_source.html":[4,0,1,25,5,23],
 "d1/d99/namespacepocketmine_1_1world_1_1generator_1_1populator.html":[2,0,0,14,0,1],
 "d1/d9a/_score_packet_entry_8php_source.html":[4,0,2,0,1,0,1,96],
@@ -248,6 +249,5 @@ var NAVTREEINDEX25 =
 "d1/d9d/classpocketmine_1_1block_1_1_copper_lantern.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,76,51],
 "d1/d9d/classpocketmine_1_1block_1_1_copper_lantern.html#acb449b40461f4800cf6e6288cb9a069d":[2,0,0,0,74,0],
 "d1/d9d/classpocketmine_1_1block_1_1_copper_lantern.html#acb449b40461f4800cf6e6288cb9a069d":[3,0,1,0,76,0],
-"d1/d9d/classpocketmine_1_1block_1_1_copper_lantern.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,74,24],
-"d1/d9d/classpocketmine_1_1block_1_1_copper_lantern.html#acb7cc5bba94398c6a329b3b2af8fa859":[3,0,1,0,76,24]
+"d1/d9d/classpocketmine_1_1block_1_1_copper_lantern.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,74,24]
 };

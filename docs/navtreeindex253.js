@@ -1,5 +1,6 @@
 var NAVTREEINDEX253 =
 {
+"df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#a6db5fee11fc3b30c6ec45c62de8ee8dc":[3,0,1,22,2,4],
 "df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#aa5a040d7bd6023185e91387c526f8527":[2,0,0,11,2,1],
 "df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#aa5a040d7bd6023185e91387c526f8527":[3,0,1,22,2,1],
 "df/dfa/classpocketmine_1_1scheduler_1_1_async_task.html#ad5e0edb131fe81a8b68e64c70ba06d2b":[2,0,0,11,2,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX253 =
 "functions_vars_p.html":[3,3,2,13],
 "functions_vars_r.html":[3,3,2,14],
 "functions_vars_s.html":[3,3,2,15],
-"functions_vars_t.html":[3,3,2,16],
-"functions_vars_u.html":[3,3,2,17]
+"functions_vars_t.html":[3,3,2,16]
 };

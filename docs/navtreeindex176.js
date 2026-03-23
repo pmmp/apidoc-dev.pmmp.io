@@ -1,5 +1,6 @@
 var NAVTREEINDEX176 =
 {
+"db/d4e/classpocketmine_1_1event_1_1player_1_1_player_bed_leave_event.html":[3,0,1,9,3,1],
 "db/d4e/classpocketmine_1_1event_1_1player_1_1_player_bed_leave_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,3,1,0],
 "db/d4e/classpocketmine_1_1event_1_1player_1_1_player_bed_leave_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,3,1,0],
 "db/d4e/classpocketmine_1_1event_1_1player_1_1_player_bed_leave_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,0,3,3,1,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX176 =
 "db/d85/classpocketmine_1_1item_1_1_armor.html#aa27432059ecfd201a3cec74253b21fa9":[3,0,1,12,2,58],
 "db/d85/classpocketmine_1_1item_1_1_armor.html#aa5b25ca5ca654d86f6274e85b1fb7ba8":[2,0,0,5,1,29],
 "db/d85/classpocketmine_1_1item_1_1_armor.html#aa5b25ca5ca654d86f6274e85b1fb7ba8":[3,0,1,12,2,29],
-"db/d85/classpocketmine_1_1item_1_1_armor.html#aa807b0fa5751723fed80570a4de1231b":[2,0,0,5,1,53],
-"db/d85/classpocketmine_1_1item_1_1_armor.html#aa807b0fa5751723fed80570a4de1231b":[3,0,1,12,2,53]
+"db/d85/classpocketmine_1_1item_1_1_armor.html#aa807b0fa5751723fed80570a4de1231b":[2,0,0,5,1,53]
 };

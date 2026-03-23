@@ -1,5 +1,6 @@
 var NAVTREEINDEX44 =
 {
+"d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,72,51],
 "d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#acb449b40461f4800cf6e6288cb9a069d":[2,0,0,0,70,0],
 "d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#acb449b40461f4800cf6e6288cb9a069d":[3,0,1,0,72,0],
 "d2/de7/classpocketmine_1_1block_1_1_copper_bulb.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,70,24],
@@ -248,6 +249,5 @@ var NAVTREEINDEX44 =
 "d3/d00/classpocketmine_1_1item_1_1_potion.html#a2b35e6f346e5955b086fcc07ead985a7":[2,0,0,5,83,26],
 "d3/d00/classpocketmine_1_1item_1_1_potion.html#a2b35e6f346e5955b086fcc07ead985a7":[3,0,1,12,84,26],
 "d3/d00/classpocketmine_1_1item_1_1_potion.html#a2bcaa528592d9ae259e2e6d0b89f375d":[2,0,0,5,83,23],
-"d3/d00/classpocketmine_1_1item_1_1_potion.html#a2bcaa528592d9ae259e2e6d0b89f375d":[3,0,1,12,84,23],
-"d3/d00/classpocketmine_1_1item_1_1_potion.html#a2ce778f940de9e172cd268f378893b8f":[2,0,0,5,83,15]
+"d3/d00/classpocketmine_1_1item_1_1_potion.html#a2bcaa528592d9ae259e2e6d0b89f375d":[3,0,1,12,84,23]
 };

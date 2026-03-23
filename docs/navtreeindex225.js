@@ -1,5 +1,6 @@
 var NAVTREEINDEX225 =
 {
+"de/d45/classpocketmine_1_1item_1_1_cooked_chicken.html#a7d45886d40860e24fb4c18d02a3d1a32":[3,0,1,12,28,16],
 "de/d45/classpocketmine_1_1item_1_1_cooked_chicken.html#a8e97e9296238bf8794a2d2f8e94e8a93":[2,0,0,5,27,53],
 "de/d45/classpocketmine_1_1item_1_1_cooked_chicken.html#a8e97e9296238bf8794a2d2f8e94e8a93":[3,0,1,12,28,53],
 "de/d45/classpocketmine_1_1item_1_1_cooked_chicken.html#a95cfab40de7390593990a239f8e4af73":[2,0,0,5,27,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX225 =
 "de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,77,65],
 "de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,75,38],
 "de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,77,38],
-"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,75,7],
-"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,77,7]
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,75,7]
 };

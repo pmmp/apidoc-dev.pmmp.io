@@ -1,5 +1,6 @@
 var NAVTREEINDEX7 =
 {
+"d0/d97/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_lectern_update_packet.html#ac135607dd7951e4596cdd8f3af2e36b0":[3,0,1,16,0,6,94,5],
 "d0/d97/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_lectern_update_packet.html#ac96358bb5d1d9ff91fd0d12d8883f4a3":[3,0,1,16,0,6,94,4],
 "d0/d98/_entity_effect_add_event_8php_source.html":[4,0,1,7,1,11],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html":[2,0,0,0,265],
@@ -248,6 +249,5 @@ var NAVTREEINDEX7 =
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,55,4],
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,57,4],
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#aa4773f0153324728a2f41820fa52442d":[2,0,0,0,55,17],
-"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,57,17],
-"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#aac6828efb885bc8fe0f8876728ddde5d":[2,0,0,0,55,34]
+"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,57,17]
 };

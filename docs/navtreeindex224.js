@@ -1,5 +1,6 @@
 var NAVTREEINDEX224 =
 {
+"de/d3a/classpocketmine_1_1event_1_1block_1_1_block_break_event.html":[2,0,0,3,0,1],
 "de/d3a/classpocketmine_1_1event_1_1block_1_1_block_break_event.html":[3,0,1,9,0,1],
 "de/d3a/classpocketmine_1_1event_1_1block_1_1_block_break_event.html#a05ff135368c8571061bf1308acb03375":[2,0,0,3,0,1,11],
 "de/d3a/classpocketmine_1_1event_1_1block_1_1_block_break_event.html#a05ff135368c8571061bf1308acb03375":[3,0,1,9,0,1,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX224 =
 "de/d45/classpocketmine_1_1item_1_1_cooked_chicken.html#a71289362f9d561347b5c8c2717eb0512":[3,0,1,12,28,42],
 "de/d45/classpocketmine_1_1item_1_1_cooked_chicken.html#a7b5c1e7e496c3077658212aaacec4b56":[2,0,0,5,27,17],
 "de/d45/classpocketmine_1_1item_1_1_cooked_chicken.html#a7b5c1e7e496c3077658212aaacec4b56":[3,0,1,12,28,17],
-"de/d45/classpocketmine_1_1item_1_1_cooked_chicken.html#a7d45886d40860e24fb4c18d02a3d1a32":[2,0,0,5,27,16],
-"de/d45/classpocketmine_1_1item_1_1_cooked_chicken.html#a7d45886d40860e24fb4c18d02a3d1a32":[3,0,1,12,28,16]
+"de/d45/classpocketmine_1_1item_1_1_cooked_chicken.html#a7d45886d40860e24fb4c18d02a3d1a32":[2,0,0,5,27,16]
 };

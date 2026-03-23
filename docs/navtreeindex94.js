@@ -1,5 +1,6 @@
 var NAVTREEINDEX94 =
 {
+"d6/d60/classpocketmine_1_1block_1_1_element.html#a6d3cefce63d654d994f2e1b5dcc11c54":[3,0,1,0,98,20],
 "d6/d60/classpocketmine_1_1block_1_1_element.html#a75b16ca6e22355cf632466a969e79211":[2,0,0,0,96,41],
 "d6/d60/classpocketmine_1_1block_1_1_element.html#a75b16ca6e22355cf632466a969e79211":[3,0,1,0,98,41],
 "d6/d60/classpocketmine_1_1block_1_1_element.html#a771a30c30a36b0992f54c57dc63af10d":[2,0,0,0,96,40],
@@ -248,6 +249,5 @@ var NAVTREEINDEX94 =
 "d6/d70/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_structure_template_data_response_packet.html#ac96358bb5d1d9ff91fd0d12d8883f4a3":[3,0,1,16,0,6,203,4],
 "d6/d72/_lab_table_packet_8php_source.html":[4,0,2,0,1,0,93],
 "d6/d74/classpocketmine_1_1item_1_1_sword.html":[2,0,0,5,113],
-"d6/d74/classpocketmine_1_1item_1_1_sword.html":[3,0,1,12,114],
-"d6/d74/classpocketmine_1_1item_1_1_sword.html#a0a422a89abd427286bc2f312100f968c":[2,0,0,5,113,34]
+"d6/d74/classpocketmine_1_1item_1_1_sword.html":[3,0,1,12,114]
 };

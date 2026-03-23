@@ -1,5 +1,6 @@
 var NAVTREEINDEX203 =
 {
+"dc/dee/_command_exception_8php_source.html":[4,0,1,1,1,0],
 "dc/dee/_entity_damage_event_8php_source.html":[4,0,1,7,1,8],
 "dc/dee/_permission_parser_8php_source.html":[4,0,1,13,12],
 "dc/dee/_player_kick_event_8php_source.html":[4,0,1,7,3,30],
@@ -248,6 +249,5 @@ var NAVTREEINDEX203 =
 "dc/dff/classpocketmine_1_1item_1_1_redstone.html#a71289362f9d561347b5c8c2717eb0512":[3,0,1,12,98,38],
 "dc/dff/classpocketmine_1_1item_1_1_redstone.html#a7b5c1e7e496c3077658212aaacec4b56":[2,0,0,5,97,15],
 "dc/dff/classpocketmine_1_1item_1_1_redstone.html#a7b5c1e7e496c3077658212aaacec4b56":[3,0,1,12,98,15],
-"dc/dff/classpocketmine_1_1item_1_1_redstone.html#a7d45886d40860e24fb4c18d02a3d1a32":[2,0,0,5,97,14],
-"dc/dff/classpocketmine_1_1item_1_1_redstone.html#a7d45886d40860e24fb4c18d02a3d1a32":[3,0,1,12,98,14]
+"dc/dff/classpocketmine_1_1item_1_1_redstone.html#a7d45886d40860e24fb4c18d02a3d1a32":[2,0,0,5,97,14]
 };

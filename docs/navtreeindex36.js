@@ -1,5 +1,6 @@
 var NAVTREEINDEX36 =
 {
+"d2/d57/classpocketmine_1_1item_1_1_glass_bottle.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[2,0,0,5,52,3],
 "d2/d57/classpocketmine_1_1item_1_1_glass_bottle.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[3,0,1,12,53,3],
 "d2/d57/classpocketmine_1_1item_1_1_glass_bottle.html#a9dd9484fe3ab1afcbd2627860e01973a":[2,0,0,5,52,44],
 "d2/d57/classpocketmine_1_1item_1_1_glass_bottle.html#a9dd9484fe3ab1afcbd2627860e01973a":[3,0,1,12,53,44],
@@ -248,6 +249,5 @@ var NAVTREEINDEX36 =
 "d2/d6d/classpocketmine_1_1block_1_1_sea_lantern.html#a3a46169e7d256b3a1f3af8c54ddba832":[2,0,0,0,204,62],
 "d2/d6d/classpocketmine_1_1block_1_1_sea_lantern.html#a3a46169e7d256b3a1f3af8c54ddba832":[3,0,1,0,206,62],
 "d2/d6d/classpocketmine_1_1block_1_1_sea_lantern.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,0,0,204,10],
-"d2/d6d/classpocketmine_1_1block_1_1_sea_lantern.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,206,10],
-"d2/d6d/classpocketmine_1_1block_1_1_sea_lantern.html#a42ef37e3fb946a19f3d0b0da95bbcce1":[2,0,0,0,204,20]
+"d2/d6d/classpocketmine_1_1block_1_1_sea_lantern.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,206,10]
 };

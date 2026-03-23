@@ -1,5 +1,6 @@
 var NAVTREEINDEX109 =
 {
+"d7/d26/classpocketmine_1_1block_1_1_stained_glass.html#a6201b0d5460ae6f3b5cee03197c9a94a":[2,0,0,0,220,39],
 "d7/d26/classpocketmine_1_1block_1_1_stained_glass.html#a6201b0d5460ae6f3b5cee03197c9a94a":[3,0,1,0,222,39],
 "d7/d26/classpocketmine_1_1block_1_1_stained_glass.html#a75b16ca6e22355cf632466a969e79211":[2,0,0,0,220,41],
 "d7/d26/classpocketmine_1_1block_1_1_stained_glass.html#a75b16ca6e22355cf632466a969e79211":[3,0,1,0,222,41],
@@ -248,6 +249,5 @@ var NAVTREEINDEX109 =
 "d7/d2a/classpocketmine_1_1entity_1_1object_1_1_firework_rocket.html#a4101d0cffe7303801b827969c461ed8b":[3,0,1,7,2,4,6],
 "d7/d2a/classpocketmine_1_1entity_1_1object_1_1_firework_rocket.html#a4b1a5210337efa1cbc001cd937cc6723":[3,0,1,7,2,4,42],
 "d7/d2a/classpocketmine_1_1entity_1_1object_1_1_firework_rocket.html#a53b0d6d1b15c35b58e83c959ffec384c":[3,0,1,7,2,4,4],
-"d7/d2a/classpocketmine_1_1entity_1_1object_1_1_firework_rocket.html#a5661f8a252c5324dd54ed3534ab47a6b":[3,0,1,7,2,4,53],
-"d7/d2a/classpocketmine_1_1entity_1_1object_1_1_firework_rocket.html#a5a122ae10d347948d919332654042417":[3,0,1,7,2,4,34]
+"d7/d2a/classpocketmine_1_1entity_1_1object_1_1_firework_rocket.html#a5661f8a252c5324dd54ed3534ab47a6b":[3,0,1,7,2,4,53]
 };

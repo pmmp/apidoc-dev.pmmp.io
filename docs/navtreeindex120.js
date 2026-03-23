@@ -1,5 +1,6 @@
 var NAVTREEINDEX120 =
 {
+"d7/de2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_container_open_packet.html#ac96358bb5d1d9ff91fd0d12d8883f4a3":[3,0,1,16,0,6,59,3],
 "d7/de2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_container_open_packet.html#af8dab06df06b60a102d75d11dcd47135":[3,0,1,16,0,6,59,5],
 "d7/de2/update-from-bedrock-data_8php_source.html":[4,0,2,0,1,1,5],
 "d7/de3/classpocketmine_1_1utils_1_1_broadcast_logger_forwarder.html":[2,0,0,12,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX120 =
 "d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#a75b16ca6e22355cf632466a969e79211":[2,0,0,0,137,41],
 "d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#a75b16ca6e22355cf632466a969e79211":[3,0,1,0,139,41],
 "d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#a771a30c30a36b0992f54c57dc63af10d":[2,0,0,0,137,40],
-"d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#a771a30c30a36b0992f54c57dc63af10d":[3,0,1,0,139,40],
-"d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#a7af6d4eb38119f51cc3844c8e3df70b7":[2,0,0,0,137,20]
+"d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#a771a30c30a36b0992f54c57dc63af10d":[3,0,1,0,139,40]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX198 =
 {
+"dc/db5/classpocketmine_1_1block_1_1_base_banner.html#a94d7b31db84d6ac161d1864fc7e9587b":[2,0,0,0,9,64],
 "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#a94d7b31db84d6ac161d1864fc7e9587b":[3,0,1,0,11,64],
 "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,9,39],
 "dc/db5/classpocketmine_1_1block_1_1_base_banner.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,11,39],
@@ -248,6 +249,5 @@ var NAVTREEINDEX198 =
 "dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,267,3],
 "dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,269,3],
 "dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,267,22],
-"dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[3,0,1,0,269,22],
-"dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs.html#a286fc64348f13417dcb6106c2695911b":[2,0,0,0,267,2]
+"dc/dc0/classpocketmine_1_1block_1_1_wooden_stairs.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[3,0,1,0,269,22]
 };

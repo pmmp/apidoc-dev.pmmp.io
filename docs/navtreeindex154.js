@@ -1,5 +1,6 @@
 var NAVTREEINDEX154 =
 {
+"d9/d9d/classpocketmine_1_1block_1_1_nylium.html#a88017a7eecc3ba93f317e54e19751feb":[3,0,1,0,174,51],
 "d9/d9d/classpocketmine_1_1block_1_1_nylium.html#a8a733c2fe564a205938a9146c8b0e0f1":[2,0,0,0,172,64],
 "d9/d9d/classpocketmine_1_1block_1_1_nylium.html#a8a733c2fe564a205938a9146c8b0e0f1":[3,0,1,0,174,64],
 "d9/d9d/classpocketmine_1_1block_1_1_nylium.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,172,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX154 =
 "d9/db1/classpocketmine_1_1item_1_1_medicine.html#aa8f16ccef7f24435bc1fd68e64fade00":[2,0,0,5,71,38],
 "d9/db1/classpocketmine_1_1item_1_1_medicine.html#aa8f16ccef7f24435bc1fd68e64fade00":[3,0,1,12,72,38],
 "d9/db1/classpocketmine_1_1item_1_1_medicine.html#aaaf34960605ca5fc0bcd7ce31f9e9e50":[2,0,0,5,71,5],
-"d9/db1/classpocketmine_1_1item_1_1_medicine.html#aaaf34960605ca5fc0bcd7ce31f9e9e50":[3,0,1,12,72,5],
-"d9/db1/classpocketmine_1_1item_1_1_medicine.html#aabd7c38d2f74e537da5bcc6149570fd8":[2,0,0,5,71,19]
+"d9/db1/classpocketmine_1_1item_1_1_medicine.html#aaaf34960605ca5fc0bcd7ce31f9e9e50":[3,0,1,12,72,5]
 };

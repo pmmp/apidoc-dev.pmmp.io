@@ -125,6 +125,7 @@ var classpocketmine_1_1player_1_1_player =
     [ "processMostRecentMovements", "d0/d6f/classpocketmine_1_1player_1_1_player.html#a24fa3c9e7e30f7cc9982df105c6304cf", null ],
     [ "recalculatePermissions", "d0/d6f/classpocketmine_1_1player_1_1_player.html#a481d2f2b49d22a23cacc71576d73ecb5", null ],
     [ "releaseHeldItem", "d0/d6f/classpocketmine_1_1player_1_1_player.html#a928c4f8f8f2eb1ccfeaf92b0fb39fe1a", null ],
+    [ "removeItemCooldown", "d0/d6f/classpocketmine_1_1player_1_1_player.html#ad4a763c33387f000d70f34f5fb1de02e", null ],
     [ "removeTitles", "d0/d6f/classpocketmine_1_1player_1_1_player.html#a05e5edc8b2a8ad2903436a94adc346e4", null ],
     [ "requestChunks", "d0/d6f/classpocketmine_1_1player_1_1_player.html#a8d849ea2ecf3b98bbc39efdb6f4bb57c", null ],
     [ "resetItemCooldown", "d0/d6f/classpocketmine_1_1player_1_1_player.html#a98753efdcfb0c381329ddaddf7d06ba5", null ],

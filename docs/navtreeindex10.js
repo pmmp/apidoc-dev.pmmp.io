@@ -1,5 +1,6 @@
 var NAVTREEINDEX10 =
 {
+"d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,169,44],
 "d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#a43e3458847422ebd5dec6c914b443c93":[3,0,1,0,171,44],
 "d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#a444028c60ad6c7afacda1a6cc3065e59":[2,0,0,0,169,13],
 "d0/dbe/classpocketmine_1_1block_1_1_nether_vines.html#a444028c60ad6c7afacda1a6cc3065e59":[3,0,1,0,171,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX10 =
 "d0/dbf/classpocketmine_1_1item_1_1enchantment_1_1_vanilla_enchantments_inputs.html#ae43fd482b1e5df9f8ea72bc632b7fe43":[3,0,1,12,0,17,1],
 "d0/dc0/classpocketmine_1_1world_1_1sound_1_1_cauldron_empty_lava_sound.html":[3,0,1,30,5,32],
 "d0/dc0/classpocketmine_1_1world_1_1sound_1_1_cauldron_empty_lava_sound.html#a44baa44c00b02a19143fec87d09b475b":[3,0,1,30,5,32,0],
-"d0/dc1/_attribute_modifier_8php_source.html":[4,0,2,0,1,0,1,3,1],
-"d0/dc1/classpocketmine_1_1block_1_1tile_1_1_lectern.html":[2,0,0,0,0,23]
+"d0/dc1/_attribute_modifier_8php_source.html":[4,0,2,0,1,0,1,3,1]
 };

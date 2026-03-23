@@ -1,5 +1,6 @@
 var NAVTREEINDEX74 =
 {
+"d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a67b44433c553602d7c851b1ca23e6e5e":[3,0,1,12,82,44],
 "d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a71289362f9d561347b5c8c2717eb0512":[2,0,0,5,81,42],
 "d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a71289362f9d561347b5c8c2717eb0512":[3,0,1,12,82,42],
 "d4/dfa/classpocketmine_1_1item_1_1_poisonous_potato.html#a7b5c1e7e496c3077658212aaacec4b56":[2,0,0,5,81,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX74 =
 "d5/d0c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_local_player_as_initialized_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,183,1],
 "d5/d0c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_local_player_as_initialized_packet.html#ac96358bb5d1d9ff91fd0d12d8883f4a3":[3,0,1,16,0,6,183,4],
 "d5/d0c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_set_local_player_as_initialized_packet.html#afbe04183be7712e196559417e9ef8bc9":[3,0,1,16,0,6,183,6],
-"d5/d0d/_entity_effect_event_8php_source.html":[4,0,1,7,1,12],
-"d5/d0f/_cauldron_dye_item_sound_8php_source.html":[4,0,1,25,5,31]
+"d5/d0d/_entity_effect_event_8php_source.html":[4,0,1,7,1,12]
 };

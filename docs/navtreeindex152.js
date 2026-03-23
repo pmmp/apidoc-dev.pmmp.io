@@ -1,5 +1,6 @@
 var NAVTREEINDEX152 =
 {
+"d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a4b1a5210337efa1cbc001cd937cc6723":[3,0,1,7,25,62],
 "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a4e8978f8b3b0896c5279379b1b950099":[2,0,0,2,20,74],
 "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a4e8978f8b3b0896c5279379b1b950099":[3,0,1,7,25,74],
 "d9/d6b/classpocketmine_1_1entity_1_1_villager.html#a51f179f6856625792527dd3c2b201003":[2,0,0,2,20,52],
@@ -248,6 +249,5 @@ var NAVTREEINDEX152 =
 "d9/d7d/classpocketmine_1_1item_1_1_spawn_egg.html#ad2d004e5063f6ca465ed956b024217b1":[3,0,1,12,104,26],
 "d9/d7d/classpocketmine_1_1item_1_1_spawn_egg.html#ad981d95fce9c8a14832dc5fabbf4f3e4":[2,0,0,5,103,22],
 "d9/d7d/classpocketmine_1_1item_1_1_spawn_egg.html#ad981d95fce9c8a14832dc5fabbf4f3e4":[3,0,1,12,104,22],
-"d9/d7d/classpocketmine_1_1item_1_1_spawn_egg.html#adfaf9728336726192e1499e47cf7ae1d":[2,0,0,5,103,41],
-"d9/d7d/classpocketmine_1_1item_1_1_spawn_egg.html#adfaf9728336726192e1499e47cf7ae1d":[3,0,1,12,104,41]
+"d9/d7d/classpocketmine_1_1item_1_1_spawn_egg.html#adfaf9728336726192e1499e47cf7ae1d":[2,0,0,5,103,41]
 };

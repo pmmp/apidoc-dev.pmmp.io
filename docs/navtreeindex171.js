@@ -1,5 +1,6 @@
 var NAVTREEINDEX171 =
 {
+"da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html#ade77e0b1fce7bdebceed4092b9c5c022":[3,0,1,0,80,33],
 "da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html#ae3137e6ed2b1cbc30ea8c58d7a861f7e":[2,0,0,0,78,65],
 "da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html#ae3137e6ed2b1cbc30ea8c58d7a861f7e":[3,0,1,0,80,65],
 "da/deb/classpocketmine_1_1block_1_1_copper_trapdoor.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,78,32],
@@ -248,6 +249,5 @@ var NAVTREEINDEX171 =
 "da/df6/classpocketmine_1_1block_1_1_tripwire_hook.html#a6201b0d5460ae6f3b5cee03197c9a94a":[2,0,0,0,244,39],
 "da/df6/classpocketmine_1_1block_1_1_tripwire_hook.html#a6201b0d5460ae6f3b5cee03197c9a94a":[3,0,1,0,246,39],
 "da/df6/classpocketmine_1_1block_1_1_tripwire_hook.html#a63063ca1401cab3a2185fc89fb462c88":[2,0,0,0,244,66],
-"da/df6/classpocketmine_1_1block_1_1_tripwire_hook.html#a63063ca1401cab3a2185fc89fb462c88":[3,0,1,0,246,66],
-"da/df6/classpocketmine_1_1block_1_1_tripwire_hook.html#a6d3cefce63d654d994f2e1b5dcc11c54":[2,0,0,0,244,20]
+"da/df6/classpocketmine_1_1block_1_1_tripwire_hook.html#a63063ca1401cab3a2185fc89fb462c88":[3,0,1,0,246,66]
 };

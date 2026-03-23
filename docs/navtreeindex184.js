@@ -1,5 +1,6 @@
 var NAVTREEINDEX184 =
 {
+"db/df1/classpocketmine_1_1block_1_1_azalea.html#aa4773f0153324728a2f41820fa52442d":[2,0,0,0,5,17],
 "db/df1/classpocketmine_1_1block_1_1_azalea.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,7,17],
 "db/df1/classpocketmine_1_1block_1_1_azalea.html#aac6828efb885bc8fe0f8876728ddde5d":[2,0,0,0,5,34],
 "db/df1/classpocketmine_1_1block_1_1_azalea.html#aac6828efb885bc8fe0f8876728ddde5d":[3,0,1,0,7,34],
@@ -248,6 +249,5 @@ var NAVTREEINDEX184 =
 "dc/d05/classpocketmine_1_1block_1_1_cauldron.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,50,4],
 "dc/d05/classpocketmine_1_1block_1_1_cauldron.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,52,4],
 "dc/d05/classpocketmine_1_1block_1_1_cauldron.html#aa4773f0153324728a2f41820fa52442d":[2,0,0,0,50,17],
-"dc/d05/classpocketmine_1_1block_1_1_cauldron.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,52,17],
-"dc/d05/classpocketmine_1_1block_1_1_cauldron.html#aac6828efb885bc8fe0f8876728ddde5d":[2,0,0,0,50,34]
+"dc/d05/classpocketmine_1_1block_1_1_cauldron.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,52,17]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX149 =
 {
+"d9/d53/classpocketmine_1_1data_1_1bedrock_1_1_firework_rocket_type_ids.html":[3,0,1,6,0,12],
 "d9/d54/_container_tile_trait_8php_source.html":[4,0,1,0,1,13],
 "d9/d54/classpocketmine_1_1event_1_1player_1_1_player_view_distance_change_event.html":[2,0,0,3,3,45],
 "d9/d54/classpocketmine_1_1event_1_1player_1_1_player_view_distance_change_event.html":[3,0,1,9,3,45],
@@ -248,6 +249,5 @@ var NAVTREEINDEX149 =
 "d9/d5b/classpocketmine_1_1item_1_1_pitcher_pod.html#ac534c116a4d2291a8d67f15c4b485b74":[2,0,0,5,80,25],
 "d9/d5b/classpocketmine_1_1item_1_1_pitcher_pod.html#ac534c116a4d2291a8d67f15c4b485b74":[3,0,1,12,81,25],
 "d9/d5b/classpocketmine_1_1item_1_1_pitcher_pod.html#ac7e878537e8ea68cc0d4d565f9f25062":[2,0,0,5,80,42],
-"d9/d5b/classpocketmine_1_1item_1_1_pitcher_pod.html#ac7e878537e8ea68cc0d4d565f9f25062":[3,0,1,12,81,42],
-"d9/d5b/classpocketmine_1_1item_1_1_pitcher_pod.html#ad2d004e5063f6ca465ed956b024217b1":[2,0,0,5,80,26]
+"d9/d5b/classpocketmine_1_1item_1_1_pitcher_pod.html#ac7e878537e8ea68cc0d4d565f9f25062":[3,0,1,12,81,42]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX133 =
 {
+"d8/d7a/classpocketmine_1_1item_1_1_banner.html#aad9f6fbf32449170a157b787d4227ee6":[2,0,0,5,8,29],
 "d8/d7a/classpocketmine_1_1item_1_1_banner.html#aad9f6fbf32449170a157b787d4227ee6":[3,0,1,12,9,29],
 "d8/d7a/classpocketmine_1_1item_1_1_banner.html#ab5b518225700569bcfe15962aebb430e":[2,0,0,5,8,51],
 "d8/d7a/classpocketmine_1_1item_1_1_banner.html#ab5b518225700569bcfe15962aebb430e":[3,0,1,12,9,51],
@@ -248,6 +249,5 @@ var NAVTREEINDEX133 =
 "d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html#a51b97f07ff97887a144198bb3dba6fc4":[2,0,0,5,119,25],
 "d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html#a51b97f07ff97887a144198bb3dba6fc4":[3,0,1,12,120,25],
 "d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html#a536378f334334c0e8b06e5ccaeb4de39":[2,0,0,5,119,37],
-"d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html#a536378f334334c0e8b06e5ccaeb4de39":[3,0,1,12,120,37],
-"d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html#a55e6d1e111d761cb8e3ef6cbc53d39a3":[2,0,0,5,119,27]
+"d8/d87/classpocketmine_1_1item_1_1_turtle_helmet.html#a536378f334334c0e8b06e5ccaeb4de39":[3,0,1,12,120,37]
 };

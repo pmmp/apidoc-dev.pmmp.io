@@ -1,5 +1,6 @@
 var NAVTREEINDEX121 =
 {
+"d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#a7af6d4eb38119f51cc3844c8e3df70b7":[2,0,0,0,137,20],
 "d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#a7af6d4eb38119f51cc3844c8e3df70b7":[3,0,1,0,139,20],
 "d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[2,0,0,0,137,28],
 "d7/df0/classpocketmine_1_1block_1_1_iron_ore.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,139,28],
@@ -248,6 +249,5 @@ var NAVTREEINDEX121 =
 "d8/d03/_core_constants_8php_source.html":[4,0,1,27],
 "d8/d04/_player_post_chunk_send_event_8php_source.html":[4,0,1,7,3,34],
 "d8/d04/classpocketmine_1_1item_1_1_dried_kelp.html":[2,0,0,5,35],
-"d8/d04/classpocketmine_1_1item_1_1_dried_kelp.html":[3,0,1,12,36],
-"d8/d04/classpocketmine_1_1item_1_1_dried_kelp.html#a0a422a89abd427286bc2f312100f968c":[2,0,0,5,35,33]
+"d8/d04/classpocketmine_1_1item_1_1_dried_kelp.html":[3,0,1,12,36]
 };

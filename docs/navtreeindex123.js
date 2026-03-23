@@ -1,5 +1,6 @@
 var NAVTREEINDEX123 =
 {
+"d8/d07/classpocketmine_1_1block_1_1_potion_cauldron.html#adc7b2fcbcc10f046b1cbcafdd0858863":[2,0,0,0,182,4],
 "d8/d07/classpocketmine_1_1block_1_1_potion_cauldron.html#adc7b2fcbcc10f046b1cbcafdd0858863":[3,0,1,0,184,4],
 "d8/d07/classpocketmine_1_1block_1_1_potion_cauldron.html#add4d4fd4fecc779dee9c9f94b8a556e5":[2,0,0,0,182,8],
 "d8/d07/classpocketmine_1_1block_1_1_potion_cauldron.html#add4d4fd4fecc779dee9c9f94b8a556e5":[3,0,1,0,184,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX123 =
 "d8/d15/classpocketmine_1_1block_1_1_ender_chest.html#ac70bccb5a92a0a60852336ee744d027d":[2,0,0,0,99,20],
 "d8/d15/classpocketmine_1_1block_1_1_ender_chest.html#ac70bccb5a92a0a60852336ee744d027d":[3,0,1,0,101,20],
 "d8/d15/classpocketmine_1_1block_1_1_ender_chest.html#ac85f12ad4e4d729db9f27ecb8e97998b":[2,0,0,0,99,52],
-"d8/d15/classpocketmine_1_1block_1_1_ender_chest.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,101,52],
-"d8/d15/classpocketmine_1_1block_1_1_ender_chest.html#acb449b40461f4800cf6e6288cb9a069d":[2,0,0,0,99,0]
+"d8/d15/classpocketmine_1_1block_1_1_ender_chest.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,101,52]
 };

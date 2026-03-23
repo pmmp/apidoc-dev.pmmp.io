@@ -1,5 +1,6 @@
 var NAVTREEINDEX175 =
 {
+"db/d34/classpocketmine_1_1entity_1_1effect_1_1_vanilla_effects_inputs.html#a8fb68e6b0afa6ee0a4bdb18279d41522":[3,0,1,7,1,19,2],
 "db/d34/classpocketmine_1_1entity_1_1effect_1_1_vanilla_effects_inputs.html#ad6137ca9b84f434e706f2d962ba0d831":[3,0,1,7,1,19,1],
 "db/d35/_player_item_enchant_event_8php_source.html":[4,0,1,7,3,25],
 "db/d35/_redstone_comparator_8php_source.html":[4,0,1,0,193],
@@ -248,6 +249,5 @@ var NAVTREEINDEX175 =
 "db/d4d/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_death_info_packet.html#ac96358bb5d1d9ff91fd0d12d8883f4a3":[3,0,1,16,0,6,68,4],
 "db/d4d/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_death_info_packet.html#accb2e8c0331e122d8feb488abde89a48":[3,0,1,16,0,6,68,8],
 "db/d4d/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_death_info_packet.html#ad37e6a4caa5b063cf4f63f3ec382cdd7":[3,0,1,16,0,6,68,2],
-"db/d4e/classpocketmine_1_1event_1_1player_1_1_player_bed_leave_event.html":[2,0,0,3,3,1],
-"db/d4e/classpocketmine_1_1event_1_1player_1_1_player_bed_leave_event.html":[3,0,1,9,3,1]
+"db/d4e/classpocketmine_1_1event_1_1player_1_1_player_bed_leave_event.html":[2,0,0,3,3,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX226 =
 {
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,77,7],
 "de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a9c9b3dfce2e57bb4ddba1ee1fbe1928a":[2,0,0,0,75,45],
 "de/d68/classpocketmine_1_1block_1_1_copper_ore.html#a9c9b3dfce2e57bb4ddba1ee1fbe1928a":[3,0,1,0,77,45],
 "de/d68/classpocketmine_1_1block_1_1_copper_ore.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,75,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX226 =
 "de/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_abilities_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,215,1],
 "de/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_abilities_packet.html#ac0abe97a65746025db02312bccab45a6":[3,0,1,16,0,6,215,5],
 "de/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_abilities_packet.html#ac96358bb5d1d9ff91fd0d12d8883f4a3":[3,0,1,16,0,6,215,4],
-"de/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_abilities_packet.html#ad85dd879a9e1a57fd8123eaaab5f8fbb":[3,0,1,16,0,6,215,7],
-"de/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_abilities_packet.html#afe756ddd2cf4c7dbce9909e70fcedfc6":[3,0,1,16,0,6,215,6]
+"de/d78/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_update_abilities_packet.html#ad85dd879a9e1a57fd8123eaaab5f8fbb":[3,0,1,16,0,6,215,7]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX237 =
 {
+"df/d24/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_create_photo_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,64,0],
 "df/d24/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_create_photo_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,64,1],
 "df/d24/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_create_photo_packet.html#ac96358bb5d1d9ff91fd0d12d8883f4a3":[3,0,1,16,0,6,64,4],
 "df/d24/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_create_photo_packet.html#ae792a35d5fdd317c8f318687eddb8476":[3,0,1,16,0,6,64,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX237 =
 "df/d41/classpocketmine_1_1command_1_1_command_alias_map.html#aa01fe4da7eff00648dde046b45abef18":[3,0,1,2,4,3],
 "df/d41/classpocketmine_1_1command_1_1_command_alias_map.html#aedc48b3f4adad517228b2be971b3bf15":[2,0,0,1,2,2],
 "df/d41/classpocketmine_1_1command_1_1_command_alias_map.html#aedc48b3f4adad517228b2be971b3bf15":[3,0,1,2,4,2],
-"df/d43/classpocketmine_1_1item_1_1_clownfish.html":[2,0,0,5,22],
-"df/d43/classpocketmine_1_1item_1_1_clownfish.html":[3,0,1,12,23]
+"df/d43/classpocketmine_1_1item_1_1_clownfish.html":[2,0,0,5,22]
 };

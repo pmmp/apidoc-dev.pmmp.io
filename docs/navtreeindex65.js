@@ -1,5 +1,6 @@
 var NAVTREEINDEX65 =
 {
+"d4/d66/classpocketmine_1_1block_1_1_furnace.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,118,54],
 "d4/d66/classpocketmine_1_1block_1_1_furnace.html#acb449b40461f4800cf6e6288cb9a069d":[2,0,0,0,116,0],
 "d4/d66/classpocketmine_1_1block_1_1_furnace.html#acb449b40461f4800cf6e6288cb9a069d":[3,0,1,0,118,0],
 "d4/d66/classpocketmine_1_1block_1_1_furnace.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,116,25],
@@ -248,6 +249,5 @@ var NAVTREEINDEX65 =
 "d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a3bc65b2324649d8735dadf9bf8cf0705":[2,0,0,5,48,50],
 "d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a3bc65b2324649d8735dadf9bf8cf0705":[3,0,1,12,49,50],
 "d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a40f57ea1d37fba8d60bf520baf93d4e0":[2,0,0,5,48,31],
-"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a40f57ea1d37fba8d60bf520baf93d4e0":[3,0,1,12,49,31],
-"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a444bab7a652a1dc604048e392f5887cd":[2,0,0,5,48,6]
+"d4/d82/classpocketmine_1_1item_1_1_fishing_rod.html#a40f57ea1d37fba8d60bf520baf93d4e0":[3,0,1,12,49,31]
 };

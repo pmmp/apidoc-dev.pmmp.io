@@ -1,5 +1,6 @@
 var NAVTREEINDEX63 =
 {
+"d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,214,52],
 "d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#acb449b40461f4800cf6e6288cb9a069d":[2,0,0,0,212,0],
 "d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#acb449b40461f4800cf6e6288cb9a069d":[3,0,1,0,214,0],
 "d4/d35/classpocketmine_1_1block_1_1_smithing_table.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,212,24],
@@ -248,6 +249,5 @@ var NAVTREEINDEX63 =
 "d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html#a41a9ddea98a1a7567eb68ce0830b8ff5":[3,0,1,0,235,2],
 "d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,233,44],
 "d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html#a43e3458847422ebd5dec6c914b443c93":[3,0,1,0,235,44],
-"d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html#a444028c60ad6c7afacda1a6cc3065e59":[2,0,0,0,233,13],
-"d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html#a444028c60ad6c7afacda1a6cc3065e59":[3,0,1,0,235,13]
+"d4/d4c/classpocketmine_1_1block_1_1_sweet_berry_bush.html#a444028c60ad6c7afacda1a6cc3065e59":[2,0,0,0,233,13]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX153 =
 {
+"d9/d7d/classpocketmine_1_1item_1_1_spawn_egg.html#adfaf9728336726192e1499e47cf7ae1d":[3,0,1,12,104,41],
 "d9/d7d/classpocketmine_1_1item_1_1_spawn_egg.html#ae0735ccc1dee85d0c095aaa4109f40fb":[2,0,0,5,103,12],
 "d9/d7d/classpocketmine_1_1item_1_1_spawn_egg.html#ae0735ccc1dee85d0c095aaa4109f40fb":[3,0,1,12,104,12],
 "d9/d7d/classpocketmine_1_1item_1_1_spawn_egg.html#ae2543fd294d689ca6850d5bc78710522":[2,0,0,5,103,35],
@@ -248,6 +249,5 @@ var NAVTREEINDEX153 =
 "d9/d9d/classpocketmine_1_1block_1_1_nylium.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,174,57],
 "d9/d9d/classpocketmine_1_1block_1_1_nylium.html#a8670f7c998762a454ca437e43fd154ff":[2,0,0,0,172,0],
 "d9/d9d/classpocketmine_1_1block_1_1_nylium.html#a8670f7c998762a454ca437e43fd154ff":[3,0,1,0,174,0],
-"d9/d9d/classpocketmine_1_1block_1_1_nylium.html#a88017a7eecc3ba93f317e54e19751feb":[2,0,0,0,172,51],
-"d9/d9d/classpocketmine_1_1block_1_1_nylium.html#a88017a7eecc3ba93f317e54e19751feb":[3,0,1,0,174,51]
+"d9/d9d/classpocketmine_1_1block_1_1_nylium.html#a88017a7eecc3ba93f317e54e19751feb":[2,0,0,0,172,51]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX182 =
 {
+"db/dc4/classpocketmine_1_1item_1_1_golden_apple.html#a4a9aa55600bb30c4d55ad63337874a07":[2,0,0,5,55,7],
 "db/dc4/classpocketmine_1_1item_1_1_golden_apple.html#a4a9aa55600bb30c4d55ad63337874a07":[3,0,1,12,56,7],
 "db/dc4/classpocketmine_1_1item_1_1_golden_apple.html#a4f8f013f507342e2208dc8b4c3da964b":[2,0,0,5,55,27],
 "db/dc4/classpocketmine_1_1item_1_1_golden_apple.html#a4f8f013f507342e2208dc8b4c3da964b":[3,0,1,12,56,27],
@@ -248,6 +249,5 @@ var NAVTREEINDEX182 =
 "db/dd0/namespacepocketmine_1_1network.html":[2,0,0,8],
 "db/dd3/_dimension_data_packet_8php_source.html":[4,0,2,0,1,0,71],
 "db/dd3/_task_scheduler_8php_source.html":[4,0,1,18,12],
-"db/dd3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1raw_1_1_chained_sub_command_raw_data.html":[3,0,1,16,0,6,1,2,0,0],
-"db/dd3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1raw_1_1_chained_sub_command_raw_data.html#a31ee6ba61909a6ee7f600465ff6b88bd":[3,0,1,16,0,6,1,2,0,0,1]
+"db/dd3/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1command_1_1raw_1_1_chained_sub_command_raw_data.html":[3,0,1,16,0,6,1,2,0,0]
 };
