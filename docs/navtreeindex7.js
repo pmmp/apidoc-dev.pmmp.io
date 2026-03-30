@@ -1,7 +1,12 @@
 var NAVTREEINDEX7 =
 {
-"d0/d97/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_lectern_update_packet.html#ac135607dd7951e4596cdd8f3af2e36b0":[3,0,1,16,0,6,94,5],
-"d0/d97/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_lectern_update_packet.html#ac96358bb5d1d9ff91fd0d12d8883f4a3":[3,0,1,16,0,6,94,4],
+"d0/d97/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_lectern_update_packet.html#a55025ba182163f59eb3175f7a7611b5d":[3,0,1,16,0,6,95,3],
+"d0/d97/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_lectern_update_packet.html#a645556e454e76ac799fb8e4198eb13ed":[3,0,1,16,0,6,95,6],
+"d0/d97/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_lectern_update_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,95,0],
+"d0/d97/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_lectern_update_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,95,1],
+"d0/d97/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_lectern_update_packet.html#ac0081fe4393dc108cf701e2011a77611":[3,0,1,16,0,6,95,7],
+"d0/d97/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_lectern_update_packet.html#ac135607dd7951e4596cdd8f3af2e36b0":[3,0,1,16,0,6,95,5],
+"d0/d97/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_lectern_update_packet.html#ac96358bb5d1d9ff91fd0d12d8883f4a3":[3,0,1,16,0,6,95,4],
 "d0/d98/_entity_effect_add_event_8php_source.html":[4,0,1,7,1,11],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html":[2,0,0,0,265],
 "d0/d98/classpocketmine_1_1block_1_1_wooden_pressure_plate.html":[3,0,1,0,267],
@@ -167,11 +172,11 @@ var NAVTREEINDEX7 =
 "d0/d9b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_block_remap.html#a7e3d878de079861223b7c5431f4e4a23":[3,0,1,6,0,0,1,0,1,1],
 "d0/d9b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_block_remap.html#aa3e9cb0d1cbf85fb98c1ec4197bcdaa8":[3,0,1,6,0,0,1,0,1,2],
 "d0/d9b/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_block_remap.html#ab2ed292e78bc5fb7deddb23e5b8707b0":[3,0,1,6,0,0,1,0,1,0],
-"d0/d9d/_map_create_locked_copy_packet_8php_source.html":[4,0,2,0,1,0,102],
+"d0/d9d/_map_create_locked_copy_packet_8php_source.html":[4,0,2,0,1,0,104],
 "d0/d9e/_enderman_teleport_sound_8php_source.html":[4,0,1,25,5,55],
-"d0/d9f/_toast_request_packet_8php_source.html":[4,0,2,0,1,0,212],
+"d0/d9f/_toast_request_packet_8php_source.html":[4,0,2,0,1,0,218],
 "d0/d9f/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1inventory_1_1stackrequest_1_1_lab_table_combine_stack_request_action.html":[3,0,1,16,0,6,1,4,0,16],
-"d0/da1/_editor_world_type_8php_source.html":[4,0,2,0,1,0,1,41],
+"d0/da1/_editor_world_type_8php_source.html":[4,0,2,0,1,0,1,63],
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html":[2,0,0,0,55],
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html":[3,0,1,0,57],
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#a028afd613a6f42370ede9aec4c9796d6":[2,0,0,0,55,48],
@@ -244,10 +249,5 @@ var NAVTREEINDEX7 =
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,57,65],
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,55,38],
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,57,38],
-"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,55,7],
-"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,57,7],
-"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,55,4],
-"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,57,4],
-"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#aa4773f0153324728a2f41820fa52442d":[2,0,0,0,55,17],
-"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#aa4773f0153324728a2f41820fa52442d":[3,0,1,0,57,17]
+"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,55,7]
 };
