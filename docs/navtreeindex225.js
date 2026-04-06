@@ -1,5 +1,10 @@
 var NAVTREEINDEX225 =
 {
+"de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[2,0,0,0,162,28],
+"de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,164,28],
+"de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a8635dccd33641330c42129a61377b2fd":[2,0,0,0,162,35],
+"de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a8635dccd33641330c42129a61377b2fd":[3,0,1,0,164,35],
+"de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,0,0,162,56],
 "de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,164,56],
 "de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a88017a7eecc3ba93f317e54e19751feb":[2,0,0,0,162,50],
 "de/d43/classpocketmine_1_1block_1_1_nether_gold_ore.html#a88017a7eecc3ba93f317e54e19751feb":[3,0,1,0,164,50],
@@ -244,10 +249,5 @@ var NAVTREEINDEX225 =
 "de/d5b/classpocketmine_1_1world_1_1sound_1_1_bottle_empty_sound.html":[3,0,1,30,5,21],
 "de/d5b/classpocketmine_1_1world_1_1sound_1_1_bottle_empty_sound.html#af9909b2de52c98e7dcdce4ae359bc42a":[3,0,1,30,5,21,0],
 "de/d5c/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_serializer.html":[3,0,1,6,0,1,3],
-"de/d5c/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_serializer.html#a798222e34ff93cb43ce183875b7cdc6c":[3,0,1,6,0,1,3,1],
-"de/d5c/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_serializer.html#abb186068ab1bab08774dc969b3ae8c3b":[3,0,1,6,0,1,3,0],
-"de/d5c/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_serializer.html#adf5b089e30f0d8cc7fbc7ae09bb68333":[3,0,1,6,0,1,3,2],
-"de/d5d/_cookie_8php_source.html":[4,0,1,10,35],
-"de/d5d/_dump_worker_memory_task_8php_source.html":[4,0,1,18,8],
-"de/d5d/classpocketmine_1_1nbt_1_1_unexpected_tag_type_exception.html":[2,0,0,7,13]
+"de/d5c/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_serializer.html#a798222e34ff93cb43ce183875b7cdc6c":[3,0,1,6,0,1,3,1]
 };

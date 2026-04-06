@@ -1,5 +1,11 @@
 var NAVTREEINDEX246 =
 {
+"df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a8635dccd33641330c42129a61377b2fd":[3,0,1,0,73,35],
+"df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,0,0,71,56],
+"df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,73,56],
+"df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a88017a7eecc3ba93f317e54e19751feb":[2,0,0,0,71,50],
+"df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a88017a7eecc3ba93f317e54e19751feb":[3,0,1,0,73,50],
+"df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,71,11],
 "df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,73,11],
 "df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,71,68],
 "df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,73,68],
@@ -243,11 +249,5 @@ var NAVTREEINDEX246 =
 "df/d95/classpocketmine_1_1world_1_1format_1_1io_1_1region_1_1_region_loader.html#afdc736bc408e349c10709eb8131df4d7":[3,0,1,30,1,0,3,6,1],
 "df/d96/_client_data_persona_skin_piece_8php_source.html":[4,0,2,0,1,0,1,6,0,3],
 "df/d9a/_world_data_8php_source.html":[4,0,1,25,1,0,13],
-"df/d9c/_bit_set_8php_source.html":[4,0,2,0,1,0,0,2],
-"df/d9c/_player_join_event_8php_source.html":[4,0,1,7,3,28],
-"df/da0/_player_toggle_glide_event_8php_source.html":[4,0,1,7,3,41],
-"df/da0/classpocketmine_1_1world_1_1generator_1_1populator_1_1_tree.html":[2,0,0,14,0,1,4],
-"df/da0/classpocketmine_1_1world_1_1generator_1_1populator_1_1_tree.html":[3,0,1,30,2,6,4],
-"df/da0/classpocketmine_1_1world_1_1generator_1_1populator_1_1_tree.html#a31822e9ee27b4e1c4082da001ff4cc92":[2,0,0,14,0,1,4,0],
-"df/da0/classpocketmine_1_1world_1_1generator_1_1populator_1_1_tree.html#a31822e9ee27b4e1c4082da001ff4cc92":[3,0,1,30,2,6,4,0]
+"df/d9c/_bit_set_8php_source.html":[4,0,2,0,1,0,0,2]
 };

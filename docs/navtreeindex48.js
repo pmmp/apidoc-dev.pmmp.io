@@ -1,5 +1,6 @@
 var NAVTREEINDEX48 =
 {
+"d3/d2f/_food_source_item_8php_source.html":[4,0,1,10,54],
 "d3/d31/_block_state_writer_8php_source.html":[4,0,1,5,0,0,0,5],
 "d3/d31/vendor_2pocketmine_2raklib_2src_2generic_2_packet_handling_exception_8php_source.html":[4,0,2,0,9,0,1,1],
 "d3/d33/classpocketmine_1_1world_1_1sound_1_1_amethyst_block_chime_sound.html":[3,0,1,30,5,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX48 =
 "d3/d4b/interface_buffered_logger.html#a54be4b7ff0c72b3fa4b88624a6d4742e":[3,0,4,9],
 "d3/d4b/interface_buffered_logger.html#a5caf1e0d926805527a7aa3d023c6970b":[3,0,4,4],
 "d3/d4b/interface_buffered_logger.html#a711b6da57691871ad09531bae84d7c5e":[3,0,4,5],
-"d3/d4b/interface_buffered_logger.html#a72a91aba712d41716e9c79206da4339f":[3,0,4,7],
-"d3/d4b/interface_buffered_logger.html#aa4d33ee7970ea31d82718dec8e1be1f9":[3,0,4,6]
+"d3/d4b/interface_buffered_logger.html#a72a91aba712d41716e9c79206da4339f":[3,0,4,7]
 };

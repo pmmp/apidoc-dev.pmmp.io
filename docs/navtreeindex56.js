@@ -1,5 +1,6 @@
 var NAVTREEINDEX56 =
 {
+"d3/dd4/classpocketmine_1_1world_1_1sound_1_1_sweet_berries_pick_sound.html":[3,0,1,30,5,103],
 "d3/dd4/classpocketmine_1_1world_1_1sound_1_1_sweet_berries_pick_sound.html#a8a483057c7ccc972ab6c1c34a8cdd770":[3,0,1,30,5,103,0],
 "d3/dd4/object_2_ore_8php_source.html":[4,0,1,25,2,5,6],
 "d3/ddb/classpocketmine_1_1item_1_1enchantment_1_1_item_enchantment_tag_registry.html":[3,0,1,12,0,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX56 =
 "d3/df2/classpocketmine_1_1block_1_1_stained_glass_pane.html#a8635dccd33641330c42129a61377b2fd":[2,0,0,0,221,35],
 "d3/df2/classpocketmine_1_1block_1_1_stained_glass_pane.html#a8635dccd33641330c42129a61377b2fd":[3,0,1,0,223,35],
 "d3/df2/classpocketmine_1_1block_1_1_stained_glass_pane.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,0,0,221,56],
-"d3/df2/classpocketmine_1_1block_1_1_stained_glass_pane.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,223,56],
-"d3/df2/classpocketmine_1_1block_1_1_stained_glass_pane.html#a87b62eee5110563c9f15bbb0e4502241":[2,0,0,0,221,37]
+"d3/df2/classpocketmine_1_1block_1_1_stained_glass_pane.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,223,56]
 };

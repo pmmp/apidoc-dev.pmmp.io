@@ -1,5 +1,6 @@
 var NAVTREEINDEX98 =
 {
+"d6/d8f/classpocketmine_1_1block_1_1tile_1_1_monster_spawner.html#a570087282d986707e0bd7f15b22f319f":[3,0,1,0,1,25,0],
 "d6/d8f/classpocketmine_1_1block_1_1tile_1_1_monster_spawner.html#a9a0a80ed9de93d8793c30f0d2486d701":[2,0,0,0,0,25,3],
 "d6/d8f/classpocketmine_1_1block_1_1tile_1_1_monster_spawner.html#a9a0a80ed9de93d8793c30f0d2486d701":[3,0,1,0,1,25,3],
 "d6/d8f/classpocketmine_1_1block_1_1tile_1_1_monster_spawner.html#afc393709a4fbdaa6381dd6606ef43fb0":[2,0,0,0,0,25,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX98 =
 "d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#afa0e08fa7c894cf623c630db6a4a3a91":[2,0,0,0,136,61],
 "d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#afa0e08fa7c894cf623c630db6a4a3a91":[3,0,1,0,138,61],
 "d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#afcc19c437c8bef4487f5ecb956ae9a1a":[2,0,0,0,136,29],
-"d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#afcc19c437c8bef4487f5ecb956ae9a1a":[3,0,1,0,138,29],
-"d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#afe4928a6da38d63eccea78bd1a2fdcd3":[2,0,0,0,136,21]
+"d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#afcc19c437c8bef4487f5ecb956ae9a1a":[3,0,1,0,138,29]
 };

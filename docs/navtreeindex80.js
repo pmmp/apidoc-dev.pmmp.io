@@ -1,5 +1,6 @@
 var NAVTREEINDEX80 =
 {
+"d5/d62/classpocketmine_1_1item_1_1_goat_horn.html#ac7e878537e8ea68cc0d4d565f9f25062":[2,0,0,5,54,43],
 "d5/d62/classpocketmine_1_1item_1_1_goat_horn.html#ac7e878537e8ea68cc0d4d565f9f25062":[3,0,1,12,55,43],
 "d5/d62/classpocketmine_1_1item_1_1_goat_horn.html#ad2d004e5063f6ca465ed956b024217b1":[2,0,0,5,54,27],
 "d5/d62/classpocketmine_1_1item_1_1_goat_horn.html#ad2d004e5063f6ca465ed956b024217b1":[3,0,1,12,55,27],
@@ -248,6 +249,5 @@ var NAVTREEINDEX80 =
 "d5/d7b/classpocketmine_1_1block_1_1_wheat.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,261,47],
 "d5/d7b/classpocketmine_1_1block_1_1_wheat.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,259,3],
 "d5/d7b/classpocketmine_1_1block_1_1_wheat.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,261,3],
-"d5/d7b/classpocketmine_1_1block_1_1_wheat.html#a2175d7c31f1159374dd4dd359a117dbb":[2,0,0,0,259,65],
-"d5/d7b/classpocketmine_1_1block_1_1_wheat.html#a2175d7c31f1159374dd4dd359a117dbb":[3,0,1,0,261,65]
+"d5/d7b/classpocketmine_1_1block_1_1_wheat.html#a2175d7c31f1159374dd4dd359a117dbb":[2,0,0,0,259,65]
 };

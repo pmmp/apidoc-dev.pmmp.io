@@ -1,5 +1,11 @@
 var NAVTREEINDEX243 =
 {
+"df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,256,11],
+"df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a95f3d0edf7a4a66c974fad04a97d8c85":[2,0,0,0,254,68],
+"df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a95f3d0edf7a4a66c974fad04a97d8c85":[3,0,1,0,256,68],
+"df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a9837023b7de99820e62ae964bae1cde5":[2,0,0,0,254,65],
+"df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a9837023b7de99820e62ae964bae1cde5":[3,0,1,0,256,65],
+"df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,254,40],
 "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,256,40],
 "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,254,7],
 "df/d74/classpocketmine_1_1block_1_1_wall_sign.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,256,7],
@@ -243,11 +249,5 @@ var NAVTREEINDEX243 =
 "df/d78/classpocketmine_1_1block_1_1_bell.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,23,28],
 "df/d78/classpocketmine_1_1block_1_1_bell.html#a861ceb68c13643f9e66331de98c6bb4e":[2,0,0,0,21,21],
 "df/d78/classpocketmine_1_1block_1_1_bell.html#a861ceb68c13643f9e66331de98c6bb4e":[3,0,1,0,23,21],
-"df/d78/classpocketmine_1_1block_1_1_bell.html#a8635dccd33641330c42129a61377b2fd":[2,0,0,0,21,35],
-"df/d78/classpocketmine_1_1block_1_1_bell.html#a8635dccd33641330c42129a61377b2fd":[3,0,1,0,23,35],
-"df/d78/classpocketmine_1_1block_1_1_bell.html#a88017a7eecc3ba93f317e54e19751feb":[2,0,0,0,21,50],
-"df/d78/classpocketmine_1_1block_1_1_bell.html#a88017a7eecc3ba93f317e54e19751feb":[3,0,1,0,23,50],
-"df/d78/classpocketmine_1_1block_1_1_bell.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,21,11],
-"df/d78/classpocketmine_1_1block_1_1_bell.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,23,11],
-"df/d78/classpocketmine_1_1block_1_1_bell.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,21,67]
+"df/d78/classpocketmine_1_1block_1_1_bell.html#a8635dccd33641330c42129a61377b2fd":[2,0,0,0,21,35]
 };

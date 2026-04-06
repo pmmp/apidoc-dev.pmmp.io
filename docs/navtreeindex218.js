@@ -1,5 +1,9 @@
 var NAVTREEINDEX218 =
 {
+"dd/dcc/_internet_address_8php_source.html":[4,0,2,0,9,0,4,1],
+"dd/dcc/_memory_category_counter_8php_source.html":[4,0,2,0,1,0,1,97],
+"dd/dcf/_packet_handler_inspector_8php_source.html":[4,0,1,12,0,5,10],
+"dd/dcf/_throwable_8php_source.html":[4,0,1,6,3,9],
 "dd/dcf/_update_soft_enum_packet_8php_source.html":[4,0,2,0,1,0,231],
 "dd/dcf/classpocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_r12_item_id_to_block_id_map.html":[3,0,1,6,0,1,0,6],
 "dd/dcf/classpocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_r12_item_id_to_block_id_map.html#a55ab159d78fcf8741a862ea58715210c":[3,0,1,6,0,1,0,6,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX218 =
 "dd/dd1/classpocketmine_1_1item_1_1_apple.html#aba073e91196cf2978057ec4d3842aa76":[2,0,0,5,0,43],
 "dd/dd1/classpocketmine_1_1item_1_1_apple.html#aba073e91196cf2978057ec4d3842aa76":[3,0,1,12,1,43],
 "dd/dd1/classpocketmine_1_1item_1_1_apple.html#abe253aa6fbfe2fc36389edadb753ffc7":[2,0,0,5,0,20],
-"dd/dd1/classpocketmine_1_1item_1_1_apple.html#abe253aa6fbfe2fc36389edadb753ffc7":[3,0,1,12,1,20],
-"dd/dd1/classpocketmine_1_1item_1_1_apple.html#ac534c116a4d2291a8d67f15c4b485b74":[2,0,0,5,0,28],
-"dd/dd1/classpocketmine_1_1item_1_1_apple.html#ac534c116a4d2291a8d67f15c4b485b74":[3,0,1,12,1,28],
-"dd/dd1/classpocketmine_1_1item_1_1_apple.html#ac7e878537e8ea68cc0d4d565f9f25062":[2,0,0,5,0,47],
-"dd/dd1/classpocketmine_1_1item_1_1_apple.html#ac7e878537e8ea68cc0d4d565f9f25062":[3,0,1,12,1,47]
+"dd/dd1/classpocketmine_1_1item_1_1_apple.html#abe253aa6fbfe2fc36389edadb753ffc7":[3,0,1,12,1,20]
 };

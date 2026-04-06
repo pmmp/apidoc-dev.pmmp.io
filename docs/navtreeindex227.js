@@ -1,5 +1,10 @@
 var NAVTREEINDEX227 =
 {
+"de/d6c/classpocketmine_1_1event_1_1player_1_1_player_transfer_event.html#acb708f2f11339ed673ca0a4497ff80f3":[2,0,0,3,3,44,3],
+"de/d6c/classpocketmine_1_1event_1_1player_1_1_player_transfer_event.html#acb708f2f11339ed673ca0a4497ff80f3":[3,0,1,9,3,44,3],
+"de/d6d/_control_scheme_8php_source.html":[4,0,2,0,1,0,1,49],
+"de/d6e/classpocketmine_1_1world_1_1sound_1_1_armor_equip_chain_sound.html":[3,0,1,30,5,4],
+"de/d6e/classpocketmine_1_1world_1_1sound_1_1_armor_equip_chain_sound.html#a5b83fb1ac274b80feed9407a01fccb98":[3,0,1,30,5,4,0],
 "de/d6f/_firework_rocket_type_ids_8php_source.html":[4,0,1,5,0,10],
 "de/d6f/_medicine_type_id_map_8php_source.html":[4,0,1,5,0,18],
 "de/d6f/classpocketmine_1_1item_1_1_pickaxe.html":[2,0,0,5,79],
@@ -244,10 +249,5 @@ var NAVTREEINDEX227 =
 "de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,184,50],
 "de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,186,50],
 "de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#a20aab7fd162f52330c4e2a255103cc5a":[2,0,0,0,184,45],
-"de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#a20aab7fd162f52330c4e2a255103cc5a":[3,0,1,0,186,45],
-"de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,184,3],
-"de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,186,3],
-"de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#a2592c65b6adbe4003fb11562b924872c":[2,0,0,0,184,63],
-"de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#a2592c65b6adbe4003fb11562b924872c":[3,0,1,0,186,63],
-"de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,184,25]
+"de/d89/classpocketmine_1_1block_1_1_pressure_plate.html#a20aab7fd162f52330c4e2a255103cc5a":[3,0,1,0,186,45]
 };

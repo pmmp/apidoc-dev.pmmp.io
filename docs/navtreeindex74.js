@@ -1,5 +1,6 @@
 var NAVTREEINDEX74 =
 {
+"d4/def/classpocketmine_1_1world_1_1sound_1_1_ender_chest_close_sound.html#ace5c5e3854496ea1654722bf0cac94e7":[3,0,1,30,5,53,0],
 "d4/df0/classpocketmine_1_1block_1_1inventory_1_1window_1_1_anvil_inventory_window.html":[3,0,1,0,0,0,0],
 "d4/df0/classpocketmine_1_1event_1_1world_1_1_world_difficulty_change_event.html":[2,0,0,3,5,5],
 "d4/df0/classpocketmine_1_1event_1_1world_1_1_world_difficulty_change_event.html":[3,0,1,9,6,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX74 =
 "d5/d0a/classpocketmine_1_1item_1_1_axe.html#a9866a7ab362cec28252d67f6382a4ad4":[2,0,0,5,5,35],
 "d5/d0a/classpocketmine_1_1item_1_1_axe.html#a9866a7ab362cec28252d67f6382a4ad4":[3,0,1,12,6,35],
 "d5/d0a/classpocketmine_1_1item_1_1_axe.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[2,0,0,5,5,4],
-"d5/d0a/classpocketmine_1_1item_1_1_axe.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[3,0,1,12,6,4],
-"d5/d0a/classpocketmine_1_1item_1_1_axe.html#a9dd261853760b5df7ddacfd351b8df15":[2,0,0,5,5,29]
+"d5/d0a/classpocketmine_1_1item_1_1_axe.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[3,0,1,12,6,4]
 };

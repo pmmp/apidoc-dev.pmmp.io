@@ -1,5 +1,6 @@
 var NAVTREEINDEX60 =
 {
+"d4/d0e/classpocketmine_1_1item_1_1_wheat_seeds.html#a7b5c1e7e496c3077658212aaacec4b56":[2,0,0,5,124,15],
 "d4/d0e/classpocketmine_1_1item_1_1_wheat_seeds.html#a7b5c1e7e496c3077658212aaacec4b56":[3,0,1,12,125,15],
 "d4/d0e/classpocketmine_1_1item_1_1_wheat_seeds.html#a7d45886d40860e24fb4c18d02a3d1a32":[2,0,0,5,124,14],
 "d4/d0e/classpocketmine_1_1item_1_1_wheat_seeds.html#a7d45886d40860e24fb4c18d02a3d1a32":[3,0,1,12,125,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX60 =
 "d4/d2b/classpocketmine_1_1world_1_1_world.html#a095945092a01cc24ac52e1a47fd0a603":[3,0,1,30,16,33],
 "d4/d2b/classpocketmine_1_1world_1_1_world.html#a0bb89bc1da9a05c17bbe94a4a73c5bbe":[2,0,0,14,10,85],
 "d4/d2b/classpocketmine_1_1world_1_1_world.html#a0bb89bc1da9a05c17bbe94a4a73c5bbe":[3,0,1,30,16,85],
-"d4/d2b/classpocketmine_1_1world_1_1_world.html#a0e05a3361dcf6c41b4e495136a1c7ae2":[2,0,0,14,10,47],
-"d4/d2b/classpocketmine_1_1world_1_1_world.html#a0e05a3361dcf6c41b4e495136a1c7ae2":[3,0,1,30,16,47]
+"d4/d2b/classpocketmine_1_1world_1_1_world.html#a0e05a3361dcf6c41b4e495136a1c7ae2":[2,0,0,14,10,47]
 };

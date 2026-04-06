@@ -1,5 +1,8 @@
 var NAVTREEINDEX141 =
 {
+"d8/df2/classpocketmine_1_1block_1_1_blue_ice.html#a09f4667329f89292dd319d56c4243b59":[3,0,1,0,33,30],
+"d8/df2/classpocketmine_1_1block_1_1_blue_ice.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,31,18],
+"d8/df2/classpocketmine_1_1block_1_1_blue_ice.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,33,18],
 "d8/df2/classpocketmine_1_1block_1_1_blue_ice.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,31,60],
 "d8/df2/classpocketmine_1_1block_1_1_blue_ice.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,33,60],
 "d8/df2/classpocketmine_1_1block_1_1_blue_ice.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,31,47],
@@ -246,8 +249,5 @@ var NAVTREEINDEX141 =
 "d8/dfe/classpocketmine_1_1world_1_1format_1_1io_1_1_world_provider_manager_entry.html#a7d5965d85976492a9bb8635b3d05c891":[3,0,1,30,1,0,16,2],
 "d8/dff/_permission_parser_exception_8php_source.html":[4,0,1,13,13],
 "d8/dff/_wither_effect_8php_source.html":[4,0,1,6,1,19],
-"d9/d00/_emerald_ore_8php_source.html":[4,0,1,0,99],
-"d9/d00/_speed_effect_8php_source.html":[4,0,1,6,1,16],
-"d9/d00/class_prefixed_logger.html":[3,0,9],
-"d9/d00/class_prefixed_logger.html#a025da7129259570211e72094ea4c9944":[3,0,9,1]
+"d9/d00/_emerald_ore_8php_source.html":[4,0,1,0,99]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX201 =
 {
+"dc/dc2/classpocketmine_1_1item_1_1_cooked_fish.html#af737301b899b7a7c9e9b0bb9a234a119":[2,0,0,5,28,8],
+"dc/dc2/classpocketmine_1_1item_1_1_cooked_fish.html#af737301b899b7a7c9e9b0bb9a234a119":[3,0,1,12,29,8],
+"dc/dc2/classpocketmine_1_1item_1_1_cooked_fish.html#af85accbedba28b67bb66d5f12d329585":[2,0,0,5,28,41],
+"dc/dc2/classpocketmine_1_1item_1_1_cooked_fish.html#af85accbedba28b67bb66d5f12d329585":[3,0,1,12,29,41],
 "dc/dc3/src_2crafting_2_recipe_ingredient_8php_source.html":[4,0,1,3,13],
 "dc/dc6/classpocketmine_1_1block_1_1inventory_1_1window_1_1_brewing_stand_inventory_window.html":[3,0,1,0,0,0,2],
 "dc/dc7/classpocketmine_1_1data_1_1bedrock_1_1item_1_1upgrade_1_1_item_id_meta_upgrader.html":[3,0,1,6,0,1,0,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX201 =
 "dc/dce/classpocketmine_1_1block_1_1_t_n_t.html#a93738a76d15c9cb65adab0c5fc5d2298":[2,0,0,0,237,64],
 "dc/dce/classpocketmine_1_1block_1_1_t_n_t.html#a93738a76d15c9cb65adab0c5fc5d2298":[3,0,1,0,239,64],
 "dc/dce/classpocketmine_1_1block_1_1_t_n_t.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,237,67],
-"dc/dce/classpocketmine_1_1block_1_1_t_n_t.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,239,67],
-"dc/dce/classpocketmine_1_1block_1_1_t_n_t.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,237,38],
-"dc/dce/classpocketmine_1_1block_1_1_t_n_t.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,239,38],
-"dc/dce/classpocketmine_1_1block_1_1_t_n_t.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,237,7],
-"dc/dce/classpocketmine_1_1block_1_1_t_n_t.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,239,7]
+"dc/dce/classpocketmine_1_1block_1_1_t_n_t.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,239,67]
 };

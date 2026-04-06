@@ -1,5 +1,11 @@
 var NAVTREEINDEX240 =
 {
+"df/d58/classpocketmine_1_1block_1_1_anvil.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,6,65],
+"df/d58/classpocketmine_1_1block_1_1_anvil.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,4,51],
+"df/d58/classpocketmine_1_1block_1_1_anvil.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,6,51],
+"df/d58/classpocketmine_1_1block_1_1_anvil.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,4,3],
+"df/d58/classpocketmine_1_1block_1_1_anvil.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,6,3],
+"df/d58/classpocketmine_1_1block_1_1_anvil.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,4,22],
 "df/d58/classpocketmine_1_1block_1_1_anvil.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[3,0,1,0,6,22],
 "df/d58/classpocketmine_1_1block_1_1_anvil.html#a286fc64348f13417dcb6106c2695911b":[2,0,0,0,4,2],
 "df/d58/classpocketmine_1_1block_1_1_anvil.html#a286fc64348f13417dcb6106c2695911b":[3,0,1,0,6,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX240 =
 "df/d58/classpocketmine_1_1block_1_1_copper_door.html#ac85f12ad4e4d729db9f27ecb8e97998b":[3,0,1,0,74,51],
 "df/d58/classpocketmine_1_1block_1_1_copper_door.html#acb449b40461f4800cf6e6288cb9a069d":[2,0,0,0,72,0],
 "df/d58/classpocketmine_1_1block_1_1_copper_door.html#acb449b40461f4800cf6e6288cb9a069d":[3,0,1,0,74,0],
-"df/d58/classpocketmine_1_1block_1_1_copper_door.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,72,24],
-"df/d58/classpocketmine_1_1block_1_1_copper_door.html#acb7cc5bba94398c6a329b3b2af8fa859":[3,0,1,0,74,24],
-"df/d58/classpocketmine_1_1block_1_1_copper_door.html#ace264e4db5ba15d3f7f2072f79d77023":[2,0,0,0,72,69],
-"df/d58/classpocketmine_1_1block_1_1_copper_door.html#ace264e4db5ba15d3f7f2072f79d77023":[3,0,1,0,74,69],
-"df/d58/classpocketmine_1_1block_1_1_copper_door.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[2,0,0,0,72,57],
-"df/d58/classpocketmine_1_1block_1_1_copper_door.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[3,0,1,0,74,57],
-"df/d58/classpocketmine_1_1block_1_1_copper_door.html#acfa7766036568571b645ae89ceb1029e":[2,0,0,0,72,43]
+"df/d58/classpocketmine_1_1block_1_1_copper_door.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,72,24]
 };

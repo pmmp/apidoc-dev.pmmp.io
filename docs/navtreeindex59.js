@@ -1,5 +1,6 @@
 var NAVTREEINDEX59 =
 {
+"d3/dfa/classpocketmine_1_1block_1_1_base_ominous_banner.html#adc7b2fcbcc10f046b1cbcafdd0858863":[3,0,1,0,16,1],
 "d3/dfa/classpocketmine_1_1block_1_1_base_ominous_banner.html#add4d4fd4fecc779dee9c9f94b8a556e5":[2,0,0,0,14,5],
 "d3/dfa/classpocketmine_1_1block_1_1_base_ominous_banner.html#add4d4fd4fecc779dee9c9f94b8a556e5":[3,0,1,0,16,5],
 "d3/dfa/classpocketmine_1_1block_1_1_base_ominous_banner.html#ade77e0b1fce7bdebceed4092b9c5c022":[2,0,0,0,14,33],
@@ -248,6 +249,5 @@ var NAVTREEINDEX59 =
 "d4/d0e/classpocketmine_1_1item_1_1_wheat_seeds.html#a67b44433c553602d7c851b1ca23e6e5e":[2,0,0,5,124,40],
 "d4/d0e/classpocketmine_1_1item_1_1_wheat_seeds.html#a67b44433c553602d7c851b1ca23e6e5e":[3,0,1,12,125,40],
 "d4/d0e/classpocketmine_1_1item_1_1_wheat_seeds.html#a71289362f9d561347b5c8c2717eb0512":[2,0,0,5,124,38],
-"d4/d0e/classpocketmine_1_1item_1_1_wheat_seeds.html#a71289362f9d561347b5c8c2717eb0512":[3,0,1,12,125,38],
-"d4/d0e/classpocketmine_1_1item_1_1_wheat_seeds.html#a7b5c1e7e496c3077658212aaacec4b56":[2,0,0,5,124,15]
+"d4/d0e/classpocketmine_1_1item_1_1_wheat_seeds.html#a71289362f9d561347b5c8c2717eb0512":[3,0,1,12,125,38]
 };

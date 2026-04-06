@@ -1,5 +1,6 @@
 var NAVTREEINDEX95 =
 {
+"d6/d6a/classpocketmine_1_1block_1_1_redstone_ore.html#aaeaa1c5f259e28087e09db0a9b1ba39f":[3,0,1,0,195,31],
 "d6/d6a/classpocketmine_1_1block_1_1_redstone_ore.html#ab4d678fcc49f71fc70fff710482f3f4e":[2,0,0,0,193,19],
 "d6/d6a/classpocketmine_1_1block_1_1_redstone_ore.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,195,19],
 "d6/d6a/classpocketmine_1_1block_1_1_redstone_ore.html#ab92353cf0aa5c05ad26535f98a2b1dca":[2,0,0,0,193,26],
@@ -248,6 +249,5 @@ var NAVTREEINDEX95 =
 "d6/d7c/classpocketmine_1_1block_1_1_grass.html#a4b01df2347f9cc897c5eb2858d6c5e7e":[3,0,1,0,127,36],
 "d6/d7c/classpocketmine_1_1block_1_1_grass.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[2,0,0,0,125,46],
 "d6/d7c/classpocketmine_1_1block_1_1_grass.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[3,0,1,0,127,46],
-"d6/d7c/classpocketmine_1_1block_1_1_grass.html#a57b1586e3b6d81440be1aa89471f2a2a":[2,0,0,0,125,53],
-"d6/d7c/classpocketmine_1_1block_1_1_grass.html#a57b1586e3b6d81440be1aa89471f2a2a":[3,0,1,0,127,53]
+"d6/d7c/classpocketmine_1_1block_1_1_grass.html#a57b1586e3b6d81440be1aa89471f2a2a":[2,0,0,0,125,53]
 };

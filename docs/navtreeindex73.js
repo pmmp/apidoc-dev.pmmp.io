@@ -1,5 +1,6 @@
 var NAVTREEINDEX73 =
 {
+"d4/ddf/classpocketmine_1_1entity_1_1_human.html#a75141c6ee2a98bd8b3f1ab49998b455c":[2,0,0,2,12,38],
 "d4/ddf/classpocketmine_1_1entity_1_1_human.html#a75141c6ee2a98bd8b3f1ab49998b455c":[3,0,1,7,17,38],
 "d4/ddf/classpocketmine_1_1entity_1_1_human.html#a7a0ab51bbdfe50c4c8c58424974b47a7":[2,0,0,2,12,52],
 "d4/ddf/classpocketmine_1_1entity_1_1_human.html#a7a0ab51bbdfe50c4c8c58424974b47a7":[3,0,1,7,17,52],
@@ -248,6 +249,5 @@ var NAVTREEINDEX73 =
 "d4/dee/_crafting_transaction_8php_source.html":[4,0,1,9,1,1],
 "d4/dee/_event_8php_source.html":[4,0,1,7,9],
 "d4/dee/_player_fog_packet_8php_source.html":[4,0,2,0,1,0,136],
-"d4/def/classpocketmine_1_1world_1_1sound_1_1_ender_chest_close_sound.html":[3,0,1,30,5,53],
-"d4/def/classpocketmine_1_1world_1_1sound_1_1_ender_chest_close_sound.html#ace5c5e3854496ea1654722bf0cac94e7":[3,0,1,30,5,53,0]
+"d4/def/classpocketmine_1_1world_1_1sound_1_1_ender_chest_close_sound.html":[3,0,1,30,5,53]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX163 =
 {
+"da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,0,0,86,56],
+"da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,88,56],
+"da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a88017a7eecc3ba93f317e54e19751feb":[2,0,0,0,86,50],
+"da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a88017a7eecc3ba93f317e54e19751feb":[3,0,1,0,88,50],
 "da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a8a733c2fe564a205938a9146c8b0e0f1":[2,0,0,0,86,63],
 "da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a8a733c2fe564a205938a9146c8b0e0f1":[3,0,1,0,88,63],
 "da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,86,11],
@@ -245,9 +249,5 @@ var NAVTREEINDEX163 =
 "da/d59/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_entity_event.html#a08fb02264c2165b99cd2dc805d6ab8f8":[3,0,1,9,1,3,1],
 "da/d59/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_entity_event.html#a2333d7f055234d7fefc00066158bd888":[2,0,0,3,1,3,5],
 "da/d59/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_entity_event.html#a2333d7f055234d7fefc00066158bd888":[3,0,1,9,1,3,5],
-"da/d59/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_entity_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,1,3,0],
-"da/d59/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_entity_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,1,3,0],
-"da/d59/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_entity_event.html#a90efcab0d539a5cb5b17968dfa164017":[2,0,0,3,1,3,4],
-"da/d59/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_entity_event.html#a90efcab0d539a5cb5b17968dfa164017":[3,0,1,9,1,3,4],
-"da/d59/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_entity_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,0,3,1,3,3]
+"da/d59/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_entity_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,1,3,0]
 };

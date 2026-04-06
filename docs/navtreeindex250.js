@@ -1,5 +1,11 @@
 var NAVTREEINDEX250 =
 {
+"df/dad/classpocketmine_1_1item_1_1_enchanted_book.html#ae0735ccc1dee85d0c095aaa4109f40fb":[2,0,0,5,39,12],
+"df/dad/classpocketmine_1_1item_1_1_enchanted_book.html#ae0735ccc1dee85d0c095aaa4109f40fb":[3,0,1,12,40,12],
+"df/dad/classpocketmine_1_1item_1_1_enchanted_book.html#ae2543fd294d689ca6850d5bc78710522":[2,0,0,5,39,35],
+"df/dad/classpocketmine_1_1item_1_1_enchanted_book.html#ae2543fd294d689ca6850d5bc78710522":[3,0,1,12,40,35],
+"df/dad/classpocketmine_1_1item_1_1_enchanted_book.html#aec8070c04112770e0d01a3c56b252e81":[2,0,0,5,39,46],
+"df/dad/classpocketmine_1_1item_1_1_enchanted_book.html#aec8070c04112770e0d01a3c56b252e81":[3,0,1,12,40,46],
 "df/dad/classpocketmine_1_1item_1_1_enchanted_book.html#af44b2311f27b78c5cd442c189793e7e6":[2,0,0,5,39,36],
 "df/dad/classpocketmine_1_1item_1_1_enchanted_book.html#af44b2311f27b78c5cd442c189793e7e6":[3,0,1,12,40,36],
 "df/dad/classpocketmine_1_1item_1_1_enchanted_book.html#af737301b899b7a7c9e9b0bb9a234a119":[2,0,0,5,39,7],
@@ -243,11 +249,5 @@ var NAVTREEINDEX250 =
 "df/db6/classpocketmine_1_1item_1_1_string_item.html#ac7e878537e8ea68cc0d4d565f9f25062":[3,0,1,12,110,42],
 "df/db6/classpocketmine_1_1item_1_1_string_item.html#ad2d004e5063f6ca465ed956b024217b1":[2,0,0,5,109,26],
 "df/db6/classpocketmine_1_1item_1_1_string_item.html#ad2d004e5063f6ca465ed956b024217b1":[3,0,1,12,110,26],
-"df/db6/classpocketmine_1_1item_1_1_string_item.html#ad981d95fce9c8a14832dc5fabbf4f3e4":[2,0,0,5,109,22],
-"df/db6/classpocketmine_1_1item_1_1_string_item.html#ad981d95fce9c8a14832dc5fabbf4f3e4":[3,0,1,12,110,22],
-"df/db6/classpocketmine_1_1item_1_1_string_item.html#adfaf9728336726192e1499e47cf7ae1d":[2,0,0,5,109,41],
-"df/db6/classpocketmine_1_1item_1_1_string_item.html#adfaf9728336726192e1499e47cf7ae1d":[3,0,1,12,110,41],
-"df/db6/classpocketmine_1_1item_1_1_string_item.html#ae0735ccc1dee85d0c095aaa4109f40fb":[2,0,0,5,109,12],
-"df/db6/classpocketmine_1_1item_1_1_string_item.html#ae0735ccc1dee85d0c095aaa4109f40fb":[3,0,1,12,110,12],
-"df/db6/classpocketmine_1_1item_1_1_string_item.html#ae2543fd294d689ca6850d5bc78710522":[2,0,0,5,109,35]
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#ad981d95fce9c8a14832dc5fabbf4f3e4":[2,0,0,5,109,22]
 };

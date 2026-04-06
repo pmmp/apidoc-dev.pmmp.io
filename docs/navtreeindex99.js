@@ -1,5 +1,6 @@
 var NAVTREEINDEX99 =
 {
+"d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#afe4928a6da38d63eccea78bd1a2fdcd3":[2,0,0,0,136,21],
 "d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#afe4928a6da38d63eccea78bd1a2fdcd3":[3,0,1,0,138,21],
 "d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#afe506084e4bb8741a7ac64f6d90c00a5":[2,0,0,0,136,16],
 "d6/d94/classpocketmine_1_1block_1_1_infested_stone.html#afe506084e4bb8741a7ac64f6d90c00a5":[3,0,1,0,138,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX99 =
 "d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html#adfaf9728336726192e1499e47cf7ae1d":[2,0,0,5,112,46],
 "d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html#adfaf9728336726192e1499e47cf7ae1d":[3,0,1,12,113,46],
 "d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html#ae0735ccc1dee85d0c095aaa4109f40fb":[2,0,0,5,112,14],
-"d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html#ae0735ccc1dee85d0c095aaa4109f40fb":[3,0,1,12,113,14],
-"d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html#ae2543fd294d689ca6850d5bc78710522":[2,0,0,5,112,39]
+"d6/da0/classpocketmine_1_1item_1_1_sweet_berries.html#ae0735ccc1dee85d0c095aaa4109f40fb":[3,0,1,12,113,14]
 };

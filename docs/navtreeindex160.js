@@ -1,5 +1,9 @@
 var NAVTREEINDEX160 =
 {
+"da/d06/classpocketmine_1_1world_1_1generator_1_1_generator_manager_entry.html#a8e0f068293a3d7e91d8f8dc70dc10d29":[2,0,0,14,0,7,0],
+"da/d06/classpocketmine_1_1world_1_1generator_1_1_generator_manager_entry.html#a8e0f068293a3d7e91d8f8dc70dc10d29":[3,0,1,30,2,12,0],
+"da/d0a/_food_8php_source.html":[4,0,1,10,53],
+"da/d0a/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_flatten_info.html":[3,0,1,6,0,0,1,0,2],
 "da/d0a/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_flatten_info.html#a24d9049978a9062cc7683a0fffeb4a86":[3,0,1,6,0,0,1,0,2,2],
 "da/d0a/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_flatten_info.html#a2d7ace9c5005c55d491973d49a911f59":[3,0,1,6,0,0,1,0,2,0],
 "da/d0a/classpocketmine_1_1data_1_1bedrock_1_1block_1_1upgrade_1_1model_1_1_block_state_upgrade_schema_model_flatten_info.html#a4892055fa85bf0f90519f3dd601e22dc":[3,0,1,6,0,0,1,0,2,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX160 =
 "da/d1e/_sync_generator_executor_8php_source.html":[4,0,1,25,2,1,5],
 "da/d1e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_sub_chunk_packet_entry_common.html":[3,0,1,16,0,6,1,120],
 "da/d21/_cobweb_8php_source.html":[4,0,1,0,66],
-"da/d21/classpocketmine_1_1block_1_1utils_1_1_crop_growth_helper.html":[3,0,1,0,2,10],
-"da/d21/classpocketmine_1_1block_1_1utils_1_1_crop_growth_helper.html#aa2052102e8b86adab826b06d366a82d9":[3,0,1,0,2,10,0],
-"da/d23/classpocketmine_1_1command_1_1defaults_1_1_ban_command.html":[3,0,1,2,0,0],
-"da/d23/classpocketmine_1_1command_1_1defaults_1_1_ban_command.html#a0950e4c2830f8adc9526da754c56130d":[3,0,1,2,0,0,5],
-"da/d23/classpocketmine_1_1command_1_1defaults_1_1_ban_command.html#a143ec10cd80bb6f7b6b68d5c99d1603a":[3,0,1,2,0,0,0]
+"da/d21/classpocketmine_1_1block_1_1utils_1_1_crop_growth_helper.html":[3,0,1,0,2,10]
 };

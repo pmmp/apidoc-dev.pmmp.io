@@ -1,5 +1,6 @@
 var NAVTREEINDEX84 =
 {
+"d5/d9c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_show_profile_packet.html#a55025ba182163f59eb3175f7a7611b5d":[3,0,1,16,0,6,198,3],
 "d5/d9c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_show_profile_packet.html#a64591cefd71d102e917cf137845a5d4f":[3,0,1,16,0,6,198,2],
 "d5/d9c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_show_profile_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,198,0],
 "d5/d9c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_show_profile_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,198,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX84 =
 "d5/db4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_dimension_ids.html":[3,0,1,16,0,6,1,57],
 "d5/db4/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_int_game_rule.html":[3,0,1,16,0,6,1,78],
 "d5/db5/classpocketmine_1_1world_1_1sound_1_1_door_sound.html":[3,0,1,30,5,49],
-"d5/db5/classpocketmine_1_1world_1_1sound_1_1_door_sound.html#a038082336e2feb4d9360b021ccfb26b9":[3,0,1,30,5,49,0],
-"d5/db6/_xp_collect_sound_8php_source.html":[4,0,1,25,5,111]
+"d5/db5/classpocketmine_1_1world_1_1sound_1_1_door_sound.html#a038082336e2feb4d9360b021ccfb26b9":[3,0,1,30,5,49,0]
 };

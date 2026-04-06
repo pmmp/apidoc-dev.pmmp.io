@@ -1,5 +1,9 @@
 var NAVTREEINDEX177 =
 {
+"db/d7b/_portal_particle_8php_source.html":[4,0,1,25,4,26],
+"db/d7c/_golden_apple_8php_source.html":[4,0,1,10,59],
+"db/d7d/classpocketmine_1_1world_1_1sound_1_1_door_crash_sound.html":[3,0,1,30,5,48],
+"db/d7d/classpocketmine_1_1world_1_1sound_1_1_door_crash_sound.html#a01273c4be53aa60663227fb1c9640f9c":[3,0,1,30,5,48,0],
 "db/d7f/_actor_pick_request_packet_8php_source.html":[4,0,2,0,1,0,3],
 "db/d7f/_clientbound_attribute_layer_sync_packet_8php_source.html":[4,0,2,0,1,0,36],
 "db/d80/_sub_chunk_request_packet_8php_source.html":[4,0,2,0,1,0,211],
@@ -245,9 +249,5 @@ var NAVTREEINDEX177 =
 "db/d86/classpocketmine_1_1block_1_1_melon_stem.html#ab92353cf0aa5c05ad26535f98a2b1dca":[3,0,1,0,158,26],
 "db/d86/classpocketmine_1_1block_1_1_melon_stem.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[2,0,0,0,156,12],
 "db/d86/classpocketmine_1_1block_1_1_melon_stem.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[3,0,1,0,158,12],
-"db/d86/classpocketmine_1_1block_1_1_melon_stem.html#ac21d37b318d50f3953cdb49de9949107":[2,0,0,0,156,65],
-"db/d86/classpocketmine_1_1block_1_1_melon_stem.html#ac21d37b318d50f3953cdb49de9949107":[3,0,1,0,158,65],
-"db/d86/classpocketmine_1_1block_1_1_melon_stem.html#ac34d7d0bd5e5173f331e56f6b97ca796":[2,0,0,0,156,49],
-"db/d86/classpocketmine_1_1block_1_1_melon_stem.html#ac34d7d0bd5e5173f331e56f6b97ca796":[3,0,1,0,158,49],
-"db/d86/classpocketmine_1_1block_1_1_melon_stem.html#ac7c6b2cf8fdce0bf501dc62d06b04aff":[2,0,0,0,156,6]
+"db/d86/classpocketmine_1_1block_1_1_melon_stem.html#ac21d37b318d50f3953cdb49de9949107":[2,0,0,0,156,65]
 };

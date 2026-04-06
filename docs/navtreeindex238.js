@@ -1,5 +1,11 @@
 var NAVTREEINDEX238 =
 {
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a230565075093f60685b2a9f602489133":[2,0,0,2,21,28],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a230565075093f60685b2a9f602489133":[3,0,1,7,26,28],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a23093e6281aba70471af5c5e34051667":[2,0,0,2,21,10],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a23093e6281aba70471af5c5e34051667":[3,0,1,7,26,10],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a265cb93031a89ccc4a4236b3702c690b":[2,0,0,2,21,44],
+"df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a265cb93031a89ccc4a4236b3702c690b":[3,0,1,7,26,44],
 "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a273bd4bd28a437291326bf1546e7f5cd":[2,0,0,2,21,3],
 "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a273bd4bd28a437291326bf1546e7f5cd":[3,0,1,7,26,3],
 "df/d3c/classpocketmine_1_1entity_1_1_water_animal.html#a29d0dc231dadf07f25377dcf67aa3b3d":[2,0,0,2,21,59],
@@ -243,11 +249,5 @@ var NAVTREEINDEX238 =
 "df/d43/classpocketmine_1_1item_1_1_clownfish.html#ae0735ccc1dee85d0c095aaa4109f40fb":[2,0,0,5,22,14],
 "df/d43/classpocketmine_1_1item_1_1_clownfish.html#ae0735ccc1dee85d0c095aaa4109f40fb":[3,0,1,12,23,14],
 "df/d43/classpocketmine_1_1item_1_1_clownfish.html#ae2543fd294d689ca6850d5bc78710522":[2,0,0,5,22,39],
-"df/d43/classpocketmine_1_1item_1_1_clownfish.html#ae2543fd294d689ca6850d5bc78710522":[3,0,1,12,23,39],
-"df/d43/classpocketmine_1_1item_1_1_clownfish.html#aec8070c04112770e0d01a3c56b252e81":[2,0,0,5,22,51],
-"df/d43/classpocketmine_1_1item_1_1_clownfish.html#aec8070c04112770e0d01a3c56b252e81":[3,0,1,12,23,51],
-"df/d43/classpocketmine_1_1item_1_1_clownfish.html#af44b2311f27b78c5cd442c189793e7e6":[2,0,0,5,22,40],
-"df/d43/classpocketmine_1_1item_1_1_clownfish.html#af44b2311f27b78c5cd442c189793e7e6":[3,0,1,12,23,40],
-"df/d43/classpocketmine_1_1item_1_1_clownfish.html#af737301b899b7a7c9e9b0bb9a234a119":[2,0,0,5,22,8],
-"df/d43/classpocketmine_1_1item_1_1_clownfish.html#af737301b899b7a7c9e9b0bb9a234a119":[3,0,1,12,23,8]
+"df/d43/classpocketmine_1_1item_1_1_clownfish.html#ae2543fd294d689ca6850d5bc78710522":[3,0,1,12,23,39]
 };

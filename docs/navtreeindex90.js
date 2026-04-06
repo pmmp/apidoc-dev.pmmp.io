@@ -1,5 +1,6 @@
 var NAVTREEINDEX90 =
 {
+"d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,81,48],
 "d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,83,48],
 "d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,81,3],
 "d5/dfb/classpocketmine_1_1block_1_1_crafting_table.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,83,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX90 =
 "d6/d1e/classpocketmine_1_1entity_1_1projectile_1_1_experience_bottle.html#a22a098fc4892820db7d15a73edea64ca":[3,0,1,7,3,3,11],
 "d6/d1e/classpocketmine_1_1entity_1_1projectile_1_1_experience_bottle.html#a23093e6281aba70471af5c5e34051667":[3,0,1,7,3,3,7],
 "d6/d1e/classpocketmine_1_1entity_1_1projectile_1_1_experience_bottle.html#a25ad669890dc24d70b8cdad878cd6449":[3,0,1,7,3,3,41],
-"d6/d1e/classpocketmine_1_1entity_1_1projectile_1_1_experience_bottle.html#a265cb93031a89ccc4a4236b3702c690b":[3,0,1,7,3,3,31],
-"d6/d1e/classpocketmine_1_1entity_1_1projectile_1_1_experience_bottle.html#a2bd1fab41c3720c1ec9f75997958c223":[3,0,1,7,3,3,43]
+"d6/d1e/classpocketmine_1_1entity_1_1projectile_1_1_experience_bottle.html#a265cb93031a89ccc4a4236b3702c690b":[3,0,1,7,3,3,31]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX50 =
 {
+"d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#a89de36e6386ed9752961d162f055ce6e":[2,0,0,0,53,50],
 "d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#a89de36e6386ed9752961d162f055ce6e":[3,0,1,0,55,50],
 "d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#a8af08c2d1638db497dd1c5cabed8510d":[2,0,0,0,53,73],
 "d3/d62/classpocketmine_1_1block_1_1_ceiling_edges_hanging_sign.html#a8af08c2d1638db497dd1c5cabed8510d":[3,0,1,0,55,73],
@@ -248,6 +249,5 @@ var NAVTREEINDEX50 =
 "d3/d75/classpocketmine_1_1event_1_1entity_1_1_projectile_hit_event.html#ab97cc2fd3a3b6659cbef9db246ef891e":[2,0,0,3,1,32,1],
 "d3/d75/classpocketmine_1_1event_1_1entity_1_1_projectile_hit_event.html#ab97cc2fd3a3b6659cbef9db246ef891e":[3,0,1,9,1,32,1],
 "d3/d75/classpocketmine_1_1event_1_1entity_1_1_projectile_hit_event.html#addf6091efc06869f310cfcdc937d1e6d":[2,0,0,3,1,32,2],
-"d3/d75/classpocketmine_1_1event_1_1entity_1_1_projectile_hit_event.html#addf6091efc06869f310cfcdc937d1e6d":[3,0,1,9,1,32,2],
-"d3/d75/namespacepocketmine_1_1scheduler.html":[2,0,0,11]
+"d3/d75/classpocketmine_1_1event_1_1entity_1_1_projectile_hit_event.html#addf6091efc06869f310cfcdc937d1e6d":[3,0,1,9,1,32,2]
 };
