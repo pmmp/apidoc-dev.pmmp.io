@@ -1,5 +1,14 @@
 var NAVTREEINDEX8 =
 {
+"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#a8a733c2fe564a205938a9146c8b0e0f1":[2,0,0,0,55,63],
+"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#a8a733c2fe564a205938a9146c8b0e0f1":[3,0,1,0,57,63],
+"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,55,11],
+"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,57,11],
+"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,55,65],
+"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,57,65],
+"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,55,38],
+"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,57,38],
+"d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,55,7],
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[3,0,1,0,57,7],
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[2,0,0,0,55,4],
 "d0/da2/classpocketmine_1_1block_1_1_chemical_heat.html#aa09e248dd611c0ebb95cf2adf2d6d31c":[3,0,1,0,57,4],
@@ -239,15 +248,6 @@ var NAVTREEINDEX8 =
 "d0/da8/_snowy_biome_8php_source.html":[4,0,1,25,0,14],
 "d0/da8/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_int_metadata_property.html":[3,0,1,16,0,6,1,3,14],
 "d0/daa/_wall_sign_8php_source.html":[4,0,1,0,255],
-"d0/dac/_shapeless_recipe_data_8php_source.html":[4,0,1,3,0,6],
-"d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html":[2,0,0,5,42],
-"d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html":[3,0,1,12,43],
-"d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html#a0a422a89abd427286bc2f312100f968c":[2,0,0,5,42,30],
-"d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html#a0a422a89abd427286bc2f312100f968c":[3,0,1,12,43,30],
-"d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html#a11483f8bbc44517bf2a25e40a3aa7558":[2,0,0,5,42,1],
-"d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html#a11483f8bbc44517bf2a25e40a3aa7558":[3,0,1,12,43,1],
-"d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html#a1179a3b7a49461ede413b50c82b5684a":[2,0,0,5,42,27],
-"d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html#a1179a3b7a49461ede413b50c82b5684a":[3,0,1,12,43,27],
-"d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html#a1df151eb419168f838e6d927c50f9210":[2,0,0,5,42,4],
-"d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html#a1df151eb419168f838e6d927c50f9210":[3,0,1,12,43,4]
+"d0/dac/_shapeless_recipe_data_8php_source.html":[4,0,1,3,0,5],
+"d0/dac/classpocketmine_1_1item_1_1_experience_bottle.html":[2,0,0,5,42]
 };

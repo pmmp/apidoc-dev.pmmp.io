@@ -1,5 +1,15 @@
 var NAVTREEINDEX17 =
 {
+"d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#acb449b40461f4800cf6e6288cb9a069d":[3,0,1,0,45,1],
+"d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,43,26],
+"d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#acb7cc5bba94398c6a329b3b2af8fa859":[3,0,1,0,45,26],
+"d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[2,0,0,0,43,60],
+"d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[3,0,1,0,45,60],
+"d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#acfa7766036568571b645ae89ceb1029e":[2,0,0,0,43,45],
+"d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#acfa7766036568571b645ae89ceb1029e":[3,0,1,0,45,45],
+"d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#ad57a8bddf87431ff034f3a96e7219d63":[2,0,0,0,43,17],
+"d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#ad57a8bddf87431ff034f3a96e7219d63":[3,0,1,0,45,17],
+"d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#ad925607ef09026804dbbf059583e3add":[2,0,0,0,43,44],
 "d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#ad925607ef09026804dbbf059583e3add":[3,0,1,0,45,44],
 "d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#adc070fadd4e3b1f0e5ecb14b2e2e987e":[2,0,0,0,43,36],
 "d1/d2e/classpocketmine_1_1block_1_1_cake_with_dyed_candle.html#adc070fadd4e3b1f0e5ecb14b2e2e987e":[3,0,1,0,45,36],
@@ -35,7 +45,7 @@ var NAVTREEINDEX17 =
 "d1/d2e/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary_entry.html#a082a35789a7fac58f9b2e6772f8ebcde":[3,0,1,16,0,3,1,1],
 "d1/d2e/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary_entry.html#a34e3b467380b9eac0031c960a970b6b0":[3,0,1,16,0,3,1,0],
 "d1/d2e/classpocketmine_1_1network_1_1mcpe_1_1convert_1_1_block_state_dictionary_entry.html#aea7121b497f3ad451c28b94466b9765c":[3,0,1,16,0,3,1,2],
-"d1/d2e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_multiplayer_game_visibility.html":[3,0,1,16,0,6,1,92],
+"d1/d2e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_multiplayer_game_visibility.html":[3,0,1,16,0,6,1,94],
 "d1/d2f/classpocketmine_1_1event_1_1_event.html":[2,0,0,3,7],
 "d1/d2f/classpocketmine_1_1event_1_1_event.html":[3,0,1,9,8],
 "d1/d2f/classpocketmine_1_1event_1_1_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,7,0],
@@ -239,15 +249,5 @@ var NAVTREEINDEX17 =
 "d1/d31/classpocketmine_1_1block_1_1_gravel.html#a8635dccd33641330c42129a61377b2fd":[3,0,1,0,129,38],
 "d1/d31/classpocketmine_1_1block_1_1_gravel.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,0,0,127,60],
 "d1/d31/classpocketmine_1_1block_1_1_gravel.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,129,60],
-"d1/d31/classpocketmine_1_1block_1_1_gravel.html#a88017a7eecc3ba93f317e54e19751feb":[2,0,0,0,127,53],
-"d1/d31/classpocketmine_1_1block_1_1_gravel.html#a88017a7eecc3ba93f317e54e19751feb":[3,0,1,0,129,53],
-"d1/d31/classpocketmine_1_1block_1_1_gravel.html#a8a733c2fe564a205938a9146c8b0e0f1":[2,0,0,0,127,67],
-"d1/d31/classpocketmine_1_1block_1_1_gravel.html#a8a733c2fe564a205938a9146c8b0e0f1":[3,0,1,0,129,67],
-"d1/d31/classpocketmine_1_1block_1_1_gravel.html#a912c0f3a42aefc049e119f931a2ec86e":[2,0,0,0,127,11],
-"d1/d31/classpocketmine_1_1block_1_1_gravel.html#a912c0f3a42aefc049e119f931a2ec86e":[3,0,1,0,129,11],
-"d1/d31/classpocketmine_1_1block_1_1_gravel.html#a9404d9040389f3ff2462f86d9a181160":[2,0,0,0,127,70],
-"d1/d31/classpocketmine_1_1block_1_1_gravel.html#a9404d9040389f3ff2462f86d9a181160":[3,0,1,0,129,70],
-"d1/d31/classpocketmine_1_1block_1_1_gravel.html#a994b80e9138156e5b90a803def57c7db":[2,0,0,0,127,41],
-"d1/d31/classpocketmine_1_1block_1_1_gravel.html#a994b80e9138156e5b90a803def57c7db":[3,0,1,0,129,41],
-"d1/d31/classpocketmine_1_1block_1_1_gravel.html#a9b788631c97edb0ea441d4f0e1a5f7b4":[2,0,0,0,127,7]
+"d1/d31/classpocketmine_1_1block_1_1_gravel.html#a88017a7eecc3ba93f317e54e19751feb":[2,0,0,0,127,53]
 };
