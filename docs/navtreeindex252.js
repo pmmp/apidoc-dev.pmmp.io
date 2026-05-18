@@ -1,5 +1,10 @@
 var NAVTREEINDEX252 =
 {
+"df/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_block_event.html":[3,0,1,9,1,2],
+"df/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_block_event.html#a08fb02264c2165b99cd2dc805d6ab8f8":[2,0,0,3,1,2,1],
+"df/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_block_event.html#a08fb02264c2165b99cd2dc805d6ab8f8":[3,0,1,9,1,2,1],
+"df/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_block_event.html#a2333d7f055234d7fefc00066158bd888":[2,0,0,3,1,2,5],
+"df/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_block_event.html#a2333d7f055234d7fefc00066158bd888":[3,0,1,9,1,2,5],
 "df/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_block_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,1,2,0],
 "df/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_block_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,1,2,0],
 "df/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_block_event.html#a90efcab0d539a5cb5b17968dfa164017":[2,0,0,3,1,2,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX252 =
 "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a669dd4d0d107ea87a447816f3f0e52c8":[3,0,1,7,2,2,39],
 "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a6713726bec4a4eb990c7ed3868fc7a2b":[3,0,1,7,2,2,4],
 "df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a70cf8b292934a30414b3eb55340652b6":[3,0,1,7,2,2,54],
-"df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a75141c6ee2a98bd8b3f1ab49998b455c":[3,0,1,7,2,2,23],
-"df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a79a0066b72b3a0fef69256548a8ce228":[3,0,1,7,2,2,49],
-"df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a7a0ab51bbdfe50c4c8c58424974b47a7":[3,0,1,7,2,2,30],
-"df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a7b2b97ba4ef36a9896c6c00f0997c7d5":[3,0,1,7,2,2,44],
-"df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a81725faf49c2b6fb3314cac3f6a11e3c":[3,0,1,7,2,2,36],
-"df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a89a01723e97021d54e83c24d1b74670f":[3,0,1,7,2,2,11]
+"df/deb/classpocketmine_1_1entity_1_1object_1_1_experience_orb.html#a75141c6ee2a98bd8b3f1ab49998b455c":[3,0,1,7,2,2,23]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX81 =
 {
+"d5/d77/classpocketmine_1_1data_1_1bedrock_1_1item_1_1_item_type_names.html":[3,0,1,6,0,1,6],
+"d5/d78/classpocketmine_1_1world_1_1sound_1_1_block_punch_sound.html":[3,0,1,30,5,20],
+"d5/d78/classpocketmine_1_1world_1_1sound_1_1_block_punch_sound.html#ae4d6e1673a4bf2958ac16cbc2fd1dd6c":[3,0,1,30,5,20,0],
+"d5/d7a/_wall_connection_type_8php_source.html":[4,0,1,0,2,69],
 "d5/d7b/_enum_from_raw_state_map_8php_source.html":[4,0,1,5,0,0,0,0,4],
 "d5/d7b/_server_socket_8php_source.html":[4,0,2,0,9,0,3,6],
 "d5/d7b/classpocketmine_1_1block_1_1_wheat.html":[2,0,0,0,259],
@@ -245,9 +249,5 @@ var NAVTREEINDEX81 =
 "d5/d81/classpocketmine_1_1block_1_1_magma.html#acb449b40461f4800cf6e6288cb9a069d":[2,0,0,0,153,0],
 "d5/d81/classpocketmine_1_1block_1_1_magma.html#acb449b40461f4800cf6e6288cb9a069d":[3,0,1,0,155,0],
 "d5/d81/classpocketmine_1_1block_1_1_magma.html#acb7cc5bba94398c6a329b3b2af8fa859":[2,0,0,0,153,24],
-"d5/d81/classpocketmine_1_1block_1_1_magma.html#acb7cc5bba94398c6a329b3b2af8fa859":[3,0,1,0,155,24],
-"d5/d81/classpocketmine_1_1block_1_1_magma.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[2,0,0,0,153,57],
-"d5/d81/classpocketmine_1_1block_1_1_magma.html#acf338037e498bd5c8dbe6d4bceb2a7ca":[3,0,1,0,155,57],
-"d5/d81/classpocketmine_1_1block_1_1_magma.html#acfa7766036568571b645ae89ceb1029e":[2,0,0,0,153,43],
-"d5/d81/classpocketmine_1_1block_1_1_magma.html#acfa7766036568571b645ae89ceb1029e":[3,0,1,0,155,43]
+"d5/d81/classpocketmine_1_1block_1_1_magma.html#acb7cc5bba94398c6a329b3b2af8fa859":[3,0,1,0,155,24]
 };

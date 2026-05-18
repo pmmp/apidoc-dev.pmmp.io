@@ -1,5 +1,10 @@
 var NAVTREEINDEX216 =
 {
+"dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html#a9866a7ab362cec28252d67f6382a4ad4":[3,0,1,12,75,34],
+"dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[2,0,0,5,74,4],
+"dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[3,0,1,12,75,4],
+"dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html#a9dd9484fe3ab1afcbd2627860e01973a":[2,0,0,5,74,48],
+"dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html#a9dd9484fe3ab1afcbd2627860e01973a":[3,0,1,12,75,48],
 "dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[2,0,0,5,74,10],
 "dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html#a9fbcd5bdd10c237ec9f0dea1daaeeb57":[3,0,1,12,75,10],
 "dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html#aa27432059ecfd201a3cec74253b21fa9":[2,0,0,5,74,51],
@@ -244,10 +249,5 @@ var NAVTREEINDEX216 =
 "dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#a771a30c30a36b0992f54c57dc63af10d":[3,0,1,0,210,43],
 "dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#a8307fc850da5c3f36e9dfc7ce639fe55":[2,0,0,0,208,48],
 "dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#a8307fc850da5c3f36e9dfc7ce639fe55":[3,0,1,0,210,48],
-"dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[2,0,0,0,208,31],
-"dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,210,31],
-"dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#a8635dccd33641330c42129a61377b2fd":[2,0,0,0,208,38],
-"dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#a8635dccd33641330c42129a61377b2fd":[3,0,1,0,210,38],
-"dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,0,0,208,59],
-"dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,210,59]
+"dd/dc4/classpocketmine_1_1block_1_1_simple_pressure_plate.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[2,0,0,0,208,31]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX147 =
 {
+"d9/d20/classpocketmine_1_1block_1_1_door.html#a771a30c30a36b0992f54c57dc63af10d":[2,0,0,0,88,40],
+"d9/d20/classpocketmine_1_1block_1_1_door.html#a771a30c30a36b0992f54c57dc63af10d":[3,0,1,0,90,40],
+"d9/d20/classpocketmine_1_1block_1_1_door.html#a8307fc850da5c3f36e9dfc7ce639fe55":[2,0,0,0,88,45],
+"d9/d20/classpocketmine_1_1block_1_1_door.html#a8307fc850da5c3f36e9dfc7ce639fe55":[3,0,1,0,90,45],
 "d9/d20/classpocketmine_1_1block_1_1_door.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[2,0,0,0,88,28],
 "d9/d20/classpocketmine_1_1block_1_1_door.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,90,28],
 "d9/d20/classpocketmine_1_1block_1_1_door.html#a8635dccd33641330c42129a61377b2fd":[2,0,0,0,88,35],
@@ -245,9 +249,5 @@ var NAVTREEINDEX147 =
 "d9/d23/classpocketmine_1_1entity_1_1effect_1_1_poison_effect.html#af53872f0b01e47945ea5dd82d3159b0f":[3,0,1,7,1,12,3],
 "d9/d24/entity_2projectile_2_ice_bomb_8php_source.html":[4,0,1,6,3,4],
 "d9/d24/populator_2_ore_8php_source.html":[4,0,1,25,2,6,1],
-"d9/d27/_async_pool_8php_source.html":[4,0,1,18,0],
-"d9/d27/_blaze_rod_8php_source.html":[4,0,1,10,13],
-"d9/d27/_tripwire_8php_source.html":[4,0,1,0,245],
-"d9/d27/classpocketmine_1_1utils_1_1_main_logger.html":[2,0,0,12,13],
-"d9/d27/classpocketmine_1_1utils_1_1_main_logger.html":[3,0,1,28,13]
+"d9/d27/_async_pool_8php_source.html":[4,0,1,18,0]
 };

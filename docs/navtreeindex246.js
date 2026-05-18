@@ -1,5 +1,10 @@
 var NAVTREEINDEX246 =
 {
+"df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,73,18],
+"df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,71,60],
+"df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,73,60],
+"df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,71,47],
+"df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,73,47],
 "df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,71,3],
 "df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,73,3],
 "df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,71,22],
@@ -244,10 +249,5 @@ var NAVTREEINDEX246 =
 "df/d8c/classpocketmine_1_1world_1_1particle_1_1_enderman_teleport_particle.html":[3,0,1,30,4,10],
 "df/d8c/classpocketmine_1_1world_1_1particle_1_1_enderman_teleport_particle.html#a78cc603b58bc916b3c23a415ecb2bb39":[3,0,1,30,4,10,0],
 "df/d8d/_copper_material_8php_source.html":[4,0,1,0,2,21],
-"df/d8d/_jigsaw_structure_data_packet_8php_source.html":[4,0,2,0,1,0,92],
-"df/d8e/_wheat_seeds_8php_source.html":[4,0,1,10,132],
-"df/d8e/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1entity_1_1_vec3_metadata_property.html":[3,0,1,16,0,6,1,3,22],
-"df/d8f/classpocketmine_1_1event_1_1player_1_1_player_chat_event.html":[2,0,0,3,3,7],
-"df/d8f/classpocketmine_1_1event_1_1player_1_1_player_chat_event.html":[3,0,1,9,3,7],
-"df/d8f/classpocketmine_1_1event_1_1player_1_1_player_chat_event.html#a0d9ddc9a94eb30d77e831c1dd0fb76fa":[2,0,0,3,3,7,0]
+"df/d8d/_jigsaw_structure_data_packet_8php_source.html":[4,0,2,0,1,0,92]
 };

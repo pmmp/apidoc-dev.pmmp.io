@@ -1,5 +1,10 @@
 var NAVTREEINDEX245 =
 {
+"df/d79/classpocketmine_1_1block_1_1_stonecutter.html#ab6b90601adfc9732893dcffe256514a9":[3,0,1,0,230,67],
+"df/d79/classpocketmine_1_1block_1_1_stonecutter.html#ab731ef1ac99496287ef09c72ded1dfe4":[2,0,0,0,228,56],
+"df/d79/classpocketmine_1_1block_1_1_stonecutter.html#ab731ef1ac99496287ef09c72ded1dfe4":[3,0,1,0,230,56],
+"df/d79/classpocketmine_1_1block_1_1_stonecutter.html#ab92353cf0aa5c05ad26535f98a2b1dca":[2,0,0,0,228,26],
+"df/d79/classpocketmine_1_1block_1_1_stonecutter.html#ab92353cf0aa5c05ad26535f98a2b1dca":[3,0,1,0,230,26],
 "df/d79/classpocketmine_1_1block_1_1_stonecutter.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[2,0,0,0,228,12],
 "df/d79/classpocketmine_1_1block_1_1_stonecutter.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[3,0,1,0,230,12],
 "df/d79/classpocketmine_1_1block_1_1_stonecutter.html#ac34d7d0bd5e5173f331e56f6b97ca796":[2,0,0,0,228,50],
@@ -244,10 +249,5 @@ var NAVTREEINDEX245 =
 "df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,73,58],
 "df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a09f4667329f89292dd319d56c4243b59":[2,0,0,0,71,30],
 "df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a09f4667329f89292dd319d56c4243b59":[3,0,1,0,73,30],
-"df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,71,18],
-"df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[3,0,1,0,73,18],
-"df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,71,60],
-"df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,73,60],
-"df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,71,47],
-"df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,73,47]
+"df/d88/classpocketmine_1_1block_1_1_copper_chain.html#a104403fbe0f0d27d8a5ac667cd1a89ef":[2,0,0,0,71,18]
 };

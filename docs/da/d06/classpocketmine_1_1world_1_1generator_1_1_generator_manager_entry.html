@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.43.2 git-10285977bca624a6424b6c684dfc75cb8fb37c1a</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.43.2 git-a137a986d01d9af23452b2e741699a770c7ae112</span>
    </div>
   </td>
  </tr>
@@ -114,15 +114,17 @@ $(function(){initNavTree('da/d06/classpocketmine_1_1world_1_1generator_1_1_gener
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../d4/d1e/classpocketmine_1_1world_1_1generator_1_1_generator_manager_entry__coll__graph.svg" width="218" height="151"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d4/d1e/classpocketmine_1_1world_1_1generator_1_1_generator_manager_entry__coll__graph.svg" width="218" height="171"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a8e0f068293a3d7e91d8f8dc70dc10d29" id="r_a8e0f068293a3d7e91d8f8dc70dc10d29"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a8e0f068293a3d7e91d8f8dc70dc10d29">__construct</a> (private string $generatorClass, private \Closure $presetValidator, private readonly bool $fast)</td></tr>
-<tr class="separator:a8e0f068293a3d7e91d8f8dc70dc10d29"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c933de6c80b9516cd117c8891058f2b" id="r_a9c933de6c80b9516cd117c8891058f2b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a9c933de6c80b9516cd117c8891058f2b">__construct</a> (private string $generatorClass, private \Closure $presetValidator, private readonly bool $fast, private ?\Closure $spawnPositionProvider=null)</td></tr>
+<tr class="separator:a9c933de6c80b9516cd117c8891058f2b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a444c92b15d609e1d557dac8028acfc7a" id="r_a444c92b15d609e1d557dac8028acfc7a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a444c92b15d609e1d557dac8028acfc7a">getGeneratorClass</a> ()</td></tr>
 <tr class="separator:a444c92b15d609e1d557dac8028acfc7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1240102c8a9f028db14b4903a254f86f" id="r_a1240102c8a9f028db14b4903a254f86f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a1240102c8a9f028db14b4903a254f86f">getSpawnPosition</a> (int $seed)</td></tr>
+<tr class="separator:a1240102c8a9f028db14b4903a254f86f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa1d19cf94cda65fe69403ab4dc21f521" id="r_aa1d19cf94cda65fe69403ab4dc21f521"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aa1d19cf94cda65fe69403ab4dc21f521">isFast</a> ()</td></tr>
 <tr class="separator:aa1d19cf94cda65fe69403ab4dc21f521"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a21e5db3b3b4ccd9699c1263e557b9a8d" id="r_a21e5db3b3b4ccd9699c1263e557b9a8d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a21e5db3b3b4ccd9699c1263e557b9a8d">validateGeneratorOptions</a> (string $generatorOptions)</td></tr>
@@ -130,10 +132,10 @@ Public Member Functions</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="../../d8/d0d/_generator_manager_entry_8php_source.html#l00026">26</a> of file <a class="el" href="../../d8/d0d/_generator_manager_entry_8php_source.html">GeneratorManagerEntry.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d0d/_generator_manager_entry_8php_source.html#l00028">28</a> of file <a class="el" href="../../d8/d0d/_generator_manager_entry_8php_source.html">GeneratorManagerEntry.php</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a8e0f068293a3d7e91d8f8dc70dc10d29" name="a8e0f068293a3d7e91d8f8dc70dc10d29"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8e0f068293a3d7e91d8f8dc70dc10d29">&#9670;&#160;</a></span>__construct()</h2>
+<a id="a9c933de6c80b9516cd117c8891058f2b" name="a9c933de6c80b9516cd117c8891058f2b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9c933de6c80b9516cd117c8891058f2b">&#9670;&#160;</a></span>__construct()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -151,13 +153,18 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">private readonly bool</td>          <td class="paramname"><span class="paramname"><em>$fast</em></span>&#160;)</td>
+          <td class="paramtype">private readonly bool</td>          <td class="paramname"><span class="paramname"><em>$fast</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">private ?\Closure</td>          <td class="paramname"><span class="paramname"><em>$spawnPositionProvider</em></span><span class="paramdefsep"> = </span><span class="paramdefval">null</span>&#160;)</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>@phpstan-param class-string&lt;Generator&gt; $generatorClass @phpstan-param \Closure(string) : ?InvalidGeneratorOptionsException $presetValidator </p>
+<p>@phpstan-param class-string&lt;Generator&gt; $generatorClass @phpstan-param \Closure(string) : ?InvalidGeneratorOptionsException $presetValidator @phpstan-param (\Closure(int) : ?Vector3)|null $spawnPositionProvider </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d0d/_generator_manager_entry_8php_source.html#l00032">32</a> of file <a class="el" href="../../d8/d0d/_generator_manager_entry_8php_source.html">GeneratorManagerEntry.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d0d/_generator_manager_entry_8php_source.html#l00035">35</a> of file <a class="el" href="../../d8/d0d/_generator_manager_entry_8php_source.html">GeneratorManagerEntry.php</a>.</p>
 
 </div>
 </div>
@@ -178,7 +185,26 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <p>@phpstan-return class-string&lt;Generator&gt; </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d0d/_generator_manager_entry_8php_source.html#l00039">39</a> of file <a class="el" href="../../d8/d0d/_generator_manager_entry_8php_source.html">GeneratorManagerEntry.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d0d/_generator_manager_entry_8php_source.html#l00043">43</a> of file <a class="el" href="../../d8/d0d/_generator_manager_entry_8php_source.html">GeneratorManagerEntry.php</a>.</p>
+
+</div>
+</div>
+<a id="a1240102c8a9f028db14b4903a254f86f" name="a1240102c8a9f028db14b4903a254f86f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1240102c8a9f028db14b4903a254f86f">&#9670;&#160;</a></span>getSpawnPosition()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">pocketmine\world\generator\GeneratorManagerEntry::getSpawnPosition </td>
+          <td>(</td>
+          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>$seed</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d8/d0d/_generator_manager_entry_8php_source.html#l00056">56</a> of file <a class="el" href="../../d8/d0d/_generator_manager_entry_8php_source.html">GeneratorManagerEntry.php</a>.</p>
 
 </div>
 </div>
@@ -197,7 +223,7 @@ Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d0d/_generator_manager_entry_8php_source.html#l00041">41</a> of file <a class="el" href="../../d8/d0d/_generator_manager_entry_8php_source.html">GeneratorManagerEntry.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d0d/_generator_manager_entry_8php_source.html#l00045">45</a> of file <a class="el" href="../../d8/d0d/_generator_manager_entry_8php_source.html">GeneratorManagerEntry.php</a>.</p>
 
 </div>
 </div>
@@ -222,7 +248,7 @@ Public Member Functions</h2></td></tr>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d0d/_generator_manager_entry_8php_source.html#l00046">46</a> of file <a class="el" href="../../d8/d0d/_generator_manager_entry_8php_source.html">GeneratorManagerEntry.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d0d/_generator_manager_entry_8php_source.html#l00050">50</a> of file <a class="el" href="../../d8/d0d/_generator_manager_entry_8php_source.html">GeneratorManagerEntry.php</a>.</p>
 
 </div>
 </div>

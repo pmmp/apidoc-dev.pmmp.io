@@ -1,5 +1,10 @@
 var NAVTREEINDEX251 =
 {
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#a319a186a07d166461600dd4a639eb86f":[3,0,1,12,110,10],
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#a336d6f91be72079853413f5b4036a57d":[2,0,0,5,109,2],
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#a336d6f91be72079853413f5b4036a57d":[3,0,1,12,110,2],
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#a3bc65b2324649d8735dadf9bf8cf0705":[2,0,0,5,109,45],
+"df/db6/classpocketmine_1_1item_1_1_string_item.html#a3bc65b2324649d8735dadf9bf8cf0705":[3,0,1,12,110,45],
 "df/db6/classpocketmine_1_1item_1_1_string_item.html#a49a05b01faaaf071449c97060fe44926":[2,0,0,5,109,0],
 "df/db6/classpocketmine_1_1item_1_1_string_item.html#a49a05b01faaaf071449c97060fe44926":[3,0,1,12,110,0],
 "df/db6/classpocketmine_1_1item_1_1_string_item.html#a4a9aa55600bb30c4d55ad63337874a07":[2,0,0,5,109,6],
@@ -244,10 +249,5 @@ var NAVTREEINDEX251 =
 "df/dc5/classpocketmine_1_1network_1_1mcpe_1_1cache_1_1_static_packet_cache.html":[3,0,1,16,0,1,4],
 "df/dc7/_login_packet_8php_source.html":[4,0,2,0,1,0,102],
 "df/dc8/_player_movement_settings_8php_source.html":[4,0,2,0,1,0,1,118],
-"df/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_block_event.html":[2,0,0,3,1,2],
-"df/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_block_event.html":[3,0,1,9,1,2],
-"df/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_block_event.html#a08fb02264c2165b99cd2dc805d6ab8f8":[2,0,0,3,1,2,1],
-"df/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_block_event.html#a08fb02264c2165b99cd2dc805d6ab8f8":[3,0,1,9,1,2,1],
-"df/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_block_event.html#a2333d7f055234d7fefc00066158bd888":[2,0,0,3,1,2,5],
-"df/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_block_event.html#a2333d7f055234d7fefc00066158bd888":[3,0,1,9,1,2,5]
+"df/dc8/classpocketmine_1_1event_1_1entity_1_1_entity_combust_by_block_event.html":[2,0,0,3,1,2]
 };

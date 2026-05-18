@@ -10,5 +10,6 @@ var namespacepocketmine_1_1world_1_1generator =
     [ "GeneratorManagerEntry", "da/d06/classpocketmine_1_1world_1_1generator_1_1_generator_manager_entry.html", "da/d06/classpocketmine_1_1world_1_1generator_1_1_generator_manager_entry" ],
     [ "InvalidGeneratorOptionsException", "dc/d83/classpocketmine_1_1world_1_1generator_1_1_invalid_generator_options_exception.html", null ],
     [ "PopulationTask", "d9/d4a/classpocketmine_1_1world_1_1generator_1_1_population_task.html", "d9/d4a/classpocketmine_1_1world_1_1generator_1_1_population_task" ],
-    [ "PopulationUtils", "d7/d7c/classpocketmine_1_1world_1_1generator_1_1_population_utils.html", "d7/d7c/classpocketmine_1_1world_1_1generator_1_1_population_utils" ]
+    [ "PopulationUtils", "d7/d7c/classpocketmine_1_1world_1_1generator_1_1_population_utils.html", "d7/d7c/classpocketmine_1_1world_1_1generator_1_1_population_utils" ],
+    [ "VoidGenerator", "d4/d9a/classpocketmine_1_1world_1_1generator_1_1_void_generator.html", "d4/d9a/classpocketmine_1_1world_1_1generator_1_1_void_generator" ]
 ];

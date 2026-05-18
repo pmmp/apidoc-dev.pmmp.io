@@ -1,5 +1,10 @@
 var NAVTREEINDEX209 =
 {
+"dd/d42/classpocketmine_1_1block_1_1_emerald_ore.html#a85746252cd6a5f1e81cb4c4ebccb52e3":[3,0,1,0,99,28],
+"dd/d42/classpocketmine_1_1block_1_1_emerald_ore.html#a8635dccd33641330c42129a61377b2fd":[2,0,0,0,97,35],
+"dd/d42/classpocketmine_1_1block_1_1_emerald_ore.html#a8635dccd33641330c42129a61377b2fd":[3,0,1,0,99,35],
+"dd/d42/classpocketmine_1_1block_1_1_emerald_ore.html#a863a7a7c27f111cc622ebb10711807c2":[2,0,0,0,97,56],
+"dd/d42/classpocketmine_1_1block_1_1_emerald_ore.html#a863a7a7c27f111cc622ebb10711807c2":[3,0,1,0,99,56],
 "dd/d42/classpocketmine_1_1block_1_1_emerald_ore.html#a88017a7eecc3ba93f317e54e19751feb":[2,0,0,0,97,50],
 "dd/d42/classpocketmine_1_1block_1_1_emerald_ore.html#a88017a7eecc3ba93f317e54e19751feb":[3,0,1,0,99,50],
 "dd/d42/classpocketmine_1_1block_1_1_emerald_ore.html#a8a733c2fe564a205938a9146c8b0e0f1":[2,0,0,0,97,63],
@@ -244,10 +249,5 @@ var NAVTREEINDEX209 =
 "dd/d4b/_beetroot_soup_8php_source.html":[4,0,1,10,12],
 "dd/d4f/_cooked_porkchop_8php_source.html":[4,0,1,10,32],
 "dd/d50/_raw_packet_handler_8php_source.html":[4,0,1,12,12],
-"dd/d51/classpocketmine_1_1world_1_1_chunk_ticker.html":[2,0,0,14,6],
-"dd/d51/classpocketmine_1_1world_1_1_chunk_ticker.html":[3,0,1,30,12],
-"dd/d53/classpocketmine_1_1block_1_1_nether_roots.html":[2,0,0,0,167],
-"dd/d53/classpocketmine_1_1block_1_1_nether_roots.html":[3,0,1,0,169],
-"dd/d53/classpocketmine_1_1block_1_1_nether_roots.html#a0931c682312473fc2540464b7a4747c0":[2,0,0,0,167,58],
-"dd/d53/classpocketmine_1_1block_1_1_nether_roots.html#a0931c682312473fc2540464b7a4747c0":[3,0,1,0,169,58]
+"dd/d51/classpocketmine_1_1world_1_1_chunk_ticker.html":[2,0,0,14,6]
 };

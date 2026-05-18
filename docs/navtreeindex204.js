@@ -1,5 +1,10 @@
 var NAVTREEINDEX204 =
 {
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#a4f8f9fbfa29c3fb1d57d655f69dfa66e":[3,0,1,0,39,46],
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#a57b1586e3b6d81440be1aa89471f2a2a":[2,0,0,0,37,53],
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#a57b1586e3b6d81440be1aa89471f2a2a":[3,0,1,0,39,53],
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#a588080e805e50e4f97e1a3d256b8c11e":[2,0,0,0,37,14],
+"dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#a588080e805e50e4f97e1a3d256b8c11e":[3,0,1,0,39,14],
 "dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#a6201b0d5460ae6f3b5cee03197c9a94a":[2,0,0,0,37,39],
 "dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#a6201b0d5460ae6f3b5cee03197c9a94a":[3,0,1,0,39,39],
 "dc/df3/classpocketmine_1_1block_1_1_budding_amethyst.html#a67223bb2d68328f794e96a9141de3bf2":[2,0,0,0,37,59],
@@ -244,10 +249,5 @@ var NAVTREEINDEX204 =
 "dd/d00/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_client_to_server_handshake_packet.html":[3,0,1,16,0,6,52],
 "dd/d00/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_client_to_server_handshake_packet.html#a30df532361d6f8d8523f70abdf266c9a":[3,0,1,16,0,6,52,7],
 "dd/d00/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_client_to_server_handshake_packet.html#a55025ba182163f59eb3175f7a7611b5d":[3,0,1,16,0,6,52,3],
-"dd/d00/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_client_to_server_handshake_packet.html#a78c63d3883232247b4f98357f44cde8f":[3,0,1,16,0,6,52,6],
-"dd/d00/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_client_to_server_handshake_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,52,0],
-"dd/d00/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_client_to_server_handshake_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,52,1],
-"dd/d00/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_client_to_server_handshake_packet.html#ac887b8dc194df09bdf9eeb5b15e909eb":[3,0,1,16,0,6,52,2],
-"dd/d00/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_client_to_server_handshake_packet.html#ac96358bb5d1d9ff91fd0d12d8883f4a3":[3,0,1,16,0,6,52,4],
-"dd/d00/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_client_to_server_handshake_packet.html#ae79166114c1b0328f783b3ce5b56ada0":[3,0,1,16,0,6,52,5]
+"dd/d00/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_client_to_server_handshake_packet.html#a78c63d3883232247b4f98357f44cde8f":[3,0,1,16,0,6,52,6]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX205 =
 {
+"dd/d00/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_client_to_server_handshake_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,52,0],
+"dd/d00/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_client_to_server_handshake_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,52,1],
+"dd/d00/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_client_to_server_handshake_packet.html#ac887b8dc194df09bdf9eeb5b15e909eb":[3,0,1,16,0,6,52,2],
+"dd/d00/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_client_to_server_handshake_packet.html#ac96358bb5d1d9ff91fd0d12d8883f4a3":[3,0,1,16,0,6,52,4],
+"dd/d00/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_client_to_server_handshake_packet.html#ae79166114c1b0328f783b3ce5b56ada0":[3,0,1,16,0,6,52,5],
 "dd/d00/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1api_1_1_minecraft_service_auth_environment.html":[3,0,1,16,0,6,1,5,2,0,2],
 "dd/d00/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1login_1_1openid_1_1api_1_1_minecraft_service_auth_environment.html#a77d592ab16ce9f85247739707851ed73":[3,0,1,16,0,6,1,5,2,0,2,0],
 "dd/d02/_mushroom_block_type_8php_source.html":[4,0,1,0,2,50],
@@ -244,10 +249,5 @@ var NAVTREEINDEX205 =
 "dd/d0a/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_item_stack_request_executor.html#a73847f75ef2df9d0a88069125038c0b1":[3,0,1,16,0,5,4,7],
 "dd/d0a/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_item_stack_request_executor.html#aa556ea7c3afbd372aae8bcbaac758548":[3,0,1,16,0,5,4,8],
 "dd/d0a/classpocketmine_1_1network_1_1mcpe_1_1handler_1_1_item_stack_request_executor.html#aef01663706cfa72a2ba2b2429eace113":[3,0,1,16,0,5,4,1],
-"dd/d0b/_anvil_inventory_window_8php_source.html":[4,0,1,0,0,0,0],
-"dd/d0b/classpocketmine_1_1entity_1_1animation_1_1_critical_hit_animation.html":[3,0,1,7,0,4],
-"dd/d0b/classpocketmine_1_1entity_1_1animation_1_1_critical_hit_animation.html#a79a40fba69b4ad54363f432861aefd71":[3,0,1,7,0,4,0],
-"dd/d0b/classpocketmine_1_1event_1_1entity_1_1_entity_exhaust_event.html":[2,0,0,3,1,15],
-"dd/d0b/classpocketmine_1_1event_1_1entity_1_1_entity_exhaust_event.html":[3,0,1,9,1,15],
-"dd/d0b/classpocketmine_1_1event_1_1entity_1_1_entity_exhaust_event.html#a2333d7f055234d7fefc00066158bd888":[2,0,0,3,1,15,5]
+"dd/d0b/_anvil_inventory_window_8php_source.html":[4,0,1,0,0,0,0]
 };

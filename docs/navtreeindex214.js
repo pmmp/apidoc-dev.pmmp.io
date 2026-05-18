@@ -1,5 +1,10 @@
 var NAVTREEINDEX214 =
 {
+"dd/d7b/classpocketmine_1_1item_1_1_shears.html#abe253aa6fbfe2fc36389edadb753ffc7":[2,0,0,5,100,19],
+"dd/d7b/classpocketmine_1_1item_1_1_shears.html#abe253aa6fbfe2fc36389edadb753ffc7":[3,0,1,12,101,19],
+"dd/d7b/classpocketmine_1_1item_1_1_shears.html#ac534c116a4d2291a8d67f15c4b485b74":[2,0,0,5,100,27],
+"dd/d7b/classpocketmine_1_1item_1_1_shears.html#ac534c116a4d2291a8d67f15c4b485b74":[3,0,1,12,101,27],
+"dd/d7b/classpocketmine_1_1item_1_1_shears.html#ac7e878537e8ea68cc0d4d565f9f25062":[2,0,0,5,100,47],
 "dd/d7b/classpocketmine_1_1item_1_1_shears.html#ac7e878537e8ea68cc0d4d565f9f25062":[3,0,1,12,101,47],
 "dd/d7b/classpocketmine_1_1item_1_1_shears.html#ad2d004e5063f6ca465ed956b024217b1":[2,0,0,5,100,28],
 "dd/d7b/classpocketmine_1_1item_1_1_shears.html#ad2d004e5063f6ca465ed956b024217b1":[3,0,1,12,101,28],
@@ -244,10 +249,5 @@ var NAVTREEINDEX214 =
 "dd/db0/classpocketmine_1_1network_1_1_network_session_manager.html#abfe6a121a7968a2d0c3e075a16ba14ea":[3,0,1,16,10,4],
 "dd/db0/classpocketmine_1_1network_1_1_network_session_manager.html#ae7b422b97780b934d0848b2704171c22":[2,0,0,8,9,7],
 "dd/db0/classpocketmine_1_1network_1_1_network_session_manager.html#ae7b422b97780b934d0848b2704171c22":[3,0,1,16,10,7],
-"dd/db0/classpocketmine_1_1network_1_1_network_session_manager.html#afa1b6a4c0bba82a0dbf8c2d7790ed327":[2,0,0,8,9,0],
-"dd/db0/classpocketmine_1_1network_1_1_network_session_manager.html#afa1b6a4c0bba82a0dbf8c2d7790ed327":[3,0,1,16,10,0],
-"dd/db1/_title_command_8php_source.html":[4,0,1,1,0,37],
-"dd/db2/_int_game_rule_8php_source.html":[4,0,2,0,1,0,1,86],
-"dd/db5/_global_item_data_handlers_8php_source.html":[4,0,1,25,1,0,10],
-"dd/db5/_vanilla_armor_materials_inputs_8php_source.html":[4,0,1,10,130]
+"dd/db0/classpocketmine_1_1network_1_1_network_session_manager.html#afa1b6a4c0bba82a0dbf8c2d7790ed327":[2,0,0,8,9,0]
 };

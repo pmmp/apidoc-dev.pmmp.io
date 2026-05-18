@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.43.2 git-10285977bca624a6424b6c684dfc75cb8fb37c1a</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.43.2 git-a137a986d01d9af23452b2e741699a770c7ae112</span>
    </div>
   </td>
  </tr>
@@ -121,8 +121,8 @@ $(function(){initNavTree('d6/dc2/classpocketmine_1_1world_1_1generator_1_1_gener
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a70766913478ea0544cab18205be90883" id="r_a70766913478ea0544cab18205be90883"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a70766913478ea0544cab18205be90883">addAlias</a> (string $name, string $alias)</td></tr>
 <tr class="separator:a70766913478ea0544cab18205be90883"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a57578bacf80ac5b6ea2f63b234d420e4" id="r_a57578bacf80ac5b6ea2f63b234d420e4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a57578bacf80ac5b6ea2f63b234d420e4">addGenerator</a> (string $class, string $name, \Closure $presetValidator, bool $overwrite=false, bool $fast=false)</td></tr>
-<tr class="separator:a57578bacf80ac5b6ea2f63b234d420e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af1b92d8648665844e0e1378d0e69f7f8" id="r_af1b92d8648665844e0e1378d0e69f7f8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#af1b92d8648665844e0e1378d0e69f7f8">addGenerator</a> (string $class, string $name, \Closure $presetValidator, bool $overwrite=false, bool $fast=false, ?\Closure $spawnPositionProvider=null)</td></tr>
+<tr class="separator:af1b92d8648665844e0e1378d0e69f7f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6c4c3d6c189b6c857053e1dca9c169b7" id="r_a6c4c3d6c189b6c857053e1dca9c169b7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a6c4c3d6c189b6c857053e1dca9c169b7">getGenerator</a> (string $name)</td></tr>
 <tr class="separator:a6c4c3d6c189b6c857053e1dca9c169b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1c4667c2499314a460a4668088ee2e08" id="r_a1c4667c2499314a460a4668088ee2e08"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a1c4667c2499314a460a4668088ee2e08">getGeneratorList</a> ()</td></tr>
@@ -132,7 +132,7 @@ Public Member Functions</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html#l00033">33</a> of file <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html">GeneratorManager.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html#l00034">34</a> of file <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html">GeneratorManager.php</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="afbc2447f74f2fdcb09cae0683141cd80" name="afbc2447f74f2fdcb09cae0683141cd80"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#afbc2447f74f2fdcb09cae0683141cd80">&#9670;&#160;</a></span>__construct()</h2>
@@ -149,7 +149,7 @@ Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html#l00042">42</a> of file <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html">GeneratorManager.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html#l00043">43</a> of file <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html">GeneratorManager.php</a>.</p>
 
 </div>
 </div>
@@ -174,12 +174,12 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <p>Aliases an already-registered generator name to another name. Useful if you want to map a generator name to an existing generator without having to replicate the parameters. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html#l00088">88</a> of file <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html">GeneratorManager.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html#l00092">92</a> of file <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html">GeneratorManager.php</a>.</p>
 
 </div>
 </div>
-<a id="a57578bacf80ac5b6ea2f63b234d420e4" name="a57578bacf80ac5b6ea2f63b234d420e4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a57578bacf80ac5b6ea2f63b234d420e4">&#9670;&#160;</a></span>addGenerator()</h2>
+<a id="af1b92d8648665844e0e1378d0e69f7f8" name="af1b92d8648665844e0e1378d0e69f7f8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af1b92d8648665844e0e1378d0e69f7f8">&#9670;&#160;</a></span>addGenerator()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -207,7 +207,12 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">bool</td>          <td class="paramname"><span class="paramname"><em>$fast</em></span><span class="paramdefsep"> = </span><span class="paramdefval">false</span>&#160;)</td>
+          <td class="paramtype">bool</td>          <td class="paramname"><span class="paramname"><em>$fast</em></span><span class="paramdefsep"> = </span><span class="paramdefval">false</span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">?\Closure</td>          <td class="paramname"><span class="paramname"><em>$spawnPositionProvider</em></span><span class="paramdefsep"> = </span><span class="paramdefval">null</span>&#160;)</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -217,11 +222,12 @@ Public Member Functions</h2></td></tr>
     <tr><td class="paramtype">string</td><td class="paramname">$name</td><td>Alias for this generator type that can be written in configs </td></tr>
     <tr><td class="paramtype">\Closure</td><td class="paramname">$presetValidator</td><td>Callback to validate generator options for new worlds </td></tr>
     <tr><td class="paramtype">bool</td><td class="paramname">$overwrite</td><td>Whether to force overwriting any existing registered generator with the same name </td></tr>
-    <tr><td class="paramtype">bool</td><td class="paramname">$fast</td><td>Whether this generator is fast enough to run without async tasks</td></tr>
+    <tr><td class="paramtype">bool</td><td class="paramname">$fast</td><td>Whether this generator is fast enough to run without async tasks </td></tr>
+    <tr><td class="paramtype">\Closure&#160;|&#160;null</td><td class="paramname">$spawnPositionProvider</td><td>Callback to retrieve a custom spawn position</td></tr>
   </table>
   </dd>
 </dl>
-<p>@phpstan-param \Closure(string) : ?InvalidGeneratorOptionsException $presetValidator</p>
+<p>@phpstan-param \Closure(string) : ?InvalidGeneratorOptionsException $presetValidator @phpstan-param (\Closure(int) : ?Vector3)|null $spawnPositionProvider</p>
 <p>@phpstan-param class-string&lt;Generator&gt; $class</p>
 <dl class="exception"><dt>Exceptions</dt><dd>
   <table class="exception">
@@ -231,7 +237,7 @@ Public Member Functions</h2></td></tr>
 </dl>
 <p>InvalidArgumentException </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html#l00073">73</a> of file <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html">GeneratorManager.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html#l00077">77</a> of file <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html">GeneratorManager.php</a>.</p>
 
 </div>
 </div>
@@ -251,7 +257,7 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <p>Returns the generator entry of a registered Generator matching the given name, or null if not found. </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html#l00112">112</a> of file <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html">GeneratorManager.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html#l00116">116</a> of file <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html">GeneratorManager.php</a>.</p>
 
 </div>
 </div>
@@ -272,7 +278,7 @@ Public Member Functions</h2></td></tr>
 <p>Returns a list of names for registered generators.</p>
 <dl class="section return"><dt>Returns</dt><dd>string[] </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html#l00105">105</a> of file <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html">GeneratorManager.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html#l00109">109</a> of file <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html">GeneratorManager.php</a>.</p>
 
 </div>
 </div>
@@ -305,7 +311,7 @@ Public Member Functions</h2></td></tr>
 </dl>
 <p>InvalidArgumentException if the class type cannot be matched to a known alias </p>
 
-<p class="definition">Definition at line <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html#l00124">124</a> of file <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html">GeneratorManager.php</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html#l00128">128</a> of file <a class="el" href="../../d6/d2d/_generator_manager_8php_source.html">GeneratorManager.php</a>.</p>
 
 </div>
 </div>

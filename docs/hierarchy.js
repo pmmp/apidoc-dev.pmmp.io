@@ -1188,6 +1188,7 @@ var hierarchy =
     [ "pocketmine\\world\\generator\\Gaussian", "d4/d82/classpocketmine_1_1world_1_1generator_1_1_gaussian.html", null ],
     [ "pocketmine\\world\\generator\\Generator", "d3/df9/classpocketmine_1_1world_1_1generator_1_1_generator.html", [
       [ "pocketmine\\world\\generator\\Flat", "d1/dd4/classpocketmine_1_1world_1_1generator_1_1_flat.html", null ],
+      [ "pocketmine\\world\\generator\\VoidGenerator", "d4/d9a/classpocketmine_1_1world_1_1generator_1_1_void_generator.html", null ],
       [ "pocketmine\\world\\generator\\hell\\Nether", "d8/d74/classpocketmine_1_1world_1_1generator_1_1hell_1_1_nether.html", null ],
       [ "pocketmine\\world\\generator\\normal\\Normal", "db/d66/classpocketmine_1_1world_1_1generator_1_1normal_1_1_normal.html", null ]
     ] ],

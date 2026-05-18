@@ -1,5 +1,10 @@
 var NAVTREEINDEX207 =
 {
+"dd/d1e/classpocketmine_1_1command_1_1defaults_1_1_garbage_collector_command.html#a5dffbdb5cf0ec26cfdd98a9ce531d2f6":[3,0,1,2,0,12,1],
+"dd/d1e/classpocketmine_1_1command_1_1defaults_1_1_garbage_collector_command.html#a64e89e7f26880a7ff923e1f02b6c9ebd":[3,0,1,2,0,12,0],
+"dd/d1e/classpocketmine_1_1command_1_1defaults_1_1_garbage_collector_command.html#a88a41e241a4891428166cdf2c0af8309":[3,0,1,2,0,12,2],
+"dd/d1e/classpocketmine_1_1command_1_1defaults_1_1_garbage_collector_command.html#a8c40c93db847fcf02c3e7b19a729dd10":[3,0,1,2,0,12,4],
+"dd/d1e/interfacepocketmine_1_1block_1_1utils_1_1_analog_redstone_signal_emitter.html":[3,0,1,0,2,1],
 "dd/d1e/interfacepocketmine_1_1block_1_1utils_1_1_analog_redstone_signal_emitter.html#ac5e4833900ce79658e388de47fd0e9ba":[3,0,1,0,2,1,0],
 "dd/d20/_log_level_8php_source.html":[4,0,2,0,6,0,4],
 "dd/d21/_cauldron_add_dye_sound_8php_source.html":[4,0,1,25,5,29],
@@ -244,10 +249,5 @@ var NAVTREEINDEX207 =
 "dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#ad57a8bddf87431ff034f3a96e7219d63":[2,0,0,0,113,15],
 "dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#ad57a8bddf87431ff034f3a96e7219d63":[3,0,1,0,115,15],
 "dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#ad925607ef09026804dbbf059583e3add":[2,0,0,0,113,42],
-"dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#ad925607ef09026804dbbf059583e3add":[3,0,1,0,115,42],
-"dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#adc7b2fcbcc10f046b1cbcafdd0858863":[2,0,0,0,113,1],
-"dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#adc7b2fcbcc10f046b1cbcafdd0858863":[3,0,1,0,115,1],
-"dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#add4d4fd4fecc779dee9c9f94b8a556e5":[2,0,0,0,113,5],
-"dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#add4d4fd4fecc779dee9c9f94b8a556e5":[3,0,1,0,115,5],
-"dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#ade77e0b1fce7bdebceed4092b9c5c022":[2,0,0,0,113,33]
+"dd/d2e/classpocketmine_1_1block_1_1_flower_pot.html#ad925607ef09026804dbbf059583e3add":[3,0,1,0,115,42]
 };

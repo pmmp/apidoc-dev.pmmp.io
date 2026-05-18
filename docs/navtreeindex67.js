@@ -70,6 +70,10 @@ var NAVTREEINDEX67 =
 "d4/d99/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_aim_assist_packet.html#ab869f6f8d246ff2f83744b48f43c4b54":[3,0,1,16,0,6,26,1],
 "d4/d99/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_camera_aim_assist_packet.html#ac96358bb5d1d9ff91fd0d12d8883f4a3":[3,0,1,16,0,6,26,4],
 "d4/d9a/_set_hud_packet_8php_source.html":[4,0,2,0,1,0,189],
+"d4/d9a/classpocketmine_1_1world_1_1generator_1_1_void_generator.html":[2,0,0,14,0,11],
+"d4/d9a/classpocketmine_1_1world_1_1generator_1_1_void_generator.html":[3,0,1,30,2,16],
+"d4/d9a/classpocketmine_1_1world_1_1generator_1_1_void_generator.html#ae2206da40fbf851750d1def4b9a3719d":[2,0,0,14,0,11,0],
+"d4/d9a/classpocketmine_1_1world_1_1generator_1_1_void_generator.html#ae2206da40fbf851750d1def4b9a3719d":[3,0,1,30,2,16,0],
 "d4/d9b/classpocketmine_1_1data_1_1bedrock_1_1_legacy_entity_id_to_string_id_map.html":[3,0,1,6,0,17],
 "d4/d9b/classpocketmine_1_1data_1_1bedrock_1_1_legacy_entity_id_to_string_id_map.html#a0746412c1d07cca3582238dfd610aa28":[3,0,1,6,0,17,0],
 "d4/d9b/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_education_uri_resource.html":[3,0,1,16,0,6,1,65],
@@ -245,9 +249,5 @@ var NAVTREEINDEX67 =
 "d4/da1/_block_state_upgrade_schema_flatten_info_8php_source.html":[4,0,1,5,0,0,1,6],
 "d4/da2/_craft_recipe_auto_stack_request_action_8php_source.html":[4,0,2,0,1,0,1,5,0,3],
 "d4/da2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_map_create_locked_copy_packet.html":[3,0,1,16,0,6,103],
-"d4/da2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_map_create_locked_copy_packet.html#a1211705ae3cdc29c328e3dcea338053d":[3,0,1,16,0,6,103,2],
-"d4/da2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_map_create_locked_copy_packet.html#a380133a5b0045fb2a0cc1ac86631790c":[3,0,1,16,0,6,103,5],
-"d4/da2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_map_create_locked_copy_packet.html#a55025ba182163f59eb3175f7a7611b5d":[3,0,1,16,0,6,103,3],
-"d4/da2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_map_create_locked_copy_packet.html#a9c33e435081cdc7c7a51afabbbb5ef8c":[3,0,1,16,0,6,103,7],
-"d4/da2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_map_create_locked_copy_packet.html#a9e53bcf6c12eab41fd619f5d812c1be2":[3,0,1,16,0,6,103,0]
+"d4/da2/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_map_create_locked_copy_packet.html#a1211705ae3cdc29c328e3dcea338053d":[3,0,1,16,0,6,103,2]
 };

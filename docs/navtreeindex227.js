@@ -1,5 +1,10 @@
 var NAVTREEINDEX227 =
 {
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#add4d4fd4fecc779dee9c9f94b8a556e5":[2,0,0,0,75,5],
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#add4d4fd4fecc779dee9c9f94b8a556e5":[3,0,1,0,77,5],
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#ade77e0b1fce7bdebceed4092b9c5c022":[2,0,0,0,75,33],
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#ade77e0b1fce7bdebceed4092b9c5c022":[3,0,1,0,77,33],
+"de/d68/classpocketmine_1_1block_1_1_copper_ore.html#ae6f3cdb7eeee27448b561fa3f8323916":[2,0,0,0,75,48],
 "de/d68/classpocketmine_1_1block_1_1_copper_ore.html#ae6f3cdb7eeee27448b561fa3f8323916":[3,0,1,0,77,48],
 "de/d68/classpocketmine_1_1block_1_1_copper_ore.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,75,32],
 "de/d68/classpocketmine_1_1block_1_1_copper_ore.html#ae829b9f476afef6b23d6f4f7fd558e0f":[3,0,1,0,77,32],
@@ -244,10 +249,5 @@ var NAVTREEINDEX227 =
 "de/d7a/classpocketmine_1_1crafting_1_1_crafting_grid.html#af622143f2671cdfd7faa8369987c7e2e":[3,0,1,4,2,3],
 "de/d7b/_vector3_8php_source.html":[4,0,2,0,7,0,6],
 "de/d7b/namespacepocketmine_1_1event_1_1player.html":[2,0,0,3,3],
-"de/d7c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_auth_input_packet.html":[3,0,1,16,0,6,132],
-"de/d7c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_auth_input_packet.html#a08ed285ecfe216f72ecf2d8ffadad605":[3,0,1,16,0,6,132,6],
-"de/d7c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_auth_input_packet.html#a29d5c3aac7f9a7c2433f725eb1d992bb":[3,0,1,16,0,6,132,9],
-"de/d7c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_auth_input_packet.html#a55025ba182163f59eb3175f7a7611b5d":[3,0,1,16,0,6,132,3],
-"de/d7c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_auth_input_packet.html#a62b2a3f7ffc88dae034b416488a3405a":[3,0,1,16,0,6,132,12],
-"de/d7c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_auth_input_packet.html#a777d5d174e42f40fa5dc5142b5595e77":[3,0,1,16,0,6,132,5]
+"de/d7c/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_player_auth_input_packet.html":[3,0,1,16,0,6,132]
 };

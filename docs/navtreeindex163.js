@@ -1,5 +1,9 @@
 var NAVTREEINDEX163 =
 {
+"da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a1a1a2b2adf423738289d296198f044e1":[2,0,0,0,86,60],
+"da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a1a1a2b2adf423738289d296198f044e1":[3,0,1,0,88,60],
+"da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a1ce2444f76246982cfbb507fed99a48e":[2,0,0,0,86,47],
+"da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a1ce2444f76246982cfbb507fed99a48e":[3,0,1,0,88,47],
 "da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a2127737ad69279d366e4462b54f693f2":[2,0,0,0,86,3],
 "da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a2127737ad69279d366e4462b54f693f2":[3,0,1,0,88,3],
 "da/d4e/classpocketmine_1_1block_1_1_diamond_ore.html#a26bbbd2a3058bb57bd16a6f73b32d9d0":[2,0,0,0,86,22],
@@ -245,9 +249,5 @@ var NAVTREEINDEX163 =
 "da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#adc7b2fcbcc10f046b1cbcafdd0858863":[3,0,1,0,131,1],
 "da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#add4d4fd4fecc779dee9c9f94b8a556e5":[2,0,0,0,129,5],
 "da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#add4d4fd4fecc779dee9c9f94b8a556e5":[3,0,1,0,131,5],
-"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#ade77e0b1fce7bdebceed4092b9c5c022":[2,0,0,0,129,33],
-"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#ade77e0b1fce7bdebceed4092b9c5c022":[3,0,1,0,131,33],
-"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#ae6f3cdb7eeee27448b561fa3f8323916":[2,0,0,0,129,48],
-"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#ae6f3cdb7eeee27448b561fa3f8323916":[3,0,1,0,131,48],
-"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#ae829b9f476afef6b23d6f4f7fd558e0f":[2,0,0,0,129,32]
+"da/d55/classpocketmine_1_1block_1_1_hardened_clay.html#ade77e0b1fce7bdebceed4092b9c5c022":[2,0,0,0,129,33]
 };

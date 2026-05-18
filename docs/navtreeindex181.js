@@ -1,5 +1,9 @@
 var NAVTREEINDEX181 =
 {
+"db/db8/_compress_batch_promise_8php_source.html":[4,0,1,12,0,2,0],
+"db/db8/_medicine_type_ids_8php_source.html":[4,0,1,5,0,19],
+"db/db9/_barrel_close_sound_8php_source.html":[4,0,1,25,5,13],
+"db/db9/_enchanted_book_8php_source.html":[4,0,1,10,41],
 "db/db9/_fire_extinguish_sound_8php_source.html":[4,0,1,25,5,62],
 "db/dba/_u_pn_p_exception_8php_source.html":[4,0,1,12,2,1],
 "db/dba/namespacepocketmine_1_1block_1_1tile.html":[2,0,0,0,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX181 =
 "db/dc0/classpocketmine_1_1item_1_1_liquid_bucket.html#ac534c116a4d2291a8d67f15c4b485b74":[3,0,1,12,71,25],
 "db/dc0/classpocketmine_1_1item_1_1_liquid_bucket.html#ac7e878537e8ea68cc0d4d565f9f25062":[2,0,0,5,70,42],
 "db/dc0/classpocketmine_1_1item_1_1_liquid_bucket.html#ac7e878537e8ea68cc0d4d565f9f25062":[3,0,1,12,71,42],
-"db/dc0/classpocketmine_1_1item_1_1_liquid_bucket.html#aca14598677f5c4bf1114c6122fddc5af":[2,0,0,5,70,20],
-"db/dc0/classpocketmine_1_1item_1_1_liquid_bucket.html#aca14598677f5c4bf1114c6122fddc5af":[3,0,1,12,71,20],
-"db/dc0/classpocketmine_1_1item_1_1_liquid_bucket.html#ad2d004e5063f6ca465ed956b024217b1":[2,0,0,5,70,26],
-"db/dc0/classpocketmine_1_1item_1_1_liquid_bucket.html#ad2d004e5063f6ca465ed956b024217b1":[3,0,1,12,71,26],
-"db/dc0/classpocketmine_1_1item_1_1_liquid_bucket.html#adf991a9ef329366c078c0a203f6930b5":[2,0,0,5,70,22]
+"db/dc0/classpocketmine_1_1item_1_1_liquid_bucket.html#aca14598677f5c4bf1114c6122fddc5af":[2,0,0,5,70,20]
 };

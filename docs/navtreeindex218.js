@@ -1,5 +1,10 @@
 var NAVTREEINDEX218 =
 {
+"dd/dcb/classpocketmine_1_1inventory_1_1_combined_inventory_proxy.html#a2508585666d3744d9d330ac40ccb43e6":[2,0,0,4,3,23],
+"dd/dcb/classpocketmine_1_1inventory_1_1_combined_inventory_proxy.html#a2508585666d3744d9d330ac40ccb43e6":[3,0,1,11,5,23],
+"dd/dcb/classpocketmine_1_1inventory_1_1_combined_inventory_proxy.html#a295a782543c002623d01ec47a6e93329":[2,0,0,4,3,25],
+"dd/dcb/classpocketmine_1_1inventory_1_1_combined_inventory_proxy.html#a295a782543c002623d01ec47a6e93329":[3,0,1,11,5,25],
+"dd/dcb/classpocketmine_1_1inventory_1_1_combined_inventory_proxy.html#a33f8f280cd0ccc303b9d4124fc1d27c8":[2,0,0,4,3,21],
 "dd/dcb/classpocketmine_1_1inventory_1_1_combined_inventory_proxy.html#a33f8f280cd0ccc303b9d4124fc1d27c8":[3,0,1,11,5,21],
 "dd/dcb/classpocketmine_1_1inventory_1_1_combined_inventory_proxy.html#a37946ac73b528479b66083c5fc4291c0":[2,0,0,4,3,18],
 "dd/dcb/classpocketmine_1_1inventory_1_1_combined_inventory_proxy.html#a37946ac73b528479b66083c5fc4291c0":[3,0,1,11,5,18],
@@ -244,10 +249,5 @@ var NAVTREEINDEX218 =
 "dd/dd1/classpocketmine_1_1item_1_1_apple.html#a336d6f91be72079853413f5b4036a57d":[3,0,1,12,1,3],
 "dd/dd1/classpocketmine_1_1item_1_1_apple.html#a3bc65b2324649d8735dadf9bf8cf0705":[2,0,0,5,0,50],
 "dd/dd1/classpocketmine_1_1item_1_1_apple.html#a3bc65b2324649d8735dadf9bf8cf0705":[3,0,1,12,1,50],
-"dd/dd1/classpocketmine_1_1item_1_1_apple.html#a49a05b01faaaf071449c97060fe44926":[2,0,0,5,0,0],
-"dd/dd1/classpocketmine_1_1item_1_1_apple.html#a49a05b01faaaf071449c97060fe44926":[3,0,1,12,1,0],
-"dd/dd1/classpocketmine_1_1item_1_1_apple.html#a4a9aa55600bb30c4d55ad63337874a07":[2,0,0,5,0,7],
-"dd/dd1/classpocketmine_1_1item_1_1_apple.html#a4a9aa55600bb30c4d55ad63337874a07":[3,0,1,12,1,7],
-"dd/dd1/classpocketmine_1_1item_1_1_apple.html#a4f8f013f507342e2208dc8b4c3da964b":[2,0,0,5,0,27],
-"dd/dd1/classpocketmine_1_1item_1_1_apple.html#a4f8f013f507342e2208dc8b4c3da964b":[3,0,1,12,1,27]
+"dd/dd1/classpocketmine_1_1item_1_1_apple.html#a49a05b01faaaf071449c97060fe44926":[2,0,0,5,0,0]
 };

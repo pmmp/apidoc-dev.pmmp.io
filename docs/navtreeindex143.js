@@ -1,5 +1,9 @@
 var NAVTREEINDEX143 =
 {
+"d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#a30a070aa7befb02f9fff5cbf2693c01e":[3,0,1,0,71,9],
+"d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#a36afea9f0214193963f75577e8d48c26":[2,0,0,0,69,59],
+"d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#a36afea9f0214193963f75577e8d48c26":[3,0,1,0,71,59],
+"d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,0,0,69,10],
 "d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#a3bffed15a0b8de5f9df11e6f4b407163":[3,0,1,0,71,10],
 "d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#a43e3458847422ebd5dec6c914b443c93":[2,0,0,0,69,44],
 "d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#a43e3458847422ebd5dec6c914b443c93":[3,0,1,0,71,44],
@@ -245,9 +249,5 @@ var NAVTREEINDEX143 =
 "d9/d0a/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1types_1_1_client_store_entrypoint_config.html":[3,0,1,16,0,6,1,46],
 "d9/d0c/_furnace_smelt_event_8php_source.html":[4,0,1,7,2,2],
 "d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html":[2,0,0,5,60],
-"d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html":[3,0,1,12,61],
-"d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html#a0a422a89abd427286bc2f312100f968c":[2,0,0,5,60,33],
-"d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html#a0a422a89abd427286bc2f312100f968c":[3,0,1,12,61,33],
-"d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html#a0a8a9d99694923b74e2aa7744214b228":[2,0,0,5,60,38],
-"d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html#a0a8a9d99694923b74e2aa7744214b228":[3,0,1,12,61,38]
+"d9/d0e/classpocketmine_1_1item_1_1_honey_bottle.html":[3,0,1,12,61]
 };

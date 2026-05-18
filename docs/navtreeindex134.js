@@ -1,5 +1,9 @@
 var NAVTREEINDEX134 =
 {
+"d8/d83/classpocketmine_1_1item_1_1_spider_eye.html#a49a05b01faaaf071449c97060fe44926":[2,0,0,5,104,0],
+"d8/d83/classpocketmine_1_1item_1_1_spider_eye.html#a49a05b01faaaf071449c97060fe44926":[3,0,1,12,105,0],
+"d8/d83/classpocketmine_1_1item_1_1_spider_eye.html#a4a9aa55600bb30c4d55ad63337874a07":[2,0,0,5,104,7],
+"d8/d83/classpocketmine_1_1item_1_1_spider_eye.html#a4a9aa55600bb30c4d55ad63337874a07":[3,0,1,12,105,7],
 "d8/d83/classpocketmine_1_1item_1_1_spider_eye.html#a4f8f013f507342e2208dc8b4c3da964b":[2,0,0,5,104,27],
 "d8/d83/classpocketmine_1_1item_1_1_spider_eye.html#a4f8f013f507342e2208dc8b4c3da964b":[3,0,1,12,105,27],
 "d8/d83/classpocketmine_1_1item_1_1_spider_eye.html#a51b97f07ff97887a144198bb3dba6fc4":[2,0,0,5,104,22],
@@ -245,9 +249,5 @@ var NAVTREEINDEX134 =
 "d8/d91/_resource_pack_stack_entry_8php_source.html":[4,0,2,0,1,0,1,8,1],
 "d8/d91/_tall_grass_trait_8php_source.html":[4,0,1,0,2,68],
 "d8/d93/_data_store_8php_source.html":[4,0,2,0,1,0,1,51],
-"d8/d93/_enchantment_ids_8php_source.html":[4,0,1,5,0,8],
-"d8/d93/_player_disconnect_event_trait_8php_source.html":[4,0,1,7,3,11],
-"d8/d94/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_provider.html":[3,0,1,30,1,0,14],
-"d8/d94/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_provider.html#a089284b1e35b697cb95b78cdefd46bae":[3,0,1,30,1,0,14,2],
-"d8/d94/interfacepocketmine_1_1world_1_1format_1_1io_1_1_world_provider.html#a7644843370cbc80adf8596ee50110656":[3,0,1,30,1,0,14,0]
+"d8/d93/_enchantment_ids_8php_source.html":[4,0,1,5,0,8]
 };

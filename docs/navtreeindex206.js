@@ -1,5 +1,10 @@
 var NAVTREEINDEX206 =
 {
+"dd/d0b/classpocketmine_1_1entity_1_1animation_1_1_critical_hit_animation.html":[3,0,1,7,0,4],
+"dd/d0b/classpocketmine_1_1entity_1_1animation_1_1_critical_hit_animation.html#a79a40fba69b4ad54363f432861aefd71":[3,0,1,7,0,4,0],
+"dd/d0b/classpocketmine_1_1event_1_1entity_1_1_entity_exhaust_event.html":[2,0,0,3,1,15],
+"dd/d0b/classpocketmine_1_1event_1_1entity_1_1_entity_exhaust_event.html":[3,0,1,9,1,15],
+"dd/d0b/classpocketmine_1_1event_1_1entity_1_1_entity_exhaust_event.html#a2333d7f055234d7fefc00066158bd888":[2,0,0,3,1,15,5],
 "dd/d0b/classpocketmine_1_1event_1_1entity_1_1_entity_exhaust_event.html#a2333d7f055234d7fefc00066158bd888":[3,0,1,9,1,15,5],
 "dd/d0b/classpocketmine_1_1event_1_1entity_1_1_entity_exhaust_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,1,15,0],
 "dd/d0b/classpocketmine_1_1event_1_1entity_1_1_entity_exhaust_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,1,15,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX206 =
 "dd/d1d/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_anvil_damage_packet.html#ac96358bb5d1d9ff91fd0d12d8883f4a3":[3,0,1,16,0,6,14,4],
 "dd/d1e/classpocketmine_1_1command_1_1defaults_1_1_garbage_collector_command.html":[3,0,1,2,0,12],
 "dd/d1e/classpocketmine_1_1command_1_1defaults_1_1_garbage_collector_command.html#a0950e4c2830f8adc9526da754c56130d":[3,0,1,2,0,12,5],
-"dd/d1e/classpocketmine_1_1command_1_1defaults_1_1_garbage_collector_command.html#a425117ae5e7bab32cc824f19f82b613b":[3,0,1,2,0,12,3],
-"dd/d1e/classpocketmine_1_1command_1_1defaults_1_1_garbage_collector_command.html#a5dffbdb5cf0ec26cfdd98a9ce531d2f6":[3,0,1,2,0,12,1],
-"dd/d1e/classpocketmine_1_1command_1_1defaults_1_1_garbage_collector_command.html#a64e89e7f26880a7ff923e1f02b6c9ebd":[3,0,1,2,0,12,0],
-"dd/d1e/classpocketmine_1_1command_1_1defaults_1_1_garbage_collector_command.html#a88a41e241a4891428166cdf2c0af8309":[3,0,1,2,0,12,2],
-"dd/d1e/classpocketmine_1_1command_1_1defaults_1_1_garbage_collector_command.html#a8c40c93db847fcf02c3e7b19a729dd10":[3,0,1,2,0,12,4],
-"dd/d1e/interfacepocketmine_1_1block_1_1utils_1_1_analog_redstone_signal_emitter.html":[3,0,1,0,2,1]
+"dd/d1e/classpocketmine_1_1command_1_1defaults_1_1_garbage_collector_command.html#a425117ae5e7bab32cc824f19f82b613b":[3,0,1,2,0,12,3]
 };

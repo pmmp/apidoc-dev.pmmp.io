@@ -1,5 +1,9 @@
 var NAVTREEINDEX120 =
 {
+"d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html#a2bcaa528592d9ae259e2e6d0b89f375d":[3,0,1,12,57,23],
+"d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html#a2ce778f940de9e172cd268f378893b8f":[2,0,0,5,56,15],
+"d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html#a2ce778f940de9e172cd268f378893b8f":[3,0,1,12,57,15],
+"d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html#a2e7d9e107f4f24de4aabc19764dc7dc2":[2,0,0,5,56,18],
 "d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html#a2e7d9e107f4f24de4aabc19764dc7dc2":[3,0,1,12,57,18],
 "d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html#a2ee3936259ed3fd96fa07dcbcc4797c1":[2,0,0,5,56,25],
 "d7/dd7/classpocketmine_1_1item_1_1_golden_apple_enchanted.html#a2ee3936259ed3fd96fa07dcbcc4797c1":[3,0,1,12,57,25],
@@ -245,9 +249,5 @@ var NAVTREEINDEX120 =
 "d7/de5/classpocketmine_1_1block_1_1_nether_reactor.html#ab4d678fcc49f71fc70fff710482f3f4e":[3,0,1,0,168,19],
 "d7/de5/classpocketmine_1_1block_1_1_nether_reactor.html#ab6b90601adfc9732893dcffe256514a9":[2,0,0,0,166,64],
 "d7/de5/classpocketmine_1_1block_1_1_nether_reactor.html#ab6b90601adfc9732893dcffe256514a9":[3,0,1,0,168,64],
-"d7/de5/classpocketmine_1_1block_1_1_nether_reactor.html#ab731ef1ac99496287ef09c72ded1dfe4":[2,0,0,0,166,55],
-"d7/de5/classpocketmine_1_1block_1_1_nether_reactor.html#ab731ef1ac99496287ef09c72ded1dfe4":[3,0,1,0,168,55],
-"d7/de5/classpocketmine_1_1block_1_1_nether_reactor.html#ab92353cf0aa5c05ad26535f98a2b1dca":[2,0,0,0,166,26],
-"d7/de5/classpocketmine_1_1block_1_1_nether_reactor.html#ab92353cf0aa5c05ad26535f98a2b1dca":[3,0,1,0,168,26],
-"d7/de5/classpocketmine_1_1block_1_1_nether_reactor.html#aba71bdae8759a0f2dc0bb44aeafc96e4":[2,0,0,0,166,12]
+"d7/de5/classpocketmine_1_1block_1_1_nether_reactor.html#ab731ef1ac99496287ef09c72ded1dfe4":[2,0,0,0,166,55]
 };

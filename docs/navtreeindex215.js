@@ -1,5 +1,10 @@
 var NAVTREEINDEX215 =
 {
+"dd/db0/classpocketmine_1_1network_1_1_network_session_manager.html#afa1b6a4c0bba82a0dbf8c2d7790ed327":[3,0,1,16,10,0],
+"dd/db1/_title_command_8php_source.html":[4,0,1,1,0,37],
+"dd/db2/_int_game_rule_8php_source.html":[4,0,2,0,1,0,1,86],
+"dd/db5/_global_item_data_handlers_8php_source.html":[4,0,1,25,1,0,10],
+"dd/db5/_vanilla_armor_materials_inputs_8php_source.html":[4,0,1,10,130],
 "dd/db5/classpocketmine_1_1utils_1_1_text_format.html":[2,0,0,12,25],
 "dd/db5/classpocketmine_1_1utils_1_1_text_format.html":[3,0,1,28,25],
 "dd/db5/classpocketmine_1_1utils_1_1_text_format.html#a0a9a6732892c4d70370d2ed0c5e48b29":[2,0,0,12,25,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX215 =
 "dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html#a8e97e9296238bf8794a2d2f8e94e8a93":[3,0,1,12,75,52],
 "dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html#a95cfab40de7390593990a239f8e4af73":[2,0,0,5,74,13],
 "dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html#a95cfab40de7390593990a239f8e4af73":[3,0,1,12,75,13],
-"dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html#a9866a7ab362cec28252d67f6382a4ad4":[2,0,0,5,74,34],
-"dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html#a9866a7ab362cec28252d67f6382a4ad4":[3,0,1,12,75,34],
-"dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[2,0,0,5,74,4],
-"dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html#a9b5b8368eb3d8389cb9ad26d09dd7a8a":[3,0,1,12,75,4],
-"dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html#a9dd9484fe3ab1afcbd2627860e01973a":[2,0,0,5,74,48],
-"dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html#a9dd9484fe3ab1afcbd2627860e01973a":[3,0,1,12,75,48]
+"dd/dc0/classpocketmine_1_1item_1_1_milk_bucket.html#a9866a7ab362cec28252d67f6382a4ad4":[2,0,0,5,74,34]
 };

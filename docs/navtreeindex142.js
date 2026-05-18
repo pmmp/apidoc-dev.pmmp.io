@@ -1,5 +1,9 @@
 var NAVTREEINDEX142 =
 {
+"d8/dfa/classpocketmine_1_1event_1_1block_1_1_campfire_cook_event.html":[2,0,0,3,0,17],
+"d8/dfa/classpocketmine_1_1event_1_1block_1_1_campfire_cook_event.html":[3,0,1,9,0,17],
+"d8/dfa/classpocketmine_1_1event_1_1block_1_1_campfire_cook_event.html#a3d979a673428c9ae66e1039bf796e945":[2,0,0,3,0,17,0],
+"d8/dfa/classpocketmine_1_1event_1_1block_1_1_campfire_cook_event.html#a3d979a673428c9ae66e1039bf796e945":[3,0,1,9,0,17,0],
 "d8/dfa/classpocketmine_1_1event_1_1block_1_1_campfire_cook_event.html#a90efcab0d539a5cb5b17968dfa164017":[2,0,0,3,0,17,2],
 "d8/dfa/classpocketmine_1_1event_1_1block_1_1_campfire_cook_event.html#a90efcab0d539a5cb5b17968dfa164017":[3,0,1,9,0,17,2],
 "d8/dfa/classpocketmine_1_1event_1_1block_1_1_campfire_cook_event.html#a9720c24a4971d7d2b9838e567ce7ec91":[2,0,0,3,0,17,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX142 =
 "d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#a29de0ee0759d77d0295937cbd76c8db5":[3,0,1,0,71,8],
 "d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[2,0,0,0,69,25],
 "d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#a2cbe9ba6733a72db2c2630aaab7cefe9":[3,0,1,0,71,25],
-"d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#a30a070aa7befb02f9fff5cbf2693c01e":[2,0,0,0,69,9],
-"d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#a30a070aa7befb02f9fff5cbf2693c01e":[3,0,1,0,71,9],
-"d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#a36afea9f0214193963f75577e8d48c26":[2,0,0,0,69,59],
-"d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#a36afea9f0214193963f75577e8d48c26":[3,0,1,0,71,59],
-"d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#a3bffed15a0b8de5f9df11e6f4b407163":[2,0,0,0,69,10]
+"d9/d09/classpocketmine_1_1block_1_1_copper_bars.html#a30a070aa7befb02f9fff5cbf2693c01e":[2,0,0,0,69,9]
 };

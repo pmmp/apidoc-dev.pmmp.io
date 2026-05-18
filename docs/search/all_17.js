@@ -37,6 +37,7 @@ var searchData=
   ['versionstring_34',['VersionString',['../df/d22/classpocketmine_1_1utils_1_1_version_string.html',1,'pocketmine::utils']]],
   ['villager_35',['Villager',['../d9/d6b/classpocketmine_1_1entity_1_1_villager.html',1,'pocketmine::entity']]],
   ['vine_36',['Vine',['../d1/de5/classpocketmine_1_1block_1_1_vine.html',1,'pocketmine::block']]],
-  ['voxelraytrace_37',['VoxelRayTrace',['../d4/d39/classpocketmine_1_1math_1_1_voxel_ray_trace.html',1,'pocketmine::math']]],
-  ['voxelshapespacket_38',['VoxelShapesPacket',['../d2/d85/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_voxel_shapes_packet.html',1,'pocketmine::network::mcpe::protocol']]]
+  ['voidgenerator_37',['VoidGenerator',['../d4/d9a/classpocketmine_1_1world_1_1generator_1_1_void_generator.html',1,'pocketmine::world::generator']]],
+  ['voxelraytrace_38',['VoxelRayTrace',['../d4/d39/classpocketmine_1_1math_1_1_voxel_ray_trace.html',1,'pocketmine::math']]],
+  ['voxelshapespacket_39',['VoxelShapesPacket',['../d2/d85/classpocketmine_1_1network_1_1mcpe_1_1protocol_1_1_voxel_shapes_packet.html',1,'pocketmine::network::mcpe::protocol']]]
 ];
