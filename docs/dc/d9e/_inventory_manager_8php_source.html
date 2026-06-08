@@ -34,7 +34,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.43.2 git-a137a986d01d9af23452b2e741699a770c7ae112</span>
+   <div id="projectname">PocketMine-MP<span id="projectnumber">&#160;5.43.3 git-4e2b0ce88fd28aa124b51efe324b94ceebb999fe</span>
    </div>
   </td>
  </tr>
@@ -613,7 +613,7 @@ $(function(){initNavTree('dc/d9e/_inventory_manager_8php_source.html','../../');
 <div class="line"><a id="l00561" name="l00561"></a><span class="lineno">  561</span>            $this-&gt;session-&gt;sendDataPacket(InventorySlotPacket::create(</div>
 <div class="line"><a id="l00562" name="l00562"></a><span class="lineno">  562</span>                $windowId,</div>
 <div class="line"><a id="l00563" name="l00563"></a><span class="lineno">  563</span>                $netSlot,</div>
-<div class="line"><a id="l00564" name="l00564"></a><span class="lineno">  564</span>                <span class="keyword">new</span> FullContainerName($this-&gt;lastWindowNetworkId),</div>
+<div class="line"><a id="l00564" name="l00564"></a><span class="lineno">  564</span>                <span class="keyword">null</span>,</div>
 <div class="line"><a id="l00565" name="l00565"></a><span class="lineno">  565</span>                <span class="keyword">null</span>,</div>
 <div class="line"><a id="l00566" name="l00566"></a><span class="lineno">  566</span>                <span class="keyword">new</span> ItemStackWrapper(0, ItemStack::null())</div>
 <div class="line"><a id="l00567" name="l00567"></a><span class="lineno">  567</span>            ));</div>
@@ -622,7 +622,7 @@ $(function(){initNavTree('dc/d9e/_inventory_manager_8php_source.html','../../');
 <div class="line"><a id="l00570" name="l00570"></a><span class="lineno">  570</span>        $this-&gt;session-&gt;sendDataPacket(InventorySlotPacket::create(</div>
 <div class="line"><a id="l00571" name="l00571"></a><span class="lineno">  571</span>            $windowId,</div>
 <div class="line"><a id="l00572" name="l00572"></a><span class="lineno">  572</span>            $netSlot,</div>
-<div class="line"><a id="l00573" name="l00573"></a><span class="lineno">  573</span>            <span class="keyword">new</span> FullContainerName($this-&gt;lastWindowNetworkId),</div>
+<div class="line"><a id="l00573" name="l00573"></a><span class="lineno">  573</span>            <span class="keyword">null</span>,</div>
 <div class="line"><a id="l00574" name="l00574"></a><span class="lineno">  574</span>            <span class="keyword">null</span>,</div>
 <div class="line"><a id="l00575" name="l00575"></a><span class="lineno">  575</span>            $itemStackWrapper</div>
 <div class="line"><a id="l00576" name="l00576"></a><span class="lineno">  576</span>        ));</div>
@@ -640,11 +640,11 @@ $(function(){initNavTree('dc/d9e/_inventory_manager_8php_source.html','../../');
 <div class="line"><a id="l00591" name="l00591"></a><span class="lineno">  591</span>        $this-&gt;session-&gt;sendDataPacket(InventoryContentPacket::create(</div>
 <div class="line"><a id="l00592" name="l00592"></a><span class="lineno">  592</span>            $windowId,</div>
 <div class="line"><a id="l00593" name="l00593"></a><span class="lineno">  593</span>            array_fill_keys(array_keys($itemStackWrappers), new ItemStackWrapper(0, ItemStack::null())),</div>
-<div class="line"><a id="l00594" name="l00594"></a><span class="lineno">  594</span>            new FullContainerName($this-&gt;lastWindowNetworkId),</div>
+<div class="line"><a id="l00594" name="l00594"></a><span class="lineno">  594</span>            new FullContainerName(0, null),</div>
 <div class="line"><a id="l00595" name="l00595"></a><span class="lineno">  595</span>            new ItemStackWrapper(0, ItemStack::null())</div>
 <div class="line"><a id="l00596" name="l00596"></a><span class="lineno">  596</span>        ));</div>
 <div class="line"><a id="l00597" name="l00597"></a><span class="lineno">  597</span>        <span class="comment">//now send the real contents</span></div>
-<div class="line"><a id="l00598" name="l00598"></a><span class="lineno">  598</span>        $this-&gt;session-&gt;sendDataPacket(InventoryContentPacket::create($windowId, $itemStackWrappers, <span class="keyword">new</span> FullContainerName($this-&gt;lastWindowNetworkId), <span class="keyword">new</span> ItemStackWrapper(0, ItemStack::null())));</div>
+<div class="line"><a id="l00598" name="l00598"></a><span class="lineno">  598</span>        $this-&gt;session-&gt;sendDataPacket(InventoryContentPacket::create($windowId, $itemStackWrappers, <span class="keyword">new</span> FullContainerName(0, <span class="keyword">null</span>), <span class="keyword">new</span> ItemStackWrapper(0, ItemStack::null())));</div>
 <div class="line"><a id="l00599" name="l00599"></a><span class="lineno">  599</span>    }</div>
 <div class="line"><a id="l00600" name="l00600"></a><span class="lineno">  600</span> </div>
 <div class="line"><a id="l00601" name="l00601"></a><span class="lineno">  601</span>    <span class="keyword">private</span> <span class="keyword">function</span> syncSlot(InventoryWindow $window, <span class="keywordtype">int</span> $slot, ItemStack $itemStack) : void{</div>
